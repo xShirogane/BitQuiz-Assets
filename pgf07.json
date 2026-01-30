@@ -1,0 +1,197 @@
+[
+  {
+    "id": 1,
+    "text": "Zakładasz agencję reklamową i chcesz stworzyć strategię przekazu reklamowego dla swojej firmy. Co powinieneś uwzględnić, aby twoja strategia była efektywna?",
+    "answers": [
+      "Najnowsze trendy w branży reklamowej",
+      "Twoje ulubione kanały komunikacji",
+      "Koszt kampanii reklamowej",
+      "Cele biznesowe, grupę docelową, kanały komunikacji i metryki do oceny skuteczności"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.7"
+  },
+  {
+    "id": 2,
+    "text": "Wybierz technikę grafiki komputerowej, która jest najbardziej odpowiednia do tworzenia realistycznych obrazów 3D.",
+    "answers": [
+      "Rysowanie wektorowe",
+      "Modelowanie 3D",
+      "Rysowanie pikselowe",
+      "Fotomanipulacja"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.7"
+  },
+  {
+    "id": 3,
+    "text": "Pracujesz nad zdjęciem produktu do kampanii reklamowej i chcesz dodać tekst do zdjęcia w Adobe Photoshop. Które narzędzie powinieneś użyć?",
+    "answers": [
+      "Narzędzie 'Wybierz'",
+      "Narzędzie 'Pędzel'",
+      "Narzędzie 'Rysunek'",
+      "Narzędzie 'Tekst'"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.7"
+  },
+  {
+    "id": 4,
+    "text": "Rozważasz wykorzystanie filmu reklamowego jako elementu przekazu dla swojego klienta. Który z poniższych formatów plików będzie najbardziej odpowiedni do publikacji filmu w mediach cyfrowych?",
+    "answers": [
+      ".avi",
+      ".mp4",
+      ".docx",
+      ".wav"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.7"
+  },
+  {
+    "id": 5,
+    "text": "Tworzysz tekst reklamowy dla nowego produktu technologicznego. Jaki styl pisania powinieneś zastosować?",
+    "answers": [
+      "Nieformalny i rozmowny, używając slangu i żargonu młodzieżowego",
+      "Formalny i techniczny, używając wielu terminów branżowych",
+      "Prosty i zrozumiały, unikając niepotrzebnego żargonu technicznego",
+      "Poetycki i metaforyczny, używając wielu figur stylistycznych"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.7"
+  },
+  {
+    "id": 6,
+    "text": "Zakładasz, że tworzysz reklamę dla nowego modelu samochodu sportowego. Który styl fotograficzny najprawdopodobniej wybierzesz, aby najlepiej oddać charakter produktu?",
+    "answers": [
+      "Fotografia krajobrazowa",
+      "Fotografia dynamiczna",
+      "Fotografia portretowa",
+      "Fotografia dokumentalna"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.7"
+  },
+  {
+    "id": 7,
+    "text": "Które z poniższych stwierdzeń najlepiej opisuje zalety reklamy cyfrowej?",
+    "answers": [
+      "Reklama cyfrowa jest tańsza niż tradycyjna.",
+      "Reklama cyfrowa pozwala na łatwe śledzenie wyników.",
+      "Reklama cyfrowa pozwala na skierowanie przekazu do konkretnych grup docelowych.",
+      "Wszystkie powyższe"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.7"
+  },
+  {
+    "id": 8,
+    "text": "Co jest najważniejsze przy pisaniu tekstu do ulotki reklamowej?",
+    "answers": [
+      "Użycie jak największej ilości terminów technicznych",
+      "Zapewnienie, że tekst jest długi i szczegółowy",
+      "Używanie skomplikowanego języka, aby pokazać ekspertyzę firmy",
+      "Przekazanie kluczowych informacji o produkcie lub usłudze w sposób jasny i przystępny"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.7"
+  },
+  {
+    "id": 9,
+    "text": "Projektujesz plakat reklamowy dla nowego produktu. Wybierz zestaw kolorów, który najbardziej skupi uwagę odbiorców.",
+    "answers": [
+      "Czerwony, zielony i niebieski",
+      "Czarny, biały i szary",
+      "Żółty, czerwony i czarny",
+      "Fioletowy, pomarańczowy i brązowy"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.7"
+  },
+  {
+    "id": 10,
+    "text": "Jaki rodzaj czcionki zostanie użyty, jeśli w CSS ustawisz: body { font-family: 'Verdana', sans-serif; }?",
+    "answers": [
+      "Szeryfowa",
+      "Monospace",
+      "Bezszeryfowa",
+      "Cursive"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.7"
+  },
+  {
+    "id": 11,
+    "text": "Przygotowujesz animowaną reklamę produktu. Które oprogramowanie multimedialne byłoby najbardziej odpowiednie do tego zadania?",
+    "answers": [
+      "Microsoft Word",
+      "Adobe Photoshop",
+      "Adobe After Effects",
+      "Adobe Illustrator"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.7"
+  },
+  {
+    "id": 12,
+    "text": "Zidentyfikuj rodzaj normy na podstawie poniższego oznaczenia: ISO 9001:2015.",
+    "answers": [
+      "Norma regionalna",
+      "Norma krajowa",
+      "Norma europejska",
+      "Norma międzynarodowa"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.7"
+  },
+  {
+    "id": 13,
+    "text": "Jaki jest główny cel stworzenia atrakcyjnego przekazu reklamowego?",
+    "answers": [
+      "Zwiększenie sprzedaży produktu lub usługi",
+      "Zmniejszenie zainteresowania produktem lub usługą",
+      "Zwiększenie liczby negatywnych opinii o produkcie lub usłudze",
+      "Zmniejszenie sprzedaży produktu lub usługi"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.7"
+  },
+  {
+    "id": 14,
+    "text": "Które z poniższych narzędzi jest najczęściej wykorzystywane do tworzenia i wysyłki newsletterów e-mail?",
+    "answers": [
+      "Google Docs",
+      "Adobe Photoshop",
+      "Microsoft Word",
+      "Mailchimp"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.7"
+  },
+  {
+    "id": 15,
+    "text": "Przygotowujesz grafikę do druku. Który z poniższych formatów zapewni najlepszą jakość wydruku?",
+    "answers": [
+      "GIF",
+      "TIFF",
+      "JPEG",
+      "PNG"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.7"
+  }
+]
