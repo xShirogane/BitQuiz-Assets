@@ -1,0 +1,4912 @@
+[
+  {
+    "id": 1,
+    "text": "Przewód okrągły w powłoce zewnętrznej z polwinitu zawierający trzy żyły w postaci drutu okrągłego, każdy w izolacji z polwinitu ma oznaczenie literowe",
+    "answers": [
+      "YDY",
+      "DY",
+      "YLY",
+      "YLgY"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 2,
+    "text": "Element przedstawiony na ilustracji jest podzespołem, który zabezpiecza układ elektroniczny przed skutkami",
+    "answers": [
+      "przepięć w odwodzie elektrycznym.",
+      "zwarć w obwodzie elektrycznym.",
+      "zaniku napięcia zasilającego.",
+      "przechłodzenia urządzenia elektronicznego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_element8.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 3,
+    "text": "Na ilustracji przedstawiony symbol graficzny tranzystora polowego z izolowaną bramką o kanale",
+    "answers": [
+      "wzbogacanym typu P",
+      "zubożanym typu P",
+      "zubożanym typu N",
+      "wzbogacanym typu N"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_symbol6.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 4,
+    "text": "Przedstawiony na schemacie układ, dzięki zastosowanemu w nim elementowi R2, można wykorzystać jako wskaźnik przekroczenia",
+    "answers": [
+      "temperatury.",
+      "naprężenia.",
+      "ciśnienia.",
+      "wilgotności."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_uklad12.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 5,
+    "text": "Na której ilustracji przedstawiony jest kołek montażowy dedykowany do płyt gipsowo-kartonowych?",
+    "answers": [
+      "Na ilustracji IV.",
+      "Na ilustracji II.",
+      "Na ilustracji III.",
+      "Na ilustracji I."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_kolki.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 6,
+    "text": "Standardem kodowania obrazu przesyłanych programów telewizyjnych dla urządzeń przenośnych jest",
+    "answers": [
+      "DVB-H",
+      "DVB-T",
+      "DVB-S",
+      "DVB-C"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 7,
+    "text": "Rezystancję RZ zastępczą układu rezystorów należy wyznaczyć ze wzoru",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_uklad10.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 8,
+    "text": "Jednostką mocy pozornej jest",
+    "answers": [
+      "W",
+      "V",
+      "var",
+      "VA"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 9,
+    "text": "Po wykonaniu montażu układu zasilacza przedstawionego na ilustracji sporządzono protokół. Na postawie odczytu oznaczeń elementów z tabeli można stwierdzić, że niezgodnie ze schematem dobrano",
+    "answers": [
+      "diodę D1 oraz kondensator C2",
+      "układ scalony US oraz kondensator C2",
+      "diodę D4 oraz kondensator C2",
+      "diodę D4 oraz kondensator C4"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_uklad13.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 10,
+    "text": "Który element instalacji antenowej przedstawiono na ilustracji?",
+    "answers": [
+      "Transformator separujący.",
+      "Tłumik.",
+      "Wzmacniacz.",
+      "Symetryzator."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_element7.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 11,
+    "text": "W celu wyczyszczenia soczewki lasera w napędzie CD należy użyć",
+    "answers": [
+      "izopropanolu.",
+      "denaturatu.",
+      "rozpuszczalnika nitro.",
+      "benzyny ekstrakcyjnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 12,
+    "text": "Którego narzędzia należy użyć do zdemontowania gniazda wskazanego strzałką na ilustracji?",
+    "answers": [
+      "Kombinerek.",
+      "Wkrętaka.",
+      "Rozlutownicy.",
+      "Młotka."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_gniazda.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 13,
+    "text": "Na ilustracji przedstawiono schemat regulowanego stabilizatora napięcia LM317. Jaka powinna być wartość rezystora R1, aby zakres regulacji napięcia wyjściowego układu wynosił od 1,25 V do 15 V?",
+    "answers": [
+      "470 Ω",
+      "100 Ω",
+      "330 Ω",
+      "200 Ω"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_schemat7.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 14,
+    "text": "Narzędzie przedstawione na ilustracji służy do",
+    "answers": [
+      "ściągania płaszcza i powłok światłowodów.",
+      "cięcia przewodów miedzianych.",
+      "cięcia światłowodów.",
+      "ściągania izolacji przewodów miedzianych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_narzedzie5.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 15,
+    "text": "Ile wynosi wartość skuteczna napięcia przebiegu przedstawionego na wykresie?",
+    "answers": [
+      "1 V",
+      "0,707 V",
+      "2 V",
+      "1,414 V"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_wykres.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 16,
+    "text": "Na której ilustracji przedstawiono symbol graficzny filtru dolnoprzepustowego?",
+    "answers": [
+      "Na ilustracji 3.",
+      "Na ilustracji 4.",
+      "Na ilustracji 1.",
+      "Na ilustracji 2."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_symbole3.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 17,
+    "text": "Na której ilustracji przedstawiony jest wtyk typu mini-USB?",
+    "answers": [
+      "Na ilustracji 3.",
+      "Na ilustracji 1.",
+      "Na ilustracji 2.",
+      "Na ilustracji 4."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_wtyki3.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 18,
+    "text": "Symbole umieszczone na obudowie przedstawionego na ilustracji akumulatora oznaczają, że akumulator",
+    "answers": [
+      "nie zawiera ołowiu i nie podlega recyklingowi.",
+      "nie zawiera ołowiu i podlega recyklingowi.",
+      "zawiera ołów i podlega recyklingowi.",
+      "zawiera ołów i nie podlega recyklingowi."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_akumulator.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 19,
+    "text": "Które z przedstawionych oznaczeń określa produkty zawierające aluminium podlegające recyklingowi?",
+    "answers": [
+      "Oznaczenie II.",
+      "Oznaczenie I.",
+      "Oznaczenie III.",
+      "Oznaczenie IV."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_oznaczenia.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 20,
+    "text": "Który numer ma wyprowadzenie układu scalonego zaznaczone znakiem X na ilustracji?",
+    "answers": [
+      "4",
+      "5",
+      "1",
+      "8"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_uklad11.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 21,
+    "text": "W systemach telewizyjnych stosuje się kable o impedancji falowej",
+    "answers": [
+      "50 Ω",
+      "100 Ω",
+      "120 Ω",
+      "75 Ω"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 22,
+    "text": "W instalacji alarmowej centrala przy nienaruszonej obudowie wykrywa sabotaż na linii podłączonej do czujki ruchu i podłączonej zgodnie ze standardem 2EOL/NC. Przyczyną usterki może być uszkodzony",
+    "answers": [
+      "rezystor parametryzujący.",
+      "zasilacz.",
+      "detektor ruchu.",
+      "przewód zasilający."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 23,
+    "text": "Która jest prawidłowa kolejność czynności wykonywanych podczas montażu przedstawionych na ilustracji tranzystora i radiatora do płytki PCB?",
+    "answers": [
+      "Przykręcenie tranzystora do radiatora - lutowanie radiatora do płytki PCB - lutowanie tranzystora do płytki PCB.",
+      "Lutowanie tranzystora do płytki PCB - lutowanie radiatora do płytki PCB - przykręcenie tranzystora do radiatora.",
+      "Lutowanie radiatora do płytki PCB - lutowanie tranzystora do płytki PCB - przykręcenie tranzystora do radiatora.",
+      "Lutowanie tranzystora do płytki PCB - przykręcenie tranzystora do radiatora - lutowanie radiatora do płytki PCB."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_elementy4.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 24,
+    "text": "Którego narzędzia należy użyć do przykręcenia przedstawionego na ilustracji radiatora?",
+    "answers": [
+      "Klucza imbusowego.",
+      "Wkrętaka płaskigo.",
+      "Nożyc ręcznych.",
+      "Szczypiec bocznych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_radiator.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 25,
+    "text": "Po włączeniu laboratoryjnego zasilacza regulowanego stwierdzono, że zasilacz nie działa oraz wskaźnik pracy urządzenia (dioda LED) nie świeci się. Sprawdzono stan gniazda zasilającego, do którego podłączono zasilacz i nie stwierdzono usterki w tym gnieździe. Lokalizację uszkodzeń w zasilaczu należy rozpocząć od sprawdzenia",
+    "answers": [
+      "diody elektroluminescencyjnej.",
+      "mostka prostowniczego.",
+      "elementów biernych.",
+      "bezpiecznika aparatowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 26,
+    "text": "Na podstawie przedstawionego schematu ideowego wykonano projekt płytki drukowanej układu. Niestety, konstruktor płytki na etapie jej projektowania popełnił błąd i zamienił ze sobą oznaczenia zacisków",
+    "answers": [
+      "WY, MASA",
+      "WE, MASA",
+      "+VCC, -VCC",
+      "WE, WY"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_schemat8.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 27,
+    "text": "Lut przedstawiony na ilustracji",
+    "answers": [
+      "jest niesymetryczny.",
+      "zawiera za mało lutowia.",
+      "jest prawidłowy.",
+      "zawiera za dużo lutowia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_lut.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 28,
+    "text": "Przedstawiony na ilustracji znak informuje o",
+    "answers": [
+      "zakazie używania rękawic roboczych.",
+      "miejscu utylizacji rękawic roboczych.",
+      "miejscu składowania rękawic roboczych.",
+      "nakazie używania rękawic roboczych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_znak3.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 29,
+    "text": "W tabeli wymieniono dane techniczne",
+    "answers": [
+      "kamery CCTV.",
+      "odbiornika telewizyjnego.",
+      "dekodera DVB-T.",
+      "czujki PIR."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_tabela3.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 30,
+    "text": "Jaka jest prawidłowa kolejność wykonania czynności konserwacyjnych instalacji automatyki przemysłowej?",
+    "answers": [
+      "Sprawdzenie przewodów ciśnieniowych, wykonanie pomiarów elektrycznych instalacji, zapoznanie się z dokumentacją techniczną instalacji, dokręcenie styków zaciskowych.",
+      "Dokręcenie styków zaciskowych, sprawdzenie przewodów ciśnieniowych, wykonanie pomiarów elektrycznych instalacji, zapoznanie się z dokumentacją techniczną instalacji.",
+      "Zapoznanie się z dokumentacją techniczną instalacji, dokręcenie styków zaciskowych, wykonanie pomiarów elektrycznych instalacji, sprawdzenie przewodów ciśnieniowych.",
+      "Wykonanie pomiarów elektrycznych instalacji, sprawdzenie przewodów ciśnieniowych, zapoznanie się z dokumentacją techniczną instalacji, dokręcenie styków zaciskowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 31,
+    "text": "Które narzędzie należy zastosować w celu precyzyjnego wyznaczania poziomu trasy przewodów wzdłuż ściany budynku?",
+    "answers": [
+      "Narzędzie I.",
+      "Narzędzie II.",
+      "Narzędzie IV.",
+      "Narzędzie III."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_narzedzia5.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 32,
+    "text": "Element przedstawiony na ilustracji to kondensator",
+    "answers": [
+      "ceramiczny.",
+      "tantalowy.",
+      "powietrzny.",
+      "elektrolityczny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_element9.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 33,
+    "text": "O jakim zagrożeniu informuje przedstawiony znak, umieszczany na drzwiach wejściowych do akumulatorni?",
+    "answers": [
+      "O niebezpieczeństwie wybuchu.",
+      "O występowaniu gazów trujących.",
+      "O występowaniu materiałów żrących.",
+      "O niebezpieczeństwie napromieniowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_znak4.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 34,
+    "text": "Przedstawiony na ilustracji przerzutnik JK ma wejście zegarowe wyzwalane",
+    "answers": [
+      "zboczem opadającym.",
+      "poziomem niskim.",
+      "poziomem wysokim.",
+      "zboczem narastającym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_przerzutnik.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 35,
+    "text": "Do wykonania otworu pod kołek rozporowy w ścianie betonowej niezbędne jest zastosowanie",
+    "answers": [
+      "wiertarki udarowej.",
+      "wkrętarki.",
+      "młota pneumatycznego.",
+      "młotka."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 36,
+    "text": "Która informacja o parametrze rezystora zawarta jest w kolorowym pasku wskazanym strzałką na ilustracji?",
+    "answers": [
+      "Pierwsza cyfra znacząca wartości rezystora.",
+      "Tolerancja w procentach.",
+      "Druga cyfra znacząca wartości rezystora.",
+      "Liczba określająca wartość mnożnika."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_rezystor.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 37,
+    "text": "Urządzenie przedstawione na ilustracji służy do wykonywania połączeń",
+    "answers": [
+      "klejonych.",
+      "lutowanych.",
+      "nitowanych.",
+      "zgrzewanych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_urzadzenie3.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 38,
+    "text": "Urządzenie umożliwiające podłączenie większej liczby czujek do centrali alarmowej nosi nazwę",
+    "answers": [
+      "modułu GSM.",
+      "ekspandera wejść.",
+      "ekspandera wyjść.",
+      "manipulatora."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 39,
+    "text": "W celu montażu do płytki PCB przedstawionego na ilustracji przekaźnika należy wykorzystać",
+    "answers": [
+      "lutownicę.",
+      "szczypce.",
+      "wkrętak.",
+      "młotek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_przekaznik.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 40,
+    "text": "Element anteny zaznaczony na ilustracji strzałką to",
+    "answers": [
+      "symetryzator.",
+      "dipol.",
+      "direktor.",
+      "reflektor."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_antena2.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 41,
+    "text": "Płytki drukowane oznacza się angielskim skrótem",
+    "answers": [
+      "RoHS",
+      "SMT",
+      "PCB",
+      "THT"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 42,
+    "text": "Tranzystor pokazany na schemacie pracuje w układzie",
+    "answers": [
+      "wspólnego emitera.",
+      "wspólnej bazy.",
+      "inwertera.",
+      "wtórnika napięcia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_schemat38.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 43,
+    "text": "Na rysunku prezentującym technologię montażu elementów SMD numerem 6 oznaczono",
+    "answers": [
+      "ścieżki.",
+      "klej.",
+      "laminat.",
+      "cynę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_rysunek12.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 44,
+    "text": "Którą funkcję pełnią filtry w urządzeniu pokazanym na schemacie?",
+    "answers": [
+      "Przetwornika napięcia.",
+      "Stabilizatora napięcia.",
+      "Przedwzmacniacza widma sygnału.",
+      "Rozdzielenia widma sygnału."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_schemat39.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 45,
+    "text": "Na rysunku przedstawiono połączenie",
+    "answers": [
+      "zgrzewane.",
+      "lutowane.",
+      "klejone.",
+      "śrubowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_polaczenie10.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 46,
+    "text": "Do czego służą przedstawione na rysunku elementy?",
+    "answers": [
+      "Do spinania dokumentów.",
+      "Do numerowania pakietów.",
+      "Jako nakładki informacyjne na rezystory.",
+      "Do oznakowania przewodów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_elementy7.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 47,
+    "text": "Jaka jest wartość okresu przebiegu pokazanego na rysunku?",
+    "answers": [
+      "2 ms",
+      "1 ms",
+      "4 ms",
+      "3 ms"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_oscylogram6.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 48,
+    "text": "Na rysunkach przedstawiono klucz",
+    "answers": [
+      "nasadowy.",
+      "płaski.",
+      "imbusowy.",
+      "oczkowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_klucz.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 49,
+    "text": "Na rysunku przedstawiono",
+    "answers": [
+      "mostek prostowniczy.",
+      "generator sinusoidalny.",
+      "mieszacz sygnałów.",
+      "przełącznik napięcia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_rysunek9.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 50,
+    "text": "Które urządzenie pokazano na rysunku?",
+    "answers": [
+      "Filtr aktywny.",
+      "Generator obrazu.",
+      "Rozdzielacz sygnału.",
+      "Zasilacz stabilizowany."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_urzadzenie12.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 51,
+    "text": "Fragment którego narzędzia przedstawiono na rysunku?",
+    "answers": [
+      "Dozownika kleju z grzałką.",
+      "Odsysacza do cyny z grzałką.",
+      "Lutownicy na gorące powietrze.",
+      "Lutownicy transformatorowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_narzedzie13.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 52,
+    "text": "Który element oznacza się symbolem graficznym pokazanym na rysunku?",
+    "answers": [
+      "Diodę.",
+      "Tyrystor.",
+      "Tranzystor.",
+      "Diak."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_symbol15.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 53,
+    "text": "Na rysunku przedstawiono wybrane dane techniczne m.in. elementu elektronicznego oznaczanego symbolem BD139. Jaki to element?",
+    "answers": [
+      "Rezystor.",
+      "Dioda.",
+      "Tranzystor.",
+      "Kondensator."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_tabela6.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 54,
+    "text": "Z informacji zawartej we fragmencie instrukcji lampy z czujnikiem ruchu wynika, że próg aktywności (zadziałania) lampy po zapadnięciu zmroku można regulować przy pomocy",
+    "answers": [
+      "pokręteł A i B",
+      "pokrętła C",
+      "pokręteł B i C",
+      "pokrętła B"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_instrukcja4.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 55,
+    "text": "Na rysunku przedstawiony jest układ scalony przygotowany do montażu w technologii",
+    "answers": [
+      "THT",
+      "SMA",
+      "SMT",
+      "PCB"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_uklad17.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 56,
+    "text": "Który element przedstawiono na rysunku?",
+    "answers": [
+      "Kondensator.",
+      "Diodę.",
+      "Tranzystor.",
+      "Transoptor."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_element14.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 57,
+    "text": "Do przykręcenia przedstawionej na rysunku śruby należy użyć",
+    "answers": [
+      "klucza nasadowego.",
+      "wkrętaka krzyżowego.",
+      "klucza imbusowego.",
+      "wkrętaka płaskiego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_sruba3.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 58,
+    "text": "Jaka jest wartość napięcia wskazanego przez woltomierz, jeżeli zakres woltomierza jest ustawiony na 30 V?",
+    "answers": [
+      "180 V",
+      "18 V",
+      "180 mV",
+      "18 mV"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_woltomierz.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 59,
+    "text": "Jaką moc pobiera wzmacniacz o zasilaniu symetrycznym ± 40 V przy poborze prądu 1 A dla każdej linii?",
+    "answers": [
+      "160 W",
+      "40 W",
+      "80 W",
+      "120 W"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 60,
+    "text": "Jaką wartość wskazuje multimetr przedstawiony na rysunku?",
+    "answers": [
+      "6 000 mA",
+      "60,00 mV",
+      "600,0 mV",
+      "600,0 mA"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_multimetr2.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 61,
+    "text": "W celu odkręcenia widocznych na rysunku śrub mocujących należy użyć wkrętaka",
+    "answers": [
+      "typu torx.",
+      "płaskiego.",
+      "imbusowego.",
+      "krzyżakowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_sruby3.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 62,
+    "text": "Na którym zakresie należy wykonać z największą dokładnością pomiar napięcia stałego o wartości 24 V?",
+    "answers": [
+      "1000 V",
+      "2 V",
+      "200 V",
+      "20 V"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_multimetr3.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 63,
+    "text": "Jakiego rodzaju mocowanie przewodów w wiązkę jest przedstawione na rysunku?",
+    "answers": [
+      "Na nity.",
+      "Na opaski.",
+      "Na zaczepy.",
+      "Na wkręty."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_rysunek10.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 64,
+    "text": "Przedstawiony na rysunku wzmacniacz operacyjny pracuje w układzie wzmacniacza",
+    "answers": [
+      "sumującego.",
+      "nieodwracającego.",
+      "odwracającego.",
+      "różnicowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_wzmacniacz2.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 65,
+    "text": "Prąd o jakim w przybliżeniu natężeniu popłynie przez cewkę przekaźnika RM12N dla napięcia pracy 12 V?",
+    "answers": [
+      "0,5 A",
+      "0,02 A",
+      "2,8 A",
+      "5 A"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_tabela7.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 66,
+    "text": "Na rysunku pokazano",
+    "answers": [
+      "czujnik szczelinowy.",
+      "prowadnicę płytek PCB.",
+      "uchwyt do przewodów.",
+      "czytnik kart magnetycznych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_rysunek11.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 67,
+    "text": "Otwór jakiego kształtu należy wykonać dla zamocowania przedstawionej na rysunku oprawy diody LED?",
+    "answers": [
+      "Okrągłego.",
+      "Kwadratowego.",
+      "Owalnego.",
+      "Sześciokątnego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_oprawa.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 68,
+    "text": "Podczas montażu którego elementu elektronicznego należy zachować właściwą polaryzację?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_elementy6.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 69,
+    "text": "Na preparacie do mycia płytek znajduje się symbol przedstawiony na rysunku. Oznacza on substancję",
+    "answers": [
+      "żrącą.",
+      "toksyczną.",
+      "łatwopalną.",
+      "wybuchową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_symbol14.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 70,
+    "text": "Który element montażowy przedstawiono na rysunku?",
+    "answers": [
+      "Dystans.",
+      "Wspornik.",
+      "Ceownik.",
+      "Teownik."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_element15.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 71,
+    "text": "Na rysunku przedstawiono fragment układu wykonanego w technologii montażu",
+    "answers": [
+      "owijanego.",
+      "powierzchniowego.",
+      "przewlekanego.",
+      "mieszanego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_uklad16.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 72,
+    "text": "Który element przestawiono na rysunku?",
+    "answers": [
+      "Dławik.",
+      "Kondensator.",
+      "Diodę.",
+      "Rezystor."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_element16.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 73,
+    "text": "Jaka moc wydzieli się w diodzie Zenera C5V1 dla przepływającego przez nią prądu o wartości 100 mA?",
+    "answers": [
+      "5,1 W",
+      "51 mW",
+      "0,51 W",
+      "5,1 mW"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_schemat40.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 74,
+    "text": "Narzędzie przedstawione na rysunku to",
+    "answers": [
+      "nitownica.",
+      "zaciskarka.",
+      "szczypce.",
+      "nożyce."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_narzedzie14.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 75,
+    "text": "Na rysunku przestawiono fragment instrukcji głośnika BLUETOOTH. Jak sygnalizowany jest stan parowania urządzeń?",
+    "answers": [
+      "Dioda LED świeci światłem ciągłym na biało.",
+      "Dioda LED miga wolno na biało.",
+      "Dioda LED miga szybko na niebiesko.",
+      "Dioda LED miga wolno na niebiesko."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_instrukcja5.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 76,
+    "text": "Jakiego typu wtykiem jest zakończona pokazana na rysunku taśma?",
+    "answers": [
+      "IDC",
+      "DB9",
+      "SATA",
+      "HDMI"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_tasma.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 77,
+    "text": "Na rysunku przedstawiono gniazdo",
+    "answers": [
+      "typu F",
+      "typu A",
+      "typu BNC",
+      "typu USB"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_gniazdo2.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 78,
+    "text": "Które urządzenie jest widoczne na rysunku przestawiającym element linii do produkcji obwodów drukowanych?",
+    "answers": [
+      "Automat nakładania elementów.",
+      "Komorowy piec lutowniczy.",
+      "System czyszczenia płyt.",
+      "Tester pakietów elektronicznych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_urzadzenie13.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 79,
+    "text": "Które narzędzie stosuje się do zdemontowania bez uszkodzenia płytki PCB ze wsporników przedstawionych na rysunku?",
+    "answers": [
+      "Szczypce boczne.",
+      "Szczypce płaskie.",
+      "Klucz oczkowy.",
+      "Wkrętak płaski."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_wsporniki.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 80,
+    "text": "Przyrząd posiada wyświetlacz 3 cyfrowy, czyli maksymalne wskazanie wynosi 999. Z jaką rozdzielczością jest wykonywany pomiar na zakresie 100 mA?",
+    "answers": [
+      "1 mA",
+      "0,01 mA",
+      "0,1 mA",
+      "0,001 mA"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 81,
+    "text": "Jaka jest prawidłowa kolejność wlutowywania elementów elektronicznych na płytkę obwodu drukowanego przedstawionego na rysunku podczas montażu przewlekanego?",
+    "answers": [
+      "Rezystory, kondensatory ceramiczne, kondensatory elektrolityczne, układ scalony.",
+      "Rezystory, układ scalony, kondensatory ceramiczne, kondensatory elektrolityczne.",
+      "Układ scalony, kondensatory elektrolityczne, kondensatory ceramiczne, rezystory.",
+      "Kondensatory elektrolityczne, kondensatory ceramiczne, rezystory, układ scalony."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_obwod.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 82,
+    "text": "Który element elektroniczny wymaga zachowania odpowiedniej polaryzacji podczas montażu na płytce obwodu drukowanego?",
+    "answers": [
+      "Kondensator ceramiczny.",
+      "Stabilizator scalony.",
+      "Rezystor węglowy.",
+      "Bezpiecznik topikowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 83,
+    "text": "Jakiego koloru nie powinien być przewód fazowy w kablu doprowadzającym napięcie zasilające z sieci energetycznej do urządzenia elektronicznego?",
+    "answers": [
+      "Czarnego.",
+      "Brązowego.",
+      "Szarego.",
+      "Niebieskiego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 84,
+    "text": "Na schemacie ideowym urządzenia elektronicznego podano wartość rezystancji za pomocą oznaczenia k22. Jaka jest wartość rezystancji tego rezystora?",
+    "answers": [
+      "0,22 kΩ",
+      "22 kΩ",
+      "22 Ω",
+      "0,22 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 85,
+    "text": "Który z przedstawionych elementów elektronicznych jest przystosowany do montażu powierzchniowego?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_elementy8.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 86,
+    "text": "Na którym rysunku przedstawiono potencjometr z odczepem?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_potencjometry.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 87,
+    "text": "Którego narzędzia używa się do przycinania końcówek elementów elektronicznych?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_narzedzia11.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 88,
+    "text": "Który element elektroniczny przedstawiono na rysunku?",
+    "answers": [
+      "Kondensator ceramiczny.",
+      "Rezystor drutowy.",
+      "Rezystor węglowy.",
+      "Kondensator elektrolityczny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_element17.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 89,
+    "text": "Skrótem TTL określa się",
+    "answers": [
+      "rodzinę cyfrowych układów scalonych.",
+      "rodzaj złącza elektrycznego.",
+      "typ obudowy tranzystorów.",
+      "typ podstawki pod układy scalone."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 90,
+    "text": "Jaką wartość napięcia wskaże woltomierz w układzie pomiarowym przedstawionym na schemacie?",
+    "answers": [
+      "2 V",
+      "4 V",
+      "6 V",
+      "12 V"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_uklad20.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 91,
+    "text": "Przyrząd przedstawiony na rysunku służy do przytrzymywania",
+    "answers": [
+      "stopu lutowniczego podczas lutowania.",
+      "elementów elektronicznych podczas lutowania.",
+      "płytek drukowanych podczas lutowania.",
+      "szkła powiększającego podczas lutowania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_przyrzad.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 92,
+    "text": "Wkręty z łbem oznaczonym symbolem PH odkręca się wkrętakiem",
+    "answers": [
+      "płaskim.",
+      "gwiazdkowym.",
+      "czworokątnym.",
+      "krzyżowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 93,
+    "text": "Na którym zakresie pomiarowym należy wykonywać precyzyjny pomiar napięcia po stronie wtórnej transformatora, którego parametry podano w tabeli?",
+    "answers": [
+      "200 V DC",
+      "20 V DC",
+      "200 V AC",
+      "20 V AC"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_tabela8.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 94,
+    "text": "Podczas lutowania elementów elektronicznych topnika używa się w celu",
+    "answers": [
+      "chemicznego oczyszczenia powierzchni łączonych metali.",
+      "zwiększenia twardości spoiny lutowniczej.",
+      "obniżenia temperatury topnienia stopu lutowniczego.",
+      "zwiększenia przewodności elektrycznej spoiny lutowniczej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 95,
+    "text": "Do lutownicy transformatorowej należy używać grotów wykonanych z drutu",
+    "answers": [
+      "miedzianego.",
+      "aluminiowego.",
+      "wolframowego.",
+      "stalowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 96,
+    "text": "Kalafonia to rodzaj",
+    "answers": [
+      "topnika lutowniczego.",
+      "wywoływacza.",
+      "stopu lutowniczego.",
+      "rozpuszczalnika."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 97,
+    "text": "Przedstawione na rysunku narzędzie służy do",
+    "answers": [
+      "zaciskania tulejek na przewodach elektrycznych.",
+      "kształtowania wyprowadzeń elementów elektronicznych.",
+      "usuwania izolacji z przewodów elektrycznych.",
+      "przytrzymywania wlutowywanych elementów elektronicznych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_narzedzie15.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 98,
+    "text": "Mostek Graetza jest przykładem",
+    "answers": [
+      "stabilizatora.",
+      "generatora.",
+      "ogranicznika.",
+      "prostownika."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 99,
+    "text": "Za pomocą przedstawionych na rysunku narzędzi wykonuje się",
+    "answers": [
+      "trasowanie.",
+      "piłowanie.",
+      "przecinanie.",
+      "wyoblanie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_narzedzia12.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 100,
+    "text": "Na rysunku przedstawiono schemat ideowy",
+    "answers": [
+      "zasilacza.",
+      "wzmacniacza.",
+      "falownika.",
+      "generatora."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_schemat41.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 101,
+    "text": "Bezpiecznik topikowy jest podzespołem, który zabezpiecza przed skutkami",
+    "answers": [
+      "gromadzenia się ładunku elektrostatycznego.",
+      "przepięć w odwodzie elektrycznym.",
+      "zwarć w obwodzie elektrycznym.",
+      "zaniku napięcia zasilającego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 102,
+    "text": "Jaki rodzaj klucza umożliwia odkręcenie nakrętki przedstawionej na rysunku?",
+    "answers": [
+      "Trzpieniowy.",
+      "Hakowy.",
+      "Kołkowy.",
+      "Imbusowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_nakretka.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 103,
+    "text": "Którego środka używa się do czyszczenia płytek drukowanych po wlutowaniu elementów elektronicznych?",
+    "answers": [
+      "Benzyny.",
+      "Wody.",
+      "Alkoholu.",
+      "Kwasu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 104,
+    "text": "Na rysunku przedstawiono symbol graficzny",
+    "answers": [
+      "tyrystora.",
+      "warystora.",
+      "diody.",
+      "tranzystora."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_symbol16.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 105,
+    "text": "W instrukcji montażu urządzenia elektronicznego podano informację, że montowane w nim tranzystory powinny mieć obudowę typu TO220. Który z tranzystorów spełnia to wymaganie?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_tranzystory.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 106,
+    "text": "Oznaczenie 1N4148 dotyczy",
+    "answers": [
+      "wzmacniacza operacyjnego.",
+      "diody.",
+      "mostka prostowniczego.",
+      "tranzystora."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 107,
+    "text": "Określenie MOSFET dotyczy tranzystorów",
+    "answers": [
+      "bipolarnych małej mocy.",
+      "unipolarnych ze złączem p-n.",
+      "unipolarnych z izolowaną bramką.",
+      "bipolarnych w układzie Darlingtona."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 108,
+    "text": "Określenie LCD odnosi się do",
+    "answers": [
+      "termistora.",
+      "potencjometru.",
+      "przekaźnika.",
+      "wyświetlacza."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 109,
+    "text": "Do zmontowania układu elektronicznego przedstawionego na schemacie należy przygotować między innymi",
+    "answers": [
+      "dwie diody Zenera.",
+      "jeden tranzystor bipolarny.",
+      "pięć kondensatorów elektrolitycznych.",
+      "jeden mostek prostowniczy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_uklad18.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 110,
+    "text": "Które urządzenie przedstawiono na rysunku?",
+    "answers": [
+      "Statyw do wiertarki.",
+      "Prasę mechaniczną.",
+      "Uchwyt ślusarski.",
+      "Ściągacz do łożysk."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_urzadzenie14.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 111,
+    "text": "Jaka powinna być odległość pomiędzy otworami wywierconymi w płytce drukowanej, aby możliwe było wlutowanie tranzystora, którego wymiary przedstawiono na rysunku?",
+    "answers": [
+      "2,67 mm",
+      "0,81 mm",
+      "1,27 mm",
+      "2,54 mm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_rysunek14.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 112,
+    "text": "Resztki topnika z płytek drukowanych usuwa się za pomocą",
+    "answers": [
+      "gąbki.",
+      "pędzelka.",
+      "ligniny.",
+      "wacika."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 113,
+    "text": "Jednym z elementów urządzenia elektronicznego jest rezystor o rezystancji 1 kΩ i mocy 1 W. W przypadku braku elementu o podanych parametrach można go zastąpić rezystorem",
+    "answers": [
+      "o mniejszej rezystancji i tej samej mocy.",
+      "o większej rezystancji i tej samej mocy.",
+      "o takiej samej rezystancji i mniejszej mocy.",
+      "o takiej samej rezystancji i większej mocy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 114,
+    "text": "Element przedstawiony na rysunku umożliwia wykonywanie połączeń",
+    "answers": [
+      "nitowych.",
+      "kołkowych.",
+      "wpustowych.",
+      "sworzniowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_element18.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 115,
+    "text": "Pobielania końcówek przewodów elektrycznych wykonuje się za pomocą",
+    "answers": [
+      "nagrzewnicy.",
+      "opalarki.",
+      "lutownicy.",
+      "zgrzewarki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 116,
+    "text": "Którego elementu należy użyć podczas montażu mechanicznego potencjometru przedstawionego na rysunku?",
+    "answers": [
+      "Śruby.",
+      "Nakrętki.",
+      "Nitu.",
+      "Wkrętu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_potencjometr4.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 117,
+    "text": "Ile otworów należy wykonać w podstawie obudowy urządzenia elektronicznego, aby prawidłowo przymocować do niej transformator przedstawiony na rysunku?",
+    "answers": [
+      "2 otwory.",
+      "4 otwory.",
+      "6 otworów.",
+      "8 otworów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_transformator3.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 118,
+    "text": "Który przewód jest odpowiedni do zamontowania na jego końcach wtyku przedstawionego na rysunku?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_rysunek15.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 119,
+    "text": "W układzie przedstawionym na schemacie amperomierz wskazuje",
+    "answers": [
+      "wartość natężenia prądu płynącego przez rezystor R1",
+      "wartość natężenia prądu płynącego przez rezystor R4",
+      "sumę natężeń prądów płynących przez rezystory R1 i R4",
+      "sumę natężeń prądów płynących przez rezystory R3 i R4"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_uklad19.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 120,
+    "text": "Na ilustracji przedstawiono nieprawidłowy sposób montażu wtyku RJ-45 na przewodzie typu skrętka. Na czym polega błąd?",
+    "answers": [
+      "Płaszcz został zdjęty na zbyt dużej długości.",
+      "Na wtyk nie nałożono osłonki.",
+      "Płaszcz został zdjęty na zbyt małej długości.",
+      "Żyły na wejściu do wtyku są skręcone."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_wtyk5.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 121,
+    "text": "Rezystancja RZ zastępcza układu rezystorów wynosi",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_uklad10-1.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 122,
+    "text": "Na ilustracji przedstawiono",
+    "answers": [
+      "rezystor mocy.",
+      "autotransformator.",
+      "potencjometr mocy.",
+      "cewkę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_ilustracja.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 123,
+    "text": "Układy 7815 i 7915 przedstawione na schemacie ideowym pełnią funkcję stabilizatora napięcia w zasilaczu",
+    "answers": [
+      "regulowanym.",
+      "napięcia przemiennego.",
+      "niesymetrycznym.",
+      "symetrycznym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_schemat6.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 124,
+    "text": "Jaka informacja o parametrze rezystora zawarta jest w kolorowym pasku wskazanym strzałką na ilustracji?",
+    "answers": [
+      "Pierwsza cyfra znacząca wartości rezystora.",
+      "Druga cyfra znacząca wartości rezystora.",
+      "Tolerancja w procentach.",
+      "Liczba określająca wartość mnożnika."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_rezystor.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 125,
+    "text": "Na ilustracji przedstawiono wiertła do",
+    "answers": [
+      "drewna i tworzyw sztucznych.",
+      "betonu.",
+      "metalu.",
+      "szkła i ceramiki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_wiertla2.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 126,
+    "text": "Na ilustracji przedstawiono śrubę z łbem typu",
+    "answers": [
+      "trójkąt.",
+      "Tri-Wing.",
+      "Torx.",
+      "Pozidriv."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_sruba.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 127,
+    "text": "Na ilustracji przedstawiono tester",
+    "answers": [
+      "sieci energetycznej.",
+      "poprawności par w RJ-45.",
+      "poziomu sygnału WiFi.",
+      "systemów telewizyjnych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_tester2.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 128,
+    "text": "Które połączenia wykonano przewodem YTDY 8×0,5 mm2 w przedstawionym fragmencie projektu wykonawczego?",
+    "answers": [
+      "1 przycisk napadowy połączono z zaciskiem IN podcentrali alarmowej.",
+      "4 czujniki kontaktronowe połączono z zaciskami IN podcentrali alarmowej.",
+      "5 czujników PIR połączono z zaciskami OUT centrali alarmowej.",
+      "2 sygnalizatory wewnętrzne połączono z zaciskami OUT centrali alarmowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_projekt.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 129,
+    "text": "Na ilustracji przedstawiono symbol graficzny",
+    "answers": [
+      "diody.",
+      "tranzystora.",
+      "fotodiody.",
+      "tyrystora."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_symbol5.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 130,
+    "text": "Która jest prawidłowa kolejność czynności wykonywanych podczas montażu przedstawionych na ilustracji tranzytora i radiatora do płytki PCB?",
+    "answers": [
+      "Lutowanie radiatora do płytki PCB - lutowanie tranzystora do płytki PCB - przykręcenie tranzystora do radiatora.",
+      "Przykręcenie tranzystora do radiatora - lutowanie radiatora do płytki PCB - lutowanie tranzystora do płytki PCB.",
+      "Lutowanie tranzystora do płytki PCB - przykręcenie tranzystora do radiatora - lutowanie radiatora do płytki PCB.",
+      "Lutowanie tranzystora do płytki PCB - lutowanie radiatora do płytki PCB - przykręcenie tranzystora do radiatora."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_ilustracja2.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 131,
+    "text": "Jednostką mocy czynnej jest",
+    "answers": [
+      "VA",
+      "W",
+      "var",
+      "V"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 132,
+    "text": "Przedstawioną na ilustracji taśmę stosuje się do",
+    "answers": [
+      "wyznaczania trasy ścieżek.",
+      "odtłuszczania płytki.",
+      "mycia płytek po lutowaniu.",
+      "usuwania nadmiaru lutowia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_tasma.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 133,
+    "text": "Przedstawiony na ilustracji znak ostrzega przed",
+    "answers": [
+      "butlami pod ciśnieniem.",
+      "materiałami wybuchowymi.",
+      "materiałami toksycznymi.",
+      "substancjami o właściwościach utleniających."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_znak2.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 134,
+    "text": "Które przepisy prawa regulują gospodarkę odpadami niebezpiecznymi?",
+    "answers": [
+      "Prawo zamówień publicznych.",
+      "Prawo budowlane.",
+      "Ustawa o odpadach.",
+      "Prawo energetyczne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 135,
+    "text": "Wykonano płytkę drukowaną układu elektronicznego na podstawie schematu ideowego. Niestety, konstruktor płytki na etapie jej projektowania popełnił błąd i nie umieścił na płytce połączenia elektrycznego pomiędzy",
+    "answers": [
+      "węzłami C i D",
+      "węzłami G i F",
+      "węzłami D i E",
+      "węzłami A i B"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_schemat24.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 136,
+    "text": "Które urządzenie przedstawiono na ilustracji?",
+    "answers": [
+      "Przełącznik ośmiokanałowy.",
+      "Symetryzator antenowy.",
+      "Wzmacniacz słuchawkowy.",
+      "Sterownik mikroprocesorowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_urzadzenie20.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 137,
+    "text": "Którą funkcję pełni wejściowy dzielnik napięcia w multimetrze cyfrowym?",
+    "answers": [
+      "Zabezpieczenia przepięciowego.",
+      "Filtra napięć wysokiej częstotliwości.",
+      "Separatora składowej stałej napięcia.",
+      "Dopasowania napięcia do zakresu przetwornika."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 138,
+    "text": "Po załączeniu komputera na ekranie pojawił się komunikat „CMOS battery failed”. Oznacza on, że",
+    "answers": [
+      "bateria podtrzymująca pamięć CMOS wyczerpuje się.",
+      "pamięć CMOS nie została skonfigurowana.",
+      "wystąpił błąd sumy kontrolnej BIOS-u.",
+      "pamięć podręczna cache procesora jest uszkodzona."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 139,
+    "text": "Które narzędzie służy do formowania wyprowadzeń elementów elektronicznych?",
+    "answers": [
+      "Narzędzie 2.",
+      "Narzędzie 1.",
+      "Narzędzie 3.",
+      "Narzędzie 4."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_narzedzia15.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 140,
+    "text": "Staranne mycie i odtłuszczenie powierzchni płytki przed montażem elementów elektronicznych wykonywane jest w celu",
+    "answers": [
+      "zapobiegania utlenianiu się lutu.",
+      "zwiększenia temperatury topnienia lutu.",
+      "zwiększenia adhezji lutowia z polem lutowniczym.",
+      "zapobiegania pękaniu lutu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 141,
+    "text": "Wskaż prawidłową kolejność operacji montażu płytek wykonywanych w technologii montażu przewlekanego na linii produkcyjnej.",
+    "answers": [
+      "Krępowanie, osadzanie elementów, lutowanie, obcinanie końcówek.",
+      "Osadzanie elementów, lutowanie, obcinanie końcówek, krępowanie.",
+      "Obcinanie końcówek, osadzanie elementów, krępowanie, lutowanie.",
+      "Osadzanie elementów, lutowanie, krępowanie, obcinanie końcówek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 142,
+    "text": "Które urządzenie wchodzące w skład instalacji odbiornika satelitarnego przedstawiono na ilustracji?",
+    "answers": [
+      "Konwerter",
+      "Transponder",
+      "Multiswitch",
+      "Tuner"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_urzadzenie21.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 143,
+    "text": "Na ilustracji przedstawiono tylną ścianę obudowy",
+    "answers": [
+      "kamery przemysłowej.",
+      "wzmacniacza antenowego.",
+      "rejestratora sygnału wideo.",
+      "konwertera telewizji satelitarnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_sciana2.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 144,
+    "text": "Jaką rolę pełnią przedstawione na ilustracjach elementy?",
+    "answers": [
+      "Gromadzą ładunek elektryczny.",
+      "Stabilizują wartość napięcia.",
+      "Gromadzą energię pola magnetycznego.",
+      "Regulują wartość rezystancji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_elementy7.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 145,
+    "text": "W celu ochrony przed uszkodzeniem, wynikającym z wyładowania elektrostatycznego, układy CMOS należy transportować i przechowywać",
+    "answers": [
+      "w workach wykonanych z PCV.",
+      "w workach ekranujących ESD.",
+      "w drewnianych skrzynkach.",
+      "osadzone w styropianie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 146,
+    "text": "Do lutów miękkich zalicza się luty",
+    "answers": [
+      "mosiężne.",
+      "srebrne.",
+      "miedziano-fosforowe.",
+      "cynowo-ołowiowe i bezołowiowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 147,
+    "text": "W jaki sposób należy postąpić z izopropanolem po umyciu obwodu drukowanego?",
+    "answers": [
+      "Zużyć jako rozpuszczalnik.",
+      "Wylać do zlewu.",
+      "Pozostawić do odparowania.",
+      "Przekazać do utylizacji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 148,
+    "text": "Dioda oznaczona symbolem graficznym przedstawionym na ilustracji to dioda",
+    "answers": [
+      "pojemnościowa.",
+      "Zenera.",
+      "prostownicza.",
+      "Schottky’ego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_dioda.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 149,
+    "text": "Które urządzenie na schematach blokowych oznacza się symbolem graficznym przedstawionym na ilustracji?",
+    "answers": [
+      "Przetwornik.",
+      "Wzmacniacz.",
+      "Generator.",
+      "Filtr."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_symbol15.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 150,
+    "text": "Symbolem LM7812 oznaczony jest stabilizator o",
+    "answers": [
+      "nieregulowanym dodatnim napięciu wyjściowym.",
+      "nieregulowanym ujemnym napięciu wyjściowym.",
+      "regulowanym dodatnim napięciu wyjściowym.",
+      "regulowanym ujemnym napięciu wyjściowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 151,
+    "text": "Na ilustracji przedstawiono układ elektroniczny wykonany techniką montażu",
+    "answers": [
+      "mieszanego.",
+      "SMT.",
+      "THT.",
+      "BGA."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_uklad8.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 152,
+    "text": "Który z wymienionych programów służy do symulacji działań układów elektronicznych?",
+    "answers": [
+      "Word",
+      "Paint",
+      "PSpice",
+      "Power Point"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 153,
+    "text": "Jaką informację o parametrze rezystora zawiera kolorowy pasek wskazany strzałką?",
+    "answers": [
+      "Tolerancję w %.",
+      "Współczynnik temperaturowy.",
+      "Mnożnik.",
+      "Cyfrę określającą wartość."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_rezystor.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 154,
+    "text": "Podczas demontażu z płytki przedstawionej na rysunku rezystorów znad wyświetlacza LCD, przy użyciu lutownicy typu hot-air, należy wcześniej wylutować",
+    "answers": [
+      "tranzystor.",
+      "wyświetlacz.",
+      "mikrostyki.",
+      "kondensator."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_plytka3.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 155,
+    "text": "Na ilustracji pokazano układ aplikacyjny regulowanego stabilizatora napięcia LM317. Jaka jest maksymalna wartość napięcia wyjściowego, którą można uzyskać w tym układzie?",
+    "answers": [
+      "20 V",
+      "16,25 V",
+      "25 V",
+      "18,75 V"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_uklad10.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 156,
+    "text": "Którym przewodem należy doprowadzić sygnał do centrali domofonowej?",
+    "answers": [
+      "Przewodem 1.",
+      "Przewodem 2.",
+      "Przewodem 3.",
+      "Przewodem 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_przewody4.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 157,
+    "text": "Podczas uruchamiania wzmacniacza akustycznego należy ustawić wartość",
+    "answers": [
+      "amplitudy sygnału wejściowego na możliwie największą.",
+      "amplitudy sygnału wejściowego na możliwie najmniejszą.",
+      "częstotliwości sygnału wejściowego na możliwie największą.",
+      "częstotliwości sygnału wejściowego na możliwie najmniejszą."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 158,
+    "text": "Na której ilustracji przedstawiono układ przystosowany do montażu w technologii BGA?",
+    "answers": [
+      "Na ilustracji 4.",
+      "Na ilustracji 2.",
+      "Na ilustracji 1.",
+      "Na ilustracji 3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_ilustracje.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 159,
+    "text": "Którego przyrządu należy użyć do sprawdzenia poprawności połączeń okablowania sieci komputerowej?",
+    "answers": [
+      "Przyrządu 4.",
+      "Przyrządu 1.",
+      "Przyrządu 2.",
+      "Przyrządu 3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_przyrzady6.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 160,
+    "text": "Na podstawie ilustracji określ technikę wykonania montażu rezystora R240.",
+    "answers": [
+      "Mieszana.",
+      "BGA.",
+      "SMT.",
+      "THT."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_ilustracja.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 161,
+    "text": "Do wytrawiania płytek PCB wykorzystuje się",
+    "answers": [
+      "alkohol izopropylowy.",
+      "topnik.",
+      "pastę lutowniczą.",
+      "nadsiarczan sodowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 162,
+    "text": "W trakcie montażu elementów elektronicznych techniką lutu miękkiego nie należy",
+    "answers": [
+      "dobierać czasu grzania do konkretnego miejsca na płytce.",
+      "dbać o czystość grota.",
+      "dobierać temperatury grzania do konkretnego miejsca na płytce.",
+      "przenosić lutowia na grocie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 163,
+    "text": "Na ilustracji przedstawiono element służący do elektrycznego łączenia przewodów w instalacjach. Jest to złączka instalacyjna",
+    "answers": [
+      "bezśrubowa wciskowa 4-polowa.",
+      "śrubowa 5-polowa.",
+      "śrubowa 4-polowa.",
+      "bezśrubowa wciskowa 5-polowa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_element9.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 164,
+    "text": "Które z przedstawionych na ilustracjach narzędzi służy do kompresji (spęczniania) tulejek kablowych typu F oraz BNC?",
+    "answers": [
+      "Narzędzie 2.",
+      "Narzędzie 1.",
+      "Narzędzie 3.",
+      "Narzędzie 4."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_narzedzia17.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 165,
+    "text": "Podczas pomiarów rezystancji po montażu elementów stwierdzono bardzo dużą rezystancję spowodowaną powstaniem zimnego lutu na połączeniu jednego z elementów z polem lutowniczym. W jaki sposób usunąć tę usterkę?",
+    "answers": [
+      "Przylutować obok elementu drugi element tego typu.",
+      "Wylutować element i po stwierdzeniu jego sprawności ponownie przylutować ten element.",
+      "Wylutować element i przylutować koniecznie nowy o takich samych parametrach.",
+      "Przylutować obok elementu fragment przewodu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 166,
+    "text": "Na podstawie zawartego w dokumentacji schematu połączeń elementów określ pojemność i napięcie znamionowe kondensatora C130?",
+    "answers": [
+      "100 µF, 10 V",
+      "33 nF, 630 V",
+      "33 nF, 63 V",
+      "100 µF, 100 V"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_schemat23.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 167,
+    "text": "Na której ilustracji przedstawiony jest uchwyt służący do przymocowania przewodu elektrycznego, podczas wykonywania podtynkowej instalacji kablowej?",
+    "answers": [
+      "Na ilustracji 3.",
+      "Na ilustracji 1.",
+      "Na ilustracji 2.",
+      "Na ilustracji 4."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_uchwyty2.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 168,
+    "text": "Jaką minimalną odległość należy zachować pomiędzy nieekranowanym kablem zasilającym a nieekranowaną skrętką komputerową w układzie z separatorem niemetalowym?",
+    "answers": [
+      "50 mm",
+      "20 mm",
+      "200 mm",
+      "100 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_tabela12.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 169,
+    "text": "Który z przedstawionych elementów nie jest wykorzystywany do demontażu elementów elektronicznych z płytki?",
+    "answers": [
+      "Element 4.",
+      "Element 2.",
+      "Element 3.",
+      "Element 1."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_elementy8.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 170,
+    "text": "Które z narzędzi należy wykorzystać do wyznaczania trasy przewodów dla instalowanych urządzeń elektronicznych?",
+    "answers": [
+      "Narzędzie 1.",
+      "Narzędzie 2.",
+      "Narzędzie 4.",
+      "Narzędzie 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_narzedzia16.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 171,
+    "text": "Do dokumentacji montażu elektronicznego nie zalicza się",
+    "answers": [
+      "schematu montażowego z rozmieszczeniem i oznaczeniem elementów.",
+      "listy materiałów potrzebnych do wykonania montażu.",
+      "dokumentacji techniczno-ruchowej.",
+      "współrzędnych elementów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 172,
+    "text": "Symbol graficzny pokazany na ilustracji oznacza",
+    "answers": [
+      "materiał bezpieczny dla ozonu.",
+      "produkt nietestowany na zwierzętach.",
+      "materiał przeznaczony do recyklingu.",
+      "selektywną zbiórkę odpadów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_symbol16.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 173,
+    "text": "Przedstawiona płytka przygotowana jest do montażu",
+    "answers": [
+      "BGA.",
+      "powierzchniowego.",
+      "przewlekanego.",
+      "mieszanego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_plytka2.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 174,
+    "text": "Na rysunku przedstawiono układ elektroniczny wykonany techniką montażu",
+    "answers": [
+      "THT.",
+      "mieszanego.",
+      "SMD.",
+      "BGA."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_uklad8.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 175,
+    "text": "W celu demontażu elementów instalacji przedstawionej na rysunku należy zastosować wkrętak",
+    "answers": [
+      "płaski izolowany.",
+      "krzyżowy nieizolowany.",
+      "krzyżowy izolowany.",
+      "płaski nieizolowany."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_instalacja7.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 176,
+    "text": "Po wykonaniu montażu układu zasilacza przedstawionego na rysunku sporządzono protokół. Na postawie odczytu oznaczeń elementów z tabeli można stwierdzić, że niezgodnie ze schematem dobrano",
+    "answers": [
+      "diodę D1 oraz kondensator C2",
+      "diodę D4 oraz kondensator C4",
+      "układ scalony US oraz kondensator C2",
+      "diodę D4 oraz kondensator C2"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_uklad9.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 177,
+    "text": "Na schemacie przedstawiono układ",
+    "answers": [
+      "przetwornika A/C.",
+      "generatora.",
+      "zasilacza.",
+      "wzmacniacza."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_uklad7.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 178,
+    "text": "Na podstawie rysunku określ technikę wykonania montażu rezystora R240.",
+    "answers": [
+      "BGA.",
+      "THT.",
+      "Mieszana.",
+      "SMD."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_rysunek6.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 179,
+    "text": "Jaką rolę pełnią przedstawione na rysunkach elementy?",
+    "answers": [
+      "Regulują wartość rezystancji.",
+      "Stabilizują wartość napięcia.",
+      "Gromadzą energię pola magnetycznego.",
+      "Gromadzą ładunek elektryczny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_elementy5.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 180,
+    "text": "Na rysunku przedstawiono podstawkę typu",
+    "answers": [
+      "DIL 28P",
+      "PLCC 32T SMD",
+      "PLCC 68 SMD",
+      "DIL08"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_podstawka.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 181,
+    "text": "Na rysunku przedstawiono fragment instalacji",
+    "answers": [
+      "jednofazowej podtynkowej.",
+      "trójfazowej natynkowej.",
+      "jednofazowej natynkowej.",
+      "trójfazowej podtynkowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_rysunek8.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 182,
+    "text": "Na którym rysunku przedstawiono układ przystosowany do montażu w technologii BGA?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_rysunki2.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 183,
+    "text": "Na rysunku przedstawiono element służący do elektrycznego łączenia przewodów w instalacjach elektronicznych. Jest to złączka instalacyjna",
+    "answers": [
+      "bezśrubowa wciskowa 4-polowa.",
+      "bezśrubowa wciskowa 5-polowa.",
+      "śrubowa 5-polowa.",
+      "śrubowa 4-polowa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_element9.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 184,
+    "text": "Który z przedstawionych na rysunkach przyrządów służy do kompresji (spęczniania) tulejek kablowych typu F oraz BNC?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_przyrzady5.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 185,
+    "text": "Element, którego symbol graficzny przedstawiono na rysunku to",
+    "answers": [
+      "transoptor.",
+      "rezystor nastawny.",
+      "dioda elektroluminescencyjna.",
+      "tranzystor."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_symbol13.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 186,
+    "text": "Do pomiaru rezystancji połączeń w instalacji elektronicznej należy użyć",
+    "answers": [
+      "woltomierza.",
+      "częstościomierza.",
+      "omomierza.",
+      "amperomierza."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 187,
+    "text": "Który z przedstawionych na rysunkach elementów nie jest wykorzystywany do demontażu elementów elektronicznych z płytki?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_elementy6.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 188,
+    "text": "W instalacji przedstawionej na rysunku oznaczone symbolem X urządzenie to",
+    "answers": [
+      "kamera przemysłowa.",
+      "ruter.",
+      "zasilacz.",
+      "rejestrator."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_instalacja6.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 189,
+    "text": "Na którym rysunku przedstawiono narzędzie do formowania wyprowadzeń elementów elektronicznych?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_narzedzia13.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 190,
+    "text": "Które z narzędzi wykorzystywane jest podczas wyznaczania trasy przewodów dla instalowanych urządzeń elektronicznych?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_narzedzia14.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 191,
+    "text": "W instalacji przedstawionej na rysunku rolą wzmacniacza jest",
+    "answers": [
+      "zapamiętanie sygnału pochodzącego z anteny radiowej/ UKF-FM oraz anten TV/UHF w pamięci multiswitch.",
+      "zapamiętanie sygnału pochodzącego z anten TV/UHF w pamięci multiswitch.",
+      "zwielokrotnienie amplitudy sygnału pochodzącego z anteny radiowej/ UKF-FM oraz anten TV/UHF.",
+      "zwielokrotnienie amplitudy sygnału pochodzącego z anten TV/UHF."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_instalacja5.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 192,
+    "text": "Na schemacie przedstawiono prostownik",
+    "answers": [
+      "dwupołówkowy sterowany.",
+      "jednopołówkowy sterowany.",
+      "jednopołówkowy niesterowany.",
+      "dwupołówkowy niesterowany."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_schemat22.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 193,
+    "text": "Przedstawiony na rysunku element ochrony służy do",
+    "answers": [
+      "ochrony przeciwpożarowej.",
+      "gaszenia łuku elektrycznego.",
+      "zabezpieczenia przeciwzwarciowego.",
+      "zabezpieczenia przed wyładowaniami elektrostatycznymi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_element8.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 194,
+    "text": "Elementów urządzeń elektronicznych, które mają być poddane recyklingowi nie należy",
+    "answers": [
+      "ręcznie demontować, jeżeli są stalowe i aluminiowe.",
+      "ręcznie demontować, jeżeli zawierają dużą koncentrację metali szlachetnych.",
+      "oddzielać od obudowy z tworzyw sztucznych.",
+      "gromadzić w pomieszczeniach bezpośrednio na ziemi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 195,
+    "text": "Na podstawie rysunku określ na jakiej wysokości prowadzone będą przewody ułożone w strefie przypodłogowej.",
+    "answers": [
+      "Od 0 do 30 cm nad podłogą.",
+      "Od 30 do 45 cm nad podłogą.",
+      "Od 15 do 30 cm nad podłogą.",
+      "Od 15 do 45 cm nad podłogą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_rysunek7.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 196,
+    "text": "Co oznacza przedstawiony na rysunku symbol?",
+    "answers": [
+      "TCO Development.",
+      "Nie wolno wyrzucać razem z odpadami komunalnymi.",
+      "Energy Star.",
+      "Energia i oszczędność."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_symbol14.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 197,
+    "text": "Przedstawione urządzenie to",
+    "answers": [
+      "lutownica transformatorowa.",
+      "lutownica na ciepłe powietrze typu hot-air.",
+      "lutownica oporowa.",
+      "tygiel lutowniczy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_urzadzenie19.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 198,
+    "text": "Na podstawie zawartego w dokumentacji schematu połączeń elementów określ pojemność i napięcie znamionowe kondensatora C118.",
+    "answers": [
+      "33 nF, 63 V",
+      "33 nF, 630 V",
+      "100 µF, 100 V",
+      "100 µF, 10 V"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e6_schemat23.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 199,
+    "text": "Który numer ma wyprowadzenie układu scalonego zaznaczone znakiem X na rysunku?",
+    "answers": [
+      "1",
+      "4",
+      "5",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_uklad7.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 200,
+    "text": "Montaż w obudowie elementu pokazanego na rysunku wymaga wykonania otworu",
+    "answers": [
+      "czworokątnego.",
+      "okrągłego.",
+      "trójkątnego.",
+      "sześciokątnego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_element6.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 201,
+    "text": "W układzie pokazanym na rysunku tranzystor pracuje jako",
+    "answers": [
+      "filtr.",
+      "klucz.",
+      "wzmacniacz.",
+      "generator."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_uklad9.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 202,
+    "text": "Lut pokazany na rysunku",
+    "answers": [
+      "jest prawidłowy.",
+      "jest niesymetryczny.",
+      "nie dotyka pola lutowniczego.",
+      "nie dotyka wyprowadzenia elementu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_rysunek6.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 203,
+    "text": "Na rysunku pokazano widok wtyku w standardzie",
+    "answers": [
+      "USB (Universal Serial Bus)",
+      "HDMI (High Definition Multimedia Interface)",
+      "Fire-Wire",
+      "DP (Display Port)"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_wtyk2.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 204,
+    "text": "Narzędzie pokazane na rysunku służy do",
+    "answers": [
+      "ściągania izolacji z przewodów koncentrycznych.",
+      "zaciskania końcówek tulejkowych.",
+      "zaciskania wtyków kompresyjnych.",
+      "cięcia przewodów o dużej średnicy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_narzedzie3.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 205,
+    "text": "Ile wynosi wartość międzyszczytowa napięcia przebiegu pokazanego na rysunku?",
+    "answers": [
+      "0,707 V",
+      "2 V",
+      "1,414 V",
+      "1 V"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_przebieg.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 206,
+    "text": "Nazwa elementu kabla światłowodowego zaznaczonego na rysunku strzałką to",
+    "answers": [
+      "płaszcz.",
+      "rdzeń.",
+      "tuba.",
+      "koszulka."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_kabel2.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 207,
+    "text": "Którego narzędzia należy użyć do zamocowania gniazda pokazanego na rysunku w płytce drukowanej?",
+    "answers": [
+      "Młotka.",
+      "Wkrętaka.",
+      "Kombinerek.",
+      "Lutownicy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_gniazdo.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 208,
+    "text": "W skład dokumentacji technicznej instalacji nie wchodzi",
+    "answers": [
+      "projekt instalacji.",
+      "faktura zakupu materiałów.",
+      "certyfikat zgodności z normami elementów instalacji.",
+      "nota katalogowa elementów instalacji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 209,
+    "text": "Jaką informację o parametrze rezystora zawiera pasek kolorowy wskazany na rysunku?",
+    "answers": [
+      "Mnożnik.",
+      "Tolerancja w %.",
+      "Cyfra określająca wartość.",
+      "Współczynnik temperaturowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_rysunek5.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 210,
+    "text": "Na rysunku pokazano symbol graficzny filtra",
+    "answers": [
+      "dolnoprzepustowego.",
+      "górnoprzepustowego.",
+      "pasmowo-zaporowego.",
+      "pasmowo-przepustowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_symbol3.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 211,
+    "text": "Obudowa zapewniająca ochronę urządzenia podczas długotrwałego zanurzenia w wodzie oznaczona jest symbolem",
+    "answers": [
+      "IP68",
+      "IP33",
+      "IP21",
+      "IP65"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 212,
+    "text": "Kabel okrągły w powłoce zewnętrznej z polwinitu, zawierający trzy przewody w postaci linki wielodrutowej każdy, w izolacji z polwinitu, ma oznaczenie",
+    "answers": [
+      "LY",
+      "DY",
+      "YLY",
+      "YDY"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 213,
+    "text": "Na rysunku pokazano wtyk D-sub typu",
+    "answers": [
+      "DC-37",
+      "DB-25",
+      "DD-50",
+      "DA-15"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_wtyk4.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 214,
+    "text": "Element anteny wskazany na rysunku strzałką to",
+    "answers": [
+      "ekran.",
+      "reflektor.",
+      "direktor.",
+      "maszt."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_antena.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 215,
+    "text": "Znak pokazany na rysunku ostrzega przed potencjalnym działaniem promieniowania",
+    "answers": [
+      "ultrafioletowego.",
+      "wiązki laserowej.",
+      "niejonizującego.",
+      "materiału radioaktywnego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_znak.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 216,
+    "text": "Który element instalacji antenowej pokazano na rysunku?",
+    "answers": [
+      "Rozgałęźnik.",
+      "Symetryzator.",
+      "Wzmacniacz.",
+      "Zwrotnicę."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_element5.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 217,
+    "text": "Na rysunku pokazano montaż",
+    "answers": [
+      "elementu THD na płytce jednostronnej.",
+      "elementu SMD na płytce jednostronnej.",
+      "elementu SMD na płytce dwustronnej.",
+      "elementu THD na płytce dwustronnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_rysunek4.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 218,
+    "text": "Stosowana w sieciach internetowych technologia PoE umożliwia",
+    "answers": [
+      "podwojenie prędkości przesyłania danych.",
+      "przesyłanie danych poprzez sieć energetyczną.",
+      "stosowanie skrętek nieekranowanych.",
+      "zasilanie urządzeń poprzez skrętkę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 219,
+    "text": "Oznaczeniem jednostki miary mocy czynnej jest",
+    "answers": [
+      "VA",
+      "W",
+      "V",
+      "Wh"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 220,
+    "text": "Na rysunku pokazano wtyk typu",
+    "answers": [
+      "RCA",
+      "BNC",
+      "F",
+      "XLR"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_wtyk3.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 221,
+    "text": "Która seria cyfrowych układów CMOS jest kompatybilna z układami TTL?",
+    "answers": [
+      "LVC",
+      "VHC",
+      "AUC",
+      "HCT"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 222,
+    "text": "W celu uruchomienia układu pokazanego na rysunku źródło sygnału zmiennego należy dołączyć do zacisków",
+    "answers": [
+      "1 i 5",
+      "2 i 5",
+      "1 i 3",
+      "3 i 5"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_uklad8.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 223,
+    "text": "Rezystancję zastępczą RZ układu pokazanego na rysunku oblicza się według wzoru",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_uklad6.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 224,
+    "text": "Znak umieszczany w trakcie wykonywania prac serwisowych lub naprawczych zakazujący przełączania urządzenia lub systemu pokazano na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_znaki.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 225,
+    "text": "W trakcie montażu ręcznego elementów elektronicznych na płytce drukowanej pokazanej na rysunku zastosowano lutownicę",
+    "answers": [
+      "transformatorową.",
+      "gazową.",
+      "oporową.",
+      "na gorące powietrze."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_plytka2.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 226,
+    "text": "Funkcję logiczną o postaci realizuje bramka",
+    "answers": [
+      "OR",
+      "AND",
+      "NOR",
+      "NAND"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_wzor.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 227,
+    "text": "Skrętka, w której każda para przewodów jest foliowana, a wszystkie przewody znajdują się w dodatkowym ekranie z folii i siatki, ma oznaczenie",
+    "answers": [
+      "F/FTP",
+      "SF/FTP",
+      "U/UTP",
+      "SF/UTP"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 228,
+    "text": "Które stwierdzenie dotyczące konwertera pokazanego na rysunku nie jest prawdziwe?",
+    "answers": [
+      "Odbiór programów TV wymaga użycia dekodera DVB-S.",
+      "Odbiera sygnały z dwóch satelitów.",
+      "Jest to konwerter typu monoblock.",
+      "Umożliwia jednoczesne podłączenie dwóch odbiorników."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_konwerter.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 229,
+    "text": "Na rysunku pokazano wiertła do",
+    "answers": [
+      "metalu.",
+      "szkła i ceramiki.",
+      "betonu.",
+      "drewna i tworzyw sztucznych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_wiertla.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 230,
+    "text": "Na rysunku pokazano układ aplikacyjny regulowanego stabilizatora napięcia LM317. Jaka jest maksymalna wartość napięcia wyjściowego, którą można uzyskać w tym układzie?",
+    "answers": [
+      "18,75 V",
+      "25 V",
+      "16,25 V",
+      "20 V"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_uklad5.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 231,
+    "text": "Na rysunku pokazano tester",
+    "answers": [
+      "linii światłowodowych.",
+      "przewodów energetycznych.",
+      "okablowania LAN.",
+      "systemów telewizyjnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_tester.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 232,
+    "text": "Którą czynność w procesie wytwarzania płytki PCB metodą fotochemiczną należy wykonać po jej wytrawieniu?",
+    "answers": [
+      "Usunięcie warstwy światłoczułej.",
+      "Lutowanie.",
+      "Naświetlanie.",
+      "Wiercenie otworów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 233,
+    "text": "Które z przedstawionych urządzeń stosuje się w celu ochrony dróg oddechowych podczas wylutowywania elementów z płytek PCB?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_urzadzenia.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 234,
+    "text": "Jaka jest prawidłowa kolejność czynności przed założeniem i zaciśnięciem wtyku RJ-45 na skrętce?",
+    "answers": [
+      "Zdjęcie płaszcza skrętki - skrócenie przewodów do długości wymaganej wymiarem wtyku - rozplątanie skręconych par przewodów - ułożenie przewodów we właściwej kolejności.",
+      "Zdjęcie płaszcza skrętki - rozplątanie skręconych par przewodów - ułożenie przewodów we właściwej kolejności - skrócenie przewodów do długości wymaganej wymiarem wtyku.",
+      "Zdjęcie płaszcza skrętki - rozplątanie skręconych par przewodów - skrócenie przewodów do długości wymaganej wymiarem wtyku - ułożenie przewodów we właściwej kolejności.",
+      "Zdjęcie płaszcza skrętki - ułożenie przewodów we właściwej kolejności - rozplątanie skręconych par przewodów - skrócenie przewodów do długości wymaganej wymiarem wtyku."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 235,
+    "text": "Wartość współczynnika wypełnienia dodatniego półokresu sygnału pokazanego na wykresie wynosi",
+    "answers": [
+      "50%",
+      "100%",
+      "66%",
+      "33%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_sygnal.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 236,
+    "text": "Po włączeniu laboratoryjnego zasilacza regulowanego stwierdzono że zasilacz nie działa, wskaźnik pracy urządzenia (dioda LED) nie świeci się. Sprawdzono stan gniazda zasilającego, do którego podłączono zasilacz i nie stwierdzono usterki w tym gnieździe. Lokalizację uszkodzeń w zasilaczu należy rozpocząć od sprawdzenia",
+    "answers": [
+      "mostka prostowniczego.",
+      "diody elektroluminescencyjnej.",
+      "elementów biernych.",
+      "bezpiecznika aparatowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 237,
+    "text": "Symbol graficzny pokazany na rysunku oznacza",
+    "answers": [
+      "produkt nietestowany na zwierzętach.",
+      "materiał bezpieczny dla ozonu.",
+      "materiał przeznaczony do recyklingu.",
+      "selektywną zbiórkę odpadów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_symbol4.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 238,
+    "text": "Które z urządzeń nie jest odpadem niebezpiecznym, zgodnie z przepisami prawa dotyczącymi gospodarki odpadami niebezpiecznymi?",
+    "answers": [
+      "Lampa żarowa.",
+      "Akumulator żelowy.",
+      "Lampa rtęciowa.",
+      "Akumulator kwasowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 239,
+    "text": "Który numer ma wyprowadzenie układu scalonego zaznaczone na rysunku znakiem X?",
+    "answers": [
+      "5",
+      "8",
+      "4",
+      "1"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_uklad3.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 240,
+    "text": "W układzie pokazanym na rysunku tranzystor pełni funkcję",
+    "answers": [
+      "wzmacniacza.",
+      "generatora.",
+      "filtra.",
+      "klucza."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_uklad2.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 241,
+    "text": "W celu wykonania testu ciągłości przewodu przełącznik funkcji i zakresów multimetru powinien być ustawiony w",
+    "answers": [
+      "pozycji 4",
+      "pozycji 2",
+      "pozycji 1",
+      "pozycji 3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_multimetr.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 242,
+    "text": "Który z przedstawionych symboli informuje o konieczności gromadzenia elektroodpadów w specjalnie przeznaczonych do tego pojemnikach oraz oddania zużytego sprzętu do punktu zbiórki elektroodpadów?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_symbole.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 243,
+    "text": "Na podstawie przedstawionego na rysunku schematu ideowego wykonano projekt płytki drukowanej układu elektronicznego. Konstruktor płytki popełnił błąd i nie umieścił na płytce połączenia elektrycznego pomiędzy",
+    "answers": [
+      "węzłami C i D",
+      "węzłami A i B",
+      "węzłami G i F",
+      "węzłami A i E"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_schemat3.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 244,
+    "text": "Którego narzędzia należy użyć do demontażu przedstawionej na rysunku obudowy urządzenia z szyny DIN?",
+    "answers": [
+      "Noża monterskigo.",
+      "Pęsety.",
+      "Kombinerek.",
+      "Wkrętaka płaskiego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_obudowa.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 245,
+    "text": "Które oznaczenie literowe ma przewód pokazany na rysunku?",
+    "answers": [
+      "YLgY",
+      "YDYp",
+      "YLY",
+      "DY"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_przewod3.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 246,
+    "text": "Na rysunku pokazano schemat ideowy zasilacza napięcia stałego. Na podstawie przebiegu napięcia na wyjściu tego zasilacza określ, który element zasilacza uległ uszkodzeniu.",
+    "answers": [
+      "Transformator Tr",
+      "Dioda D1",
+      "Dioda D4",
+      "Kondensator C"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_schemat5.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 247,
+    "text": "Na rysunku pokazany jest model 3D płytki PCB",
+    "answers": [
+      "wielowarstwowej.",
+      "grubowarstwowej.",
+      "jednowarstwowej.",
+      "dwuwarstwowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_model.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 248,
+    "text": "Które narzędzie przedstawiono na rysunku?",
+    "answers": [
+      "Odsysacz cyny.",
+      "Nagrzewnicę ręczną.",
+      "Pistolet do kleju.",
+      "Lutownicę kolbową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_narzedzie2.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 249,
+    "text": "Rezystancja zastępcza RZ układu pokazanego na rysunku wynosi",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_uklad.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 250,
+    "text": "W jaki sposób należy przeprowadzić demontaż układu scalonego pokazanego na rysunku?",
+    "answers": [
+      "Podgrzać  lutownicą na gorące powietrze cynę  jednocześnie na wszystkich wyprowadzeniach układu scalonego.",
+      "Podgrzać lutownicą na gorące powietrze cynę kolejno na wyprowadzeniach układu scalonego i odessać.",
+      "Przeciąć wyprowadzenia układu scalonego z wykorzystaniem noża monterskiego.",
+      "Przeciąć wyprowadzenia układu scalonego z wykorzystaniem szczypiec bocznych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_uklad4.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 251,
+    "text": "Na rysunku pokazano symbol filtru",
+    "answers": [
+      "środkowoprzepustowego.",
+      "górnoprzepustowego.",
+      "pasmowozaporowego.",
+      "dolnoprzepustowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_symbol2.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 252,
+    "text": "Na rysunku pokazano budowę przewodu koncentrycznego. Separację galwaniczną pomiędzy rdzeniem przewodu a oplotem zapewnia element zaznaczony numerem",
+    "answers": [
+      "2",
+      "3",
+      "1",
+      "4"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_przewod4.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 253,
+    "text": "Na podstawie rysunku określ jakie są wartości kąta detekcji α oraz zasięgu detekcji d czujki PIR.",
+    "answers": [
+      "α = 45º, d = 10 m",
+      "α = 90º, d = 12 m",
+      "α = 45º, d = 12 m",
+      "α = 90º, d = 10 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_rysunek3.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 254,
+    "text": "Na rysunku pokazano kierunek poruszania się obiektu w stosunku do obszaru detekcji czujki PIR. W którym przypadku skuteczność wykrywania obiektu jest największa?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_rysunki.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 255,
+    "text": "Pokazane na rysunku urządzenie służy do",
+    "answers": [
+      "pomiaru siły docisku.",
+      "zaciskania końcówek przewodu.",
+      "pomiaru natężenia prądu.",
+      "zdejmowania izolacji z przewodu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_urzadzenie2.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 256,
+    "text": "Jaka jest wartość rezystancji potencjometru montażowego pokazanego na rysunku?",
+    "answers": [
+      "2 kΩ",
+      "22 kΩ",
+      "2,2 kΩ",
+      "222 Ω"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_potencjometr2.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 257,
+    "text": "Na rysunku pokazano schemat połączenia czujki NC z centralą alarmową w konfiguracji",
+    "answers": [
+      "3EOL",
+      "4EOL",
+      "2EOL",
+      "EOL"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_schemat4.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 258,
+    "text": "Którego typu końcówki wkrętaka należy użyć do odkręcenia śrub pokazanych na rysunku?",
+    "answers": [
+      "Torx.",
+      "Płaskiej.",
+      "Imbusowej.",
+      "Krzyżowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_sruby.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 259,
+    "text": "Multiplekser wyposażony w 8 wejść informacyjnych posiada",
+    "answers": [
+      "3 wejścia adresowe.",
+      "1 wejście adresowe.",
+      "4 wejścia adresowe.",
+      "2 wejścia adresowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 260,
+    "text": "Element umieszczony w obudowie typu TO-220 pokazano na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_elementy3.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 261,
+    "text": "Ściągacz izolacji przeznaczony do przewodów koncentrycznych pokazany jest na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_narzedzia3.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 262,
+    "text": "Wskaż właściwą kolejność czynności realizowanych przy montażu i uruchomieniu centrali alarmowej.",
+    "answers": [
+      "Podłączenie czujek - podłączenie akumulatora - włączenie napięcia sieciowego - konfigurowanie centrali.",
+      "Podłączenie akumulatora - włączenie napięcia sieciowego - podłączenie czujek - konfigurowanie centrali.",
+      "Włączenie napięcia sieciowego - konfigurowanie centrali - podłączenie czujek - podłączenie akumulatora.",
+      "Konfigurowanie centrali - podłączenie akumulatora - włączenie napięcia sieciowego - podłączenie czujek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 263,
+    "text": "Który element instalacji antenowej przedstawiono na rysunku?",
+    "answers": [
+      "Wzmacniacz.",
+      "Zwrotnicę.",
+      "Rozgałęźnik.",
+      "Symetryzator."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_element3.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 264,
+    "text": "Na którym rysunku pokazano układ umieszczony w obudowie typu BGA (ang. Ball Grid Array)?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_uklady.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 265,
+    "text": "W celu ułożenia przewodu instalacji alarmowej na betonowej ścianie pod tynkiem należy użyć uchwytu pokazanego na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_uchwyty.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 266,
+    "text": "Przygotowanie rezystora do wlutowania w płytkę obwodu drukowanego polega na zagięciu końcówek",
+    "answers": [
+      "bezpośrednio przy rezystorze oraz skróceniu ich na odpowiednią długość.",
+      "w pewnej odległości od rezystora bez ich skracania.",
+      "bezpośrednio przy rezystorze bez ich skracania.",
+      "w pewnej odległości od rezystora oraz skróceniu ich na odpowiednią długość."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 267,
+    "text": "Na rysunku pokazano kabel",
+    "answers": [
+      "energetyczny.",
+      "światłowodowy.",
+      "typu skrętka.",
+      "koncentryczny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_kabel.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 268,
+    "text": "Wtyk typu RCA jest pokazany na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_wtyki.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 269,
+    "text": "Wtyk typu micro USB pokazany jest na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_wtyki2.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 270,
+    "text": "Liczba zwojów uzwojenia pierwotnego transformatora sieciowego o napięciu wejściowym równym 230 V wynosi 460. Jaką liczbę zwojów uzwojenia wtórnego należy nawinąć na rdzeń transformatora, aby napięcie wyjściowe wynosiło około 16 V?",
+    "answers": [
+      "8",
+      "16",
+      "64",
+      "32"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 271,
+    "text": "Na rysunku pokazano kartę",
+    "answers": [
+      "muzyczną.",
+      "pamięci.",
+      "sieciową.",
+      "graficzną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_karta.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 272,
+    "text": "Które z wymienionych stwierdzeń dotyczących technologii montażu powierzchniowego nie jest prawdziwe?",
+    "answers": [
+      "Wyższa wartość impedancji połączeń niż w przypadku technologii montażu przewlekanego.",
+      "Duża szybkość montażu.",
+      "Możliwość rozmieszczenia komponentów po obu stronach płytki drukowanej.",
+      "Możliwość łączenia maszyn w linię produkcyjną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 273,
+    "text": "Jaka jest maksymalna wartość częstotliwości sygnałów przesyłanych kablem typu skrętka kategorii 5/5e?",
+    "answers": [
+      "50 MHz",
+      "250 MHz",
+      "100 MHz",
+      "500 MHz"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 274,
+    "text": "Instalator ma wykonać połączenie centrali alarmowej z manipulatorem oddalonym od centrali o 250 m. W tabeli podano wymaganą liczbę żył dla prawidłowego połączenia manipulatora z centralą w zależności od odległości dla przewodów z żyłami o przekroju 0,5 mm2. Ile przewodu YTDY 6 x 0,5 mm2 należy zastosować w celu prawidłowej realizacji tego połączenia?",
+    "answers": [
+      "125 m",
+      "250 m",
+      "500 m",
+      "750 m"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_centrala.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 275,
+    "text": "Na rysunku pokazano element SMD zamontowany na płytce PCB. Lutowie znajduje się w miejscu oznaczonym numerem",
+    "answers": [
+      "1",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_element4.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 276,
+    "text": "Adres fizyczny (sprzętowy) urządzenia sieci komputerowej oznaczony jest symbolem literowym",
+    "answers": [
+      "MAC",
+      "VPN",
+      "IP",
+      "DNS"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 277,
+    "text": "Przerzutnik monostabilny jest układem elektronicznym, który generuje",
+    "answers": [
+      "okresowy sygnał sinusoidalny.",
+      "pojedyncze impulsy prostokątne.",
+      "okresowy sygnał trójkątny.",
+      "sygnał liniowo narastający."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 278,
+    "text": "Jaką wartość rezystancji ma rezystor przedstawiony na rysunku?",
+    "answers": [
+      "5,6 Ω",
+      "5600 Ω",
+      "560 Ω",
+      "56 Ω"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_rezystor3.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 279,
+    "text": "Warystor jest elementem elektronicznym wykorzystywanym w celu",
+    "answers": [
+      "wygładzania tętnień napięcia w zasilaczach.",
+      "zabezpieczenia układów elektronicznych przed skutkami przepięć.",
+      "stabilizacji wartości napięć stałych.",
+      "stabilizacji punktu pracy tranzystorów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 280,
+    "text": "Jakim skrótem literowym oznacza się elementy elektroniczne przeznaczone do montażu powierzchniowego?",
+    "answers": [
+      "SMD",
+      "THT",
+      "PCB",
+      "SMT"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 281,
+    "text": "Którego środka używa się do mycia płytek drukowanych po wlutowaniu wszystkich elementów elektronicznych?",
+    "answers": [
+      "Rozpuszczalnika nitro.",
+      "Wody destylowanej.",
+      "Benzyny ekstrakcyjnej.",
+      "Alkoholu izopropylowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 282,
+    "text": "Na którym schemacie przedstawiono prawidłowy układ do pomiaru wartości natężenia prądu płynącego przez rezystancję R?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_schematy5.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 283,
+    "text": "Na którym zakresie pomiarowym multimetru należy wykonać pomiar napięcia stałego, jeśli wiadomo, że spodziewana wartość napięcia mierzonego wynosi około 1,5 V?",
+    "answers": [
+      "20 V DC",
+      "2 V AC",
+      "2 V DC",
+      "20 V AC"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 284,
+    "text": "Na rysunku przedstawiono schemat",
+    "answers": [
+      "powielacza napięcia.",
+      "wzmacniacza przeciwsobnego.",
+      "ogranicznika amplitudy.",
+      "stabilizatora szeregowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_schemat42.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 285,
+    "text": "Co oznaczono cyfrą 4 na rysunku prezentującym technologię montażu elementów SMD?",
+    "answers": [
+      "Cynę.",
+      "Klej.",
+      "Ścieżki.",
+      "Laminat."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_rysunek12.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 286,
+    "text": "Określenie DIL8 dotyczy typu",
+    "answers": [
+      "obudowy tranzystora.",
+      "oprawki diody.",
+      "gniazda bezpiecznika.",
+      "podstawki pod układ scalony."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 287,
+    "text": "W jakich jednostkach miary wyskalowany jest miernik do pomiaru mocy czynnej?",
+    "answers": [
+      "Kilowatogodzinach.",
+      "Woltoamperach.",
+      "Varach.",
+      "Watach."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 288,
+    "text": "Które narzędzie służy do usuwania izolacji z przewodów elektrycznych?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_narzedzia13.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 289,
+    "text": "Tygla lutowniczego używa się podczas",
+    "answers": [
+      "wylutowywania układów scalonych z płytek drukowanych.",
+      "pobielania końcówek przewodów elektrycznych.",
+      "zautomatyzowanego lutowania na fali.",
+      "lutowania elementów elektronicznych za pomocą gorącego powietrza."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 290,
+    "text": "Które narzędzie służy do wyjmowania układów scalonych z podstawek PLCC?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_narzedzia14.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 291,
+    "text": "Montaż mechaniczny przedstawionego czujnika odbywa się za pomocą",
+    "answers": [
+      "śrub.",
+      "nakrętek.",
+      "konektorów.",
+      "wkrętów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_czujnik2.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 292,
+    "text": "Podzespoły układów elektronicznych przeznaczone do montażu na szynie DIN mocuje się za pomocą",
+    "answers": [
+      "śrub.",
+      "zatrzasków.",
+      "nitów.",
+      "wkrętów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 293,
+    "text": "Przygotowanie rezystora, do montażu ręcznego przewlekanego na standardowej płytce obwodu drukowanego, polega na zagięciu końcówek",
+    "answers": [
+      "bezpośrednio przy rezystorze oraz skróceniu ich na długość 1,5 mm od miejsca zagięcia.",
+      "bezpośrednio przy rezystorze bez ich skracania.",
+      "w pewnej odległości od rezystora oraz skróceniu ich na długość 1,5 mm od miejsca zagięcia.",
+      "w odległości wyznaczonej rozstawem otworów bez ich skracania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 294,
+    "text": "Przedstawiona na rysunku lutownica wyposażona jest w system automatycznego",
+    "answers": [
+      "podawania lutowia.",
+      "odsysania lutowia.",
+      "dozowania gorącego powietrza.",
+      "usuwania nadmiaru topnika."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_lutownica.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 295,
+    "text": "Na schemacie przedstawiono układ do pomiaru rezystancji metodą",
+    "answers": [
+      "pośrednią.",
+      "techniczną.",
+      "bezpośrednią.",
+      "porównawczą."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_uklad21.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 296,
+    "text": "Mostek Graetza wykorzystywany jest w układach elektronicznych jako",
+    "answers": [
+      "stabilizator równoległy.",
+      "prostownik jednopołówkowy.",
+      "prostownik dwupołówkowy.",
+      "stabilizator szeregowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 297,
+    "text": "Na rysunku przedstawiono symbol graficzny diody",
+    "answers": [
+      "stabilizacyjnej.",
+      "pojemnościowej.",
+      "prostowniczej.",
+      "elektroluminescencyjnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_symbol13.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 298,
+    "text": "Jakiego rodzaju połączenia wykonuje się za pomocą przedstawionego narzędzia?",
+    "answers": [
+      "Nitowane.",
+      "Lutowane.",
+      "Zgrzewane.",
+      "Zagniatane."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_narzedzie12.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 299,
+    "text": "Oznaczenia LC63, LC60 i Sn60Pb40 dotyczą",
+    "answers": [
+      "preparatów odtłuszczających lutowane powierzchnie.",
+      "topników lutowniczych.",
+      "stopów lutowniczych.",
+      "preparatów do usuwania resztek topnika ze spoiw lutowniczych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 300,
+    "text": "Jaką średnicę powinien mieć otwór wykonany w obudowie urządzenia elektronicznego, w celu zamontowania potencjometru o wymiarach przedstawionych na rysunku?",
+    "answers": [
+      "28,0 mm",
+      "6,0 mm",
+      "10,0 mm",
+      "10,5 mm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_potencjometr3.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 301,
+    "text": "Przedstawiony element ułatwia lutowanie lub rozlutowanie układów scalonych wykorzystywanych w technologii SMD za pomocą",
+    "answers": [
+      "oporowej stacji lutowniczej.",
+      "stacji na gorące powietrze.",
+      "lutownicy transformatorowej.",
+      "lutownicy laserowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_element13.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 302,
+    "text": "Na rysunku przedstawiono przebieg procesu",
+    "answers": [
+      "rozlutowywania obwodu drukowanego.",
+      "mycia płytki drukowanej po lutowaniu.",
+      "lutowania rozpływowego.",
+      "lutowania na fali."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_proces3.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 303,
+    "text": "W którą końcówkę powinien być wyposażony wkrętak umożliwiający odkręcenie wkrętów z łbem typu Tri-Wing, mocujących pokrywę obudowy urządzenia elektronicznego?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_koncowki.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 304,
+    "text": "Ile wynosi pojemność przedstawionego kondensatora?",
+    "answers": [
+      "100 pF",
+      "104 nF",
+      "104 pF",
+      "100 nF"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_kondensator7.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 305,
+    "text": "W jaki sposób należy podłączyć poszczególne żyły przewodu zasilającego?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_przewody.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 306,
+    "text": "Na czym polega wykonanie montażu mechanicznego przedstawionego transformatora?",
+    "answers": [
+      "Na zamocowaniu transformatora na szynie TH35.",
+      "Na przyklejeniu przewodów do końców uzwojeń transformatora.",
+      "Na przykręceniu transformatora za pomocą śrub i nakrętek.",
+      "Na wlutowaniu transformatora w płytkę obwodu drukowanego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_transformator2.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 307,
+    "text": "Rezonator kwarcowy jest elementem wykorzystywanym do",
+    "answers": [
+      "ograniczenia amplitudy sygnałów wytwarzanych przez generatory.",
+      "stabilizacji częstotliwości drgań generatorów.",
+      "ograniczenia wpływu zmian temperatury na wartość wzmocnienia wzmacniaczy tranzystorowych.",
+      "stabilizacji punktu pracy tranzystorów we wzmacniaczach wysokiej częstotliwości."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 308,
+    "text": "Który element należy przykleić do płytki drukowanej przed operacją lutowania na fali?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_elementy9.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 309,
+    "text": "Przedstawione narzędzie służy do",
+    "answers": [
+      "wiercenia.",
+      "gratowania.",
+      "gwintowania.",
+      "trasowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_narzedzie11.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 310,
+    "text": "Opaskę antystatyczną na nadgarstek stosuje się w celu",
+    "answers": [
+      "zabezpieczenia elementów przed uszkodzeniem na skutek działania ładunków elektrostatycznych.",
+      "rozładowania kondensatorów przed ich wlutowaniem w płytkę.",
+      "zabezpieczenia lutowanych elementów przed uszkodzeniem na skutek przegrzania.",
+      "uniknięcia porażenia prądem elektrycznym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 311,
+    "text": "Przedstawiony element ułatwia lutowanie układów oraz rozlutowanie układów scalonych wykorzystywanych w technologii SMD za pomocą",
+    "answers": [
+      "stacji na gorące powietrze.",
+      "lutownicy laserowej.",
+      "oporowej stacji lutowniczej.",
+      "lutownicy transformatorowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_element13.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 312,
+    "text": "Który zakres temperatur grota jest optymalny podczas lutowania przewlekanego elementów elektronicznych, jeśli jako lutowia używa się stopu cynowo-ołowiowego?",
+    "answers": [
+      "380°C ÷ 410°C",
+      "310°C ÷ 330°C",
+      "420°C ÷ 450°C",
+      "350°C ÷ 370°C"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 313,
+    "text": "W jaki sposób należy podłączyć poszczególne żyły przewodu zasilajacego?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_przewody.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 314,
+    "text": "Ile wynosi wartość pojemności przedstawionego kondensatora?",
+    "answers": [
+      "100 nF",
+      "104 pF",
+      "100 pF",
+      "104 nF"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/e5_kondensator7.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 315,
+    "text": "Podczas lutowania ręcznego przewlekanego elementów elektronicznych należy",
+    "answers": [
+      "nabrać lutowie na rozgrzany grot lutownicy i dotknąć grotem pola lutowniczego.",
+      "nabrać lutowie na rozgrzany grot lutownicy i dotknąć grotem końcówki elementu.",
+      "przyłożyć lutowie do rozgrzanego grotu lutownicy i końcówki elementu.",
+      "przyłożyć lutowie do rozgrzanego grotu lutownicy i obudowy elementu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 316,
+    "text": "Pobielanie końcówek przewodów elektrycznych wykonuje się za pomocą",
+    "answers": [
+      "lutownicy.",
+      "nagrzewnicy.",
+      "opalarki.",
+      "zgrzewarki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 317,
+    "text": "Podczas kontroli czujki czadu stwierdzono, że emituje ona co 30 sekund dwa krótkie sygnały dźwiękowe i czerwona dioda LED miga dwukrotnie. Oznacza to, że",
+    "answers": [
+      "baterie są rozładowane i należy je wymienić.",
+      "czujka działa poprawnie i wykryła niebezpieczne stężenie tlenku węgla.",
+      "czujka działa poprawnie i jest w stanie czuwania.",
+      "okres użytkowania czujki przewidziany przez producenta dobiegł końca i należy ją wymienić."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_tabela2.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 318,
+    "text": "Jaka jest prawidłowa kolejność czynności wykonywanych podczas demontażu uszkodzonej kamery monitoringu?",
+    "answers": [
+      "Wyłączenie zasilania, odłączenie przewodów zasilających, odłączenie przewodu sygnałowego, zdemontowanie kamery.",
+      "Wyłączenie zasilania, odłączenie przewodów zasilających, zdemontowanie kamery, odłączenie przewodu sygnałowego.",
+      "Wyłączenie zasilania, odłączenie przewodu sygnałowego, odłączenie przewodów zasilających, zdemontowanie kamery.",
+      "Odłączenie przewodu sygnałowego, wyłączenie zasilania, odłączenie przewodów zasilających, zdemontowanie kamery."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 319,
+    "text": "Jakiego typu kondensator wymaga zachowania polaryzacji podczas jego wymiany?",
+    "answers": [
+      "Elektrolityczny.",
+      "Powietrzny.",
+      "Foliowy.",
+      "Ceramiczny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 320,
+    "text": "Przedstawiony na rysunku przewód umożliwia połączenie komputera",
+    "answers": [
+      "z dyskiem zewnętrznym.",
+      "ze skanerem.",
+      "z projektorem multimedialnym.",
+      "z modemem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_przewod2.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 321,
+    "text": "Który przewód służy do podłączenia głośników do wyjść audio wzmacniacza?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_przewody.png"
+    },
+    "category": "ELM.02"
+  },
+  {
+    "id": 322,
+    "text": "Analogowy oscyloskop jednokanałowy umożliwia pomiar",
+    "answers": [
+      "współczynnika zniekształceń nieliniowych.",
+      "czasów narastania i opadania impulsów.",
+      "przesunięcia fazowego pomiędzy dwoma sygnałami sinusoidalnymi.",
+      "bitowej stopy błędów"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.02"
+  },
+  {
+    "id": 323,
+    "text": "Ile żył powinien posiadać przewód zakończony z obu stron złączami przedstawionymi na rysunku?",
+    "answers": [
+      "4 żyły.",
+      "6 żył.",
+      "3 żyły.",
+      "5 żył."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm02/ee3_przewod.png"
+    },
+    "category": "ELM.02"
+  }
+]
