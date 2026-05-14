@@ -1,0 +1,3628 @@
+[
+  {
+    "id": 1,
+    "text": "W urządzeniu mechatronicznym jako przeniesienie napędu został zastosowany pasek zębaty. Podczas okresowej kontroli paska należy przede wszystkim sprawdzić stopień jego zużycia oraz",
+    "answers": [
+      "smarowanie.",
+      "naprężenie.",
+      "bicie osiowe.",
+      "temperaturę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 2,
+    "text": "Za pomocą którego symbolu powinno przedstawić się na schemacie indukcyjny czujnik zbliżeniowy?",
+    "answers": [
+      "Symbolu 1.",
+      "Symbolu 4.",
+      "Symbolu 3.",
+      "Symbolu 2."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole15.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 3,
+    "text": "Który z rysunków przedstawia prawidłowo narysowany i opisany symbol graficzny przełącznika z zestykiem NO, przełączanym przez wciśnięcie?",
+    "answers": [
+      "Rysunku 1.",
+      "Rysunku 2.",
+      "Rysunku 4.",
+      "Rysunku 3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole17.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 4,
+    "text": "Prawidłowo strukturę kinematyczną OPO (RTR) urządzenia manipulacyjnego przedstawiono na rysunku",
+    "answers": [
+      "1",
+      "4",
+      "2",
+      "3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_rysunki.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 5,
+    "text": "Co należy zrobić, aby przetestować działanie fragmentu programu odpowiedzialnego za włączenie cewki Y1?",
+    "answers": [
+      "Najpierw uaktywnić czujnik B1, a później wcisnąć przycisk S2.",
+      "Nacisnąć równocześnie przyciski S1 i S2.",
+      "Najpierw uaktywnić czujniki B1 i B2, a później wcisnąć przycisk S1.",
+      "Najpierw wcisnąć przycisk S2, a później uaktywnić czujnik B1."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program20.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 6,
+    "text": "Diagram czasowy na rysunku przedstawia działanie instrukcji",
+    "answers": [
+      "TON",
+      "TONR",
+      "TP",
+      "TOF"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_diagram.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 7,
+    "text": "Prawidłowo narysowany symbol graficzny dzwonka (ang. bell) przedstawiono na rysunku",
+    "answers": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole16.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 8,
+    "text": "Przedstawione na rysunku okno dialogowe oprogramowania sterownika PLC wyświetlane jest podczas",
+    "answers": [
+      "wykonywania programu w trybie pracy krokowej.",
+      "zapisu programu na nośniku danych.",
+      "symulacji krokowej działania programu.",
+      "tłumaczenia programu na kod maszynowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_okno.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 9,
+    "text": "Który z programów realizuje funkcję logiczną NAND?",
+    "answers": [
+      "Program 1.",
+      "Program 2.",
+      "Program 3.",
+      "Program 4."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_programy6.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 10,
+    "text": "W PLC zmienne 16 bitowe zapamiętujące m.in. wartości zliczonych impulsów przez instrukcje licznikowe powinny posiadać format oznaczany literą",
+    "answers": [
+      "b",
+      "D",
+      "W",
+      "B"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 11,
+    "text": "Czego dowodzi fakt użycia instrukcji TON w przedstawionym programie sterowniczym?",
+    "answers": [
+      "Zmienna %Q0.0 może przyjąć wartość 1 po czasie 2 sekund od uaktywnienia instrukcji T1.",
+      "Odliczanie czasu 2 sekund realizowane przez instrukcję T1 nastąpi wtedy, gdy zmienna %I0.1 przyjmie wartość 1.",
+      "Zmienna bitowa instrukcji T1 będzie równa 1, gdy wartość czasu nie przekroczy 2 sekund.",
+      "Wartość 1 przypisana do zmiennej %I0.0 blokuje możliwość uruchomienia instrukcji T1."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program16.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 12,
+    "text": "Na schematach układów hydraulicznych przyłącze przewodu odpływowego rozdzielacza oznaczane jest symbolem literowym",
+    "answers": [
+      "P",
+      "T",
+      "A",
+      "B"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 13,
+    "text": "Która z wymienionych zasad musi być przestrzegana przez obsługujących urządzenie mechatroniczne, jeżeli na jego obudowie umieszczony jest symbol graficzny przedstawiony na rysunku?",
+    "answers": [
+      "Należy uważnie nasłuchiwać pracy urządzenia.",
+      "Zakazane jest słuchanie muzyki podczas pracy urządzenia.",
+      "Dozwolone jest słuchanie muzyki podczas pracy urządzenia.",
+      "Należy stosować środki ochrony słuchu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbol.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 14,
+    "text": "Prawidłowo narysowany symbol graficzny podpory wahliwej stosowany na schematach mechanicznych przedstawiono na rysunku",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole14.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 15,
+    "text": "Na podstawie załączonego fragmentu instrukcji obsługi frezarki wskaż, która z wymienionych czynności eksploatacyjnych jest wykonywana najrzadziej.",
+    "answers": [
+      "Usuwanie wiórów z urządzenia do wymiany narzędzi.",
+      "Sprawdzenie filtrów chłodziwa wrzeciona.",
+      "Czyszczenie stożka wrzeciona.",
+      "Zmiana wszystkich narzędzi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_instrukcja2.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 16,
+    "text": "Której z podanych modyfikacji wymaga przedstawiony program, aby mimo występowania chwilowych logicznych stanów 0 na wejściu %I0.2 przy stanie logicznym 1 zmiennej %M0.0 wyjście %Q0.7 miało stan logiczny 1 przez czas 5 minut od pierwszego uaktywnienia %I0.2?",
+    "answers": [
+      "Należy w miejsce instrukcji zegara TON wstawić instrukcję TONR.",
+      "Należy w miejsce instrukcji zegara TON wstawić instrukcję TP.",
+      "Należy uzupełnić program o instrukcję podtrzymania stanu I0.2.",
+      "Należy zmienić instrukcję AND na instrukcję OR."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program17.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 17,
+    "text": "Na podstawie informacji z dokumentacji technicznej wybierz kod zamówienia przemiennika częstotliwości do sterowania pracą silnika jednofazowego o napięciu znamionowym 230 V, prądzie znamionowym 9,2 A i mocy 1,5 kW.",
+    "answers": [
+      "DC1-S21D5FN-A20N",
+      "DC1-S2015FN-A66N",
+      "DC1-32015FN-A66N",
+      "DC1-121D5FN-A20N"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_dokumentacja.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 18,
+    "text": "Interfejs sieciowy, symbolicznie przedstawionego na rysunku komputera, z zainstalowanym oprogramowaniem do programowania sterowników PLC, posiada przypisany adres IP 192.168.99.2 oraz maskę podsieci 255.255.255.0. Który z podanych adresów IP należy nadać sterownikowi aby mógł komunikować się z komputerem?",
+    "answers": [
+      "255.255.255.0",
+      "192.168.99.3",
+      "255.255.255.1",
+      "192.168.100.2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_komputer.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 19,
+    "text": "Na podstawie obrazu z kamery termowizyjnej można stwierdzić, że stan",
+    "answers": [
+      "izolacji uzwojeń wymusza konieczność zatrzymania maszyny.",
+      "techniczny elementów silnika jest prawidłowy.",
+      "łożyska na wale silnika od strony wentylatora wymaga sprawdzenia.",
+      "łożyska na wale silnika od strony napędowej wymaga sprawdzenia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_obraz.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 20,
+    "text": "Na rysunku przedstawiono program sterujący linią technologiczną pakowania kawy. W wyniku jego działania do kartonu trafia 6 paczek kawy, po czym rozpoczyna się transport do maszyny zamykającej opakowanie. Wartość którego parametru należy zmienić w programie, aby w kartonie umieszczane były 4 paczki kawy?",
+    "answers": [
+      "Kierunek zliczania.",
+      "Wartość R licznika.",
+      "Czas transportu do maszyny zamykającej opakowanie.",
+      "Wartość PV licznika."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program18.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 21,
+    "text": "Który parametr i w jaki sposób należy zmodyfikować w programie, aby wydłużyć czas świecenia sygnalizatora H1?",
+    "answers": [
+      "Zwiększyć wartość przypisaną do zmiennej par2.",
+      "Zmniejszyć wartość przypisaną do zmiennej par2.",
+      "Zwiększyć wartość przypisaną do zmiennej par1.",
+      "Zmniejszyć wartość przypisaną do zmiennej par1."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program21.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 22,
+    "text": "Właściwy symbol graficzny przekładni z pasem zębatym, który należy umieścić na schemacie mechanicznym, przedstawiono na rysunku",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole13.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 23,
+    "text": "Wskaż, instrukcję którą należy uwzględnić w programie sterowniczym, aby wykrywać zmianę wartości logicznej obiektu z 1 na 0.",
+    "answers": [
+      "Instrukcja 2.",
+      "Instrukcja 1.",
+      "Instrukcja 3.",
+      "Instrukcja 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_instrukcje2.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 24,
+    "text": "Który symbol powinien zostać umieszczony na schemacie, aby przedstawiał zawór opisany w ramce?",
+    "answers": [
+      "3",
+      "1",
+      "2",
+      "4"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole20.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 25,
+    "text": "Którą funkcję logiczną realizuje program napisany w języku listy instrukcji?",
+    "answers": [
+      "NOR",
+      "NAND",
+      "XOR",
+      "OR"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program15.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 26,
+    "text": "Którego symbolu należy użyć na schemacie, aby prawidłowo wskazać, że napęd elektryczny urządzenia mechatronicznego jest zasilany z linii trójfazowej z przewodem ochronno-neutralnym?",
+    "answers": [
+      "Symbolu 2.",
+      "Symbolu 1.",
+      "Symbolu 3.",
+      "Symbolu 4."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole18.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 27,
+    "text": "Na podstawie fragmentu instrukcji serwisowej wskaż prawdopodobną przyczynę nieprawidłowej pracy urządzenia, jeżeli na jego wyświetlaczu wyświetla się kod błędu FA.",
+    "answers": [
+      "Problem ze sprężarką.",
+      "Uszkodzenie modułu IPM.",
+      "Błąd czujnika temperatury ssania.",
+      "Nieprawidłowa wartość napięcia zasilania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_instrukcja3.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 28,
+    "text": "Które nastawy muszą zostać wybrane w oknie konfiguracyjnym timera, aby załączał swoje wyjście po 5 sekundach od momentu podania na jego wejście logicznej jedynki?",
+    "answers": [
+      "TimerType: TON, Time Base: 100 ms, Preset: 50.",
+      "TimerType: TOF, Time Base: 10 ms, Preset: 50.",
+      "TimerType: TP, Time Base: 1 ms, Preset: 500.",
+      "TimerType: TP, Time Base: 1 s, Preset: 5."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_okno2.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 29,
+    "text": "Którą z czynności należy wykonać jako pierwszą przed rozpoczęciem instalowania oprogramowania przeznaczonego do programowania sterowników PLC?",
+    "answers": [
+      "Odinstalować starszą wersję oprogramowania, które ma być zainstalowane.",
+      "Uaktualnić system operacyjny komputera, na którym instalowane będzie oprogramowanie.",
+      "Skopiować z nośnika instalacyjnego wersję instalacyjną oprogramowania na dysk twardy komputera.",
+      "Sprawdzić minimalne wymagania, jakie powinien posiadać komputer, na którym oprogramowanie będzie instalowane."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 30,
+    "text": "Zgodnie z programem przedstawionym na rysunku wyjście %Q0.0 przyjmie stan 1",
+    "answers": [
+      "przez 3 s od chwilowego podania stanu 1 na wejście %I0.1, jeżeli %I0.0=0.",
+      "przez 3 s od chwilowego podania stanu 1 na wejście %I0.0, jeżeli %I0.1=1.",
+      "po 3 s od chwilowego podania stanu 1 na wejście %I0.0, jeżeli %I0.1=0.",
+      "po 3 s od chwilowego podania stanu 1 na wejście %I0.1, jeżeli %I0.0=0."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program13.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 31,
+    "text": "Który stan wyjść nie jest możliwy w programie przedstawionym na rysunku?",
+    "answers": [
+      "%Q0.1=1 i %Q0.2=1",
+      "%Q0.1=1 i %Q0.2=0",
+      "%Q0.1=0 i %Q0.2=0",
+      "%Q0.1=0 i %Q0.2=1"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program14.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 32,
+    "text": "Za pomocą których elementów układu elektropneumatycznego, przedstawionego na schemacie, należy regulować prędkość wsuwania tłoczysk siłowników 1A1 i 2A1?",
+    "answers": [
+      "1V2 i 2V2",
+      "1V1 i 2V1",
+      "1V2 i 2V1",
+      "1V1 i 2V2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_uklad.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 33,
+    "text": "Na podstawie przedstawionej listy kontrolnej procedury postępowania uruchomieniowego przed załączeniem układu regulacji opartego na sterowniku PLC należy w pierwszej kolejności sprawdzić",
+    "answers": [
+      "położenie przełącznika trybu pracy sterownika PLC.",
+      "kolejność podłączeń elementów wejściowych do sterownika.",
+      "kolejność podłączeń elementów wyjściowych do sterownika.",
+      "prawidłowość polaryzacji łączy zasilających."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_lista.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 34,
+    "text": "Na panelu przemiennika częstotliwości migają jednocześnie z interwałem 1 sekundy dioda zielona RUN i czerwona ALM. Na podstawie tabeli sygnalizacji błędów określ przyczynę sygnalizowanego błędu przemiennika.",
+    "answers": [
+      "Za mała wartość napięcia zasilająca przemiennik częstotliwości – podnapięcie.",
+      "Wzrost napięcia w obwodzie silnik przemiennik częstotliwości – przepięcie.",
+      "Wzrost prądu w obwodzie silnik przemiennik częstotliwości – przetężenie.",
+      "Za duża wartość prądu pobierana w obwodzie silnoprądowym – przeciążenie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_tabela3.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 35,
+    "text": "Symbol graficzny zaworu sterowanego za pomocą pedału z zapadką, stosowany na schematach pneumatycznych, przedstawiono na rysunku",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole19.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 36,
+    "text": "Który symbol literowy spełniający wymagania normy IEC 61131, jest stosowany w programie sterowniczym dla PLC do adresowania jego fizycznych wyjść dyskretnych?",
+    "answers": [
+      "I",
+      "Q",
+      "S",
+      "R"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 37,
+    "text": "Do którego wejścia licznika CTUD należy podłączyć sygnał ustalający kierunek zliczania impulsów (zwiększanie/zmniejszanie wartości w akumulatorze licznika)?",
+    "answers": [
+      "Cnt",
+      "Par",
+      "Dir",
+      "R"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_ramka3.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 38,
+    "text": "Wyłączenie silnika sterowanego za pośrednictwem stycznika K1 podłączonego do zaprogramowanego sterownika PLC następuje po odliczeniu czasu 10 sekund przez instrukcję T1 oraz",
+    "answers": [
+      "aktywację czujnika B1.",
+      "wciśnięcie przycisku S2.",
+      "deaktywację czujnika B1.",
+      "wciśnięcie przycisku S1."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program19.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 39,
+    "text": "Przyjmując zasadę znakowania na schematach układów pneumatycznych według przedstawionego na rysunku klucza określ, jakie oznaczenia powinny posiadać elementy X1 i X2 na schemacie pneumatycznym.",
+    "answers": [
+      "X1 – 1A2; X2 – 2A2",
+      "X1 – 1V2; X2 – 2V2",
+      "X1 – 3S1; X2 – 3S2",
+      "X1 – 2V3; X2 – 1V3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_schemat4.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 40,
+    "text": "Na podstawie zarejestrowanego przebiegu wartości regulowanej w układzie regulacji dwustanowej zauważono zbyt duże oscylacje wokół wartości zadanej. Aby zmniejszyć wartość amplitudy oscylacji, należy w regulatorze cyfrowym",
+    "answers": [
+      "zmniejszyć wartość sygnału zadającego.",
+      "zmniejszyć szerokość histerezy.",
+      "zwiększyć amplitudę sygnału regulującego.",
+      "zwiększyć szerokość histerezy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 41,
+    "text": "Który z programów odpowiada funkcji logicznej XOR?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_programy4.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 42,
+    "text": "Których czynności nie może wykonywać operator obsługujący robota spawalniczego?",
+    "answers": [
+      "Regulować i wymieniać narzędzia w głowicy roboczej.",
+      "Uruchamiać robota z poziomu panelu operatorskiego.",
+      "Włączać i wyłączać sterownik robota.",
+      "Włączać i wyłączać media zasilające robota."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 43,
+    "text": "Z wykonywanego przez sterownik PLC programu wynika, że pojawienie się stanu wysokiego na wejściu I0.1 (S3) sterownika spowoduje uaktywnienie wyjścia Q0.1 (H2) z opóźnieniem czasowym równym",
+    "answers": [
+      "1 sekunda.",
+      "3 sekundy.",
+      "2 sekundy.",
+      "5 sekund."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program11.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 44,
+    "text": "Aby przedstawić na schemacie przepływomierz należy użyć symbolu graficznego",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole12.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 45,
+    "text": "Którą funkcję logiczną realizuje program zapisany w języku FBD?",
+    "answers": [
+      "XNOR",
+      "NOR",
+      "OR",
+      "XOR"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program8.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 46,
+    "text": "Którą funkcję logiczną realizuje program przestawiony w języku LAD?",
+    "answers": [
+      "Y1 = S1˄S2˄M0",
+      "Y1 = S1˄~S2˅M0",
+      "Y1 = ~S1˄S2˅M0",
+      "Y1 = ~S1˅~S2˄M0"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program7.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 47,
+    "text": "Zakres prac eksploatacyjnych urządzenia mechatronicznego należy ustalić zgodnie z",
+    "answers": [
+      "dokumentem zakupu urządzenia.",
+      "protokołem przekazania urządzenia do eksploatacji.",
+      "kartą gwarancyjną.",
+      "dokumentacją techniczno-ruchową urządzenia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 48,
+    "text": "Którą funkcję logiczną realizuje fragment programu przedstawiony w języku IL?",
+    "answers": [
+      "OR",
+      "XNOR",
+      "NOR",
+      "XOR"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program9.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 49,
+    "text": "Którą bramkę logiczną prezentuje podany fragment programu w języku LAD? Którą z funkcji logicznych na zmiennych binarnych I0.0 i I1.0 realizuje program?",
+    "answers": [
+      "XOR",
+      "OR",
+      "NAND",
+      "XNOR"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program12.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 50,
+    "text": "Aby silnik pneumatyczny mógł wirować z prędkością 3000 obr/min, minimalna wydajność sprężarki, która go zasila powinna wynosić:",
+    "answers": [
+      "300 l/min",
+      "100 l/min",
+      "150 l/min",
+      "250 l/min"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_wykres.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 51,
+    "text": "W instalacji pneumatycznej panuje ciśnienie o wartości 8 bar. Aby siłownik, którego powierzchnia tłoka wynosi 20 cm2 a sprawność 0.8 wysuwał tłoczysko z minimalną siłą równą 1000 N należy zredukować ciśnienie w instalacji o wartość równą * zdający otrzymuje jeden punkt niezależnie od udzielonej odpowiedzi.",
+    "answers": [
+      "0,2 MPa  \nB.  0,3 MPa \nC.  0,5 MPa \nD.  0,6 MPa"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 52,
+    "text": "Funkcja logiczna jaką realizuje program przedstawiony w języku IL to funkcja",
+    "answers": [
+      "AND",
+      "NAND",
+      "NOR",
+      "OR"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program6.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 53,
+    "text": "Który z przedstawionych programów zapisanych w języku LD jest odpowiednikiem programu zapisanego w języku IL?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program10.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 54,
+    "text": "Jeżeli wartość zmiennej „Bieżący stan” będzie równa 3 to realizowana będzie instrukcja warunkowa rozpoczynająca się od linii o numerze",
+    "answers": [
+      "7., a zmiennej „L2 6-10” zostanie przypisana wartość 1",
+      "1., a zmiennej „L1 1-5 zostanie przypisana wartość 0",
+      "1., a zmiennej „L1 1-5” zostanie przypisana wartość 1",
+      "7., a zmiennej „L2 6-10” zostanie przypisana wartość 0"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_kod.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 55,
+    "text": "Na podstawie podanego fragmentu danych technicznych styczników dobierz typ stycznika spełniający następujące wymagania.",
+    "answers": [
+      "DILM12",
+      "DILM9",
+      "DILM17",
+      "DILM7"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_tabela6.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 56,
+    "text": "Który zestaw nastaw czasowych powinien być ustawiony na wejściach PT instrukcji zegarowych T1 i T2 w programie przedstawionym na rysunku, aby po naciśnięciu S2 (NO), lampka sygnalizacyjna H4 migała zgodnie z przebiegiem czasowym?",
+    "answers": [
+      "t1=1s i t2=0,5 s",
+      "t1=0,75s i t2=0,25 s",
+      "t1=0,5s i t2=0,5 s",
+      "t1=0,25s i t2=0,75s"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_schemat3.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 57,
+    "text": "Który symbol literowy jest stosowany w programie sterowniczym dla PLC, spełniającego wymagania normy IEC-61131, do zaadresowania jego fizycznych wejść?",
+    "answers": [
+      "I",
+      "R",
+      "S",
+      "Q"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 58,
+    "text": "Aby przedstawić na schemacie pneumatycznym urządzenia mechatronicznego chłodnicę powietrza należy użyć symbolu graficznego",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole10.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 59,
+    "text": "Prawidłowo narysowany symbol graficzny podpory samonastawnej stosowany na schematach mechanicznych przedstawiono na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole3.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 60,
+    "text": "Którego symbolu należy użyć rysując schemat elektroniczny z tranzystorem unipolarnym MOSFET-N?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole8.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 61,
+    "text": "W sterowniku PLC stany niski lub wysoki przypisane m.in. do dyskretnych wejść i wyjść powinny być deklarowane jako zmienne o formacie",
+    "answers": [
+      "B",
+      "b",
+      "D",
+      "W"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 62,
+    "text": "Które stany logiczne zadane na wejścia %I0.1 i %I0.2 spowodują uzyskanie na wyjściu %Q0.1 wysokiego stanu logicznego?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_schemat2.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 63,
+    "text": "Aby przedstawić na schemacie elektronicznym urządzenia mechatronicznego warystor należy użyć symbolu",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole9.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 64,
+    "text": "Którego klucza należy użyć do przykręcania przewodów hydraulicznych o złączach śrubowych sześciokątnych?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_klucze.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 65,
+    "text": "Na podstawie przedstawionego fragmentu algorytmu SFC, wskaż warunek który musi zostać spełniony przed wykonaniem kroku 4.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_algorytm.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 66,
+    "text": "Którą funkcję logiczną realizuje fragment programu przedstawiony na rysunku?",
+    "answers": [
+      "XOR",
+      "OR",
+      "NOR",
+      "NAND"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 67,
+    "text": "Na podstawie fragmentu katalogu regulatora określ, który typ czujnika temperatury należy zastosować, jeżeli maksymalna wartość temperatury regulowanej przez system mechatroniczny może osiągnąć wartość 1000÷1100°C, a dokładność pomiaru czujnika powinna mieścić się w granicach ±6°C.",
+    "answers": [
+      "Termopara typu J",
+      "Czujnik Pt100",
+      "Termopara typu S",
+      "Termopara typu K"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_tabela5.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 68,
+    "text": "Aby siła uchwytu głowicy robota wynosiła 800 N przy powierzchni użytkowej tłoka 12 cm2 ciśnienie robocze wskazywane przez manometr zespołu przygotowania powietrza powinno mieć wartość",
+    "answers": [
+      "6 bar",
+      "8 bar",
+      "2 bar",
+      "4 bar"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 69,
+    "text": "Którą z końcówek należy zastosować we wkrętarce akumulatorowej, aby odkręcić przedstawiony na rysunku wkręt mocujący elementy urządzenia mechatronicznego?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_rysunek.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 70,
+    "text": "Który z przedstawionych programów w języku LD realizuje funkcję logiczną o równaniu",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_programy5.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 71,
+    "text": "Na schemacie układu hydraulicznego przyłącze przewodu zasilającego rozdzielacza oznaczane jest symbolem literowym",
+    "answers": [
+      "T",
+      "B",
+      "A",
+      "P"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 72,
+    "text": "Które czynności regulacyjne w napędzie mechatronicznym zbudowanym w oparciu o przemiennik częstotliwości i silnik indukcyjny należy wykonać, aby zwiększyć prędkość wirowania wirnika silnika, nie zmieniając przy tym wartości poślizgu?",
+    "answers": [
+      "Zmniejszyć proporcjonalnie wartość częstotliwości i napięcia zasilającego.",
+      "Zmniejszyć wartość częstotliwości napięcia zasilającego.",
+      "Zwiększyć proporcjonalnie wartość częstotliwości i napięcia zasilającego.",
+      "Zwiększyć wartość napięcia zasilającego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 73,
+    "text": "Prawidłowo narysowany symbol graficzny brzęczyka (ang. buzzer) przedstawiono na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole5.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 74,
+    "text": "Na podstawie załączonego fragmentu instrukcji obsługi frezarki wskaż, która z wymienionych czynności konserwacyjnych powinna być najczęściej wykonywana dla maszyny niewyposażonej w opcjonalny układ chłodziwa wrzeciona (TSC).",
+    "answers": [
+      "Sprawdzenie prawidłowości pracy automatycznego spustu na filtrze regulatora.",
+      "Sprawdzenie działania osłon prowadnicy.",
+      "Oczyszczenie osadnika wiórów w zbiorniku płynu chłodzącego.",
+      "Sprawdzenie poziomu oleju w skrzynce przekładniowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_instrukcja.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 75,
+    "text": "Na podstawie fragmentu katalogu wężów hydraulicznych dobierz średnicę węża 2SN łączącego rozdzielacz z siłownikiem w napędzie hydraulicznym, jeżeli ciśnienie robocze w układzie wynosi 270 barów.",
+    "answers": [
+      "16,0 mm",
+      "12,5 mm",
+      "10,0 mm",
+      "20,0 mm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_tabela4.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 76,
+    "text": "Aby przedstawić na schemacie rezonator kwarcowy należy użyć symbolu graficznego",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole11.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 77,
+    "text": "Symbol graficzny zaworu sterowanego za pomocą dźwigni z zapadką, stosowany na schematach pneumatycznych, przedstawiono na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole7.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 78,
+    "text": "Który z przedstawionych programów zapisanych w języku LD odpowiada przedstawionemu na rysunku programowi sterowniczemu urządzenia mechatronicznego zapisanemu w języku FBD?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program5.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 79,
+    "text": "Która akcja w kroku 3 sterowania sekwencyjnego przedstawionego na rysunku będzie wykonana z opóźnieniem czasowym 5 sekund?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_sterowanie.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 80,
+    "text": "Silnik pneumatyczny wysokoobrotowy o konstrukcji turbinowej powinien być smarowany olejem mineralnym, w sposób",
+    "answers": [
+      "ciągły, naolejonym powietrzem z instalacji zasilającej.",
+      "okresowy, smarownicą co dwa tygodnie.",
+      "ciągły, podawanym pompą olejową o stałej wydajności.",
+      "okresowy, smarownicą przed uruchomieniem silnika."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 81,
+    "text": "Interfejs sieciowy, symbolicznie przedstawionego na rysunku komputera, z zainstalowanym oprogramowaniem do programowania sterowników PLC, posiada przypisany adres IP 192.168.100.2 oraz maskę podsieci 255.255.255.0. Który z podanych adresów IP należy nadać sterownikowi aby mógł komunikować się z komputerem?",
+    "answers": [
+      "255.255.255.1",
+      "192.168.100.3",
+      "192.168.99.2",
+      "255.255.255.0"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_komputer.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 82,
+    "text": "Na panelu przemiennika częstotliwości migają na przemian z interwałem 1 sekundy dioda zielona RUN i czerwona ALM. Na podstawie tabeli sygnalizacji błędów określ przyczynę sygnalizowanego błędu przemiennika.",
+    "answers": [
+      "Wzrost napięcia w obwodzie silnik przemiennik częstotliwości – przepięcie.",
+      "Za duża wartość napięcia zasilająca przemiennik częstotliwości.",
+      "Za mała wartość napięcia zasilająca przemiennik częstotliwości.",
+      "Wzrost prądu w obwodzie silnik przemiennik częstotliwości – przetężenie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_tabela3.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 83,
+    "text": "Na podstawie fragmentu katalogu wężów hydraulicznych dobierz średnicę węża 2SN łączącego rozdzielacz z siłownikiem w napędzie hydraulicznym, jeżeli ciśnienie robocze w układzie wynosi 300 barów.",
+    "answers": [
+      "20,0 mm",
+      "12,5 mm",
+      "10,0 mm",
+      "16,0 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_tabela4.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 84,
+    "text": "Które czynności regulacyjne w napędzie mechatronicznym zbudowanym w oparciu o przemiennik częstotliwości i silnik indukcyjny należy wykonać, aby zwiększyć prędkość wirowania silnika, nie zmieniając przy tym wartości poślizgu?",
+    "answers": [
+      "Zwiększyć wartość napięcia zasilającego.",
+      "Zmniejszyć proporcjonalnie wartość i częstotliwość napięcia zasilającego.",
+      "Zmniejszyć częstotliwość napięcia zasilającego.",
+      "Zwiększyć proporcjonalnie wartość i częstotliwość napięcia zasilającego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 85,
+    "text": "Na podstawie przedstawionego grafu, przejście do kroku 7 jest możliwe, gdy aktywny jest krok",
+    "answers": [
+      "5 i spełniony jest warunek 7.",
+      "4 i spełniony jest warunek 3.",
+      "3 i spełniony jest warunek 9.",
+      "5 i spełniony jest warunek 6."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_graf2.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 86,
+    "text": "Który symbol literowy jest stosowany w programie sterowniczym dla PLC, spełniającego wymagania normy IEC 61131, do zaadresowania jego fizycznych wejść?",
+    "answers": [
+      "R",
+      "S",
+      "I",
+      "Q"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 87,
+    "text": "Właściwy symbol graficzny przekładni z pasem klinowym, który należy umieścić na schemacie mechanicznym, przedstawiono na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 88,
+    "text": "Rysunek przedstawia fragment algorytmu sterowania, przedstawionego za pomocą grafu sekwencji. Wskaż przebieg sygnału na wyjściu %Q0.1 sterownika po wykonaniu przez program działań w krokach 2 i 3, jeżeli na wykresach czas 0 s oznacza początek kroku 2.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_graf.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 89,
+    "text": "Na którym rysunku przedstawiono schemat przekładni jednostopniowej walcowej?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_schematy.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 90,
+    "text": "Której modyfikacji wymaga przedstawiony program, aby mimo występowania chwilowych logicznych stanów 0 na wejściu %I0.2 przy stanie logicznym 1 zmiennej %M0.0, wyjście %Q0.7 miało stan logiczny 1 przez czas 5 minut od pierwszego uaktywnienia %I0.2?",
+    "answers": [
+      "Należy w miejsce instrukcji zegara TON wstawić instrukcję TONR.",
+      "Należy uzupełnić program o instrukcję podtrzymania stanu %I0.2.",
+      "Należy w miejsce instrukcji zegara TON wstawić instrukcję TP.",
+      "Należy zmienić instrukcję AND na instrukcję OR."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program4.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 91,
+    "text": "Wskaż blok funkcjonalny, którego użycie w programie sterowniczym ułatwi bezpośrednie zliczanie liczby impulsów na wejściu PLC.",
+    "answers": [
+      "Regulator PID.",
+      "Licznik.",
+      "Multiplekser.",
+      "Timer TON."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 92,
+    "text": "Za pomocą którego symbolu powinno przedstawić się na schemacie pojemnościowy czujnik zbliżeniowy?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole4.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 93,
+    "text": "Do smarowania przekładni łańcuchowej przenoszącej moc 34 kW, zastosowanej w urządzeniu mechatronicznym, której łańcuch ma prędkość liniową 4 m/s, należy zastosować technikę smarowania",
+    "answers": [
+      "rozbryzgowego.",
+      "ciśnieniowego.",
+      "ciągłego grawitacyjnego.",
+      "okresowego, ręcznego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_tabela.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 94,
+    "text": "Na podstawie fragmentu katalogu regulatora określ, który typ czujnika temperatury należy zastosować, jeżeli maksymalna wartość temperatury regulowanej przez system mechatroniczny może osiągnąć wartość 800÷880°C, a dokładność pomiaru czujnika powinna mieścić się w granicach ±3°C. * zdający otrzymuje jeden punkt niezależnie od udzielonej odpowiedzi.",
+    "answers": [
+      "Czujnik Pt100 \nB. Termopara typu J \nC. Termopara typu K \nD. Termopara typu S"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_tabela5.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 95,
+    "text": "Która z przedstawionych linii programu zapisanego w języku drabinkowym jest zgodna z zasadami programowania?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_programy2.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 96,
+    "text": "Które stany logiczne zadane na wejścia %I0.1 i %I0.2 spowodują uzyskanie na wyjściu %Q0.1 logicznej 1.",
+    "answers": [
+      "%I0.1=1  %I0.2=0",
+      "%I0.1=0  %I0.2=0",
+      "%I0.1=0  %I0.2=1",
+      "%I0.1=1  %I0.2=1"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_schemat.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 97,
+    "text": "Którego symbolu należy użyć na schemacie, aby prawidłowo wskazać, że napęd elektryczny urządzenia mechatronicznego jest zasilany z linii trójfazowej z przewodem ochronnym i neutralnym?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole6.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 98,
+    "text": "Przedstawione na rysunku urządzenie służy do",
+    "answers": [
+      "wyszukiwania miejsc uszkodzenia przewodów w instalacji elektrycznej.",
+      "bezdotykowego pomiaru natężenia przepływu powietrza w gałęzi obwodu pneumatycznego.",
+      "wykrywania miejsc nieszczelności w instalacji sprężonego powietrza.",
+      "bezdotykowego pomiaru ciśnienia w gałęzi obwodu pneumatycznego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_urzadzenie.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 99,
+    "text": "Za pomocą którego symbolu graficznego należy przedstawić na schemacie przekładnię zębata kątową?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole2.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 100,
+    "text": "Przedstawiony fragment programu sterowniczego realizuje",
+    "answers": [
+      "iloczyn dwóch zmiennych.",
+      "dodawanie dwóch liczb całkowitych.",
+      "sprawdzenie warunku „mniejszy lub równy”.",
+      "odejmowanie dwóch liczb całkowitych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program2.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 101,
+    "text": "Co należy zrobić, aby przetestować działanie fragmentu programu odpowiedzialnego za włączenie cewki Y2?",
+    "answers": [
+      "Nacisnąć równocześnie przyciski S1 i S2",
+      "Najpierw uaktywnić czujniki B1 i B2, a później wcisnąć przycisk S1",
+      "Najpierw wcisnąć przycisk S2, a później uaktywnić czujnik B1",
+      "Najpierw uaktywnić czujnik B1, a później wcisnąć przycisk S2"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program3.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 102,
+    "text": "Wskaż, instrukcję którą należy uwzględnić w programie sterowniczym, aby wykrywać zmianę wartości logicznej obiektu z 0 na 1.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_instrukcje.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 103,
+    "text": "Który plik należy wykorzystać do zainstalowania programu do obsługi PLC?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_pliki.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 104,
+    "text": "Wskaż operator używany w języku IL, który należy uwzględnić w programie sterowniczym, aby wykonać instrukcję wywołania bloku funkcyjnego FUN_1.",
+    "answers": [
+      "LD FUN_1",
+      "RET FUN_1",
+      "CAL FUN_1",
+      "JMP FUN_1"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 105,
+    "text": "Aby silnik pneumatyczny mógł wirować z prędkością 4500 obr/min, minimalna wydajność sprężarki, która go zasila powinna wynosić",
+    "answers": [
+      "250 l/min",
+      "300 l/min",
+      "350 l/min",
+      "200 l/min"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_wykres.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 106,
+    "text": "Za pomocą którego symbolu powinno przedstawić się na schemacie magnetyczny czujnik zbliżeniowy?",
+    "answers": [
+      "Symbolu 1.",
+      "Symbolu 2.",
+      "Symbolu 4.",
+      "Symbolu 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole15.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 107,
+    "text": "Który z rysunków przedstawia prawidłowo narysowany i opisany symbol graficzny przełącznika z zestykiem NC, przełączanym przez przekręcenie?",
+    "answers": [
+      "Rysunek 1.",
+      "Rysunek 2.",
+      "Rysunek 3.",
+      "Rysunek 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole17.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 108,
+    "text": "Który symbol literowy spełniający wymagania normy IEC 61131, jest stosowany w programie sterowniczym dla PLC do adresowania jego fizycznych wejść dyskretnych?",
+    "answers": [
+      "Q",
+      "R",
+      "I",
+      "S"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 109,
+    "text": "Który z programów realizuje funkcję logiczną OR?",
+    "answers": [
+      "Program 3.",
+      "Program 1.",
+      "Program 4.",
+      "Program 2."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_programy6.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 110,
+    "text": "Symbol graficzny podpory samonastawnej stosowany na schematach mechanicznych przedstawiono na",
+    "answers": [
+      "rysunku 4.",
+      "rysunku 1.",
+      "rysunku 3.",
+      "rysunku 2."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole14.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 111,
+    "text": "Symbol graficzny sygnalizatora świetlnego przedstawiono na",
+    "answers": [
+      "rysunku 2.",
+      "rysunku 3.",
+      "rysunku 4.",
+      "rysunku 1."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole33.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 112,
+    "text": "Włączenie silnika sterowanego za pośrednictwem stycznika K1 podłączonego do zaprogramowanego sterownika PLC następuje po",
+    "answers": [
+      "odliczeniu czasu 10 sekund przez instrukcję T1",
+      "wciśnięcie przycisku S2 i zadziałaniu czujnika B1",
+      "wciśnięcie przycisku S1 i wciśnięcie przycisku S2",
+      "wciśnięcie przycisku S1 i zadziałaniu czujnika B1"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program29.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 113,
+    "text": "Wskaż prawidłowy sposób adresowania zmiennej 64-bitowej w obszarze pamięci markerów sterownika PLC, której pierwsze osiem bitów ma adres dziesiętny 14",
+    "answers": [
+      "MW14",
+      "ML14",
+      "MB14",
+      "MD14"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 114,
+    "text": "Na podstawie fragmentu katalogu regulatora określ, który typ czujnika temperatury należy zastosować, jeżeli maksymalna wartość temperatury regulowanej przez system mechatroniczny może osiągnąć wartość 220÷240°C, a dokładność pomiaru czujnika powinna mieścić się w granicach ±1,5°C.",
+    "answers": [
+      "Termopara typu K",
+      "Termopara typu J",
+      "Czujnik Pt100",
+      "Termopara typu S"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_tabela5.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 115,
+    "text": "Prawidłowo strukturę kinematyczną PPO (TTR) urządzenia manipulacyjnego przedstawiono na",
+    "answers": [
+      "rysunku 4.",
+      "rysunku 1.",
+      "rysunku 2.",
+      "rysunku 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_rysunki.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 116,
+    "text": "Do którego portu komputera PC należy podłączyć przedstawiony na ilustracji kabel komunikacyjny?",
+    "answers": [
+      "PS/2",
+      "RS232",
+      "USB",
+      "LPT"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_kabel.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 117,
+    "text": "Która z podanych zasad musi być przestrzegana przed przystąpieniem do konserwacji lub naprawy urządzenia mechatronicznego posiadającego oznaczenie przedstawione na rysunku?",
+    "answers": [
+      "Odłącz przed rozpoczęciem czynności.",
+      "Załącz przed rozpoczęciem czynności.",
+      "Zamknij drzwi do pomieszczenia.",
+      "Otwórz okno w pomieszczeniu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_oznaczenie.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 118,
+    "text": "Na podstawie informacji z dokumentacji technicznej wybierz kod zamówienia przemiennika częstotliwości do sterowania pracą silnika trójfazowego o napięciu znamionowym 400 V, prądzie znamionowym 3,5 A i mocy 1,8 kW.",
+    "answers": [
+      "DC1-32015FN-A66N",
+      "DC1-123D5FN-A20N",
+      "DC1-S2015FN-A66N",
+      "DC1-343D5FN-A20N"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_dokumentacja.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 119,
+    "text": "Wskaż symbol instrukcji używanej w języku FBD, którą należy uwzględnić w programie sterowniczym, aby stan na jej wyjściu oznaczony jako BIT_Q miał wartość logiczną 1 wtedy i tylko wtedy, gdy wartość stanu logicznego przynajmniej jednej zmiennej wejściowej BIT_A lub BIT_B będzie równa 1.",
+    "answers": [
+      "Symbol 4.",
+      "Symbol 1.",
+      "Symbol 3.",
+      "Symbol 2."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole37.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 120,
+    "text": "Wskaż symbol instrukcji używanej w języku LD, którą należy uwzględnić w programie sterowniczym, aby stan zmiennej symbolicznej X z nią skojarzonej przyjął wartość 1 na czas trwania 1 cyklu programowego z chwilą, gdy po lewej stronie instrukcji stan logiczny linii łączącej zmieni się z 0 na 1.",
+    "answers": [
+      "Symbol 3.",
+      "Symbol 4.",
+      "Symbol 2.",
+      "Symbol 1."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole36.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 121,
+    "text": "Aby przedstawić na schemacie rezonator kwarcowy należy użyć symbolu graficznego o numerze",
+    "answers": [
+      "3.",
+      "2.",
+      "4.",
+      "1."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole32.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 122,
+    "text": "Do którego wejścia licznika CTUD należy podłączyć sygnał, którego zmiany wartości stanów logicznych będą powodowały wzrost wartości podawanej na wyjściu CV?",
+    "answers": [
+      "Do wejścia R",
+      "Do wejścia CU",
+      "Do wejścia CD",
+      "Do wejścia LD"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_ramka6.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 123,
+    "text": "Którego symbolu należy użyć rysując schemat elektroniczny z tranzystorem unipolarnym MOSFET-P?",
+    "answers": [
+      "Symbolu 3.",
+      "Symbolu 1.",
+      "Symbolu 2.",
+      "Symbolu 4."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole34.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 124,
+    "text": "W układzie regulacji dwustanowej zauważono zbyt częste oscylacje wokół wartości zadanej. Aby zmniejszyć częstotliwość oscylacji, należy w regulatorze cyfrowym",
+    "answers": [
+      "zmniejszyć wartość sygnału zadającego.",
+      "zwiększyć amplitudę sygnału regulującego.",
+      "zwiększyć szerokość histerezy.",
+      "zmniejszyć szerokość histerezy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 125,
+    "text": "Za pomocą których elementów układu elektropneumatycznego, przedstawionego na schemacie, należy regulować prędkość wysuwania tłoczyska siłowników 1A1 i prędkość wsuwania tłoczyska siłownika 2A1?",
+    "answers": [
+      "1V2 i 2V2",
+      "1V1 i 2V1",
+      "1V2 i 2V1",
+      "1V1 i 2V2"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_uklad.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 126,
+    "text": "Na podstawie fragmentu instrukcji serwisowej wskaż prawdopodobną przyczynę nieprawidłowej pracy urządzenia, jeżeli na jego wyświetlaczu wyświetla się kod błędu F1.",
+    "answers": [
+      "Nieprawidłowa wartość napięcia zasilania.",
+      "Problem ze sprężarką.",
+      "Uszkodzenie modułu IPM.",
+      "Błąd czujnika temperatury ssania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_instrukcja3.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 127,
+    "text": "Które nastawy muszą zostać wybrane w oknie konfiguracyjnym timera, aby załączał swoje wyjście na 5 sekund od momentu podania na jego wejście logicznej jedynki?",
+    "answers": [
+      "TimerType: TP,   Time Base:        1 s,    Preset:     5",
+      "TimerType: TON,  Time Base: 100 ms,    Preset:   50",
+      "TimerType: TOF,  Time Base:   10 ms,    Preset:   50",
+      "TimerType: TP,  Time Base:     1 ms,     Preset: 500"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_okno2.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 128,
+    "text": "Który z diagramów czasowych przedstawia działanie instrukcji zegara TP?",
+    "answers": [
+      "Diagram czasowy 4.",
+      "Diagram czasowy 2.",
+      "Diagram czasowy 1.",
+      "Diagram czasowy 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_diagramy2.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 129,
+    "text": "Symbol graficzny zaworu sterowanego za pomocą dźwigni z zapadką, stosowany na schematach pneumatycznych, przedstawiono na",
+    "answers": [
+      "rysunku 2.",
+      "rysunku 3.",
+      "rysunku 1.",
+      "rysunku 4."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole19.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 130,
+    "text": "Który z programów realizuje działanie układu elektropneumatycznego zgodnie z diagramem stanów?",
+    "answers": [
+      "Program 3.",
+      "Program 4.",
+      "Program 2.",
+      "Program 1."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_uklad5.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 131,
+    "text": "Aby przedstawić na schemacie pneumatycznym urządzenia mechatronicznego osuszacz powietrza, należy użyć",
+    "answers": [
+      "symbolu graficznego 2.",
+      "symbolu graficznego 3.",
+      "symbolu graficznego 1.",
+      "symbolu graficznego 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole35.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 132,
+    "text": "Której z podanych modyfikacji wymaga przedstawiony program, aby pomimo równoczesnego pojawienia się stanu logicznego równego 1 na obu wejściach I0.0 i I0.1, wyjście Q0.0 uaktywniło się po 3 sekundach?",
+    "answers": [
+      "W miejsce instrukcji SR z dominującym wejściem reset wstawić instrukcję SR z dominującym wejściem set.",
+      "W miejsce instrukcji TON wstawić instrukcję TP",
+      "Zamienić miejscami instrukcje styków połączonych z blokiem SR (%I0.0→R1; %I0.1 →S).",
+      "W miejsce instrukcji zwykłej cewki Q0.0 wstawić instrukcję cewki negującej Q0.0"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program13.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 133,
+    "text": "Do smarowania w urządzeniu mechatronicznym przekładni łańcuchowej przenoszącej moc 36 kW, w której łańcuch ma prędkość liniową 8 m/s, należy zastosować technikę smarowania",
+    "answers": [
+      "rozbryzgowego.",
+      "okresowego, ręcznego.",
+      "ciągłego grawitacyjnego.",
+      "ciśnieniowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_tabela.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 134,
+    "text": "Symbol graficzny przekładni z pasem okrągłym, który należy umieścić na schemacie mechanicznym, przedstawiono na",
+    "answers": [
+      "rysunku 2.",
+      "rysunku 1.",
+      "rysunku 4.",
+      "rysunku 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole31.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 135,
+    "text": "W którym z przedstawionych programów jest zrealizowana blokada jednoczesnego załączenia K11 i K12?",
+    "answers": [
+      "W programie 1.",
+      "W programie 2.",
+      "W programie 3.",
+      "W programie 4."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_programy13.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 136,
+    "text": "Do których prac jest stosowane narzędzie przedstawione na rysunku?",
+    "answers": [
+      "Klejenia elementów.",
+      "Wykonywania nadruków.",
+      "Spawania tworzyw sztucznych.",
+      "Odsysania lutu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_narzedzie.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 137,
+    "text": "Który z identyfikatorów literowych należy zastosować w instrukcji odwołującej się do wyjść analogowych?",
+    "answers": [
+      "SM",
+      "MW",
+      "AI",
+      "AQ"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 138,
+    "text": "Na podstawie przedstawionego fragmentu programu w języku SFC wskaż warunek, który musi zostać spełniony przed wykonaniem kroku 4",
+    "answers": [
+      "B1=0 i B2=1 i B3=0",
+      "B1=0 lub B2=1 lub B3=0",
+      "B1=1 lub B2=0 lub B3=1",
+      "B1=1 i B2=0 i B3=1"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program32.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 139,
+    "text": "Który typ oprogramowania komputerowego nadzoruje przebieg procesu oraz posiada możliwości w zakresie m.in. zbierania, wizualizacji i archiwizacji danych oraz sterowania i alarmowania?",
+    "answers": [
+      "CAD",
+      "SCADA",
+      "CAM",
+      "CAE"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 140,
+    "text": "Która z wymienionych czynności eksploatacyjnych napędu elektrycznego jest niezgodna z zasadami obsługi urządzeń?",
+    "answers": [
+      "Sprawdzenie połączeń elektrycznych omomierzem.",
+      "Oczyszczenie zabrudzonych styków łączników pilnikiem.",
+      "Sprawdzenie pracy wentylatorów poprzez nasłuchiwanie jak pracują.",
+      "Odkurzenie i wyczyszczenie żeberek radiatorów z brudu szmatką."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 141,
+    "text": "Na wyświetlaczu drukarki pojawił się kod błędu E02. Na podstawie fragmentu instrukcji serwisowej określ sposób naprawy usterki.",
+    "answers": [
+      "Uzupełnić papier w drukarce.",
+      "Umieścić płytę na tacy na płyty CD/DVD.",
+      "Wymienić kasety na oryginalne.",
+      "Zamknąć pokrywę zbiorników z atramentem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_tabela9.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 142,
+    "text": "Który symbol przedstawia na schemacie elektronicznym tranzystor unipolarny MOSFET z kanałem typu P?",
+    "answers": [
+      "Symbol 4.",
+      "Symbol 2.",
+      "Symbol 1.",
+      "Symbol 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole38.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 143,
+    "text": "Który przyrząd pomiarowy należy zastosować do pomiaru lepkości oleju hydraulicznego w urządzeniu mechatronicznym?",
+    "answers": [
+      "Higrometr.",
+      "Wiskozymetr.",
+      "Pirometr.",
+      "Wakuometr."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 144,
+    "text": "Którego symbolu należy użyć do przedstawienia na schemacie elektrycznym linii trójfazowej z przewodem PEN?",
+    "answers": [
+      "Symbolu 4.",
+      "Symbolu 3.",
+      "Symbolu 2.",
+      "Symbolu 1."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole40.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 145,
+    "text": "Siłownik hydrauliczny jednostronnego działania posiada tłok o średnicy D = 60 mm. Jaką wartość przepływu Q płynu hydraulicznego w przewodzie zasilającym siłownik należy nastawić, aby jego tłoczysko wysuwało się z prędkością ν = 8,4 m/min?",
+    "answers": [
+      "50,4 l/min",
+      "7,14 l/min",
+      "23,7 l/min",
+      "0,14 l/min"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_wzor.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 146,
+    "text": "Który symbol graficzny należy zastosować na schemacie mechanicznym w celu przedstawienia przekładni z pasem klinowym?",
+    "answers": [
+      "Symbol 4.",
+      "Symbol 3.",
+      "Symbol 1.",
+      "Symbol 2."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole39.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 147,
+    "text": "W celu wymiany uszczelki tłoka siłownika, przedstawionego na ilustracji, należy po odkręceniu przewodów pneumatycznych",
+    "answers": [
+      "zdjąć pokrywy, zdemontować szpilki, a następnie wyjąć tłok z cylindra.",
+      "zdjąć pokrywy, wyjąć tłok z cylindra, a następnie zdemontować szpilki.",
+      "zdemontować szpilki, wyjąć tłok z cylindra, a następnie zdjąć pokrywy.",
+      "zdemontować szpilki, zdjąć pokrywy, a następnie wyjąć tłok z cylindra."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_silownik.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 148,
+    "text": "Który z przedstawionych programów, zapisanych w języku FBD, realizuje funkcję logiczną Y = X1˄X2˅X3?",
+    "answers": [
+      "Program 2.",
+      "Program 1.",
+      "Program 3.",
+      "Program 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_programy12.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 149,
+    "text": "Układ przekaźnikowy z samopodtrzymaniem załączający silnik elektryczny małej mocy (Schemat 1.) zastąpiono układem ze sterownikiem PLC (Schemat 2.). Który z programów wprowadzony do sterownika zapewni sterowanie silnikiem identyczne do sterowania realizowanego przez układ przekaźnikowy?",
+    "answers": [
+      "Program 2.",
+      "Program 3.",
+      "Program 4.",
+      "Program 1."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_schematy3.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 150,
+    "text": "Który program realizuje działanie przerzutnika SR z dominacją załączania, dla przycisków S1 START i S2 STOP o stykach odpowiednio NO i NC?",
+    "answers": [
+      "Program 4.",
+      "Program 1.",
+      "Program 2.",
+      "Program 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_programy14.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 151,
+    "text": "Które elementy należy zakreskować na rysunku technicznym przekroju detalu?",
+    "answers": [
+      "Wyrwania.",
+      "Tylko o kształtach obrotowych.",
+      "Żebra.",
+      "O kształtach oczywistych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 152,
+    "text": "Którą operację należy wykonać w programie CAD, aby ze szkicu przedstawionego na ilustracji 1 utworzyć bryłę 3D przedstawioną na ilustracji 2?",
+    "answers": [
+      "Wyciągnięcie proste.",
+      "Przeciągnięcie po krzywej.",
+      "Wyciągnięcie obrotowe.",
+      "Przeciągnięcie przez przekroje."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_bryla.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 153,
+    "text": "Który schemat przedstawia układ połączeń siłownika dwustronnego działania, umożliwiający regulację prędkości wysuwania tłoczyska?",
+    "answers": [
+      "Schemat 4.",
+      "Schemat 1.",
+      "Schemat 2.",
+      "Schemat 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_schematy2.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 154,
+    "text": "Jakim napięciem powinien być zasilony przedstawiony na rysunku sterownik PLC?",
+    "answers": [
+      "230 V AC",
+      "10 V DC",
+      "230 V DC",
+      "24 V DC"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_sterownik.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 155,
+    "text": "Przedstawiona na diagramie instrukcja realizuje na zmiennych binarnych I0.2 i I0.3 funkcję logiczną",
+    "answers": [
+      "AND",
+      "NOT",
+      "OR",
+      "NOR"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_instrukcja4.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 156,
+    "text": "Który program zapisany w LD odpowiada programowi zapisanemu w FBD?",
+    "answers": [
+      "Program 4.",
+      "Program 3.",
+      "Program 2.",
+      "Program 1."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program31.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 157,
+    "text": "Liczba stopni swobody robota przedstawionego na schemacie kinematycznym wynosi",
+    "answers": [
+      "4",
+      "3",
+      "2",
+      "5"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_schemat5.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 158,
+    "text": "Jaką częstotliwość należy ustawić w przemienniku częstotliwości zasilającym silnik indukcyjny klatkowy o jednej parze biegunów, aby jego wał obracał się z prędkością bliską 2400 obr./min?",
+    "answers": [
+      "50 Hz",
+      "30 Hz",
+      "60 Hz",
+      "40 Hz"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 159,
+    "text": "Na podstawie przedstawionego schematu SFC określ, kiedy jest możliwe przejście do kroku S8.",
+    "answers": [
+      "Gdy krok S6 jest aktywny i spełniony jest warunek e.",
+      "Gdy kroki S6 i S7 są aktywne.",
+      "Gdy krok S6 lub S7 jest nieaktywny.",
+      "Gdy krok S7 jest aktywny i spełniony jest warunek e."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_schemat7.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 160,
+    "text": "Jakiego rodzaju pompa przedstawiana jest za pomocą zamieszczonego symbolu graficznego?",
+    "answers": [
+      "O zmiennej wydajności i stałym kierunku obrotów.",
+      "O stałej wydajności i stałym kierunku obrotów.",
+      "O stałej wydajności i zmiennym kierunku obrotów.",
+      "O zmiennej wydajności i zmiennym kierunku obrotów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbol2.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 161,
+    "text": "Pozycji bocznej ustalonej nie wolno stosować u pacjenta",
+    "answers": [
+      "nieprzytomnego, ale oddychającego.",
+      "wymiotującego krwią lub treścią żołądkową.",
+      "przytomnego, z napadem padaczkowym.",
+      "z podejrzeniem urazu kręgosłupa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 162,
+    "text": "Do którego z podanych rodzajów rysunków technicznych można zaliczyć rysunek przedstawiony na ilustracji?",
+    "answers": [
+      "Wykonawczych.",
+      "Złożeniowych.",
+      "Montażowych.",
+      "Schematycznych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_rysunek2.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 163,
+    "text": "Za pomocą której grupy oznaczeń należy opisać na schemacie układu hydraulicznego przyłącza czterodrogowych rozdzielaczy hydraulicznych?",
+    "answers": [
+      "X, Y, Z, W",
+      "1, 2, 3, 4",
+      "1, A, 2, B",
+      "P, T, A, B"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 164,
+    "text": "Przy szacowaniu czasu realizacji zadania uwzględnia się w pierwszej kolejności",
+    "answers": [
+      "warunki przydzielania urlopu wypoczynkowego.",
+      "normy czasochłonności wykonania zadania.",
+      "innowacyjność metod pracy.",
+      "ponadnormatywne przerwy w pracy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 165,
+    "text": "Podczas pracy silnika prądu stałego zauważono iskrzenie szczotek spowodowane zabrudzeniem komutatora. W celu usunięcia tej usterki należy wyłączyć silnik, a następnie",
+    "answers": [
+      "posmarować komutator olejem lub smarem.",
+      "umyć komutator i szczotki.",
+      "przetrzeć komutator wilgotną szmatką.",
+      "oczyścić komutator i wypolerować papierem ściernym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 166,
+    "text": "Który z przedstawionych symboli zastosowany w programie LD, oznacza cewkę reagującą na opadające zbocze sygnału?",
+    "answers": [
+      "Symbol 2.",
+      "Symbol 4.",
+      "Symbol 1.",
+      "Symbol 3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole41.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 167,
+    "text": "Który element na schemacie elektrycznym został oznaczony jako Y1?",
+    "answers": [
+      "Rezonator kwarcowy.",
+      "Potencjometr.",
+      "Sygnalizator akustyczny.",
+      "Kondensator."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_schemat6.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 168,
+    "text": "Który element układu elektronicznego przedstawiono na ilustracji?",
+    "answers": [
+      "Przekaźnik.",
+      "Transformator.",
+      "Sterownik.",
+      "Zasilacz."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_element.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 169,
+    "text": "Której z wymienionych instrukcji należy użyć, tworząc program dla sterownika PLC w języku LD, aby była możliwość uzależnienia procesu sterowania od daty i czasu?",
+    "answers": [
+      "Zegara TONR",
+      "Zegara RTC",
+      "Zegara TP",
+      "Zegara TOF"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 170,
+    "text": "Przedstawiony fragment programu sterownika PLC dotyczy",
+    "answers": [
+      "dodawania dwóch liczb całkowitych.",
+      "iloczynu dwóch zmiennych.",
+      "odejmowania dwóch liczb całkowitych.",
+      "sprawdzenia warunku mniejszy lub równy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program30.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 171,
+    "text": "Jak należy zmodyfikować parametry PT timerów, aby w zamieszczonym programie sterowniczym, stan wyjścia Q0.0 sterownika, zmieniał się zgodnie z diagramem czasowym, przedstawionym na schemacie?",
+    "answers": [
+      "T37  PT=20, T38  PT=30",
+      "T37  PT=10, T38  PT=20",
+      "T37  PT=20, T38  PT=10",
+      "T37  PT=30, T38  PT=20"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program33.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 172,
+    "text": "Który symbol literowy użyty w programie sterowniczym, zgodnie z normą IEC 61131, oznacza fizyczne wyjście sterownika PLC?",
+    "answers": [
+      "I",
+      "S",
+      "R",
+      "Q"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 173,
+    "text": "Konfiguracja sterownika PLC z ustawieniami oprogramowania, przedstawionymi na ilustracji, możliwa jest za pomocą przewodu",
+    "answers": [
+      "szeregowego z wtykiem RS232",
+      "szeregowego z wtykiem USB",
+      "Ethernet z wtykiem RJ12",
+      "Ethernet z wtykiem RJ45"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_konfiguracja.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 174,
+    "text": "Które stany logiczne zadane na wejścia I1 i I2 spowodują uzyskanie na wyjściu Q1 wartości logicznej 1?",
+    "answers": [
+      "I1 = 0  I2 = 1",
+      "I1 = 1  I2 = 0",
+      "I1 = 0  I2 = 0",
+      "I1 = 1  I2 = 1"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_schemat8.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 175,
+    "text": "Którym zaworem rozdzielającym należy zastąpić uszkodzony rozdzielacz sterujący siłownikiem w układzie elektropneumatycznym przedstawionym na schemacie?",
+    "answers": [
+      "Zaworem rozdzielającym 2.",
+      "Zaworem rozdzielającym 1.",
+      "Zaworem rozdzielającym 4.",
+      "Zaworem rozdzielającym 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_schemat9.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 176,
+    "text": "Który symbol graficzny należy zastosować, aby przedstawić na schemacie kinematycznym dwa człony z połączeniem przegubowym?",
+    "answers": [
+      "Symbol 4.",
+      "Symbol 1.",
+      "Symbol 2.",
+      "Symbol 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole43.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 177,
+    "text": "Na rysunku przedstawiono cykliczną realizację sekwencji. Przejście z kroku S32 do S31 nastąpi, gdy aktywny jest etap S32 oraz spełniony jest",
+    "answers": [
+      "warunek d.",
+      "warunek b.",
+      "warunek c.",
+      "warunek a."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_sekwencja.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 178,
+    "text": "Wskaż operator używany w języku IL, który należy uwzględnić w programie sterowniczym, aby wykonać wywołanie bloku funkcyjnego FUN_1.",
+    "answers": [
+      "ST FUN_1.",
+      "CAL FUN_1.",
+      "RET FUN_1.",
+      "LD FUN_1."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 179,
+    "text": "Materiały eksploatacyjne, które podlegają okresowej wymianie w urządzeniu mechatronicznym należy dobierać zgodnie?",
+    "answers": [
+      "z tabliczką znamionową urządzenia.",
+      "z kartą gwarancyjną.",
+      "z dokumentacją techniczno-ruchową urządzenia.",
+      "z protokołem przekazania urządzenia do eksploatacji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 180,
+    "text": "Oględziny instalacji hydraulicznej urządzenia mechatronicznego obejmują",
+    "answers": [
+      "pomiar natężenia prądu obciążenia pompy.",
+      "sprawdzenie stanu przewodów.",
+      "czyszczenie filtra oleju w układzie.",
+      "wymianę rozdzielacza."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 181,
+    "text": "Która operację należy bezwzględnie wykonać, aby z kodu źródłowego uzyskać wersję programu nadającą się do przesłania do pamięci sterownika?",
+    "answers": [
+      "Wydrukować.",
+      "Skompilować.",
+      "Zdebugować.",
+      "Uruchomić."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 182,
+    "text": "W urządzeniu mechatronicznym uszkodzeniu uległ sterownik LOGO 12/24RC. W tabeli podano informacje producenta o stosowanych oznaczeniach. Które dane sterownika odpowiadają uszkodzonemu sterownikowi?",
+    "answers": [
+      "Napięcie zasilania 12 V lub 24 V AC, wyjścia tranzystorowe, binarny moduł rozszerzenia, wersja z wyświetlaczem.",
+      "Napięcie zasilania 115 ÷ 240 V AC, wyjścia przekaźnikowe, analogowy moduł rozszerzenia, wersja bez wyświetlacza.",
+      "Napięcie zasilania 12 V lub 24 V DC, wyjścia przekaźnikowe, wbudowany zegar tygodniowy, wersja z wyświetlaczem.",
+      "Napięcie zasilania 115 ÷ 240 V AC, wyjścia tranzystorowe, wbudowany zegar tygodniowy, wersja bez wyświetlacza."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_ramka7.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 183,
+    "text": "Symbol graficzny przekładni z pasem klinowym, który należy umieścić na schemacie mechanicznym, przedstawiono na",
+    "answers": [
+      "rysunku 2.",
+      "rysunku 3.",
+      "rysunku 1.",
+      "rysunku 4."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole42.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 184,
+    "text": "Wskaż symbol instrukcji używanej w języku LD, którą należy uwzględnić w programie sterowniczym, aby stan zmiennej symbolicznej X z nią skojarzonej przyjął wartość 1 na czas trwania jednego cyklu programowego z chwilą, gdy po lewej stronie połączenia pojawi się stan logiczny 1.",
+    "answers": [
+      "Symbol 2.",
+      "Symbol 1.",
+      "Symbol 4.",
+      "Symbol 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole49.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 185,
+    "text": "Który z wymienionych zabiegów konserwacyjnych należy zastosować, aby zabezpieczyć płytkę drukowaną przed korozją?",
+    "answers": [
+      "Pokryć płytkę warstwą lakieru izolacyjnego.",
+      "Krótkotrwale zanurzyć płytkę w chlorku żelaza.",
+      "Pokryć płytkę warstwą pasty termoprzewodzącej.",
+      "Obwód drukowany pokryć pastą lutowniczą."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 186,
+    "text": "Który symbol literowy spełniający wymagania normy IEC 61131, jest stosowany w programie sterowniczym do adresowania komórek pamięci danych sterownika programowalnego?",
+    "answers": [
+      "M",
+      "W",
+      "I",
+      "Q"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 187,
+    "text": "Za pomocą którego symbolu należy przedstawić na schemacie magnetyczny czujnik zbliżeniowy?",
+    "answers": [
+      "Symbolu 4.",
+      "Symbolu 1.",
+      "Symbolu 2.",
+      "Symbolu 3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole44.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 188,
+    "text": "W jakim języku został napisany fragment programu sterownika PLC przedstawiony na ilustracji?",
+    "answers": [
+      "SFC",
+      "FBD",
+      "LD",
+      "ST"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program34.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 189,
+    "text": "Które z podanych kombinacji wartości logicznych zostaną zapisane w komórkach pamięci M0.0 i M0.1 PLC podczas realizacji przedstawionego programu, jeżeli na wejściu I0.0 odczytany zostanie stan logiczny 1 a na I0.1 – stan logiczny 0?",
+    "answers": [
+      "M0.0 = 0 i M0.1=1",
+      "M0.0 = 0 i M0.1=0",
+      "M0.0 = 1 i M0.1=1",
+      "M0.0 = 1 i M0.1=0"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program38.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 190,
+    "text": "W PLC odwołanie do zmiennej 32 bitowej powinien posiadać format oznaczany literą",
+    "answers": [
+      "D",
+      "W",
+      "B",
+      "b"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 191,
+    "text": "Stwierdzono, że silnik indukcyjny zbyt głośno pracuje, a dźwięk pochodzi z łożyska tocznego. W jaki sposób należy usunąć tę nieprawidłowość?",
+    "answers": [
+      "Wymieniając osłony łożyska.",
+      "Smarując łożysko olejem.",
+      "Uzupełniając smar w łożysku.",
+      "Wymieniając łożysko."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 192,
+    "text": "Który z diagramów czasowych jest zgodny z programem zapisanym w języku LD?",
+    "answers": [
+      "Diagram 4.",
+      "Diagram 2.",
+      "Diagram 1.",
+      "Diagram 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program39.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 193,
+    "text": "Na panelu przemiennika częstotliwości miga z interwałem 1 sekundy dioda zielona RUN a czerwona ALM świeci światłem ciągłym. Na podstawie tabeli sygnalizacji błędów określ przyczynę sygnalizowanego błędu przemiennika.",
+    "answers": [
+      "Wzrost napięcia w obwodzie silnik-przemiennik częstotliwości – przepięcie.",
+      "Za duża wartość prądu pobierana w obwodzie silnoprądowym – przeciążenie.",
+      "Wzrost prądu w obwodzie silnik-przemiennik częstotliwości – przetężenie.",
+      "Za mała wartość napięcia zasilająca przemiennik częstotliwości – podnapięcie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_tabela10.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 194,
+    "text": "Na podstawie fragmentu instrukcji serwisowej wskaż prawdopodobną przyczynę nieprawidłowej pracy urządzenia, jeżeli na jego wyświetlaczu wyświetla się kod błędu E5.",
+    "answers": [
+      "Problem ze sprężarką.",
+      "Brak komunikacji między jednostkami.",
+      "Uszkodzenie modułu IPM.",
+      "Błąd czujnika temperatury ssania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_instrukcja3.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 195,
+    "text": "Która akcja w kroku 3 sterowania sekwencyjnego przedstawionego na rysunku, rozpocznie się po 5 s od uaktywnienia kroku?",
+    "answers": [
+      "Akcja A.",
+      "Akcja D.",
+      "Akcja C.",
+      "Akcja B."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_sekwencja2.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 196,
+    "text": "Który symbol należy zastosować do przedstawienia na schemacie elektronicznym rezonatora kwarcowego?",
+    "answers": [
+      "Symbol 3.",
+      "Symbol 1.",
+      "Symbol 2.",
+      "Symbol 4."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole45.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 197,
+    "text": "Symbol graficzny zaworu sterowanego za pomocą przycisku z zapadką, stosowany na schematach pneumatycznych, przedstawiono na",
+    "answers": [
+      "rysunku 2.",
+      "rysunku 1.",
+      "rysunku 4.",
+      "rysunku 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole47.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 198,
+    "text": "Prawidłowo strukturę kinematyczną OOP (RRT) urządzenia manipulacyjnego przedstawiono na rysunku",
+    "answers": [
+      "rysunku 4.",
+      "rysunku 1.",
+      "rysunku 2.",
+      "rysunku 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_struktury.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 199,
+    "text": "Na schematach układów pneumatycznych siłowniki powinny posiadać oznaczenie złożone z liczby oraz symbolu literowego",
+    "answers": [
+      "V",
+      "Z",
+      "P",
+      "A"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 200,
+    "text": "Prawidłowo narysowany symbol graficzny dzwonka (ang. bell) przedstawiono na",
+    "answers": [
+      "rysunku 4.",
+      "rysunku 2.",
+      "rysunku 1.",
+      "rysunku 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole16.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 201,
+    "text": "Symbol graficzny zaworu sterowanego za pomocą pedału z zapadką, stosowany na schematach pneumatycznych, przedstawiono na",
+    "answers": [
+      "rysunku 3.",
+      "rysunku 1.",
+      "rysunku 4.",
+      "rysunku 2."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole19.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 202,
+    "text": "Prawidłowo strukturę kinematyczną OPO (RTR) urządzenia manipulacyjnego przedstawiono na",
+    "answers": [
+      "rysunku 1.",
+      "rysunku 4.",
+      "rysunku 3.",
+      "rysunku 2."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_rysunki.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 203,
+    "text": "Właściwy symbol graficzny przekładni z pasem zębatym, który należy umieścić na schemacie mechanicznym, przedstawiono na",
+    "answers": [
+      "rysunku 2.",
+      "rysunku 3.",
+      "rysunku 4.",
+      "rysunku 1."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole13.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 204,
+    "text": "Prawidłowo narysowany symbol graficzny podpory wahliwej stosowany na schematach mechanicznych przedstawiono na",
+    "answers": [
+      "rysunku 3.",
+      "rysunku 4.",
+      "rysunku 1.",
+      "rysunku 2."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole14.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 205,
+    "text": "Na podstawie harmonogramu czynności serwisowych przedstawionych w tabeli określ, jak często należy przeprowadzać kontrolę działania zaworów bezpieczeństwa.",
+    "answers": [
+      "Raz na kwartał.",
+      "Raz na rok.",
+      "Raz na dzień.",
+      "Raz na pół roku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_harmonogram.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 206,
+    "text": "Wskaż równanie logiczne opisujące działanie przedstawionego na rysunku programu.",
+    "answers": [
+      "%Q0.1=   %I0.1 ˅ ~%I0.2",
+      "%Q0.1=~ %I0.1 ˄ ~%I0.2",
+      "%Q0.1=~ %I0.1 ˅ ~%I0.2",
+      "%Q0.1=~ (%I0.1 ˄ %I0.2)"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program22.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 207,
+    "text": "Symbol graficzny podpory stałej stosowany na schematach mechanicznych przedstawiono na",
+    "answers": [
+      "rysunku 1.",
+      "rysunku 4.",
+      "rysunku 2.",
+      "rysunku 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole22.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 208,
+    "text": "Który z przedstawionych programów, zapisanych w języku FBD, realizuje zależność logiczną zapisaną równaniem",
+    "answers": [
+      "Program 2.",
+      "Program 4.",
+      "Program 3.",
+      "Program 1."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_programy7.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 209,
+    "text": "Symbol graficzny czujnika pola magnetycznego stosowany na schematach elektrycznych przedstawiono na",
+    "answers": [
+      "rysunku 1.",
+      "rysunku 4.",
+      "rysunku 2.",
+      "rysunku 3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole23.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 210,
+    "text": "Wskaż symbol instrukcji używanej w języku LD, którą należy uwzględnić w programie sterowniczym, aby stan zmiennej symbolicznej X z nią skojarzonej przyjął wartość 0 z chwilą, gdy po lewej stronie połączenia pojawi się stan logiczny 1.",
+    "answers": [
+      "Symbol 4.",
+      "Symbol 3.",
+      "Symbol 2.",
+      "Symbol 1."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole29.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 211,
+    "text": "Do którego wejścia licznika CTUD należy podłączyć sygnał, który w przypadku przyjęcia wartości 1 wyzeruje stan rejestru CV przy założeniu nie zerowej wartości wpisanej do rejestru PV?",
+    "answers": [
+      "Do wejścia CU",
+      "Do wejścia LD",
+      "Do wejścia R",
+      "Do wejścia CD"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_ramka4.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 212,
+    "text": "Symbol graficzny przekładni łańcuchowej, który należy umieścić na schemacie mechanicznym, przedstawiono na",
+    "answers": [
+      "rysunku 4.",
+      "rysunku 1.",
+      "rysunku 2.",
+      "rysunku 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole21.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 213,
+    "text": "Którą funkcję logiczną realizuje program napisany w języku IL?",
+    "answers": [
+      "OR",
+      "XOR",
+      "NAND",
+      "NOR"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program23.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 214,
+    "text": "Który z diagramów czasowych przedstawia działanie instrukcji zegara TOF?",
+    "answers": [
+      "Diagram czasowy 3.",
+      "Diagram czasowy 1.",
+      "Diagram czasowy 2.",
+      "Diagram czasowy 4."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_diagramy.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 215,
+    "text": "W układzie mechatronicznym uszkodzeniu uległ przetwornik temperatury. Którego z przetworników należy użyć, jeżeli: – elementem sensorycznym połączonym z przetwornikiem jest czujnik typu K, – przetwornik będzie zasilany z zasilacza wewnętrznego sterownika PLC (24 V DC), – wyjście przetwornika podłączone będzie do wejścia analogowego 0 ÷ 20 mA sterownika,",
+    "answers": [
+      "7NG3211-PR00",
+      "7NG3211-PN00",
+      "7NG3211-PR10",
+      "7NG3211-PP00"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_tabela8.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 216,
+    "text": "Wskaż symbol instrukcji używanej w języku FBD, którą należy uwzględnić w programie sterowniczym, aby stan na jej wyjściu oznaczony jako BIT_Q miał wartość logiczną 1 wtedy i tylko wtedy, gdy wartości stanów logicznych zmiennych wejściowych BIT_A i BIT_B będą sobie równe.",
+    "answers": [
+      "Symbol 4.",
+      "Symbol 1.",
+      "Symbol 2.",
+      "Symbol 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole30.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 217,
+    "text": "Za pomocą których elementów układu elektropneumatycznego przedstawionego na schemacie, należy regulować prędkość wsuwania tłoczyska siłownika 1A1 oraz prędkość wysuwania tłoczyska siłownika 2A1?",
+    "answers": [
+      "1V2 i 2V2",
+      "1V1 i 2V1",
+      "1V2 i 2V1",
+      "1V1 i 2V2"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_uklad.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 218,
+    "text": "Wskaż operator używany w języku IL, który należy uwzględnić w programie sterowniczym, aby wykonać instrukcję skoku do etykiety FUN_1.",
+    "answers": [
+      "CAL FUN_1.",
+      "LD FUN_1.",
+      "RET FUN_1.",
+      "JMP FUN_1."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 219,
+    "text": "Który z rysunków przedstawia narysowany i prawidłowo opisany symbol graficzny przełącznika z zestykiem NC, o napędzie ręcznym przekręcanym?",
+    "answers": [
+      "Rysunek 1.",
+      "Rysunek 2.",
+      "Rysunek 4.",
+      "Rysunek 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole25.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 220,
+    "text": "Tłumaczenie programu zapisanego w języku LD na kod maszynowy zrozumiały przez jednostkę centralną PLC wywoływany jest w środowisku narzędziowym PLC za pomocą polecenia",
+    "answers": [
+      "„compile”.",
+      "„download”.",
+      "„upload”.",
+      "„save as”."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 221,
+    "text": "Na wyświetlaczu przemiennika częstotliwości połączonego z silnikiem pojawił się kod błędu oznaczający",
+    "answers": [
+      "brak napięcia zasilającego silnik.",
+      "zbyt duże obciążenie silnika.",
+      "brak napięcia zasilającego przemiennik.",
+      "wystąpienie usterki w obwodzie sterującym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_kod2.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 222,
+    "text": "W układzie, którego schemat przedstawia rysunek zauważono, że po wciśnięciu przycisku S2 wysuwa się tłoczysko siłownika A1, a wciśnięcie przycisku S1 powoduje z kolei wsuwanie tłoczyska A1. Prawdopodobną przyczyną złego działania układu jest",
+    "answers": [
+      "zbyt niskie ciśnienie ustawione na zespole OZ1.",
+      "odwrotne podłączenie zaworów sterowanych ręcznie z zaworem 1V1.",
+      "uszkodzone tłoczysko siłownika A1.",
+      "zbyt wysokie ciśnienie ustawione na zespole OZ1."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_uklad3.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 223,
+    "text": "Na rysunku przedstawiono program sterujący linią technologiczną pakowania kawy. W wyniku jego działania do kartonu trafia 6 paczek kawy, po czym rozpoczyna się transport do maszyny zamykającej opakowanie. Wartość którego parametru należy zmienić w programie, aby wydłużyć czas transportu 6 paczek kawy?",
+    "answers": [
+      "Wartość R licznika.",
+      "Kierunek zliczania.",
+      "Wartość PT zegara.",
+      "Wartość PV licznika."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program18.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 224,
+    "text": "Na podstawie fragmentu instrukcji serwisowej wskaż prawdopodobną przyczynę nieprawidłowej pracy urządzenia, jeżeli na jego wyświetlaczu wyświetla się kod błędu F4.",
+    "answers": [
+      "Uszkodzenie modułu IPM.",
+      "Usterka silnika jednostki wewnętrznej.",
+      "Błąd czujnika temperatury przegrzania.",
+      "Problem ze sprężarką."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_instrukcja3.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 225,
+    "text": "Którego symbolu należy użyć na schemacie, aby prawidłowo wskazać, że napęd elektryczny urządzenia mechatronicznego jest zasilany z linii trójfazowej posiadającej niezależne przewody ochronny i neutralny.",
+    "answers": [
+      "Symbolu 2.",
+      "Symbolu 1.",
+      "Symbolu 3.",
+      "Symbolu 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole26.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 226,
+    "text": "Strukturę kinematyczną OOP (RRT) urządzenia manipulacyjnego przedstawiono na",
+    "answers": [
+      "rysunku 4.",
+      "rysunku 3.",
+      "rysunku 2.",
+      "rysunku 1."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_struktury.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 227,
+    "text": "Układ sterowania po naciśnięciu przycisku S0 powinien cyklicznie włączać i wyłączać cewkę elektrozaworu Y1 w odstępach 30 sekundowych. Jedną z możliwych przyczyn niewyłączenia cewki Y1 po 30 sekundach od naciśnięcia przycisku S0 jest uszkodzenie",
+    "answers": [
+      "przycisku -S1.",
+      "zestyku -K3:21-22.",
+      "zestyku -K1:13-14.",
+      "cewki -K1."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_uklad2.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 228,
+    "text": "Którą kombinację wartości stanów logicznych na wejściach I0.1 i I0.2 należy ustawić, aby na wyjściu %Q0.1 pojawiła się logiczna jedynka?",
+    "answers": [
+      "%I0.1 = 0  %I0.2 = 1",
+      "%I0.1 = 1  %I0.2 = 1",
+      "%I0.1 = 1  %I0.2 = 0",
+      "%I0.1 = 0  %I0.2 = 0"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_program26.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 229,
+    "text": "Do smarowania w urządzeniu mechatronicznym przekładni łańcuchowej przenoszącej moc 33 kW, w której łańcuch ma prędkość liniową 4 m/s, należy zastosować technikę smarowania",
+    "answers": [
+      "ciągłego grawitacyjnego.",
+      "rozbryzgowego.",
+      "okresowego, ręcznego.",
+      "ciśnieniowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_tabela.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 230,
+    "text": "Symbol graficzny zaworu z zapadką sterowanego za pomocą dźwigni, stosowany na schematach pneumatycznych, przedstawiono na",
+    "answers": [
+      "rysunku 2.",
+      "rysunku 3.",
+      "rysunku 1.",
+      "rysunku 4."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole27.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 231,
+    "text": "Wskaż właściwe nastawy dla instrukcji zegara impulsowego, którego stan logiczny równy jeden na wyjściu trwać będzie 7 sekund, mimo iż na wejściu uaktywniającym stan logiczny równy jeden trwać może tylko 2 sekundy.",
+    "answers": [
+      "Timer Type: TOF, Time Base: 100 ms, Preset: 50.",
+      "Timer Type: TP, Time Base: 100 ms, Preset: 70.",
+      "Timer Type: TON, Time Base: 100 ms, Preset: 70.",
+      "Timer Type: TP, Time Base: 100 ms, Preset: 50."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_okno2.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 232,
+    "text": "Wskaż prawidłowy sposób adresowania zmiennej 32-bitowej w obszarze pamięci markerów sterownika PLC, której pierwsze osiem bitów ma adres dziesiętny 102",
+    "answers": [
+      "MW102.",
+      "MB102.",
+      "MD102.",
+      "ML102."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 233,
+    "text": "Który symbol literowy jest stosowany w programie sterowniczym dla PLC, spełniającego wymagania normy IEC 61131, do adresowania jego fizycznych wyjść analogowych?",
+    "answers": [
+      "M",
+      "Q",
+      "AI",
+      "AQ"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 234,
+    "text": "Który z programów realizuje funkcję logiczną wyrażoną podaną zależnością?",
+    "answers": [
+      "Program 2.",
+      "Program 4.",
+      "Program 1.",
+      "Program 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_programy9.png"
+    },
+    "category": "ELM.06"
+  },
+  {
+    "id": 235,
+    "text": "Którym symbolem literowym oznaczane jest na schemacie układu hydraulicznego przyłącze przewodu tłocznego?",
+    "answers": [
+      "Symbolem A.",
+      "Symbolem P.",
+      "Symbolem T.",
+      "Symbolem B."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.06"
+  },
+  {
+    "id": 236,
+    "text": "Symbol graficzny mikrofonu przedstawiono na",
+    "answers": [
+      "rysunku 4.",
+      "rysunku 1.",
+      "rysunku 2.",
+      "rysunku 3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm06/ee21_symbole24.png"
+    },
+    "category": "ELM.06"
+  }
+]
