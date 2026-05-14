@@ -1,0 +1,3616 @@
+[
+  {
+    "id": 1,
+    "text": "Na jakiej minimalnej głębokości powinno się ułożyć wymiennik gruntowy poziomy w okolicach Kalisza, aby uniknąć zamarznięcia płynu roboczego?",
+    "answers": [
+      "2,5 m",
+      "0,5 m",
+      "1,7 m",
+      "1,1 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_mapa.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 2,
+    "text": "Do pomiarów kierunku i prędkości wiatru służy",
+    "answers": [
+      "rotametr.",
+      "manometr.",
+      "wakuometr.",
+      "anemometr."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 3,
+    "text": "Na proces niszczenia agregatu prądotwórczego biogazowni ma wpływ",
+    "answers": [
+      "zbyt mała zawartość metanu.",
+      "zbyt duża wilgotność biogazu.",
+      "zbyt niskie ciśnienie biogazu.",
+      "za wysoka temperatura biogazu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 4,
+    "text": "Do pomiaru napięcia elektrycznego prądnicy siłowni wiatrowej należy użyć urządzenia przedstawionego na rysunku",
+    "answers": [
+      "4",
+      "1",
+      "3",
+      "2"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_urzadzenia5.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 5,
+    "text": "Zjawisko niszczenia powierzchni łopatek wirnika turbiny wodnej wywołane uderzaniem pęcherzyków powietrza to",
+    "answers": [
+      "adhezja.",
+      "korozja.",
+      "osmoza.",
+      "kawitacja."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 6,
+    "text": "Przeprowadzanie bieżącej regulacji i konserwacji układu solarnego zaleca się co",
+    "answers": [
+      "1 - 2 lata",
+      "5 - 6 lat",
+      "3 - 4 lata",
+      "7 - 8 lat"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 7,
+    "text": "Hamowanie odzyskowe prądnicy w siłowni wiatrowej polega na",
+    "answers": [
+      "chłodzeniu elementów hamujących prądnicy.",
+      "zwróceniu do sieci wytwarzanej dodatkowo energii elektrycznej.",
+      "odzysku energii elektrycznej traconej podczas hamowania i ładowania nią akumulatorów.",
+      "pobieraniu energii elektrycznej z sieci celem zatrzymania pracy prądnicy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 8,
+    "text": "Podczas prawidłowej bezawaryjnej pracy instalacji solarnej z kolektorem cieczowym do ogrzewania c.w.u. w dniu słonecznym, zatrzymana została praca pompy obiegowej. Przyczyną może być",
+    "answers": [
+      "awaria czujnika temperatury na kolektorze.",
+      "osiągnięcie maksymalnej temperatury c.w.u. w zbiorniku.",
+      "zapowietrzenie instalacji.",
+      "niskie ciśnienie glikolu w instalacji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 9,
+    "text": "Ile wynosi współczynnik COP sprężarkowej pompy ciepła, jeśli pompa ciepła generuje moc 6 kW i zużywa 2 kW energii elektrycznej?",
+    "answers": [
+      "12",
+      "1/3",
+      "3",
+      "4"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 10,
+    "text": "Substrat inokulujący (tzw. inoculuum) w biogazowni, to taki który,",
+    "answers": [
+      "rozrzedza mieszaninę fermentującą.",
+      "zapoczątkowuje i rozpoczyna fermentację metanową podczas rozruchu biogazowni.",
+      "hamuje fermentację.",
+      "zagęszcza mieszaninę fermentującą."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 11,
+    "text": "Jakie ciśnienie graniczne, w przeliczeniu na bary, wskazuje manometr przedstawiony na ilustracji?",
+    "answers": [
+      "30,0 barów",
+      "3,0 bary",
+      "0,3 bara",
+      "300 barów"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_manometr4.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 12,
+    "text": "Prawo energetyczne w zakresie dotyczącym certyfikowanego instalatora mikroinstalacji, mówi o",
+    "answers": [
+      "źródle energii, o łącznej mocy elektrycznej nie większej niż 50 kW, przyłączonego do sieci elektroenergetycznej o napięciu znamionowym niższym niż 110 kV lub o łącznej mocy zainstalowanej cieplnej nie większej niż 150 kW.",
+      "źródle energii, o łącznej mocy elektrycznej nie większej niż 30 kW, przyłączonego do sieci elektroenergetycznej o napięciu znamionowym niższym niż 110 kV lub o łącznej mocy zainstalowanej cieplnej nie większej niż 100 kW.",
+      "źródle energii, o łącznej mocy elektrycznej nie większej niż 20 kW, przyłączonego do sieci elektroenergetycznej o napięciu znamionowym niższym niż 110 kV lub o łącznej mocy zainstalowanej cieplnej nie większej niż 80 kW.",
+      "źródle energii, o łącznej mocy elektrycznej nie większej niż 40 kW, przyłączonego do sieci elektroenergetycznej o napięciu znamionowym niższym niż 110 kV lub o łącznej mocy zainstalowanej cieplnej nie większej niż 120 kW."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 13,
+    "text": "Zanieczyszczenie absorbera kolektora słonecznego skutkuje",
+    "answers": [
+      "zapchaniem instalacji w której krąży glikol.",
+      "zmniejszeniem wydajności cieplnej kolektora.",
+      "przegrzaniem wody w zbiorniku buforowym.",
+      "zatrzymaniem pompy obiegowej instalacji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 14,
+    "text": "Przedstawiony na rysunku układ to",
+    "answers": [
+      "zespół sterujący instalacją solarną.",
+      "zespół pompowy instalacji solarnej.",
+      "klimakonwektor wspomagający pracę pompy ciepła.",
+      "agregat prądotwórczy siłowni wiatrowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_uklad5.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 15,
+    "text": "Dodanie substratu inhibicjującego proces fermentacji oznacza, że proces będzie",
+    "answers": [
+      "przyśpieszać.",
+      "spowalniać.",
+      "bez wpływu na proces.",
+      "wytwarzać więcej siarkowodoru."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 16,
+    "text": "Przewód elektryczny koloru niebieskiego w trzyżyłowym kablu oznacza przewód",
+    "answers": [
+      "zabezpieczający.",
+      "uziemiający.",
+      "neutralny.",
+      "fazowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 17,
+    "text": "Wykonanie projektu przed wykonaniem instalacji fotowoltaicznej on-grid jest * zdający otrzymuje jeden punkt niezależnie od udzielonej odpowiedzi.",
+    "answers": [
+      "niezbędne. \nB.  zalecane. \nC.  obojętne. \nD.  wskazane przy mocy powyżej 20 kWp."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 18,
+    "text": "Przedstawione urządzenie steruje pracą",
+    "answers": [
+      "pompy ciepła.",
+      "instalacji fotowoltaicznej.",
+      "siłowni wiatrowej.",
+      "instalacji kolektorów cieczowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_urzadzenie3.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 19,
+    "text": "Anoda magnezowa w wymienniku biwalentnym zabezpiecza przed",
+    "answers": [
+      "przegrzaniem wody użytkowej.",
+      "porażeniem elektrycznym.",
+      "stratami ciepła.",
+      "korozją zbiornika."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 20,
+    "text": "Przedstawiony na rysunku układ służy do",
+    "answers": [
+      "spuszczania zużytego czynnika roboczego instalacji solarnej.",
+      "przeprowadzania próby szczelności i napełniania instalacji solarnej.",
+      "okresowego czyszczenia instalacji solarnej.",
+      "przeprowadzania próby szczelności sprężarkowej pompy ciepła."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_uklad4.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 21,
+    "text": "Certyfikat instalatora systemów fotowoltaicznych wydany przez Prezesa UDT jest ważny",
+    "answers": [
+      "3 lata.",
+      "4 lata.",
+      "2 lata.",
+      "5 lat."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 22,
+    "text": "Rolą zaworu rozprężnego w sprężarkowej pompie ciepła jest",
+    "answers": [
+      "obniżenie ciśnienia czynnika roboczego.",
+      "zwiększenie przepływu czynnika roboczego.",
+      "wyrównanie temperatury czynnika roboczego.",
+      "zwiększenie ciśnienia czynnika roboczego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 23,
+    "text": "Ile wynosi średnioroczne nasłonecznienie w Polsce wykorzystywane przez kolektor słoneczny?",
+    "answers": [
+      "1 400 - 1 500 kWh/m2",
+      "900 - 1 100 kWh/m2",
+      "1 200 - 1 300 kWh/m2",
+      "500 - 600 kWh/m2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 24,
+    "text": "Zachwianie produkcji metanu w uzyskiwanym biogazie w komorze fermentacyjnej biogazowni, może być skutkiem nieprawidłowości procesu fermentacji",
+    "answers": [
+      "hydrolizy.",
+      "octowej.",
+      "alkoholowej.",
+      "mlekowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 25,
+    "text": "Wiskozymetr służy do pomiaru",
+    "answers": [
+      "wartości opałowej peletu.",
+      "lepkości kinematycznej płynów.",
+      "natężenia oświetlenia.",
+      "prędkości wiatru."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 26,
+    "text": "W instrukcji obsługi pompy ciepła podano średni przepływ cieczy roboczej na poziomie 2,7 m3/h. Jaką wartość powinien wskazywać rotametr tej instalacji wyskalowany w dm3/s ?",
+    "answers": [
+      "1,88",
+      "0,53",
+      "1,33",
+      "0,75"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 27,
+    "text": "Przydatność glikolu w instalacji solarnej należy sprawdzić za pomocą",
+    "answers": [
+      "wiskozymetru.",
+      "pirometru.",
+      "rurki Pitota.",
+      "refraktometru."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 28,
+    "text": "Optymalna temperatura rozwoju bakterii legionelli w instalacji c.w.u. to",
+    "answers": [
+      "16 - 24°C",
+      "25 - 50°C",
+      "51 - 61°C",
+      "10 - 15°C"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 29,
+    "text": "Podstawą do złożenia reklamacji pompy ciepła jest przyczyna w postaci",
+    "answers": [
+      "niestabilnej pracy sprężarki pompy ciepła.",
+      "niskiej sprawności energetycznej COP.",
+      "niskiego ciśnienia cieczy roboczej w obiegu pompy.",
+      "nieprawidłowego wskazania ciepłomierza."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 30,
+    "text": "Udrożnienie i czyszczenie czopucha kotła na biomasę odbędzie się w miejscu oznaczonym numerem",
+    "answers": [
+      "12",
+      "6",
+      "11",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_kociol.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 31,
+    "text": "W karcie gwarancyjnej modułu fotowoltaicznego nie musi być zamieszczona informacja o",
+    "answers": [
+      "adresie producenta.",
+      "typie, modelu urządzenia.",
+      "okresie ochrony gwarancyjnej.",
+      "schemacie instalacji fotowoltaicznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 32,
+    "text": "Którym z wymienionych przyrządów można wykonać na odległość pomiar temperatury czynnika roboczego w orurowaniu słonecznej instalacji grzewczej?",
+    "answers": [
+      "Pirometrem.",
+      "Wakuometrem.",
+      "Wariometrem.",
+      "Piezometrem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 33,
+    "text": "Luksomierz służy do pomiaru",
+    "answers": [
+      "lepkości kinematycznej biopaliw.",
+      "napięcia elektrycznego.",
+      "siły i prędkości wiatru.",
+      "natężenia oświetlenia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 34,
+    "text": "Podstawowym urządzeniem zabezpieczającym agregat biogazowy przed niszczącym działaniem substancji szkodliwych jest absorber",
+    "answers": [
+      "związków węgla.",
+      "związków azotu.",
+      "związków siarki.",
+      "zanieczyszczeń stałych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 35,
+    "text": "Zimne spalanie – bezpłomieniowe występuje w",
+    "answers": [
+      "kotle retortowym.",
+      "kotle kondensacyjnym.",
+      "ogniwie paliwowym.",
+      "biogazowni."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 36,
+    "text": "Wartość ciśnienia wskazywanego przez manometr na rysunku wynosi",
+    "answers": [
+      "6 MPa",
+      "0,6 MPa",
+      "0,06 MPa",
+      "60 MPa"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_manometr3.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 37,
+    "text": "Zwarcie transformatora to stan w którym,",
+    "answers": [
+      "wszystkie uzwojenia transformatora są podłączone do zacisków sieci elektrycznej, mimo to, na zaciskach brak napięcia elektrycznego.",
+      "żadne z uzwojeń nie jest podłączone do zacisków sieci elektrycznej.",
+      "przewód zabezpieczający i neutralny są połączone ze sobą.",
+      "jedno z uzwojeń zasilane jest ze źródła energii elektrycznej, a zaciski drugiego uzwojenia są zwarte."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 38,
+    "text": "Przedstawione na rysunku urządzenie to",
+    "answers": [
+      "zawór zwrotny.",
+      "rotametr.",
+      "zawór bezpieczeństwa.",
+      "ciepłomierz."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_urzadzenie2.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 39,
+    "text": "Wyznacz odległość jaka powinna być między kolejnymi rzędami modułów fotowoltaicznych L, jeśli h = 1 200 mm, α =40°, β= 21°, tg β = 0,38, sin 40° = 0,64; cos 40° = 0,76, L = (sinα/tgβ + cosα) · h (m).",
+    "answers": [
+      "2,15 m",
+      "2,94 m",
+      "1,84 m",
+      "3,56 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_moduly2.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 40,
+    "text": "Pompa obiegowa o mocy 80 W pracująca 15 godzin dziennie od 1 października do 28 lutego zużyła energii elektrycznej",
+    "answers": [
+      "60 kWh",
+      "181,2 kWh",
+      "0,026 kWh",
+      "24 kWh"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 41,
+    "text": "Wykres przedstawia krzywe grzewcze. Wybór krzywej zależy od rodzaju instalacji c.o. Jeżeli do obwodu grzewczego pompy ciepła podłączone jest ogrzewanie podłogowe należy przy pierwszym uruchomieniu, jako nastawę regulatora wybrać krzywe z zakresu",
+    "answers": [
+      "1,2 ÷ 4",
+      "0,6 ÷ 4",
+      "0,6 ÷ 1,2",
+      "0,2 ÷ 0,4"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_wykres5.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 42,
+    "text": "Przedstawionym na rysunku manowakuometrem zmierzono",
+    "answers": [
+      "różnicę ciśnień.",
+      "nadciśnienie.",
+      "podciśnienie.",
+      "ciśnienie atmosferyczne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_manowakuometr.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 43,
+    "text": "Zadziałanie zabezpieczenia STB kotła na biomasę z podajnikiem spowodowane jest",
+    "answers": [
+      "uszkodzeniem sondy lambda.",
+      "przegrzaniem wody w kotle.",
+      "cofnięciem płomienia.",
+      "brakiem paliwa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 44,
+    "text": "Termometr cieczowy, dla którego poprawki przedstawiono w tabeli wskazuje: –13,7°C. Ile wynosi rzeczywista wartość temperatury zmierzonej tym przyrządem?",
+    "answers": [
+      "– 13,7°C",
+      "– 13,8°C",
+      "– 13,6°C",
+      "– 13,5°C"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_tabela7.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 45,
+    "text": "Podczas okresowego przeglądu instalacji z pompą ciepła stwierdzono, że mieszkańcy skarżą się na brak komfortu cieplnego, a czujnik pogodowy zamontowany jest na południowej ścianie budynku w pobliżu przewodu kominowego, około 2 m nad poziomem gruntu. W tej sytuacji należy zamontować czujnik na",
+    "answers": [
+      "najzimniejszej ścianie budynku, jak najbliżej gruntu.",
+      "południowej ścianie budynku, z dala od przewodu kominowego.",
+      "południowej ścianie budynku, jak najbliżej dachu.",
+      "najzimniejszej ścianie budynku, 2 m powyżej gruntu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 46,
+    "text": "Oceny stanu instalacji fotowoltaicznej dokonuje się na podstawie pomiarów",
+    "answers": [
+      "parametrów elektrycznych instalacji.",
+      "ciśnienia roboczego.",
+      "temperatury krzepnięcia czynnika roboczego.",
+      "natężenia przepływu czynnika roboczego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 47,
+    "text": "Której z funkcji nie wykonuje regulator kotła na paliwo typu pellet w trybie wygaszania?",
+    "answers": [
+      "Wykonywanie cyklicznych przedmuchów w celu dopalenia resztek paliwa.",
+      "Cykliczne załączanie podajnika paliwa.",
+      "Zatrzymanie podawania paliwa.",
+      "Przygotowanie kotła do postoju lub wyłączenia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 48,
+    "text": "Rysunek przedstawia turbinę wiatrową",
+    "answers": [
+      "Savoniusa.",
+      "z dyfuzorem.",
+      "Darrieusa.",
+      "H-Darrieus."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_turbina2.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 49,
+    "text": "Aby zminimalizować straty ciepła w słonecznej instalacji grzewczej konieczna jest izolacja cieplna przewodów z czynnikiem grzewczym",
+    "answers": [
+      "w odległości max 0,25 m od króćców kolektora.",
+      "na całej długości.",
+      "na odcinkach prowadzonych w budynku.",
+      "na odcinkach prowadzonych poza budynkiem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 50,
+    "text": "Przedstawiony na rysunku znak ostrzega przed",
+    "answers": [
+      "gorącą powierzchnią.",
+      "zatruciem oparami.",
+      "polem magnetycznym.",
+      "promieniowaniem niejonizującym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_znak.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 51,
+    "text": "Na dachu domku jednorodzinnego zamontowano 2 kolektory słoneczne, każdy o powierzchni absorbera 1,80 m2 i powierzchni brutto (w obrysie) 2,2 m2. Dla pojedynczego kolektora średni dzienny uzysk energetyczny z powierzchni czynnej wynosi 3,4 kWh/m2. Ile wyniesie dzienny uzysk energetyczny instalacji?",
+    "answers": [
+      "6,12 kWh",
+      "14,96 kWh",
+      "12,24 kWh",
+      "7,48 kWh"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 52,
+    "text": "Refraktometrem analogowym wykonano pomiar temperatury zamarzania płynu chłodniczego na bazie glikolu propylenowego. Wynik pomiaru należy odczytać na skali",
+    "answers": [
+      "środkowej w prawej części G11/12 Ethylene.",
+      "pierwszej z lewej strony w kg/l.",
+      "pierwszej z prawej strony SRF1.",
+      "środkowej w lewej części G13 Propylene."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_pomiar.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 53,
+    "text": "Efektywne i spełniające normy ochrony środowiska spalanie biomasy drzewnej, w celu pozyskania energii, powinno odbywać się przez odpowiednio długi czas oraz",
+    "answers": [
+      "w wysokiej temperaturze przy braku dostępu tlenu.",
+      "w wysokiej temperaturze przy dostępie tlenu.",
+      "w niskiej temperaturze przy braku dostępu tlenu.",
+      "w niskiej temperaturze przy dostępie tlenu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 54,
+    "text": "Które parametry złoża geotermalnego jako źródła dla ciepłowni są najkorzystniejsze?",
+    "answers": [
+      "Niższa temperatura, wyższa wydajność oraz wyższy stopień zmineralizowania.",
+      "Niższa temperatura, niższa wydajność oraz niższy stopień zmineralizowania.",
+      "Wyższa temperatura, niższa wydajność oraz wyższy stopień zmineralizowania.",
+      "Wyższa temperatura, wyższa wydajność oraz niższy stopień zmineralizowania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 55,
+    "text": "Rysunek przedstawia tabliczkę znamionową",
+    "answers": [
+      "falownika.",
+      "generatora.",
+      "modułu PV.",
+      "zasilacza."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_tabliczka.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 56,
+    "text": "Zadaniem elektrowni szczytowo-pompowej jest",
+    "answers": [
+      "zwiększenie atrakcyjności turystycznej terenu.",
+      "współpraca z systemem elektroenergetycznym.",
+      "magazynowanie wody dla aglomeracji miejskich.",
+      "akumulowanie nadmiaru wody w razie powodzi."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 57,
+    "text": "Ciśnienie robocze w najwyższym punkcie słonecznej instalacji grzewczej powinno wynosić 1 bar. Każdy metr wysokości statycznej instalacji podwyższa ciśnienie robocze na manometrze zainstalowanym w grupie pompowej o 0,1 bar. Ile powinno wynosić ciśnienie robocze na manometrze dla instalacji o wysokości statycznej 10 m?",
+    "answers": [
+      "1,1 bar",
+      "11 bar",
+      "2,2 bar",
+      "2 bar"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 58,
+    "text": "Na podstawie obrazu modułu fotowoltaicznego uzyskanego z kamery termowizyjnej przedstawionego na rysunku można stwierdzić",
+    "answers": [
+      "powstanie gorącego punktu Hot-Spot.",
+      "delaminację warstwy EVA.",
+      "że moduł jest nieuszkodzony.",
+      "żółknięcie warstwy EVA."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_obraz.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 59,
+    "text": "Który z czujników w słonecznej instalacji grzewczej instalacji solarnej mierzy temperaturę na zasilaniu wężownicy w podgrzewaczu?",
+    "answers": [
+      "T2",
+      "T1",
+      "T3",
+      "T1 i T3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_instalacja6.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 60,
+    "text": "Czynności okresowego przeglądu, na przykład kotła na biomasę są wpisywane przez autoryzowanego serwisanta do protokołu lub karty napraw i przeglądów, które są dodatkiem do",
+    "answers": [
+      "faktury wystawionej przez serwisanta.",
+      "instrukcji obsługi.",
+      "instrukcji montażu.",
+      "karty gwarancyjnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 61,
+    "text": "Podczas okresowego przeglądu słonecznej instalacji grzewczej sprawdza się stan czynnika grzewczego. Standardowy płyn solarny, bez rezerwy alkalicznej, w polskich warunkach klimatycznych podlega wymianie, gdy stwierdza się",
+    "answers": [
+      "odporność na zamarzanie lub zabarwienie papierka lakmusowego na niebiesko.",
+      "temperaturę zamarzania poniżej –25°C lub odczyn pH powyżej 7.",
+      "temperaturę zamarzania powyżej –25°C lub odczyn pH poniżej 7.",
+      "odporność na zamarzanie lub odczyn pH zasadowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 62,
+    "text": "Na podstawie rysunku przedstawiającego ekran sterownika układu kolektora słonecznego, temperatura czynnika na powrocie do kolektora wynosi",
+    "answers": [
+      "50°C",
+      "60°C",
+      "65°C",
+      "48°C"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_ekran.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 63,
+    "text": "Producent podaje współczynnik wydajności cieplnej COP = 4,3 w punkcie pracy A2/W35. Oznacza to, że COP podano dla",
+    "answers": [
+      "powietrznej pompy ciepła dla temperatur: powietrza atmosferycznego +2°C i wody grzewczej na zasilaniu +35°C.",
+      "gruntowej pompy ciepła dla temperatur: dolnego źródła +2°C i górnego źródła +35°C.",
+      "gruntowej pompy ciepła dla temperatur: wody gruntowej +35°C i powietrza wylotowego +2°C.",
+      "powietrznej pompy ciepła dla temperatur: górnego źródła +2°C i dolnego źródła +35°C."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 64,
+    "text": "Prędkość znamionowa wiatru dla turbin wiatrowych z osią poziomą mieści się w przedziale",
+    "answers": [
+      "110÷130 km/h",
+      "10÷16 km/h",
+      "80÷100 km/h",
+      "36÷60 km/h"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 65,
+    "text": "W trakcie eksploatacji instalacji fotowoltaicznej typu off-grid zaleca się, nie rzadziej niż raz na 6 miesięcy dokonać pomiaru i analizy napięcia baterii akumulatorów. Na jaki zakres należy ustawić miernik napięcia, aby poprawnie zmierzyć napięcie akumulatora przedstawionego na rysunku?",
+    "answers": [
+      "200 V AC",
+      "20 V DC",
+      "2 V DC",
+      "20 V AC"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_akumulator.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 66,
+    "text": "Wskaźnik próżni na dole rury próżniowej sprawnego kolektora rurowo-próżniowego powinien mieć barwę",
+    "answers": [
+      "metaliczno-srebrzystą.",
+      "mleczną.",
+      "białą.",
+      "żółtoszarą."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 67,
+    "text": "Na rysunku przedstawiono uszkodzenia turbiny wodnej powstałe w wyniku",
+    "answers": [
+      "zjawiska kolmatacji.",
+      "erozji abrazyjnej.",
+      "erozji kawitacyjnej.",
+      "zjawiska eworsji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_uszkodzenia.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 68,
+    "text": "Poprawność działania czujnika Pt1000 można sprawdzić, mierząc jego rezystancję w określonej temperaturze. Pomiaru dokonuje się",
+    "answers": [
+      "watomierzem.",
+      "omomierzem.",
+      "amperomierzem.",
+      "woltomierzem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 69,
+    "text": "Po zgłoszeniu alarmu ze strony presostatu niskiego ciśnienia sprężarkowej pompy ciepła typu B/W należy w pierwszej kolejności sprawdzić stan",
+    "answers": [
+      "skraplacza po stronie wody.",
+      "skraplacza po stronie czynnika chłodniczego.",
+      "parownika po stronie czynnika chłodniczego.",
+      "filtra zanieczyszczeń w instalacji grzewczej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 70,
+    "text": "W pompie ciepła powietrze-woda należy sprawdzać regularnie",
+    "answers": [
+      "wilgotność powietrza.",
+      "drożność odpływu kondensatu.",
+      "temperaturę w obiegu solanki.",
+      "szczelność zaworów w rozdzielaczu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 71,
+    "text": "Moc modułu fotowoltaicznego o powierzchni 0,8 m2 i sprawności 15% przy napromieniowaniu słonecznym z mocą 660 W/m2 wynosi",
+    "answers": [
+      "79 W/m2",
+      "99 W/m2",
+      "660 W/m2",
+      "528 W/m2"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 72,
+    "text": "Na manometrze zainstalowanym w słonecznej instalacji grzewczej odczytano wartość ciśnienia roboczego 1,9 bara. Ile wyniesie ta wartość wyrażona w Pa?",
+    "answers": [
+      "1,9 kPa",
+      "19 kPa",
+      "0,19 MPa",
+      "1,9 MPa"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 73,
+    "text": "Zanieczyszczenia gromadzące się podczas eksploatacji na kratach MEW usuwa się",
+    "answers": [
+      "rozdrabniając mechanicznie na kratach.",
+      "ręcznie lub mechanicznie przy pomocy czyszczarek.",
+      "wykorzystując grawitację przy przelewach na jazie.",
+      "w sposób chemiczny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 74,
+    "text": "W danych katalogowych producenci podają moc maksymalną modułu fotowoltaicznego Pmax wyznaczoną w warunkach STC i wyrażoną jednostką",
+    "answers": [
+      "V",
+      "Wp",
+      "A",
+      "War"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 75,
+    "text": "Podczas eksploatacji instalacji fotowoltaicznej zaobserwowano długotrwały spadek mocy. Przyczynę zdiagnozowano na podstawie oględzin modułów. Wygląd zainstalowanych modułów świadczy, że doszło do",
+    "answers": [
+      "powstania gorących punktów.",
+      "mikropęknięć ogniw.",
+      "żółknięcia warstwy EVA.",
+      "pęknięcia szkła."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_moduly.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 76,
+    "text": "Rozplanowanie modułów fotowoltaicznych na dachu budynku lub farmie fotowoltaicznej przedstawia",
+    "answers": [
+      "miejscowy plan zagospodarowania przestrzennego.",
+      "string - plan.",
+      "schemat ideowy.",
+      "schemat elektryczny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 77,
+    "text": "Na przedstawionym na rysunku fragmencie woltomierza analogowego ustawionego na zakres pomiarowy 3 V wartość napięcia wynosi",
+    "answers": [
+      "5,5 V",
+      "2,2 V",
+      "55 V",
+      "22 V"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_woltomierz.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 78,
+    "text": "Parametry elektryczne modułów fotowoltaicznych silnie zależą od warunków atmosferycznych. Który z wymienionych przyrządów służy do pomiaru natężenia promieniowania słonecznego?",
+    "answers": [
+      "Amperomierz.",
+      "Pirometr.",
+      "Luksomierz.",
+      "Pyranometr."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 79,
+    "text": "Właściciel słonecznej instalacji grzewczej w domu jednorodzinnym zgłasza problemy z nagrzewającymi się kolektorami w porze nocnej. Przyczyną tej sytuacji może być brak montażu",
+    "answers": [
+      "zaworu zwrotnego w obiegu powrotnym.",
+      "zaworu odcinającego na odpowietrzniku automatycznym.",
+      "czujnika temperatury otoczenia.",
+      "zaworu bezpieczeństwa w obiegu czynnika roboczego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 80,
+    "text": "Mycie paneli fotowoltaicznych należy wykonywać najlepiej",
+    "answers": [
+      "rozpuszczalnikiem organicznym przy pochmurnej pogodzie.",
+      "wodą destylowaną przy słonecznej pogodzie, kiedy panel jest rozgrzany.",
+      "czystą wodą przy pochmurnej pogodzie lub wcześnie rano w słoneczny dzień.",
+      "delikatnym detergentem przy słonecznej pogodzie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 81,
+    "text": "Silne zaszronienie połowy obwodów dolnego źródła gruntowej pompy ciepła może świadczyć o",
+    "answers": [
+      "nierównomiernym przepływie czynnika przez poszczególne pętle.",
+      "bardzo niskim ciśnieniu w całym układzie.",
+      "bardzo wysokim ciśnieniu czynnika w poszczególnych pętlach.",
+      "nadmiernym przepływie czynnika przez cały wymiennik."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 82,
+    "text": "Do naprawy połączenia w słonecznej instalacji grzewczej wykonanej z rur miedzianych i złączek kapilarnych należy zastosować",
+    "answers": [
+      "zgrzewarkę doczołową.",
+      "zgrzewarkę elektrooporową.",
+      "lutownicę transformatorową.",
+      "palnik propan-tlen."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 83,
+    "text": "Okresowy przegląd techniczny elektrowni wiatrowej nie obejmuje",
+    "answers": [
+      "emisji zanieczyszczeń do atmosfery.",
+      "instalacji odgromowej.",
+      "łopat wirnika.",
+      "fundamentu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 84,
+    "text": "Podczas procesu fermentacji w biogazowni kontrolowana i rejestrowana jest przede wszystkim",
+    "answers": [
+      "zasadowość.",
+      "wilgotność.",
+      "masa substratu.",
+      "temperatura."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 85,
+    "text": "Okres rękojmi za wady fizyczne na inwerter w instalacji fotowoltaicznej wynosi",
+    "answers": [
+      "2 lata.",
+      "1 rok.",
+      "4 lata.",
+      "3 lata."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 86,
+    "text": "Na podstawie tabeli, określ wymagane natężenie przepływu czynnika w dolnym źródle dla pompy ciepła o mocy 7 kW.",
+    "answers": [
+      "2,2 l/s",
+      "3,4 l/s",
+      "0,5 l/s",
+      "1,8 l/s"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele11/bd18_tabela4.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 87,
+    "text": "W celu zabezpieczenia pompy obiegowej przed uszkodzeniem cząstkami stałymi znajdującymi się w instalacji stosowany jest",
+    "answers": [
+      "trójdrogowy zawór mieszający.",
+      "zawór zwrotny.",
+      "filtr siatkowy.",
+      "odpowietrznik."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 88,
+    "text": "W jaki sposób należy zagospodarować powierzchnię gruntu nad poziomym kolektorem gruntowym pompy ciepła w celu zapewnienia jak najlepszej regeneracji źródła ciepła?",
+    "answers": [
+      "Wysiać trawę.",
+      "Zasadzić drzewa.",
+      "Ułożyć kostkę betonową.",
+      "Ułożyć kostkę granitową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 89,
+    "text": "Do pomiaru stężenia glikolu etylenowego i temperatury jego zamarzania stosowany jest",
+    "answers": [
+      "aerometr.",
+      "refraktometr.",
+      "wakuometr.",
+      "flusostat."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 90,
+    "text": "Wykonawca słonecznej instalacji grzewczej zobowiązany jest przekazać inwestorowi komplet dokumentów oraz gwarancji na urządzenia podczas odbioru",
+    "answers": [
+      "bieżącego.",
+      "końcowego.",
+      "częściowego.",
+      "okresowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 91,
+    "text": "Na podstawie zamieszczonej mapy określ okolice której miejscowości są najkorzystniejsze dla lokalizacji elektrowni wiatrowej.",
+    "answers": [
+      "Krakowa.",
+      "Wrocławia.",
+      "Zamościa.",
+      "Łeby."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele11/bd18_mapa.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 92,
+    "text": "Które zabezpieczenie i przewód zasilający należy dobrać dla pompy ciepła o mocy 9,5 kW?",
+    "answers": [
+      "C 32 i 3 x 4,0 mm2",
+      "C 40 i 3 x 6,0 mm2",
+      "C 16 i 3 x 2,5 mm2",
+      "C 20 i 3 x 2,5 mm2"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele11/bd18_tabela5.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 93,
+    "text": "Przedstawiony na rysunku regulator jest przeznaczony do sterowania pracą",
+    "answers": [
+      "elektrowni geotermalnej.",
+      "instalacji pompy ciepła.",
+      "słonecznej instalacji grzewczej.",
+      "małej elektrowni wiatrowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele11/bd18_regulator.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 94,
+    "text": "W kominku z płaszczem wodnym powinno palić się",
+    "answers": [
+      "wilgotnym drewnem liściastym.",
+      "suchym drewnem iglastym.",
+      "wilgotnym drewnem iglastym.",
+      "suchym drewnem liściastym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 95,
+    "text": "Nieprzerwana praca klimatyzatora split może oznaczać",
+    "answers": [
+      "za dużą kubaturę klimatyzowanego pomieszczenia.",
+      "za wysokie napięcie w instalacji elektrycznej.",
+      "za małą kubaturę klimatyzowanego pomieszczenia.",
+      "za niskie napięcie w instalacji elektrycznej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 96,
+    "text": "W przypadku konieczności skorzystania z prawa gwarancji na urządzenia instalacji słonecznej, użytkownik jest zobowiązany przedstawić firmie dostarczającej urządzenia instalacji słonecznej",
+    "answers": [
+      "aprobaty techniczne.",
+      "dziennik budowy.",
+      "protokół odbioru i przeglądu.",
+      "kosztorys powykonawczy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 97,
+    "text": "Na podstawie charakterystyki turbiny wiatrowej określ ile razy wzrośnie moc turbiny spowodowana zmianą prędkości wiatru z 6 m/s do 18 m/s.",
+    "answers": [
+      "6 razy.",
+      "8 razy.",
+      "4 razy.",
+      "2 razy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele11/bd18_charakterystyka.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 98,
+    "text": "Graniczna wartość pH glikolu propylenowego w słonecznej instalacji grzewczej poniżej, której powinien być wymieniony, wynosi",
+    "answers": [
+      "10.",
+      "5.",
+      "3.",
+      "7."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 99,
+    "text": "Który miernik wskazuje wartość wyniku pomiaru mocy?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele11/bd18_mierniki.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 100,
+    "text": "Moc oddawaną przez pracującą elektrownię wiatrową można regulować poprzez zmianę",
+    "answers": [
+      "długości łopat wirnika.",
+      "wysokości masztu.",
+      "liczby łopat.",
+      "kąta ustawienia łopat."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 101,
+    "text": "Których narzędzi należy użyć do wymiany uszkodzonej pompy w słonecznej instalacji grzewczej?",
+    "answers": [
+      "Wkrętaka i dwóch kluczy płaskich nastawnych.",
+      "Wkrętaka i klucza do rur.",
+      "Szczypców uniwersalnych i dwóch kluczy imbusowych.",
+      "Szczypców uniwersalnych i klucza torx."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 102,
+    "text": "Do środków ochrony przed porażeniem prądem w instalacji o układzie TN-S należy",
+    "answers": [
+      "wyłącznik przeciążeniowy.",
+      "wyłącznik dwubiegunowy.",
+      "wyłącznik różnicowoprądowy.",
+      "kondensator ceramiczny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 103,
+    "text": "Przyrządy pomiarowe w przedstawionej na rysunku grupie pompowej zapewniają pomiar wartości",
+    "answers": [
+      "temperatury i natężenia przepływu.",
+      "ciśnienia i lepkości.",
+      "natężenia przepływu i ciśnienia.",
+      "temperatury i ciśnienia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele11/bd18_grupa.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 104,
+    "text": "Przeprowadzone przeglądy i naprawy instalacji fotowoltaicznej należy odnotować w",
+    "answers": [
+      "instrukcji obsługi i eksploatacji.",
+      "dokumentacji technicznej.",
+      "karcie gwarancyjnej.",
+      "protokole odbioru instalacji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 105,
+    "text": "Reklamacja na słoneczną instalację grzewczą może być pozytywnie rozpatrzona, jeżeli w czasie jej eksploatacji przeglądów dokonywał",
+    "answers": [
+      "autoryzowany serwisant.",
+      "monter.",
+      "właściciel.",
+      "inspektor nadzoru."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 106,
+    "text": "Które dokumenty są niezbędne do przekazania do eksploatacji kotłowni wyposażonej w kocioł na biomasę i słoneczną instalację grzewczą?",
+    "answers": [
+      "Książka gwarancyjna.",
+      "Kosztorys powykonawczy.",
+      "Schemat i opis instalacji.",
+      "Aprobaty techniczne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 107,
+    "text": "Który przyrząd pomiarowy należy zastosować do pomiaru wartości napięcia w elektrowni fotowoltaicznej?",
+    "answers": [
+      "Woltomierz.",
+      "Amperomierz.",
+      "Watomierz.",
+      "Omomierz."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 108,
+    "text": "Na podstawie tabeli zawierającej dane techniczne falowników wskaż wartość maksymalnego prądu wyjściowego modelu 5000TL.",
+    "answers": [
+      "7,3 A",
+      "10,0 A",
+      "8,7 A",
+      "11,0 A"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele11/bd18_tabela3.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 109,
+    "text": "Jedną z głównych przyczyn uszkodzenia mechanicznego próżniowego kolektora rurowego może być",
+    "answers": [
+      "duże nasłonecznienie.",
+      "silny wiatr.",
+      "duża różnica temperatur.",
+      "gradobicie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 110,
+    "text": "Czyszczenie zewnętrznych powierzchni płaskich paneli fotowoltaicznych powinno być wykonywane",
+    "answers": [
+      "wodą z silnym detergentem i matą ścierną.",
+      "wodą z łagodnym detergentem i miękką szmatką.",
+      "myjką wodną wysokociśnieniową.",
+      "myjką parową wysokociśnieniową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 111,
+    "text": "Histereza regulatora temperatury wody w zbiorniku wynosi 2°C, a żądana temperatura została ustawiona na 40°C. Które wartości temperatur wody w zbiorniku będą powodowały włączenie i wyłączenie grzałki?",
+    "answers": [
+      "Wyłączenie 40°C, włączenie 38°C",
+      "Wyłączenie 38°C, włączenie 40°C",
+      "Wyłączenie 42°C, włączenie 38°C",
+      "Wyłączenie 42°C, włączenie 40°C"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 112,
+    "text": "Z instrukcji pompy ciepła wynika, że dopuszczalne są wahania napięcia zasilania w granicach +/- 10% nominalnego napięcia w polskiej sieci elektroenergetycznej niskiego napięcia. Wynik pomiaru wartości napięcia fazowego wynosi 247 V. Zmierzone napięcie zasilania jest",
+    "answers": [
+      "mniejsze od nominalnego, ale mieści się w granicach dopuszczalnych odchyłek.",
+      "zbyt niskie dla prawidłowej pracy pompy ciepła.",
+      "zbyt wysokie dla prawidłowej pracy pompy ciepła.",
+      "większe od nominalnego, ale mieści się w granicach dopuszczalnych odchyłek."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 113,
+    "text": "Po kilkudniowej poprawnej pracy pompy ciepła sterownik wyświetlił komunikat PP8. Na podstawie tabeli wskaż możliwą przyczynę wyświetlenia się komunikatu.",
+    "answers": [
+      "Uszkodzony zawór rozprężny.",
+      "Niepoprawne działanie czujnika.",
+      "Wyciekający czynnik.",
+      "Niepoprawne działanie czujnika wysokiego ciśnienia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele11/bd18_tabela6.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 114,
+    "text": "Zawarty w biogazie gaz powodujący korozję armatury i zbiorników to",
+    "answers": [
+      "wodór.",
+      "metan.",
+      "dwutlenek węgla.",
+      "siarkowodór."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 115,
+    "text": "O czym może świadczyć wysoka temperatura kolektora słonecznego oraz niska temperatura wody w zasobniku po dłuższym czasie oczekiwania?",
+    "answers": [
+      "O uszkodzeniu wodowskazu.",
+      "O uszkodzeniu naczynia wzbiorczego.",
+      "O awarii pompy obiegowej.",
+      "O zbyt małej powierzchni kolektorów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 116,
+    "text": "Przegląd słonecznej instalacji grzewczej użytkowanej do podgrzewania wody w otwartym basenie powinien być wykonywany każdego roku po okresie",
+    "answers": [
+      "letnim.",
+      "jesiennym.",
+      "wiosennym.",
+      "zimowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 117,
+    "text": "Zasobnik c.w.u. połączony jest przez wymiennik ciepła z kolektorami słonecznymi. Podczas prac konserwacyjnych stwierdzono, że pompa działa, a woda w zasobniku nie nagrzewa się. Jakie działania należy podjąć w pierwszej kolejności?",
+    "answers": [
+      "Odpowietrzyć instalację.",
+      "Zwiększyć wydajność pompy obiegowej.",
+      "Zwiększyć parametry pracy instalacji.",
+      "Dokonać wymiany zaworu zwrotnego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 118,
+    "text": "Pompa ciepła powinna mieć różnicę pomiędzy dopływem, a wypływem z cieczowego dolnego źródła ciepła w zakresie",
+    "answers": [
+      "od 7 K do 9 K",
+      "od 1 K do 2 K",
+      "od 2 K do 5 K",
+      "od 0 K do 1 K"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 119,
+    "text": "Protokolarny odbiór techniczny przewodu kominowego wymagany jest przed przystąpieniem do eksploatacji",
+    "answers": [
+      "słonecznej instalacji grzewczej.",
+      "elektrowni wiatrowej.",
+      "turbokominka.",
+      "instalacji pompy ciepła."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 120,
+    "text": "Jedną z przyczyn awarii powstających podczas użytkowania emaliowanego wymiennika ciepła jest brak regularnej wymiany",
+    "answers": [
+      "zaworu zwrotnego.",
+      "anody magnezowej.",
+      "zaworu bezpieczeństwa.",
+      "naczynia przeponowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 121,
+    "text": "Przedstawiona na rysunku awaria modułu fotowoltaicznego jest związana z",
+    "answers": [
+      "powstaniem gorącego punktu w wyniku mikropęknięć i zacienienia.",
+      "degeneracją i zżółknięciem warstwy EVA.",
+      "delaminacją folii w miejscu ścieżki prądowej.",
+      "uszkodzeniem mechanicznym w czasie gradobicia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_awaria.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 122,
+    "text": "Miernik oznaczony znakiem zapytania, który został podłączony jak na schemacie służy do pomiaru",
+    "answers": [
+      "natężenia prądu.",
+      "rezystancji.",
+      "mocy.",
+      "napięcia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_schemat8.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 123,
+    "text": "Harmonogram i zakres przeglądów okresowych urządzenia należy umieścić w",
+    "answers": [
+      "instrukcji montażu.",
+      "dokumentacji techniczno-ruchowej.",
+      "projekcie wykonawczym.",
+      "specyfikacji technicznej wykonania robót."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 124,
+    "text": "Dla jakiego odcinka czasu określa się współczynnik efektywności pracy pompy ciepła w skrócie SPF?",
+    "answers": [
+      "Godzina.",
+      "Doba.",
+      "Rok.",
+      "Miesiąc."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 125,
+    "text": "Przy naprawie z rur miedzianych w słonecznej instalacji grzewczej do ich cięcia należy użyć narzędzia przedstawionego na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_narzedzia2.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 126,
+    "text": "Jaka będzie prędkość przepływu czynnika solarnego w przewodzie z rur miedzianych, jeżeli strumień objętości wynosi 0,05dm3/s, a średnicę wewnętrzną przewodu dobrano zgodnie z danymi zawartymi w tabeli?",
+    "answers": [
+      "0,38 m/s",
+      "0,25 m/s",
+      "0,28 m/s",
+      "0,29 m/s"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_tabela8.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 127,
+    "text": "W klimatyzowanym pomieszczeniu wilgotność powietrza należy mierzyć za pomocą",
+    "answers": [
+      "rotametru.",
+      "anemometru.",
+      "manometru.",
+      "higrometru."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 128,
+    "text": "Aby nie doszło do poparzeń przy użytkowaniu instalacji ciepłej wody, w których zastosowano ochronę przed bakteriami Legionella, należy zastosować zawór",
+    "answers": [
+      "regulacyjny dwudrogowy.",
+      "termostatyczny.",
+      "mieszający.",
+      "bezpieczeństwa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 129,
+    "text": "Siła ciągu w kominie o grawitacyjnym odpływie spalin z kotła na biomasę zależy głównie od",
+    "answers": [
+      "ilości spalin.",
+      "wielkości kotła.",
+      "długości czopucha.",
+      "wysokości komina."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 130,
+    "text": "Jeżeli w dokumentacji inwentaryzacyjnej ściana została naszkicowana jak na rysunku, to należy ją",
+    "answers": [
+      "wyburzyć.",
+      "zaizolować.",
+      "otynkować.",
+      "domurować."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_rysunek7.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 131,
+    "text": "Suwmiarka, która na noniuszu ma 20 kresek, umożliwia pomiar z dokładnością odczytu równą",
+    "answers": [
+      "0,10 mm",
+      "0,02 mm",
+      "0,05 mm",
+      "0,20 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 132,
+    "text": "Przewód w instalacji słonecznej z rur miedzianych łączonych przez lutowanie miękkie uległ rozszczelnieniu. W celu jego naprawy należy",
+    "answers": [
+      "oczyścić i doszczelnić połączenie taśmą z żywicy poliuretanowej.",
+      "oczyścić połączenie, posmarować topnikiem i ponownie zlutować.",
+      "rozlutować i oczyścić połączenie, posmarować topnikiem i ponownie zlutować.",
+      "doszczelnić połączenie taśmą z żywicy epoksydowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 133,
+    "text": "Jakie będzie wskazanie manometru, jeśli wartość ciśnienia wynosi 0,35 m słupa wody?",
+    "answers": [
+      "350 mbar",
+      "0,035 MPa",
+      "3,5 kPa",
+      "350 mbar"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 134,
+    "text": "Z instrukcji pompy ciepła wynika, że napięcie zasilania może wahać się w granicach +/- 5% nominalnego napięcia w polskiej publicznej sieci elektroenergetycznej. Wynik pomiaru napięcia fazowego wynosi 237 V. Zmierzone napięcie zasilania jest",
+    "answers": [
+      "zbyt małe dla prawidłowej pracy pompy.",
+      "mniejsze od nominalnego, ale mieści się w granicach dopuszczalnych odchyłek.",
+      "większe od nominalnego, ale mieści się w granicach dopuszczalnych odchyłek.",
+      "zbyt duże dla prawidłowej pracy pompy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 135,
+    "text": "Zadziałanie ogranicznika przepięć w instalacji elektrowni wiatrowej najczęściej może być wywołane",
+    "answers": [
+      "zbyt dużym wiatrem.",
+      "zbyt dużym obciążeniem.",
+      "wyładowaniami atmosferycznymi.",
+      "zwarciem w instalacji odbiorczej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 136,
+    "text": "Parametrem charakteryzującym materiały do izolacji termicznych jest",
+    "answers": [
+      "wysoki współczynnik przenikania ciepła.",
+      "niski współczynnik oddawania ciepła.",
+      "wysoki współczynnik przejmowania ciepła.",
+      "niski współczynnik przewodzenia ciepła."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 137,
+    "text": "Instrukcja Gospodarowania Wodą niezbędna jest do sporządzenia na potrzeby małej elektrowni wodnej",
+    "answers": [
+      "wypisu z miejscowego planu zagospodarowania przestrzennego.",
+      "raportu oddziaływania na środowisko.",
+      "raportu oddziaływania na środowisko.",
+      "projektu przyłącza."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 138,
+    "text": "W jaki sposób zmieni się pojemność instalacji grzewczej z grzejnikami płytowymi po zmianie ich na ogrzewanie podłogowe, jeżeli znamionowa wydajność cieplna instalacji wynosi 30 000 W?",
+    "answers": [
+      "Zwiększy się o 300 dm3",
+      "Zwiększy się o 500 dm3",
+      "Zmniejszy się o 290 dm3",
+      "Zwiększy się o 400 dm3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_wykres6.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 139,
+    "text": "Dokumentacja powykonawcza kotłowni do spalania biomasy powinna zawierać",
+    "answers": [
+      "kosztorys robót.",
+      "umowę na wykonanie robót.",
+      "umowę na wykonanie robót.",
+      "przedmiar robót."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 140,
+    "text": "Jakie będzie orientacyjne zapotrzebowanie na ciepło do ogrzania budynku mieszkalnego wielorodzinnego o dobrej izolacji, jeżeli każda z pięciu ogrzewanych kondygnacji ma powierzchnię 120 m2 i wysokość 2,5 m?",
+    "answers": [
+      "7,8 kW",
+      "97,5 kW",
+      "25,5 kW",
+      "39,0 kW"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_tabela10.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 141,
+    "text": "Sterowanie instalacją solarną umożliwia urządzenie przestawione na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_urzadzenia4.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 142,
+    "text": "Badanie temperatury zamarzania czynnika solarnego należy wykonać przy użyciu urządzenia przedstawionego na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_urzadzenia3.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 143,
+    "text": "Który schemat przedstawia nieprawidłowo dobrany rodzaj rur do podłączenia zasobnika c.w.u?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_schematy.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 144,
+    "text": "Którą czynność związaną z uruchomieniem słonecznej instalacji grzewczej przedstawia schemat?",
+    "answers": [
+      "Napełnianie czynnikiem solarnym.",
+      "Odpowietrzanie.",
+      "Płukanie.",
+      "Badanie szczelności."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_schemat9.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 145,
+    "text": "W ramach bieżącego przeglądu elektrowni fotowoltaicznej lokalizację tzw. gorących punktów (w sposób najbardziej precyzyjny) najlepiej wykonać przez",
+    "answers": [
+      "pomiar temperatury na powierzchni modułów PV.",
+      "dotyk dłonią zewnętrznych powierzchni modułów PV.",
+      "analizę nagrania zarejestrowanego za pomocą drona.",
+      "pomiary kamerą termowizyjną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 146,
+    "text": "Ile będą wynosić parametry pracy układu akumulatorów przedstawionych na schemacie?",
+    "answers": [
+      "24 V, 50 Ah, 1200 Wh.",
+      "24 V, 100 Ah, 2400 Wh.",
+      "12 V, 100 Ah, 1200 Wh.",
+      "12 V, 50 Ah, 600 Wh."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_uklad3.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 147,
+    "text": "Dokumentacja powykonawcza instalacji z pompą ciepła musi zawierać między innymi",
+    "answers": [
+      "protokół przekazania budowy.",
+      "umowę na roboty budowlane.",
+      "rozliczenia kosztów montażu instalacji.",
+      "certyfikaty i aprobaty techniczne materiałów i urządzeń."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 148,
+    "text": "Stan anody magnezowej w zbiorniku emaliowanym należy kontrolować",
+    "answers": [
+      "co 1-2 lata.",
+      "co 50 lat.",
+      "co 5-10 lat.",
+      "co 20 lat."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 149,
+    "text": "Przegląd techniczny elektrowni wiatrowej obejmuje badanie części wirujących w maszynowni przez",
+    "answers": [
+      "inspekcję za pomocą dronów.",
+      "obserwację zewnętrznych elementów elektrowni z poziomu terenu za pomocą lornetki.",
+      "rejestrację i analizę drgań przy użyciu czujników.",
+      "oględziny maszynowni przez pracowników przy zastosowaniu technik termowizyjnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 150,
+    "text": "W przedstawionym na rysunku układzie do miejscowej regulacji ogrzewania podłogowego wskazanym strzałką elementem jest",
+    "answers": [
+      "mieszający zawór trójdrogowy.",
+      "termostatyczny zawór czterodrogowy.",
+      "zawór termostatyczny z czujnikiem.",
+      "zawór regulacyjny dwudrogowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_uklad2.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 151,
+    "text": "Skojarzone wytwarzanie ciepła i energii elektrycznej to",
+    "answers": [
+      "geotermia.",
+      "fermentacja.",
+      "zgazowanie.",
+      "kogeneracja."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 152,
+    "text": "W kotle o sprawności 70% spalono 150 kg biomasy w postaci pelletu o wartości opalowej 17 MJ/kg. Jaka ilość ciepła powstała w procesie spalania?",
+    "answers": [
+      "2550 MJ",
+      "1050 MJ",
+      "1785 MJ",
+      "2525 MJ"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 153,
+    "text": "Na rysunku przedstawiono",
+    "answers": [
+      "zawory zwrotne stosowane w instalacjach pomp ciepła woda–woda.",
+      "rozdzielacz stosowany w kolektorach poziomych pomp ciepła grunt–woda.",
+      "zawory bezpieczeństwa stosowane w instalacjach pomp ciepła powietrze–woda.",
+      "czujniki temperatur stosowane w instalacjach pomp ciepła solanka–woda."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_rysunek6.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 154,
+    "text": "Usuwanie zabrudzeń na powierzchni modułów PV należy wykonać przez mycie",
+    "answers": [
+      "alkoholem przy pochmurnej pogodzie w godzinach popołudniowych.",
+      "detergentami przy niewielkim nasłonecznieniu w godzinach porannych.",
+      "czystą wodą o średniej twardości przy bezchmurnej pogodzie w godzinach popołudniowych.",
+      "czystą wodą o niskiej twardości przy pochmurnej pogodzie w godzinach porannych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 155,
+    "text": "W oddanej do eksploatacji i sprawdzonej pod względem technicznym powietrznej pompie ciepła podczas pracy stwierdzono okresowe wycieki wody z urządzenia. Przyczyną wycieku może być",
+    "answers": [
+      "nieszczelność połączeń rurowych w obiegu termodynamicznym.",
+      "zbyt duża wydajność wentylatora.",
+      "kondensacja pary wodnej na parowaczu.",
+      "kondensacja pary wodnej na skraplaczu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 156,
+    "text": "Całkowita długość przewodów instalacji PV to 65 m, moc generatora PV 3000 W, a napięcie obwodu 360 V. Które z wymienionych przewodów gwarantują, że spadek napięcia w obwodzie nie przekroczy 1% ?",
+    "answers": [
+      "Przewody aluminiowe 4 mm2",
+      "Przewody miedziane 4 mm2",
+      "Przewody miedziane 1,5 mm2",
+      "Przewody aluminiowe 2,5 mm2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_tabela9.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 157,
+    "text": "Na podstawie szkicu inwentaryzacyjnego pomieszczenia należy określić, jaka będzie powierzchnia ogrzewania podłogowego, jeżeli pod zabudowę mebli należy odliczyć 15% powierzchni podłogi?",
+    "answers": [
+      "25,0 m2",
+      "23,8 m2",
+      "28,0 m2",
+      "34,4 m2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_szkic.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 158,
+    "text": "Jaka będzie moc czynna dla elektrowni wodnej, jeżeli pracuje ona przy spadzie 2,5 m, jej przełyk maksymalny wynosi 2,4 m3/s, a sprawność turbiny wynosi 90%?",
+    "answers": [
+      "53 kW",
+      "53 MW",
+      "5,3 kW",
+      "5,3 MW"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_ramka2.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 159,
+    "text": "Zadaniem instalacji wentylacyjnej w kotłowni nie jest",
+    "answers": [
+      "obniżenie temperatury powietrza w kotłowni.",
+      "utrzymanie jakości powietrza w pomieszczeniu.",
+      "usuwanie gazów spalinowych z kotła.",
+      "doprowadzenie powietrza do procesu spalania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 160,
+    "text": "Przedstawiony przyrząd pomiarowy umożliwia pomiar",
+    "answers": [
+      "prędkości przepływu.",
+      "natężenia hałasu.",
+      "natężenia oświetlenia.",
+      "promieniowania cieplnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_przyrzad4.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 161,
+    "text": "Wykonując nadciśnieniową próbę szczelności instalacji F-gazów w pompie ciepła, stosuje się",
+    "answers": [
+      "tlen.",
+      "dwutlenek węgla.",
+      "wodór.",
+      "azot techniczny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 162,
+    "text": "Przy wymianie uszkodzonego modułu w czasie naprawy instalacji fotowoltaicznej należy użyć złączki",
+    "answers": [
+      "złączki 4.",
+      "złączki 1.",
+      "złączki 3.",
+      "złączki 2."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_zlaczki3.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 163,
+    "text": "Korzystając z nomogramu oblicz jaka będzie strata ciśnienia w przewodzie słonecznej instalacji grzewczej o średnicy 28 x 1,5 mm i długość 6,5 m, jeżeli strumień objętości czynnika solarnego wynosi 16,67 dm3/min. Wzór do obliczenia strat ciśnienia pstr = R · L [hPa] lub [Pa] L – długość przewodu [m] R – jednostkowy spadek ciśnienia [hPa / m] lub [Pa / m]",
+    "answers": [
+      "2 Pa",
+      "13 hPa",
+      "13 Pa",
+      "2 hPa"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_nomogram.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 164,
+    "text": "Bieżące przeglądy i prace konserwacyjne instalacji fotowoltaicznej najlepiej wykonywać",
+    "answers": [
+      "po południu przy małym zachmurzeniu.",
+      "o dowolnej porze dnia i warunkach.",
+      "w godzinach nocnych.",
+      "rano przy dużym zachmurzeniu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 165,
+    "text": "Wskazanie przedstawionego termometru wynosi",
+    "answers": [
+      "21°C",
+      "22°C",
+      "23°C",
+      "24°C"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_termometr.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 166,
+    "text": "Jaka najmniejsza prędkość wiatru spowoduje automatyczne zatrzymanie siłowni wiatrowej o poziomej osi, równolegle do kierunku wiatru?",
+    "answers": [
+      "10 m/s",
+      "15 m/s",
+      "40 m/s",
+      "25 m/s"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 167,
+    "text": "Jaka będzie wartość natężenia przepływu nośnika ciepła wyrażona w dm3/s, jeżeli zarejestrowana na rotametrze wartość wynosi 5,4 m3/h?",
+    "answers": [
+      "0,0015 dm3/s",
+      "19,44 dm3/s",
+      "1,5 dm3/s",
+      "0,0054 dm3/s"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 168,
+    "text": "Kierownik budowy po zakończeniu robót nie ma obowiązku",
+    "answers": [
+      "uczestniczenia w czynnościach odbiorowych.",
+      "wpisania wykonanych prac do dziennika budowy.",
+      "zapewnienia usunięcia stwierdzonych wad.",
+      "nanoszenia zmian w dokumentacji projektowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 169,
+    "text": "Po kilkudniowej poprawnej pracy pompy ciepła sterownik wyświetlił komunikat EE8. Na podstawie tabeli wskaż przyczynę wyświetlenia się komunikatu.",
+    "answers": [
+      "Uszkodzony zawór rozprężny.",
+      "Brak komunikacji ze sterownikiem.",
+      "Niepoprawne działanie czujnika.",
+      "Wyciekający czynnik."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_tabela12.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 170,
+    "text": "Instalacje ciepłej wody użytkowej i cyrkulacji po pozytywnej próbie szczelności wodą zimną, poddaje się próbie szczelności przy ciśnieniu roboczym instalacji w stanie gorącym, wodą o temperaturze",
+    "answers": [
+      "40°C",
+      "60°C",
+      "80°C",
+      "100°C"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 171,
+    "text": "Jaka może być minimalna grubość izolacji cieplnej zgodna z przekrojem płyty ogrzewania podłogowego?",
+    "answers": [
+      "65 mm",
+      "80 mm",
+      "145 mm",
+      "165 mm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_przekroj.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 172,
+    "text": "Jakie będą parametry pracy układu modułów fotowoltaicznych przedstawionych na schemacie?",
+    "answers": [
+      "18 V, 9 A, 18 W",
+      "6 V, 9 A, 18 W",
+      "6 V, 3 A, 54 W",
+      "18 V, 3 A, 54W"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_moduly3.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 173,
+    "text": "Zastosowanie regulatora ciągu kominowego w kotłach na biomasę nie wpływa na",
+    "answers": [
+      "zwiększenie wymiany powietrza w pomieszczeniu kotłowni.",
+      "ustabilizowanie pracy palnika.",
+      "poprawę warunków wymiany ciepła w kotle i ogrzewania nośnika ciepła.",
+      "eliminowanie zbyt wysokich temperatur w kotle i poprawę jego żywotności."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 174,
+    "text": "W czasie okresowego przeglądu słonecznej instalacji grzewczej osoba kontrolująca zamocowanie kolektora na dwuspadowym dachu powinna być wyposażona koniecznie w",
+    "answers": [
+      "rękawice ochronne.",
+      "szelki bezpieczeństwa.",
+      "gogle przeciwodpryskowe.",
+      "półmaskę filtrującą."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 175,
+    "text": "Kawitacja, która obniża sprawność i żywotność turbin w elektrowniach wodnych, to",
+    "answers": [
+      "wzrost ciśnienia wywołany spływaniem wody z dużej wysokości.",
+      "nagły wzrost ciśnienia po zatrzymaniu przepływu cieczy i seria tłumionych oscylacji ciśnienia.",
+      "zmniejszenie gęstości wody w wyniku jej ochłodzenia.",
+      "nagłe zmiany ciśnienia i implozja bąbelków gazu, powodujące powstanie fal uderzeniowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 176,
+    "text": "Na podstawie zamieszczonego fragmentu instrukcji obsługi kotła na pellet wynika, że jeżeli kocioł nie pracuje dłużej niż 24 godziny to",
+    "answers": [
+      "powinien bezwzględnie zostać oczyszczony, a zasobnik paliwa oraz mechanizm podający opróżniony z paliwa.",
+      "powinien mieć opróżniony zasobnik paliwa do połowy swojej objętości.",
+      "należy uzupełnić małą ilość paliwa w zasobniku.",
+      "należy spuścić wodę z kotła i instalacji centralnego ogrzewania oraz cieplej wody użytkowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_instrukcja2.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 177,
+    "text": "Przed oddaniem do eksploatacji elektrowni wiatrowej będącej przeszkodą lotniczą należy łopaty odpowiednio oznakować. Która z zasad nie jest zgodna z wymaganiami w tym zakresie?",
+    "answers": [
+      "Stosuje się 5 pasów o jednakowej szerokości.",
+      "Skrajne pasy oznakowania mogą być koloru białego.",
+      "Pasy koloru czerwonego powinny być na przemian z białymi.",
+      "Oznakowanie powinno pokrywać 1/3 długości łopaty."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 178,
+    "text": "Urządzenie, którego wyświetlacz przedstawiony jest na rysunku steruje pracą",
+    "answers": [
+      "instalacji fotowoltaicznej.",
+      "kotła gazowego na biomasę.",
+      "instalacji solarnej.",
+      "pompy ciepła."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_wyswietlacz.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 179,
+    "text": "Jaka będzie sprawność procesu, jeżeli przy spalaniu 120 kg biomasy w postaci pelletu o wartości opalowej 18,3 MJ/kg, uzyskano ilość ciepła równą 1650 MJ?",
+    "answers": [
+      "75%",
+      "65%",
+      "60%",
+      "70%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 180,
+    "text": "Wykonując bieżący przegląd elektrowni fotowoltaicznej, przy pomocy kamery termowizyjnej można",
+    "answers": [
+      "lokalizować gorące punkty na powierzchni paneli.",
+      "analizować parametry napięcia.",
+      "sprawdzać poziom naładowania akumulatorów.",
+      "oceniać stan izolacji przewodów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 181,
+    "text": "Zgodnie z przedstawionym schematem elementem zapewniającym ochronę kotła przed zbyt niską temperaturą nośnika ciepła powracającego z instalacji c.o. jest zawór",
+    "answers": [
+      "termostatyczny-czterodrogowy.",
+      "mieszający-trójdrogowy.",
+      "bezpieczeństwa.",
+      "dwudrogowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_schemat10.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 182,
+    "text": "Spalanie pelletu zanieczyszczonego i wilgotnego nie będzie przyczyną",
+    "answers": [
+      "blokowania podajnika ślimakowego.",
+      "odkładania się zgorzeliny w kotle.",
+      "powstawania zwiększonej ilości popiołu.",
+      "zmniejszenia dopływu powietrza do kotła."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 183,
+    "text": "Aby uzyskać odpowiednią szybkość procesu fermentacji w biogazowni rolniczej, rozdrobnione substraty należy",
+    "answers": [
+      "ochłodzić.",
+      "napowietrzyć.",
+      "rozcieńczyć wodą.",
+      "podgrzać."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 184,
+    "text": "W dokumentacji inwentaryzacyjnej na rzutach i rozwinięciach instalacji centralnego ogrzewania, opisując przewody instalacji można pominąć",
+    "answers": [
+      "rodzaj materiału.",
+      "producenta rury.",
+      "długość przewodu.",
+      "średnicę przewodu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 185,
+    "text": "Na rysunku przedstawiono ekran sterownika solarnego. Jaką wartość ma temperatura wody w zasobniku solarnym?",
+    "answers": [
+      "50,0°C",
+      "16,4°C",
+      "51,0°C",
+      "85,0°C"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_ekran2.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 186,
+    "text": "Regulacja ilościowa przepływu powietrza w układach wentylacyjnych jest wykonywana za pomocą",
+    "answers": [
+      "przepustnic.",
+      "dyfuzorów.",
+      "konfuzorów.",
+      "anemostatów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 187,
+    "text": "W okresie gwarancji użytkownikowi inwertera przysługuje prawo do bezpłatnych napraw, jeżeli uszkodzenie powstało",
+    "answers": [
+      "w wyniku awarii instalacji elektrycznej.",
+      "z powodu wad urządzenia.",
+      "przez użytkowanie niezgodne z instrukcją obsługi.",
+      "z przyczyny niewłaściwego transportu i przechowywania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 188,
+    "text": "W celu uniknięcia niezupełnego spalania biomasy i wydzielenia dużych ilości tlenku węgla należy zapewnić",
+    "answers": [
+      "osuszenie paliwa przed spaleniem.",
+      "ochłodzenie paliwa do temperatury pokojowej.",
+      "mechaniczną wentylację wywiewną w kotłowni.",
+      "odpowiednią ilość tlenu do procesu spalania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 189,
+    "text": "Przedstawiona na rysunku turbina, stosowana w małych elektrowniach wodnych, to turbina",
+    "answers": [
+      "Francisa",
+      "Banki – Michella",
+      "Kaplana",
+      "Peltona"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_turbina.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 190,
+    "text": "Wymiana czynnika solarnego nie jest konieczna dla instalacji zlokalizowanej w III strefie klimatycznej, jeżeli po jego zbadaniu ustalono, że odczyn pH oraz mrozoodporność wynoszą odpowiednio",
+    "answers": [
+      "pH 8,0;   -5°C",
+      "pH 5,0; -33°C",
+      "pH 7,0;    0°C",
+      "pH 9,5; -30°C"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 191,
+    "text": "Jaki powinien być spad w elektrowni wodnej, aby uzyskać moc czynną 50 kW, przy sprawności 85%, jeżeli objętość strumienia przepływającej wody to 2,0 m3/s? Wzór do obliczenia maksymalnej mocy elektrowni w zależności od jej spadu P = ρ ∙ g ∙ Q ∙ H ∙ η [W] ρ – gęstość wody, ρ =1000 [kg/m3] g – przyspieszenie ziemskie, g=9,81 [m/s2] Q – objętość strumienia przepływającej wody tzw. przełyk [m3/s] H – spad wody [m] η – współczynnik sprawności elektrowni wodnej [-]",
+    "answers": [
+      "3,0 m",
+      "25,0 m",
+      "30,0 m",
+      "2,2 m"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 192,
+    "text": "W celu wyeliminowania wpływu zacienienia na moduły PV należy zastosować",
+    "answers": [
+      "zabezpieczenie antywyspowe.",
+      "MPP traker.",
+      "wyłącznik obwodu DC.",
+      "diodę bocznikującą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 193,
+    "text": "O czym może świadczyć wysoka temperatura kolektora słonecznego oraz niska temperatura wody w zbiorniku po dłuższym czasie oczekiwania?",
+    "answers": [
+      "O uszkodzeniu naczynia wzbiorczego.",
+      "O awarii pompy obiegowej.",
+      "O zbyt małej powierzchni kolektorów.",
+      "O uszkodzeniu rotametru."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 194,
+    "text": "Jakie będzie dobowe zapotrzebowanie na energię elektryczną dla budynku wyposażonego zgodnie z tabelą, przy uwzględnieniu 30% rezerwy?",
+    "answers": [
+      "7,15 kWh",
+      "5,5 kWh",
+      "5 kWh",
+      "7 kWh"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_tabela11.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 195,
+    "text": "Przedstawiona na ilustracji obróbka przewodów instalacji fotowoltaicznej za pomocą tzw. strippera, polega na",
+    "answers": [
+      "zaciskaniu przewodów.",
+      "zakładaniu złączek.",
+      "przecinaniu kabli.",
+      "zdejmowaniu izolacji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_obrobka.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 196,
+    "text": "W którym dokumencie określone są warunki eksploatacji kotłów na biomasę?",
+    "answers": [
+      "W specyfikacji technicznej urządzenia.",
+      "W certyfikacie jakości urządzenia.",
+      "W dokumentacji techniczno-ruchowej urządzenia.",
+      "W dowodzie zakupu urządzenia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 197,
+    "text": "Lokalizację tzw. gorących punktów w pracujących modułach fotowoltaicznych można określić precyzyjnie poprzez",
+    "answers": [
+      "pomiary temperatury modułów PV kamerą termowizyjną.",
+      "pomiary temperatury na powierzchni modułów PV termometrem stykowym.",
+      "dotykanie powierzchni modułów PV dłonią.",
+      "analizę filmu przedstawiającego moduły PV wykonanego za pomocą drona."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 198,
+    "text": "Regulacja ustawienia elektrowni wiatrowej w kierunku napływającego wiatru polega na zmianie",
+    "answers": [
+      "prędkości obrotowej generatora.",
+      "rezystancji twornika.",
+      "położenia gondoli.",
+      "kąta natarcia łopat."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 199,
+    "text": "Czyszczenia palnika peletowego kotła spalającego biomasę nie należy wykonywać podczas",
+    "answers": [
+      "naprawy głównej kotła.",
+      "konserwacji kotła.",
+      "remontu bieżącego kotła.",
+      "pracy kotła."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 200,
+    "text": "W ramach przeglądu słonecznej instalacji grzewczej przeprowadzono badania płynu solarnego i stwierdzono, że jego barwa jest ciemnobrązowa. Co to oznacza?",
+    "answers": [
+      "Glikol pracował w bardzo niskiej temperaturze w długim okresie czasu.",
+      "Glikol został zmieniony termicznie i nie może spełniać ochrony przed zamarzaniem.",
+      "Doszło do dyfuzji tlenu przez ścianki rur co spowodowało korozję metalowych elementów.",
+      "Instalacja była płukana po zakończeniu czynności montażowych i została zanieczyszczona przez osad."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 201,
+    "text": "Do naprawy uszkodzonego przewodu fotowoltaicznego należy użyć",
+    "answers": [
+      "złącza WAGO.",
+      "złącza MC4.",
+      "konektora zaciskanego.",
+      "listwy zaciskowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 202,
+    "text": "Na dachu domku jednorodzinnego zamontowano 4 kolektory słoneczne, każdy o powierzchni absorbera 1,80 m2 i powierzchni brutto (w obrysie) 2,2 m2. Dla pojedynczego kolektora średni dzienny uzysk energetyczny z powierzchni czynnej wynosi 3,4 kWh/m2. Ile wyniesie dzienny uzysk energetyczny instalacji?",
+    "answers": [
+      "29,92 kWh",
+      "7,48 kWh",
+      "6,12 kWh",
+      "24,48 kWh"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 203,
+    "text": "Która z wymienionych funkcji nie należy do zadań instalacji wentylacyjnej w kotłowni?",
+    "answers": [
+      "Obniżanie temperatury powietrza w kotłowni.",
+      "Usuwanie gazów spalinowych z kotła.",
+      "Utrzymywanie odpowiedniej jakości powietrza w kotłowni.",
+      "Doprowadzanie powietrza do paleniska w kotle."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 204,
+    "text": "Którym numerem opisany jest na schemacie element pompy ciepła, w którym następuje oddawanie ciepła do instalacji c.o.?",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_schemat11.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 205,
+    "text": "Z przedstawionej na wykresie charakterystyki prądowo-napięciowej panelu fotowoltaicznego wynika, że największą moc uzyskuje się z tego panelu, gdy",
+    "answers": [
+      "I = 1,5 A",
+      "U = 24 V",
+      "I = 2,0 A",
+      "U = 19 V"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_charakterystyka2.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 206,
+    "text": "Którym numerem oznaczono element służący do odpowietrzania instalacji słonecznej przedstawionej na rysunku?",
+    "answers": [
+      "1",
+      "4",
+      "10",
+      "8"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_instalacja5.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 207,
+    "text": "Ile wynosi moc kolektora słonecznego o powierzchni 2 m2 i sprawności 70% przy nasłonecznieniu 1000 W/m2?",
+    "answers": [
+      "700 W",
+      "1 400 W",
+      "14 000 W",
+      "2 000 W"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 208,
+    "text": "Ile wynoszą parametry pracy: napięcie, pojemność i zgromadzona energia układu naładowanych akumulatorów przedstawionych na rysunku?",
+    "answers": [
+      "24 V, 100 Ah, 2400 Wh",
+      "24 V, 50 Ah, 1200 Wh",
+      "12 V, 100 Ah, 1200 Wh",
+      "12 V, 50 Ah, 600 Wh"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_uklad6.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 209,
+    "text": "Przeglądy okresowe instalacji słonecznej należy wykonywać w zakresie określonym w",
+    "answers": [
+      "dokumentacji techniczno-ruchowej.",
+      "specyfikacji technicznej wykonania robót.",
+      "instrukcji montażu.",
+      "projekcie wykonawczym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 210,
+    "text": "Z jaką mocą chłodniczą powinna pracować pompa ciepła w pomieszczeniu o powierzchni 20 m2 i wysokości 2,5 m, dla którego bilans cieplny wykazuje zyski ciepła wynoszące 40 W/m3?",
+    "answers": [
+      "200 W",
+      "1 000 W",
+      "2 000 W",
+      "100 W"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 211,
+    "text": "Korzystając ze wzoru, oblicz, ile wynosi moc na wale turbiny Kaplana pracującej przy spadzie H = 6 m, ze sprawnością η = 0,9 oraz natężeniem przepływu wody Qv = 5 m3/s. P = g ∙ ρ ∙ Qv ∙ H ∙ η gdzie: P – moc na wale turbiny [W] g – przyspieszenie ziemskie = 10 m/s2 ρ – gęstość wody = 1000 kg/m3 Qv – objętościowe natężenie przepływu wody [m3/s] H – spad [m] η – sprawność turbiny",
+    "answers": [
+      "30 kW",
+      "300 kW",
+      "27 kW",
+      "270 kW"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 212,
+    "text": "Jaki zawór wskazano strzałką na rysunku układu do miejscowej regulacji ogrzewania podłogowego?",
+    "answers": [
+      "Termostatyczny trójdrogowy.",
+      "Termostatyczny czterodrogowy.",
+      "Mieszający trójdrogowy.",
+      "Regulacyjny dwudrogowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_uklad2.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 213,
+    "text": "Usuwanie zabrudzeń z powierzchni modułów PV należy wykonać poprzez mycie",
+    "answers": [
+      "alkoholem, przy pochmurnej pogodzie, w godzinach popołudniowych.",
+      "detergentami, przy pełnym nasłonecznieniu, w godzinach porannych.",
+      "czystą wodą o średniej twardości, przy bezchmurnej pogodzie, w godzinach popołudniowych.",
+      "czystą wodą o niskiej twardości, przy pochmurnej pogodzie, w godzinach porannych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 214,
+    "text": "Miernik oznaczony znakiem „?” na przedstawionym schemacie instalacji fotowoltaicznej umożliwia wykonanie pomiaru",
+    "answers": [
+      "napięcia.",
+      "mocy.",
+      "energii elektrycznej.",
+      "natężenia prądu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_schemat8.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 215,
+    "text": "Na rotametrze odczytano natężenie przepływu czynnika roboczego równe 6 l/min. Ile wynosi ta wielkość wyrażona w dm3/s?",
+    "answers": [
+      "360 dm3/s",
+      "6,0 dm3/s",
+      "0,1 dm3/s",
+      "0,001 dm3/s"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 216,
+    "text": "Który przyrząd kontrolno-pomiarowy służy do pomiaru chwilowego natężenia promieniowania słonecznego?",
+    "answers": [
+      "Pirometr.",
+      "Fazomierz.",
+      "Pyranometr.",
+      "Anemometr."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 217,
+    "text": "Dla jakiego okresu czasu określa się współczynnik SPF, czyli rzeczywistą efektywność pracy instalacji pompy ciepła?",
+    "answers": [
+      "Roku.",
+      "Godziny.",
+      "Doby.",
+      "Miesiąca."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 218,
+    "text": "Który czynnik należy wziąć pod uwagę sprawdzając możliwość podłączenia nowego kotła na biomasę do istniejącego komina?",
+    "answers": [
+      "Działanie kwaśnych kondensatów.",
+      "Pomiar emisji.",
+      "Siłę ciągu.",
+      "Częstotliwość wymiatania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 219,
+    "text": "Przy jakiej prędkości wiatru praca turbin wiatrowych z osią poziomą jest optymalna?",
+    "answers": [
+      "80÷100 km/h",
+      "110÷130 km/h",
+      "36÷60 km/h",
+      "10÷16 km/h"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 220,
+    "text": "W czasie użytkowania słonecznej instalacji grzewczej wykonanej z przewodów miedzianych nastąpiło rozszczelnienie połączenia lutowanego. Którego narzędzia należy użyć do wycięcia wadliwego połączenia w miejscu łatwo dostępnym?",
+    "answers": [
+      "Narzędzia 4.",
+      "Narzędzia 2.",
+      "Narzędzia 3.",
+      "Narzędzia 1."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_narzedzia3.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 221,
+    "text": "Świadectwo potwierdzające, że energia pochodzi ze źródeł odnawialnych nazywane jest powszechnie certyfikatem",
+    "answers": [
+      "złotym.",
+      "zielonym.",
+      "białym.",
+      "niebieskim."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 222,
+    "text": "Jednym z warunków gwarancji zasobnika c.w.u. jest",
+    "answers": [
+      "stosowanie grzałki elektrycznej jako dodatkowego źródła ciepła.",
+      "cykliczna wymiana anody magnezowej.",
+      "stosowanie w zasobniku wody zdemineralizowanej.",
+      "podgrzewanie wody maksymalnie do temperatury 70°C."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 223,
+    "text": "Zanieczyszczenia gromadzące się podczas eksploatacji na kratach małej elektrowni wodnej należy usunąć",
+    "answers": [
+      "metodą ręczną lub mechaniczną.",
+      "metodą chemiczną lub biologiczną.",
+      "wykorzystując mikroorganizmy.",
+      "wykorzystując grawitację."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 224,
+    "text": "Ile wynosi prędkość liniowa końcówek łopat elektrowni wiatrowej, jeśli promień okręgu zataczanego przez nie jest równy 50 m, a ich prędkość obrotowa wynosi 15 obr/min?",
+    "answers": [
+      "750 m/s",
+      "75 m/s",
+      "125 m/s",
+      "12,5 m/s"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 225,
+    "text": "Do którego przewodu powinna być podłączona metalowa obudowa falownika zasilanego z sieci elektroenergetycznej w układzie TN-S?",
+    "answers": [
+      "Ochronnego.",
+      "Odgromowego.",
+      "Fazowego.",
+      "Neutralnego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 226,
+    "text": "Który z wymienionych elementów zabezpiecza zbiornik w instalacji c.w.u. przed korozją?",
+    "answers": [
+      "Zawór zwrotny.",
+      "Anoda tytanowa.",
+      "Filtr siatkowy.",
+      "Zawór bezpieczeństwa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 227,
+    "text": "Przedstawiony opis dotyczy Uruchomienia instalacji dokonuje się poprzez: – wizualną ocenę stanu technicznego urządzeń, – weryfikację kompletności elementów instalacji w układzie glikolowym oraz instalacji wodnej, – sprawdzenie gotowości instalacji do użytkowania.",
+    "answers": [
+      "elektrowni wodnej.",
+      "instalacji fotowoltaicznej.",
+      "elektrowni wiatrowej.",
+      "instalacji słonecznej grzewczej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 228,
+    "text": "Który z wymienionych dokumentów powinna zawierać dokumentacja powykonawcza kotłowni do spalania biomasy?",
+    "answers": [
+      "Operat wodnoprawny.",
+      "Kosztorys ofertowy.",
+      "Przedmiar robót.",
+      "Opinię kominiarską."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 229,
+    "text": "W powietrznej pompie ciepła stwierdzono okresowe wycieki wody z urządzenia podczas jego pracy. Która z wymienionych nieprawidłowości może być tego przyczyną? * zdający otrzymuje jeden punkt niezależnie od udzielonej odpowiedzi.",
+    "answers": [
+      "Zbyt duża wydajność wentylatora. \nB.  Kondensacja pary wodnej na parowaczu. \nC.  Kondensacja pary wodnej na skraplaczu. \nD.  Nieszczelność połączeń rurowych w obiegu termodynamicznym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 230,
+    "text": "Której z wymienionych czynności użytkownik instalacji fotowoltaicznej nie powinien wykonywać samodzielnie, aby nie utracić gwarancji na instalację?",
+    "answers": [
+      "Włączania i wyłączania instalacji.",
+      "Oczyszczania powierzchni modułów.",
+      "Pierwszego rozruchu instalacji.",
+      "Przełączenia trybu pracy na regulatorze po odbiorze instalacji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 231,
+    "text": "Którym z wymienionych przyrządów należy zmierzyć wilgotność powietrza w klimatyzowanym pomieszczeniu?",
+    "answers": [
+      "Manometrem.",
+      "Higrometrem.",
+      "Anemometrem.",
+      "Rotametrem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 232,
+    "text": "Którą wartość wskaże termometr wyskalowany w Kelwinach dla cieczy osiągającej temperaturę 100°C?",
+    "answers": [
+      "3,7315 K",
+      "37,315 K",
+      "373,15 K",
+      "0,37315 K"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 233,
+    "text": "Pokazany na rysunku przyrząd służy do",
+    "answers": [
+      "pomiaru natężenia promieniowania słonecznego.",
+      "badania temperatury zamarzania glikolu.",
+      "badania współczynnika przewodzenia gruntu.",
+      "pomiaru prędkości wiatru."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_przyrzad3.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 234,
+    "text": "Jedną z możliwych przyczyn braku dopływu odpowiedniej ilości czynnika chłodniczego do parownika powietrznej pompy ciepła jest uszkodzenie",
+    "answers": [
+      "silnika wentylatora jednostki wewnętrznej.",
+      "termostatycznego zaworu rozprężnego.",
+      "czujnika temperatury.",
+      "silnika wentylatora jednostki zewnętrznej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 235,
+    "text": "Podstawowym urządzeniem zabezpieczającym agregat biogazowy przed niszczącym działaniem substancji szkodliwych jest wychwytywacz",
+    "answers": [
+      "związków azotu.",
+      "zanieczyszczeń stałych.",
+      "związków siarki.",
+      "związków węgla."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 236,
+    "text": "Wykonanie projektu przed wykonaniem instalacji fotowoltaicznej on-grid jest",
+    "answers": [
+      "obojętne.",
+      "zalecane.",
+      "wskazane przy mocy powyżej 20 kWp.",
+      "niezbędne."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 237,
+    "text": "Certyfikat instalatora PV nadawany przez Prezesa UDT jest ważny",
+    "answers": [
+      "4 lata.",
+      "5 lat.",
+      "2 lata.",
+      "3 lata."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 238,
+    "text": "Na jakiej minimalnej głębokości powinno się ułożyć wymiennik gruntowy poziomy w województwie wielkopolskim, aby uniknąć zamarznięcia płynu roboczego?",
+    "answers": [
+      "1,7 m",
+      "2,5 m",
+      "0,5 m",
+      "1,1 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_mapa.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 239,
+    "text": "Zachwianie produkcji metanu w uzyskiwanym biogazie w komorze fermentacyjnej biogazowni, może być skutkiem nieprawidłowości procesu",
+    "answers": [
+      "fermentacji mlekowej.",
+      "hydrolizy.",
+      "fermentacji octowej.",
+      "fermentacji metanowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 240,
+    "text": "Podczas prawidłowej bezawaryjnej pracy instalacji solarnej z kolektorem cieczowym do ogrzewania c.w.u. w dniu słonecznym, zatrzymana została praca pompy obiegowej. Przyczyną ewentualną może być",
+    "answers": [
+      "awaria czujnika temperatury na kolektorze.",
+      "niskie ciśnienie glikolu w instalacji.",
+      "osiągnięcie maksymalnej temperatury c.w.u. w zbiorniku.",
+      "zapowietrzenie instalacji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 241,
+    "text": "Nowelizacja Prawa Energetycznego z 2013 r dotyczącą certyfikowanego instalatora mikroinstalacji, mówi o",
+    "answers": [
+      "źródle energii, o łącznej mocy elektrycznej nie większej niż 30 kW, przyłączonego do sieci elektroenergetycznej o napięciu znamionowym niższym niż 110 kV lub o łącznej mocy zainstalowanej cieplnej nie większej niż 100 kW.",
+      "źródle energii, o łącznej mocy elektrycznej nie większej niż 40 kW, przyłączonego do sieci elektroenergetycznej o napięciu znamionowym niższym niż 110 kV lub o łącznej mocy zainstalowanej cieplnej nie większej niż 120 kW.",
+      "źródle energii, o  łącznej mocy elektrycznej nie większej niż 50 kW, przyłączonego do sieci elektroenergetycznej o napięciu znamionowym niższym niż 110 kV lub o łącznej mocy zainstalowanej cieplnej nie większej niż 150 kW.",
+      "źródle energii, o łącznej mocy elektrycznej nie większej niż 20 kW, przyłączonego do sieci elektroenergetycznej o napięciu znamionowym niższym niż 110 kV lub o łącznej mocy zainstalowanej cieplnej nie większej niż 80 kW."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 242,
+    "text": "Jakie ciśnienie w bar, pokazuje manometr z zaznaczoną dodatkową na czerwono strzałką",
+    "answers": [
+      "300 barów",
+      "3,0 bary",
+      "30,0 barów",
+      "0,3 barów"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_manometr4.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 243,
+    "text": "Przedstawiona obróbka przewodów instalacji fotowoltaicznej za pomocą tzw. strippera, polega na",
+    "answers": [
+      "zakładaniu złączek.",
+      "przecinaniu kabli.",
+      "zdejmowaniu izolacji.",
+      "zaciskaniu tulejek."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_obrobka.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 244,
+    "text": "Jaki powinien być spad w elektrowni wodnej, aby uzyskać moc czynną 50 kW, przy sprawności 85%, jeżeli objętość strumienia przepływającej wody to 2,0 m3/s?",
+    "answers": [
+      "2,2 m",
+      "30,0 m",
+      "25,0 m",
+      "3,0 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele11/bd18_ramka.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 245,
+    "text": "Instalacje ciepłej wody użytkowej i cyrkulacji po pozytywnej próbie szczelności wodą zimną, poddaje się próbie szczelności przy ciśnieniu roboczym instalacji w stanie gorącym wodą o temperaturze",
+    "answers": [
+      "60°C",
+      "80°C",
+      "100°C",
+      "40°C"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 246,
+    "text": "Korzystając z nomogramu oblicz jaka będzie strata ciśnienia w przewodzie słonecznej instalacji grzewczej o średnicy 28 x 1,5 mm i długość 6,5 m, jeżeli strumień objętości czynnika solarnego wynosi 16,67 dm3/min.",
+    "answers": [
+      "2 Pa",
+      "2 hPa",
+      "13 hPa",
+      "13 Pa"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele11/bd18_monogram.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 247,
+    "text": "Jaka może być minimalna grubość izolacji cieplnej zgodnie z przekrojem płyty ogrzewania podłogowego?",
+    "answers": [
+      "65 mm",
+      "80 mm",
+      "165 mm",
+      "145 mm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele11/bd18_przekroj.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 248,
+    "text": "Przed oddaniem do eksploatacji elektrowni wiatrowej będącej przeszkodą lotniczą łopaty należy odpowiednio oznakować. Która z zasad nie jest zgodna z wymaganiami w tym zakresie?",
+    "answers": [
+      "Pasy koloru czerwonego powinny być na przemian z białymi.",
+      "Skrajne pasy oznakowania mogą być koloru białego.",
+      "Oznakowanie powinno pokrywać 1/3 długości łopaty.",
+      "Stosuje się 5 pasów o jednakowej szerokości."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 249,
+    "text": "Ile wynosi współczynnik COP sprężarkowej pompy ciepła, jeśli pompa ciepła generuje moc 6 kW, zużywa 2 kW energii elektrycznej?",
+    "answers": [
+      "12",
+      "3",
+      "1/3",
+      "4"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 250,
+    "text": "Wyznacz odległość jaka powinna być między kolejnymi rzędami modułów fotowoltaicznych L, jeśli h = 1 200 mm, α = 40°, β = 21° , tg β = 0,38, sin 40° = 0,64; cos 40° = 0,76, L = (sinα/tgβ + cosα) · h(m).",
+    "answers": [
+      "2,94 m",
+      "1,84 m",
+      "2,15 m",
+      "3,56 m"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_moduly2.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 251,
+    "text": "Przeprowadzanie bieżącej regulacji i konserwacji układu solarnego zaleca się co:",
+    "answers": [
+      "1 - 2 lata",
+      "5 - 6 lat",
+      "3 - 4 lata",
+      "7 - 8 lat"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 252,
+    "text": "Optymalna temperatura rozwoju w instalacji c.w.u. bakterii legionelli to",
+    "answers": [
+      "51 - 61°C",
+      "25 - 50°C",
+      "16 - 24°C",
+      "10 - 15°C"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 253,
+    "text": "Substrat innokulujący (tzw. innoculuum) w biogazowni, to taki który,",
+    "answers": [
+      "rozrzedza mieszaninę fermentującą.",
+      "hamuje fermentację.",
+      "zagęszcza mieszaninę fermentującą.",
+      "zapoczątkowuje i rozpoczyna fermentację metanową podczas rozruchu biogazowni."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 254,
+    "text": "Podczas prawidłowej bezawaryjnej pracy instalacji solarnej z kolektorem cieczowym do ogrzewania c.w.u. w dniu słonecznym, zatrzymana została pracy pompy obiegowej. Przyczyną ewentualną może być",
+    "answers": [
+      "niskie ciśnienie glikolu w instalacji.",
+      "osiągniecie maksymalnej temperatury c.w.u. w zbiorniku.",
+      "zapowietrzenie instalacji.",
+      "awaria czujnika temperatury na kolektorze."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 255,
+    "text": "Zwarcie transformatora to stan, w którym",
+    "answers": [
+      "przewód zabezpieczający i neutralny jest połączony ze sobą.",
+      "jedno z uzwojeń zasilane jest ze źródła energii elektrycznej, a zaciski drugiego uzwojenia są zwarte.",
+      "żadne z uzwojeń nie jest podłączone do zacisków sieci elektrycznej.",
+      "wszystkie uzwojenia transformatora są podłączone do zacisków sieci elektrycznej, mimo to, na zaciskach brak napięcia elektrycznego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 256,
+    "text": "Podstawowym urządzeniem zabezpieczającym agregat biogazowni przed niszczącym działaniem substancji szkodliwych jest wychwytywacz",
+    "answers": [
+      "związków węgla.",
+      "związków siarki.",
+      "związków azotu.",
+      "zanieczyszczeń stałych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 257,
+    "text": "Udrożnienie i czyszczenie czopuchu kotła na biomasę odbędzie się w miejscu oznaczonym numerem",
+    "answers": [
+      "3.",
+      "6.",
+      "11.",
+      "12."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele11/b22_kociol.png"
+    },
+    "category": "ELE.11"
+  },
+  {
+    "id": 258,
+    "text": "W instrukcji obsługi pompy ciepła podano średni przepływ cieczy roboczej na poziomie 1,5 m3/h. Rotametr instalacji wyskalowany w dm3/sek powinien zatem wskazywać wartość",
+    "answers": [
+      "0,42",
+      "0,95",
+      "2,83",
+      "1,54"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 259,
+    "text": "W karcie gwarancyjnej kolektora fotowoltaicznego nie musi być zamieszczona informacja o",
+    "answers": [
+      "okresie ochrony gwarancyjnej.",
+      "typie, modelu urządzenia.",
+      "schemacie instalacji PV.",
+      "adresie producenta."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.11"
+  },
+  {
+    "id": 260,
+    "text": "Mikromierz jest narzędziem pomiarowym mierzącym z dokładnością * Dwie odpowiedzi są poprawne. Zaznacz obie, aby otrzymać punkt.",
+    "answers": [
+      "0,01 mm",
+      "0,001 mm",
+      "0,1 mm",
+      "1 mm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.11"
+  }
+]
