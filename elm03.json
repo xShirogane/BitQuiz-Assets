@@ -1,0 +1,4083 @@
+[
+  {
+    "id": 1,
+    "text": "Ilustracja przedstawia proces",
+    "answers": [
+      "nitowania.",
+      "wiercenia.",
+      "gwintowania.",
+      "frezowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_proces4.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 2,
+    "text": "Który z czujników można zastosować do bezkontaktowego pomiaru poziomu?",
+    "answers": [
+      "Pływakowy.",
+      "Ultradźwiękowy.",
+      "Hydrostatyczny.",
+      "Pojemnościowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 3,
+    "text": "Jakie powinno być ustawienie sekcji przełącznika sterownika mocy, by było możliwe sterowanie za pomocą sygnału 0 mA ÷ 20 mA?",
+    "answers": [
+      "1 – ON, 2 – ON, 3 – ON, 4 – ON",
+      "1 – OFF, 2 – ON, 3 – OFF, 4 – OFF",
+      "1 – OFF, 2 – OFF, 3 – OFF, 4 – OFF",
+      "1 – ON, 2 – OFF, 3 – OFF, 4 – OFF"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_instrukcja5.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 4,
+    "text": "Napięcie wyjściowe przetwornika ciśnienia przyjmuje wartość z przedziału od 0 V do 10 V dla ciśnienia z przedziału 0 kPa … 600 kPa. Jaka będzie wartość napięcia wyjściowego, przy liniowej charakterystyce przetwornika, dla ciśnienia równego 450 kPa?",
+    "answers": [
+      "4,5 V",
+      "10,0 V",
+      "3,0 V",
+      "7,5 V"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 5,
+    "text": "Do sprawdzenia ciągłości połączeń elektrycznych stosuje się",
+    "answers": [
+      "omomierz.",
+      "amperomierz.",
+      "watomierz.",
+      "woltomierz."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 6,
+    "text": "Oceń na podstawie wyników pomiarów rezystancji cewek i zestyków w stanie nieaktywnym, który stycznik jest sprawny.",
+    "answers": [
+      "Stycznik 4.",
+      "Stycznik 3.",
+      "Stycznik 2.",
+      "Stycznik 1."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_pomiary.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 7,
+    "text": "Na której ilustracji przedstawiono narzędzie służące do nacinania gwintu wewnętrznego?",
+    "answers": [
+      "Na ilustracji 4.",
+      "Na ilustracji 2.",
+      "Na ilustracji 3.",
+      "Na ilustracji 1."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_narzedzia10.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 8,
+    "text": "Ilustracja przedstawia sposoby przygotowania elementów do",
+    "answers": [
+      "klejenia.",
+      "nitowania.",
+      "spawania.",
+      "gwintowania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_elementy6.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 9,
+    "text": "Na podstawie fragmentu instrukcji montażu przycisku sterującego dobierz narzędzie do jego demontażu.",
+    "answers": [
+      "Klucz oczkowy.",
+      "Wkrętak płaski.",
+      "Wkrętak krzyżakowy.",
+      "Klucz nasadkowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_instrukcja2.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 10,
+    "text": "Na podstawie fragmentu instrukcji obsługi regulatora temperatury wskaż zaciski, do których należy podłączyć czujniki pomiarowe.",
+    "answers": [
+      "Zaciski 4, 5 lub 6, 7",
+      "Zaciski 8, 9 lub 9, 10",
+      "Zaciski 14, 15",
+      "Zaciski 17, 18 lub 18, 19"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_instrukcja4.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 11,
+    "text": "Który przyrząd kontrolno-pomiarowy służy do wypoziomowania skrzynki nakładanej jako osłona na zamontowany elektrozawór?",
+    "answers": [
+      "Poziomnica.",
+      "Suwmiarka.",
+      "Liniał.",
+      "Kątomierz."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 12,
+    "text": "Którego narzędzia należy użyć do cięcia przewodów pneumatycznych?",
+    "answers": [
+      "Narzędzia 1.",
+      "Narzędzia 3.",
+      "Narzędzia 4.",
+      "Narzędzia 2."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_narzedzia9.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 13,
+    "text": "Jak zachowa się tłoczysko siłownika w układzie przedstawionym na schemacie, gdy przy wsuniętym tłoczysku zostanie naciśnięty przycisk S1?",
+    "answers": [
+      "Wysunie się szybko i szybko wsunie po zadziałaniu łącznika 1B1",
+      "Wysunie się szybko i szybko wsunie po zadziałaniu łącznika 1B2",
+      "Wysunie się wolno i wolno wsunie po zadziałaniu łącznika 1B1",
+      "Wysunie się wolno i wolno wsunie po zadziałaniu łącznika 1B2"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_uklad23.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 14,
+    "text": "Na szynie TH35 trzeba zamontować przedstawiony na ilustracji przekaźnik o 4 zestykach przełącznych. Które gniazdo można zastosować do tego montażu?",
+    "answers": [
+      "Gniazdo 1.",
+      "Gniazdo 4.",
+      "Gniazdo 2.",
+      "Gniazdo 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_przekaznik2.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 15,
+    "text": "W układzie przedstawionym na schemacie zawór zasadniczy jest sterowany",
+    "answers": [
+      "siłą mięśni.",
+      "pneumatycznie przez spadek ciśnienia.",
+      "pneumatycznie przez wzrost ciśnienia.",
+      "elektrycznie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_uklad20.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 16,
+    "text": "Na podstawie wskazania mikrometru wynik pomiaru wynosi",
+    "answers": [
+      "22,14 mm",
+      "22,16 mm",
+      "21,64 mm",
+      "21,14 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_pomiar3.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 17,
+    "text": "Zespół pneumatyczny został zmontowany według schematu przedstawionego na ilustracji. Działanie którego z siłowników nie może zostać sprawdzone poprzez sterowanie ręczne?",
+    "answers": [
+      "Siłownika 4A1",
+      "Siłownika 3A1",
+      "Siłownika 2A1",
+      "Siłownika 1A1"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_schemat27.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 18,
+    "text": "Wskaż na podstawie tabeli wymiary wpustu pryzmatycznego, który można osadzić na wale o średnicy 12 mm.",
+    "answers": [
+      "4 x 4 mm",
+      "3 x 3 mm",
+      "5 x 5 mm",
+      "6 x 6 mm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabela23.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 19,
+    "text": "Czujnik indukcyjny, którego dane techniczne przedstawiono w tabeli, może pracować w układzie elektrycznym o następujących parametrach:",
+    "answers": [
+      "napięcie zasilania 24 V AC i prąd pracy 0,02 A",
+      "napięcie zasilania 24 V DC i prąd pracy 30 mA",
+      "napięcie zasilania 20 V AC i prąd pracy 0,02 A",
+      "napięcie zasilania 15 V DC i prąd pracy 0,02 A"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabela27.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 20,
+    "text": "Który zawór należy zamontować w układzie, by zapewnić przepływ medium tylko w jednym kierunku?",
+    "answers": [
+      "Zwrotny.",
+      "Rozdzielający.",
+      "Bezpieczeństwa.",
+      "Odcinający."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 21,
+    "text": "Zwiększenie prędkości ruchu tłoka siłownika pneumatycznego umożliwia",
+    "answers": [
+      "zawór szybkiego spustu.",
+      "przełącznik obiegu.",
+      "zawór podwójnego sygnału.",
+      "zawór zwrotny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 22,
+    "text": "Na podstawie danych katalogowych przetwornika różnicy ciśnień dobierz napięcie zasilania dla prądowego sygnału wyjściowego.",
+    "answers": [
+      "15÷30 VDC",
+      "10÷36 VDC",
+      "10÷30 VDC",
+      "5÷12 VDC"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabela26.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 23,
+    "text": "Tensomer foliowy należy przymocować do podłoża",
+    "answers": [
+      "śrubą.",
+      "nitem.",
+      "klejem.",
+      "zszywką."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 24,
+    "text": "Na podstawie tabeli określ, które czynności konserwacyjne powinny być wykonywane tylko raz w roku.",
+    "answers": [
+      "Kalibracja przyrządów pomiarowych.",
+      "Kontrola temperatury dławnicy i łożysk.",
+      "Smarowanie łożysk.",
+      "Kontrola ciśnienia i natężenia przepływu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabela28.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 25,
+    "text": "Przed rozpoczęciem wymiany zaworu elektropneumatycznego, sterowanego przez PLC, należy",
+    "answers": [
+      "wyłączyć dopływ sprężonego powietrza, odłączyć siłownik, odłączyć PLC.",
+      "wyłączyć zasilanie pneumatyczne, odłączyć przewody od cewki elektrozaworu i przewody pneumatyczne.",
+      "odłączyć przewody zasilające sterownik oraz przewody pneumatyczne od elektrozaworu.",
+      "wprowadzić sterownik PLC w tryb STOP, wyłączyć zasilanie elektryczne i pneumatyczne układu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 26,
+    "text": "Jaką średnicę powinien mieć siłownik jednostronnego działania o działaniu pchającym, by przy ciśnieniu 6 barów działał z siłą 1120 N?",
+    "answers": [
+      "63 mm",
+      "100 mm",
+      "80 mm",
+      "50 mm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabela24.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 27,
+    "text": "Kontrola połączeń nitowanych, przeprowadzona przez ostukiwanie młotkiem nitu, ma na celu stwierdzenie wady",
+    "answers": [
+      "skrzywienia nitu.",
+      "luźnego osadzenia nitu.",
+      "nieprawidłowego ukształtowania zakuwki.",
+      "pęknięcia powierzchni łba i zakuwki nitu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 28,
+    "text": "Jaką funkcję pełni zawór dławiąco-zwrotny, przedstawiony na ilustracji?",
+    "answers": [
+      "Spowalnia wysuwanie tłoczyska siłownika na wylocie.",
+      "Spowalnia wysuwanie tłoczyska siłownika na wlocie.",
+      "Spowalnia wsuwanie tłoczyska siłownika na wlocie.",
+      "Spowalnia wsuwanie tłoczyska siłownika na wylocie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_zawor7.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 29,
+    "text": "Który opis siłowników hydraulicznych przedstawionych na rysunkach jest poprawny?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_silowniki.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 30,
+    "text": "Który rodzaj obróbki metalu przedstawiono na ilustracji?",
+    "answers": [
+      "Toczenie.",
+      "Walcowanie.",
+      "Nawęglanie.",
+      "Szlifowanie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_obrobka3.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 31,
+    "text": "Który przyrząd pomiarowy należy wykorzystać do sprawdzenia wartości napięcia zasilającego cewkę elektrozaworu?",
+    "answers": [
+      "Woltomierz.",
+      "Amperomierz.",
+      "Omomierz.",
+      "Watomierz."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 32,
+    "text": "Element oznaczony cyfrą 4 na schemacie układu przygotowania sprężonego powietrza jest odpowiedzialny za",
+    "answers": [
+      "wytworzenie mgły olejowej.",
+      "filtrację.",
+      "obniżenie wilgotności.",
+      "redukcję ciśnienia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_uklad21.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 33,
+    "text": "Ilustracja przedstawia łożysko",
+    "answers": [
+      "przegubowe.",
+      "kulkowe.",
+      "igiełkowe.",
+      "walcowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_lozysko2.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 34,
+    "text": "W układzie pneumatycznym przedstawionym na schemacie wysunięcie tłoczyska siłownika 1A nastąpi przy",
+    "answers": [
+      "wciśniętym przycisku tylko zaworu S2.",
+      "wciśniętych jednocześnie przyciskach zaworów S1 i S2.",
+      "niewciśniętych przyciskach zaworów S1 i S2.",
+      "wciśniętym przycisku tylko zaworu S1."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_uklad19.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 35,
+    "text": "Na podstawie przedstawionej noty katalogowej termostatu HONEYWELL 3455RC określ temperaturę otwarcia oraz amplitudę.",
+    "answers": [
+      "Temperatura otwarcia 18°C, amplituda 17°C",
+      "Temperatura otwarcia 18°C, amplituda -1°C",
+      "Temperatura otwarcia -1°C, amplituda 18°C",
+      "Temperatura otwarcia 18°C, amplituda 19°C"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabela25.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 36,
+    "text": "Do pracy urządzenia przedstawionego na schemacie niezbędne jest zasilanie",
+    "answers": [
+      "pneumatyczne.",
+      "hydrauliczne.",
+      "elektryczne i hydrauliczne.",
+      "elektryczne i pneumtyczne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_schemat28.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 37,
+    "text": "Który przyrząd pomiarowy należy zastosować do pomiaru amplitudy, częstotliwości i kształtu sygnałów w montowanych urządzeniach mechatronicznych?",
+    "answers": [
+      "Oscyloskop",
+      "Multimetr",
+      "Mostek RLC",
+      "Częstościomierz"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 38,
+    "text": "Na ilustracji przedstawiono sprzęgło",
+    "answers": [
+      "jednokierunkowe.",
+      "elastyczne palcowe.",
+      "elastyczne kłowe.",
+      "pierścieniowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_sprzeglo.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 39,
+    "text": "W układzie pneumatycznym przedstawionym na ilustracji po włączeniu zasilania jako pierwszy wysunie się siłownik oznaczony symbolem",
+    "answers": [
+      "1A1",
+      "1A2",
+      "1A3",
+      "1A4"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_uklad22.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 40,
+    "text": "Aby pomiar napięcia na kondensatorze C1 był najdokładniejszy zakres pomiarowy woltomierza należy ustawić na",
+    "answers": [
+      "0÷20 V DC",
+      "0÷20 V AC",
+      "0÷300 V DC",
+      "0÷300 V AC"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_schemat30.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 41,
+    "text": "Przewidywana moc pobierana przez sterownik wraz z modułem rozszerzeń i modułem komunikacyjnym wynosi około 24 W przy napięciu zasilania 24 V DC i prądzie zasilania 1 A. Wskaż model zasilacza odpowiedni do zasilania sterownika wraz z modułami.",
+    "answers": [
+      "RS-50-48; 52,8 W; 48 V DC; 1,1 A",
+      "DR-15-24; 15,2 W; 24 V DC; 0,63 A",
+      "DR-15-15; 15 W; 15 V DC; 1 A",
+      "RS-50-24; 52,8 W; 24 V DC; 2,2 A"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 42,
+    "text": "Na schemacie blokowym przekształtnika energoelektronicznego zastosowanego w napędzie mechatronicznym cyframi oznaczono podzespoły",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_schemat7.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 43,
+    "text": "Szybką i rzetelną ocenę stanu technicznego poszczególnych obwodów układu hydraulicznego urządzenia mechatronicznego zapewnia przeprowadzenie",
+    "answers": [
+      "sprawdzenia przez oględziny zewnętrzne prawidłowości montażu układu.",
+      "próby szczelności przy ciśnieniu trzykrotnie wyższym od ciśnienia roboczego.",
+      "demontażu elementów układu i sprawdzenie każdego elementu oddzielnie.",
+      "analizy zmian ciśnienia zmierzonego w charakterystycznych punktach układu podczas jego pracy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 44,
+    "text": "Zasilacz o napięciu wyjściowym zmiennym równym 24 V w trzysekcyjnej instalacji nawadniającej przedstawionej na rysunku zasila",
+    "answers": [
+      "sterownik PLC.",
+      "zasilacz napięcia stałego.",
+      "czujnik deszczu.",
+      "sekcje nawadniania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_schemat5.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 45,
+    "text": "W której kolejności należy przykręcać śruby montażowe w celu przymocowania do cylindra przedstawionej na rysunku pokrywy?",
+    "answers": [
+      "1, 2, 3, 7, 6, 5, 4, 8",
+      "1, 5, 3, 7, 2, 6, 4, 8",
+      "1, 2, 3, 4, 5, 6 ,7, 8",
+      "1, 5, 2, 3, 4, 6, 7, 8"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_pokrywa.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 46,
+    "text": "W miejscu zaznaczonym na rysunku czerwonym prostokątem należy podłączyć",
+    "answers": [
+      "zasilanie.",
+      "złącze komunikacyjne.",
+      "czujnik analogowy.",
+      "złącze diagnostyczne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_rysunek4.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 47,
+    "text": "Który typ podkładek należy zastosować do ochrony połączeń śrubowych narażonych na niszczący wpływ wilgoci?",
+    "answers": [
+      "Ochronne.",
+      "Uszczelniające.",
+      "Zabezpieczające.",
+      "Wyrównujące."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 48,
+    "text": "Pneumatyczny element wykonawczy, którego wygląd i budowę przedstawiono na rysunkach, to siłownik",
+    "answers": [
+      "obrotowy.",
+      "cięgnowy.",
+      "typu muskuł.",
+      "beztłokowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_silownik2.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 49,
+    "text": "Na wyjście mikrokontrolera o napięciu 5 V należy podłączyć diodę LED o parametrach IF = 20 mA, UF = 2 V. Prąd płynący przez diodę należy ograniczyć, włączając szeregowo z nią rezystor o wartości",
+    "answers": [
+      "1,5 Ω",
+      "100,0 Ω",
+      "1,0 Ω",
+      "150,0 Ω"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 50,
+    "text": "Zawór 1V2 wytwarza sygnał sterujący pracą siłownika dwustronnego działania na podstawie sygnału z zaworu",
+    "answers": [
+      "1S2 przy wysuwie i sygnału z zaworu 1S1 przy wsuwie tłoczyska.",
+      "1S1 lub sygnału z zaworu 1S2.",
+      "1S1 i sygnału z zaworu 1S2.",
+      "1S1 przy wysuwie i sygnału z zaworu 1S2 przy wsuwie tłoczyska."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_schemat4.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 51,
+    "text": "Które z wymienionych połączeń należy zastosować w mechanizmie, aby nie uszkodzić złączonych części lub łączników podczas rozłączania jego elementów?",
+    "answers": [
+      "Klinowe.",
+      "Zgrzewane.",
+      "Klejone.",
+      "Nitowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 52,
+    "text": "Na podstawie zestawionych w tabeli wyników pomiarów rezystancji poszczególnych odcinków układu sterowania przedstawionego na rysunku wskaż wyniki pomiarów odnoszące się do poprawnie zmontowanego układu.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_uklad6.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 53,
+    "text": "Określ przeznaczenie narzędzi przedstawionych na rysunkach.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_narzedzia4.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 54,
+    "text": "Końcówki do wiertarki przedstawione na rysunkach należy zastosować do",
+    "answers": [
+      "obróbki spawu i usuwania zarysowań.",
+      "wykonywania otworów w metalu.",
+      "zamocowania wiertła w wiertarce.",
+      "gratowania krawędzi metalowych rur."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_koncowki.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 55,
+    "text": "Za pomocą którego przepływomierza mierzony jest przepływ cieczy w układzie pomiarowym przedstawionym na rysunku?",
+    "answers": [
+      "Ultradźwiękowego.",
+      "Indukcyjnego.",
+      "Zwężkowego.",
+      "Wirowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_uklad4.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 56,
+    "text": "Wskaż wśród wymienionych wartości parametrów charakteryzujących silnik pneumatyczny parametr określający wartość rozwijanego przez niego momentu obrotowego.",
+    "answers": [
+      "36 m3/h",
+      "7,1 Nm",
+      "350 obr./min",
+      "0,26 kW"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 57,
+    "text": "Który z wymienionych typów stali wykorzystywany jest do budowy konstrukcji maszyn i mechanizmów, w których połączenia elementów są spawane?",
+    "answers": [
+      "Stopowa do pracy na gorąco.",
+      "Stopowa do pracy na zimno.",
+      "Szybkotnąca.",
+      "Niestopowa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 58,
+    "text": "Określ typ czujników B1 i B2 zastosowanych w układzie sterowniczym przedstawionym na rysunku.",
+    "answers": [
+      "B1 – NPN, B2 – PNP",
+      "B1 – NPN, B2 – NPN",
+      "B1 – PNP, B2 – PNP",
+      "B1 – PNP, B2 – NPN"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_uklad7.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 59,
+    "text": "Wskaż reakcje styczników K1, K2, K3 w układzie sterowniczym przedstawionym na rysunku, z chwilą naciśnięcia przycisku sterowniczego S1, po którym następnym działaniem jest naciśnięcie przycisku S2.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_uklad5.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 60,
+    "text": "Aby była możliwość sterowania natężeniem przepływu medium roboczym w układzie, którego schemat przedstawiono na rysunku, należy zastosować zawór",
+    "answers": [
+      "odcinający.",
+      "zwrotny.",
+      "rozdzielający.",
+      "dławiący."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_uklad3.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 61,
+    "text": "Określ wartość rezystancji rezystora przedstawionego na rysunku.",
+    "answers": [
+      "0,75 Ω",
+      "75 Ω",
+      "5 Ω",
+      "5,75 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_rezystor.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 62,
+    "text": "Sprawdzanie działania urządzenia mechatronicznego metodą przedstawioną na rysunku pozwala na wykrycie",
+    "answers": [
+      "niezgodnych ze schematem wykonanie połączeń elementów obwodów.",
+      "przerw w elementach zabezpieczających obwody elektryczne urządzenia przed skutkami zwarć i przeciążeń.",
+      "elementów o podwyższonej temperaturze i zwiększonej rezystancji w obwodach elektrycznych urządzenia.",
+      "nieciągłości w torach prądowych obwodów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_rysunek7.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 63,
+    "text": "Przed montażem zmierzono wartości rezystancji 4 rezystorów o rezystancji 100 Ω i tolerancji ±5% każdy i uzyskano następujące wyniki R1 = 93 Ω, R2 = 94 Ω, R3 = 103 Ω, R4 = 104 Ω. Wartość rezystancji których rezystorów mieści się w przedziale tolerancji podanym przez producenta?",
+    "answers": [
+      "R1 i R2",
+      "R2, R3 i R4",
+      "R3 i R4",
+      "R1, R2 i R3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 64,
+    "text": "Co może oznaczać wykryte przez monitoring siłownika pneumatycznego wyposażonego w amortyzatory hydrauliczne przyspieszanie na końcu posuwu (pomiędzy amortyzowaniem a zatrzymaniem urządzenia)?",
+    "answers": [
+      "Obniżenie się ciśnienia w instalacji hydraulicznej i konieczność jego podwyższenia.",
+      "Wyciek płynu w amortyzatorze i konieczność wymiany amortyzatora.",
+      "Zbyt wysoką temperaturę otoczenia i konieczność dodatkowego chłodzenia amortyzatora.",
+      "Uszkodzony elektrozawór sterujący siłownika i konieczność wymiany elektrozaworu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 65,
+    "text": "W skład zespołu pneumatycznego przedstawionego na rysunku oprócz manometru",
+    "answers": [
+      "wchodzi tylko reduktor ciśnienia.",
+      "wchodzą reduktor ciśnienia i filtr.",
+      "wchodzą smarownica, reduktor ciśnienia i filtr.",
+      "wchodzi tylko smarownica."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_zespol.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 66,
+    "text": "Określ na podstawie przedstawionej tabeli przeglądów przemiennika częstotliwości sterującego pracą napędu mechatronicznego, którą z wymienionych czynności należy wykonywać raz do roku.",
+    "answers": [
+      "Sprawdzenie wartości napięcia wyjściowego przemiennika częstotliwości.",
+      "Sprawdzenie głośności wentylatora.",
+      "Sprawdzenie stanu styków głównych przemiennika częstotliwości.",
+      "Sprawdzenie czy kondensatory w torze głównym nie są uszkodzone."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabela4.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 67,
+    "text": "Wskaż poprawny opis charakteryzujący sposób działania układu, którego schemat przedstawiono na rysunku.",
+    "answers": [
+      "Styczniki mogą być załączone tylko w kolejności: najpierw K2, a dopiero po 20 sekundach K1 i wyłączone jednocześnie.",
+      "Styczniki mogą być załączone tylko w kolejności: najpierw K1, a dopiero po 20 sekundach K2 i wyłączone jednocześnie.",
+      "Styczniki K1, K2 mogą być załączone w dowolnej kolejności, przy czym załączenie stycznika drugiego musi nastąpić przed upływem 20 sekund od załączenia pierwszego.",
+      "Styczniki K1, K2 mogą być załączone w dowolnej kolejności, przy czym załączenie stycznika drugiego może nastąpić dopiero po upływie 20 sekund od załączenia pierwszego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_schemat6.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 68,
+    "text": "Uzwojenia silnika powinny być połączone w gwiazdę. Który rysunek przedstawia tabliczkę zaciskową silnika z poprawnie połączonymi uzwojeniami?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabliczki.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 69,
+    "text": "Rozdzielacz przedstawiony na rysunku przystosowany jest do sterowania",
+    "answers": [
+      "mechanicznego.",
+      "elektrycznego.",
+      "ręcznego.",
+      "pneumatycznego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_rozdzielacz.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 70,
+    "text": "Na którym rysunku przedstawiono rozdzielacz hydrauliczny jednosekcyjny sterowany dźwigniowo?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_rysunki.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 71,
+    "text": "Strzałka oznaczona cyfrą 1 wskazuje",
+    "answers": [
+      "tłok.",
+      "tuleję cylindra.",
+      "pierścienie uszczelniające.",
+      "tłoczysko."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_rysunek5.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 72,
+    "text": "Wskaż prawidłowe wyjaśnienie działania układu przedstawionego na rysunku.",
+    "answers": [
+      "Wysuw tłoczyska siłownika 1A1 jest możliwy, gdy wysterowana jest jedna z trzech cewek zaworu Y1, Y2 lub Y3, przy czym wsuw trwa krócej niż wysuw.",
+      "Wysuw tłoczyska siłownika 1A1 jest możliwy, gdy wysterowana jest jedna z trzech cewek zaworu Y1, Y2 lub Y3, przy czym wysuw trwa krócej niż wsuw.",
+      "Wysuw tłoczyska siłownika jest możliwy tylko, gdy wysterowane są wszystkie trzy cewki zaworów Y1, Y2 i Y3, przy czym wysuw trwa krócej niż wsuw.",
+      "Wysuw tłoczyska siłownika jest możliwy  tylko, gdy wysterowane są wszystkie trzy cewki zaworów Y1, Y2 i Y3, przy czym wsuw trwa krócej niż wysuw."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_uklad2.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 73,
+    "text": "Który rodzaj ciśnienia mierzy manometr zamontowany w stacji sprężonego powietrza przedstawionej na rysunku?",
+    "answers": [
+      "Ciśnienie atmosferyczne.",
+      "Nadciśnienie.",
+      "Ciśnienie bezwzględne.",
+      "Podciśnienie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_stacja.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 74,
+    "text": "Na rysunku przedstawiono wykonywanie pomiaru wartości",
+    "answers": [
+      "grubości osadów w rurze.",
+      "ciśnienia gazu w rurze.",
+      "natężenia przepływu gazu w rurze.",
+      "szczelności przewodu rurowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_rysunek8.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 75,
+    "text": "Które narzędzie należy wybrać do cięcia metalowych rur przeznaczonych na instalację pneumatyczną?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_narzedzia3.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 76,
+    "text": "Która metoda sprawdzania urządzenia mechatronicznego została przedstawiona na rysunku?",
+    "answers": [
+      "Sprawdzenie obwodów elektrycznych urządzenia metodą termowizyjną.",
+      "Zdalna technika pomiarowa wielkości wyjściowych urządzenia.",
+      "Sprawdzenie pola magnetycznego wokół układów elektrycznych urządzenia.",
+      "Pomiary i monitorowanie parametrów sieci zasilającej urządzenie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_rysunek6.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 77,
+    "text": "Na którym rysunku przedstawiono łożysko kulkowe wahliwe?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_lozyska.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 78,
+    "text": "Na rysunku przedstawiono pomiar",
+    "answers": [
+      "nieszczelności w układzie pneumatycznym.",
+      "stężenia dwutlenku węgla w atmosferze.",
+      "rozkładu temperatur w instalacji pneumatycznej.",
+      "natężenia przepływu powietrza w instalacji pneumatycznej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_pomiar.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 79,
+    "text": "Które z urządzeń mechatronicznych o metalowej obudowie zostało poprawnie podłączone do przedstawionej na rysunku sieci trójfazowej TN-S?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_siec.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 80,
+    "text": "Który z plików zainstalowanego programu jest plikiem zawierającym m.in. informacje o sposobach użytkowania programu?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_ikony.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 81,
+    "text": "W czasie montażu i demontażu łożysk tocznych należy przestrzegać określonych warunków. Który warunek z wymienionych jest niepoprawny?",
+    "answers": [
+      "Po założeniu łożyska i dociśnięciu go do oporu należy cofnąć nakrętkę około1/8 obrotu.",
+      "Gdy wałek jest nieruchomy łożysko osadza się na wale suwliwie, a w gnieździe ciasno.",
+      "Gdy wałek jest ruchomy łożysko osadza się na wale ciasno, a w gnieździe suwliwie.",
+      "Przy osadzaniu łożyska na wale można wywierać nacisk tylko na pierścień zewnętrzny, nigdy wewnętrzny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 82,
+    "text": "Którą wielkość można zmierzyć przy użyciu enkodera absolutnego jednoobrotowego?",
+    "answers": [
+      "Przesunięcie kątowe.",
+      "Przyspieszenie.",
+      "Ciśnienie.",
+      "Moment obrotowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 83,
+    "text": "Do których prac przy montażu instalacji pneumatycznej wykorzystuje się narzędzie przedstawione na rysunku?",
+    "answers": [
+      "Obcinania rury.",
+      "Dokręcania śrub z określonym momentem.",
+      "Gratowania rury.",
+      "Nawiercania otworu w obejmie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_narzedzie.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 84,
+    "text": "Na rysunku przedstawiono uszkodzenie",
+    "answers": [
+      "płytki noża tokarskiego.",
+      "freza walcowo-czołowego.",
+      "wiertła.",
+      "freza czołowo-palcowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_uszkodzenie.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 85,
+    "text": "Na podstawie danych katalogowych określ zasięg czujnika optycznego, odbiciowego.",
+    "answers": [
+      "0,40 m",
+      "0,35 m",
+      "0,30 m",
+      "0,45 m"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_czujnik.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 86,
+    "text": "Które prace umożliwia ściągacz przedstawiony na rysunku?",
+    "answers": [
+      "Wszystkie wymienione w tabeli.",
+      "Tylko 1, 2 i 3.",
+      "Tylko 1 i 2.",
+      "Tylko 1, 2, 3 i 4."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_sciagacz.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 87,
+    "text": "Uzwojenie biegunów komutacyjnych w silniku prądu stałego służy do",
+    "answers": [
+      "poprawienia rozkładu pola pod biegunami głównymi.",
+      "wytworzenia momentu rozruchowego.",
+      "wytworzenia głównego pola magnetycznego w maszynie.",
+      "poprawienia pracy szczotek na komutatorze."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 88,
+    "text": "Oceń poprawność zamontowania przewodów pod zaciski na przedstawionym rysunku.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_rysunek2.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 89,
+    "text": "Do konserwacji których elementów należy zastosować wazelinę techniczną?",
+    "answers": [
+      "Resorów, łańcuchów narażonych na wodę i znaczne obciążenia.",
+      "Mechanizmów precyzyjnych, styków w urządzeniach elektrycznych.",
+      "Łożysk ślizgowych, tocznych, przekładni silników.",
+      "Gumowych, z tworzyw sztucznych, ceramiki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 90,
+    "text": "Który zawór należy wybrać do montażu, aby podczas ciągłej pracy układu przepływ czynnika roboczego był możliwy tylko w jednym kierunku?",
+    "answers": [
+      "Odcinający.",
+      "Zwrotny.",
+      "Logiczny iloczynu.",
+      "Logiczny sumy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 91,
+    "text": "Na rysunku przedstawiono łożysko",
+    "answers": [
+      "baryłkowe.",
+      "igiełkowe.",
+      "stożkowe.",
+      "kulkowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_lozysko.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 92,
+    "text": "Które oprogramowanie umożliwia nadzorowanie przebiegu procesu technologicznego lub produkcyjnego?",
+    "answers": [
+      "CAE",
+      "SCADA",
+      "CAD",
+      "CAM"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 93,
+    "text": "Którymi cyframi oznaczono na rysunku siłownika pneumatycznego uszczelnienie tłoka oraz tłoczysko?",
+    "answers": [
+      "Uszczelnienie tłoka – 1, tłoczysko – 2.",
+      "Uszczelnienie tłoka – 5, tłoczysko – 2.",
+      "Uszczelnienie tłoka – 1, tłoczysko – 3.",
+      "Uszczelnienie tłoka – 5, tłoczysko – 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_silownik.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 94,
+    "text": "Określ przeznaczenie narzędzi przedstawionych na rysunku.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_narzedzia2.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 95,
+    "text": "Na rysunku przedstawiono",
+    "answers": [
+      "suport poprzeczny.",
+      "imadło.",
+      "uchwyt tokarski.",
+      "wałek pociągowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_rysunek.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 96,
+    "text": "Przy użyciu którego przyrządu należy zmierzyć średnicę śruby?",
+    "answers": [
+      "Mikrometru zewnętrznego.",
+      "Głębokościomierza.",
+      "Mikrometru wewnętrznego.",
+      "Szczelinomierza."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 97,
+    "text": "Przedstawione na rysunkach elementy można wykorzystać do łączenia przewodów",
+    "answers": [
+      "koncentrycznych.",
+      "światłowodowych.",
+      "wieloparowych.",
+      "uziemiających."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_elementy.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 98,
+    "text": "Który zawór pneumatyczny przedstawiono na rysunku?",
+    "answers": [
+      "Odcinający.",
+      "Dławiąco-zwrotny.",
+      "Zwrotny.",
+      "Szybkiego spustu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_zawor.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 99,
+    "text": "Materiał o których właściwościach należy wybrać do konstrukcji lekkiej i odpornej na odkształcenia mobilnej podstawy konstrukcyjnej urządzenia mechatronicznego?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabela.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 100,
+    "text": "Parametry zamieszczone w tabeli charakteryzują",
+    "answers": [
+      "silnik hydrauliczny.",
+      "kompresor olejowy.",
+      "silnik elektryczny.",
+      "pompę hydrauliczną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabela3.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 101,
+    "text": "Przedstawione dane techniczne i rysunek dotyczą",
+    "answers": [
+      "kompresora olejowego.",
+      "akumulatora hydraulicznego.",
+      "siłownika hydraulicznego.",
+      "sprężarki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_rysunek3.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 102,
+    "text": "Który przyrząd pomiarowy przedstawiono na rysunku?",
+    "answers": [
+      "Detektor wycieków.",
+      "Miernik częstotliwości.",
+      "Kamerę termowizyjną.",
+      "Multimetr uniwersalny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_przyrzad.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 103,
+    "text": "Jaką wartość ciśnienia wskazuje manometr na rysunku?",
+    "answers": [
+      "3 bar",
+      "6 bar",
+      "5 bar",
+      "4 bar"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_manometr.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 104,
+    "text": "Które narzędzie należy wybrać do zaciskania końcówek tulejkowych na przewodach podłączanych do sterownika?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_narzedzia.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 105,
+    "text": "Układ wymaga zasilenia",
+    "answers": [
+      "tylko sprężonym powietrzem.",
+      "napięciem 24 V DC i sprężonym powietrzem.",
+      "tylko napięciem 24 V DC.",
+      "napięciem 24 V AC i sprężoną cieczą hydrauliczną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_uklad.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 106,
+    "text": "Który element należy wybrać do precyzyjnego osadzenia łożyska?",
+    "answers": [
+      "Podkładkę zębatą.",
+      "Nakrętkę łożyskową.",
+      "Pierścień ustalający.",
+      "Podkładkę dystansową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 107,
+    "text": "Na podstawie schematu połączeń układu sterowania określ stan lampek po naciśnięciu przycisku S1.",
+    "answers": [
+      "Zaświeci się lampka H9 i H10",
+      "Zaświeci się lampka H9 i zgaśnie H10",
+      "Zgaśnie lampka H9 i H10",
+      "Zgaśnie lampka H9 i zaświeci się H10"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_schemat2.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 108,
+    "text": "Co oznacza zaznaczony czerwoną ramką parametr na tabliczce znamionowej silnika przedstawionej na rysunku?",
+    "answers": [
+      "Prąd płynący w uzwojeniach fazowych silnika przy obciążeniu znamionowym.",
+      "Moc pobierana przez silnik z sieci przy obciążeniu znamionowym.",
+      "Prąd pobierany z sieci przy obciążeniu znamionowym.",
+      "Moc wydawana przez silnik na wale przy obciążeniu znamionowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabliczka.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 109,
+    "text": "Którą metodę należy zastosować, łącząc szkło z metalem?",
+    "answers": [
+      "Klejenie.",
+      "Zgrzewanie.",
+      "Spawanie.",
+      "Nitowanie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 110,
+    "text": "Element oznaczony symbolem graficznym jest przeznaczony do",
+    "answers": [
+      "smarowania czynnika roboczego.",
+      "filtracji czynnika roboczego.",
+      "redukcji ciśnienia.",
+      "odcięcia ciśnienia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_symbol.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 111,
+    "text": "Na wyjściu mikrokontrolera o napięciu 5 V należy podłączyć diodę LED o parametrach IF = 20 mA, UF = 2 V. Prąd płynący przez diodę należy ograniczyć, włączając szeregowo z nią rezystor o wartości",
+    "answers": [
+      "1,0 Ω",
+      "100,0 Ω",
+      "1,5 Ω",
+      "150,0 Ω"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 112,
+    "text": "Na podstawie tabeli określ wartość siły działającej na tłok podczas wysuwu przy ciśnieniu roboczym 8 bar w siłowniku o średnicy tłoka 25 mm.",
+    "answers": [
+      "251 N",
+      "118 N",
+      "330 N",
+      "393 N"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabela2.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 113,
+    "text": "Na rysunku przedstawiono zawór rozdzielający przystosowany do sterowania",
+    "answers": [
+      "mechanicznego.",
+      "pilotem piezoelektrycznym.",
+      "pneumatycznego.",
+      "elektromagnetycznego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_zawor2.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 114,
+    "text": "W układzie, którego schemat przedstawiono na rysunku, element OK1 służy do",
+    "answers": [
+      "izolowania galwanicznego portu SIG mikrokontrolera od cewki K1",
+      "ograniczania przepięć podczas wyłączania cewki K1",
+      "nastawiania czasu załączania tranzystora T1",
+      "nastawiania wartości napięcia załączenia cewki K1"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_schemat.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 115,
+    "text": "W przedstawionym na schemacie układzie pneumatycznym tłoczysko siłownika jednostronnego działania powinno się wysuwać przy jednoczesnym naciśnięciu obu przycisków. Który zawór należy zamontować w układzie w miejscu oznaczonym symbolem X?",
+    "answers": [
+      "Dławiąco-zwrotny.",
+      "Podwójnego sygnału.",
+      "Przełącznik obiegu.",
+      "Szybkiego spustu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_schemat18.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 116,
+    "text": "W urządzeniu mechatronicznym zastosowano przekładnię zbudowaną z kół przedstawionych na rysunku. Który pasek napędowy należy zastosować w tej przekładni?",
+    "answers": [
+      "Wieloklinowy.",
+      "Zębaty.",
+      "Klinowy.",
+      "Wielorowkowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_kola.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 117,
+    "text": "Na rysunku przedstawiono schemat działania maszyny do formowania blach. Który z wymienionych podzespołów zastosowano w tym urządzeniu?",
+    "answers": [
+      "Przekładnię ślimakową.",
+      "Przekładnię maltańską.",
+      "Przegub Cardana.",
+      "Mechanizm różnicowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_schemat15.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 118,
+    "text": "Na podstawie fragmentu instrukcji serwisowej sprężarki tłokowej wskaż, która z wymienionych czynności konserwacyjnych powinna być wykonywana najczęściej.",
+    "answers": [
+      "Kontrola stanu oleju.",
+      "Wymiana filtra ssącego.",
+      "Wymiana paska klinowego.",
+      "Czyszczenie zaworu zwrotnego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabela18.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 119,
+    "text": "Którą metodę łączenia materiałów przedstawiono na rysunku?",
+    "answers": [
+      "Spawanie.",
+      "Klejenie.",
+      "Zgrzewanie.",
+      "Lutowanie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_laczenie.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 120,
+    "text": "Do pomiaru prędkości obrotowej wału silnika służy",
+    "answers": [
+      "czujnik termoelektryczny.",
+      "mostek tensometryczny.",
+      "prądnica tachometryczna.",
+      "potencjometr obrotowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 121,
+    "text": "Który napęd zaworu jest przystosowany do przełączenia stopą?",
+    "answers": [
+      "Napęd 4.",
+      "Napęd 1.",
+      "Napęd 2.",
+      "Napęd 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_napedy.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 122,
+    "text": "Który z podanych rodzajów mocowania siłowników należy zastosować dla elementu przedstawionego na rysunkach?",
+    "answers": [
+      "Wahliwe.",
+      "Kołnierzowe.",
+      "Na łapach.",
+      "Gwintowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_element2.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 123,
+    "text": "Przedstawione na rysunku urządzenie służy do",
+    "answers": [
+      "wykrywania miejsc nieszczelności w instalacji sprężonego powietrza.",
+      "wyszukiwania miejsc uszkodzenia przewodów w instalacji elektrycznej.",
+      "bezdotykowego pomiaru ciśnienia w gałęzi obwodu pneumatycznego.",
+      "bezdotykowego pomiaru natężenia przepływu powietrza w gałęzi obwodu pneumatycznego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_urzadzenie.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 124,
+    "text": "Po wciśnięciu przycisku sterującego zaworu rozdzielającego 1V nastąpi",
+    "answers": [
+      "wysunięcie tłoczyska siłownika 1A2 i wsunięcie tłoczyska siłownika 1A1",
+      "wsunięcie tłoczysk obu siłowników 1A1 i 1A2",
+      "wysunięcie tłoczysk obu siłowników 1A1 i 1A2",
+      "wysunięcie tłoczyska siłownika 1A1 i wsunięcie tłoczyska siłownika 1A2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_schemat16.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 125,
+    "text": "Którym medium roboczym jest zasilany element o symbolu graficznym przedstawionym na rysunku zastosowany w urządzeniu mechatronicznym?",
+    "answers": [
+      "Prądem stałym.",
+      "Prądem przemiennym.",
+      "Sprężonym powietrzem.",
+      "Cieczą hydrauliczną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_symbol2.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 126,
+    "text": "Sygnał binarny o wartości (11100111)2 na wyjściu ośmiobitowego przetwornika A/C zainstalowanego w urządzeniu mechatronicznym odpowiada liczbie dziesiętnej",
+    "answers": [
+      "(255)10",
+      "(231)10",
+      "(230)10",
+      "(254)10"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 127,
+    "text": "Przedstawiony na rysunku przyrząd służy do pomiaru",
+    "answers": [
+      "średnicy drutu.",
+      "grubości ścianek rur.",
+      "grubości blach.",
+      "średnicy podziałowej gwintu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_przyrzad4.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 128,
+    "text": "W celu oceny stanu technicznego przycisku S1 wykonano pomiary rezystancji, których wyniki przedstawiono w tabeli. Na ich podstawie można stwierdzić, że przycisk S1 posiada zestyk",
+    "answers": [
+      "NO który jest niesprawny.",
+      "NC który jest sprawny.",
+      "NC który jest niesprawny.",
+      "NO który jest sprawny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabela16.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 129,
+    "text": "Który rodzaj obróbki ręcznej przedstawiono na rysunkach?",
+    "answers": [
+      "Piłowanie.",
+      "Przecinanie.",
+      "Struganie.",
+      "Wiercenie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_obrobka2.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 130,
+    "text": "Dobierz minimalny zestaw sterownika S7-200 do realizacji sterowania windą w budynku trzykondygnacyjnym. Wykorzystaj w tym celu opis elementów wejściowych/wyjściowych podłączonych do sterownika.",
+    "answers": [
+      "S7-200 o 24 wejściach i 16 wyjściach",
+      "S7-200 o 8 wejściach i 6 wyjściach",
+      "S7-200 o 6 wejściach i 4 wyjściach",
+      "S7-200 o 14 wejściach i 10 wyjściach"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabela15.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 131,
+    "text": "Jaka jest prawidłowa kolejność czynności wykonywanych podczas demontażu urządzenia mechatronicznego?",
+    "answers": [
+      "Odłączenie instalacji zewnętrznych, wyciągnięcie elementów ustalających, zdjęcie osłon i pokryw, wyciągnięcie elementów zabezpieczających.",
+      "Wyciągnięcie elementów zabezpieczających, odłączenie instalacji zewnętrznych, zdjęcie osłon i pokryw, wyciągnięcie elementów ustalających.",
+      "Zdjęcie osłon i pokryw, wyciągnięcie elementów zabezpieczających, odłączenie instalacji zewnętrznych, wyciągnięcie elementów ustalających.",
+      "Odłączenie instalacji zewnętrznych, zdjęcie osłon i pokryw, wyciągnięcie elementów zabezpieczających, wyciągnięcie elementów ustalających."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 132,
+    "text": "Parametrem odpowiadającym za obszar roboczy działania siłownika jest",
+    "answers": [
+      "średnica cylindra.",
+      "teoretyczna siła pchająca.",
+      "skok siłownika.",
+      "maksymalne ciśnienie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 133,
+    "text": "Które narzędzia należy zastosować podczas wymiany układu scalonego przedstawionego na rysunku?",
+    "answers": [
+      "Wkrętak i szczypce.",
+      "Lutownicę i odsysacz.",
+      "Pilnik i zaciskarkę.",
+      "Szczypce i pilnik."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_uklad10.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 134,
+    "text": "Który środek smarny należy okresowo uzupełniać w smarownicy sprężonego powietrza?",
+    "answers": [
+      "Silikon.",
+      "Towot.",
+      "Pastę.",
+      "Olej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 135,
+    "text": "Przekaźnik elektromagnetyczny użyty w układzie, którego schemat przedstawiono na rysunku, powinien posiadać cewkę o napięciu zasilania 24 V DC oraz",
+    "answers": [
+      "dwa zestyki zwierne.",
+      "jeden zestyk zwierny.",
+      "zestaw styków NC+NC.",
+      "zestaw styków NO+NC."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_schemat20.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 136,
+    "text": "Zgodnie ze schematem układu sterowania przedstawionym na rysunku, w układzie należy zastosować dwa czujniki",
+    "answers": [
+      "magnetyczne NC.",
+      "magnetyczne NO.",
+      "indukcyjne NO.",
+      "indukcyjne NC."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_schemat21.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 137,
+    "text": "Który rodzaj połączenia przedstawiono na rysunku?",
+    "answers": [
+      "Zgrzewane.",
+      "Nitowe.",
+      "Spawane.",
+      "Lutowane."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_polaczenie2.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 138,
+    "text": "Do montażu pneumatycznego zaworu rozdzielającego za pomocą wkręta przedstawionego na rysunku należy użyć wkrętaka typu",
+    "answers": [
+      "Tri-Wing",
+      "Philips",
+      "Pozidriv",
+      "Torx"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_wkret.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 139,
+    "text": "W układzie zastosowano przetworniki ciśnienia o prądowych sygnałach wyjściowych. Na podstawie danych katalogowych przetworników oraz wyników przeprowadzonych pomiarów wskaż, który z przetworników nie działa prawidłowo.",
+    "answers": [
+      "Przetwornik 3.",
+      "Przetwornik 2.",
+      "Przetwornik 1.",
+      "Przetwornik 4."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabela17.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 140,
+    "text": "Na podstawie przedstawionej tabliczki znamionowej transformatora wskaż zależność, która określa jego przekładnię napięciową.",
+    "answers": [
+      "KU=230/12",
+      "KU=80/0,83",
+      "KU=12/0,83",
+      "KU=12/230"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabliczka4.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 141,
+    "text": "Funkcją kondensatora C1 w układzie, którego schemat przedstawiono na rysunku, jest",
+    "answers": [
+      "zmniejszenie składowej stałej napięcia.",
+      "zmiana przebiegu napięcia z dwupołówkowego na jednopołówkowy.",
+      "zmniejszenie tętnień napięcia.",
+      "zmiana przebiegu napięcia z jednopołówkowego na dwupołówkowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_schemat19.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 142,
+    "text": "Jaką funkcję pełni element V2 w układzie przedstawionym na rysunku?",
+    "answers": [
+      "Zmniejsza prędkość wysuwania tłoczyska siłownika.",
+      "Zwiększa prędkość wsuwania tłoczyska siłownika.",
+      "Zmniejsza prędkość wsuwania tłoczyska siłownika.",
+      "Zwiększa prędkość wysuwania tłoczyska siłownika."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_uklad18.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 143,
+    "text": "Na rysunku przedstawiono schemat",
+    "answers": [
+      "pneumatycznego zaworu czasowego z opóźnionym włączeniem.",
+      "reduktora z manometrem.",
+      "pneumatycznego zaworu czasowego z opóźnionym wyłączeniem.",
+      "wyspy zaworowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_schemat26.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 144,
+    "text": "Na podstawie przedstawionej tabliczki znamionowej pompy hydraulicznej określ jej maksymalną wydajność.",
+    "answers": [
+      "43 m",
+      "0,75 kW",
+      "4,50 m3/h",
+      "1,20 kW"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabliczka3.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 145,
+    "text": "W celu sprawdzenia zgodności montażu czujników S2 i S3 ze schematem układu sterowania, przedstawionym na rysunku, wykonano pomiary rezystancji pomiędzy punktami wskazanymi w tabeli. Które wyniki potwierdzają poprawność wykonanego montażu?",
+    "answers": [
+      "Wynik 3.",
+      "Wynik 2.",
+      "Wynik 1.",
+      "Wynik 4."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_schemat22.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 146,
+    "text": "Na podstawie przedstawionej tabeli określ, którą spoinę należy wykonać w celu połączenia czołowego blach o grubości 2 mm.",
+    "answers": [
+      "Spoina I",
+      "Spoina V",
+      "Spoina Y",
+      "Spoina X"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabela13.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 147,
+    "text": "Transoptor stosuje się w celu",
+    "answers": [
+      "sygnalizacji transmisji.",
+      "galwanicznego połączenia obwodów.",
+      "galwanicznej izolacji obwodów.",
+      "zamiany impulsów elektrycznych na promieniowanie świetlne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 148,
+    "text": "Na rysunku przedstawiony został schemat układu pneumatycznego. Które stwierdzenie odzwierciedla sposób działania układu?",
+    "answers": [
+      "Pierwsze wysterowanie zaworu powoduje wysunięcie tłoczyska, drugie wsunięcie tłoczyska.",
+      "Pierwsze wysterowanie zaworu powoduje wysunięcie tłoczyska, drugie nie zmienia położenia tłoczyska.",
+      "Pierwsze wysterowanie zaworu nie zmienia położenia tłoczyska, drugie powoduje wysunięcie tłoczyska.",
+      "Pierwsze wysterowanie zaworu nie zmienia położenia tłoczyska, drugie wysterowanie zaworu również nie zmienia położenia tłoczyska."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_schemat23.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 149,
+    "text": "Po przykręceniu pokrywy przedstawionej na rysunku należy sprawdzić, czy istnieje luz pomiędzy pokrywą a korpusem. W tym celu należy zastosować",
+    "answers": [
+      "szczelinomierz.",
+      "klucz dynamometryczny.",
+      "klucz nastawny.",
+      "mikrometr."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_pokrywa2.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 150,
+    "text": "Który klucz zapewni właściwy moment siły przy dokręcaniu śrub podczas montażu elementu przedstawionego na rysunku?",
+    "answers": [
+      "Uniwersalny.",
+      "Oczkowy.",
+      "Nasadowy.",
+      "Dynamometryczny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_element.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 151,
+    "text": "Które oprogramowanie należy zainstalować do tworzenia wizualizacji procesu przedstawionego na rysunku?",
+    "answers": [
+      "CAM",
+      "SCADA",
+      "CAD",
+      "CAQ"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_proces2.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 152,
+    "text": "Na rysunku przedstawiono siłownik hydrauliczny",
+    "answers": [
+      "dwustronnego działania, o mocowaniu przegubowym.",
+      "dwustronnego działania, o mocowaniu gwintowym.",
+      "jednostronnego działania, o mocowaniu gwintowym.",
+      "jednostronnego działania, o mocowaniu przegubowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_silownik4.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 153,
+    "text": "Silnik synchroniczny zasilany z przemiennika częstotliwości o ustawieniach przedstawionych na rysunku, będzie pracował z prędkością obrotową",
+    "answers": [
+      "1 500 obr./min",
+      "50 obr./min",
+      "4,8 obr./min",
+      "400 obr./min"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_rysunek11.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 154,
+    "text": "Po wymianie łożysk należy przykręcić pokrywę łożyska śrubami metrycznymi M6x80. Wskaż na podstawie tabeli, jaka powinna być wartość momentu dociągającego.",
+    "answers": [
+      "8 Nm",
+      "4 Nm",
+      "15 Nm",
+      "25 Nm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabela14.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 155,
+    "text": "Lampka sygnalizacyjna H1 będzie świecić tylko, gdy",
+    "answers": [
+      "będą jednocześnie naciśnięte oba przyciski.",
+      "naciśnięty będzie wyłącznie przycisk S2.",
+      "naciśnięty będzie dokładnie jeden przycisk.",
+      "naciśnięty będzie wyłącznie przycisk S1."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_schemat29.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 156,
+    "text": "Jaką funkcję pełni element V3 w układzie przedstawionym na rysunku?",
+    "answers": [
+      "Zmniejsza prędkość wysuwania tłoczyska siłownika.",
+      "Zwiększa prędkość wysuwania tłoczyska siłownika.",
+      "Zmniejsza prędkość wsuwania tłoczyska siłownika.",
+      "Zwiększa prędkość wsuwania tłoczyska siłownika."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_uklad18.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 157,
+    "text": "Do montażu pneumatycznego zaworu rozdzielającego za pomocą wkrętu przedstawionego na rysunku należy użyć wkrętaka typu",
+    "answers": [
+      "Tri-Wing.",
+      "Torx.",
+      "Philips.",
+      "Pozidriv."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_wkret.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 158,
+    "text": "Którego z wymienionych narzędzi należy użyć do odkręcenia śruby przedstawionej na ilustracji?",
+    "answers": [
+      "Wkrętaka z końcówką krzyżową.",
+      "Klucza imbusowego.",
+      "Wkrętaka z końcówką torx.",
+      "Klucza płaskiego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_sruba2.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 159,
+    "text": "Który podzespół jest badany pod względem szczelności w układzie przedstawionym na ilustracji?",
+    "answers": [
+      "Zawór Z3.",
+      "Siłownik pneumatyczny.",
+      "Zawór Z1.",
+      "Zespół przygotowania powietrza."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_uklad12.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 160,
+    "text": "Którego narzędzia trzeba użyć, by zamocować siłownik w sposób przedstawiony na ilustracji?",
+    "answers": [
+      "Klucza imbusowego.",
+      "Wkrętaka płaskiego.",
+      "Klucza oczkowego.",
+      "Wkrętaka krzyżowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_mocowanie.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 161,
+    "text": "Wskaż stany logiczne wejść I2 i I3 sterownika w układzie przedstawionym na rysunku przy wysuniętym tłoczysku siłownika i poprawnej pracy czujników.",
+    "answers": [
+      "I2 = 0 i I3 = 0",
+      "I2 = 1 i I3 = 0",
+      "I2 = 0 i I3 = 1",
+      "I2 = 1 i I3 = 1"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_uklad14.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 162,
+    "text": "Toczenie powierzchni czołowej przedstawia ilustracja",
+    "answers": [
+      "1",
+      "4",
+      "2",
+      "3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_ilustracje.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 163,
+    "text": "Siłowniki do bramy muszą być zamocowane w pozycji poziomej. Do wykonania poprawnego zamocowania siłowników należy zastosować",
+    "answers": [
+      "przymiar liniowy.",
+      "poziomnicę.",
+      "czujnik zegarowy.",
+      "kątomierz."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 164,
+    "text": "Ile oleju, zgodnie z przedstawionymi w tabeli wskazaniami producenta, należy przygotować do całkowitej wymiany zużytego oleju w pompie IF1 400?",
+    "answers": [
+      "0,40 l",
+      "1,70 l",
+      "0,90 l",
+      "1,82 l"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabela22.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 165,
+    "text": "Którą metodę sprawdzania instalacji elektrycznej urządzeń mechatronicznych przedstawiono na rysunku?",
+    "answers": [
+      "Stroboskopową.",
+      "Termowizyjną.",
+      "Ultradźwiękową.",
+      "Oscyloskopową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_metoda.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 166,
+    "text": "Przy jakiej temperaturze nastąpi wyłączenie grzałki w układzie dwustanowej regulacji temperatury, jeśli wartość zadana To wynosi 100°C, a szerokość pętli histerezy H = 5°C?",
+    "answers": [
+      "95,0°C",
+      "105,0°C",
+      "102,5°C",
+      "97,5°C"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_uklad15.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 167,
+    "text": "Który z podanych czujników nie nadaje się do detekcji położenia stanowiska napełniania butelek przedstawionego na ilustracji?",
+    "answers": [
+      "Pojemnościowy.",
+      "Optyczny.",
+      "Magnetyczny.",
+      "Indukcyjny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_stanowisko.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 168,
+    "text": "Którego z wymienionych przyrządów pomiarowych należy użyć do wykonania pomiaru szerokości bardzo głębokiego otworu nieprzelotowego blisko dna w sposób przedstawiony na ilustracji?",
+    "answers": [
+      "Średnicówki czujnikowej.",
+      "Wysokościomierza.",
+      "Głębokościomierza.",
+      "Mikrometru wewnętrznego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_pomiar2.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 169,
+    "text": "Na której ilustracji przedstawiono zawór odcinający?",
+    "answers": [
+      "Na ilustracji 3.",
+      "Na ilustracji 1.",
+      "Na ilustracji 4.",
+      "Na ilustracji 2."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_zawory.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 170,
+    "text": "Którą z wymienionych czynności należy cyklicznie wykonywać podczas konserwacji układu pneumatycznego?",
+    "answers": [
+      "Wymieniać szybkozłączki.",
+      "Regulować ciśnienie powietrza.",
+      "Wymieniać przewody pneumatyczne.",
+      "Usuwać kondensat."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 171,
+    "text": "Którą z czynności należy wykonać jako pierwszą podczas instalowania oprogramowania przeznaczonego do programowania sterowników PLC?",
+    "answers": [
+      "Sprawdzić minimalne wymagania, jakie powinien posiadać komputer, na którym oprogramowanie będzie instalowane.",
+      "Uaktualnić system operacyjny komputera, na którym instalowane będzie oprogramowanie.",
+      "Odinstalować starszą wersję oprogramowania, które ma być zainstalowane.",
+      "Skopiować z nośnika instalacyjnego wersję instalacyjną oprogramowania na dysk twardy komputera."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 172,
+    "text": "Na której ilustracji przedstawiono prawidłowe zaciśnięcie końcówki przewodu w obszarze z izolacją?",
+    "answers": [
+      "Na ilustracji 2.",
+      "Na ilustracji 3.",
+      "Na ilustracji 1.",
+      "Na ilustracji 4."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_przewod.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 173,
+    "text": "Który miernik należy zastosować w układzie, którego schemat przedstawiono na ilustracji, w celu pomiaru napięcia metodą bezpośrednią?",
+    "answers": [
+      "Amperomierz.",
+      "Watomierz.",
+      "Woltomierz.",
+      "Omomierz."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_uklad16.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 174,
+    "text": "Której z wymienionych technik nie stosuje się do trwałego łączenia elementów wykonanych z tworzyw sztucznych? * zdający otrzymuje jeden punkt niezależnie od udzielonej odpowiedzi.",
+    "answers": [
+      "Klejenia.  \nB.  Spawania.  \nC.  Zaginania.   \nD.  Zgrzewania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 175,
+    "text": "W jaki sposób należy wykonać połączenie wciskowe skurczowe piasty z wałkiem?",
+    "answers": [
+      "Obniżyć temperaturę wałka i po połączeniu wyrównać temperaturę obu elementów.",
+      "Po podniesieniu temperatury obu elementów połączyć je, używając siły.",
+      "Po obniżeniu temperatury obu elementów połączyć je, używając siły.",
+      "Nasunąć siłą jeden element na drugi w temperaturze otoczenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 176,
+    "text": "Na podstawie danych katalogowych napędu bramy garażowej wskaż zasilacz, którego należy użyć do zasilania akcesoriów tego napędu.",
+    "answers": [
+      "Zasilacza 2.",
+      "Zasilacza 1.",
+      "Zasilacza 3.",
+      "Zasilacza 4."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabele.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 177,
+    "text": "Na podstawie przedstawionych parametrów technicznych przetwornika ciśnienia wskaż przedział wartości napięcia zasilania elektrycznego, pozwalający na prawidłową pracę przetwornika trójprzewodowego dla napięciowego sygnału wyjściowego 0 ÷ 10 V DC.",
+    "answers": [
+      "5 V DC ÷ 30 V DC",
+      "10 V DC ÷ 14 V DC",
+      "10 V DC ÷ 30 V DC",
+      "14 V DC ÷ 30 V DC"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabele2.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 178,
+    "text": "Maksymalne natężenie przepływu dla pompy hydraulicznej, której dane katalogowe zamieszczono w ramce, wynosi",
+    "answers": [
+      "120 dm3/min",
+      "80 dm3/min",
+      "40 dm3/min",
+      "200 dm3/min"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabela20.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 179,
+    "text": "Cyfrą 3 na ilustracji oznaczono",
+    "answers": [
+      "toczysko.",
+      "korpus.",
+      "uszczelkę.",
+      "tłok."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_silownik5.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 180,
+    "text": "Określ, na podstawie schematu elektropneumatycznego, jak zachowa się układ po zadziałaniu czujnika 1B2.",
+    "answers": [
+      "Tłoczysko siłownika 1A1 zostanie natychmiast wysunięte.",
+      "Tłoczysko siłownika 1A1 zostanie natychmiast wsunięte.",
+      "Zostanie włączone działanie przekaźnika KT3.",
+      "Zostanie wyłączone działanie przekaźnika KT3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_schemat24.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 181,
+    "text": "Jaką wartość ciśnienia wskazuje miernik przedstawiony na ilustracji?",
+    "answers": [
+      "570 barów",
+      "850 barów",
+      "12 300 barów",
+      "8 500 barów"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_miernik.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 182,
+    "text": "W układzie elektropneumatycznym przedstawionym na ilustracji należy zamontować zawór rozdzielający w wersji",
+    "answers": [
+      "W1",
+      "W2",
+      "W3",
+      "W4"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_uklad11.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 183,
+    "text": "Na podstawie przedstawionej tabliczki znamionowej przemiennika częstotliwości określ jego maksymalną częstotliwość wyjściową.",
+    "answers": [
+      "0 Hz",
+      "50 Hz",
+      "650 Hz",
+      "60 Hz"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabliczka5.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 184,
+    "text": "Ilustracja przedstawia budowę i działanie zaworu",
+    "answers": [
+      "zwrotnego.",
+      "dławiąco-zwrotnego.",
+      "odcinającego.",
+      "szybkiego spustu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_zawor.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 185,
+    "text": "Jakie powinny być nastawy przełącznika przemiennika częstotliwości, by można było sterować jego pracą za pomocą sygnału 0÷20 mA?",
+    "answers": [
+      "1-OFF, 2-OFF, 3-OFF, 4-OFF",
+      "1-OFF, 2-ON, 3-OFF, 4-OFF",
+      "1-ON, 2-OFF, 3-OFF, 4-OFF",
+      "1-ON, 2-ON, 3-ON, 4-ON"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabela21.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 186,
+    "text": "Do podłączenia przewodów do uzwojeń silnika przedstawionego na ilustracji należy użyć",
+    "answers": [
+      "klucza nasadowego.",
+      "wkrętaka krzyżowego.",
+      "wkrętaka płaskiego.",
+      "klucza imbusowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_silnik.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 187,
+    "text": "Do których zacisków zestyku przełącznego przekaźnika należy podłączyć +24 V DC oraz lampki H1 i H2, aby połączenia były zgodne ze schematem przedstawionym na ilustracji?",
+    "answers": [
+      "+24V DC do 11, H1 do 14, H2 do 12.",
+      "+24V DC do 14, H1 do 12, H2 do 11.",
+      "+24V DC do 11, H1 do 12, H2 do 14.",
+      "+24V DC do 12, H1 do 11, H2 do 14."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_schemat25.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 188,
+    "text": "Określ prawidłową kolejność montażu elementów składowych w zespole przygotowania sprężonego powietrza patrząc od strony zmontowanego układu pneumatycznego.",
+    "answers": [
+      "Manometr, reduktor, smarownica, filtr powietrza.",
+      "Smarownica, manometr, reduktor, filtr powietrza.",
+      "Filtr powietrza, manometr, reduktor, smarownica.",
+      "Reduktor, manometr, filtr powietrza, smarownica."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 189,
+    "text": "Na podstawie wyników pomiarów rezystancji zestyków przycisków S1 i S2 przedstawionych w tabeli można wnioskować, że",
+    "answers": [
+      "przycisk S1 jest uszkodzony, przycisk S2 jest sprawny.",
+      "przycisk S1 jest sprawny, przycisk S2 jest uszkodzony.",
+      "oba przyciski są sprawne.",
+      "oba przyciski są uszkodzone."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabela19.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 190,
+    "text": "Czas wykonania skoku siłownika elektrycznego jest mierzony za pomocą",
+    "answers": [
+      "czujnika zegarowego.",
+      "mikrometru.",
+      "miliwoltomierza.",
+      "stopera."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 191,
+    "text": "Na podstawie fragmentu instrukcji określ możliwe napięcie zasilające przetwornik ultradźwiękowy zastosowany w urządzeniu pracującym w strefie zagrożonej wybuchem.",
+    "answers": [
+      "Napięcie przemienne 30 V.",
+      "Napięcie stałe 40 V.",
+      "Napięcie przemienne 12 V.",
+      "Napięcie stałe 30 V."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_instrukcja3.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 192,
+    "text": "Na podstawie ilustracji z instrukcji obsługi rotametru wskaż sposób jego montażu.",
+    "answers": [
+      "Rotametr należy montować w pozycji pionowej z przepływem czynnika z góry do dołu.",
+      "Rotametr należy montować w pozycji poziomej z przepływem czynnika z lewej do prawej.",
+      "Rotametr należy montować w pozycji pionowej z przepływem czynnika z dołu do góry.",
+      "Rotametr należy montować w pozycji poziomej z przepływem czynnika z prawej do lewej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_instrukcja.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 193,
+    "text": "W układzie przedstawionym na ilustracji wykonano pomiary rezystancji pomiędzy punktem zasilania +24 V a kolejnymi punktami wejściowymi sterownika PLC. Otrzymane wyniki zapisano w tabeli. Które elementy (łączniki sterownicze, kontaktrony) powinny zostać wymienione?",
+    "answers": [
+      "B2 i B4",
+      "S0 i B2",
+      "B3 i B5",
+      "S0 i S1"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_uklad17.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 194,
+    "text": "Która kombinacja stanów logicznych wejść I2 i I3 sterownika w przedstawionym układzie wskazuje na poprawny montaż czujników?",
+    "answers": [
+      "Zestaw 2.",
+      "Zestaw 1.",
+      "Zestaw 3.",
+      "Zestaw 4."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_uklad13.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 195,
+    "text": "Na którym rysunku przedstawiono symbol zaworu trójdrogowego dwupołożeniowego 3/2 normalnie otwartego.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_symbole.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 196,
+    "text": "Który symbol oznacza czujnik ultradźwiękowy?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_symbole2.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 197,
+    "text": "Na którym rysunku przedstawiono mocowanie kołnierzowe siłowników pneumatycznych?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_rysunki3.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 198,
+    "text": "Na podstawie zamieszczonych danych technicznych wybierz model zasilacza do układu elektropneumatycznego, w którym cewki elektrozaworów przystosowane są do zasilania napięciem stałym o wartości 24 V.",
+    "answers": [
+      "MDR-40-5",
+      "MDR-40-24",
+      "MDR-40-48",
+      "MDR-40-12"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabela10.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 199,
+    "text": "Przed ponownym sprzęgnięciem silnika elektrycznego z maszyną napędzaną należy przeprowadzić",
+    "answers": [
+      "pomiar napięcia zasilania.",
+      "kontrolę kierunku obrotów wirnika.",
+      "pomiar prędkości wirnika.",
+      "kontrolę temperatury stojana."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 200,
+    "text": "Zespół przygotowania powietrza zawiera następujące elementy",
+    "answers": [
+      "sprężarkę, filtr, manometr, smarownicę.",
+      "filtr, zawór dławiący, manometr, smarownicę.",
+      "sprężarkę filtr, zawór redukcyjny, manometr.",
+      "filtr, zawór redukcyjny, manometr, smarownicę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 201,
+    "text": "Którego z kluczy należy użyć do wykonania połączenia gwintowego śruby z gniazdem sześciokątnym?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_klucze.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 202,
+    "text": "Montaż zgodnie z zasadą całkowitej zamienności polega na",
+    "answers": [
+      "montażu części składowych wykonanych bardzo dokładnie, czyli o bardzo wąskich tolerancjach wymiarów.",
+      "podziale obrobionych części stanowiących zespół według ich rzeczywistych wymiarów.",
+      "tym, że wymaganą dokładność wymiaru montażowego uzyskuje się przez dopasowanie jednej z części składowych poprzez obróbkę jej powierzchni w czasie montażu.",
+      "tym, że pewien procent części składowych ma większe tolerancje wymiarowe, co obniża koszt wykonania części."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 203,
+    "text": "Do zagniatania tulejek kablowych należy użyć narzędzia przedstawionego na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_narzedzia8.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 204,
+    "text": "Na rysunku przedstawiono m.in.",
+    "answers": [
+      "wałek pociągowy.",
+      "uchwyt tokarski.",
+      "suport poprzeczny.",
+      "imadło."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_rysunek10.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 205,
+    "text": "W celu utrzymania określonego poziomu ciśnienia w układach hydraulicznych stosuje się zawory",
+    "answers": [
+      "rozdzielające.",
+      "odcinające.",
+      "redukcyjne.",
+      "dławiące."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 206,
+    "text": "Zadziałanie cewki przekaźnika K1 określone jest przez funkcję",
+    "answers": [
+      "alternatywy wykluczającej stanów przycisków S1 i S2.",
+      "koniunkcji stanów przycisków S1 i S2.",
+      "alternatywy stanów przycisków S1 i S2.",
+      "negacji koniunkcji stanów przycisków S1 i S2."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_schemat12.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 207,
+    "text": "Elementem zaworu, oznaczonym na rysunku znakiem X jest",
+    "answers": [
+      "przyłącze przetwornika ciśnienia.",
+      "przyłącze wspomagania pneumatycznego.",
+      "czujnik położenia suwaka.",
+      "elektromagnes z przyłączem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_zawor6.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 208,
+    "text": "Do połączeń spoczynkowych nierozłącznych nie zalicza się",
+    "answers": [
+      "spawania.",
+      "klejenia.",
+      "kołkowania.",
+      "nitowania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 209,
+    "text": "Którymi cyframi oznaczono moduły wejść i wyjść dyskretnych sterownika PLC?",
+    "answers": [
+      "Wejścia cyfrowe – 1, wyjścia cyfrowe – 3.",
+      "Wejścia cyfrowe – 2, wyjścia cyfrowe – 1.",
+      "Wejścia cyfrowe – 4, wyjścia cyfrowe – 2.",
+      "Wejścia cyfrowe – 3, wyjścia cyfrowe – 4."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_sterownik.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 210,
+    "text": "Pomiaru siły nacisku tłoka siłownika hydraulicznego można dokonać za pomocą",
+    "answers": [
+      "pirometru.",
+      "termistora.",
+      "tensometru.",
+      "hallotronu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 211,
+    "text": "Stal niskostopowa zawierająca dodatki krzemu, manganu, chromu i wanadu, charakteryzująca się podwyższoną zawartością krzemu, jest wykorzystywana do wytwarzania",
+    "answers": [
+      "narzędzi do obróbki skrawaniem.",
+      "resorów, sprężyn i drążków skrętnych.",
+      "śrub, nakrętek, podkładek.",
+      "łożysk tocznych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 212,
+    "text": "Na rysunku przedstawiono pneumatyczną prasę do wtłaczania tulejek. Cyfrą 2 oznaczono",
+    "answers": [
+      "dźwignię.",
+      "siłownik.",
+      "trzpień.",
+      "wspornik."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_prasa.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 213,
+    "text": "Na rysunku przedstawiono pneumatyczne elementy",
+    "answers": [
+      "wejściowe.",
+      "wykonawcze.",
+      "sterujące.",
+      "wytwarzające."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_elementy4.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 214,
+    "text": "Czynności konserwacyjne zawsze muszą być poprzedzone",
+    "answers": [
+      "odłączeniem urządzenia od źródła zasilania.",
+      "uziemieniem urządzenia.",
+      "sprawdzeniem stanu izolacji.",
+      "zdemontowaniem obudowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 215,
+    "text": "W celu demontażu zamontowanego na szynie stycznika należy wykonać czynności w następującej kolejności:",
+    "answers": [
+      "odłączyć napięcie, zwolnić zatrzask i zdjąć stycznik z szyny, odkręcić przewody.",
+      "odkręcić przewody, zwolnić zatrzask i zdjąć stycznik z szyny, odłączyć napięcie.",
+      "odłączyć napięcie, odkręcić przewody, zwolnić zatrzask i zdjąć stycznik z szyny.",
+      "zwolnić zatrzask i zdjąć stycznik z szyny, odłączyć napięcie, odkręcić przewody."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 216,
+    "text": "Sprężarka przepracowała w ciągu 3 miesięcy 500 godzin od początku jej zainstalowania w systemie. Na podstawie tabeli czynności konserwacyjnych wskaż rodzaj pracy konserwacyjnej, którą należy wykonać, aby utrzymać właściwą sprawność urządzenia.",
+    "answers": [
+      "Wymiana filtra oleju.",
+      "Czyszczenie filtra oleju.",
+      "Sprawdzenie pasa transmisyjnego.",
+      "Wymiana całego oleju."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabela12.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 217,
+    "text": "Do pomiaru siły nacisku wytwarzanej przez prasę pneumatyczną można wykorzystać m.in.",
+    "answers": [
+      "tensometr.",
+      "szczelinomierz.",
+      "pirometr.",
+      "hallotron."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 218,
+    "text": "Określ prawidłową kolejność dokręcania śrub lub nakrętek części podzespołu, przedstawionego na rysunku.",
+    "answers": [
+      "2, 5, 3, 6, 4, 1",
+      "6, 2, 4, 3, 5, 1",
+      "1, 6, 2, 3, 4, 5",
+      "5, 1, 3, 4, 6, 2"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_czesc.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 219,
+    "text": "Pulse Width Modulation (PWM) w układach sterowania oznacza sterowanie za pomocą zmiany",
+    "answers": [
+      "częstotliwości sygnału.",
+      "fazy sygnału.",
+      "amplitudy impulsu.",
+      "szerokości impulsu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 220,
+    "text": "Narzędzie przedstawione na rysunku służy do",
+    "answers": [
+      "odsysania spoiwa.",
+      "nitowania.",
+      "dozowania oleju.",
+      "przedmuchiwania sprężonym powietrzem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_narzedzie4.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 221,
+    "text": "W celu sprawdzenia ciągłości wykonanych połączeń elektrycznych pomiędzy poszczególnymi elementami układu należy użyć",
+    "answers": [
+      "omomierza.",
+      "wskaźnika napięcia.",
+      "amperomierza.",
+      "woltomierza."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 222,
+    "text": "Którymi cyframi oznaczono na rysunku siłownika pneumatycznego beztloczyskowego wózek oraz system amortyzacji?",
+    "answers": [
+      "wózek – 5, system amortyzacji – 11",
+      "wózek – 5, system amortyzacji – 7",
+      "wózek – 6, system amortyzacji – 7",
+      "wózek – 6, system amortyzacji – 11"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_silownik3.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 223,
+    "text": "Regulacji prędkości obrotowej silników indukcyjnych nie można dokonać przez zmianę",
+    "answers": [
+      "wartości częstotliwości napięcia zasilającego.",
+      "wartości skutecznej napięcia zasilania stojana.",
+      "liczby par biegunów.",
+      "kolejności faz."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 224,
+    "text": "Przekaźnik czasowy z nastawą dwóch czasów realizuje funkcję A ustawioną potencjometrem konfiguracyjnym FUNC, której odpowiada diagram pracy przedstawiony na rysunku. Oznacza to realizację przez przekaźnik funkcji",
+    "answers": [
+      "opóźnionego załączenia.",
+      "opóźnionego załączania cyklicznego.",
+      "opóźnionego wyłączenia.",
+      "opóźnionego wyłączania cyklicznego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_przekaznik.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 225,
+    "text": "Przedstawione na rysunkach elementy wykorzystuje się do łączenia przewodów",
+    "answers": [
+      "koncentrycznych.",
+      "wieloparowych.",
+      "uziemiających.",
+      "światłowodowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_elementy5.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 226,
+    "text": "W systemie mechatronicznym zmontowano układ napędowy według przedstawionego schematu a następnie wykonano pomiary sprawdzające. Który z podanych wyników pomiaru świadczy o wadliwym wykonaniu połączenia?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_schemat14.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 227,
+    "text": "W celu wizualizacji działania systemu mechatronicznego na panelu HMI konieczne jest zainstalowanie oprogramowania typu",
+    "answers": [
+      "SCADA",
+      "CAM",
+      "CAD",
+      "CAE"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 228,
+    "text": "Którą końcówkę bitową powinien mieć wkrętak do odkręcenia śrub w mechanizmie przedstawionym na rysunku?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_mechanizm.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 229,
+    "text": "Skuteczna diagnostyka instalacji sprężonego powietrza prowadzona w celu oceny strat przesyłu polega na ciągłym monitoringu",
+    "answers": [
+      "wydajności sprężarki i stężenia oleju w powietrzu.",
+      "ciśnienia początkowego i punktu rosy.",
+      "natężenia przepływu i ciśnienia w instalacji.",
+      "natężenia przepływu i stężenia oleju w powietrzu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 230,
+    "text": "Na rysunkach przedstawiono",
+    "answers": [
+      "wyznaczanie punktu punktakiem.",
+      "rozwiercanie otworu rozwiertakiem.",
+      "przebijanie otworu przebijakiem.",
+      "nacinanie gwintu gwintownikiem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_rysunki2.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 231,
+    "text": "Cyfrą 1 na przedstawionym rysunku oznaczono",
+    "answers": [
+      "tłok z uszczelnieniami.",
+      "pokrywę siłownika.",
+      "tłoczysko siłownika.",
+      "cylinder siłownika."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_rysunek9.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 232,
+    "text": "W celu wykonania najdokładniejszego pomiaru średnicy wewnętrznej tulei należy użyć",
+    "answers": [
+      "suwmiarki uniwersalnej z noniuszem.",
+      "mikrometru kabłąkowego.",
+      "czujnika zegarowego.",
+      "średnicówki mikrometrycznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 233,
+    "text": "Która kolejność czynności wykonanych podczas wymiany filtra oleju w sprężarce jest prawidłowa?",
+    "answers": [
+      "1, 3, 2, 5, 4",
+      "3, 2, 5, 1, 4",
+      "1, 3, 2, 4, 5",
+      "3, 1, 5, 2, 4"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabela5.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 234,
+    "text": "Którego narzędzia należy użyć do wykręcenia śruby przedstawionej na rysunku?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_sruba.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 235,
+    "text": "Sygnały binarne z termometrów doprowadzone są do wejścia układu logicznego, sygnał wyjściowy Y układu steruje stycznikiem załączającym silnik. Ze schematu blokowego układu wentylacji i tabeli działania układu logicznego wynika, że wentylator pracuje",
+    "answers": [
+      "gdy temperatura w co najmniej jednym pomieszczeniu wzrośnie powyżej ustalonej.",
+      "cały czas ale z prędkością zależną od temperatury w trzech pomieszczeniach.",
+      "gdy temperatura w co najmniej dwóch pomieszczeniach wzrośnie powyżej ustalonej.",
+      "tylko gdy temperatura we wszystkich pomieszczeniach wzrośnie powyżej ustalonej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_schemat10.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 236,
+    "text": "Którą podkładkę należy zastosować w celu zabezpieczenia śruby przed samoczynnym odkręceniem?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_podkladki.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 237,
+    "text": "Które urządzenie cechuje: wydajność 12 ÷ 108 l/min, ciśnienie pracy do 400 bar, maksymalna prędkość obrotowa 2400 obr/min?",
+    "answers": [
+      "Siłownik pneumatyczny.",
+      "Zawór hydrauliczny.",
+      "Pompę hydrauliczną.",
+      "Silnik elektryczny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 238,
+    "text": "Do smarowania układów pneumatycznych są stosowane oleje o specjalnych właściwościach, sklasyfikowane wg normy ISO 6743/11. W pneumatycznych urządzeniach rotacyjnych do specjalnych zastosowań należy wykorzystać środek o symbolu",
+    "answers": [
+      "PAE",
+      "PBD",
+      "PPA",
+      "PBA"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabela8.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 239,
+    "text": "Którą cyfrą oznaczono membranę na rysunku zaworu redukcyjnego o konstrukcji sprężynowej?",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_zawor4.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 240,
+    "text": "Który rodzaj obróbki ręcznej przedstawiono na rysunku?",
+    "answers": [
+      "Piłowanie.",
+      "Ścinanie.",
+      "Wiercenie.",
+      "Przecinanie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_obrobka.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 241,
+    "text": "W celu montażu przez zaciskanie końcówek tulejkowych na przewodach elektrycznych należy użyć narzędzia",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_narzedzia6.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 242,
+    "text": "Dobierz właściwy przyrząd pomiarowy do pomiaru ciśnienia roboczego o wartości 1,5 MPa w układzie hydraulicznym.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_przyrzady.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 243,
+    "text": "Na rysunku przedstawiono proces",
+    "answers": [
+      "toczenia.",
+      "wiercenia.",
+      "frezowania współbieżnego.",
+      "frezowania przeciwbieżnego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_proces.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 244,
+    "text": "Który stan silnika sygnalizuje świecenie lampki kontrolnej H1?",
+    "answers": [
+      "Pracę przy podłączeniu uzwojeń stojana w trójkąt.",
+      "Wyłączenie silnika wynikające z przeciążenia.",
+      "Pracę przy podłączeniu uzwojeń stojana w gwiazdę.",
+      "Podłączenie napięcia do obwodu sterowania silnika."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_schemat9.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 245,
+    "text": "Które narzędzie jest przeznaczone do montażu i demontażu pierścieni zabezpieczających Segera?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_narzedzia7.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 246,
+    "text": "Przedstawione na rysunkach elementy narzędzia służą do",
+    "answers": [
+      "nacinania gwintów zewnętrznych.",
+      "frezowania.",
+      "nacinania gwintów wewnętrznych.",
+      "wiercenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_elementy2.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 247,
+    "text": "Parametr S1 zapisany na tabliczce znamionowej oznacza, że silnik dostosowany jest do pracy",
+    "answers": [
+      "cyklicznej.",
+      "ciągłej.",
+      "przerywanej.",
+      "dorywczej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabliczka2.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 248,
+    "text": "Na podstawie schematu można wywnioskować, że sterownik posiada",
+    "answers": [
+      "4 wyjścia analogowe, do których można podłączyć urządzenia zasilane napięciem stałym i przemiennym.",
+      "4 wyjścia analogowe, do których można podłączyć urządzenia zasilane tylko napięciem stałym.",
+      "4 wyjścia binarne, do których można podłączyć urządzenia zasilane tylko napięciem stałym.",
+      "4 wyjścia binarne, do których można podłączyć urządzenia zasilane napięciem stałym i przemiennym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_schemat11.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 249,
+    "text": "Która kolejność operacji montażu mechanicznego przedstawionych w tabeli jest właściwa?",
+    "answers": [
+      "1, 2, 4, 3",
+      "1, 4, 3, 2",
+      "4, 3, 2, 1",
+      "4, 3, 1, 2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabela9.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 250,
+    "text": "Na rysunku przedstawiono zawór",
+    "answers": [
+      "kulowy.",
+      "zwrotny.",
+      "dławiąco-zwrotny.",
+      "dławiący."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_zawor3.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 251,
+    "text": "Parametry: napięcie nominalne, pojemność nominalna, współczynnik temperaturowy pojemności, dotyczą",
+    "answers": [
+      "tranzystora unipolarnego.",
+      "cewki.",
+      "rezystora.",
+      "kondensatora."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 252,
+    "text": "Przed zamontowaniem stycznika w obwodzie siłowym wykonano pomiary rezystancji, a wyniki zanotowano w tabeli. Który z wniosków oceny działania jest prawdziwy?",
+    "answers": [
+      "Poprawnie działają zespoły zestyków NO i NC",
+      "Żadna z grup zestyków nie działa poprawnie",
+      "Poprawnie działają tylko zespoły zestyków NC",
+      "Poprawnie działają tylko zespoły zestyków NO"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabela7.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 253,
+    "text": "Przedstawiony na rysunku przyrząd jest przeznaczony do pomiaru",
+    "answers": [
+      "ciśnienia.",
+      "prędkości obrotowej.",
+      "lepkości cieczy.",
+      "przepływu powietrza."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_przyrzad2.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 254,
+    "text": "Którą z technik łączenia materiałów najlepiej zastosować w celu połączenia elementu mosiężnego z elementem miedzianym, aby wytrzymałość mechaniczna połączenia była największa?",
+    "answers": [
+      "Lutowanie miękkie.",
+      "Klejenie.",
+      "Zgrzewanie.",
+      "Lutowanie twarde."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 255,
+    "text": "Rozpoczęcie wsuwania tłoczyska siłownika 1A1 w układzie którego schemat przedstawiono na rysunku nastąpi z chwilą przesterowania pneumatycznego",
+    "answers": [
+      "łącznika krańcowego 1S2 z pozycji „0” do „a”",
+      "zaworu 1S1 z pozycji „0” do „a”",
+      "łącznika krańcowego 1S2 z pozycji „a” do „0”",
+      "zaworu 1S1 z pozycji „a” do „0”"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_schemat8.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 256,
+    "text": "Narzędzie przedstawione na rysunku jest przeznaczone do",
+    "answers": [
+      "nitowania.",
+      "zgrzewania.",
+      "zszywania.",
+      "klejenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_narzedzie2.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 257,
+    "text": "Transoptor jest stosowany w celu",
+    "answers": [
+      "separacji galwanicznej obwodów elektrycznych.",
+      "zabezpieczenia odbiorników przed skutkami zwarć i przeciążeń.",
+      "przeniesienia energii elektrycznej prądu przemiennego drogą indukcji.",
+      "wzmocnienia sygnału elektrycznego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 258,
+    "text": "Oznaczenie cewki 3.3 µH/150 mA oznacza, że maksymalna wartość skuteczna prądu który może przez nią przepływać wynosi",
+    "answers": [
+      "1,5 A",
+      "0,15 A",
+      "0,015 A",
+      "1,0 A"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 259,
+    "text": "Która stal wykorzystywana jest do wytwarzania elementów konstrukcyjnych urządzenia mechatronicznego odpornych na działanie czynników atmosferycznych?",
+    "answers": [
+      "Nierdzewna.",
+      "Szybkotnąca.",
+      "Konstrukcyjna.",
+      "Odlewnicza."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 260,
+    "text": "Oceń rodzaj przedstawionych na rysunku uszkodzeń przekładni zębatych.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_uszkodzenia.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 261,
+    "text": "Wartość napięcia wyjściowego stabilizatora LM78L12 wynosi",
+    "answers": [
+      "12 V",
+      "1,2 V",
+      "0,78 V",
+      "7,8 V"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 262,
+    "text": "Układ sterowania siłownika zacisku wymaga zasilenia",
+    "answers": [
+      "tylko olejem hydraulicznym.",
+      "sprężonym powietrzem i napięciem elektrycznym.",
+      "tylko sprężonym powietrzem.",
+      "olejem hydraulicznym i napięciem elektrycznym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_uklad8.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 263,
+    "text": "Podczas pracy systemu mechatronicznego konieczne jest sprawdzanie natężenia prądu płynącego w pojedynczym przewodzie zasilającym, bez konieczności demontażu. Wykorzystywany w tym celu przyrząd pomiarowy to",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_przyrzady2.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 264,
+    "text": "Które czynności należy kolejno wykonać podczas montażu instalacji sprężonego powietrza z gotowych elementów przedstawionych na rysunkach?",
+    "answers": [
+      "1, 3, 4",
+      "3, 2, 1",
+      "1, 5, 4",
+      "5, 4, 1"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_elementy3.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 265,
+    "text": "Do pomiaru prędkości obrotowej metodą kontaktową służy",
+    "answers": [
+      "prądnica tachometryczna.",
+      "czujnik indukcyjny.",
+      "lampa stroboskopowa.",
+      "czujnik pojemnościowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.03"
+  },
+  {
+    "id": 266,
+    "text": "Na podstawie pomiarów zamieszczonych w tabeli oceń stan techniczny zestyków łącznika krańcowego.",
+    "answers": [
+      "Obydwa zestyki łącznika krańcowego działają prawidłowo.",
+      "Obydwa zestyki łącznika krańcowego działają nieprawidłowo.",
+      "Zestyk NO łącznika krańcowego działa prawidłowo.",
+      "Zestyk NO łącznika krańcowego działa nieprawidłowo."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_tabela6.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 267,
+    "text": "Zgodnie ze schematem układu sterowania przedstawionym na rysunku, w układzie należy zastosować dwa czujniki magnetyczne",
+    "answers": [
+      "PNP NO",
+      "PNP NC",
+      "NPN NC",
+      "NPN NO"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee2_schemat21.png"
+    },
+    "category": "ELM.03"
+  },
+  {
+    "id": 268,
+    "text": "Do pomiaru temperatury cieczy służy",
+    "answers": [
+      "termoelement.",
+      "przekaźnik termiczny.",
+      "regulator temperatury z wyświetlaczem cyfrowym.",
+      "termostat."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.03"
+  }
+]
