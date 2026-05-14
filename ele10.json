@@ -1,0 +1,3922 @@
+[
+  {
+    "id": 1,
+    "text": "Na podstawie tabeli dołączonej do instrukcji dobierz średnicę rury, jeżeli w słonecznej instalacji grzewczej przewidziano montaż 16 kolektorów.",
+    "answers": [
+      "18 x 1,0",
+      "28 x 1,0",
+      "35 x 1,5",
+      "28 x 1,5"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_tabela4.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 2,
+    "text": "W celu oceny kosztów wykonania instalacji fotowoltaicznej na etapie planowania, właściciel domu otrzyma kosztorys",
+    "answers": [
+      "końcowy.",
+      "ofertowy.",
+      "powykonawczy.",
+      "inwestorski."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 3,
+    "text": "Pokazane na zdjęciu urządzenie należy użyć do",
+    "answers": [
+      "wykonania kołnierza na rurze karbowanej.",
+      "cięcia rury karbowanej.",
+      "gięcia rury karbowanej.",
+      "kalibrowania rury karbowanej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_urzadzenie.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 4,
+    "text": "Przegląd techniczny kotła na biomasę powinien być dokonywany",
+    "answers": [
+      "raz na dwa lata.",
+      "raz w roku, najlepiej przed sezonem grzewczym.",
+      "co najmniej dwa razy w roku.",
+      "raz w roku, najlepiej po sezonie grzewczym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 5,
+    "text": "Który z elementów autonomicznej instalacji fotowoltaicznej jest nieprawidłowo zamontowany?",
+    "answers": [
+      "Panel fotowoltaiczny.",
+      "Inwerter.",
+      "Odbiornik.",
+      "Akumulator."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_instalacja2.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 6,
+    "text": "Podczas eksploatacji słonecznego systemu grzewczego zauważono, że pompa solarna włącza się regularnie w godzinach nocnych. Przyczyną tego stanu może być",
+    "answers": [
+      "niski poziom płynu solarnego.",
+      "uszkodzona pompa solarna.",
+      "ustawiony tryb urlop na sterowniku solarnym.",
+      "za mała histereza ustawiona na regulatorze."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 7,
+    "text": "Montaż paneli fotowoltaicznych na dachu płaskim został wykonany przez instalatora i dwóch pomocników. Stawka instalatora wynosi 48,00 zł a stawka pomocnika 25,00 zł za roboczogodzinę. Ile wynosi kosztorysowa wartość robocizny, jeżeli nakład robocizny wynosi 5 godzin?",
+    "answers": [
+      "98,00 zł",
+      "605,00 zł",
+      "365,00 zł",
+      "490,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 8,
+    "text": "Do połączenia paneli fotowoltaicznych o mocy 135 W z regulatorem ładowania należy użyć przewodu elektrycznego",
+    "answers": [
+      "DYt 2x4 mm2",
+      "LgY 4 mm2",
+      "OMY 3x1,5 mm2",
+      "YAKY 3x4 mm2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 9,
+    "text": "Do podłączenia wylotu zimnego powietrza z parownika monoblokowej pompy ciepła powietrze-woda o współczynniku COP = 3,5 podgrzewającej wodę z mocą 7 kW należy użyć",
+    "answers": [
+      "rury PVC o średnicy 20 mm",
+      "rury miedzianej o średnicy 25 mm",
+      "rury PVC o średnicy 125 mm",
+      "rury stalowej o średnicy 125 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 10,
+    "text": "Do połączenia instalacji basenowej z basenowym wymiennikiem ciepła przewidziano rury PEX. Do łączenia rur należy zastosować",
+    "answers": [
+      "zgrzewanie.",
+      "klejenie.",
+      "lutowanie.",
+      "zaciskanie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 11,
+    "text": "Do montażu instalacji w systemie skręcanym PEX należy dysponować",
+    "answers": [
+      "obcinakiem do rur, gratownikiem i zaciskarką.",
+      "kalibratorem do rur z fazownikiem, obcinakiem do rur i zestawem kluczy płaskich.",
+      "kalibratorem do rur z fazownikiem, obcinakiem do rur i zaciskarką.",
+      "obcinakiem do rur, gratownikiem i zestawem kluczy płaskich."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 12,
+    "text": "Do urządzenia elektrycznego pracującego w środowisku zapylonym należy użyć obudowy o stopniu ochrony oznaczonym",
+    "answers": [
+      "IP 65",
+      "IP 2X",
+      "IP 46",
+      "IP 45"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 13,
+    "text": "Podczas pracy słonecznej instalacji grzewczej zaobserwowano wypływ czynnika z zaworu bezpieczeństwa. Może to być spowodowane przez",
+    "answers": [
+      "zbyt małą pojemność naczynia przeponowego.",
+      "zbyt niską temperaturę czynnika roboczego.",
+      "zbyt małe natężenie przepływu płynu solarnego.",
+      "zbyt duże natężenie przepływu płynu solarnego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 14,
+    "text": "Pokazany na zdjęciu przyrząd służy do",
+    "answers": [
+      "montażu konektorów MC4.",
+      "cięcia rur AluPEX.",
+      "demontażu zaworów.",
+      "ściągania izolacji z przewodów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_przyrzad.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 15,
+    "text": "Na którym dokumencie oferent postępowania przetargowego dotyczącego montażu instalacji fotowoltaicznej na budynku szkoły opiera swoją ofertę?",
+    "answers": [
+      "Specyfikacja istotnych warunków zamówienia.",
+      "Rachunki za energię elektryczną szkoły.",
+      "Plan zagospodarowania przestrzennego.",
+      "Projekt budowlany szkoły."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 16,
+    "text": "Podczas corocznego przeglądu słonecznej instalacji grzewczej należy w pierwszej kolejności",
+    "answers": [
+      "dokonać regulacji położenia kolektorów.",
+      "dokonać odpowietrzenia instalacji.",
+      "przeprowadzić dezynfekcję instalacji.",
+      "sprawdzić stan jakości płynu solarnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 17,
+    "text": "Współczynnik efektywności COP pompy ciepła o parametrach podanych w tabeli przy podgrzewaniu wody do temperatury 30°C przy temperaturze otoczenia 2°C wynosi",
+    "answers": [
+      "3,0",
+      "5,0",
+      "3,6",
+      "4,6"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_tabela5.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 18,
+    "text": "Zabezpieczeniem przed niezupełnym spalaniem w kotłach na biomasę jest tzw. sonda lambda, którą należy zamontować",
+    "answers": [
+      "w przewodzie kominowym.",
+      "w komorze paleniskowej.",
+      "w podajniku paliwa.",
+      "na wentylatorze podmuchu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 19,
+    "text": "W słonecznej instalacji grzewczej przedstawionej na schemacie nominalną temperaturę ciepłej wody ustawiono na 55°C, a temperaturę maksymalną w zbiorniku na 85°C. Jeśli histereza zbiornika jest ustawiona na sterowniku solarnym na 15o°C to pompa solarna",
+    "answers": [
+      "zostanie wyłączona, gdy temperatura w złączu krzyżowym przekroczy 70°C  i włączona ponownie, gdy temperatura spadnie w złączu do 55°C",
+      "zostanie wyłączona, gdy temperatura w złączu krzyżowym przekroczy 55°C i włączona ponownie, gdy temperatura spadnie w złączu do 40°C",
+      "zostanie wyłączona, gdy temperatura w złączu krzyżowym przekroczy 85°C i włączona ponownie, gdy temperatura spadnie w złączu do 55°C",
+      "zostanie wyłączona, gdy temperatura w złączu krzyżowym przekroczy 85°C i włączona ponownie, gdy temperatura spadnie w złączu do 70°C"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_schemat.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 20,
+    "text": "Zadaniem krat wlotowych w elektrowni wodnej jest",
+    "answers": [
+      "regulacja strumienia wody dopływającego do turbiny.",
+      "ochrona turbiny przed zanieczyszczeniami.",
+      "zamknięcie dopływu wody do turbiny.",
+      "zmniejszenie poziomu wody w turbinie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 21,
+    "text": "W trakcie wymiany rotametru w słonecznej instalacji grzewczej należy go zamontować",
+    "answers": [
+      "poziomo przeciwnie do kierunku przepływu.",
+      "pionowo zgodnie z kierunkiem przepływu.",
+      "pionowo przeciwnie do kierunku przepływu.",
+      "poziomo zgodnie z kierunkiem przepływu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 22,
+    "text": "Zestaw fotowoltaiczny zawiera panel fotowoltaiczny, regulator ładowania oraz dwa akumulatory połączone równolegle o napięciu 12 V każdy. Które urządzenie należy dobrać, aby przystosować zestaw do zasilania odbiornika prądu zmiennego 230V/50Hz?",
+    "answers": [
+      "Inwerter 24V DC / 230V AC",
+      "Inwerter 12V DC / 230V AC",
+      "Prostownik jednopołówkowy 230V",
+      "Prostownik dwupołówkowy 230V"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 23,
+    "text": "W instalacji elektrycznej łączącej inwerter z odbiornikiem prądu zmiennego przewód neutralny powinien mieć kolor",
+    "answers": [
+      "niebieski.",
+      "brązowy.",
+      "czarny.",
+      "czerwony."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 24,
+    "text": "Do montażu panelu fotowoltaicznego na dachu spadzistym należy zastosować",
+    "answers": [
+      "śruby rzymskie.",
+      "profil wielorowkowy i kotwy krokwiowe.",
+      "profil wielorowkowy i kołki rozporowe.",
+      "stelaż z ram trójkątnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 25,
+    "text": "Którego z narzędzi należy użyć do demontażu i montażu konektorów MC4?",
+    "answers": [
+      "Narzędzia 4.",
+      "Narzędzia 3.",
+      "Narzędzia 1.",
+      "Narzędzia 2."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_narzedzia2.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 26,
+    "text": "W instrukcji słonecznej instalacji grzewczej na schemacie cyfrą 6 zaznaczono",
+    "answers": [
+      "rotametr.",
+      "odpowietrznik.",
+      "zawór bezpieczeństwa.",
+      "sterownik solarny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_schemat.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 27,
+    "text": "Na zapotrzebowaniu materiałowym do wykonania instalacji widnieje symbol Cu-DHP 22×1 R220. Oznacza to, że jest to rura miedziana",
+    "answers": [
+      "o średnicy 22 mm i grubości 1mm, miękka.",
+      "o promieniu 22 mm i grubości 1 mm, twarda.",
+      "o średnicy 22 mm i długości 1m, twarda.",
+      "o średnicy 22 mm i długości 1m, miękka."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 28,
+    "text": "Klientowi, który chciałby pozyskiwać jednocześnie energię elektryczną i ciepło ze źródeł odnawialnych należy zaproponować zastosowanie",
+    "answers": [
+      "kolektora rurowego próżniowego.",
+      "pompy ciepła multi-split.",
+      "kolektora słonecznego hybrydowego.",
+      "kotła dwufunkcyjnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 29,
+    "text": "Minimalna odległość elektrowni wiatrowej o maksymalnej wysokości wieży wraz z promieniem skrzydła wynoszącej 150 m, od budynku mieszkalnego powinna wynosić według aktualnych przepisów",
+    "answers": [
+      "1 000 m",
+      "500 m",
+      "2 000 m",
+      "1 500 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 30,
+    "text": "Podczas przeglądu technicznego instalacji fotowoltaicznej zmierzono multimetrem wartość napięcia, które wynosi",
+    "answers": [
+      "12,5 V napięcia zmiennego.",
+      "12,5 V napięcia stałego.",
+      "1250 V napięcia zmiennego.",
+      "1250 V napięcia stałego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_multimetr2.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 31,
+    "text": "Ustawienie zbyt dużego natężenia przepływu czynnika w słonecznej instalacji grzewczej",
+    "answers": [
+      "będzie przyczyną szybszego starzenia się płynu solarnego.",
+      "spowoduje spadek ciśnienia w instalacji.",
+      "spowoduje częste działanie zaworu bezpieczeństwa.",
+      "spowoduje wzrost oporów przepływu płynu solarnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 32,
+    "text": "W pompie ciepła powietrze-powietrze króciec oznaczony „wypływ kondensatu”należy połączyć z instalacją",
+    "answers": [
+      "odpływową.",
+      "zimnej wody.",
+      "wentylacyjną.",
+      "ciepłej wody."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 33,
+    "text": "W instrukcji montażu instalacji solarnej przedstawionym symbolem oznaczany jest",
+    "answers": [
+      "separator powietrza.",
+      "odpowietrznik ręczny.",
+      "odpowietrznik automatyczny.",
+      "zawór bezpieczeństwa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_symbol2.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 34,
+    "text": "Podłączenie wyłącznika różnicowo – prądowego w sposób pokazany na schemacie",
+    "answers": [
+      "spowoduje, że wyłącznik nigdy nie będzie się wyłączał.",
+      "spowoduje ciągłe wyłączanie się wyłącznika.",
+      "jest prawidłowe.",
+      "spowoduje zadziałanie wyłącznika różnicowo – prądowego tylko przy większych prądach upływu niż nominalny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_schemat2.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 35,
+    "text": "Na podstawie mapy stref przemarzania gruntu określ, na jakiej głębokości należy umieścić kolektor gruntowy zlokalizowany w Katowicach wiedząc, że należy go umieścić co najmniej 30 cm poniżej głębokości przemarzania.",
+    "answers": [
+      "1,2 m",
+      "1,4 m",
+      "1,0 m",
+      "0,8 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_mapa.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 36,
+    "text": "Przewody łączące kolektor płaski, umieszczony na dachu, z zasobnikiem ciepła umieszczonym w piwnicy najlepiej jest poprowadzić * zdający otrzymuje jeden punkt niezależnie od udzielonej odpowiedzi.",
+    "answers": [
+      "w kanale spalinowym komina. \nB.  po zewnętrznej ścianie budynku. \nC.  po wewnętrznej ścianie budynku. \nD.  w kanale wentylacyjnym komina."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 37,
+    "text": "Wskaż kolejność czynności po wykonaniu montażu instalacji solarnej.",
+    "answers": [
+      "Próba ciśnieniowa, napełnianie czynnikiem, odpowietrzenie, izolacja przewodów.",
+      "Napełnianie czynnikiem, płukanie, izolacja przewodów, próba ciśnieniowa.",
+      "Izolacja przewodów, napełnianie czynnikiem, odpowietrzenie, próba ciśnieniowa.",
+      "Próba ciśnieniowa, odpowietrzenie, napełnianie czynnikiem, izolacja przewodów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 38,
+    "text": "Woda w zasobniku ciepła o pojemności 200 dm3 wychładza się przez noc o 10°C. Ciepło właściwe wody 4190 (J/kg*K). Straty energii z tym związane wynoszą",
+    "answers": [
+      "8 380 kWh",
+      "8 380 kJ",
+      "8,38 kJ",
+      "8,38 kWh"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 39,
+    "text": "Aby zapewnić maksymalną efektywność słonecznej instalacji grzewczej podgrzewającej wodę w basenie w sezonie letnim, należy kolektory ustawić względem poziomu pod kątem",
+    "answers": [
+      "45°",
+      "30°",
+      "90°",
+      "60°"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 40,
+    "text": "Podczas transportu kolektora słonecznego na dach należy",
+    "answers": [
+      "użyć pasa transportowego przymocowanego do przyłączy kolektora.",
+      "ściągnąć osłony zabezpieczające.",
+      "użyć bloczków wyciągowych.",
+      "użyć drabiny i w dwie osoby wciągnąć kolektor."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 41,
+    "text": "Podczas sporządzenia kosztorysu, należy określić miejsce montażu kolektorów słonecznych. Które umiejscowienie kolektorów jest niewskazane do ich montażu?",
+    "answers": [
+      "Na dachu skośnym pod kątem 45º na północ.",
+      "Na dachu skośnym pod kątem 45º na południe.",
+      "Na gruncie pod kątem 45º na południe.",
+      "Na dachu płaskim pod kątem 45º na południe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 42,
+    "text": "Na jakie miesiące według harmonogramu zaplanowano roboty związane z budową tłoczni ścieków WK9?",
+    "answers": [
+      "Maj – czerwiec 2019 r.",
+      "Maj – czerwiec 2018 r.",
+      "Lipiec – sierpień 2018 r.",
+      "Sierpień – wrzesień 2018 r."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_harmonogram.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 43,
+    "text": "Do naprawy pęknięcia na prostym odcinku wymiennika gruntowego poziomego wykonanego z rur polietylenowych należy użyć mufy",
+    "answers": [
+      "lutowanej.",
+      "spawanej.",
+      "gwintowanej.",
+      "zgrzewanej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 44,
+    "text": "System wentylacji zakłada, aby wentylator w nim zamontowany miał wydajność max. 800 m3/h przy obrotach 2000 obr/min. Z danych zawartych w tabeli wynika, że będzie to typ",
+    "answers": [
+      "TD – 250/100",
+      "TD – 500/150-160",
+      "TD -1300/250",
+      "TD -1000/200"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_tabela27.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 45,
+    "text": "Z dokumentacji wynika, że roczne rachunki za energię elektryczną w budynku użyteczności publicznej wynoszą 6000 zł. Inwestor chcąc zmniejszyć te rachunki postanowił zamontować na dachu budynku system paneli fotowoltaicznych. Dzięki niemu koszty zużycia energii elektrycznej zmniejszą się o 75%. Ile będzie płacił za energię elektryczną po zrealizowaniu tej inwestycji?",
+    "answers": [
+      "1 500 zł",
+      "4 500 zł",
+      "5 925 zł",
+      "5 975 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 46,
+    "text": "Pompa ciepła wyposażona jest w sprężarkę o mocy elektrycznej P = 3 kW. Ile energii z sieci pobierze sprężarka w ciągu roku (365 dni), jeśli każdego dnia, systematycznie pompa włącza się na 4 godziny?",
+    "answers": [
+      "1460 kWh",
+      "4380 kWh",
+      "3650 kWh",
+      "1095 kWh"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 47,
+    "text": "Wykonując prace montażowe pompy ciepła, należy zadbać o staranne połączenia wszystkich jej elementów składowych. Urządzenie przedstawione na rysunku to",
+    "answers": [
+      "płytowy wymiennik ciepła.",
+      "filtr czterodrożny.",
+      "filtr spalin przewodu kominowego.",
+      "przepływowy podgrzewacz wody."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_urzadzenie8.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 48,
+    "text": "Montaż gruntowej pompy ciepła zakłada wykonanie kolektora poziomego jako dolnego źródła. W tym przypadku kolektor poziomy to",
+    "answers": [
+      "kolektor umieszczony płasko na dachu ukierunkowany na południe.",
+      "wężownica w wymienniku c.w.u.",
+      "system rur zakopany pionowo na głębokości około 30 metrów.",
+      "system rurek zakopany pod powierzchnią  gruntu poniżej strefy przemarzania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 49,
+    "text": "Aby biogaz z biogazowni był zdatny do procesu spalania, musi być wcześniej odpowiednio przygotowany. Oczyszcza się go głównie ze szkodliwego",
+    "answers": [
+      "wodoru.",
+      "dwutlenku węgla.",
+      "tlenku węgla.",
+      "siarkowodoru."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 50,
+    "text": "Na rysunku przedstawiono umowne oznaczenie graficzne zaworu",
+    "answers": [
+      "zwrotnego kątowego.",
+      "odcinającego prostego.",
+      "zwrotnego prostego.",
+      "odcinającego kątowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_oznaczenie8.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 51,
+    "text": "Ile pomp należy zakupić, aby wykonać roboty hydrauliczne według zamieszczonego schematu instalacji grzewczej w układzie otwartym?",
+    "answers": [
+      "6 pomp.",
+      "5 pomp.",
+      "4 pompy.",
+      "3 pompy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_schemat9.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 52,
+    "text": "Do wykonania połączeń rur i złączek miedzianych w instalacji solarnej montowanej w miejscu, gdzie jest zakaz używania otwartego ognia, należy użyć",
+    "answers": [
+      "lutownicy.",
+      "gwintownicy ręcznej.",
+      "zgrzewarki.",
+      "zaciskarki promieniowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 53,
+    "text": "Do pomiaru temperatury zamarzania mieszanki glikolowej w instalacji solarnej służy",
+    "answers": [
+      "glukometr.",
+      "decybelomierz.",
+      "refraktometr.",
+      "wilgotnościomierz."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 54,
+    "text": "Jednostką zużycia energii elektrycznej jest",
+    "answers": [
+      "kW",
+      "KW/h",
+      "kWh",
+      "h/kW"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 55,
+    "text": "Z przestawionego kosztorysu wynika, że minimalne koszty wykonania POZIOMU „0” i ścian nadziemia w sumie wyniosą",
+    "answers": [
+      "46 578,32",
+      "61 693,28",
+      "41 275,79",
+      "20 417,49"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_tabela28.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 56,
+    "text": "Podczas konserwacji pompy cyrkulacyjnej układu solarnego stwierdzono, że pompa nie działa ze względu na uszkodzenie kondensatora. Przed jego wymianą należy w pierwszej kolejności",
+    "answers": [
+      "odkręcić śrubunki w celu demontażu pompy z układu.",
+      "zamknąć zawór doprowadzający wodę do układu.",
+      "zlać glikol z układu.",
+      "wyłączyć napięcie zasilania pompy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 57,
+    "text": "Do montażu złączki przedstawionej na rysunku należy użyć",
+    "answers": [
+      "kluczy płaskich.",
+      "kluczy nasadowych.",
+      "zaciskarki.",
+      "zgrzewarki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_zlaczka.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 58,
+    "text": "Aby wykonać pracę związaną z montażem systemu rekuperacji, należy wykonać projekt łącznie z",
+    "answers": [
+      "wentylacją.",
+      "instalacją ciepłej wody użytkowej.",
+      "kanalizacją.",
+      "instalacją elektryczną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 59,
+    "text": "Aby zaobserwować, czy w instalacji solarnej przepływa glikol z odpowiednim natężeniem, montuje się",
+    "answers": [
+      "odpowietrznik.",
+      "rotametr.",
+      "manometr.",
+      "termometr."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 60,
+    "text": "Przed montażem systemu solarnego wykonano obmiary wewnątrz budynku. Instalacji solarnych nie wolno wykonywać w technologii PEX/Al/PEX, ponieważ",
+    "answers": [
+      "występujące w nich aluminium powoduje degradację glikolu.",
+      "nie są odporne na wysokie temperatury.",
+      "nie ma odpowiednich łączek do podłączenia z kolektorem.",
+      "warstwy polietylenu źle przewodzą ciepło."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 61,
+    "text": "Do pomiarów zarówno wewnętrznych jak i zewnętrznych średnic rur, zaworów, kształtek służy",
+    "answers": [
+      "dalmierz.",
+      "kątomierz.",
+      "suwmiarka.",
+      "anemometr."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 62,
+    "text": "Podczas transportu elementów systemu solarnego najbardziej narażone na stłuczenie są",
+    "answers": [
+      "pompy obiegowe.",
+      "czujniki temperatury.",
+      "karbowane rury do łączenia kolektora z grupą pompową.",
+      "rury próżniowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 63,
+    "text": "Do łączenia paneli PV ze sobą w różne konfiguracje należy stosować złączki przedstawione na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_zlaczki2.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 64,
+    "text": "Projekt instalacji wodnej w swoim opisie zawiera informację, że ma być ona wykonana z polipropylenu. Materiał ten posiada oznaczenie",
+    "answers": [
+      "PEX/Al/PEX",
+      "PE",
+      "Cu",
+      "PP"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 65,
+    "text": "Aby wykluczyć błędne działanie instalacji solarnej do glikolu dodaje się inhibitory. Mają one na celu",
+    "answers": [
+      "spowolnić proces korozji elementów instalacji.",
+      "zabezpieczyć układ przed wyciekami.",
+      "zwiększyć ciśnienie w układzie.",
+      "zmniejszyć ciśnienie w układzie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 66,
+    "text": "Którego systemu dotyczy zamieszczony schemat blokowy?",
+    "answers": [
+      "Fotowoltaika typu ON GRID.",
+      "Fotowoltaika typu OFF GRID.",
+      "Wytwarzanie energii w elektrowni wodnej.",
+      "Wytwarzanie energii w elektrowni wiatrowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_schemat10.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 67,
+    "text": "Na farmie fotowoltaicznej stwierdzono, że panele fotowoltaiczne wytwarzają energię prądu stałego lecz nie jest ona przetwarzana na energię prądu zmiennego. Które urządzenie służy do zamiany prądu stałego produkowanego przez instalację fotowoltaiczną w prąd zmienny?",
+    "answers": [
+      "Watomierz.",
+      "Przekładnik napięciowy.",
+      "Prostownik.",
+      "Inwerter."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 68,
+    "text": "Z tabliczki znamionowej silnika elektrycznego wynika, że maksymalne natężenie prądu pobieranego przez ten silnik, przy podłączeniu w trójkąt wynosi",
+    "answers": [
+      "400 V",
+      "2 A",
+      "3,5 A",
+      "50 Hz"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_tabliczka.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 69,
+    "text": "Przed montażem, w celu oszacowania kosztów inwestycyjnych pompy ciepła typu solanka – woda z kolektorem poziomym, należy podać jakie będą maksymalne koszty związane z wykonaniem dolnego źródła. Z danych zawartych w tabeli wynika, że wyniosą one",
+    "answers": [
+      "10 000 zł",
+      "12 000 zł",
+      "16 000 zł",
+      "25 000 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_tabela25.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 70,
+    "text": "W celu sporządzenia wyceny wymiany płynu solarnego należy określić m.in. jakim sprzętem będzie ta usługa wykonana. Który sprzęt służy do napełniania i odpowietrzania instalacji solarnej?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_sprzety.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 71,
+    "text": "Podczas konserwacji sprężarki w pompie ciepła stwierdzono jej poprawne działanie. Jest to zapewnione tylko wtedy, gdy występujący w niej czynnik chłodniczy jest w stanie skupienia",
+    "answers": [
+      "wyłącznie stałym.",
+      "wyłącznie ciekłym.",
+      "wyłącznie gazowym.",
+      "50% ciekłym, 50% gazowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 72,
+    "text": "W celu sporządzenia oferty wykonania instalacji hydraulicznej należy podać liczbę grzejników w budynku. Na załączonym przekroju znajduje się",
+    "answers": [
+      "8 grzejników.",
+      "7 grzejników.",
+      "5 grzejników.",
+      "6 grzejników."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_przekroj.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 73,
+    "text": "Na rysunku przedstawiono sprzęt służący do",
+    "answers": [
+      "lutowania.",
+      "zaciskania.",
+      "gwintowania.",
+      "zgrzewania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_sprzet.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 74,
+    "text": "Na podstawie danych producenta rur ogrzewania podłogowego zawartych w tabeli określ maksymalne ciśnienie robocze.",
+    "answers": [
+      "18 barów.",
+      "4 bary.",
+      "16 barów.",
+      "6 barów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_tabela23.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 75,
+    "text": "Sporządzając kosztorys wykonania instalacji wodnej w gminie Dominowo należy uwzględnić między innymi stawkę brutto ceny wody za 1 m3, która na podstawie danych zawartych w tabeli wynosi",
+    "answers": [
+      "8,56 zł",
+      "8,00 zł",
+      "4,00 zł",
+      "4,28 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_tabela24.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 76,
+    "text": "Pod które zaciski listwy zamieszczonej na schemacie należy podłączyć pompę c.o. ?",
+    "answers": [
+      "5-6",
+      "1-2",
+      "3-4",
+      "7-8"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_schemat11.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 77,
+    "text": "Który zakres temperatur powietrza należy ustawić na sterowniku pompy ciepła w pomieszczeniu w okresie zimowym przy małej aktywności fizycznej osób?",
+    "answers": [
+      "15÷18ºC",
+      "18÷20ºC",
+      "20÷23ºC",
+      "20÷22ºC"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_tabela26.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 78,
+    "text": "Elektrownia wodna wyposażona jest w generator o mocy P=100 kW. Jaka musi być częstotliwość napięcia, aby współpracować z Polskim Systemem Energetycznym?",
+    "answers": [
+      "20 Hz",
+      "50 Hz",
+      "70 Hz",
+      "80 Hz"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 79,
+    "text": "Do regulacji przepływu wody bezpośrednio na grzejnikach montuje się",
+    "answers": [
+      "zawór termostatyczny.",
+      "zawór trójdrożny.",
+      "odpowietrznik.",
+      "zawór czterodrożny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 80,
+    "text": "Aby połączyć ze sobą dwie stalowe rury tej samej średnicy z gwintem zewnętrznym należy użyć",
+    "answers": [
+      "nypla.",
+      "mufy.",
+      "odpowietrznika.",
+      "redukcji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 81,
+    "text": "Ile wynosi sprawność kolektora słonecznego o podanych w ramce parametrach technicznych, jeżeli przy nasłonecznieniu 1 000 W/m2 jego moc cieplna jest równa 1 400 W?",
+    "answers": [
+      "67%",
+      "71%",
+      "70%",
+      "64%"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_ramka4.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 82,
+    "text": "Ile wynosi moc elektryczna zainstalowana łańcucha modułów fotowoltaicznych, przedstawionego na rysunku?",
+    "answers": [
+      "19 W",
+      "72 W",
+      "171 W",
+      "9 W"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_lancuch.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 83,
+    "text": "Co jest źródłem ciepła dla pompy ciepła znajdującej się w instalacji przedstawionej na rysunku?",
+    "answers": [
+      "Wody powierzchniowe.",
+      "Powietrze.",
+      "Wody gruntowe.",
+      "Grunt."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_instalacja12.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 84,
+    "text": "Do kotła spalającego zrębki można jednorazowo załadować 0,5 m3 paliwa. W ciągu doby kocioł należy załadować 3 razy. Ile wyniesie tygodniowy koszt paliwa, jeżeli jego cena jednostkowa to 50,00 zł za 1 m3?",
+    "answers": [
+      "150,00 zł",
+      "25,00 zł",
+      "525,00 zł",
+      "50,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 85,
+    "text": "Po zakończeniu robót ulegających zakryciu przeprowadzany jest odbiór",
+    "answers": [
+      "wstępny.",
+      "końcowy.",
+      "ostateczny.",
+      "częściowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 86,
+    "text": "Odczytaj w tabeli, ile wynoszą wymiary kotła o mocy 34 kW.",
+    "answers": [
+      "180 × 1080 mm",
+      "1350 × 1550 × 990 mm",
+      "1260 × 1485 × 920 mm",
+      "180 × 1180 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_tabela35.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 87,
+    "text": "Jak nazywa się urządzenie stosowane w instalacjach fotowoltaicznych typu off-grid przedstawione na ilustracji?",
+    "answers": [
+      "Jednofazowy wyłącznik różnicowoprądowy.",
+      "Regulator ładowania.",
+      "Trójfazowy przekaźnik termiczny.",
+      "Trójbiegunowy wyłącznik silnikowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_urzadzenie9.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 88,
+    "text": "Symbol graficzny przedstawiony na rysunku jest stosowany do oznaczania",
+    "answers": [
+      "zbiornika ciśnieniowego.",
+      "podgrzewacza wody.",
+      "wymiennika ciepła.",
+      "pompy obiegowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_symbol.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 89,
+    "text": "W którym z wymienionych miesięcy uzysk solarny z instalacji słonecznej grzewczej jest w Polsce statystycznie największy?",
+    "answers": [
+      "W czerwcu.",
+      "W marcu.",
+      "We wrześniu.",
+      "W sierpniu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 90,
+    "text": "Która z wymienionych turbin wodnych jest stosowana w przypadku spadu wody powyżej 500 m?",
+    "answers": [
+      "Deriaza.",
+      "Francisa.",
+      "Peltona.",
+      "Kaplana."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 91,
+    "text": "Korzystając z danych zamieszczonych w tabeli, wskaż kolektor słoneczny o najwyższej sprawności optycznej.",
+    "answers": [
+      "Kolektor 4.",
+      "Kolektor 1.",
+      "Kolektor 2.",
+      "Kolektor 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_tabela34.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 92,
+    "text": "Z którego z wymienionych materiałów wykonane są łopaty wirników dużych turbin wiatrowych?",
+    "answers": [
+      "Z miedzi elektrolitycznej.",
+      "Z aluminium.",
+      "Z włókna szklanego.",
+      "Ze stali."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 93,
+    "text": "Do połączenia ze sobą dwóch stalowych rur o tej samej średnicy zakończonych gwintem zewnętrznym należy użyć",
+    "answers": [
+      "złączki nakrętnej tzw. mufy.",
+      "złączki wkrętnej tzw. nypla.",
+      "łącznika zaprasowywano-gwintowanego.",
+      "łącznika zaprasowywanego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 94,
+    "text": "Którego z wymienionych zbiorników nie należy stosować do magazynowania biogazu?",
+    "answers": [
+      "Membranowego dachowego.",
+      "Suchego tłokowego niskociśnieniowego.",
+      "Sferycznego membranowego.",
+      "Suchego stalowego wysokociśnieniowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 95,
+    "text": "Której zgrzewarki należy użyć do łączenia rur z PP-R w instalacjach ciepłej wody użytkowej?",
+    "answers": [
+      "Polifuzyjnej.",
+      "Trzpieniowej.",
+      "Elektrooporowej.",
+      "Doczołowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 96,
+    "text": "Słonecznych instalacji grzewczych nie wolno wykonywać w technologii PEX-Al-PEX, ponieważ",
+    "answers": [
+      "polietylenowe warstwy rur źle przewodzą ciepło.",
+      "aluminium występujące w rurach powoduje degradację glikolu.",
+      "rury nie są odporne na wysokie temperatury.",
+      "nie ma odpowiednich złączek do łączenia rur z kolektorem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 97,
+    "text": "Który z wymienionych czynników może być przyczyną głośnej pracy pompy obiegowej podczas uruchamiania słonecznej instalacji grzewczej?",
+    "answers": [
+      "Niska temperatura płynu solarnego.",
+      "Źle dobrana średnica rur instalacji.",
+      "Duża ilość powietrza w instalacji.",
+      "Nieodpowiedni rodzaj płynu solarnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 98,
+    "text": "W którym miejscu instalacji grzewczej, z kotłem wyposażonym w automatyczny podajnik paliwa, należy zamontować zabezpieczenie przed niskim poziomem wody?",
+    "answers": [
+      "Na powrocie, 10 cm poniżej najwyższej części kotła.",
+      "Na zasilaniu, 10 cm powyżej najwyższej części kotła.",
+      "Na zasilaniu, 10 cm poniżej najwyższej części kotła.",
+      "Na powrocie, 10 cm powyżej najwyższej części kotła."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 99,
+    "text": "Jaki symbol podstawy nakładów rzeczowych należy wpisać w kosztorysie dla rurociągu miedzianego o średnicy zewnętrznej 18 mm, o połączeniach lutowanych, montowanego na ścianach w budynku, jeśli kalkulacja kosztów wykonywana jest w oparciu o przedstawioną tablicę z KNR 2-15?",
+    "answers": [
+      "0405-18",
+      "0405-04",
+      "KNR 2-15 0405-04",
+      "KNR 2-15 0405-18"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_tabela36.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 100,
+    "text": "Podłączenie pompy cyrkulacyjnej do sieci elektroenergetycznej jest wykonane prawidłowo, jeżeli przewody elektryczne (żółto-zielony, niebieski, czarny) zostały podpięte do zacisków pompy, oznaczonych jak na rysunku, w następujący sposób",
+    "answers": [
+      "L-niebieski, N-czarny, PE-żółto-zielony.",
+      "L- żółto-zielony, N-czarny, PE-niebieski.",
+      "L-czarny, N-żółto-zielony, PE-niebieski.",
+      "L-czarny, N-niebieski, PE-żółto-zielony."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_zaciski2.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 101,
+    "text": "Słoneczną instalację grzewczą wykonało 2 monterów w ciągu 8 godzin. Stawka wynagrodzenia za roboczogodzinę dla jednego pracownika wynosi 25,00 zł. Oblicz, ile wynosi wartość usługi netto, jeśli pozostałe koszty wynoszą 200,00 zł, a zysk stanowi 10% sumy wynagrodzenia pracowników i pozostałych kosztów.",
+    "answers": [
+      "660,00 zł",
+      "400,00 zł",
+      "440,00 zł",
+      "600,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 102,
+    "text": "Gdzie i jak należy zamontować jednostkę zewnętrzną powietrznej pompy ciepła?",
+    "answers": [
+      "Bezpośrednio przy zewnętrznej ścianie budynku, z wyrzutem powietrza skierowanym do ściany.",
+      "W odległości co najmniej 0,3 m od ściany budynku, z wyrzutem powietrza skierowanym do ściany.",
+      "Bezpośrednio przy zewnętrznej ścianie budynku, z czerpnią powietrza skierowaną do ściany.",
+      "W odległości co najmniej 0,3 m od ściany budynku, z czerpnią powietrza skierowaną do ściany."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 103,
+    "text": "Co może być przyczyną pojawienia się na falowniku podczas uruchamiania instalacji fotowoltaicznej kodu błędu informującego o zwarciu doziemnym?",
+    "answers": [
+      "Uszkodzenie izolacji przewodu w obwodzie AC.",
+      "Całkowite rozładowanie akumulatora.",
+      "Uszkodzenie izolacji przewodu w obwodzie DC.",
+      "Niedopasowanie prądowe modułów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 104,
+    "text": "W którym kosztorysie budowy elektrowni wiatrowej określone są planowane koszty materiałów, sprzętu i robocizny oraz narzuty?",
+    "answers": [
+      "Dodatkowym.",
+      "Powykonawczym.",
+      "Ślepym.",
+      "Inwestorskim."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 105,
+    "text": "Które z wymienionych ogniw fotowoltaicznych charakteryzuje się największą sprawnością?",
+    "answers": [
+      "CdTe",
+      "a-Si",
+      "Monokrystaliczne.",
+      "Polikrystaliczne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 106,
+    "text": "Do czego służy narzędzie przedstawione na ilustracji?",
+    "answers": [
+      "Gięcia rur miedzianych.",
+      "Wykonywania kołnierza na rurach karbowanych.",
+      "Cięcia rur wielowarstwowych.",
+      "Zaprasowywania rur miedzianych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_narzedzie6.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 107,
+    "text": "Z uwagi na maksymalną całoroczną efektywność instalacji c.w.u. nachylenie kolektorów słonecznych w Polsce powinno mieścić się w przedziale",
+    "answers": [
+      "70° ÷ 90°",
+      "30° ÷ 50°",
+      "50° ÷ 70°",
+      "10° ÷ 30°"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 108,
+    "text": "W jaki sposób jest ukształtowany przedstawiony na rysunku kolektor gruntowy, współpracujący z pompą ciepła?",
+    "answers": [
+      "Skośny.",
+      "Meandryczny.",
+      "Koszowy.",
+      "Spiralny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_kolektor3.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 109,
+    "text": "Ile wynosi współczynnik efektywności energetycznej COP pompy ciepła, która w listopadzie oddała do instalacji grzewczej budynku 2 592 kWh ciepła pobierając 648 kWh energii elektrycznej?",
+    "answers": [
+      "2,0",
+      "3,0",
+      "4,0",
+      "5,0"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 110,
+    "text": "Inwerter jest urządzeniem stosowanym w instalacji",
+    "answers": [
+      "słonecznej grzewczej.",
+      "pompy ciepła.",
+      "biogazowni.",
+      "fotowoltaicznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 111,
+    "text": "Do łączenia rury miedzianej i kształtki przedstawionej na rysunku należy zastosować",
+    "answers": [
+      "palnik na propan-butan.",
+      "klucze płaskie.",
+      "zaciskarkę.",
+      "ekspander."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_ksztaltka3.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 112,
+    "text": "Który z wymienionych elementów należy zamontować w instalacji fotowoltaicznej, przedstawionej na schemacie elektrycznym, w miejscu oznaczonym cyfrą 1?",
+    "answers": [
+      "Akumulator.",
+      "Licznik energii.",
+      "Regulator ładowania.",
+      "Rozdzielnicę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_instalacja13-1.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 113,
+    "text": "W słonecznej instalacji grzewczej, przeznaczonej do ogrzewania wody użytkowej, zawór mieszający należy zamontować pomiędzy",
+    "answers": [
+      "przyłączem wody zimnej a instalacją ciepłej wody użytkowej.",
+      "obiegiem solarnym a instalacją wody zimnej.",
+      "przyłączem wody zimnej a obiegiem cyrkulacji wody ciepłej.",
+      "obiegiem solarnym a obiegiem cyrkulacji wody ciepłej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 114,
+    "text": "Przewody instalacji c.o. w mieszkaniu, którego rzut przedstawiono na rysunku należy poprowadzić w",
+    "answers": [
+      "podłodze, stosując trójniki.",
+      "bruzdach ścian.",
+      "listwach przypodłogowych.",
+      "podłodze, stosując rozdzielacze."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_rzut.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 115,
+    "text": "Kolektory słoneczne montowane na powierzchni terenu, w porównaniu do kolektorów montowanych na dachu, są narażone na",
+    "answers": [
+      "słabsze warunki napromieniowania słonecznego.",
+      "częstsze uszkodzenia mechaniczne.",
+      "zwiększoną stratę energii cieplnej.",
+      "większe zaśnieżenie powierzchni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 116,
+    "text": "Ile zaworów zwrotnych należy zakupić, aby wykonać roboty hydrauliczne według przedstawionego schematu instalacji?",
+    "answers": [
+      "6",
+      "4",
+      "3",
+      "5"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_instalacja13.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 117,
+    "text": "Jak nazywa się rura łącząca najwyżej położoną część przestrzeni wodnej kotła c.o. na drewno kawałkowe z przestrzenią powietrzną naczynia wzbiorczego otwartego?",
+    "answers": [
+      "Przelewowa.",
+      "Sygnalizacyjna.",
+      "Odpowietrzająca.",
+      "Bezpieczeństwa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 118,
+    "text": "Jakiego rodzaju rur dotyczy opis przygotowania materiałów do transportu, zamieszczony w ramce?",
+    "answers": [
+      "Stalowych.",
+      "Polipropylenowych.",
+      "Polietylenowych.",
+      "Miedzianych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_ramka3.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 119,
+    "text": "W którym miejscu należy zamontować czujnik termostatyczny systemu „strażak”, który jest przeciwpożarowym zabezpieczeniem kotłów na biomasę?",
+    "answers": [
+      "W komorze paleniskowej.",
+      "Na obudowie podajnika.",
+      "Na przewodzie spalinowym.",
+      "W podajniku ślimakowym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 120,
+    "text": "Na podstawie tabeli określ. z których rur należy wykonać kolektor gruntowy, jeżeli wymagana średnica wewnętrzna przewodu to 32,6 mm.",
+    "answers": [
+      "PE – HD SDR 11 dz x g: 40 x 3,7 mm",
+      "PE – HD SDR 7,25 dz x g: 50 x 6,9 mm",
+      "PE – HD SDR 11 dz x g: 50 x 4,6 mm",
+      "PE – HD SDR 7,25 dz x g: 40 x 5,5 mm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_tabela29.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 121,
+    "text": "Do wykonania montażu instalacji solarnej z rur miedzianych należy użyć",
+    "answers": [
+      "nożyc, gratownika, zgrzewarki.",
+      "nożyc, rozwiertaka, zaciskarki promieniowej.",
+      "obcinarki krążkowej, gratownika, palnika.",
+      "piłki, gwintownicy z narzynkami, kluczy hydraulicznych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 122,
+    "text": "Aby zapewnić maksymalną efektywność całorocznej słonecznej instalacji podgrzewającej wodę do celów użytkowych w Polsce, należy kolektory ustawić względem poziomu w odpowiednim kierunku pod kątem",
+    "answers": [
+      "45°",
+      "20°",
+      "70°",
+      "90°"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 123,
+    "text": "Przyczyną głośnej pracy pompy obiegowej w instalacji grzewczej może być",
+    "answers": [
+      "niska temperatura wody zasilającej.",
+      "mała liczba odbiorników ciepła.",
+      "duża ilość powietrza w instalacji.",
+      "wysoka temperatura w pomieszczeniach."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 124,
+    "text": "Do naprawy izolacji przewodów w instalacji niskiego napięcia należy zastosować",
+    "answers": [
+      "preszpan.",
+      "taśmę bawełnianą.",
+      "tereszpan.",
+      "koszulki termokurczliwe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 125,
+    "text": "Na podstawie danych zawartych w tabeli wskaż wartość całkowitego rocznego zużycia ciepła.",
+    "answers": [
+      "18 000 kWh/a",
+      "21 600 kWh/a",
+      "7,5 kW/a",
+      "3 600 kWh/a"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_tabela32.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 126,
+    "text": "Jaki będzie wskaźnik efektywności energetycznej pompy ciepła COP, która w listopadzie dostarczyła do ogrzania budynku 2 592 kWh ciepła, a jej moc elektryczna wynosi 0,9 kW?",
+    "answers": [
+      "3,0",
+      "5,0",
+      "2,0",
+      "4,0"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 127,
+    "text": "Do kotła spalającego zrębki można jednorazowo załadować 0,5 m3 paliwa. W ciągu doby kocioł należy załadować 3 razy. Jaki będzie tygodniowy koszt paliwa, jeżeli średnia cena jednostkowa to 50,00 zł za 1 m3?",
+    "answers": [
+      "25,00 zł",
+      "525,00 zł",
+      "50,00 zł",
+      "150,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 128,
+    "text": "Przy sporządzaniu kosztorysu ofertowego nie mają zastosowania",
+    "answers": [
+      "nakłady rzeczowe robocizny, materiałów i pracy sprzętu.",
+      "ceny jednostkowe i narzuty dla kosztów pośrednich i zysku.",
+      "dokumentacja projektowa i dane wyjściowe do projektowania.",
+      "zapisy z książki obmiarów zatwierdzone przez inspektora nadzoru."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 129,
+    "text": "Jaka jest wartość 1 roboczogodziny na montaż 1 szt. kolektora słonecznego, jeżeli wartość kosztorysowa robocizny za wykonanie montażu 10 kolektorów słonecznych wynosi 5 000,00 zł, a przyjęta stawka za roboczogodzinę pracy to 25,00 zł?",
+    "answers": [
+      "100 r-g/szt.",
+      "500 r-g/szt.",
+      "20 r-g/szt.",
+      "1000 r-g/szt."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 130,
+    "text": "Kosztorys, który nie zawiera informacji o cenach, to kosztorys",
+    "answers": [
+      "ślepy.",
+      "powykonawczy.",
+      "wstępny.",
+      "ofertowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 131,
+    "text": "Przedstawione na rysunku narzędzie należy zastosować do",
+    "answers": [
+      "zdejmowania izolacji z przewodów.",
+      "zaciskania tulejek.",
+      "cięcia przewodów.",
+      "zakładania konektorów na przewodach elektrycznych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_narzedzie5.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 132,
+    "text": "Na rozwinięciu solarnej instalacji grzewczej wykonanej w skali 1:50 odcinek pionu miedzianego ma długość 100 mm. Ile metrów przewodu miedzianego należy zakupić na potrzeby montażu tego pionu?",
+    "answers": [
+      "0,5 m",
+      "500,0 m",
+      "5,0 m",
+      "50,0 m"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 133,
+    "text": "Który z przedstawionych zaworów należy zamontować w instalacji c.o. w celu zapewnienia ochrony kotła na paliwo stałe przed korozją niskotemperaturową?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_zawory.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 134,
+    "text": "Element kolektora rurowego oznaczony cyfrą 1 to",
+    "answers": [
+      "kondensator rurki cieplnej.",
+      "rura szklana z próżnią.",
+      "rurka cieplna.",
+      "zbiorczy przewód glikolu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_kolektor4.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 135,
+    "text": "Po napełnieniu instalacji grzewczej wodą do próby szczelności można przystąpić najwcześniej po",
+    "answers": [
+      "60 minutach.",
+      "72 godzinach.",
+      "30 minutach.",
+      "24 godzinach."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 136,
+    "text": "W instrukcji montażu falownika zamieszczono informację: Uważaj na gorące elementy. Urządzenie może się nagrzewać w czasie pracy. Nie dotykaj urządzenia w czasie gdy pracuje. Który znak ostrzegawczy należy zamieścić przy takich informacjach?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_znaki2.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 137,
+    "text": "Zgodnie z Prawem Zamówień Publicznych wykonawca składa ofertę na wykonanie robót budowlanych w trybie",
+    "answers": [
+      "dialogu konkurencyjnego.",
+      "przetargu.",
+      "negocjacji.",
+      "zapytania o cenę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 138,
+    "text": "W Polsce kolektory słoneczne płaskie należy sytuować na dachu budynku, zorientowane w kierunku",
+    "answers": [
+      "północnym.",
+      "południowym.",
+      "wschodnim.",
+      "zachodnim."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 139,
+    "text": "Na rysunku przedstawiono przekrój turbiny natryskowej",
+    "answers": [
+      "Peltona.",
+      "Deriaza.",
+      "Kaplana.",
+      "Francisa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_turbina.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 140,
+    "text": "Kocioł na pellet, którego moc jest mniejsza od 25 kW należy usytuować w pomieszczeniu kotłowni w taki sposób by odległość pomiędzy tyłem kotła a ścianą wynosiła minimum",
+    "answers": [
+      "1,0 m",
+      "1,5 m",
+      "2,0 m",
+      "0,7 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 141,
+    "text": "Podczas corocznego przeglądu słonecznej instalacji grzewczej należy",
+    "answers": [
+      "dokonać regulacji położenia kolektorów.",
+      "przeprowadzić płukanie instalacji.",
+      "napełnić instalację płynem solarnym.",
+      "sprawdzić stan płynu solarnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 142,
+    "text": "W przedstawionej instalacji pompa ciepła pobiera ciepło z",
+    "answers": [
+      "kolektora gruntowego.",
+      "sondy pionowej.",
+      "wody gruntowej.",
+      "powietrza zewnętrznego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_instalacja11.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 143,
+    "text": "Ile wynosi maksymalna wysokość składowania kręgów rur polietylenowych przeznaczonych do budowy kolektora gruntowego?",
+    "answers": [
+      "2,2 m",
+      "1,5 m",
+      "1,8 m",
+      "2,0 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 144,
+    "text": "Ilość robót związanych z wykonaniem wykopu należy zapisać w obmiarze z jednostką",
+    "answers": [
+      "r-g",
+      "m-g",
+      "m2",
+      "m3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 145,
+    "text": "Przegląd techniczny części chłodniczej pompy ciepła nie obejmuje kontroli",
+    "answers": [
+      "stanu przewodów rurowych i połączeń.",
+      "ciśnienia wejściowego w naczyniu wzbiorczym.",
+      "szczelności w obiegu roboczym.",
+      "parametrów cieczy roboczej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 146,
+    "text": "Zamieszczone w ramce wymagania dotyczące transportu i składowania odnoszą się do rur",
+    "answers": [
+      "miedzianych.",
+      "polietylenowych.",
+      "polipropylenowych.",
+      "stalowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_ramka2.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 147,
+    "text": "Ile zaworów zwrotnych jest zamontowanych w instalacji przedstawionej na schemacie?",
+    "answers": [
+      "6 zaworów.",
+      "3 zawory.",
+      "4 zawory.",
+      "5 zaworów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_instalacja10.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 148,
+    "text": "Do cięcia rur miedzianych należy użyć narzędzia",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_narzedzia5.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 149,
+    "text": "Aby instalacja fotowoltaiczna działała prawidłowo należy w miejscu oznaczonym czerwonym pytajnikiem zamontować",
+    "answers": [
+      "akumulator.",
+      "licznik energii.",
+      "regulator ładowania.",
+      "rozdzielnicę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_instalacja9.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 150,
+    "text": "Łopaty wirnika turbiny wiatrowej o mocy 3,5 MW należy wykonać",
+    "answers": [
+      "z miedzi.",
+      "z włókien szklanych.",
+      "ze stali.",
+      "z aluminium."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 151,
+    "text": "Ustawienie zbyt małej histerezy w sterowniku solarnym spowoduje",
+    "answers": [
+      "częste włączanie i wyłączanie pompy.",
+      "spadek ciśnienia w instalacji.",
+      "szybsze starzenia się płynu solarnego.",
+      "częste działanie zaworu bezpieczeństwa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 152,
+    "text": "Aby połączyć ze sobą dwie stalowe rury tej samej średnicy z gwintem zewnętrznym należy, użyć",
+    "answers": [
+      "odpowietrznika.",
+      "mufy.",
+      "nypla.",
+      "redukcji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 153,
+    "text": "Zgodnie z rzutem instalacji grzewczej jej przewody należy prowadzić w",
+    "answers": [
+      "podłodze, stosując trójniki.",
+      "bruzdach ścian.",
+      "listwach przypodłogowych.",
+      "podłodze, stosując rozdzielacze."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_rzut.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 154,
+    "text": "Jako przewód neutralny należy zastosować przewód w izolacji koloru",
+    "answers": [
+      "czarnego lub czerwonego.",
+      "żółto - zielonego.",
+      "brązowego.",
+      "niebieskiego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 155,
+    "text": "Tabela przedstawia kalkulację kosztów związanych z montażem 12 instalacji solarnych. Jaki będzie jednostkowy koszt montażu jednej instalacji solarnej?",
+    "answers": [
+      "11 027,50 zł",
+      "6 304,17 zł",
+      "10 852,50 zł",
+      "10 110,83 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_tabela30.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 156,
+    "text": "Na podstawie dokumentacji montażu kotła na pellet wskaż, wymiary kotła o mocy 34 kW.",
+    "answers": [
+      "1,35 x 1,55 x 0,99 m",
+      "1,2 x 1,29 x 0,69 m",
+      "1,20 x 1,40 x 0,765 m",
+      "1,26 x 1,485 x 0,92 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_tabela33.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 157,
+    "text": "Na podstawie fragmentu tabeli z KNR 2-15 wskaż, jaki powinien być zapis wskazujący na podstawę wyceny dla montażu rurociągów z rur miedzianych o średnicy zewnętrznej 18 mm.",
+    "answers": [
+      "KNR 2-15",
+      "KNR 2-15 0405-04",
+      "KNR 2-15 0405-18",
+      "KNR 2-15 0405"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_tabela31.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 158,
+    "text": "Po wykonaniu robót ulegających zakryciu należy dokonać odbioru",
+    "answers": [
+      "częściowego.",
+      "inwestorskiego.",
+      "końcowego.",
+      "gwarancyjnego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 159,
+    "text": "Aby zapewnić maksymalną efektywność słonecznej instalacji grzewczej podgrzewającej wodę w basenie w sezonie letnim, należy kolektory ustawić pochylone na południe względem poziomu pod kątem",
+    "answers": [
+      "60°",
+      "45°",
+      "90°",
+      "30°"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 160,
+    "text": "Do montażu modułu fotowoltaicznego na dachu spadzistym należy zastosować",
+    "answers": [
+      "profil wielorowkowy i kołki rozporowe.",
+      "profil wielorowkowy i kotwy krokwiowe.",
+      "śruby rzymskie.",
+      "stelaż z ram trójkątnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 161,
+    "text": "Montaż modułów fotowoltaicznych na dachu płaskim został wykonany przez instalatora i dwóch pomocników. Stawka instalatora wynosi 48,00 zł a stawka pomocnika 25,00 zł za roboczogodzinę. Ile wynosi kosztorysowa wartość robocizny, jeżeli nakład robocizny wynosi 5 godzin?",
+    "answers": [
+      "98,00 zł",
+      "365,00 zł",
+      "490,00 zł",
+      "605,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 162,
+    "text": "Zestaw fotowoltaiczny zawiera moduł fotowoltaiczny, regulator ładowania oraz dwa akumulatory połączone równolegle o napięciu 12 V każdy. Które urządzenie należy dobrać, aby przystosować zestaw do zasilania odbiornika prądu zmiennego 230V/50Hz?",
+    "answers": [
+      "Prostownik jednopołówkowy 230 V",
+      "Inwerter 24V DC / 230V AC",
+      "Inwerter 12V DC / 230V AC",
+      "Prostownik dwupołówkowy 230 V"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 163,
+    "text": "Do montażu instalacji grzewczej w systemie skręcanym PEX należy dysponować",
+    "answers": [
+      "obcinakiem do rur, gratownikiem i zaciskarką.",
+      "obcinakiem do rur, gratownikiem i zestawem kluczy imbusowych.",
+      "kalibratorem do rur z fazownikiem, obcinakiem do rur i zestawem kluczy płaskich.",
+      "kalibratorem do rur z fazownikiem, obcinakiem do rur i zaciskarką."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 164,
+    "text": "W celu zabezpieczenia zasobnika c.w.u. przed korozją należy zastosować",
+    "answers": [
+      "anodę tytanową.",
+      "zawór zwrotny.",
+      "filtr siatkowy.",
+      "zawór bezpieczeństwa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 165,
+    "text": "Podłączenie wyłącznika różnicowoprądowego w sposób pokazany na schemacie",
+    "answers": [
+      "spowoduje ciągłe wyłączanie się wyłącznika.",
+      "spowoduje zadziałanie wyłącznika różnicowoprądowego tylko przy większych prądach upływu niż nominalny.",
+      "spowoduje, że wyłącznik nigdy nie będzie się wyłączał.",
+      "jest prawidłowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_schemat2.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 166,
+    "text": "Podczas transportu kolektora słonecznego na dach należy zastosować",
+    "answers": [
+      "pasy transportowe i wciągarkę linową.",
+      "liny stalowe i żuraw wieżowy.",
+      "drabiny i w dwie osoby wciągnąć kolektor.",
+      "pasy transportowe przymocowane do przyłączy kolektora."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 167,
+    "text": "Do połączenia modułów fotowoltaicznych o mocy 135 W z regulatorem ładowania należy użyć przewodu elektrycznego",
+    "answers": [
+      "OMY 3x1,5 mm2",
+      "LgY 4 mm2",
+      "YAKY 3x4 mm2",
+      "DYt 2x4 mm2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 168,
+    "text": "Na podstawie mapy stref przemarzania gruntu określ, na jakiej minimalnej głębokości należy umieścić kolektor gruntowy zlokalizowany w Katowicach wiedząc, że należy go umieścić co najmniej 30 cm poniżej głębokości przemarzania.",
+    "answers": [
+      "1,3 m",
+      "0,7 m",
+      "0,9 m",
+      "1,1 m"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_mapa.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 169,
+    "text": "W słonecznej instalacji grzewczej przedstawionej na schemacie nominalną temperaturę ciepłej wody ustawiono na 55°C, a temperaturę maksymalną w zbiorniku na 85°C. Jeśli histereza zbiornika jest ustawiona na sterowniku solarnym na 15°C to pompa solarna",
+    "answers": [
+      "zostanie wyłączona, gdy temperatura w złączu krzyżowym przekroczy 85°C i włączona ponownie, gdy temperatura spadnie w złączu do 70°C",
+      "zostanie wyłączona, gdy temperatura w złączu krzyżowym przekroczy 55°C i włączona ponownie, gdy temperatura spadnie w złączu do 40°C",
+      "zostanie wyłączona, gdy temperatura w złączu krzyżowym przekroczy 70°C  i włączona  ponownie, gdy temperatura spadnie w złączu do 55°C",
+      "zostanie wyłączona, gdy temperatura w złączu krzyżowym przekroczy 85°C i włączona ponownie, gdy temperatura spadnie w złączu do 55°C"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_schemat.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 170,
+    "text": "Do połączenia instalacji basenowej z basenowym wymiennikiem ciepła przewidziano rury PEX. Do łączenia należy zastosować",
+    "answers": [
+      "klejenie.",
+      "zgrzewanie.",
+      "lutowanie.",
+      "zaciskanie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 171,
+    "text": "Podczas łączenia szeregowego paneli fotowoltaicznych należy wziąć pod uwagę",
+    "answers": [
+      "moc akumulatora.",
+      "częstotliwość prądu w sieci elektrycznej.",
+      "napięcie w sieci elektrycznej.",
+      "zakres napięcia regulatora ładowania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 172,
+    "text": "Wartość 3,3 MPa odpowiada wartości",
+    "answers": [
+      "0,33 bara.",
+      "330 bara.",
+      "33 bara.",
+      "3,3 bara."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 173,
+    "text": "Oblicz wartość promieniowania bezpośredniego, wiedząc że promieniowanie rozproszone wynosi 200 W/m2, a promieniowanie całkowite 800 W/m2.",
+    "answers": [
+      "1 000 W/m2",
+      "200 W/m2",
+      "600 W/m2",
+      "800 W/m2"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 174,
+    "text": "Na rysunku elektrowni wodnej z pionową turbiną Francisa cyfrą 1 oznaczono",
+    "answers": [
+      "przekładnie pasową.",
+      "przekładnię zębatą.",
+      "regulator ręczny.",
+      "turbinę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_elektrownia2.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 175,
+    "text": "Współczynnikiem EER określa się",
+    "answers": [
+      "stosunek mocy chłodniczej urządzenia do ilości energii elektrycznej niezbędnej do jej osiągnięcia.",
+      "sezonowy współczynnik efektywności w trybie chłodzenia.",
+      "stosunek ilości dostarczonego ciepła do ilości energii elektrycznej zużytej przez pompę.",
+      "sezonowy współczynnik efektywności w trybie grzania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 176,
+    "text": "Symbol zaworu redukcyjnego przedstawiono na",
+    "answers": [
+      "Rysunku 3.",
+      "Rysunku 4.",
+      "Rysunku 2.",
+      "Rysunku 1."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_symbole4.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 177,
+    "text": "W instalacjach fotowoltaicznych przetwornica napięcia jest urządzeniem wykorzystywanym do",
+    "answers": [
+      "zamiany napięcia stałego na przemienne.",
+      "utrzymywania stałego napięcia w akumulatorze.",
+      "zabezpieczenia akumulatora przed przeładowaniem.",
+      "zamiany napięcia przemiennego na stałe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 178,
+    "text": "Wentylacją naturalną jest wentylacja",
+    "answers": [
+      "grawitacyjna.",
+      "mechaniczna.",
+      "klimatyzacyjna.",
+      "przeciwpożarowa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 179,
+    "text": "Paliwo powstałe ze sprasowania trocin powstających podczas prac związanych z obróbką produktów drzewnych to",
+    "answers": [
+      "pelet.",
+      "ekogroszek.",
+      "koks.",
+      "zrębki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 180,
+    "text": "Z kolektora słonecznego o powierzchni 2 m2 i sprawności przekazywania energii cieplnej 80% przy nasłonecznieniu 1 000 W/m2 można uzyskać moc wynoszącą",
+    "answers": [
+      "2 000 W",
+      "800 W",
+      "1 200 W",
+      "1 600 W"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 181,
+    "text": "Które rury należy chronić przed działaniem promieni słonecznych?",
+    "answers": [
+      "Stalowe ocynkowane.",
+      "Polietylenowe.",
+      "Stalowe czarne.",
+      "Kamionkowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 182,
+    "text": "Jednostką stopnia mineralizacji wody jest",
+    "answers": [
+      "dm3/g",
+      "dm3/°C",
+      "mg/dm3",
+      "°C/dm3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 183,
+    "text": "Elektrownie wodne wykorzystujące energię potencjalną wody morskiej to elektrownie",
+    "answers": [
+      "pływowe.",
+      "zaporowe.",
+      "szczytowo-pompowe.",
+      "przepływowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 184,
+    "text": "Powietrzna pompa ciepła osiąga największą wydajność",
+    "answers": [
+      "w ujemnych temperaturach.",
+      "w dodatnich temperaturach.",
+      "niezależnie od temperatury.",
+      "przy temperaturze 0°C."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 185,
+    "text": "Po zakończeniu robót objętych montażem słonecznej instalacji grzewczej należy dokonać odbioru",
+    "answers": [
+      "ostatecznego.",
+      "częściowego.",
+      "gwarancyjnego.",
+      "końcowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 186,
+    "text": "Najwyższym współczynnikiem absorpcji wśród pokryć lakierowanych stosowanych w produkcji absorberów cechuje się",
+    "answers": [
+      "blacha miedziana.",
+      "pokrycie PVD.",
+      "czarny lakier.",
+      "czarny chrom."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 187,
+    "text": "Do budowli piętrzących wodę zalicza się",
+    "answers": [
+      "zapory.",
+      "transformatory.",
+      "generatory.",
+      "kanały."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 188,
+    "text": "Kolektory słoneczne przekształcają energię słoneczną na energię",
+    "answers": [
+      "mechaniczną.",
+      "cieplną.",
+      "chemiczną.",
+      "elektryczną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 189,
+    "text": "Skraplacz jest to urządzenie",
+    "answers": [
+      "oddające energię cieplną do instalacji.",
+      "pobierające energię cieplną ze środowiska.",
+      "zamieniające energię cieplną w mechaniczną.",
+      "zamieniające energię cieplną w elektryczną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 190,
+    "text": "W instalacji, która ma zapewniony grawitacyjny obieg czynnika grzewczego nie stosuje się",
+    "answers": [
+      "pompy obiegowej.",
+      "naczynia wzbiorczego otwartego.",
+      "zaworu odcinającego.",
+      "zaworu bezpieczeństwa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 191,
+    "text": "Osobą odpowiedzialną za sporządzenie planu BIOZ jest",
+    "answers": [
+      "autor projektu.",
+      "kominiarz.",
+      "kierownik budowy.",
+      "geodeta."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 192,
+    "text": "Jeżeli prędkość wiatru wzrosła 3-krotnie, to turbina wiatrowa może wytworzyć",
+    "answers": [
+      "3 razy więcej energii.",
+      "81 razy więcej energii.",
+      "9 razy więcej energii.",
+      "27 razy więcej energii."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 193,
+    "text": "Moc pomp ciepła o różnej mocy połączonych kaskadowo jest",
+    "answers": [
+      "różnicy mocy poszczególnych pomp.",
+      "sumą mocy poszczególnych pomp.",
+      "równa mocy pompy o najmniejszej mocy.",
+      "równa mocy pompy o największej mocy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 194,
+    "text": "Solarna stacja napełniająca pracuje z wydajnością 2 dm3/s. W ciągu czterech godzin może napełnić instalację o maksymalnej objętości",
+    "answers": [
+      "14,40 m3",
+      "57,60 m3",
+      "7,20 m3",
+      "28,80 m3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 195,
+    "text": "Zrębki są to",
+    "answers": [
+      "sprasowane trociny.",
+      "mieszanina kleju i trocin.",
+      "rozdrobnione liście drzew.",
+      "rozdrobnione pnie i gałęzie drzew."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 196,
+    "text": "Hurtownia instalacyjna kupuje pompy obiegowe od producenta w cenie 200,00 zł za sztukę, następnie sprzedaje je, doliczając marżę w wysokości 10% oraz podatek VAT (wg stawki 23%). Cena zbytu jednej pompy obiegowej dla indywidualnego klienta wyniesie",
+    "answers": [
+      "246,00 zł",
+      "224,60 zł",
+      "270,60 zł",
+      "220,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 197,
+    "text": "Do odnawialnych źródeł energii należą",
+    "answers": [
+      "energia wody, ropa naftowa.",
+      "energia geotermalna, węgiel brunatny.",
+      "energia wiatru, biogaz.",
+      "węgiel kamienny, gaz ziemny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 198,
+    "text": "Które z przedstawionych narzędzi służy do łączenia rur PP?",
+    "answers": [
+      "Narzędzie 4.",
+      "Narzędzie 2.",
+      "Narzędzie 1.",
+      "Narzędzie 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_narzedzia7.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 199,
+    "text": "Na przedstawionym schemacie słonecznej instalacji grzewczej grupę pompową zaznaczono numerem * zdający otrzymuje jeden punkt niezależnie od udzielonej odpowiedzi.",
+    "answers": [
+      "2 \nB.  4 \nC.  13 \nD.  20"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_schemat13.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 200,
+    "text": "Elementem budowy elektrowni wiatrowej jest",
+    "answers": [
+      "ruszt.",
+      "śluza.",
+      "absorber.",
+      "turbina."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 201,
+    "text": "Izolacja przewodów elektrycznych w kolorze brązowym oznacza przewody",
+    "answers": [
+      "neutralne.",
+      "ochronne.",
+      "fazowe.",
+      "uziomowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 202,
+    "text": "Instalację ogrzewania podłogowego zasilaną z pompy ciepła wykonuje się z rur",
+    "answers": [
+      "z tworzyw sztucznych.",
+      "kamionkowych.",
+      "żeliwnych.",
+      "stalowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 203,
+    "text": "W kolektorach słonecznych absorber może być wykonany z",
+    "answers": [
+      "stali nierdzewnej lub mosiądzu.",
+      "żeliwa lub stali ocynkowanej.",
+      "aluminium lub miedzi.",
+      "mosiądzu lub akrylu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 204,
+    "text": "Która ilustracja przedstawia zawór ze śrubunkiem?",
+    "answers": [
+      "Ilustracja 2.",
+      "Ilustracja 4.",
+      "Ilustracja 3.",
+      "Ilustracja 1."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_zawory3.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 205,
+    "text": "Podstawowym składnikiem biogazu jest",
+    "answers": [
+      "metan.",
+      "wodór.",
+      "dwutlenek węgla.",
+      "siarkowodór."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 206,
+    "text": "Kosztorys nie zawierający informacji o cenach, to kosztorys",
+    "answers": [
+      "ofertowy.",
+      "wstępny.",
+      "powykonawczy.",
+      "ślepy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 207,
+    "text": "Na schemacie technologicznym kotłowni opalanej biomasą liczbą 10 oznaczono",
+    "answers": [
+      "komin.",
+      "rozdrabniacz.",
+      "podajnik.",
+      "wentylator."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_schemat14.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 208,
+    "text": "Elektrownie wiatrowe mogą być uciążliwe dla ptaków ze względu na",
+    "answers": [
+      "cień aerodynamiczny dla okolicznych budynków.",
+      "duże wahania mocy produkowanej przez wiatrak.",
+      "zaburzenia przepływu wiatru na obszarze wokół wiatraka.",
+      "drogi dojazdowe do wiatraka."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 209,
+    "text": "Przewód oznaczony jako LgY 2×1,5 to przewód",
+    "answers": [
+      "dwużyłowy o przekroju żyły 1,5 mm2, każda żyła miedziana w postaci drutu jednożyłowego.",
+      "dwużyłowy o przekroju żyły 1,5 mm2 w postaci linek splatanych z wielu drobnych drucików miedzianych.",
+      "jednożyłowy o przekroju żyły 3,0 mm2, żyła miedziana w postaci drutu jednożyłowego.",
+      "jednożyłowy o przekroju żyły 3,0 mm2, w postaci linek splatanych z wielu drobnych drucików miedzianych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 210,
+    "text": "Dolnym źródłem dla pompy ciepła nie może być",
+    "answers": [
+      "słońce.",
+      "powietrze atmosferyczne.",
+      "grunt.",
+      "woda gruntowa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 211,
+    "text": "Rury polietylenowe do budowy kolektora gruntowego należy transportować i składować w kręgach. Wysokość składowania nie powinna przekraczać",
+    "answers": [
+      "1,8 m",
+      "1,5 m",
+      "2,2 m",
+      "2,0 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 212,
+    "text": "Kolektory słoneczne płaskie należy sytuować na dachu budynku, zorientowane w kierunku",
+    "answers": [
+      "południowym.",
+      "zachodnim.",
+      "północnym.",
+      "wschodnim."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 213,
+    "text": "Aby zapewnić maksymalną efektywność całorocznej słonecznej instalacji podgrzewającej wodę do celów użytkowych w Polsce, należy kolektory ustawić względem poziomu w kierunku południowym pod kątem",
+    "answers": [
+      "70°",
+      "45°",
+      "90°",
+      "20°"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 214,
+    "text": "W instrukcji instalacji słonecznej grzewczej na schemacie liczbą 10 zaznaczono",
+    "answers": [
+      "odpowietrznik.",
+      "zawór bezpieczeństwa.",
+      "rotametr.",
+      "sterownik solarny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_schemat.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 215,
+    "text": "Na podstawie przedstawionych w tabeli danych technicznych płaskich kolektorów słonecznych wskaż, który z nich ma najwyższą sprawność optyczną.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_tabela2.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 216,
+    "text": "Który z elementów autonomicznej instalacji fotowoltaicznej jest nieprawidłowo podłączony?",
+    "answers": [
+      "Inwerter.",
+      "Odbiornik.",
+      "Panel fotowoltaiczny.",
+      "Akumulator."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_instalacja.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 217,
+    "text": "Aby zapewnić maksymalną efektywność całorocznej słonecznej instalacji podgrzewającej wodę do celów użytkowych, w Polsce należy kolektory ustawić względem poziomu w kierunku południowym pod kątem",
+    "answers": [
+      "70°",
+      "90°",
+      "45°",
+      "20°"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 218,
+    "text": "Zestaw fotowoltaiczny zawiera dwa panele fotowoltaiczne, regulator ładowania oraz dwa akumulatory 12 V każdy. Aby zasilać tym zestawem urządzenia o napięciu znamionowym 12 V DC, należy połączyć",
+    "answers": [
+      "panele szeregowo.",
+      "panele równolegle.",
+      "akumulatory szeregowo.",
+      "akumulatory równolegle."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 219,
+    "text": "Podczas transportu samochodem do klienta gruntowej pompy ciepła, w której moduł chłodniczy znajduje się na dole urządzenia, należy ją przewozić",
+    "answers": [
+      "leżącą na tylnej ściance.",
+      "stojącą pionowo.",
+      "leżącą na bocznej ściance.",
+      "pochyloną pod kątem 45°."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 220,
+    "text": "Pomiarów rezystancji poszczególnych ogniw w baterii akumulatorów należy dokonywać",
+    "answers": [
+      "codziennie.",
+      "raz w miesiącu.",
+      "raz w roku.",
+      "co 6 miesięcy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 221,
+    "text": "W instrukcji montażu zasobnika solarnego przedstawiony symbol graficzny oznacza",
+    "answers": [
+      "odpowietrznik automatyczny.",
+      "odpowietrznik ręczny.",
+      "zawór mieszający.",
+      "zawór bezpieczeństwa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_symbol.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 222,
+    "text": "Na podstawie mapy stref przemarzania gruntu określ, na jakiej minimalnej głębokości należy umieścić kolektor gruntowy zlokalizowany w Koszalinie wiedząc, że należy go umieścić co najmniej 30 cm poniżej głębokości przemarzania i ograniczać koszty budowy wymiennika.",
+    "answers": [
+      "0,8 m",
+      "1,8 m",
+      "0,5 m",
+      "1,1 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_mapa.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 223,
+    "text": "Najbardziej właściwym materiałem z którego powinny być wykonane łopaty wirnika turbiny wiatrowej omocy 2 MW jest",
+    "answers": [
+      "miedź.",
+      "aluminium.",
+      "stal.",
+      "włókna szklane."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 224,
+    "text": "Aby zabezpieczyć kocioł na biomasę przed niską temperaturą nośnika powracającego z instalacji c.o., należy zastosować zawór",
+    "answers": [
+      "termostatyczny na powrocie z instalacji c.o.",
+      "termostatyczny przed grzejnikami c.o.",
+      "mieszający na powrocie z instalacji.",
+      "mieszający na zasilaniu instalacji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 225,
+    "text": "Zabezpieczeniem przed niskim poziomem wody w kotłach na biomasę jest czujnik pływakowy, który należy zamontować",
+    "answers": [
+      "na zasilaniu instalacji c.o. 10 cm powyżej najwyższej części kotła.",
+      "na zasilaniu instalacji c.o. 10 cm poniżej najwyższej części kotła.",
+      "na powrocie z instalacji c.o. 10 cm powyżej najwyższej części kotła.",
+      "na powrocie z instalacji c.o. 10 cm poniżej najwyższej części kotła."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 226,
+    "text": "Odpowietrznik w słonecznej instalacji grzewczej należy umieścić",
+    "answers": [
+      "bezpośrednio za pompą.",
+      "w najwyższym punkcie instalacji.",
+      "w najniższym punkcie instalacji.",
+      "za zaworem bezpieczeństwa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 227,
+    "text": "Na zapotrzebowaniu materiałowym do wykonania instalacji fotowoltaicznej widnieje symbol YDYt 3×2,5. Oznacza to, że jest to przewód z żyłami",
+    "answers": [
+      "jednodrutowymi aluminiowymi do podłączenia w szereg akumulatorów.",
+      "wielodrutowymi miedzianymi do podłączenia akumulatora z regulatorem ładowania.",
+      "jednodrutowymi miedzianymi do wykonania instalacji elektrycznej wewnątrz budynku w tynku.",
+      "wielodrutowym miedzianymi do wykonania instalacji elektrycznej wewnątrz budynku w tynku."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 228,
+    "text": "Narzędzie przedstawione na rysunku służy do",
+    "answers": [
+      "zaprasowywania rur miedzianych.",
+      "wykonywania kołnierza na rurach karbowanych.",
+      "gięcia rur miedzianych.",
+      "cięcia rur Alu-PEX."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_narzedzie.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 229,
+    "text": "W instrukcji montażu zasobnika c.w.u. jest napisane, że należy go podłączyć do instalacji w sposób umożliwiający jego rozłączenie. Zasobnik posiada króćce z gwintem wewnętrznym. Aby wykonać takie podłączenie należy użyć",
+    "answers": [
+      "złączki prostej z gwintem wewnętrznym.",
+      "złączki prostej z gwintem zewnętrznym.",
+      "nypla.",
+      "śrubunku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 230,
+    "text": "Do montażu instalacji w systemie rur PP należy dysponować",
+    "answers": [
+      "nożycami do rur, gratownikiem i zestawem kluczy płaskich.",
+      "obcinakiem do rur, gratownikiem i klejem.",
+      "obcinakiem do rur, kalibratorem i zaciskarką.",
+      "nożycami do rur, gratownikiem i zgrzewarką."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 231,
+    "text": "Na podstawie przedstawionej tabeli określ przyczynę wolnego migania diody Info LED na czerwono razem z zieloną diodą Battery LED na regulatorze ładowania.",
+    "answers": [
+      "Zbyt wysokie napięcie akumulatora.",
+      "Stan podtrzymania akumulatora.",
+      "Zbyt niskie napięcie akumulatora.",
+      "Zbyt duży prąd z paneli."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_tabela.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 232,
+    "text": "Przedstawione na rysunku narzędzie służy do",
+    "answers": [
+      "wykonania kołnierza na rurze karbowanej.",
+      "kalibrowania rury karbowanej.",
+      "kalibrowania rury PEX.",
+      "usuwania zadziorów z krawędzi rury miedzianej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_narzedzie2.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 233,
+    "text": "W celu podłączenia kotła na biomasę do wężownicy zasobnika c.w.u w wodnej instalacji grzewczej w układzie otwartym można użyć rury",
+    "answers": [
+      "z polipropylenu.",
+      "ze stali nierdzewnej.",
+      "Alu-PEX.",
+      "ze stali ocynkowanej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 234,
+    "text": "Montaż kolektorów słonecznych na dachu płaskim został wykonany przez instalatora i dwóch pomocników. Stawka instalatora wynosi 50,00 zł za roboczogodzinę a stawka pomocnika 20,00 zł. Ile wynosi kosztorysowa wartość robocizny, jeżeli nakład robocizny wynosi 8 godzin?",
+    "answers": [
+      "960,00 zł",
+      "720,00 zł",
+      "90,00 zł",
+      "560,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 235,
+    "text": "Do montażu panelu fotowoltaicznego na dachu płaskim należy zastosować",
+    "answers": [
+      "śruby rzymskie.",
+      "profil wielorowkowy i kotwy krokwiowe.",
+      "stelaż z ram trójkątnych.",
+      "profil wielorowkowy i kołki rozporowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 236,
+    "text": "Wskaż w oparciu o fragment instrukcji montażowej grupy pompowej, do którego z króćców trzeba podłączyć rurę elastyczną podłączoną do złącza krzyżowego kolektora słonecznego.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_instrukcja.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 237,
+    "text": "Izolacja przewodu łączącego regulator ładowania z dodatnim zaciskiem akumulatora powinna mieć kolor",
+    "answers": [
+      "czarny.",
+      "brązowy.",
+      "niebieski.",
+      "czerwony."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 238,
+    "text": "Pierwszą z czynności po wykonaniu montażu słonecznej instalacji grzewczej jest",
+    "answers": [
+      "izolacja jej przewodów.",
+      "jej próba ciśnieniowa.",
+      "napełnianie jej czynnikiem.",
+      "jej odpowietrzenie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 239,
+    "text": "Którego z narzędzi należy użyć do wykonania złącza zaprasowanego?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_narzedzia.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 240,
+    "text": "Podczas przeglądu technicznego instalacji fotowoltaicznej wykonano pomiary multimetrem. Jego wskazanie świadczy, że mierzono",
+    "answers": [
+      "napięcie zmienne.",
+      "napięcie stałe.",
+      "rezystancję.",
+      "natężenie prądu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_multimetr.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 241,
+    "text": "Który obszar na dachu namiotowym jest optymalny do montażu kolektorów słonecznych?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_dach.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 242,
+    "text": "Czujnik termostatyczny systemu „strażak” stosowany do zabezpieczenia kotłów na biomasę należy zamontować",
+    "answers": [
+      "na obudowie podajnika.",
+      "w czopuchu kotła.",
+      "w podajniku ślimakowym.",
+      "w komorze paleniskowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 243,
+    "text": "Diody bypass w instalacji fotowoltaicznej montowane są zazwyczaj",
+    "answers": [
+      "w puszce przyłączeniowej panelu fotowoltaicznego.",
+      "pomiędzy dwoma panelami w stringu.",
+      "na końcu łańcucha paneli.",
+      "pomiędzy łańcuchem paneli a akumulatorem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 244,
+    "text": "Podczas pracy instalacji fotowoltaicznej zaobserwowano na inwerterze kod błędu informujący o zwarciu doziemnym. Przyczyną takiego stanu może być",
+    "answers": [
+      "rozładowany akumulator.",
+      "niedopasowanie prądowe paneli.",
+      "uszkodzony przewód.",
+      "zacienienie paneli."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 245,
+    "text": "Do montażu kształtki miedzianej przedstawionej na rysunku należy użyć",
+    "answers": [
+      "zestawu kluczy.",
+      "kielichownicy.",
+      "palnika na propan-butan.",
+      "zaciskarki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_ksztaltka.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 246,
+    "text": "Współczynnik efektywności COP pompy ciepła o parametrach podanych w tabeli przy podgrzewaniu wody do temperatury 40°C przy temperaturze otoczenia 3°C wynosi",
+    "answers": [
+      "12,5",
+      "5,0",
+      "0,2",
+      "4,4"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_tabela3.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 247,
+    "text": "W trakcie wymiany separatora powietrza w solarnej grupie pompowej należy go zamontować na",
+    "answers": [
+      "zasilaniu kolektora przed pompą.",
+      "zasilaniu kolektora za pompą.",
+      "powrocie z kolektora za zaworem odcinającym.",
+      "powrocie z kolektora przed zaworem odcinającym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 248,
+    "text": "Moc całego łańcucha paneli fotowoltaicznych połączonych jak na rysunku wynosi",
+    "answers": [
+      "9 W",
+      "72 W",
+      "19 W",
+      "171 W"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele10/bd17_lancuch.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 249,
+    "text": "Zewnętrzny zespół powietrznej pompy ciepła należy zamontować",
+    "answers": [
+      "w odległości minimum 0,5 m od ściany zewnętrznej z wyrzutnią powietrza skierowaną do ściany.",
+      "bezpośrednio przy zewnętrznej ścianie budynku z wyrzutnią powietrza skierowaną do ściany.",
+      "bezpośrednio przy zewnętrznej ścianie budynku z czerpnią powietrza skierowaną do ściany.",
+      "w odległości minimum 0,5 m od ściany zewnętrznej z wyrzutnią powietrza skierowaną na zewnątrz ściany."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 250,
+    "text": "W czasie eksploatacji słonecznego systemu grzewczego stwierdzono późne załączanie pompy obiegowej przy wysokiej temperaturze na powrocie z kolektora. Przyczyną takiego stanu może być",
+    "answers": [
+      "ustawiony tryb urlop na regulatorze.",
+      "za mała histereza ustawiona na regulatorze.",
+      "uszkodzona pompa solarna.",
+      "uszkodzony czujnik temperatury."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 251,
+    "text": "Na schemacie technologicznym kotłowni opalanej biomasą cyfrą 1 oznaczono",
+    "answers": [
+      "rozdrabniacz.",
+      "podajnik.",
+      "komin.",
+      "wentylator."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_schemat14.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 252,
+    "text": "Solarna stacja napełniająca pracuje z wydajnością 3 dm3/s. W ciągu dwóch godzin może napełnić instalację o maksymalnej objętości",
+    "answers": [
+      "6,00 m3",
+      "21,60 m3",
+      "10,80 m3",
+      "32,40 m3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 253,
+    "text": "Jeżeli prędkość wiatru wzrosła dwukrotnie, to turbina wiatrowa może wytworzyć",
+    "answers": [
+      "cztery razy więcej energii.",
+      "szesnaście razy więcej energii.",
+      "dwa razy więcej energii.",
+      "osiem razy więcej energii."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 254,
+    "text": "Które z przedstawionych narzędzi służy do łączenia rur PeX/Al/PeX?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_narzedzia6.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 255,
+    "text": "Paliwo powstałe ze sprasowania trocin, które powstają podczas prac tartacznych oraz innych działań związanych z obrabianiem produktów drzewnych to",
+    "answers": [
+      "zrębki.",
+      "pelet.",
+      "ziarno.",
+      "ekogroszek."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 256,
+    "text": "Hurtownia instalacyjna kupuje pompy obiegowe od producenta w cenie 100,00 zł za sztukę, następnie sprzedaje je, doliczając marżę w wysokości 10% oraz podatek VAT (wg stawki 23%). Cena zbytu jednej pompy obiegowej wyniesie",
+    "answers": [
+      "110,00 zł",
+      "123,00 zł",
+      "110,33 zł",
+      "135,30 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 257,
+    "text": "Na rysunku elektrowni wodnej z pionową turbiną Francisa cyfrą 3 oznaczono",
+    "answers": [
+      "regulator ręczny.",
+      "spust wody.",
+      "przekładnię pasową.",
+      "przekładnię zębatą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_elektrownia2.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 258,
+    "text": "Fotoogniwa przekształcają energię słoneczną na energię",
+    "answers": [
+      "cieplną.",
+      "chemiczną.",
+      "mechaniczną.",
+      "elektryczną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 259,
+    "text": "Współczynnikiem COP określa się",
+    "answers": [
+      "ciepło parowania w określonej temperaturze i przy odpowiednim ciśnieniu.",
+      "moc chłodniczą, którą osiąga pompa ciepła w najbardziej niekorzystnych warunkach.",
+      "sprawność chłodniczą, która wyrażona jest w procentach bądź bezwymiarowo.",
+      "stosunek ilości ciepła wytwarzanego w pompie ciepła do ilości pobranej energii elektrycznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 260,
+    "text": "Moc takich samych pomp ciepła połączonych kaskadowo jest",
+    "answers": [
+      "większa dla jednej z pomp.",
+      "sumą mocy poszczególnych pomp.",
+      "połowie mocy jednej pompy.",
+      "równa mocy pojedynczej pompy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 261,
+    "text": "Z kolektora słonecznego o powierzchni 3 m2 i sprawności przekazywania energii cieplnej 80% przy nasłonecznieniu 1000 W/m2 można uzyskać moc wynoszącą",
+    "answers": [
+      "3 000 W",
+      "800 W",
+      "2 400 W",
+      "1 600 W"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 262,
+    "text": "Symbol zaworu zwrotnego przedstawiono na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_symbole3.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 263,
+    "text": "Absorber w kolektorach słonecznych może być wykonany z",
+    "answers": [
+      "miedzi lub żeliwa.",
+      "aluminium lub miedzi.",
+      "aluminium lub mosiądzu.",
+      "tworzywa lub stali."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 264,
+    "text": "Na przedstawionym schemacie instalacji solarnej odpowietrzenie zaznaczono liczbą",
+    "answers": [
+      "2",
+      "20",
+      "4",
+      "21"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_schemat13.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 265,
+    "text": "Łącząc szeregowo panele fotowoltaiczne należy wziąć pod uwagę",
+    "answers": [
+      "napięcie w sieci elektrycznej.",
+      "częstotliwość prądu w sieci elektrycznej.",
+      "zakres napięcia regulatora ładowania.",
+      "moc akumulatora."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 266,
+    "text": "Najwyższy współczynnik absorpcji z wymienionych materiałów posiada",
+    "answers": [
+      "czarna farba.",
+      "blacha miedziana.",
+      "czarny chrom.",
+      "blacha aluminiowa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 267,
+    "text": "Elektrownie wiatrowe mogą być uciążliwe dla zwierząt ze względu na",
+    "answers": [
+      "wysokość wiatraka.",
+      "cień aerodynamiczny dla okolicznych budynków.",
+      "duże wahania mocy produkowanej przez wiatrak.",
+      "zaburzenia przepływu wiatru na obszarze wokół wiatraka."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 268,
+    "text": "Elektrownie wodne wykorzystujące energię przepływu wody to elektrownie",
+    "answers": [
+      "regulacyjne.",
+      "szczytowo-pompowe.",
+      "cieplne.",
+      "przepływowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 269,
+    "text": "W instalacji, która ma zapewniony grawitacyjny obieg czynnika grzewczego nie znajdzie się",
+    "answers": [
+      "zawór zwrotny.",
+      "zawór bezpieczeństwa.",
+      "zawór odcinający.",
+      "pompa obiegowa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 270,
+    "text": "Oblicz wartość promieniowania bezpośredniego, wiedząc że promieniowanie rozproszone wynosi 300 W/m2, a promieniowanie całkowite 1000 W/m2.",
+    "answers": [
+      "1 300 W/m2",
+      "1 000 W/m2",
+      "800 W/m2",
+      "700 W/m2"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 271,
+    "text": "Które rury należy chronić przed działaniem promieni słonecznych? * zdający otrzymuje jeden punkt niezależnie od udzielonej odpowiedzi.",
+    "answers": [
+      "Żeliwne.  \nB.  Miedziane. \nC.  Stalowe ocynkowane. \nD.  Ze stali cienkościennej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 272,
+    "text": "Przetwornica napięcia jest to urządzenie wykorzystywane w instalacjach fotowoltaicznych do",
+    "answers": [
+      "zamiany napięcia zmiennego na stałe.",
+      "zabezpieczenia akumulatora przed przeładowaniem.",
+      "utrzymywania stałego napięcia w akumulatorze.",
+      "zamiany napięcia stałego na zmienne."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 273,
+    "text": "Do budowli piętrzących zalicza się",
+    "answers": [
+      "przepławki dla ryb.",
+      "śluzy.",
+      "zapory.",
+      "ujęcia wody."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 274,
+    "text": "Wentylacją naturalną nie jest",
+    "answers": [
+      "wentylacja przeciwpożarowa.",
+      "przewietrzanie.",
+      "aeracja.",
+      "wentylacja grawitacyjna."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 275,
+    "text": "Zawór bezpieczeństwa przedstawiony jest na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele10/b21_zawory2.png"
+    },
+    "category": "ELE.10"
+  },
+  {
+    "id": 276,
+    "text": "Izolacja przewodów elektrycznych w kolorze żółto-zielonym oznacza przewody",
+    "answers": [
+      "neutralne.",
+      "fazowe.",
+      "ochronne.",
+      "zerowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 277,
+    "text": "Uczestnikiem procesu budowlanego nie jest",
+    "answers": [
+      "kierownik budowy.",
+      "inwestor.",
+      "kominiarz.",
+      "projektant."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 278,
+    "text": "Element który nie znajduje się w elektrowni wiatrowej to",
+    "answers": [
+      "generator.",
+      "zawór bezpieczeństwa.",
+      "turbina.",
+      "prostownik."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 279,
+    "text": "Po wykonaniu robót polegających na zakryciu wykopu należy dokonać odbioru",
+    "answers": [
+      "częściowego.",
+      "końcowego.",
+      "gwarancyjnego.",
+      "inwestorskiego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 280,
+    "text": "Powietrzna pompa ciepła osiąga największą sprawność",
+    "answers": [
+      "niezależnie od temperatury zewnętrznej.",
+      "przy temperaturze 0°C.",
+      "w dodatnich temperaturach.",
+      "w ujemnych temperaturach."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.10"
+  },
+  {
+    "id": 281,
+    "text": "Przewód oznaczony jako YDY 2×1,5 to przewód",
+    "answers": [
+      "okrągły o przekroju żyły 3,0 mm2, każda żyła miedziana w postaci drutu jednożyłowego.",
+      "okrągły dwużyłowy o przekroju żyły 1,5 mm2, każda żyła miedziana w postaci drutu jednożyłowego.",
+      "płaski trójżyłowy o przekroju żyły 1,0 mm2, każda żyła miedziana w postaci drutu jednożyłowego.",
+      "o przekroju żyły 1,5 mm2 w postaci linek splatanych z wielu drobnych drucików miedzianych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.10"
+  }
+]
