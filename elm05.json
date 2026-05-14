@@ -1,0 +1,4483 @@
+[
+  {
+    "id": 1,
+    "text": "W układzie z wzmacniaczem i głośnikiem istotne jest pod kątem sprawności układu, aby impedancja głośnika",
+    "answers": [
+      "była jak największa.",
+      "równa impedancji wyjściowej wzmacniacza.",
+      "większa niż impedancja wyjściowa wzmacniacza.",
+      "była jak najmniejsza."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 2,
+    "text": "Jaki jest zakres regulacji napięcia wyjściowego względem napięcia wejściowego przedstawionego na schemacie dzielnika napięcia?",
+    "answers": [
+      "UWY = (1/3 ÷ 2/3)·UWE",
+      "UWY = (0 ÷1)·UWE",
+      "UWY = (1/3 ÷ 1)·UWE",
+      "UWY = (0 ÷ 2/3)·UWE"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_dzielnik3.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 3,
+    "text": "Dioda LED w zakresie fali o długości 940 nm emituje promieniowanie elektromagnetyczne",
+    "answers": [
+      "żółte.",
+      "ultrafioletowe.",
+      "zielone.",
+      "podczerwone."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 4,
+    "text": "W tabeli przedstawiono wybrane dane techniczne regulatora temperatury. Bezpośrednio do wejścia tego regulatora można podłączyć",
+    "answers": [
+      "termoparę.",
+      "czujnik pirometryczny.",
+      "termistor.",
+      "czujnik rezystancyjny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_tabela16.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 5,
+    "text": "Przedstawione na ilustracji narzędzie służy do zaciskania wtyków typu",
+    "answers": [
+      "F",
+      "RJ",
+      "BNC",
+      "RCA"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_narzedzie2.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 6,
+    "text": "Na podstawie oscylogramu określ wartość częstotliwości f obserwowanego przebiegu napięcia.",
+    "answers": [
+      "f = 100 Hz",
+      "f = 10 Hz",
+      "f = 200 Hz",
+      "f = 20 Hz"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_oscylogram5.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 7,
+    "text": "Na schemacie przedstawiono układ z otwartym włącznikiem. Którą wartość powinno mieć napięcie źródła, aby po zamknięciu łącznika pobierany prąd ze źródła pozostał bez zmian?",
+    "answers": [
+      "15 V",
+      "10 V",
+      "20 V",
+      "5 V"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad58.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 8,
+    "text": "Przedstawiony na ilustracji kabel jest",
+    "answers": [
+      "współosiowy.",
+      "symetryczny.",
+      "niesymetryczny.",
+      "koncentryczny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_kabel.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 9,
+    "text": "Układ cyfrowy sekwencyjny charakteryzuje się tym, że sygnał wyjściowy",
+    "answers": [
+      "nie zależy od bieżącej informacji wejściowej i zależy od poprzednich informacji wyjściowych.",
+      "nie zależy od bieżącej informacji wejściowej i nie zależy od poprzednich informacji wyjściowych.",
+      "zależy od bieżącej informacji wejściowej i nie zależy od poprzednich informacji wyjściowych.",
+      "zależy od bieżącej informacji wejściowej i zależy od poprzednich informacji wyjściowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 10,
+    "text": "Przedstawiony na ilustracji układ służy do",
+    "answers": [
+      "uzyskania separacji galwanicznej.",
+      "uzyskania bezprzewodowej transmisji danych.",
+      "filtrowania sygnału.",
+      "wzmocnienia sygnału."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad57.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 11,
+    "text": "W których jednostkach wyrażane jest tłumienie jednostkowe linii światłowodowej?",
+    "answers": [
+      "m/dB",
+      "dB/km",
+      "dB/mV",
+      "mV/dB"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 12,
+    "text": "Na ilustracji przedstawiono schemat połączeń czujki ruchu. W jaki sposób należy zaprogramować wejścia Z1 i Z2 centrali alarmowej?",
+    "answers": [
+      "Z1 – NC, Z2 – EOL",
+      "Z1 – EOL, Z2 – EOL",
+      "Z1 – NC, Z2 – NC",
+      "Z1 – EOL, Z2 – NC"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schemat52.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 13,
+    "text": "Manipulator przedstawiony na lustracji wyświetla liczbę w systemie binarnym za pomocą pięciu diod świecących LED opisanych 1, 2, 3, 4 i 5. Którą liczbę w systemie dziesiętnym przedstawia manipulator?",
+    "answers": [
+      "5",
+      "9",
+      "2",
+      "7"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_manipulator.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 14,
+    "text": "Który z przedstawionych kabli jest kablem światłowodowym?",
+    "answers": [
+      "Kabel 1.",
+      "Kabel 3.",
+      "Kabel 2.",
+      "Kabel 4."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_kable2.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 15,
+    "text": "W ramach konserwacji instalacji systemu sygnalizacji włamania i napadu nie jest wymagane sprawdzenie",
+    "answers": [
+      "wysokości zamontowania manipulatora.",
+      "działania obwodów sabotażowych.",
+      "działania czujek alarmowych.",
+      "poziomu naładowania akumulatora."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 16,
+    "text": "Który układ należy zastosować do pomiaru charakterystyki prądowo-napięciowej diody tunelowej w zakresie dużych prądów w kierunku przewodzenia?",
+    "answers": [
+      "Układ 4.",
+      "Układ 2.",
+      "Układ 3.",
+      "Układ 1."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklady11.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 17,
+    "text": "Określ stan wyjścia y układu w zależności od stanu wejścia sterującego s.",
+    "answers": [
+      "dla s = 0, y = 0 dla s = 1, y = a + b",
+      "dla s = 0, y = 0 dla s = 1, y = a ∙ b",
+      "dla s = 0, y = 1 dla s = 1, y = a ∙ b",
+      "dla s = 0, y = 1 dla s = 1, y = a + b"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad59.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 18,
+    "text": "Jaka jest wartość prądu kolektora tranzystora IC zmierzonego za pomocą amperomierza o klasie dokładności równej 0,5 i zakresie pomiarowym In=200 mA?",
+    "answers": [
+      "(140±2) mA",
+      "(70±1) mA",
+      "(70±2) mA",
+      "(140±1) mA"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_pomiar4.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 19,
+    "text": "W celu zdemontowania umocowanego na szynie DIN uszkodzonego regulatora PID należy wykonać czynności w następującej kolejności:",
+    "answers": [
+      "odpiąć regulator z szyny, odłączyć napięcie, odkręcić przewody.",
+      "odłączyć napięcie, odpiąć regulator z szyny, odkręcić przewody.",
+      "odłączyć napięcie, odkręcić przewody, odpiąć regulator z szyny.",
+      "odkręcić przewody, odpiąć regulator z szyny, odłączyć napięcie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 20,
+    "text": "Urządzenie grzejne jest wyposażone w element zapewniający kontrolę temperatury z wykorzystaniem zjawiska różnego stopnia rozszerzania się materiałów pod wpływem ciepła. Element urządzenia kontrolujący temperaturę bazuje na",
+    "answers": [
+      "bimetalu.",
+      "wzmacniaczu operacyjnym.",
+      "termoparze.",
+      "ogniwie Peltiera."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 21,
+    "text": "Ile wyniesie wartość napięcia wyjściowego U2 po zmianie wartości rezystancji R2 z 20 kΩ na 10 kΩ?",
+    "answers": [
+      "-1,6 V",
+      "-0,2 V",
+      "-0,1 V",
+      "-0,8 V"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schemat50.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 22,
+    "text": "Bezprzewodową, optyczną transmisję danych zapewnia standard, którego elementem jest interfejs",
+    "answers": [
+      "IrDa",
+      "LoRa",
+      "Bluetooth",
+      "WiFi"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 23,
+    "text": "Spadek amplitudy transmitowanego światła w linii światłowodowej nazywany jest",
+    "answers": [
+      "tłumieniem.",
+      "propagacją.",
+      "polaryzacją.",
+      "dyspersją."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 24,
+    "text": "Po włączeniu laboratoryjnego zasilacza regulowanego stwierdzono, że zasilacz nie działa oraz wskaźnik pracy urządzenia (dioda LED) nie świeci się. Sprawdzono stan gniazda zasilającego, do którego podłączono zasilacz i nie stwierdzono usterki w tym gnieździe. Lokalizację uszkodzeń w zasilaczu należy rozpocząć od sprawdzenia",
+    "answers": [
+      "bezpiecznika aparatowego.",
+      "mostka prostowniczego.",
+      "elementów biernych.",
+      "diody elektroluminescencyjnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 25,
+    "text": "Który sposób naprawy przerwanego kabla antenowego zapewni dobrą jakość transmisji sygnału?",
+    "answers": [
+      "Zlutowanie i zaizolowanie kabla w miejscu uszkodzenia.",
+      "Połączenie kabla za pomocą tulejek zaciskowych.",
+      "Zainstalowanie w miejscu uszkodzenia złączek typu F i łącznika.",
+      "Połączenie kabla za pomocą kostki do przewodów elektrycznych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 26,
+    "text": "Dobierz z szeregu E12 wartość rezystancji R1 tak, aby wzmocnienie napięciowe wzmacniacza wynosiło około KU = 40 V/V.",
+    "answers": [
+      "R1 = 10 Ω",
+      "R1 = 10 kΩ",
+      "R1 = 47 Ω",
+      "R1 = 47 kΩ"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schemat49.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 27,
+    "text": "Na schemacie przedstawiono układ połączeń",
+    "answers": [
+      "symetryzatora.",
+      "wzmacniacza.",
+      "falownika.",
+      "prostownika."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad64.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 28,
+    "text": "W przedstawionym układzie doszło do uszkodzenia jednego z rezystorów. Zakładając, że bit D jest najbardziej znaczący wskaż ten rezystor.",
+    "answers": [
+      "Rezystor podłączony do wyjścia c",
+      "Rezystor podłączony do wyjścia g",
+      "Rezystor podłączony do wyjścia a",
+      "Rezystor podłączony do wyjścia e"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad63.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 29,
+    "text": "Ilustracja przedstawia przerzutnik JK. Wejście C jest wyzwalane",
+    "answers": [
+      "zboczem opadającym.",
+      "zboczem narastającym.",
+      "stanem wysokim.",
+      "stanem niskim."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_przerzutnik3.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 30,
+    "text": "W przedstawionym układzie amperomierz wskazuje 7,3 mA. Która dioda Zenera została poddana pomiarom i ile wynosi wskazanie woltomierza?",
+    "answers": [
+      "BZX55C4V7, UV=4,7 V",
+      "BZX55C5V6, UV=5,6 V",
+      "BZX55C7V5, UV=7,5 V",
+      "BZX55C3V9, UV=3,9 V"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad60.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 31,
+    "text": "Co należy zrobić w pierwszej kolejności, przystępując do wymiany przekaźnika w obwodzie sterowania?",
+    "answers": [
+      "Odłączyć przewody przymocowane do cewki przekaźnika.",
+      "Zdemontować przekaźnik z szyny TH-35.",
+      "Odłączyć przewody przymocowane do styków przekaźnika.",
+      "Wyłączyć napięcie w obwodzie sterowania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 32,
+    "text": "W układzie przedstawionym na schemacie umieszczono 2 źródła napięcia. Jakie musi być napięcie źródła E2, aby obie diody D1 i D2 się zaświeciły.",
+    "answers": [
+      "7 V",
+      "2 V",
+      "5 V",
+      "10 V"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad65.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 33,
+    "text": "Komparator służy do",
+    "answers": [
+      "wzmacniania sygnału.",
+      "filtrowania napięć.",
+      "sumowania dwóch sygnałów.",
+      "porównania dwóch napięć."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 34,
+    "text": "Urządzenie sumujące sygnały o różnych częstotliwościach (z różnych MUX’ów), pochodzących z dwóch lub więcej anten odbiorczych, tak aby sygnały te przesyłane były do odbiornika za pomocą jednego przewodu, to",
+    "answers": [
+      "konwerter.",
+      "zwrotnica antenowa.",
+      "głowica antenowa.",
+      "multiswitch."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 35,
+    "text": "W układzie jak na przedstawionym na schemacie wykonano pomiary potencjałów w punktach od 1 do 4. Na podstawie wyników pomiarów określ wartość prądu kolektora tranzystora.",
+    "answers": [
+      "40 mA",
+      "10 mA",
+      "30 mA",
+      "20 mA"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad61.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 36,
+    "text": "Która z liczb jest zapisem w kodzie BCD 8421?",
+    "answers": [
+      "01100110",
+      "11001100",
+      "11101110",
+      "10101010"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 37,
+    "text": "Na ilustracji przedstawiona jest płytka elektroniki oraz opis bezprzewodowej czujki ruchu. Które ustawienie kołków do konfiguracji należy zastosować, aby czujka pracowała w trybie normalnym, była odporna na zwierzęta i posiadała normalną czułość?",
+    "answers": [
+      "Ustawienie 3.",
+      "Ustawienie 4.",
+      "Ustawienie 1.",
+      "Ustawienie 2."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_plytka.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 38,
+    "text": "W ramach konserwacji instalacji telewizyjnej należy sprawdzić jakość sygnału w gniazdkach abonenckich. W takim przypadku w gniazdku abonenckim należy wykonać pomiar",
+    "answers": [
+      "współczynnika błędnych bitów (BER).",
+      "natężenia prądu (I).",
+      "mocy czynnej (P).",
+      "współczynnika zawartości harmonicznych (THD)."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 39,
+    "text": "Elementem zamieniającym energię fali elektromagnetycznej na napięcie w odbiorniku radiowym jest",
+    "answers": [
+      "wzmacniacz w.cz.",
+      "antena odbiorcza.",
+      "demodulator.",
+      "heterodyna."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 40,
+    "text": "W danych katalogowych rezystora SMD podano wartość rezystancji 100 Ω i moc 0,25 W. Jakie jest największe natężenie prądu, które może płynąć przez ten rezystor?",
+    "answers": [
+      "250 mA",
+      "4 mA",
+      "200 mA",
+      "50 mA"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 41,
+    "text": "Jaki minimalny stopień ochrony powinna posiadać obudowa kontrolera przejścia, aby mógł on pracować na zewnątrz budynku?",
+    "answers": [
+      "IP22",
+      "IP44",
+      "IP33",
+      "IP11"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 42,
+    "text": "Do przetwornicy 12 V DC/ 230 V AC 1 000 W podłączono sprawny silnik indukcyjny o mocy 120 W. Silnik nie działa prawidłowo. Żarówka o mocy 200 W podłączona do tej przetwornicy działa prawidłowo. Zmierzone napięcie wyjściowe przetwornicy wynosi 229 V. Na podstawie obserwacji i wyniku pomiaru można stwierdzić, że",
+    "answers": [
+      "przetwornica ma zbyt małą moc do zasilenia silnika.",
+      "akumulator zasilający przetwornicę jest rozładowany.",
+      "napięcie wyjściowe jest za wysokie.",
+      "przetwornica nie wytwarza przebiegu sinusoidalnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 43,
+    "text": "Którego przyrządu pomiarowego należy użyć do zmierzenia wartości skutecznej napięcia przebiegu prostokątnego o częstotliwości 100 Hz?",
+    "answers": [
+      "Woltomierza AC z funkcją TRUE RMS.",
+      "Galwanometru mierzącego napięcie stałe.",
+      "Woltomierza AC bez funkcji TRUE RMS.",
+      "Galwanometru mierzącego napięcie zmienne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 44,
+    "text": "Który rodzaj pamięci stałej urządzenia elektronicznego umożliwia upgrade firmware bez użycia specjalnego programatora?",
+    "answers": [
+      "EEPROM",
+      "FLASH ROM",
+      "EPROM",
+      "OTP ROM"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 45,
+    "text": "Pamięć ROM w układzie przedstawionym na schemacie",
+    "answers": [
+      "przechowuje kod programu.",
+      "przechowuje dane operacyjne.",
+      "pełni funkcję pamięci cache dla mikroprocesora.",
+      "pełni funkcję akumulatora mikroprocesora."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schemat45.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 46,
+    "text": "Które urządzenie umożliwia podłączenie kilku urządzeń sieciowych do jednej sieci LAN?",
+    "answers": [
+      "Modulator.",
+      "Serwer.",
+      "Przełącznik.",
+      "Wzmacniak."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 47,
+    "text": "Który układ elektroniczny jest konieczny do bezpośredniego połączenia układów CMOS z układami TTL?",
+    "answers": [
+      "Konwerter poziomów logicznych.",
+      "Generator fali prostokątnej.",
+      "Wzmacniacz napięciowy.",
+      "Stabilizator impulsowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 48,
+    "text": "Przedstawione na rysunku narzędzie służy do",
+    "answers": [
+      "usuwania izolacji z końców przewodów koncentrycznych.",
+      "usuwania warstwy ochronnej z włókien światłowodowych.",
+      "zaciskania konektorów na przewodach elektrycznych.",
+      "montażu wtyków RJ na przewodach typu skrętka."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_narzedzie.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 49,
+    "text": "Która funkcja programów EDA odpowiada za wytyczanie trasy ścieżek przy projektowaniu obwodów drukowanych?",
+    "answers": [
+      "Placing",
+      "Routing",
+      "RuleCheck",
+      "Annotation"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 50,
+    "text": "Podczas kontroli systemu alarmowego na manipulatorze LED współpracującym z centralą alarmową stwierdzono świecenie się przycisku TBL. Po wykonaniu testu sprawdzającego stwierdzono świecenie przycisku oznaczonego cyfrą 2. Zgodnie z instrukcją użytkownika zamieszczoną na rysunku komunikat ten oznacza, że",
+    "answers": [
+      "przewód sabotażowy łączący centralę alarmową z sygnalizatorem został uszkodzony.",
+      "przewody łączące akumulator z centralą wysunęły się i akumulator nie współpracuje z centralą.",
+      "w obwodzie zasilania 230 V AC centrali alarmowej zadziałało zabezpieczenie przeciążeniowe.",
+      "nieprawidłowo zaprogramowane są data i godzina w centrali alarmowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_instrukcja5.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 51,
+    "text": "W celu sprawdzenia poprawności działania piezoelektrycznego przetwornika tensometrycznego wagi elektronicznej należy użyć",
+    "answers": [
+      "amperomierza.",
+      "watomierza.",
+      "galwanometru.",
+      "omomierza."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 52,
+    "text": "Uszkodzeniu uległ triak BT138 o parametrach: IT(RMS) = 12 A, IGT = 15 mA, VDRM = 500 V, VRRM = 800 V sterujący grzałką o mocy 1 300 W i UN = 110 V. Triakiem o którym oznaczeniu można zastąpić uszkodzony triak BT138?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_tabela13.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 53,
+    "text": "Która z funkcji odbiornika telewizyjnego umożliwia oglądanie audycji z wykorzystaniem streamingu?",
+    "answers": [
+      "Telegazeta.",
+      "Smart.",
+      "Timeshift.",
+      "Multi PIP."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 54,
+    "text": "Który element instalacji należy wymienić, jeżeli po pozytywnym wyniku sprawdzenia ciągłości połączeń, wszystkie funkcje unifonu 1 działają prawidłowo, natomiast z unifonu 2 nie można otworzyć elektrozaczepu?",
+    "answers": [
+      "Unifon 1.",
+      "Elektrozaczep.",
+      "Kasetę zewnętrzną.",
+      "Unifon 2."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_instalacja2.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 55,
+    "text": "W urządzeniu elektronicznym uszkodzeniu uległ warystor MYG 10K-431 o napięciu znamionowym 275 V AC, 350 V DC, energii tłumienia 55 J/2 ms i rastrze 7,5 mm. Który element można zastosować w zamian za uszkodzony?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_tabela14.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 56,
+    "text": "Jaką funkcję w odbiorniku radiowym spełnia blok oznaczony cyfrą 1?",
+    "answers": [
+      "Demodulatora.",
+      "Heterodyny.",
+      "Filtru p.cz.",
+      "Wzmacniacza w.cz."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schemat42.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 57,
+    "text": "EPG w cyfrowych odbiornikach TV to",
+    "answers": [
+      "ekranowy przewodnik po programach TV.",
+      "układ eliminujący błędy w odbiorze sygnału.",
+      "kontrola rodzicielska niektórych programów.",
+      "moduł zwiększający czułość odbiornika."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 58,
+    "text": "Jaką funkcję pełni układ przedstawiony na schemacie?",
+    "answers": [
+      "Generatora akustycznego.",
+      "Zasilacza impulsowego.",
+      "Wzmacniacza m.cz.",
+      "Modulatora AM."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schemat43.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 59,
+    "text": "W zwrotnicy głośnikowej trójdrożnej doszło do uszkodzenia (w jednym elemencie nastąpiła przerwa), w wyniku którego głośnik niskotonowy GN przestał odtwarzać dźwięk. Który element został uszkodzony?",
+    "answers": [
+      "C2",
+      "C1",
+      "L2",
+      "L1"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schemat46.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 60,
+    "text": "Do czego wykorzystuje się funkcję NTP w urządzeniach elektronicznych podłączonych do Internetu?",
+    "answers": [
+      "Autoryzacji użytkownika.",
+      "Pobrania adresu IP z serwera DHCP.",
+      "Aktualizacji oprogramowania.",
+      "Synchronizacji aktualnego czasu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 61,
+    "text": "Uchyb regulacji równy 0 zapewni regulator o działaniu",
+    "answers": [
+      "nieciągłym, trójpołożeniowy.",
+      "ciągłym typu PD.",
+      "nieciągłym, dwupołożeniowy.",
+      "ciągłym typu PI."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 62,
+    "text": "Zasilacz o jakich parametrach należy dobrać, aby zasilić 3 metry taśmy LED, jeżeli moc 1 metra taśmy wynosi 4,8 W, a napięcie zasilania taśmy LED wynosi 12 V?",
+    "answers": [
+      "12 V/1,2 A 6 W",
+      "12 V/1,2 A 9 W",
+      "12 V/1,5 A 15 W",
+      "12 V/1,5 A 12 W"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 63,
+    "text": "Który element instalacji alarmowej może służyć do programowania centrali?",
+    "answers": [
+      "Manipulator LED.",
+      "Ekspander wejść.",
+      "Sygnalizator optyczny.",
+      "Czujka ruchu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 64,
+    "text": "Zmniejszający się sukcesywnie od kilkunastu dni zasięg pracy bezprzewodowych urządzeń zdalnego sterowania pracujących w paśmie 433 MHz świadczy o",
+    "answers": [
+      "usterce w obwodzie anteny nadajników.",
+      "utracie pojemności baterii zasilającej nadajniki.",
+      "zbyt niskim napięciu zasilającym odbiornik.",
+      "pogarszających się warunkach atmosferycznych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 65,
+    "text": "Układ przedstawiony na schemacie to",
+    "answers": [
+      "prostownik dwupołówkowy.",
+      "przetwornik PWM.",
+      "stabilizator szeregowy.",
+      "demodulator AM."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schemat44.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 66,
+    "text": "Które urządzenie przedstawia rysunek?",
+    "answers": [
+      "Konwerter światłowód – Ethernet.",
+      "Zasilacz PoE.",
+      "Wzmacniak Ethernetowy.",
+      "Modem sieciowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_urzadzenie10.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 67,
+    "text": "Zamek szyfrowy, domofon oraz odbiornik zdalnego sterowania, posiadają styki NO sterowane funkcją danego urządzenia. Który układ połączeń zapewni możliwość niezależnego otwarcia elektrozaczepu przez każde z tych urządzeń?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklady5.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 68,
+    "text": "W który standard bezprzewodowej wymiany danych musi być wyposażone urządzenie elektroniczne, aby mogło realizować płatności zbliżeniowe?",
+    "answers": [
+      "UNIQUE",
+      "NFC",
+      "MIFARE",
+      "HITAG"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 69,
+    "text": "Która z czynności może być pominięta przy ocenie stanu technicznego instalacji alarmowej?",
+    "answers": [
+      "Sprawdzenie zamontowania czujek PIR.",
+      "Sprawdzanie historii alarmów.",
+      "Testowanie czujek PIR.",
+      "Sprawdzenie pracy sygnalizatorów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 70,
+    "text": "Którą centralę alarmową należy zastosować na obiekcie wymagającym zastosowania dziesięciu przewodowych czujek ruchu, dwóch przewodowych czujek dymu, siedmiu bezprzewodowych czujek ruchu przy założeniu, że każda czujka podłączona jest do innego wejścia telefonicznego?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_tabela12.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 71,
+    "text": "Którym rodzajem napięcia należy zasilić wzmacniacz operacyjny pracujący w typowych warunkach?",
+    "answers": [
+      "Symetrycznym DC",
+      "Dwufazowym AC",
+      "Asymetrycznym DC",
+      "Jednofazowym AC"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_wzmacniacz5.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 72,
+    "text": "Urządzenie będące częścią systemu monitoringu, oznaczone na schemacie jako NVR BCS, to",
+    "answers": [
+      "zasilacz.",
+      "rejestrator.",
+      "modem.",
+      "domofon."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schemat41.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 73,
+    "text": "Na którym fragmencie układu elektronicznego widoczne są uszkodzone elementy?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklady6.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 74,
+    "text": "Sieć komputerowa, której zasięg przekracza granice miast, państw lub kontynentów, to sieć",
+    "answers": [
+      "PAN",
+      "MAN",
+      "LAN",
+      "WAN"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 75,
+    "text": "Które z wymienionych urządzeń elektronicznych wymaga, po zainstalowaniu a przed rozpoczęciem pracy, zaprogramowania?",
+    "answers": [
+      "Detektor gazu.",
+      "Domofon cyfrowy.",
+      "Konwerter satelitarny.",
+      "Telefon analogowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 76,
+    "text": "Który przyrząd służy do pomiaru parametrów sygnału telewizyjnego?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_przyrzady.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 77,
+    "text": "Które narzędzie jest przeznaczone do demontażu elementów elektronicznych lutowanych w technologii montażu przewlekanego?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_narzedzia4.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 78,
+    "text": "W instrukcji serwisowej kamery widnieje zapis: „kamerę zasilić napięciem stałym U = 12 V /15 W”. Który zasilacz umożliwi jednocześnie pracę czterech takich kamer?",
+    "answers": [
+      "12 V AC/ 4 A",
+      "12 V DC/ 6 A",
+      "12 V DC/ 4 A",
+      "12 V AC/ 6 A"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 79,
+    "text": "W gnieździe abonenckim zbiorczej instalacji antenowej podczas pomiaru poziomu sygnału telewizji DVB-T otrzymano wartość 26 dB µV. Zmierzony sygnał",
+    "answers": [
+      "wymaga zastosowania w instalacji filtra zakłóceń.",
+      "umożliwia poprawny odbiór.",
+      "przekracza wartość maksymalną.",
+      "wymaga zastosowania w instalacji wzmacniacza."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 80,
+    "text": "Przedstawione na rysunku urządzenie to",
+    "answers": [
+      "unifon.",
+      "telefon ISDN.",
+      "wideofon.",
+      "telefon analogowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_urzadzenie9.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 81,
+    "text": "W celu dwukrotnego zmniejszenia wzmocnienia członu inercyjnego pierwszego rzędu o podanej transmitancji G(s) = k / (1 + sT) należy",
+    "answers": [
+      "zmniejszyć dwukrotnie T",
+      "zmniejszyć dwukrotnie k",
+      "zwiększyć dwukrotnie k",
+      "zwiększyć dwukrotnie T"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 82,
+    "text": "Przyrząd przedstawiony na rysunku służy do pomiaru",
+    "answers": [
+      "ciśnienia.",
+      "napięcia.",
+      "pojemności.",
+      "temperatury."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_przyrzad3.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 83,
+    "text": "Ile wynosi wartość rezystancji wewnętrznej baterii typu AAA, jeżeli jej napięcie w stanie jałowym wynosi U1=1,5 V, a z obciążeniem prądem o wartości 100 mA U2=1,45 V?",
+    "answers": [
+      "5,00 Ω",
+      "0,50 Ω",
+      "0,05 Ω",
+      "50,0 Ω"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 84,
+    "text": "W celu pomiaru sprawności energetycznej przetwornicy DC/DC należy zastosować",
+    "answers": [
+      "amperomierz.",
+      "dwa woltomierze.",
+      "omomierz.",
+      "dwa watomierze."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 85,
+    "text": "Sieć zawierająca jeden centralny węzeł (serwer), do którego zostają przyłączone pozostałe elementy składowe sieci za pomocą huba, to topologia",
+    "answers": [
+      "drzewa.",
+      "gwiazdy.",
+      "pierścienia.",
+      "magistrali."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 86,
+    "text": "We wzmacniaczach prądu stałego pomiędzy kolejnymi stopniami nie stosuje się sprzężenia pojemnościowego, ponieważ kondensator",
+    "answers": [
+      "podobnie jak dioda, przewodzi sygnał w jednym kierunku.",
+      "nie przenosi składowej stałej sygnału.",
+      "stanowi zwarcie dla sygnału stałego.",
+      "stanowi przerwę dla sygnału o dużej częstotliwości."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 87,
+    "text": "Amperomierzem o klasie dokładności 1 i zakresie pomiarowym In=100 mA zmierzono prąd I=100 mA. Maksymalny błąd względny tego pomiaru wynosi",
+    "answers": [
+      "2%",
+      "1%",
+      "3%",
+      "4%"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 88,
+    "text": "Podczas pomiaru napięcia UCE spoczynkowego punktu pracy tranzystora m.cz. woltomierzem analogowym o podziałce 100 działek ustawionym na zakresie 0,3 V wskazówka wskazuje 80 działek. Ile wynosi wartość mierzonego napięcia?",
+    "answers": [
+      "180 mV",
+      "240 mV",
+      "60 mV",
+      "120 mV"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_pomiar2.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 89,
+    "text": "Przedstawiony na rysunku tester kabli sieciowych posiada gniazda typu",
+    "answers": [
+      "USB",
+      "DVI",
+      "RJ11",
+      "RJ45"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_tester.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 90,
+    "text": "Na rysunku przedstawiono schemat multiwibratora astabilnego. Wartości kondensatorów C1 i C2 nie mają wpływu na",
+    "answers": [
+      "amplitudę generowanego sygnału.",
+      "okres generowanego sygnału.",
+      "częstotliwość generowanego sygnału.",
+      "współczynnik wypełnienia generowanego sygnału."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schemat38.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 91,
+    "text": "Standardowe napięcie zasilania dla pojedynczego urządzenia podłączonego do portu USB (wyłączając USB Power Delivery) to",
+    "answers": [
+      "1,2 V",
+      "5 V",
+      "12 V",
+      "1,5 V"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 92,
+    "text": "Jeżeli w układzie przedstawionym na rysunku łącznik W zostanie zamknięty, to",
+    "answers": [
+      "dioda D2 się zaświeci, dioda D1 zgaśnie.",
+      "dioda D1 się zaświeci, dioda D2 zgaśnie.",
+      "obie diody będą się świecić.",
+      "obie diody będą zgaszone."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad42.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 93,
+    "text": "W układzie próbkującym z pamięcią doszło do uszkodzenia kondensatora, który w wyniku usterki stanowi przerwę. W uszkodzonym układzie, przy włączonym kluczu, napięcie na wyjściu UWY będzie",
+    "answers": [
+      "oscylowało wokół wyjściowego napięcia niezrównoważenia.",
+      "równe zero niezależnie od wartości UWE.",
+      "równe dodatniemu napięciu zasilania wzmacniacza.",
+      "równe napięciu wejściowemu UWE."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad44.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 94,
+    "text": "Jaką wartość (dla C=10 nF) powinna mieć indukcyjność L, aby pulsacja środkowa przedstawionego wzmacniacza selektywnego wynosiła ω0=100 000 rad/s? Do obliczeń wykorzystaj podaną zależność.",
+    "answers": [
+      "10 nH",
+      "10 mH",
+      "10 pH",
+      "10 µH"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_wzmacniacz4.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 95,
+    "text": "W systemach ochrony obwodowej stosuje się",
+    "answers": [
+      "czujki dymu i ciepła.",
+      "czujki gazów usypiających.",
+      "czujki zalania.",
+      "bariery podczerwieni."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 96,
+    "text": "Wtórnik emiterowy to wzmacniacz z tranzystorem w konfiguracji wspólnego kolektora, charakteryzujący się",
+    "answers": [
+      "małym wzmocnieniem prądowym.",
+      "dużym wzmocnieniem napięciowym.",
+      "małą rezystancją wejściową.",
+      "wzmocnieniem napięciowym bliskim jedności."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 97,
+    "text": "Przedstawione na rysunku urządzenie, wchodzące w skład Systemów Sygnalizacji Włamania i Napadu, to czujka",
+    "answers": [
+      "magnetyczna.",
+      "zalania.",
+      "ruchu.",
+      "dymu i ciepła."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_czujka5.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 98,
+    "text": "Dwa ostatnie stopnie wzmacniacza trójstopniowego posiadają identyczne wzmocnienie napięciowe 20 dB. Ile powinno wynosić wzmocnienie napięciowe stopnia pierwszego, aby wzmacniacz posiadał wzmocnienie napięciowe KU = 60 dB?",
+    "answers": [
+      "10 V/V",
+      "5 V/V",
+      "1 V/V",
+      "2 V/V"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 99,
+    "text": "Na rysunku przedstawiono odpowiedź skokową układu regulacji ciśnienia. Na jej podstawie można stwierdzić, że układ jest",
+    "answers": [
+      "niestabilny, występują w nim oscylacje.",
+      "stabilny, nie występują w nim oscylacje.",
+      "niestabilny, nie występują w nim oscylacje.",
+      "stabilny, występują w nim oscylacje."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_wykres5.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 100,
+    "text": "Na zmianę którego parametru fali nośnej wpływa sygnał modulujący w modulacji PM?",
+    "answers": [
+      "Amplitudy.",
+      "Częstotliwości.",
+      "Fazy.",
+      "Pulsacji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 101,
+    "text": "Na rysunku przedstawiono układ scalony 555 połączony w układzie multiwibratora astabilnego. Ile wynosi okres generowanego sygnału?",
+    "answers": [
+      "6,93 ms",
+      "6,93 ns",
+      "6,93 ps",
+      "6,93 µs"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad43.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 102,
+    "text": "W zwrotnicy głośnikowej trójdrożnej doszło do uszkodzenia (w jednym elemencie nastąpiła przerwa), w wyniku którego przestał odtwarzać dźwięk głośnik niskotonowy GN. Który element został uszkodzony?",
+    "answers": [
+      "C2",
+      "L1",
+      "C1",
+      "L2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schemat40.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 103,
+    "text": "W celu wymiany układu scalonego, osadzonego w podstawce DIP8, należy zastosować narzędzie",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_narzedzia3.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 104,
+    "text": "Multiplekser o 16 wejściach informacyjnych posiada",
+    "answers": [
+      "5 wejść adresowych.",
+      "2 wejścia adresowe.",
+      "3 wejścia adresowe.",
+      "4 wejścia adresowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 105,
+    "text": "Liczba stanów stabilnych przerzutnika bistabilnego jest równa",
+    "answers": [
+      "2",
+      "3",
+      "1",
+      "0"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 106,
+    "text": "Jakie napięcie pojawi się na rezystorze Ro w układzie pokazanym na rysunku po przyłożeniu napięcia sinusoidalnego u(t), jeżeli pojemność kondensatorów C1 i C2 dąży do ∞?",
+    "answers": [
+      "Sinusoidalne.",
+      "Prostokątne.",
+      "Trójkątne.",
+      "Stałe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad40.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 107,
+    "text": "W celu naprawy przetwornicy zasilającej w odbiorniku telewizyjnym należy posłużyć się instrukcją",
+    "answers": [
+      "serwisową.",
+      "instalacji.",
+      "użytkownika.",
+      "programowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 108,
+    "text": "W układzie wzmacniacza mocy kondensator C stosuje się w celu",
+    "answers": [
+      "separacji prądu polaryzacji wzmacniacza od wejścia sygnału.",
+      "zwiększenia częstotliwości sygnału wyjściowego.",
+      "dopasowania impedancji obciążenia.",
+      "zmniejszenia częstotliwości sygnału wyjściowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad41.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 109,
+    "text": "Gdy impedancja falowa linii Zf i impedancja obciążenia Zobc spełniają warunek Zf = Zobc , to linia długa",
+    "answers": [
+      "jest dopasowana falowo.",
+      "nie jest dopasowana falowo.",
+      "stanowi dla sygnału wejściowego przerwę.",
+      "stanowi dla sygnału wejściowego zwarcie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 110,
+    "text": "Oblicz wartość pojemności akumulatora zapewniającego niezakłóconą pracę systemu alarmowego w przypadku braku zasilania podstawowego. Wykorzystaj wzór Qmin=1,25·(I1·t1+I2·t2), t1 – czas trwania obciążenia systemu alarmowego w stanie gotowości, t2 – czas trwania obciążenia systemu w stanie alarmu, I1 – całkowity prąd obciążenia systemu alarmowego, pobierany przez system alarmowy ze źródła rezerwowego w przypadku uszkodzenia zasilania sieciowego, liczony dla warunków, w których system nie jest w stanie alarmu, I2 – całkowity prąd obciążenia, pobierany przez sygnalizator ze źródła rezerwowego w przypadku uszkodzenia zasilania sieciowego, liczony dla warunków, w których system jest w stanie alarmu. Pozostałe dane: t1=72 h, t2=15 min",
+    "answers": [
+      "3,6 A·h",
+      "1,8 A·h",
+      "12 A·h",
+      "18 A·h"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_tabela11.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 111,
+    "text": "Na rysunku został przedstawiony schemat wzmacniacza w układzie wspólnego",
+    "answers": [
+      "kolektora z dodatnim napięciowym sprzężeniem zwrotnym.",
+      "kolektora z ujemnym napięciowym sprzężeniem zwrotnym.",
+      "emitera z dodatnim napięciowym sprzężeniem zwrotnym.",
+      "emitera z ujemnym napięciowym sprzężeniem zwrotnym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schemat36.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 112,
+    "text": "W terminologii sieci komputerowych sterownik urządzenia oznacza",
+    "answers": [
+      "rodzaj okablowania sieci LAN.",
+      "rodzaj złącza.",
+      "niewielką płytkę elektroniczną.",
+      "program."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 113,
+    "text": "Aby umożliwić współpracę układów TTL i CMOS zasilanych napięciem 5 V należy użyć",
+    "answers": [
+      "kondensatora podciągającego.",
+      "diaka podciągającego.",
+      "diody podciągającej.",
+      "rezystora podciągającego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 114,
+    "text": "Na rysunku przedstawiono sterownik urządzenia wykorzystywanego w",
+    "answers": [
+      "sieciach telewizji kablowej.",
+      "systemach automatyki przemysłowej.",
+      "sieciach komputerowych.",
+      "systemach alarmowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_sterownik.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 115,
+    "text": "W przypadku której czujki do jej poprawnej pracy nie jest wymagane zewnętrzne (dodatkowe) źródło zasilające?",
+    "answers": [
+      "Ruchu PIR.",
+      "Dualnej.",
+      "Zalania.",
+      "Magnetycznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 116,
+    "text": "Instrukcja serwisowa odbiornika radiowego nie zawiera",
+    "answers": [
+      "opisu płyty czołowej.",
+      "schematu ideowego.",
+      "informacji o cenie odbiornika.",
+      "schematu blokowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 117,
+    "text": "Na rysunku przedstawiono schemat połączeń czujki ruchu w konfiguracji",
+    "answers": [
+      "styk alarmowy (EOL-NC), styk sabotażowy (NC)",
+      "styk alarmowy (EOL-NO), styk sabotażowy (EOL-NO)",
+      "styk alarmowy (NC), styk sabotażowy (NC)",
+      "styk alarmowy (NC), styk sabotażowy (EOL-NO)"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schemat39.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 118,
+    "text": "Bocznik Rb o jakiej rezystancji należy dołączyć równolegle do amperomierza o rezystancji wewnętrznej RA=300 mΩ w celu czterokrotnego rozszerzenia jego zakresu pomiarowego?",
+    "answers": [
+      "100 mΩ",
+      "75 mΩ",
+      "300 mΩ",
+      "150 mΩ"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 119,
+    "text": "Na rysunku przedstawiono schemat wzmacniacza sumującego. Dobierz wartość rezystora RS tak, aby napięcie UO na wyjściu było równe –8 V. Do obliczeń przyjmij: UI1=1 V; UI2=1 V; UI3=2 V; R1=R2=R3=RK=1 kΩ",
+    "answers": [
+      "2 kΩ",
+      "8 kΩ",
+      "1 kΩ",
+      "4 kΩ"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schemat37.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 120,
+    "text": "Na rysunku przedstawiono podstawowy schemat blokowy układu automatycznej regulacji. Znakiem X oznaczono",
+    "answers": [
+      "element wykonawczy.",
+      "sumator.",
+      "prostownik.",
+      "obwód wejściowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schemat35.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 121,
+    "text": "Przedstawione urządzenie, wchodzące w skład Systemów Sygnalizacji Włamania i Napadu, to czujka",
+    "answers": [
+      "zalania.",
+      "stłuczenia.",
+      "ruchu.",
+      "czadu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_czujka3.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 122,
+    "text": "Określenie %I0.3 używane przy programowaniu sterowników oznacza",
+    "answers": [
+      "jedno z wyjść sterownika.",
+      "zmienną wewnętrzną sterownika.",
+      "zawartość licznika sterownika.",
+      "jedno z wejść sterownika."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 123,
+    "text": "Dodatnie sprzężenie zwrotne polega na przekazywaniu części sygnału",
+    "answers": [
+      "wejściowego na wyjście w fazie z sygnałem wyjściowym.",
+      "wejściowego na wyjście w przeciwfazie z sygnałem wyjściowym.",
+      "wyjściowego na wejście w przeciwfazie z sygnałem wyjściowym.",
+      "wyjściowego na wejście w fazie z sygnałem wejściowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 124,
+    "text": "Soczewka Fresnela w czujkach ruchu typu PIR",
+    "answers": [
+      "zapewnia skuteczne działanie układu przeciwsabotażowego.",
+      "jest elementem wyłącznie dekoracyjnym.",
+      "pełni rolę elementu skupiającego wiązki detekcji na pyroelement.",
+      "wysyła promieniowanie podczerwone w kierunku intruza."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 125,
+    "text": "W tabeli podano parametry katalogowe wybranych diod LED. Uszereguj rosnąco względem napięcia przewodzenia diody LED czterech różnych barw.",
+    "answers": [
+      "Niebieska, czerwona, żółta, zielona.",
+      "Czerwona, zielona, żółta, niebieska.",
+      "Niebieska, czerwona, zielona, żółta.",
+      "Czerwona, żółta, zielona, niebieska."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_tabela10.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 126,
+    "text": "Urządzenie, które łączy komputer z lokalną siecią komputerową to",
+    "answers": [
+      "brama sieciowa.",
+      "zapora sieciowa.",
+      "most.",
+      "karta sieciowa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 127,
+    "text": "Układ przedstawiony na rysunku to wzmacniacz",
+    "answers": [
+      "prądu stałego.",
+      "operacyjny.",
+      "selektywny.",
+      "różnicowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad35.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 128,
+    "text": "Które podłączenie głośników do wzmacniacza akustycznego zapewnia dopasowanie energetyczne? Oznaczenia: Rwy – rezystancja wyjściowa wzmacniacza, Rg – rezystancja głośnika.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schematy4.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 129,
+    "text": "Do podwajacza napięcia podłączono napięcie sinusoidalne u(t) o wartości skutecznej URMS = 10 V. Jaka będzie wartość maksymalna napięcia UX w tym układzie?",
+    "answers": [
+      "Około 40 V",
+      "Około 28 V",
+      "Około 20 V",
+      "Około 14 V"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad39.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 130,
+    "text": "Oznaczenie typu tranzystora składa się",
+    "answers": [
+      "z cyfr i małych liter.",
+      "wyłącznie z cyfr.",
+      "z cyfr i wielkich liter.",
+      "wyłącznie z liter."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 131,
+    "text": "Ile wynosi wskazanie przedstawionego amperomierza, jeśli wiadomo, że pomiaru dokonano na zakresie pomiarowym 0,3 A?",
+    "answers": [
+      "0,68 A",
+      "0,23A",
+      "0,068 A",
+      "2,3 A"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_amperomierz.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 132,
+    "text": "Na rysunku przedstawiono",
+    "answers": [
+      "regulator PID.",
+      "manipulator LCD.",
+      "tuner satelitarny.",
+      "zasilacz stabilizowany."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_rysunek4.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 133,
+    "text": "Urządzenie oznaczone na rysunku cyfrą 1 to",
+    "answers": [
+      "zwrotnica antenowa.",
+      "rozdzielacz sygnału.",
+      "konwerter satelitarny.",
+      "zasilacz sieciowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_rysunek3.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 134,
+    "text": "Jakie są graniczne częstotliwości przenoszenia (dolna i górna) wzmacniacza napięciowego, którego charakterystykę amplitudową przedstawiono na rysunku?",
+    "answers": [
+      "Dolna 40 Hz, górna 1,5 kHz",
+      "Dolna 400 Hz, górna 1,5 kHz",
+      "Dolna 40 Hz, górna 15 kHz",
+      "Dolna 400 Hz, górna 15k Hz"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_charakterystyka9.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 135,
+    "text": "Na podstawie oscylogramu określ, jaką częstotliwość ma obserwowany przebieg napięcia.",
+    "answers": [
+      "20 Hz",
+      "20 kHz",
+      "200 Hz",
+      "200 kHz"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_oscylogram4.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 136,
+    "text": "Liczba stanów stabilnych przerzutnika astabilnego jest równa",
+    "answers": [
+      "1",
+      "∞",
+      "0",
+      "2"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 137,
+    "text": "W regulatorze PID doszło do uszkodzenia, w wyniku którego uchyb ustalony nie dąży do 0. Powodem usterki może być uszkodzenie w członie",
+    "answers": [
+      "inercyjnym.",
+      "całkującym.",
+      "proporcjonalnym.",
+      "różniczkującym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 138,
+    "text": "W celu sprawdzenia poprawności działania generatora funkcyjnego należy użyć",
+    "answers": [
+      "oscyloskopu.",
+      "omomierza.",
+      "watomierza.",
+      "amperomierza."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 139,
+    "text": "Multiplekser 8-wejściowy ma",
+    "answers": [
+      "3 wejścia adresowe.",
+      "4 wejścia adresowe.",
+      "2 wejścia adresowe.",
+      "5 wejść adresowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 140,
+    "text": "W przekształtniku DC/DC typu „boost” (układ podwyższający napięcie stałe), pracującym przy częstotliwości f = 1 kHz, w którym wartość średnia napięcia wyjściowego UO = 20 V, a napięcia wejściowego UD = 10 V, to czas impulsu ti powinien wynosić",
+    "answers": [
+      "500 µs",
+      "250 µs",
+      "750 µs",
+      "1 000 µs"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_wzor4.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 141,
+    "text": "W przedstawionym układzie D1 = D2, RC1 = RC2, RB1 = RB2, C1 = C2, T1 = T2. Po podłączeniu napięcia świeci światłem przerywanym wyłącznie dioda D . Może to oznaczać, że",
+    "answers": [
+      "napięcie zasilania jest za duże.",
+      "dioda D2 jest zwarta.",
+      "dioda D1 jest zwarta.",
+      "napięcie zasilania jest za małe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad36.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 142,
+    "text": "Na rysunku przedstawiono logo standardu",
+    "answers": [
+      "USB",
+      "RS-232",
+      "RS-485",
+      "Ethernet"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_logo.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 143,
+    "text": "Po podaniu na wejście przedstawionego układu napięcia o przebiegu trójkątnym otrzyma się na wyjściu napięcie o przebiegu",
+    "answers": [
+      "trójkątnym.",
+      "prostokątnym.",
+      "piłokształtnym.",
+      "sinusoidalnym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad37.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 144,
+    "text": "Przedstawiony opis konstrukcji dotyczy czujki OPIS KONSTRUKCJI Zasadniczą częścią czujki jest układ detekcyjny, w skład którego wchodzą: dioda nadawcza podczerwieni oraz dioda odbiorcza. Diody te zamocowane są w uchwycie w taki sposób, aby światło emitowane przez diodę nadawczą nie docierało bezpośrednio do diody odbiorczej. Układ detekcyjny (uchwyt z diodami) mocowany jest bezpośrednio do płytki drukowanej, zawierającej elektronikę z procesorem nadzorującym pracę czujki. Labirynt zabezpiecza przed wnikaniem zewnętrznego światła do układu detekcyjnego. Metalowa siatka zapobiega wnikaniu do układu detekcyjnego drobnych owadów i większych zanieczyszczeń. Całość umieszczona jest w wykonanej z białego tworzywa obudowie, na którą składają się koszyk, osłona czujki oraz ekran.",
+    "answers": [
+      "stłuczenia.",
+      "zalania.",
+      "dymu.",
+      "ruchu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 145,
+    "text": "Który układ wzmacniający z tranzystorem bipolarnym charakteryzuje się stosunkowo dużym wzmocnieniem napięciowym i dużym wzmocnieniem prądowym?",
+    "answers": [
+      "OC",
+      "OB",
+      "OG",
+      "OE"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 146,
+    "text": "Na którym rysunku przedstawiony jest schemat układu wykrywającego dwie jedynki logiczne na wejściach bramki AND poprzez zaświecenie diody LED?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schematy3.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 147,
+    "text": "Pasywna czujka podczerwieni charakteryzuje się największą czułością, gdy ruch intruza odbywa się",
+    "answers": [
+      "pod kątem 60° do osi optycznej czujki.",
+      "pod kątem 30° do osi optycznej czujki.",
+      "prostopadle do osi optycznej czujki.",
+      "równolegle do osi optycznej czujki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_czujka4.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 148,
+    "text": "Jaka powinna być wartość rezystancji R2, aby w układzie pokazanym na rysunku uzyskać wzmocnienie napięciowe równe -10 V/V, jeżeli wartość rezystancji R1 = 2 kΩ?",
+    "answers": [
+      "0,2 Ω",
+      "20 kΩ",
+      "0,2 kΩ",
+      "20 Ω"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad38.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 149,
+    "text": "Do zasilania urządzenia, którego dane techniczne podano w ramce, należy zastosować zasilacz o parametrach:",
+    "answers": [
+      "19 V, 2,15 A",
+      "24 V, 3,42 A",
+      "12 V, 3,00 A",
+      "19 V, 3,42 A"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_ramka5.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 150,
+    "text": "Na którym rysunku przedstawiony jest schemat ideowy układu do pomiaru mocy czynnej metodą techniczną z poprawnie mierzonym napięciem?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schematy2.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 151,
+    "text": "W celu pomiaru sprawności energetycznej zasilacza stabilizowanego o działaniu ciągłym należy zastosować dwa",
+    "answers": [
+      "watomierze.",
+      "amperomierze.",
+      "omomierze.",
+      "woltomierze."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 152,
+    "text": "Na rysunku przedstawiono schemat ideowy",
+    "answers": [
+      "generatora.",
+      "modulatora.",
+      "zasilacza.",
+      "wzmacniacza mocy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schemat33.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 153,
+    "text": "Schemat ideowy wzmacniacza w układzie OE ze stabilizacją spoczynkowego punktu pracy przedstawiono na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schematy5.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 154,
+    "text": "Układ pomiarowy pozwalający na precyzyjny pomiar małych i bardzo małych rezystancji to mostek",
+    "answers": [
+      "Maxwella.",
+      "Thomsona.",
+      "Wiena.",
+      "Wheatstone’a."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 155,
+    "text": "W instrukcji układu podano zakres napięcia zasilania urządzenia elektronicznego od 10,8 V do 14,4 V. Wskaż właściwe nastawienie zasilacza w czasie uruchomienia tego układu.",
+    "answers": [
+      "18,7 V",
+      "13,8 V",
+      "15,4 V",
+      "10,1 V"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 156,
+    "text": "W zwrotnicy głośnikowej trójdrożnej doszło do uszkodzenia (w jednym elemencie nastąpiła przerwa), w wyniku którego przestał odtwarzać dźwięk wyłącznie głośnik średniotonowy Gs. Wskaż uszkodzony element.",
+    "answers": [
+      "C1",
+      "L2",
+      "C2",
+      "L1"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schemat34.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 157,
+    "text": "W celu wymiany uszkodzonego wtyku typu RJ-45 należy zastosować narzędzie",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_narzedzia2.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 158,
+    "text": "Ze względu na sprawność układu wzmacniacz – głośnik wymaga się, aby impedancja wyjściowa wzmacniacza była",
+    "answers": [
+      "większa od impedancji głośnika.",
+      "równa impedancji głośnika.",
+      "mniejsza od impedancji głośnika.",
+      "jak najmniejsza."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 159,
+    "text": "Miernik mierzący bitową stopę błędów (BER) wykorzystuje się do pomiaru parametrów",
+    "answers": [
+      "instalacji antenowej.",
+      "instalacji domofonowej.",
+      "systemu alarmowego.",
+      "telewizji dozorowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 160,
+    "text": "W którym z przedstawionych układów transoptora fotodetektorem jest fotodioda?",
+    "answers": [
+      "W układzie 3.",
+      "W układzie 1.",
+      "W układzie 4.",
+      "W układzie 2."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklady7.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 161,
+    "text": "Na podstawie danych technicznych regulatora temperatury zawartych w tabeli określ, jakiego typu pamięć zastosowana jest w tym urządzeniu?",
+    "answers": [
+      "Przechowująca dane do utraty zasilania.",
+      "Kasowana elektrycznie.",
+      "Tylko do odczytu.",
+      "Kasowana promieniowaniem UV."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_tabela15.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 162,
+    "text": "W układzie cyfrowym, którego schemat ideowy przedstawiono na ilustracji przeprowadzono pomiary stanów logicznych na wyjściach poszczególnych bramek. Na podstawie tych wyników można stwierdzić, że uszkodzeniu uległa bramka",
+    "answers": [
+      "U1",
+      "U4",
+      "U2",
+      "U3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad18.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 163,
+    "text": "Na charakterystyce pokazanej na ilustracji wskaż bezpieczny obszar pracy tranzystora.",
+    "answers": [
+      "Obszar 4",
+      "Obszar 1",
+      "Obszar 2",
+      "Obszar 3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_charakterystyka7.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 164,
+    "text": "W ramach okresowych przeglądów nie wykonuje się",
+    "answers": [
+      "pomiarów sprawdzających.",
+      "oceny stanu technicznego.",
+      "instalacji nowych urządzeń.",
+      "analizy działania urządzeń."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 165,
+    "text": "Schemat którego urządzenia przedstawiono na ilustracji?",
+    "answers": [
+      "Multiwibratora bistabilnego.",
+      "Generatora piłokształtnego.",
+      "Multiwibratora astabilnego.",
+      "Generatora sinusoidalnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schemat38.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 166,
+    "text": "W układzie filtru górnoprzepustowego pulsację graniczną ωgr wyznacza się korzystając z warunku R=XC. Dobierz wartość rezystancji R, aby pulsacja graniczna była równa 106 rad/s.",
+    "answers": [
+      "100 Ω",
+      "1 kΩ",
+      "100 kΩ",
+      "1 MΩ"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad45.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 167,
+    "text": "Na ilustracjach przedstawiono schemat ideowy układu stabilizatora napięcia zawierającego dwie identyczne diody Zenera D1 i D2 oraz charakterystykę statyczną diod. Jaka jest wartość napięcia UAB, jeżeli przez te diody płynie prąd wsteczny o wartości 40 mA?",
+    "answers": [
+      "4,4 V",
+      "1,4 V",
+      "9,4 V",
+      "5 V"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schemat47.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 168,
+    "text": "Wskaż układ prawidłowego podłączenia wskaźnika czuwania (LED) do wyjścia typu OC (OUT). Napięcie na wyjściu AUX jest równe +12 V.",
+    "answers": [
+      "Układ 1.",
+      "Układ 4.",
+      "Układ 2.",
+      "Układ 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklady9.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 169,
+    "text": "Jaką rolę w urządzeniach elektronicznych pełni element przedstawiony na ilustracji?",
+    "answers": [
+      "Prostownika.",
+      "Generatora.",
+      "Stabilizatora.",
+      "Falownika."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_element.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 170,
+    "text": "Skrót, oznaczający pasmo fal radiowych o częstotliwości w zakresie od 30 MHz do 300 MHz z modulacją FM, to",
+    "answers": [
+      "LF",
+      "ULF",
+      "MF",
+      "VHF"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 171,
+    "text": "Proces, polegający na wyodrębnieniu z sygnału zmodulowanego wielkiej częstotliwości modulującego sygnału użytecznego małej częstotliwości, to",
+    "answers": [
+      "filtrowanie.",
+      "prostowanie.",
+      "modulacja.",
+      "demodulacja."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 172,
+    "text": "W którym układzie diody D1 i D2 zostały umieszczone tak, aby podczas pracy układu dioda D1 świeciła się, a dioda D2 zabezpieczała przekaźnik przed prądem wstecznym?",
+    "answers": [
+      "W układzie 2.",
+      "W układzie 4.",
+      "W układzie 1.",
+      "W układzie 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklady8.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 173,
+    "text": "Wartość pojemności przedstawionego na rysunku kondensatora wynosi",
+    "answers": [
+      "22 pF",
+      "0,2 pF",
+      "2,2 pF",
+      "2,0 pF"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_kondensator3.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 174,
+    "text": "Zastąpienie linii niesymetrycznej linią symetryczną przy transmisji sygnałów cyfrowych",
+    "answers": [
+      "zmniejsza odporność linii na zakłócenia i wymaga modyfikacji układów we/wy.",
+      "zmniejsza odporność linii na zakłócenia i nie wymaga modyfikacji układów we/wy.",
+      "zwiększa odporność linii na zakłócenia i wymaga modyfikacji układów we/wy.",
+      "zwiększa odporność linii na zakłócenia i nie wymaga modyfikacji układów we/wy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 175,
+    "text": "Szerokość B pasma przenoszenia wzmacniacza wyznacza się, korzystając z zależności",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_wzory.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 176,
+    "text": "Zmniejszenie stałej czasowej Ti w regulatorze PI spowoduje",
+    "answers": [
+      "zwiększenie przeregulowania oraz zwiększenie czasu regulacji.",
+      "zmniejszenie przeregulowania oraz zwiększenie czasu regulacji.",
+      "zwiększenie przeregulowania oraz zmniejszenie czasu regulacji.",
+      "zmniejszenie przeregulowania oraz zmniejszenie czasu regulacji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 177,
+    "text": "Dobierz wartość rezystancji R1 tak, aby napięcie wyjściowe Uo było równe 6 V zakładając, że napięcie diody Zenera UZ wynosi 3 V, a rezystancja R2 jest równa 1 kΩ",
+    "answers": [
+      "9 kΩ",
+      "1 kΩ",
+      "3 kΩ",
+      "6 kΩ"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad47.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 178,
+    "text": "Włókno jednomodowe przenosi osiowo w swym rdzeniu",
+    "answers": [
+      "jedną falę świetlną.",
+      "trzy fale świetlne.",
+      "cztery fale świetlne.",
+      "dwie fale świetlne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 179,
+    "text": "Zakładając, że bit D jest najbardziej znaczący, określ która cyfra pojawi się na wyświetlaczu siedmiosegmentowym.",
+    "answers": [
+      "2",
+      "6",
+      "8",
+      "4"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad48.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 180,
+    "text": "Złącze diody osiąga temperaturę 80°C, gdy moc strat wynosi 100 mW. Temperatura otoczenia jest równa 20°C. Całkowita rezystancja termiczna tej diody od złącza poprzez obudowę do otoczenia wynosi",
+    "answers": [
+      "1 000 K/W",
+      "200 K/W",
+      "800 K/W",
+      "600 K/W"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 181,
+    "text": "Na ilustracji przedstawiono dwudrożną zwrotnicę zestawu głośnikowego. Wiedząc, że wartość impedancji znamionowej głośników GW i GN wynosi Z = 8Ω, a częstotliwość graniczna filtrów fg = 3 kHz, dobierz parametry elementów L i C zgodnie z szeregiem E 12.",
+    "answers": [
+      "L = 470 µH; C = 6,8 µF",
+      "L = 470 µH; C = 5,6 µF",
+      "L = 390 µH; C = 5,6 µF",
+      "L = 390 µH; C = 6,8 µF"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_zwrotnica.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 182,
+    "text": "Jaka będzie wartość napięcia wyjściowego po zmianie wartości R3 = 750 Ω na R3’ = 1,5 kΩ?",
+    "answers": [
+      "3 V",
+      "- 6 V",
+      "- 3 V",
+      "6 V"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad49.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 183,
+    "text": "Którą wartość pojemności wskazuje miernik przedstawiony na ilustracji?",
+    "answers": [
+      "20 pF",
+      "200 pF",
+      "200 nF",
+      "20 nF"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_miernik.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 184,
+    "text": "Do czego służy urządzenie pokazane na ilustracji?",
+    "answers": [
+      "Lutowania elementów SMD.",
+      "Pomiaru parametrów elektrycznych elementów SMD.",
+      "Dwupunktowego pomiaru temperatury.",
+      "Chwytania elementów SMD z kontrolowaną elektronicznie siłą ścisku."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_urzadzenie7.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 185,
+    "text": "Na ekranie oscyloskopu zaobserwowano przedstawiony na ilustracji czasowy przebieg napięcia. Jaka jest szybkość narastania napięcia?",
+    "answers": [
+      "4 V",
+      "1 ms",
+      "4 V/ms",
+      "4 mV/s"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_wykres3.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 186,
+    "text": "Na ilustracji został przedstawiony schemat blokowy szeregowego stabilizatora napięcia. Dopasuj cyfry do przedstawionych opisów bloków.",
+    "answers": [
+      "1 - Układ regulacyjny, 2 - Wzmacniacz błędu, 3 - Układ zabezpieczający, 4 - Źródło napięcia odniesienia.",
+      "1 - Układ regulacyjny, 2 - Układ zabezpieczający, 3 - Wzmacniacz błędu, 4 - Źródło napięcia odniesienia.",
+      "1 - Źródło napięcia odniesienia, 2 - Układ zabezpieczający, 3 - Wzmacniacz błędu, 4 - Układ regulacyjny.",
+      "1 - Źródło napięcia odniesienia, 2 - Wzmacniacz błędu, 3 - Układ zabezpieczający, 4 - Układ regulacyjny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_stabilizator3.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 187,
+    "text": "Przedstawiony fragment programu realizuje",
+    "answers": [
+      "przyspieszenie działania programu o 10 ms",
+      "przyspieszenie działania programu o 1 s",
+      "opóźnienie działania programu o 10 ms",
+      "opóźnienie działania programu o 1 s"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_program2.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 188,
+    "text": "Przedstawiony układ to przerzutnik astabilny generujący drgania o częstotliwości 125 Hz. Po zamknięciu wyłącznika W częstotliwość jego sygnału",
+    "answers": [
+      "zmaleje około dwa razy.",
+      "wzrośnie około dwa razy.",
+      "zmaleje około cztery razy.",
+      "wzrośnie około cztery razy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_przerzutnik2.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 189,
+    "text": "Które wartości powinny posiadać rezystory R1 ÷ R4, aby dany układ przetwornika cyfrowo-analogowego posiadał liniową charakterystykę przetwarzania? Bit oznaczony literą A jest bitem najmniej znaczącym.",
+    "answers": [
+      "R1=R, R2=R, R3=R, R4=R",
+      "R1=R, R2=2R, R3=4R, R4=8R",
+      "R1=R, R2=3R, R3=9R, R4=27R",
+      "R1=R, R2=4R, R3=16R, R4=64R"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad46.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 190,
+    "text": "Podczas przeglądu okresowego instalacji telewizji kablowej jakość sygnału telewizyjnego u poszczególnych abonentów monitoruje się, mierząc",
+    "answers": [
+      "poziom sygnału wizyjnego w gniazdach abonenckich poszczególnych użytkowników.",
+      "współczynnik szumów w kanale zwrotnym poszczególnych abonentów.",
+      "współczynnik szumów w sygnale wysyłanym przez stację czołową do abonentów.",
+      "poziom sygnału wysyłanego przez stację czołową do abonentów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 191,
+    "text": "Do przesyłania informacji w urządzeniach zdalnego sterowania stosuje się diody",
+    "answers": [
+      "mikrofalowe.",
+      "RGB.",
+      "IR.",
+      "Zenera."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 192,
+    "text": "Pokazane na ilustracji wskazanie woltomierza dla zakresu 300 V wynosi",
+    "answers": [
+      "200 V",
+      "120 V",
+      "60 V",
+      "150 V"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_woltomierz2.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 193,
+    "text": "Wykonano pomiary rezystancji Rab czujki ruchu typu NC połączonej w konfiguracji 2EOL/NC z rezystorami R1 = R2 = 1,1 kΩ zgodnie ze schematem. Na podstawie zamieszczonych w tabeli wyników pomiarów oraz schematu połączeń można stwierdzić, że",
+    "answers": [
+      "uszkodzony jest wyłącznie styk NC.",
+      "uszkodzony jest wyłącznie styk TMP.",
+      "uszkodzone są styki NC i TMP.",
+      "czujka ruchu działa poprawnie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_pomiary3.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 194,
+    "text": "Na przedstawionym na ilustracji schemacie oscyloskopu literą Z oznaczony jest blok",
+    "answers": [
+      "generatora podstawy czasu.",
+      "odchylania.",
+      "linii opóźniającej.",
+      "dzielnika napięcia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_oscyloskop2.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 195,
+    "text": "Do przykręcenia przewodów w czujce dymu i ciepła należy wykorzystać",
+    "answers": [
+      "wkrętak.",
+      "przecinak.",
+      "szczypce boczne.",
+      "klucz nasadowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 196,
+    "text": "Zawarte w tabeli dane techniczne dotyczą czujki",
+    "answers": [
+      "ruchu.",
+      "zalania.",
+      "ruchu.",
+      "akustycznej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_tabela9.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 197,
+    "text": "We wzmacniaczu przeciwsobnym klasy B doszło do uszkodzenia jednego z elementów. Wskaż uszkodzony element wiedząc, że na wejście wzmacniacza podłączono napięcie sinusoidalnie zmienne.",
+    "answers": [
+      "T2",
+      "C",
+      "T1",
+      "RO"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_wzmacniacz2.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 198,
+    "text": "Który element instalacji CCTV przedstawiony na ilustracji zapewnia bezpośrednie zasilanie kamer IP1 i IP2?",
+    "answers": [
+      "Rejestrator.",
+      "Zasilacz.",
+      "Router WAN.",
+      "Switch POE."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_instalacja4.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 199,
+    "text": "Na schemacie przedstawiono filtr",
+    "answers": [
+      "dolnoprzepustowy.",
+      "górnoprzepustowy.",
+      "pasmowoprzepustowy.",
+      "pasmowozaporowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schemat54.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 200,
+    "text": "Podzespołem systemu instalacji alarmowej jest",
+    "answers": [
+      "czujka PIR.",
+      "konwerter.",
+      "elektrozaczep.",
+      "unifon."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 201,
+    "text": "Znak CE umieszczony na urządzeniu elektronicznym informuje użytkownika o",
+    "answers": [
+      "potwierdzonym badaniami bezpieczeństwie użytkowania.",
+      "wykonaniu na urządzeniu wyłącznie testów temperaturowych.",
+      "konieczności podłączenia obudowy urządzenia do przewodu ochronnego.",
+      "zastosowaniu przy produkcji urządzenia szkodliwych substancji chemicznych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_znak.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 202,
+    "text": "Przedstawiony na ilustracji interfejs sieciowego rejestratora monitoringu umożliwia konfigurowanie nagrywania",
+    "answers": [
+      "wyzwalanego przez alarm.",
+      "nocnego.",
+      "w dni parzyste.",
+      "wyzwalanego przez wykrywanie ruchu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_interfejs.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 203,
+    "text": "Wskaż maksymalny czas trwania robót posadowienia uchwytu ściennego antenowego, jeżeli wiercenie 4 otworów w ścianie zajmuje 20 min ±15%, a zamocowanie uchwytu za pomocą 4 kołków rozporowych 12 min ±10%.",
+    "answers": [
+      "33,2 min",
+      "32,0 min",
+      "36,2 min",
+      "35,0 min"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 204,
+    "text": "Którą funkcję logiczną realizuje przedstawiony układ?",
+    "answers": [
+      "NOR",
+      "NAND",
+      "EX-OR",
+      "EX-NOR"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad67.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 205,
+    "text": "Który sposób rysowania połączeń dwóch gałęzi stosuje się na schematach elektrycznych?",
+    "answers": [
+      "Sposób 3.",
+      "Sposób 1.",
+      "Sposób 4.",
+      "Sposób 2."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_sposoby2.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 206,
+    "text": "Rezystor o jakich parametrach należy dołączyć do białej diody LED, aby przy napięciu zasilania Uzas = 24 V nie przekroczyć dopuszczalnego prądu tej diody IF = 20 mA i mocy wydzielanej w tym rezystorze?",
+    "answers": [
+      "1 kΩ; 0,5 W",
+      "1 kΩ; 0,25 W",
+      "100 Ω; 0,25 W",
+      "100 Ω; 0,5 W"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_wykres6.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 207,
+    "text": "Która ilustracja przedstawia gniazdo RJ-45?",
+    "answers": [
+      "Ilustracja 3.",
+      "Ilustracja 1.",
+      "Ilustracja 4.",
+      "Ilustracja 2."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_gniazda2.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 208,
+    "text": "Podłączenie po jednej stronie toru transmisyjnego źródła sygnału o stałej i znanej mocy, a po drugiej miernika mocy optycznej, umożliwia bezpośrednie określenie",
+    "answers": [
+      "całkowitego tłumienia toru optycznego.",
+      "miejsca spawu lub zgięcia włókna światłowodowego.",
+      "długości światłowodu.",
+      "tłumienia złączy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 209,
+    "text": "Funkcję czego pełni element instalacji alarmowej, którego dane techniczne opisane są w ramce?",
+    "answers": [
+      "Czujki gazu LPG.",
+      "Centrali alarmowej.",
+      "Sygnalizatora zewnętrznego.",
+      "Czujki ruchu PIR."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_ramka6.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 210,
+    "text": "Określ funkcję wskazanych elementów instalacji antenowej.",
+    "answers": [
+      "1- sumator, 2- wzmacniacz, 3- rozgałęźnik.",
+      "1- wzmacniacz, 2- sumator, 3- rozgałęźnik.",
+      "1- wzmacniacz, 2- rozgałęźnik, 3- sumator.",
+      "1- rozgałęźnik, 2- sumator, 3- wzmacniacz."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_instalacja3.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 211,
+    "text": "Do sprawdzenia ciągłości połączeń w obwodach drukowanych urządzeń elektronicznych należy użyć",
+    "answers": [
+      "watomierza.",
+      "woltomierza.",
+      "amperomierza.",
+      "omomierza."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 212,
+    "text": "Którą wartość rezystancji przedstawionego na schemacie dwójnika powinien mieć rezystor R2, jeżeli R1 = 10 Ω, a Uwy ma być trzy razy mniejsze od Uwe?",
+    "answers": [
+      "30 Ω",
+      "5 Ω",
+      "10 Ω",
+      "3,3 Ω"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schemat56.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 213,
+    "text": "Podczas konserwacji instalacji antenowej stwierdzono pomyłkę instalatora. W miejsce prawidłowego przewodu o impedancji falowej 75 Ω podłączono przewód o impedancji falowej 300 Ω. W wyniku tej pomyłki poziom sygnału odbieranego przez odbiornik",
+    "answers": [
+      "nie uległ zmianie.",
+      "zwiększył się.",
+      "był równy 0.",
+      "zmniejszył się."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 214,
+    "text": "Prawidłowa kolejność czynności przy wymianie uszkodzonej czujki ruchu instalacji kontroli dostępu jest następująca:",
+    "answers": [
+      "wpisać kod użytkownika, odłączyć zasilanie AC, wymienić czujkę.",
+      "wpisać kod serwisowy, odłączyć akumulator, wymienić czujkę.",
+      "wpisać kod użytkownika, odłączyć zasilanie AC, odłączyć akumulator, wymienić czujkę.",
+      "wpisać kod serwisowy, odłączyć zasilanie AC, odłączyć akumulator, wymienić czujkę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 215,
+    "text": "Który sygnał należy podać na wejście układu wzmacniacza, aby na wyjściu uzyskać sygnał pokazany na ilustracji?",
+    "answers": [
+      "Sinusoidalny.",
+      "Piłokształtny.",
+      "Trójkątny.",
+      "Prostokątny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad68.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 216,
+    "text": "Na podstawie oględzin instalacji telewizyjnej nie można określić",
+    "answers": [
+      "skorodowania czaszy anteny.",
+      "zniekształcenia lustra czaszy anteny.",
+      "uszkodzenia elektroniki konwertera.",
+      "uszkodzenia powłoki kabla."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 217,
+    "text": "Do wprowadzenia sygnału video, przesyłanego kablem koncentrycznym TV 75 Ω zakończonym wtykiem F, do urządzenia wyposażonego w gniazda typu BNC, należy zastosować przejściówkę przedstawioną na",
+    "answers": [
+      "ilustracji 2.",
+      "ilustracji 1.",
+      "ilustracji 3.",
+      "ilustracji 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_przejsciowki.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 218,
+    "text": "Jaką najmniejszą moc znamionową powinien posiadać rezystor R wykorzystany w przedstawionym na schemacie stabilizatorze napięcia?",
+    "answers": [
+      "2 W",
+      "1 W",
+      "5 W",
+      "10 W"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schemat57.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 219,
+    "text": "Którą czynność należy wykonać jako pierwszą przy programowaniu centrali alarmowej systemu kontroli dostępu?",
+    "answers": [
+      "Uruchomić program DLOADX.",
+      "Zaprogramować w centrali funkcję zastosowanych czujek PIR.",
+      "Zidentyfikować poprzez program DLOADX podłączone do centrali ekspandery.",
+      "Zaprogramować unikalne adresy w dołączonych do centrali manipulatorach."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_ramka7.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 220,
+    "text": "W jakim celu podczas prac z układami scalonymi CMOS stosuje się element wskazany strzałką na ilustracji?",
+    "answers": [
+      "Wyrównania potencjału na obydwu nadgarstkach serwisanta.",
+      "Odprowadzenia ładunku elektrostatycznego z ciała serwisanta.",
+      "Podłączenia serwisanta do napięcia zasilania układu scalonego.",
+      "Blokady przed opuszczeniem stanowiska pracy przez serwisanta."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_ilustracja.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 221,
+    "text": "Na schemacie blokowym czwórniki połączone są",
+    "answers": [
+      "przeciwsobnie.",
+      "równolegle.",
+      "szeregowo.",
+      "kaskadowo."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schemat55.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 222,
+    "text": "Na podstawie fragmentu dokumentacji technicznej cyfrowej pasywnej czujki podczerwieni określ, w którym położeniu należy ustawić zworki w celu włączenia sygnalizacji przy pomocy LED i włączenia wysokiej czułości.",
+    "answers": [
+      "JP1, JP2 rozwarte oraz JP3 zwarte.",
+      "JP1 lub JP2 zwarte, a JP3 rozwarte.",
+      "JP1, JP2 i JP3 rozwarte.",
+      "JP1, JP2 i JP3 zwarte."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_dokumentacja2.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 223,
+    "text": "Blok oznaczony znakiem X pełni w zasilaczu rolę",
+    "answers": [
+      "filtru.",
+      "stabilizatora.",
+      "transformatora.",
+      "prostownika."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schemat53.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 224,
+    "text": "Przedstawione na ilustracji przewody należy zastosować w pomiarach wykonywanych",
+    "answers": [
+      "miernikiem sygnału satelitarnego.",
+      "oscyloskopem.",
+      "cęgowym miernikiem mocy.",
+      "omomierzem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_przewody.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 225,
+    "text": "Która z poniższych liczb nie jest zapisem w kodzie BCD8421?",
+    "answers": [
+      "11111111",
+      "00000000",
+      "01100110",
+      "10011001"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 226,
+    "text": "Które wielkości należy mierzyć w celu wyznaczenia zakresu liniowości wzmacniacza?",
+    "answers": [
+      "Napięcie wyjściowe i napięcie zasilania.",
+      "Napięcie wejściowe i wyjściowe.",
+      "Napięcie wejściowe i moc wyjściową.",
+      "Napięcie wyjściowe i częstotliwość."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 227,
+    "text": "W którym układzie pojemność zastępcza jest najmniejsza?",
+    "answers": [
+      "W układzie 3.",
+      "W układzie 4.",
+      "W układzie 1.",
+      "W układzie 2."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklady12.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 228,
+    "text": "Ile wynosi natężenie prądu płynącego w przedstawionym na schemacie obwodzie, jeżeli U = 150 V, R = 30 Ω, XL = ωL = 80 Ω, XC = 1/(ωC) = 40 Ω?",
+    "answers": [
+      "1 A",
+      "5 A",
+      "2 A",
+      "3 A"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_obwod2.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 229,
+    "text": "W urządzeniu elektronicznym uszkodzeniu uległ warystor MYG 10K-431 o napięciu znamionowym 275 V AC, 350 V DC, energii tłumienia 55 J/2 ms i rastrze 7,5 mm. Wykorzystując tabelę zamienników wskaż oznaczenie warystora, który można zastosować w zamian za uszkodzony?",
+    "answers": [
+      "JVRO7N431K",
+      "B72210S0301K101",
+      "TSV07D471",
+      "JVR14N431K"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_tabela17.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 230,
+    "text": "Który sposób przestawia podłączenie do zasilacza przewodu zasilającego AC i przewodu do zasilania kamery napięciem 12 V DC?",
+    "answers": [
+      "Sposób 3.",
+      "Sposób 2.",
+      "Sposób 1.",
+      "Sposób 4."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_zasilacz.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 231,
+    "text": "Który przebieg czasowy wystąpi na wyjściu Q przerzutnika D pracującego jako dwójka licząca, jeżeli na wejście C zostanie podany sygnał jak na wykresie?",
+    "answers": [
+      "Przebieg 2.",
+      "Przebieg 3.",
+      "Przebieg 1.",
+      "Przebieg 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_przebiegi4.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 232,
+    "text": "Układ oznaczony na ilustracji jako U2 pełni funkcję",
+    "answers": [
+      "generatora.",
+      "wzmacniacza operacyjnego.",
+      "wzmacniacza mocy.",
+      "stabilizatora."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad66.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 233,
+    "text": "Podczas sprawdzania instalacji domofonu cyfrowego, po podłączeniu napięcia zasilającego okazało się, że w słuchawce słychać piski i rozmowa jest słabo słyszalna. Aby usunąć usterkę należy",
+    "answers": [
+      "obniżyć poziom głośności wywołania w unifonie.",
+      "podwyższyć napięcie zasilania elektrozaczepu.",
+      "wyczyścić przyciski w kasecie rozmownej.",
+      "wyregulować poziom głośności w centrali."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 234,
+    "text": "Jaka jest moc wydzielana w rezystorze o wartości rezystancji 10 Ω, przez który płynie prąd o natężeniu 100 mA?",
+    "answers": [
+      "0,1 W",
+      "10 W",
+      "1 W",
+      "0,01 W"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 235,
+    "text": "Która technologia wykorzystuje światło podczerwone do transmisji danych?",
+    "answers": [
+      "IRDA",
+      "ZIGBEE",
+      "WIMAX",
+      "BLUETOOTH"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 236,
+    "text": "Ile wyniesie wartość napięcia wyjściowego U2 po zmianie wartości rezystancji R2 z 20 kΩ na 40 kΩ?",
+    "answers": [
+      "-0,1 V",
+      "-1,6 V",
+      "-0,8 V",
+      "-0,2 V"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schemat50.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 237,
+    "text": "W przedstawionym układzie amperomierz wskazuje 4,5 mA. Która dioda Zenera została poddana pomiarom i ile wynosi wskazanie woltomierza?",
+    "answers": [
+      "BZX55C5V6, UV=5,6 V",
+      "BZX55C3V9, UV=3,9 V",
+      "BZX55C4V7, UV=4,7 V",
+      "BZX55C7V5, UV=7,5 V"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad60.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 238,
+    "text": "Układ, którego napięcie wyjściowe zależy od wyniku porównania dwóch napięć wejściowych to",
+    "answers": [
+      "komparator.",
+      "układ całkujący.",
+      "sumator.",
+      "układ różniczkujący."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 239,
+    "text": "Strata transmitowanego światła w linii światłowodowej nazywana jest",
+    "answers": [
+      "dyfrakcją.",
+      "propagacją.",
+      "tłumieniem.",
+      "polaryzacją."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 240,
+    "text": "W tabeli przedstawiono wybrane dane techniczne regulatora temperatury. Bezpośrednio do wejścia tego regulatora można podłączyć czujnik",
+    "answers": [
+      "pirometryczny.",
+      "bimetalowy.",
+      "półprzewodnikowy.",
+      "rezystancyjny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_tabela16.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 241,
+    "text": "Która z liczb nie jest zapisem w kodzie BCD 8421?",
+    "answers": [
+      "00000000",
+      "10011001",
+      "11111111",
+      "01100110"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 242,
+    "text": "Którą czynność należy wykonać podczas montażu przedstawionej na ilustracji koszulki izolacyjnej w miejscu łączenia przewodów?",
+    "answers": [
+      "Okręcić wokół przewodu w miejscu łączenia.",
+      "Przykleić na przewodzie w miejscu łączenia.",
+      "Tylko naciągnąć na miejsce łączenia przewodów.",
+      "Naciągnąć na miejsce łączenia przewodów i podgrzać."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_laczenie.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 243,
+    "text": "Transformator wielkiej częstotliwości o rdzeniu ferrytowym posiadający dwa uzwojenia o impedancjach falowych równych odpowiednio 75 Ω i 300 Ω, którego schemat przedstawiono na ilustracji to",
+    "answers": [
+      "wzmacniacz.",
+      "prostownik.",
+      "symetryzator.",
+      "falownik."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_schemat48.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 244,
+    "text": "W danych katalogowych rezystora drutowego podano wartość rezystancji 100 Ω i moc 1 W. Jakie jest największe natężenie prądu, które może płynąć przez ten rezystor?",
+    "answers": [
+      "1 mA",
+      "10 mA",
+      "1 000 mA",
+      "100 mA"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 245,
+    "text": "Do budowy prostego termostatu elektromechanicznego, zbudowanego na jednym elemencie przełączającym należy wykorzystać",
+    "answers": [
+      "selsyn.",
+      "manometr.",
+      "termometr.",
+      "bimetal."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 246,
+    "text": "W układzie przedstawionym na schemacie umieszczono dwa identyczne rezystory o wartości 150 Ω i dwie identyczne diody LED (UN=2 V, IN=20 mA). Jaki będzie stan układu po zasileniu napięciem równym 5 V?",
+    "answers": [
+      "Będą się świecić obie diody.",
+      "Żadna dioda nie będzie się świecić.",
+      "Będzie się świecić wyłącznie dioda D2.",
+      "Będzie się świecić wyłącznie dioda D1."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad62.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 247,
+    "text": "W układzie przedstawionym na schemacie łącznik W jest otwarty. Jaką wartość powinno mieć napięcie źródła, aby po zamknięciu łącznika prąd pobierany ze źródła nie uległ zmianie?",
+    "answers": [
+      "10 V",
+      "15 V",
+      "20 V",
+      "5 V"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad58.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 248,
+    "text": "Jaka jest wartość prądu kolektora tranzystora IC zmierzonego za pomocą amperomierza o klasie dokładności równej 1 i zakresie pomiarowym In=100 mA?",
+    "answers": [
+      "(45±2) mA",
+      "(90±1) mA",
+      "(45±1) mA",
+      "(90±2) mA"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_pomiar3.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 249,
+    "text": "Przedstawiony na ilustracji fragment układu wykorzystujący diodę LED i fotodiodę stosuje się w celu",
+    "answers": [
+      "zwiększenia niezawodności układu.",
+      "zmniejszenia czasu propagacji bramki.",
+      "uzyskania separacji galwanicznej.",
+      "zwiększenia szybkości działania układu cyfrowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad57.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 250,
+    "text": "Bezprzewodową transmisję danych zapewnia standard przesyłu danych, którego elementem jest interfejs",
+    "answers": [
+      "IrDA",
+      "DVI",
+      "HDMI",
+      "RJ-45"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 251,
+    "text": "Które funkcje pełnią wejścia J, K, S, R, C przerzutnika JK przedstawionego na ilustracji?",
+    "answers": [
+      "J i K - wejścia programujące, S i R - wejścia informacyjne, C - wejście synchronizujące.",
+      "J i K - wejścia synchronizujące, S i R - wejścia programujące, C - wejście informacyjne.",
+      "J i K - wejścia informacyjne, S i R - wejścia synchronizujące, C - wejście programujące.",
+      "J i K - wejścia informacyjne, S i R - wejścia programujące, C - wejście synchronizujące."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_przerzutnik3.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 252,
+    "text": "Przewód antenowy wykonywany w postaci dwóch równoległych żył umieszczonych we wspólnej izolacji to przewód",
+    "answers": [
+      "symetryczny.",
+      "koncentryczny.",
+      "współosiowy.",
+      "niesymetryczny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 253,
+    "text": "Wykorzystując podane wzory dobierz wartości rezystancji tłumika w celu dwukrotnego stłumienia sygnału wejściowego. Zk=75 Ω – impedancja falowa przewodu antenowego.",
+    "answers": [
+      "R1=25 Ω; R2=100 Ω",
+      "R1=100 Ω; R2=100 Ω",
+      "R1=25 Ω; R2=25 Ω",
+      "R1=100 Ω; R2=25 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_tlumik.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 254,
+    "text": "Na rysunku przedstawiono generator sygnału",
+    "answers": [
+      "sinusoidalnego.",
+      "piłokształtnego.",
+      "trójkątnego.",
+      "prostokątnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_generator.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 255,
+    "text": "W przedstawionym układzie regulatora mocy kąt zapłonu triaka zależy od wartości",
+    "answers": [
+      "R − C",
+      "R / C",
+      "R · C",
+      "R + C"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_regulator.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 256,
+    "text": "Charakterystyka warystora przedstawiona została na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_charakterystyki.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 257,
+    "text": "W przedstawionym układzie amperomierz prądu stałego wskazuje 10 mA. Oznacza to, że",
+    "answers": [
+      "napięcie zasilania wzmacniacza jest o 10% mniejsze od znamionowego.",
+      "napięcie zasilania wzmacniacza jest o 10% większe od znamionowego.",
+      "kondensator C2 jest uszkodzony i stanowi przerwę.",
+      "kondensator C2 jest uszkodzony i stanowi zwarcie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad54.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 258,
+    "text": "Na rysunku przedstawiono układ ogranicznika napięcia. Który rysunek przedstawia jego charakterystykę?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad50.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 259,
+    "text": "Które narzędzie należy zastosować do zamocowania końcówki tulejkowej na przewodzie elektrycznym LY?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_narzedzia5.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 260,
+    "text": "Z którego wzoru należy wyznaczyć transmitancję zastępczą układu przedstawionego na rysunku?",
+    "answers": [
+      "G(s)=G1(s)-G2(s)",
+      "G(s)=G1(s)/G2(s)",
+      "G(s)=G1(s)+G2(s)",
+      "G(s)=G1(s)·G2(s)"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad51.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 261,
+    "text": "Przedstawione na rysunku oprogramowanie stosowane jest do",
+    "answers": [
+      "monitorowania aktywności użytkowników w internecie.",
+      "monitorowania w systemach telewizji dozorowej.",
+      "programowania kanałów cyfrowych w telewizorze.",
+      "diagnostyki twardych dysków w komputerach PC."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_oprogramowanie2.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 262,
+    "text": "Na rysunku przedstawiono zasadę działania",
+    "answers": [
+      "korektora graficznego.",
+      "tunera satelitarnego.",
+      "wzmacniacza.",
+      "konwertera."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad52.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 263,
+    "text": "Galwanometr pokazuje 0. Wynika z tego, że natężenie oświetlenia E fotorezystora R jest równe",
+    "answers": [
+      "1 lux",
+      "100 lux",
+      "1 000 lux",
+      "10 lux"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad53.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 264,
+    "text": "Układ z rysunku to przerzutnik astabilny generujący drgania o częstotliwości 125 Hz. Po zamknięciu wyłącznika W częstotliwość sygnału",
+    "answers": [
+      "wzrośnie około cztery razy.",
+      "zmaleje około dwa razy.",
+      "wzrośnie około dwa razy.",
+      "zmaleje około cztery razy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_przerzutnik2.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 265,
+    "text": "Fotorezystor w wyłączniku zmierzchowym pełni funkcję",
+    "answers": [
+      "czujnika wilgoci.",
+      "detektora drgań.",
+      "regulatora temperatury.",
+      "detektora światła widzialnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 266,
+    "text": "Którego narzędzia należy użyć do demontażu bezpiecznika z urządzenia przedstawionego na rysunku?",
+    "answers": [
+      "Odsysacza.",
+      "Chwytaka.",
+      "Lutownicy transformatorowej.",
+      "Klucza imbusowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_urzadzenie11.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 267,
+    "text": "Liczba 3,5 zapisana w naturalnym kodzie binarnym przyjmie postać",
+    "answers": [
+      "01,1",
+      "10,1",
+      "11,1",
+      "11,0"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 268,
+    "text": "Wiedząc, że wartość impedancji znamionowej głośników wynosi Z = 8 Ω, oraz częstotliwość graniczna filtrów wynosi fg = 3 kHz, dobierz parametry filtrów do dwudrożnej zwrotnicy zestawu głośnikowego przedstawionego na rysunku. Parametry dobierz zgodnie z szeregiem E.12.",
+    "answers": [
+      "L = 390 µH; C = 5,6 µF",
+      "L = 390 µH; C = 6,8 µF",
+      "L = 470 µH; C = 5,6 µF",
+      "L = 470 µH; C = 6,8 µF"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_zwrotnica.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 269,
+    "text": "Zgodnie z zaleceniami zawartymi we fragmencie instrukcji obsługi ogranicznika przepięć poprawny sposób podłączenia ogranicznika przedstawiono na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_instrukcja6.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 270,
+    "text": "Na rysunku został przedstawiony schemat blokowy szeregowego stabilizatora napięcia. Dopasuj cyfry do przedstawionych opisów bloków.",
+    "answers": [
+      "1 - Układ regulacyjny, 2 - Wzmacniacz błędu, 3 - Układ zabezpieczający, 4 - Źródło napięcia odniesienia.",
+      "1 - Układ regulacyjny, 2 - Układ zabezpieczający, 3 - Wzmacniacz błędu, 4 - Źródło napięcia odniesienia.",
+      "1 - Źródło napięcia odniesienia, 2 - Układ zabezpieczający, 3 - Wzmacniacz błędu, 4 - Układ regulacyjny.",
+      "1 - Źródło napięcia odniesienia, 2 - Wzmacniacz błędu, 3 - Układ zabezpieczający, 4 - Układ regulacyjny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_stabilizator3.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 271,
+    "text": "Pokazane na ilustracji wskazanie woltomierza dla zakresu 150 V wynosi",
+    "answers": [
+      "90 V",
+      "75 V",
+      "30 V",
+      "60 V"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_woltomierz2.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 272,
+    "text": "Dołączenie obciążenia R do przedstawionego na rysunku dzielnika napięcia",
+    "answers": [
+      "spowoduje wzrost lub spadek napięcia na rezystorze R2, zależnie od wartości R",
+      "nie zmieni wartości napięcia na R2",
+      "spowoduje wzrost napięcia na rezystorze R2",
+      "spowoduje spadek napięcia na rezystorze R2"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_dzielnik2.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 273,
+    "text": "Wskaż prawidłowy przebieg na wyjściu przedstawionego układu.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad55.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 274,
+    "text": "Podczas montażu układu błędnie włączono jedną z diod prostowniczych. Wskaż tę diodę.",
+    "answers": [
+      "D3",
+      "D2",
+      "D1",
+      "D4"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad56.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 275,
+    "text": "Wiedząc, że napięcie diody Zenera UZ wynosi 3 V, a rezystancja R2 jest równa 1 kΩ dobierz wartość rezystancji R1 tak, aby napięcie wyjściowe UO było równe 6 V.",
+    "answers": [
+      "9 kΩ",
+      "6 kΩ",
+      "1 kΩ",
+      "3 kΩ"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklad47.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 276,
+    "text": "Wskaż prawidłowe podłączenie wskaźnika czuwania (LED) do wyjścia typu OC (OUT). Napięcie panujące na wyjściu AUX jest równe +12 V.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/e20_uklady10.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 277,
+    "text": "Przedstawiony na rysunku fragment układu wykorzystujący diodę LED i fotodiodę stosuje się w celu",
+    "answers": [
+      "uzyskania separacji galwanicznej.",
+      "zwiększenia szybkości działania układu cyfrowego.",
+      "zmniejszenia niezawodności układu.",
+      "zmniejszenia czasu propagacji bramki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee22_uklad2.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 278,
+    "text": "W jakich jednostkach wyrażane jest tłumienie jednostkowe linii światłowodowej?",
+    "answers": [
+      "mV/dB",
+      "m/dB",
+      "dB/km",
+      "dB/mV"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 279,
+    "text": "Na rysunku przedstawiona jest płytka elektroniki oraz opis bezprzewodowej czujki ruchu. Jakie ustawienie kołków do konfiguracji należy zastosować, aby czujka pracowała w trybie normalnym, była odporna na zwierzęta i posiadała normalną czułość?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee22_plytka.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 280,
+    "text": "Która z liczb nie jest zapisem w kodzie BCD8421?",
+    "answers": [
+      "01100110",
+      "10011001",
+      "11111111",
+      "00000000"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 281,
+    "text": "Jeżeli do wzmacniacza o maksymalnej mocy wyjściowej 30 W i impedancji wyjściowej 8 Ω podłączy się głośnik o mocy 30 W i impedancji 8 Ω, to w układzie wystąpi",
+    "answers": [
+      "niedociążenie wzmacniacza.",
+      "dopasowanie optymalne.",
+      "zniszczenie głośnika.",
+      "przeciążenie wzmacniacza."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 282,
+    "text": "Na rysunku przestawiono",
+    "answers": [
+      "fotokomórkę.",
+      "elektrozaczep.",
+      "zworę elektromagnetyczną.",
+      "czujnik wibracyjny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee22_rysunek5.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 283,
+    "text": "Ile wyniesie wartość napięcia wyjściowego U2 po zmianie wartości rezystancji R2 z 20 kΩ na 40 kΩ",
+    "answers": [
+      "-0,1 V",
+      "-0,8 V",
+      "-0,2 V",
+      "-1,6 V"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee22_schemat7.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 284,
+    "text": "Na rysunku przedstawiono schemat połączeń czujki ruchu. W jaki sposób należy zaprogramować wejścia Z1 i Z2 centrali alarmowej?",
+    "answers": [
+      "Z1 – NC, Z2 – NC",
+      "Z1 – EOL, Z2 – NC",
+      "Z1 – NC, Z2 – EOL",
+      "Z1 – EOL, Z2 – EOL"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee22_schemat8.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 285,
+    "text": "Użytkowanie akumulatora żelowego w bardzo niskich temperaturach skutkuje",
+    "answers": [
+      "koniecznością zmniejszenia napięcia ładowania.",
+      "zmniejszeniem pojemności akumulatora.",
+      "koniecznością zwiększenia prądu ładowania.",
+      "zwiększeniem pojemności akumulatora."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 286,
+    "text": "W układzie przedstawionym na rysunku umieszczono dwa identyczne rezystory o wartości 150 Ω i dwie identyczne diody LED (UN = 2 V, IN = 20 mA). Jaki będzie stan układu po zasileniu napięciem równym 5 V?",
+    "answers": [
+      "Będzie się świecić wyłącznie dioda D2.",
+      "Żadna dioda nie będzie się świecić.",
+      "Będą się świecić obie diody.",
+      "Będzie się świecić wyłącznie dioda D1."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee22_uklad6.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 287,
+    "text": "Jaka jest wartość prądu kolektora tranzystora IC zmierzonego amperomierzem o klasie dokładności równej 1 i zakresie pomiarowym In = 100 mA?",
+    "answers": [
+      "(45 ±2) mA",
+      "(45 ±1) mA",
+      "(90 ±2) mA",
+      "(90 ±1) mA"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 288,
+    "text": "Dioda IR emituje promieniowanie elektromagnetyczne o długości fali λp = 940 nm. Jest to promieniowanie w zakresie fal",
+    "answers": [
+      "podczerwonych.",
+      "widzialnych.",
+      "nadfioletowych.",
+      "rentgenowskich."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 289,
+    "text": "Przystępując do wymiany przekaźnika w obwodzie sterowania w pierwszej kolejności należy",
+    "answers": [
+      "odłączyć przewody przymocowane do styków przekaźnika.",
+      "odłączyć przewody przymocowane do cewki przekaźnika.",
+      "wyłączyć napięcie w obwodzie sterowania.",
+      "zdemontować przekaźnik z szyny TH-35."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 290,
+    "text": "W układzie przedstawionym na rysunku łącznik W jest otwarty. Do jakiej wartości należy zmienić napięcie źródła, aby po zamknięciu łącznika prąd pobierany ze źródła nie uległ zmianie?",
+    "answers": [
+      "10 V",
+      "5 V",
+      "40 V",
+      "80 V"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee22_uklad3.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 291,
+    "text": "Podczas montażu przedstawionej na rysunku termokurczliwej koszulki izolacyjnej w miejscu łączenia przewodów należy",
+    "answers": [
+      "okręcić ją wokół przewodu w miejscu łączenia.",
+      "przykleić ją na przewodzie w miejscu łączenia.",
+      "tylko naciągnąć ją na miejsce łączenia przewodów.",
+      "naciągnąć ją na miejsce łączenia przewodów i podgrzać."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee22_przewody.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 292,
+    "text": "Transformator wielkiej częstotliwości o rdzeniu ferrytowym posiadający dwa uzwojenia o impedancjach falowych równych odpowiednio 75 Ω i 300 Ω, którego schemat przedstawiono na rysunku, to",
+    "answers": [
+      "prostownik.",
+      "falownik.",
+      "wzmacniacz.",
+      "symetryzator."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee22_schemat4.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 293,
+    "text": "Układ, którego napięcie wyjściowe zależy od wyniku porównania dwóch napięć wejściowych, to",
+    "answers": [
+      "sumator.",
+      "układ różniczkujący.",
+      "układ całkujący.",
+      "komparator."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 294,
+    "text": "Przedstawione narzędzie służy do zaciskania wtyków typu",
+    "answers": [
+      "JACK",
+      "BNC",
+      "RJ",
+      "F"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee22_narzedzie.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 295,
+    "text": "W układzie przedstawionym na rysunku dokonano pomiarów potencjałów w punktach od 1 do 4. Na podstawie wyników pomiarów określ wartość prądu kolektora tranzystora.",
+    "answers": [
+      "12 mA",
+      "10 mA",
+      "14 mA",
+      "2 mA"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee22_uklad5.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 296,
+    "text": "Jaki jest zakres regulacji napięcia wyjściowego względem napięcia wejściowego przedstawionego na rysunku dzielnika napięcia?",
+    "answers": [
+      "UWY = (1/3÷2/3)·UWE",
+      "UWY = (1/3÷1)·UWE",
+      "UWY = (0÷1)·UWE",
+      "UWY = (0÷2/3)·UWE"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee22_schemat6.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 297,
+    "text": "Manipulator przedstawiony na rysunku wyświetla liczbę w systemie binarnym za pomocą pięciu diod świecących LED opisanych 1, 2, 3, 4 i 5. Jaką liczbę w systemie dziesiętnym przedstawia manipulator?",
+    "answers": [
+      "5",
+      "2",
+      "9",
+      "7"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee22_manipulator.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 298,
+    "text": "W ramach konserwacji instalacji telewizyjnej należy sprawdzić jakość sygnału w gniazdkach abonenckich. W takim przypadku w gniazdku abonenckim należy dokonać pomiaru",
+    "answers": [
+      "współczynnika zawartości harmonicznych (THD).",
+      "natężenia prądu (I).",
+      "mocy czynnej (P).",
+      "współczynnika błędnych bitów (BER)."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 299,
+    "text": "Urządzenie umożliwiające odbiór sygnałów o różnych częstotliwościach, pochodzących z dwóch lub więcej anten odbiorczych, tak aby sygnały te przesyłane były do odbiornika za pomocą jednego przewodu, to",
+    "answers": [
+      "zwrotnica antenowa.",
+      "rozgałęźnik.",
+      "głowica antenowa.",
+      "heterodyna."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELM.05"
+  },
+  {
+    "id": 300,
+    "text": "Jakie funkcje pełnią wejścia J, K, S, R, C przerzutnika JK przedstawionego na rysunku?",
+    "answers": [
+      "J i K - wejścia synchronizujące, S i R - wejścia programujące, C - wejście informacyjne.",
+      "J i K - wejścia programujące, S i R - wejścia informacyjne, C - wejście synchronizujące.",
+      "J i K - wejścia informacyjne, S i R - wejścia synchronizujące, C - wejście programujące.",
+      "J i K - wejścia informacyjne, S i R - wejścia programujące, C - wejście synchronizujące."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee22_przerzutnik.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 301,
+    "text": "Kabel światłowodowy przedstawiono na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "elm05/ee22_kable2.png"
+    },
+    "category": "ELM.05"
+  },
+  {
+    "id": 302,
+    "text": "Skrótem DVB-T oznacza się standard systemu telewizji",
+    "answers": [
+      "kablowej.",
+      "naziemnej.",
+      "satelitarnej.",
+      "dozorowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELM.05"
+  }
+]
