@@ -1,0 +1,4101 @@
+[
+  {
+    "id": 1,
+    "text": "Który wózek widłowy powinien zastosować magazynier w celu umieszczenia paletowej jednostki ładunkowej w gnieździe regałowym na wysokości 1,9 metra?",
+    "answers": [
+      "Wózek 2.",
+      "Wózek 4.",
+      "Wózek 1.",
+      "Wózek 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_wozki3.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 2,
+    "text": "Koszty zatrudnienia pracowników magazynu i amortyzacji wyposażenia magazynowego należą do kosztów",
+    "answers": [
+      "uzupełniania zapasów.",
+      "braku zapasów.",
+      "nadmiaru zapasów.",
+      "utrzymania zapasów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 3,
+    "text": "Na której ilustracji jest przedstawiony kod kreskowy QR?",
+    "answers": [
+      "Na ilustracji D.",
+      "Na ilustracji A.",
+      "Na ilustracji B.",
+      "Na ilustracji C."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela43.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 4,
+    "text": "Który dokument określa skład zespołu spisowego zobowiązanego do przeprowadzenia w określonym czasie inwentaryzacji składników majątkowych, znajdujących się w wyznaczonym polu spisowym oraz upoważnia wymienione w nim osoby do przeprowadzenia czynności spisowych?",
+    "answers": [
+      "Arkusz spisu z natury.",
+      "Polecenie przeprowadzenia spisu z natury.",
+      "Protokół z inwentaryzacji.",
+      "Zestawienie różnic inwentaryzacyjnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 5,
+    "text": "Najlepszym rozwiązaniem dla magazynów przechowujących duże ilości jednego rodzaju towaru sformowanego w paletowe jednostki ładunkowe są regały",
+    "answers": [
+      "półkowe narożne.",
+      "paletowe rzędowe.",
+      "zblokowane wjezdne.",
+      "wspornikowe przesuwne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 6,
+    "text": "Produkcja złożyła zapotrzebowanie do magazynu na 18 ton mąki. Ile paletowych jednostek ładunkowych (pjł) mąki należy wydać do produkcji, jeżeli na jednej palecie jest ułożonych 12 worków z mąką, a w jednym worku znajduje się 50 kg mąki.",
+    "answers": [
+      "30 pjł",
+      "3 pjł",
+      "50 pjł",
+      "36 pjł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 7,
+    "text": "Która metoda badania jakości przyjętej dostawy towarów polega na ocenie dokonywanej na podstawie wrażeń odbieranych za pomocą zmysłów?",
+    "answers": [
+      "Laboratoryjna.",
+      "Mechaniczna.",
+      "Doświadczalna.",
+      "Organoleptyczna."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 8,
+    "text": "Walec do maszyny papierniczej w magazynie przedsiębiorstwa produkującego papier jest",
+    "answers": [
+      "opakowaniem jednostkowym.",
+      "materiałem podstawowym.",
+      "materiałem pomocniczym.",
+      "częścią zamienną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 9,
+    "text": "W magazynie znajdują beczki z olejem palmowym w liczbie zgodnej z przedstawionym rysunkiem. Każda beczka jest o pojemności 200 litrów, ale jest wypełniona tylko w 95%. Jaką ilość oleju palmowego należy wpisać do arkusza spisu z natury?",
+    "answers": [
+      "1 600 litrów",
+      "1 440 litrów",
+      "1 520 litrów",
+      "760 litrów"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_beczki.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 10,
+    "text": "Zgodnie z przedstawionym zamówieniem, które zostało przyjęte do realizacji, dokument PZ dotyczący przyjęcia przędzy do magazynu PP BAWEŁNA będzie sporządzony nie prędzej niż",
+    "answers": [
+      "17.02.2023 r.",
+      "24.02.2023 r.",
+      "16.01.2023 r.",
+      "09.01.2023 r."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_zamowienie.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 11,
+    "text": "Przedstawiona tabela zawiera opis karty",
+    "answers": [
+      "technologicznej.",
+      "zamówienia.",
+      "kanban.",
+      "pracy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela44.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 12,
+    "text": "Tabela zawiera ilościowo-wartościowe zestawienie potrzeb materiałowych brutto i netto do realizacji otrzymanego zamówienia. Ile minimum ramiaków powinno zamówić przedsiębiorstwo, zgodnie z przedstawionym zestawieniem, w celu realizacji zamówienia?",
+    "answers": [
+      "10 250 szt.",
+      "3 300 szt.",
+      "1 650 szt.",
+      "8 600 szt."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela47-1.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 13,
+    "text": "W zbiornikach można magazynować materiały",
+    "answers": [
+      "stałe luzem.",
+      "ciekłe w opakowaniach.",
+      "ciekłe luzem.",
+      "sypkie w opakowaniach."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 14,
+    "text": "Odpady, którym powstaniu nie udało się w przedsiębiorstwie zapobiec, w pierwszej kolejności powinny być",
+    "answers": [
+      "poddane odzyskowi.",
+      "unieszkodliwione.",
+      "umieszczone w kontenerach na odpady komunalne.",
+      "składowane w określonym miejscu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 15,
+    "text": "W ramach pierwszego etapu dystrybucji występuje",
+    "answers": [
+      "obsługa zamówienia.",
+      "regulowanie należności.",
+      "nawiązanie kontaktów handlowych.",
+      "świadczenie usług posprzedażowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 16,
+    "text": "Producent robotów kuchennych pakuje je w kartony, a następnie formuje w paletowe jednostki ładunkowe (pjł). Na każdej palecie roboty są układane w 6 warstwach po 8 robotów w warstwie. Ile pjł z robotami powinien dostarczyć producent do hurtowni, która zamówiła ich 3 840 szt.?",
+    "answers": [
+      "480 pjł",
+      "80 pjł",
+      "48 pjł",
+      "640 pjł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 17,
+    "text": "Na którym rysunku jest przedstawione wnętrze magazynu wielokondygnacyjnego?",
+    "answers": [
+      "Na rysunku 2.",
+      "Na rysunku 4.",
+      "Na rysunku 1.",
+      "Na rysunku 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_rysunki4.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 18,
+    "text": "Który wózek naładowny należy zastosować do przewozu kruszywa o gęstości 1,7 t/m3, aby móc nim przewieźć jednorazowo 3 m3 tego ładunku?",
+    "answers": [
+      "Wózek naładowny 4.",
+      "Wózek naładowny 1.",
+      "Wózek naładowny 2.",
+      "Wózek naładowny 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela39.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 19,
+    "text": "Poziom zapasu rotującego w przedsiębiorstwie wynika",
+    "answers": [
+      "z możliwości zachwiania regularności dostaw.",
+      "z popytu i wahań sezonowych wielkości sprzedaży.",
+      "z przewidywanych podwyżek cen zapasów.",
+      "z wielkości dostaw i bieżącego zużycia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 20,
+    "text": "Koszty zmienne w zarządzaniu magazynem są",
+    "answers": [
+      "niezależne od ilości przechowywanych zapasów.",
+      "zależne od ilości przechowywanych zapasów.",
+      "zależne od liczby środków trwałych znajdujących się w magazynie.",
+      "niezależne od ilości zapasów dostarczonych do przedsiębiorstwa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 21,
+    "text": "Opakowanie odpowiednio dobrane do produktu powinno chronić i zabezpieczać go przed narażeniami mechanicznymi, do których zaliczamy między innymi",
+    "answers": [
+      "pleśń.",
+      "pożar.",
+      "deszcz.",
+      "nacisk."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 22,
+    "text": "Wadą ciągłej kontroli zapasów jest",
+    "answers": [
+      "potrzeba bieżącej inwentaryzacji rzeczywistych poziomów zapasów.",
+      "brak konieczności informatyzacji obrotu magazynowego, w celu usprawnienia funkcjonowania magazynu.",
+      "posiadanie informacji o aktualnym poziomie zapasów.",
+      "brak aktualnych danych na temat poziomu zapasów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 23,
+    "text": "Zgodnie z danymi zawartymi w tabeli wieprzowinę przyjętą do magazynu 5 czerwca można przechowywać maksymalnie do",
+    "answers": [
+      "12 czerwca",
+      "26 czerwca",
+      "19 czerwca",
+      "25 czerwca"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela45.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 24,
+    "text": "Niewłaściwe zabezpieczenie zapasów przed procesami chemicznymi może spowodować, że produkty będą",
+    "answers": [
+      "wysychać.",
+      "dojrzewać.",
+      "rdzewieć.",
+      "kiełkować."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 25,
+    "text": "Pojazd z 84 skrzyniopaletami jabłek podstawiono pod rozładunek o godzinie 10:50. Wózek widłowy pobiera jednorazowo 2 skrzyniopalety. Czas jednego cyklu pracy wózka trwa 3 minuty, kontrola ilościowo-jakościowa całej dostawy 20 minut, a sporządzenie dokumentacji przyjęcia dostawy 15 minut. O której godzinie zakończy się proces przyjęcia dostawy jabłek do magazynu?",
+    "answers": [
+      "O godzinie 13:37",
+      "O godzinie 12:09",
+      "O godzinie 12:11",
+      "O godzinie 13:31"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 26,
+    "text": "Nośność gniazda regałowego przystosowanego do składowania 3 paletowych jednostek ładunkowych (pjł) wynosi 4 000 kg. Ile wynosi wskaźnik wykorzystania nośności tego gniazda, jeżeli umieszczono w nim 2 pjł, każda o masie brutto 1 t?",
+    "answers": [
+      "0,75",
+      "0,50",
+      "0,25",
+      "0,80"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 27,
+    "text": "Klient kupił 220 szt. produktów po 35,00 zł/szt. netto. Wyroby są objęte 23% VAT. Na jaką wartość brutto będzie wystawiona faktura dla klienta?",
+    "answers": [
+      "5 929,00 zł",
+      "7 700,00 zł",
+      "9 471,00 zł",
+      "6 260,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 28,
+    "text": "Przedsiębiorcy wprowadzający do obrotu opakowania, w przypadku nieuzyskania wymaganych poziomów recyklingu odpadów opakowaniowych, są zobowiązani do wniesienia opłaty produktowej. Zgodnie z danymi przedstawionymi w tabeli przedsiębiorca będzie zobowiązany uiścić opłatę produktową za odpady opakowaniowe",
+    "answers": [
+      "z drewna.",
+      "z papieru i kartonu.",
+      "z tworzyw sztucznych.",
+      "z aluminium."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela42.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 29,
+    "text": "Ile wynosi wartość zapasu nieprawidłowego na podstawie przedstawionego wykresu, jeżeli przedsiębiorstwo posiada zapas o łącznej wartości 120 000,00 zł?",
+    "answers": [
+      "9 600,00 zł",
+      "86 400,00 zł",
+      "24 000,00 zł",
+      "12 000,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_wykres.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 30,
+    "text": "Przedstawiony znak umieszczony na opakowaniu informuje o wrażliwości towaru na",
+    "answers": [
+      "opady atmosferyczne.",
+      "niskie temperatury.",
+      "promieniowanie radioaktywne.",
+      "wysokie temperatury."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_znak2.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 31,
+    "text": "Do korzyści wynikających z wdrożenia magazynowego systemu informatycznego (MSI) należy",
+    "answers": [
+      "zmniejszenie przepustowości magazynu.",
+      "wzrost kosztów funkcjonowania magazynu.",
+      "wydłużenie czasu kompletowania zamówień.",
+      "lepsze wykorzystanie powierzchni magazynowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 32,
+    "text": "Który schemat przedstawia sieć dystrybucji zcentralizowanej?",
+    "answers": [
+      "Sieć B.",
+      "Sieć D.",
+      "Sieć A.",
+      "Sieć C."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_schematy.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 33,
+    "text": "Magazyn za usługę co-packingu stosuje stawkę 24,50 zł netto za 1 paletową jednostkę ładunkową (pjł). Ile wynosi koszt brutto kompleksowej usługi pakowania 34 pjł, jeżeli usługa jest objęta 23%VAT.",
+    "answers": [
+      "1 024,59 zł",
+      "899,64 zł",
+      "833,00 zł",
+      "641,41 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 34,
+    "text": "Zobowiązanie się odbiorcy do zakupienia wymienionych przez niego dóbr lub usług po określonej cenie na podanych warunkach dostawy i płatności jest",
+    "answers": [
+      "zamówieniem.",
+      "zapytaniem ofertowym.",
+      "ofertą.",
+      "listem przewozowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 35,
+    "text": "W tabeli podano korzyści użytkowania systemu informatycznego",
+    "answers": [
+      "EDI",
+      "MRP",
+      "ERP",
+      "MRP II"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela46.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 36,
+    "text": "Która zasada organizacji procesu produkcyjnego polega na produkowaniu równej liczby wyrobów w równych odcinkach czasu?",
+    "answers": [
+      "Zasada liniowości.",
+      "Zasada koncentracji.",
+      "Zasada rytmiczności.",
+      "Zasada specjalizacji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 37,
+    "text": "Wadą cross-dockingu, realizowanego w centrach dystrybucji, jest",
+    "answers": [
+      "zredukowanie kosztów związanych z magazynowaniem towarów.",
+      "zmniejszenie liczby przestojów towarów na drodze od producenta do odbiorcy.",
+      "szybsze docieranie towarów do poszczególnych punktów w łańcuchu dostaw.",
+      "konieczność synchronizacji wszystkich procesów związanych z odbieraniem i wydawaniem towarów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 38,
+    "text": "W której skrzyni można umieścić dokładnie 8 opakowań jednostkowych o wymiarach 0,5 x 0,5 x 0,5 m (dł. x szer. x wys.)?",
+    "answers": [
+      "W skrzyni B.",
+      "W skrzyni C.",
+      "W skrzyni D.",
+      "W skrzyni A."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela41.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 39,
+    "text": "Stan magazynowy pustaków na dzień 10 czerwca wynosi 8 500 szt. Zgodnie z danymi zawartymi w tabeli stan magazynowy pustaków na dzień 16 czerwca wynosi",
+    "answers": [
+      "26 100 szt.",
+      "17 300 szt.",
+      "8 800 szt.",
+      "25 800 szt."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela40.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 40,
+    "text": "Ile wynosił stan magazynowy kalkulatorów przed wydaniem ich Hurtowni PAPIRUS na podstawie zamieszczonego dokumentu WZ?",
+    "answers": [
+      "4 000 szt.",
+      "18 000 szt.",
+      "14 000 szt.",
+      "10 000 szt."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_dokument2.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 41,
+    "text": "W dniu 10.01.2020 r. wydano z magazynu na podstawie dokumentu WZ 1 400 sztuk zeszytów 60 kartkowych w kratkę. Na podstawie przedstawionej w tabeli ilościowo-wartościowej kartoteki magazynowej oblicz, ile zeszytów 60 kartkowych w kratkę zostało w magazynie po wydaniu.",
+    "answers": [
+      "100 sztuk zeszytów.",
+      "650 sztuk zeszytów.",
+      "2 225 sztuk zeszytów.",
+      "2 800 sztuk zeszytów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela13.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 42,
+    "text": "Który znak należy umieścić na opakowaniu biodegradowalnym?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_znaki2.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 43,
+    "text": "Grupę przedsiębiorstw współpracujących ze sobą w procesie realizacji dostaw od dostawców do wielu odbiorców nazywa się",
+    "answers": [
+      "siecią dystrybucji.",
+      "centrum dystrybucji.",
+      "ogniwem dystrybucji.",
+      "kanałem dystrybucji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 44,
+    "text": "Cykl pracy wózka widłowego polegający na pobraniu 1 paletowej jednostki ładunkowej (pjł) z pojazdu, a następnie przetransportowanie 1 pjł do strefy składowania i powrót do pojazdu trwa 2,5 minuty. Ile czasu będzie trwał proces rozładunku pojazdu, który dostarczył do magazynu 34 pjł?",
+    "answers": [
+      "2 godziny 05 minut.",
+      "2 godziny 45 minut.",
+      "1 godzinę 15 minut.",
+      "1 godzinę 25 minut."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 45,
+    "text": "Korzystając z informacji zawartych w tabeli określ kraj pochodzenia produktu, na którym umieszczono przedstawiony kod kreskowy EAN.",
+    "answers": [
+      "Niemcy.",
+      "Grecja.",
+      "Iran.",
+      "Chiny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela12.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 46,
+    "text": "Na rysunku przedstawiono",
+    "answers": [
+      "sprawdzarkę cen.",
+      "ręczny czytnik kodów kreskowych.",
+      "kolektor danych.",
+      "termiczną drukarkę etykiet."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_rysunek3.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 47,
+    "text": "Na rysunku przedstawiono dystrybucję towarów w systemie",
+    "answers": [
+      "korporacyjnym.",
+      "cross-docking.",
+      "kontraktowym.",
+      "co-packing."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_rysunek2.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 48,
+    "text": "Podatnością na korozję charakteryzuje się",
+    "answers": [
+      "srebro.",
+      "platyna.",
+      "złoto.",
+      "żelazo."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 49,
+    "text": "Który sposób zabezpieczania towaru uniemożliwia jego przesuwanie w opakowaniu?",
+    "answers": [
+      "Amortyzowanie.",
+      "Owijanie.",
+      "Blokowanie.",
+      "Przekładanie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 50,
+    "text": "Który regał należy wykorzystać w magazynie do składowania rur metalowych o długości 3 metrów?",
+    "answers": [
+      "Przepływowy.",
+      "Wspornikowy.",
+      "Wjezdny.",
+      "Półkowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 51,
+    "text": "Przedsiębiorstwo otrzymało zamówienie od sklepu BAMBO na 3 500 sztuk parasoli. W magazynie producenta znajduje się 500 sztuk parasoli, w tym 100 sztuk to zapas zabezpieczający. Korzystając ze struktury wyrobu gotowego oblicz, ile minimum sprężyn powinien zamówić producent parasoli, aby zrealizować zamówienie od sklepu BAMBO.",
+    "answers": [
+      "8 800 szt.",
+      "10 000 szt.",
+      "8 200 szt.",
+      "9 300 szt."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_schemat3.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 52,
+    "text": "Klej wykorzystywany do sklejania drewnianych mebli jest",
+    "answers": [
+      "paliwem produkcyjnym.",
+      "materiałem pomocniczym.",
+      "materiałem podstawowym.",
+      "odpadem poprodukcyjnym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 53,
+    "text": "Korzystając z danych zawartych w tabelach, wskaż warunki przechowywania jaj w pomieszczeniach magazynowych.",
+    "answers": [
+      "Temperatura 3°C ÷ 10°C, wilgotność względna 65 ÷ 80%",
+      "Temperatura 4°C ÷ 10°C, wilgotność względna 65 ÷ 85%",
+      "Temperatura 3°C ÷ 10°C, wilgotność względna 85 ÷ 90%",
+      "Temperatura 0°C ÷ 10°C, wilgotność względna 60 ÷ 70%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabele2.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 54,
+    "text": "Na rysunku przedstawiono przyrząd do pomiaru",
+    "answers": [
+      "wilgotności względnej powietrza.",
+      "stopnia zapylenia pomieszczenia.",
+      "ciśnienia atmosferycznego.",
+      "temperatury powietrza."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_przyrzad.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 55,
+    "text": "W magazynie znajdują się 4 paletowe jednostki ładunkowe (pjł) z napojami w puszkach. Napoje pakowane są w zgrzewki po 24 puszki, a następnie są układane na palecie w 12 warstwach po 8 zgrzewek w warstwie. Jaką liczbę napojów w puszkach należy wpisać do arkusza spisu z natury?",
+    "answers": [
+      "4 608 szt.",
+      "1 152 szt.",
+      "9 216 szt.",
+      "2 304 szt."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 56,
+    "text": "Do magazynów półotwartych należą",
+    "answers": [
+      "zbiorniki otwarte zagłębione.",
+      "składowiska z nawierzchnią utwardzoną.",
+      "zbiorniki podziemne.",
+      "silosy wielokomorowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 57,
+    "text": "Jeżeli jeden producent wytwarza określoną gamę produktów, która jest niewystarczająca do zaspokojenia wszystkich potrzeb konsumentów, to zadaniem dystrybucji jest wypełnienie luki",
+    "answers": [
+      "asortymentowej.",
+      "przestrzennej.",
+      "informacyjnej.",
+      "czasowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 58,
+    "text": "Dokumentem potwierdzającym wydanie z magazynu towarów odbiorcy zewnętrznemu jest",
+    "answers": [
+      "WZ",
+      "PZ",
+      "RW",
+      "ZW"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 59,
+    "text": "Na którym rysunku przedstawiono stojak do składowania towaru w beczkach?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_stojaki.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 60,
+    "text": "System EDI umożliwia między innymi",
+    "answers": [
+      "zarządzanie zasobami ludzkimi.",
+      "planowanie globalnego poziomu popytu na dane towary.",
+      "wyeliminowanie dokumentów papierowych.",
+      "tworzenie produktu zgodnie z potrzebami rynku."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 61,
+    "text": "Stocznia charakteryzuje się produkcją",
+    "answers": [
+      "wielkoseryjną.",
+      "średnioseryjną.",
+      "jednostkową.",
+      "masową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 62,
+    "text": "Na rysunku przedstawiono regał paletowy",
+    "answers": [
+      "przejezdny.",
+      "wjezdny.",
+      "przepływowy.",
+      "wspornikowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_regal.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 63,
+    "text": "Magazyn jest przystosowany do składowania 2 120 paletowych jednostek ładunkowych (pjł). Średnio w magazynie jest przechowywanych 1 696 paletowych jednostek ładunkowych (pjł). Ile wynosi współczynnik wykorzystania miejsc składowych w magazynie?",
+    "answers": [
+      "1,2",
+      "0,8",
+      "0,6",
+      "0,2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 64,
+    "text": "Magazynier pracujący w firmie na akord w danym miesiącu przepracował 23 dni. Każdego dnia zrealizował 25 zamówień. Stawka za realizację jednego zamówienia wynosi 8,50 zł. Jeżeli magazynier w ciągu miesiąca zrealizuje więcej niż 500 zamówień to przysługuje mu 10% premia liczona od wynagrodzenia za pracę akordową. Oblicz wynagrodzenie magazyniera za dany miesiąc.",
+    "answers": [
+      "4 675,00 zł",
+      "4 887,50 zł",
+      "4 901,25 zł",
+      "5 376,25 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 65,
+    "text": "Świeże warzywa luzem należy przewozić",
+    "answers": [
+      "na paletach.",
+      "na nadstawkach paletowych.",
+      "w beczkach.",
+      "w skrzyniopaletach."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 66,
+    "text": "Korzystając z podanego wzoru, oblicz wskaźnik rotacji zapasu w dniach, jeżeli w ciągu roku (360 dni) popyt wyniósł 42 000 kg, a średni zapas wynosił 2 100 kg gdzie: Wrzd – wskaźnik rotacji zapasu w dniach, Wz – średni poziom zapasu, Sp – popyt na zapas.",
+    "answers": [
+      "16 dni.",
+      "18 dni.",
+      "20 dni.",
+      "24 dni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_wzor.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 67,
+    "text": "W tabeli zamieszczono informacje o zapasie mąki w piekarni w poszczególnych dniach tygodnia. Oblicz średni dzienny zapas dysponowany mąki w piekarni.",
+    "answers": [
+      "7 000 kg",
+      "3 500 kg",
+      "8 000 kg",
+      "800 kg"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela9.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 68,
+    "text": "W magazynie dotkniętym powodzią należy po jej zakończeniu przeprowadzić inwentaryzację",
+    "answers": [
+      "okresową.",
+      "cykliczną.",
+      "doraźną.",
+      "ciągłą."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 69,
+    "text": "W magazynie znajduje się 7 800 sztuk konserw mięsnych zgodnie z zestawieniem w tabeli. Z której dostawy konserwy powinny być wydane jako pierwsze, jeżeli hurtownia stosuje metodę FEFO wydań magazynowych?",
+    "answers": [
+      "Dostawy 2.",
+      "Dostawy 3.",
+      "Dostawy 1.",
+      "Dostawy 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela10.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 70,
+    "text": "Wycena rozchodu magazynowego oparta na metodzie FIFO oznacza, że w ramach danego asortymentu w pierwszej kolejności są wydawane towary",
+    "answers": [
+      "najdroższe.",
+      "najtańsze.",
+      "pierwsze przyjęte do magazynu.",
+      "ostatnie przyjęte do magazynu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 71,
+    "text": "Do funkcji potransakcyjnych dystrybucji należy",
+    "answers": [
+      "realizacja obowiązków z tytułu rękojmi i gwarancji.",
+      "obsługa zamówień.",
+      "negocjowanie warunków umów handlowych.",
+      "działalność promocyjna."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 72,
+    "text": "Przedsiębiorstwo pakuje wytwarzane wyroby do puszek stalowych. W ciągu jednego roku wprowadziło na rynek 248 ton opakowań stalowych. Korzystając z tabeli, w której zamieszczono fragment ustawy o gospodarce opakowaniami i odpadami opakowaniowymi ustal, ile kilogramów opakowań ze stali powinno przedsiębiorstwo poddać recyklingowi.",
+    "answers": [
+      "39 680 kg",
+      "126 480 kg",
+      "138 880 kg",
+      "58 280 kg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela11.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 73,
+    "text": "Który sposób składowania paletowych jednostek ładunkowych (pjł) zapewnia najwyższy stopień wykorzystania powierzchni składowej magazynu?",
+    "answers": [
+      "Składowanie blokowe bez regałów.",
+      "Składowanie w regałach ramowych.",
+      "Składowanie w regałach półkowych.",
+      "Składowanie rzędowe bez regałów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 74,
+    "text": "Dokumentem magazynowym sporządzanym w związku z przyjęciem do magazynu wyrobów gotowych z linii produkcyjnej jest",
+    "answers": [
+      "WZ",
+      "PW",
+      "RW",
+      "PZ"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 75,
+    "text": "Oblicz, na jaką kwotę brutto należy wystawić fakturę za 200 sztuk drukarek, jeżeli cena netto jednej drukarki wynosi 178,00 zł, drukarki objęte są 23% stawką VAT, a klientowi przysługuje 23% rabatu.",
+    "answers": [
+      "35 600,00 zł",
+      "33 716,76 zł",
+      "53 859,24 zł",
+      "43 788,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 76,
+    "text": "Korzystając z informacji zamieszczonych w tabelach, określ którego dnia Centrum dystrybucji I powinno złożyć zamówienie na dostawę.",
+    "answers": [
+      "10-go dnia.",
+      "14-go dnia.",
+      "17-go dnia.",
+      "16-go dnia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabele3.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 77,
+    "text": "System informatyczny MRP dotyczy planowania",
+    "answers": [
+      "poziomu zatrudnienia.",
+      "struktury sprzedaży.",
+      "potrzeb materiałowych.",
+      "zasobów przedsiębiorstwa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 78,
+    "text": "Do rozpowszechniania artykułów spożywczych należy zastosować dystrybucję",
+    "answers": [
+      "zintegrowaną.",
+      "wyłączną.",
+      "selektywną.",
+      "intensywną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 79,
+    "text": "Zmienną część każdego zapasu magazynowego, sukcesywnie zużywaną i odnawianą przez kolejne dostawy, nazywa się zapasem",
+    "answers": [
+      "obrotowym.",
+      "przeciętnym.",
+      "zabezpieczającym.",
+      "informacyjnym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 80,
+    "text": "W magazynie na stojakach szczelinowych należy umieścić",
+    "answers": [
+      "rowery stacjonarne.",
+      "tafle blachy.",
+      "butle gazowe.",
+      "beczki z winem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 81,
+    "text": "Który towar jest typowy dla dystrybucji intensywnej?",
+    "answers": [
+      "Telewizor.",
+      "Samochód.",
+      "Meble.",
+      "Nabiał."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 82,
+    "text": "Wyroby przemysłu maszynowego podatne na korozję powinny być przechowywane w magazynach zamkniętych",
+    "answers": [
+      "bez instalacji wentylacyjnej.",
+      "wyposażonych w instalację grzewczą.",
+      "o temperaturze poniżej 0°C.",
+      "z wysokim poziomem wilgotności."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 83,
+    "text": "Substancje toksyczne, pochodzące z produkcji przemysłowej zaliczane są do odpadów",
+    "answers": [
+      "uciążliwych.",
+      "szkodliwych.",
+      "niebezpiecznych.",
+      "komunalnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 84,
+    "text": "System MRP dotyczy planowania",
+    "answers": [
+      "wielkości produkcji.",
+      "potrzeb materiałowych.",
+      "czasu produkcji.",
+      "wynagrodzenia netto."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 85,
+    "text": "Zapas gromadzony w przedsiębiorstwie podyktowany oceną ryzyka wystąpienia prognoz spekulacyjnych na rynku to zapas",
+    "answers": [
+      "cykliczny.",
+      "promocyjny.",
+      "asekuracyjny.",
+      "zabezpieczający."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 86,
+    "text": "Ile maksymalnie opakowań zbiorczych o wymiarach (dł. × szer. × wys.) 400 × 200 × 250 mm można umieścić w jednej warstwie na palecie EUR 1 200 × 800 × 144 mm, jeżeli wysokość opakowania to wysokość warstwy ładunku na palecie?",
+    "answers": [
+      "21 sztuk.",
+      "18 sztuk.",
+      "12 sztuk.",
+      "15 sztuk."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 87,
+    "text": "Które urządzenie jest przedstawione na ilustracji?",
+    "answers": [
+      "Układnica magazynowa.",
+      "Dźwignik.",
+      "Paletyzator.",
+      "Suwnica bramowa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_urzadzenie2.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 88,
+    "text": "Wskaż poprawną kolejność elementów struktury kodu EAN-13.",
+    "answers": [
+      "Numer towaru, cyfra kontrolna, prefiks towaru, numer jednostki kodującej.",
+      "Numer jednostki kodującej, numer towaru, cyfra kontrolna, prefiks kraju.",
+      "Prefiks kraju, numer jednostki kodującej, numer towaru, cyfra kontrolna.",
+      "Cyfra kontrolna, prefiks kraju, numer jednostki kodującej, numer towaru."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 89,
+    "text": "Przedsiębiorstwo stosuje koncepcję dostaw w systemie Just in Time dążąc do",
+    "answers": [
+      "zwiększenia kosztów częstych dostaw, przy  jednoczesnym zmniejszeniu kosztów utrzymania zapasów.",
+      "minimalizacji kosztów częstych dostaw, przy jednoczesnym wzroście kosztów utrzymania zapasów.",
+      "minimalizacji kosztów częstych dostaw, przy jednoczesnym wyeliminowaniu kosztów utrzymania zapasów.",
+      "zwiększenia kosztów częstych dostaw, przy jednoczesnym wzroście kosztów utrzymania zapasów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 90,
+    "text": "Wózki naładowne kolebowe w procesie transportu w magazynach wykorzystywane są do przemieszczania",
+    "answers": [
+      "cementu w workach.",
+      "pasz luzem.",
+      "wody w beczkach.",
+      "owoców w skrzyniach."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 91,
+    "text": "Koszty amortyzacji wózka jezdniowego należy zaliczyć do kosztów",
+    "answers": [
+      "stałych.",
+      "zamówienia.",
+      "międzyokresowych.",
+      "zmiennych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 92,
+    "text": "System automatycznej identyfikacji RFID identyfikuje ładunki za pomocą technik",
+    "answers": [
+      "radiowych.",
+      "biometrycznych.",
+      "magnetycznych.",
+      "optycznych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 93,
+    "text": "Dobrem materialnym wytworzonym w procesie produkcji z przeznaczeniem na sprzedaż jest",
+    "answers": [
+      "towar.",
+      "materiał.",
+      "surowiec.",
+      "produkt."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 94,
+    "text": "Który układ magazynu przedstawiono na schemacie?",
+    "answers": [
+      "Workowy ze wspólną strefą przyjęć i wydań.",
+      "Przelotowy.",
+      "Workowy z wydzielonymi strefami przyjęć i wydań.",
+      "Kątowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_schemat2.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 95,
+    "text": "Najmniejszą jednostką produkcyjną zdolną do samodzielnego działania jest",
+    "answers": [
+      "linia produkcyjna.",
+      "gniazdo produkcyjne.",
+      "stanowisko robocze.",
+      "oddział produkcyjny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 96,
+    "text": "Ścieżkę realizacji operacji produkcyjnych jako ciągu realizowanych zadań związanych z wytworzeniem wyrobu gotowego, zgodnie z BOM, obrazuje",
+    "answers": [
+      "struktura wyrobu.",
+      "marszruta produkcyjna.",
+      "plan produkcji.",
+      "struktura produkcji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 97,
+    "text": "Zaletą składowania blokowego jest",
+    "answers": [
+      "wysoki poziom wykorzystania powierzchni magazynu.",
+      "możliwość bezpośredniego dostępu do każdej jednostki ładunkowej.",
+      "łatwość obrotu zapasem według metody first in first out.",
+      "duża liczba dróg transportowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 98,
+    "text": "Grupa przedsiębiorstw współpracująca ze sobą w procesie realizacji dostaw od producentów do wielu odbiorców to",
+    "answers": [
+      "kanał dystrybucji.",
+      "centrum logistyczne.",
+      "sieć dystrybucji.",
+      "węzeł logistyczny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 99,
+    "text": "Stan zapasów pozwalający na zachowanie ciągłości produkcji dla zakładu wynosi 70 sztuk puszek. Ile sztuk zapasu nadmiernego posiada zakład, jeżeli na początku miesiąca stan magazynu wynosił 60 sztuk, a w ciągu kolejnego miesiąca zakupiono kolejne 30 sztuk puszek? Żadna ze zmagazynowanych puszek nie została wykorzystana do produkcji.",
+    "answers": [
+      "10 sztuk.",
+      "20 sztuk.",
+      "40 sztuk.",
+      "30 sztuk."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 100,
+    "text": "Metodę FEFO wydań magazynowych należy zastosować w magazynie przechowującym",
+    "answers": [
+      "sprzęt gospodarstwa domowego.",
+      "stal.",
+      "węgiel.",
+      "artykuły spożywcze."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 101,
+    "text": "Spis z natury polega na",
+    "answers": [
+      "podsumowaniu kartotek magazynowych.",
+      "uzgodnieniu sald kont księgowych.",
+      "zliczeniu stanów magazynowych.",
+      "ustaleniu różnicy w dokumentach PZ i WZ."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 102,
+    "text": "Który zapas ma na celu łagodzenie różnicy między przewidywanym zapotrzebowaniem a nagłym wzrostem zapotrzebowania na towar w całym cyklu dostawy?",
+    "answers": [
+      "Zabezpieczający.",
+      "Efektywny.",
+      "Bieżący.",
+      "Spekulacyjny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 103,
+    "text": "Koncepcja polegająca na systemowym określaniu potrzeb dystrybucyjnych i planowaniu popytu na produkty finalne to",
+    "answers": [
+      "ERP",
+      "DRP",
+      "MRP",
+      "LRP"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 104,
+    "text": "Mrożone warzywa należy przechowywać w magazynach",
+    "answers": [
+      "uniwersalnych.",
+      "specjalnych.",
+      "otwartych.",
+      "półotwartych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 105,
+    "text": "Ile wyniesie wskaźnik skupu opakowań, jeżeli w danym roku zużyto 8 000 szt. skrzyń, a od odbiorców odkupiono 4 800 szt. skrzyń?",
+    "answers": [
+      "0,6",
+      "0,9",
+      "0,3",
+      "0,5"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 106,
+    "text": "Ze względu na liczbę pośredników w poszczególnych ogniwach dystrybucji rozróżnia się kanały",
+    "answers": [
+      "szerokie i wąskie.",
+      "krótkie i długie.",
+      "krótkie i wąskie.",
+      "długie i szerokie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 107,
+    "text": "Oblicz wielkość wskaźnika rotacji zapasów w razach, jeżeli sprzedaż w danym roku wyniosła 600 sztuk, a średni stan zapasów utrzymywał się na poziomie 20 sztuk.",
+    "answers": [
+      "30 razy.",
+      "12 razy.",
+      "18 razy.",
+      "20 razy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 108,
+    "text": "Który dokument należy wystawić w związku z przesunięciem wyrobu gotowego z magazynu A do magazynu B u jednego przedsiębiorcy?",
+    "answers": [
+      "RW",
+      "MM",
+      "PW",
+      "PZ"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 109,
+    "text": "Opakowaniem jednostkowym jest",
+    "answers": [
+      "skrzynia zawierająca 10 butelek wody.",
+      "torebka papierowa z 1 kg mąki.",
+      "karton zawierający 5 słoików kawy.",
+      "zgrzewka zawierająca 6 kartonów mleka."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 110,
+    "text": "Dokumentem potwierdzającym przyjęcie zakupionego towaru do magazynu jest",
+    "answers": [
+      "WZ",
+      "PZ",
+      "PW",
+      "RW"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 111,
+    "text": "Jak należy postąpić z towarem przygotowywanym do składowania, którego opakowanie jest uszkodzone przez gryzonie?",
+    "answers": [
+      "Natychmiast wyrzucić.",
+      "Przepakować.",
+      "Poddać dezynfekcji.",
+      "Skierować do ponownego przerobu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 112,
+    "text": "Odpowiedzialność za powstałe szkody wynikające z nieprawidłowego przewożenia towaru spoczywa na",
+    "answers": [
+      "sprzedającym.",
+      "kupującym.",
+      "spedytorze.",
+      "przewoźniku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 113,
+    "text": "Który system informatyczny służy do zarządzania ruchem zapasów w magazynie?",
+    "answers": [
+      "SCM",
+      "DRP",
+      "WMS",
+      "CRM"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 114,
+    "text": "Wskaż wymiary palety ISO.",
+    "answers": [
+      "1 200 mm x 800 mm x 144 mm",
+      "1 200 mm x 1 200 mm x 144 mm",
+      "800 mm x 600 mm x 144 mm",
+      "1 200 mm x 1 000 mm x 144 mm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 115,
+    "text": "Do budowli magazynowych półotwartych należą",
+    "answers": [
+      "składowiska i zasieki.",
+      "zasieki i silosy.",
+      "zasieki i wiaty.",
+      "wiaty i zasobniki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 116,
+    "text": "Głównym celem dystrybucji jest zapewnienie jak najszybszego przebiegu procesu przepływu produktu przy zachowaniu optymalnego poziomu jakości",
+    "answers": [
+      "faceliftingu.",
+      "obsługi klienta.",
+      "kontroli dostaw.",
+      "produkcji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 117,
+    "text": "Urządzeniami przeznaczonymi do umieszczania paletowych jednostek ładunkowych na regałach magazynowych są",
+    "answers": [
+      "wózki jezdne.",
+      "przenośniki grawitacyjne.",
+      "cięgniki.",
+      "dźwigi towarowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 118,
+    "text": "O jaki okres czasu przedłużona została gwarancja na telewizor, jeżeli stwierdzono w nim usterkę, którą zgłoszono do serwisu 01.03.2019 r., a następnie telewizor przebywał w punkcie serwisowym od 15.03.2019 r. do 15.05.2019 r.?",
+    "answers": [
+      "1 miesiąc.",
+      "2 tygodnie.",
+      "2 miesiące.",
+      "10 tygodni."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 119,
+    "text": "Korzystając z danych zawartych w tabeli, oblicz udział procentowy zapasu bieżącego w całkowitym zapasie zgromadzonym w magazynie.",
+    "answers": [
+      "35%",
+      "80%",
+      "15%",
+      "60%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela8.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 120,
+    "text": "Jeżeli średni zapas magazynowy wynosi 2 500 paletowych jednostek ładunkowych (pjł), a popyt w danym okresie wynosi 5 000 pjł, to wskaźnik rotacji zapasu w razach wynosi",
+    "answers": [
+      "5 000 razy.",
+      "0,5 razu.",
+      "2 razy.",
+      "2 500 razy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 121,
+    "text": "Ile wynosi wartość zapasu nieprawidłowego na podstawie przedstawionego wykresu, jeżeli przedsiębiorstwo posiada zapas o łącznej wartości 120 000,00 zł.",
+    "answers": [
+      "86 400,00 zł",
+      "9 600,00 zł",
+      "12 000,00 zł",
+      "24 000,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_wykres.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 122,
+    "text": "Do podstawowych korzyści wynikających z wprowadzenia systemów informatycznych w procesie dystrybucji zaliczamy",
+    "answers": [
+      "maksymalizację przestojów w kanale dystrybucji.",
+      "wzrost wskaźnika nieterminowych dostaw.",
+      "poprawę jakości obsługi klientów.",
+      "zwiększenie ilości dokumentacji papierowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 123,
+    "text": "Systemem informatycznym wykorzystywanym do zarządzania ruchem zapasów w magazynach jest",
+    "answers": [
+      "Customer Relationship Management (CRM).",
+      "Enterprise Resource Planning (ERP).",
+      "Warehouse Management System (WMS).",
+      "Supply Chain Management (SCM)."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 124,
+    "text": "Do podstawowych środków stosowanych do formowania pakietowych jednostek ładunkowych nie należą",
+    "answers": [
+      "pasy.",
+      "zawiesia.",
+      "jarzma.",
+      "klamry."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 125,
+    "text": "Jeżeli nośność gniazda regałowego wynosi 2 700 kg i gniazdo jest przystosowane do składowania 3 paletowych jednostek ładunkowych (pjł), to średnia masa brutto jednej pjł składowanej w danym gnieździe nie może przekroczyć",
+    "answers": [
+      "0,09 t",
+      "0,27 t",
+      "0,81 t",
+      "0,90 t"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 126,
+    "text": "Dobro materialne w stanie naturalnym przeznaczone do przetworzenia nazywamy",
+    "answers": [
+      "surowcem.",
+      "towarem.",
+      "produktem.",
+      "materiałem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 127,
+    "text": "15 czerwca przyjęto do magazynu dostawę pomidorów. Do którego dnia maksymalnie można przechowywać w magazynie te pomidory, jeżeli okres przechowywania wynosi od 1 do 2 tygodni.",
+    "answers": [
+      "Do 29 czerwca.",
+      "Do 05 lipca.",
+      "Do 15 sierpnia.",
+      "Do 22 czerwca."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 128,
+    "text": "W której fazie procesu magazynowego odbywa się kontrola ilościowo-jakościowa towarów otrzymanych od dostawcy?",
+    "answers": [
+      "W fazie kompletacji.",
+      "W fazie wydawania.",
+      "W fazie składowania.",
+      "W fazie przyjmowania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 129,
+    "text": "Automatyczna identyfikacja towarów techniką RFID oparta jest na",
+    "answers": [
+      "rozpoznawaniu obrazu.",
+      "rozpoznawaniu głosu.",
+      "sygnale radiowym.",
+      "ścieżce magnetycznej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 130,
+    "text": "Na podstawie przedstawionego schematu regału magazynowego określ wyrażony procentowo wskaźnik wykorzystania miejsc składowych regału.",
+    "answers": [
+      "25%",
+      "50%",
+      "100%",
+      "75%"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_schemat5.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 131,
+    "text": "W magazynie stolarni na początku miesiąca znajdowało się 1 500 szt. desek. W ciągu miesiąca zakupiono 9 000 szt. desek. Produkcja w stolarni realizowana jest 25 dni w miesiącu. Oblicz wielkość zapasu nadmiernego desek w danym miesiącu, jeżeli dzienne potrzeby produkcyjne wynoszą 300 szt. desek.",
+    "answers": [
+      "1 500 szt.",
+      "3 000 szt.",
+      "7 500 szt.",
+      "4 500 szt."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 132,
+    "text": "Ze względu na liczbę podmiotów w jednym ogniwie kanału dystrybucji rozróżniamy kanały",
+    "answers": [
+      "krótkie i szerokie.",
+      "wąskie i długie.",
+      "wąskie i szerokie.",
+      "krótkie i długie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 133,
+    "text": "Kompletacja sterowana głosowo polegająca na tym, że magazynier otrzymuje przez słuchawki polecenia, których wykonanie musi potwierdzić przez odczyt cyfr i liter umieszczonych w miejscu, w które został wysłany, dotyczy systemu",
+    "answers": [
+      "pick by point.",
+      "pick by frame.",
+      "pick by voice.",
+      "pick by light."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 134,
+    "text": "Koszt wytworzenia jednej gry planszowej wynosi 5,00 zł. Producent gier jednostkową cenę sprzedaży netto ustalił na poziomie kosztu wytworzenia powiększonego o 30% narzut zysku. Na jaką kwotę brutto będzie wystawiona faktura za sprzedane 1 500 gier planszowych, jeżeli są one objęte 23% stawką VAT?",
+    "answers": [
+      "9 750,00 zł",
+      "6 457,50 zł",
+      "7 507,50 zł",
+      "11 992,50 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 135,
+    "text": "System informatyczny ERP dotyczy planowania",
+    "answers": [
+      "rozliczeń wynagrodzeń.",
+      "zasobów przedsiębiorstwa.",
+      "poziomu zatrudnienia.",
+      "struktury sprzedaży."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 136,
+    "text": "Jednostką struktury produkcyjnej wchodzącej w skład gniazda produkcyjnego jest",
+    "answers": [
+      "linia produkcyjna.",
+      "wydział.",
+      "oddział.",
+      "stanowisko robocze."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 137,
+    "text": "Przedsiębiorstwo zamówiło w hurtowni 24 600 kg cukru. W dniu dostawy do magazynu przywieziono 33 paletowe jednostki ładunkowe (pjł) cukru. Cukier zapakowany był w workach po 25 kg. Na każdej palecie worki z cukrem były ułożone w 8 warstwach, po 4 worki w warstwie. W wyniku kontroli ilościowej magazynier powinien stwierdzić",
+    "answers": [
+      "nadwyżkę 72 worków cukru.",
+      "niedobór 64 worków cukru.",
+      "niedobór 1 800 kg cukru.",
+      "nadwyżkę 1 600 kg cukru."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 138,
+    "text": "Przykładem przyjęcia zewnętrznego jest przyjęcie do magazynu",
+    "answers": [
+      "produktów, które zostały przesunięte z magazynu produkcji.",
+      "zakupionych materiałów niezbędnych do produkcji wyrobów gotowych.",
+      "wyrobów gotowych z produkcji.",
+      "surowców niewykorzystanych w procesie produkcji, które wcześniej z tego magazynu zostały wydane."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 139,
+    "text": "Ile beczek o pojemności 280 litrów należy wykorzystać dla klienta, który zamówił 27 930 litrów oleju, a każda beczka będzie wypełniona w 95%?",
+    "answers": [
+      "95 beczek.",
+      "108 beczek.",
+      "105 beczek.",
+      "100 beczek."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 140,
+    "text": "Jedną z form zabezpieczania towaru przed uszkodzeniem jest blokowanie. Ma ono na celu",
+    "answers": [
+      "oddzielenie przekładkami towarów przewożonych jednym środkiem transportu.",
+      "eliminowanie drgań towaru podczas transportu.",
+      "uniemożliwienie przesunięcia się towaru.",
+      "ochronę przewożonego towaru przed zarysowaniem i osiadaniem kurzu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 141,
+    "text": "Przedsiębiorstwo ustaliło zapas informacyjny łożysk na poziomie 1 000 szt. Obecny stan magazynowy łożysk wynosi 1 840 szt., a dzienne zużycie to 280 szt. Za ile dni przedsiębiorstwo powinno złożyć zamówienie na łożyska?",
+    "answers": [
+      "Za 5 dni.",
+      "Za 3 dni.",
+      "Za 10 dni.",
+      "Za 6 dni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 142,
+    "text": "Do piekarni mąkę dostarczył kierowca dostawcy Jan Kowalski. Magazynier Adam Nowak przyjął ją do magazynu, aby następnie wydawać ją do produkcji w miarę potrzeb. Z magazynu do działu produkcji mąkę odbiera Marek Kowalski. Wyroby gotowe z piekarni są dostarczane do sklepów przez kierowcę piekarni Tomasza Majewskiego. Kto powinien podpisać się w miejscu oznaczonym „wydał” w dokumencie dotyczącym rozchodu wewnętrznego mąki (RW) w piekarni?",
+    "answers": [
+      "Adam Nowak",
+      "Marek Kowalski",
+      "Jan Kowalski",
+      "Tomasz Majewski"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 143,
+    "text": "Który znak umieszczony na opakowaniu zabrania przemieszczać ładunek przez toczenie?",
+    "answers": [
+      "Znak B.",
+      "Znak A.",
+      "Znak C.",
+      "Znak D."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_znaki7.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 144,
+    "text": "Towar pakowany jest w opakowania zbiorcze po 25 szt., a następnie formowany w paletowe jednostki ładunkowe (pjł) po 24 opakowania zbiorcze/pjł. Jaki jest miesięczny strumień dostaw liczony w pjł, jeżeli do centrum dystrybucji wpływa miesięcznie 40 800 szt. towaru?",
+    "answers": [
+      "68 pjł",
+      "1 632 pjł",
+      "816 pjł",
+      "1 700 pjł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 145,
+    "text": "Na podstawie danych zawartych w tabeli oblicz udział procentowy odpadów przemysłowych w stosunku do wszystkich zebranych odpadów.",
+    "answers": [
+      "60,00%",
+      "12,25%",
+      "8,25%",
+      "19,50%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela24.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 146,
+    "text": "Materiały najczęściej pobierane do procesu produkcji należy w magazynie producenta składować najbliżej strefy",
+    "answers": [
+      "kompletacji.",
+      "przyjęć.",
+      "buforowej.",
+      "wydań."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 147,
+    "text": "Ze względu na przeznaczenie magazyny dzieli się na",
+    "answers": [
+      "otwarte, półotwarte i zamknięte.",
+      "niezmechanizowane, zmechanizowane i zautomatyzowane.",
+      "przemysłowe, dystrybucyjne i rezerwowe.",
+      "materiałów sztukowych, materiałów sypkich, cieczy i gazów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 148,
+    "text": "Jeżeli rzeczywisty stan magazynowy zapasu jest mniejszy od stanu tego zapasu wynikającego z ewidencji księgowej, to występuje",
+    "answers": [
+      "zysk.",
+      "niedobór.",
+      "równowaga.",
+      "nadwyżka."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 149,
+    "text": "Miesięczny koszt najmu magazynu w bieżącym roku wynosi 8 000,00 zł. Oblicz roczny koszt najmu magazynu w przyszłym roku, jeżeli cena wzrośnie o 5% w stosunku do roku bieżącego.",
+    "answers": [
+      "84 000,00 zł",
+      "8 400,00 zł",
+      "100 800,00 zł",
+      "91 200,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 150,
+    "text": "Na podstawie przedstawionego cennika oblicz łączny koszt składowania przez 12 dni 20 paletowych jednostek ładunkowych i 5 kontenerów.",
+    "answers": [
+      "216,00 zł",
+      "2 592,00 zł",
+      "224,00 zł",
+      "2 688,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_cennik2.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 151,
+    "text": "W zbiornikach magazynowane są materiały",
+    "answers": [
+      "sypkie w opakowaniach.",
+      "ciekłe w opakowaniach.",
+      "ciekłe luzem.",
+      "stałe luzem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 152,
+    "text": "Pan Jan 26 kwietnia 2023 r. kupił telewizor. Sprzedawca dostarczył kupującemu telewizor 07 maja 2023 r. Określ, na podstawie fragmentu Kodeksu Cywilnego, do kiedy nabyty telewizor będzie podlegał gwarancji.",
+    "answers": [
+      "Do 7 maja 2025 r.",
+      "Do 7 maja 2024 r.",
+      "Do 27 kwietnia 2024 r.",
+      "Do 27 kwietnia 2025 r."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_ramka2.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 153,
+    "text": "Przedsiębiorstwo otrzymało zamówienie na 1 500 gier planszowych. W magazynie wyrobów gotowych znajduje się 645 gier planszowych, a produkcja w toku wynosi 185 gier planszowych. Uwzględniając stan magazynowy, produkcję w toku oraz strukturę wyrobu gotowego oblicz, ile kostek brakujących do realizacji zamówienia gier planszowych, należy wydać z magazynu?",
+    "answers": [
+      "2 010 kostek.",
+      "670 kostek.",
+      "3 120 kostek.",
+      "4 020 kostek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_schemat6.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 154,
+    "text": "Magazynier Hurtowni PAPIEREK 15.05.2023 r. wystawił dokument WZ dotyczący wydania odbiorcy 450 zeszytów 60 kartkowych w kratkę. Na podstawie przedstawionej ilościowej kartoteki magazynowej oblicz wartość wydanych zeszytów, którą magazynier wpisał w wystawionym dokumencie WZ.",
+    "answers": [
+      "225,00 zł",
+      "425,00 zł",
+      "850,00 zł",
+      "0,50 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_kartoteka2.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 155,
+    "text": "Magazyn o wysokości składowania 520 centymetrów, zgodnie z danymi zawartymi w tabeli, należy do magazynów",
+    "answers": [
+      "niskiego składowania.",
+      "bardzo wysokiego składowania.",
+      "średniego składowania.",
+      "wysokiego składowania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela25.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 156,
+    "text": "Miesięczny koszt najmu magazynu w bieżącym roku wynosi 8 000,00 zł. Ile wyniesie roczny koszt najmu magazynu w przyszłym roku, jeżeli cena wzrośnie o 5% w stosunku do roku bieżącego.",
+    "answers": [
+      "100 800,00 zł",
+      "8 400,00 zł",
+      "84 000,00 zł",
+      "91 200,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 157,
+    "text": "Które urządzenie nie jest przeznaczone bezpośrednio do identyfikacji towarów, a jest jedynie urządzeniem wspomagającym automatyczną identyfikację?",
+    "answers": [
+      "Urządzenie D.",
+      "Urządzenie B.",
+      "Urządzenie A.",
+      "Urządzenie C."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_urzadzenia3.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 158,
+    "text": "Na rysunku jest",
+    "answers": [
+      "paragon fiskalny.",
+      "raport kasowy.",
+      "rachunek.",
+      "faktura."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_rysunek11.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 159,
+    "text": "Korzyścią z wdrożenia automatycznego systemu przepływu informacji w procesie magazynowania jest",
+    "answers": [
+      "zmniejszenie wydajności i produktywności magazynu.",
+      "ograniczenie dostępności asortymentu.",
+      "usprawnienie obsługi klientów.",
+      "zwiększenie kosztów w łańcuchu dostaw."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 160,
+    "text": "Ile beczek o pojemności 280 litrów należy użyć dla klienta, który zamówił 27 930 litrów oleju, a każda beczka będzie wypełniona w 95%?",
+    "answers": [
+      "108 beczek.",
+      "105 beczek.",
+      "100 beczek.",
+      "95 beczek."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 161,
+    "text": "W magazynie stolarni na początku miesiąca znajdowało się 1 500 szt. desek. W ciągu miesiąca zakupiono 9 000 szt. desek. Produkcja w stolarni realizowana jest 25 dni w miesiącu. Ile wynosi wielkość zapasu nadmiernego desek w danym miesiącu, jeżeli dzienne potrzeby produkcyjne wynoszą 300 szt. desek.",
+    "answers": [
+      "1 500 szt.",
+      "4 500 szt.",
+      "3 000 szt.",
+      "7 500 szt."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 162,
+    "text": "W logistyce procesu dystrybucji występują zapasy",
+    "answers": [
+      "surowców.",
+      "produkcji niezakończonej.",
+      "materiałów.",
+      "wyrobów gotowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 163,
+    "text": "Na podstawie danych zawartych w tabeli, określ, którą partię zapasu należy wydać z magazynu, jako pierwszą, jeżeli w magazynie jest stosowana zasada HIFO wydań magazynowych.",
+    "answers": [
+      "Partię zapasu 3.",
+      "Partię zapasu 4.",
+      "Partię zapasu 1.",
+      "Partię zapasu 2."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela48.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 164,
+    "text": "Do podstawowych korzyści wynikających z wprowadzenia systemów informatycznych w procesie dystrybucji zalicza się",
+    "answers": [
+      "zwiększenie ilości dokumentacji papierowej.",
+      "maksymalizację przestojów w kanale dystrybucji.",
+      "wzrost wskaźnika nieterminowych dostaw.",
+      "poprawę jakości obsługi klientów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 165,
+    "text": "Na podstawie przedstawionego schematu regału magazynowego określ wyrażony procentowo współczynnik wykorzystania miejsc składowych regału.",
+    "answers": [
+      "75%",
+      "25%",
+      "100%",
+      "50%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_schemat5.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 166,
+    "text": "Który układ technologiczny magazynu i z wykorzystaniem której technologii składowania jest przedstawiony na rysunku?",
+    "answers": [
+      "Układ przelotowy ze składowaniem rzędowym.",
+      "Układ przelotowy ze składowaniem blokowym.",
+      "Układ workowy ze składowaniem blokowym.",
+      "Układ workowy ze składowaniem rzędowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_uklad3.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 167,
+    "text": "Ile minimalnie wozów podsiębiernych, przenoszących po jednym kontenerze, powinien posiadać terminal kontenerowy, który średnio w ciągu godziny obsługuje 60 kontenerów, a przeciętny cykl pracy wozu podsiębiernego (podjazd po kontener, pobranie kontenera, przewóz kontenera, odstawienie kontenera) wynosi 5 minut?",
+    "answers": [
+      "12 wozów podsiębiernych.",
+      "10 wozów podsiębiernych.",
+      "4 wozy podsiębierne.",
+      "5 wozów podsiębiernych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 168,
+    "text": "Ekologiczną zaletą opakowania jest",
+    "answers": [
+      "nieprzemakalność.",
+      "wielokrotność użycia.",
+      "różnorodność kształtów.",
+      "duża wytrzymałość mechaniczna."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 169,
+    "text": "Fragment, którego dokumentu jest przedstawiony na rysunku?",
+    "answers": [
+      "Raportu produkcji.",
+      "Rejestru zleceń.",
+      "Zlecenia produkcyjnego.",
+      "Karty technologicznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_dokument3.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 170,
+    "text": "Ze względu na liczbę podmiotów w jednym ogniwie kanału dystrybucji rozróżnia się kanały",
+    "answers": [
+      "wąskie i długie.",
+      "krótkie i szerokie.",
+      "wąskie i szerokie.",
+      "krótkie i długie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 171,
+    "text": "Na którym rysunku jest przedstawiony wózek podnośnikowy ręczny?",
+    "answers": [
+      "Na rysunku 2.",
+      "Na rysunku 3.",
+      "Na rysunku 4.",
+      "Na rysunku 1."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_wozki4.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 172,
+    "text": "Magazyn, każdego dnia, pracuje na dwie 8-godzinne zmiany. Dziennie jest w nim kompletowanych średnio 96 zamówień. Ilu minimum magazynierów należy zatrudnić na każdej zmianie, aby skompletować dzienne zamówienia, jeżeli wydajność jednego pracownika to przeciętnie 2 zamówienia na 1 godzinę?",
+    "answers": [
+      "24 magazynierów.",
+      "3 magazynierów.",
+      "6 magazynierów.",
+      "12 magazynierów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 173,
+    "text": "Który big bag należy zastosować do opakowania 1,5 m3 gruzu o gęstości 2t/m3?",
+    "answers": [
+      "Big bag 4.",
+      "Big bag 2.",
+      "Big bag 3.",
+      "Big bag 1."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela49.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 174,
+    "text": "Przedsiębiorstwo produkujące musli pracuje na trzy 8-godzinne zmiany. Wydajność jednej zmiany wynosi 1 t musli. Na każde 100 kg musli przedsiębiorstwo zużywa 15 kg żurawiny. Ile żurawiny należy wydać do dziennej produkcji musli?",
+    "answers": [
+      "15 000 kg",
+      "150 kg",
+      "450 kg",
+      "3 600 kg"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 175,
+    "text": "Dobro materialne w stanie naturalnym przeznaczone do przetworzenia nazywane jest",
+    "answers": [
+      "produktem.",
+      "materiałem.",
+      "towarem.",
+      "surowcem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 176,
+    "text": "Wybrane standardy jakości owoców i warzyw do obrotu hurtowego zgodne z wymaganiami klientów Która dostawa nie spełnia gentlemen’s agreements co do wielkości zepsutych produktów?",
+    "answers": [
+      "Dostawa 4.",
+      "Dostawa 2.",
+      "Dostawa 1.",
+      "Dostawa 3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabele5.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 177,
+    "text": "Przedstawiony schemat zasad 5R dotyczy",
+    "answers": [
+      "zarządzania dystrybucją.",
+      "warunków magazynowania.",
+      "organizacji transportu.",
+      "gospodarki odpadami."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_schemat8.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 178,
+    "text": "Która zasada inwentaryzacji oznacza, że ustalony stan składników majątku przedsiębiorstwa ma odzwierciedlać stan rzeczywisty?",
+    "answers": [
+      "Zasada wiernego obrazu.",
+      "Zasada komisyjności.",
+      "Zasada zamkniętych drzwi.",
+      "Zasada zaskoczenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 179,
+    "text": "Który wózek widłowy, o najwyższym współczynniku wykorzystania jego udźwigu, należy zastosować do przewozu podczas jednego cyklu dwóch paletowych jednostek ładunkowych (pjł) o masie brutto 0,9 t/pjł?",
+    "answers": [
+      "Wózek widłowy 1.",
+      "Wózek widłowy 2.",
+      "Wózek widłowy 3.",
+      "Wózek widłowy 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela29.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 180,
+    "text": "W magazynie ustalono limit ubytków naturalnych na poziomie 1,5% wartości rocznego obrotu magazynowego w roku poprzedzającym rok, na który zostaje ustalony limit ubytków. Zgodnie z danymi zawartymi w tabeli wartość niedoborów mieszczących się w granicach normy ubytków naturalnych w 2019 r. wyniosła",
+    "answers": [
+      "5 100,00 zł",
+      "5 400,00 zł",
+      "7 200,00 zł",
+      "6 300,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela32.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 181,
+    "text": "Producent jabłek pakuje swoje produkty w kartony z wytłoczkami przedstawione na ilustracji. W ciągu roku przedsiębiorstwo wprowadziło na rynek 1 600 t opakowań kartonowych i 25 t wytłoczek. Ile opakowań, zgodnie z przedstawionym fragmentem przepisów, przedsiębiorstwo powinno poddać recyklingowi?",
+    "answers": [
+      "Opakowania z tworzyw sztucznych – 587,5 kg i opakowania z papieru i tektury – 97 600 kg",
+      "Opakowania z tworzyw sztucznych – 5 875 kg i opakowania z papieru i tektury – 976 000 kg",
+      "Opakowania z tworzyw sztucznych – 4 000 kg i opakowania z papieru i tektury – 816 000 kg",
+      "Opakowania z tworzyw sztucznych – 12 750 kg i opakowania z papieru i tektury – 816 000 kg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela33.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 182,
+    "text": "Bramka RFID spełnia funkcję",
+    "answers": [
+      "znacznika.",
+      "czytnika.",
+      "dezinformatora.",
+      "zagłuszacza."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 183,
+    "text": "Jeżeli do centrum dystrybucji zamawiane są dostawy produktów w liczbie 12 000 szt., 4 razy w miesiącu, to roczny strumień dostaw wynosi",
+    "answers": [
+      "3 000 szt.",
+      "1 000 szt.",
+      "576 000 szt.",
+      "48 000 szt."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 184,
+    "text": "Magazyn stosuje metodę FIFO wydań magazynowych. Z danych zawartych w tabeli wynika, że wartość ewidencyjna 400 szt. cegieł wydanych 16 czerwca wynosi",
+    "answers": [
+      "1 440,00 zł",
+      "1 420,00 zł",
+      "1 380,00 zł",
+      "1 400,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela31.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 185,
+    "text": "Do kosztów niematerialnych funkcjonowania magazynu należy",
+    "answers": [
+      "amortyzacja wyposażenia magazynowego.",
+      "wynagrodzenie magazynierów.",
+      "usługa remontowa środków transportu bliskiego.",
+      "zużycie materiałów opakowaniowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 186,
+    "text": "W której beczce możliwe będzie umieszczenie 198 litrów oleju palmowego, jeżeli beczkę należy wypełnić w 90%?",
+    "answers": [
+      "Beczka 4.",
+      "Beczka 3.",
+      "Beczka 2.",
+      "Beczka 1."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela30.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 187,
+    "text": "W tabeli opisano zalety i wady produkcji",
+    "answers": [
+      "masowej.",
+      "wieloseryjnej.",
+      "jednostkowej.",
+      "małoseryjnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela34.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 188,
+    "text": "Przeładunek kompletacyjny polegający na przeformowaniu dużych, jednolitych asortymentowo partii towarów na wiele różnych asortymentowo pakietów, dostosowanych do potrzeb klientów jest nazywany",
+    "answers": [
+      "outsourcingiem.",
+      "co-packingiem.",
+      "cross-dockingiem.",
+      "benchmarkingiem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 189,
+    "text": "W systemie GS1 towary i usługi w obrocie detalicznym są oznaczane identyfikatorem",
+    "answers": [
+      "GLN",
+      "CPID",
+      "SSCC",
+      "GTIN"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 190,
+    "text": "Blokowanie środków pieniężnych poprzez zaangażowanie ich w zapasy magazynowe powoduje ponoszenie przez przedsiębiorstwo kosztów",
+    "answers": [
+      "starzenia się zapasów.",
+      "eksploatacji środków trwałych.",
+      "zamrożenia kapitału.",
+      "ryzyka braku zapasów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 191,
+    "text": "Magazyn w ciągu miesiąca (30 dni) poniósł koszty stałe w wysokości 45 000,00 zł oraz koszty zmienne w wysokości 75 000,00 zł. Ile wynosi dzienny jednostkowy koszt magazynowania zapasu, jeżeli średnio w magazynie znajduje się 20 000 szt. zapasu.",
+    "answers": [
+      "0,20 zł",
+      "0,13 zł",
+      "2,25 zł",
+      "6,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 192,
+    "text": "Na ilustracji jest przedstawione stanowisko pracy",
+    "answers": [
+      "zautomatyzowane.",
+      "maszynowe.",
+      "ręczne.",
+      "aparaturowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_stanowisko.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 193,
+    "text": "Który znak manipulacyjny informuje nas, jak należy postępować z towarem zapakowanym w kartony, aby ochronić go przed zniszczeniem poprzez zgniecenie?",
+    "answers": [
+      "Znak 4.",
+      "Znak 1.",
+      "Znak 2.",
+      "Znak 3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_znaki6.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 194,
+    "text": "Ze względu na rodzaj budowli magazyny dzielą się na",
+    "answers": [
+      "otwarte, półotwarte i zamknięte.",
+      "niezmechanizowane, zmechanizowane i zautomatyzowane.",
+      "materiałów sztukowych, materiałów sypkich, cieczy i gazów.",
+      "przemysłowe, dystrybucyjne i rezerwowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 195,
+    "text": "Ile, zgodnie z przedstawionym zestawieniem potrzeb materiałowych, należy wydać płyt HDF do produkcji brakujących drzwi, jeżeli wszystkie zostały wydane jednorazowo?",
+    "answers": [
+      "4 100 szt.",
+      "4 000 szt.",
+      "6 600 szt.",
+      "100 szt."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela35.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 196,
+    "text": "Przedsiębiorstwo zakupiło 40 t kruszywa w cenie 850,00 zł/t brutto przed rabatem. Ile zapłaciłoby przedsiębiorstwo za zakupione kruszywo, jeżeli otrzymałoby od sprzedawcy rabat w wysokości 5%?",
+    "answers": [
+      "1 700,00 zł",
+      "35 700,00 zł",
+      "32 300,00 zł",
+      "807,50 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 197,
+    "text": "Opakowanie, zabezpieczając towar przed drobnoustrojami, chroni go przed czynnikami",
+    "answers": [
+      "klimatycznymi.",
+      "chemicznymi.",
+      "biologicznymi.",
+      "mechanicznymi."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 198,
+    "text": "Na ilustracji jest przedstawiony wózek do obsługi",
+    "answers": [
+      "beczek.",
+      "kontenerów.",
+      "bel.",
+      "dłużyc."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_wozek.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 199,
+    "text": "Przykładem wydania zewnętrznego jest przekazanie",
+    "answers": [
+      "produktów z magazynu produkcyjnego do nabywcy.",
+      "zapasów z jednego do drugiego magazynu tego samego przedsiębiorstwa.",
+      "produktów z linii produkcyjnej do magazynu wyrobów gotowych.",
+      "materiałów biurowych z magazynu do komórek administracji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 200,
+    "text": "Przedsiębiorstwo otrzymało zamówienie na 200 paletowych jednostek ładunkowych skrzynek z napojami w butelkach szklanych. Skrzynki z napojami są formowane na paletach w 7 warstwach po 4 skrzynki w warstwie. Ile sztuk butelek potrzeba do realizacji zamówienia, jeżeli w jednej skrzynce znajdują się 24 butelki?",
+    "answers": [
+      "134 400 szt.",
+      "4 800 szt.",
+      "5 600 szt.",
+      "33 600 szt."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 201,
+    "text": "Na ilustracji jest przedstawione wnętrze magazynu",
+    "answers": [
+      "otwartego.",
+      "uniwersalnego.",
+      "specjalnego.",
+      "półotwartego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_magazyn2.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 202,
+    "text": "Strumień zapasów wejściowych w przedsiębiorstwie produkcyjnym obejmuje między innymi",
+    "answers": [
+      "materiały.",
+      "produkty.",
+      "usługi.",
+      "towary."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 203,
+    "text": "Przedsiębiorstwo, które pracuje 7 dni w tygodniu, 20 stycznia ma wydać odbiorcy zamówione wyroby. Produkcja, która będzie trwała 6 dni, musi zakończyć się w dniu poprzedzającym realizację dostawy. Kiedy magazyn powinien wydać materiały do produkcji zamówionych wyrobów gotowych, jeżeli należy to zrobić dzień przed uruchomieniem produkcji?",
+    "answers": [
+      "12 stycznia",
+      "11 stycznia",
+      "14 stycznia",
+      "13 stycznia"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 204,
+    "text": "Ile, minimalnie, stanowisk z owijarką do palet należy zaplanować w magazynie pracującym 16 godzin na dobę, w którym zaplanowano zabezpieczać przed rozformowaniem 960 paletowych jednostek ładunkowych (pjł) dziennie, a średni czas obsługi 1 pjł przez owijarkę wynosi 5 minut?",
+    "answers": [
+      "16 owijarek.",
+      "5 owijarek.",
+      "12 owijarek.",
+      "8 owijarek."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 205,
+    "text": "Przedsiębiorstwo TRANS dostarczyło do Piekarni BOCHENEK mąkę od Zakładu ZBOŻE. Piekarnia sprzedaje pieczywo do Sklepu ŚWIEŻAK. Który podmiot gospodarczy powinien wystawić dokument PZ na mąkę?",
+    "answers": [
+      "Sklep ŚWIEŻAK",
+      "Zakład ZBOŻE",
+      "Piekarnia BOCHENEK",
+      "Przedsiębiorstwo TRANS"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 206,
+    "text": "Który piktogram umieszczony na opakowaniu informuje, że jego zawartość stanowi zagrożenie dla zdrowia człowieka?",
+    "answers": [
+      "Piktogram 1.",
+      "Piktogram 4.",
+      "Piktogram 2.",
+      "Piktogram 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_piktogramy.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 207,
+    "text": "Rękojmia to tryb dochodzenia odpowiedzialności w związku z",
+    "answers": [
+      "odmową uznania reklamacji.",
+      "uznaniem reklamacji.",
+      "ujawnioną wadą fizyczną lub prawną zakupionego towaru.",
+      "zakupem towaru po cenie wyższej niż średnia cena rynkowa towaru."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 208,
+    "text": "Jeżeli zapas maksymalny zgromadzony w magazynie wynosi 140 t, a suma zapasów nierotujących 10 t, to poziom zapasu obrotowego w tym magazynie jest na poziomie",
+    "answers": [
+      "1 400 t",
+      "130 t",
+      "14 t",
+      "150 t"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 209,
+    "text": "Który rodzaj dystrybucji należy zastosować do towarów przedstawionych na ilustracjach?",
+    "answers": [
+      "Selektywną.",
+      "Zintegrowaną.",
+      "Wyłączną.",
+      "Intensywną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_towary.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 210,
+    "text": "W której sieci dystrybucji producent prowadzi działalność dystrybucyjną bez udziału wyspecjalizowanych obcych podmiotów gospodarczych?",
+    "answers": [
+      "Zdecentralizowanej.",
+      "Scentralizowanej.",
+      "Pośredniej.",
+      "Bezpośredniej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 211,
+    "text": "W ramach której funkcji dystrybucji następuje nawiązywanie kontaktów handlowych z odbiorcami?",
+    "answers": [
+      "Związanej z realizacją transakcji kupna sprzedaży.",
+      "Organizacyjnej dystrybucji.",
+      "Potransakcyjnej.",
+      "Przedtransakcyjnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 212,
+    "text": "Do szkodników wpływających negatywnie na przechowywane zapasy należą",
+    "answers": [
+      "myszy.",
+      "bakterie.",
+      "pleśnie.",
+      "grzyby."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 213,
+    "text": "Która technologia składowania charakteryzuje się najniższym wskaźnikiem wykorzystania powierzchni magazynowej?",
+    "answers": [
+      "Składowanie rzędowe w regałach ramowych.",
+      "Składowanie w regałach przepływowych.",
+      "Składowanie w regałach przejezdnych.",
+      "Składowanie blokowe bez regałów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 214,
+    "text": "Który dokument magazynowy zawiera dane dwóch podmiotów gospodarczych?",
+    "answers": [
+      "PW",
+      "WZ",
+      "ZW",
+      "RW"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 215,
+    "text": "Na której ilustracji jest przedstawiony stojak specjalizowany do składowania opon?",
+    "answers": [
+      "Na ilustracji 1.",
+      "Na ilustracji 2.",
+      "Na ilustracji 3.",
+      "Na ilustracji 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_stojaki2.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 216,
+    "text": "Na rysunku znakiem zapytania (?) oznaczono zapasy",
+    "answers": [
+      "odpadów.",
+      "surowców.",
+      "produktów.",
+      "materiałów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_rysunek6.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 217,
+    "text": "Magazynier Hurtowni PAPIEREK 15.06.2020 r. wystawił dokument WZ dotyczący wydania odbiorcy 450 zeszytów 60 kartkowych w kratkę. Na podstawie przedstawionej ilościowej kartoteki magazynowej oblicz wartość wydanych zeszytów, którą magazynier wpisał w wystawionym dokumencie WZ.",
+    "answers": [
+      "425,00 zł",
+      "0,50 zł",
+      "225,00 zł",
+      "850,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela22.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 218,
+    "text": "Przedsiębiorstwo zamówiło w hurtowni 24 600 kg cukru. W dniu dostawy do magazynu przywieziono 33 paletowe jednostki ładunkowe (pjł) cukru. Cukier zapakowany był w workach po 25 kg. Na każdej palecie worki z cukrem były ułożone w 8 warstwach, po 4 worki w warstwie. W wyniku kontroli ilościowej magazynier stwierdził",
+    "answers": [
+      "niedobór 64 worków cukru.",
+      "nadwyżkę 1 600 kg cukru.",
+      "nadwyżkę 72 worków cukru.",
+      "niedobór 1 800 kg cukru."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 219,
+    "text": "Elastyczny kontener wykorzystywany do przechowywania piasku nazywany jest kontenerem",
+    "answers": [
+      "ACTS.",
+      "IBC.",
+      "big bag.",
+      "tank."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 220,
+    "text": "15 czerwca przyjęto do magazynu dostawę pomidorów. Do którego dnia maksymalnie można przechowywać w magazynie te pomidory, jeżeli okres przechowywania wynosi od 1 do 2 tygodni?",
+    "answers": [
+      "Do 15 sierpnia.",
+      "Do 22 czerwca.",
+      "Do 05 lipca.",
+      "Do 29 czerwca."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 221,
+    "text": "Jan Kowalski 26 kwietnia 2020 r. kupił telewizor. Sprzedawca dostarczył kupującemu telewizor 07 maja 2020 r. Określ, na podstawie fragmentu Kodeksu Cywilnego, do kiedy nabyty telewizor będzie podlegał gwarancji.",
+    "answers": [
+      "Do 7 maja 2022 r.",
+      "Do 7 maja 2021 r.",
+      "Do 27 kwietnia 2022 r.",
+      "Do 27 kwietnia 2021 r."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_ramka2.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 222,
+    "text": "Producent makaronu mąkę przechowuje w magazynie",
+    "answers": [
+      "półproduktów.",
+      "części zamiennych.",
+      "materiałów.",
+      "wyrobów gotowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 223,
+    "text": "Jedną z form zabezpieczania towaru przed uszkodzeniem podczas transportu jest blokowanie. Ma ono na celu",
+    "answers": [
+      "uniemożliwienie przesunięcia się towaru.",
+      "eliminowanie drgań towaru podczas transportu.",
+      "oddzielenie przekładkami towarów przewożonych jednym środkiem transportu.",
+      "ochronę przewożonego towaru przed zarysowaniem i osiadaniem kurzu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 224,
+    "text": "Które urządzenie nie służy bezpośrednio do identyfikacji towarów, a jest jedynie urządzeniem wspomagającym automatyczną identyfikację?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_urzadzenia2.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 225,
+    "text": "Rysunek przedstawia",
+    "answers": [
+      "fakturę.",
+      "rachunek.",
+      "raport kasowy.",
+      "paragon fiskalny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_rysunek7.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 226,
+    "text": "Który rodzaj układu technologicznego przepływu w magazynie został przedstawiony na rysunku?",
+    "answers": [
+      "Workowy ze wspólną strefą przyjęć i wydań.",
+      "Workowy z oddzielonymi strefami przyjęć i wydań.",
+      "Przelotowy.",
+      "Kątowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_uklad2.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 227,
+    "text": "Surowce oraz materiały składowane w magazynie wykorzystywane do wytwarzania wyrobu już wycofanego z produkcji stanowią zapas",
+    "answers": [
+      "zbędny.",
+      "promocyjny.",
+      "rezerwowy.",
+      "sezonowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 228,
+    "text": "Korzystając z informacji zawartych w tabeli, ustal stan zapasu materiału „A” na dzień 20.06.2020 r.",
+    "answers": [
+      "0 kg",
+      "15 kg",
+      "165 kg",
+      "300 kg"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela16.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 229,
+    "text": "Dokumentem zawierającym datę rozpoczęcia i zakończenia produkcji, w którym określa się który wyrób gotowy oraz w jakiej ilości będzie produkowany, jest",
+    "answers": [
+      "struktura materiałowa wyrobu.",
+      "zlecenie produkcyjne.",
+      "rozchód wewnętrzny.",
+      "przyjęcie wyrobu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 230,
+    "text": "Brak monitorowania kontroli temperatury podczas składowaniu w magazynie nadtlenków organicznych stwarza zagrożenie",
+    "answers": [
+      "wydzielenia się ciepła prowadzącego do wybuchu.",
+      "rozpuszczenia się nadtlenków i wsiąknięcia w podłoże.",
+      "utlenienia się nadtlenków organicznych.",
+      "zmiany ich zabarwienia i konsystencji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 231,
+    "text": "Do zapakowania produktu w detalicznej ilości nabywanej bezpośrednio przez konsumenta należy użyć opakowań",
+    "answers": [
+      "jednostkowych.",
+      "transportowych.",
+      "kontenerowych.",
+      "zbiorczych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 232,
+    "text": "Magazynem przystosowanym do przechowywania stolarki budowlanej odpornej na działanie niskich i wysokich temperatur, ale nieodpornych na działanie opadów atmosferycznych jest",
+    "answers": [
+      "silos.",
+      "zbiornik zamknięty.",
+      "wiata.",
+      "plac składowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 233,
+    "text": "Korzystając z informacji zawartych w tabeli, oblicz średni zapas cykliczny dostaw z ostatnich 10 tygodni.",
+    "answers": [
+      "125,00 kg",
+      "130,50 kg",
+      "137,50 kg",
+      "13,05 kg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela18.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 234,
+    "text": "Ile wyniesie pole powierzchni modułu magazynowego o ułożeniu prostopadłym paletowych jednostek ładunkowych na paletach przemysłowych o wymiarach 1 200 x 1 000 mm i drogi manipulacyjnej o szerokości 3 m?",
+    "answers": [
+      "5,40 m2",
+      "6,00 m2",
+      "6,16 m2",
+      "6,24 m2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 235,
+    "text": "Wytwórca odpadów opakowaniowych zobowiązany jest do ich ewidencjonowania oraz składania odpowiednich sprawozdań za poprzedni rok kalendarzowy do marszałka województwa. Do którego dnia miesiąca w bieżącym roku wytwórca jest zobowiązany złożyć roczne sprawozdania w urzędzie marszałkowskim? * Dwie odpowiedzi są poprawne. Zaznacz obie, aby otrzymać punkt.",
+    "answers": [
+      "Do 30 kwietnia.",
+      "Do 15 marca.",
+      "Do 30 czerwca.",
+      "Do 31 stycznia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 236,
+    "text": "Korzystając z informacji zawartych w tabeli, wskaż maksymalną temperaturę przechowywania mięsa jagnięcego.",
+    "answers": [
+      "0°C",
+      "-1,0°C",
+      "-1,5°C",
+      "-3,0°C"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela14.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 237,
+    "text": "Przedsiębiorstwo ALFA 15 czerwca o godzinie 7:00 rano rozpoczęło proces produkcji wyrobu X, pobierając z magazynu wszystkie niezbędne surowce. Korzystając z informacji zawartych w tabeli, określ maksymalnie do kiedy należy dokupić i dostarczyć nowe surowce, aby utrzymać ciągłość procesu produkcji wyrobu gotowego?",
+    "answers": [
+      "Do 18 czerwca do godziny 7:00",
+      "Do 19 czerwca do godziny 7:00",
+      "Do 16 czerwca do godziny 7:00",
+      "Do 17 czerwca do godziny 7:00"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela19.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 238,
+    "text": "System HRM (Human Resource Management) obejmuje między innymi",
+    "answers": [
+      "zarządzanie finansami i ich planowaniem w przedsiębiorstwie.",
+      "działania związane z procesem rekrutacji i selekcji kandydatów do zatrudnienia w przedsiębiorstwie.",
+      "gromadzenie i przetwarzanie danych o klientach oraz przygotowywanie dla nich ofert.",
+      "planowanie potrzeb materiałowych oraz planowanie zdolności produkcyjnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 239,
+    "text": "Proszek do pieczenia jako środek spulchniający jest surowcem pochodzenia",
+    "answers": [
+      "mineralnego.",
+      "zwierzęcego.",
+      "roślinnego.",
+      "syntetycznego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 240,
+    "text": "Na podstawie faktury oblicz całkowitą kwotę podatku VAT do zapłaty przez Hurtownię ZIEMIA.",
+    "answers": [
+      "22,20 zł",
+      "2 317,32 zł",
+      "433,32 zł",
+      "1 884,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_faktura2.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 241,
+    "text": "Przekazanie surowców z magazynu do produkcji ewidencjonuje się na dokumencie",
+    "answers": [
+      "WZ",
+      "PZ",
+      "RW",
+      "MM"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 242,
+    "text": "Który znak umieszczany na opakowaniu zabrania podnoszenia wózkami ładunku podczas jego przemieszczania i transportu?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_znaki3.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 243,
+    "text": "Składowanie towarów drobnicowych np. różnego rodzaju śrubek, nakrętek jest możliwe na regałach",
+    "answers": [
+      "wspornikowych bezpółkowych.",
+      "ramowych bezpółkowych.",
+      "paletowych ramowych.",
+      "ramowych półkowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 244,
+    "text": "Do magazynu hurtowni dostarczono 12 ton jabłek w cenie 2,45 zł/kg. Podczas jakościowego odbioru towaru magazynier stwierdził, że do przyjęcia nie nadaje się partia 25 kg jabłek. Którą kwotę powinien wpisać magazynier w dokumencie PZ w polu wartość przyjętych towarów?",
+    "answers": [
+      "2 940,00 zł",
+      "2 878,75 zł",
+      "29 338,75 zł",
+      "29 400,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 245,
+    "text": "Ile wyniesie koszt rozładunku 360 paletowych jednostek ładunkowych (pjł), jeżeli koszt wynajęcia wózka widłowego wynosi 0,50 zł/pjł, a jedna godzina pracy kierowcy wózka to koszt 20,00 zł. Rozładunek 1 pjł trwa średnio 1 minutę.",
+    "answers": [
+      "300,00 zł",
+      "120,00 zł",
+      "180,00 zł",
+      "200,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 246,
+    "text": "Na którym rysunku przedstawiono zasieki magazynowe?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_rysunki.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 247,
+    "text": "Korzystając z informacji zawartych w tabeli, wskaż jak należy postąpić z zużytym olejem.",
+    "answers": [
+      "Odzyskać i spalić.",
+      "Odzyskać i poddać obróbce biologicznej.",
+      "Poddać obróbce fizykochemicznej lub biologicznej.",
+      "Spalić i poddać obróbce fizykochemicznej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela20.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 248,
+    "text": "Na którym rysunku przedstawiono proces produkcyjny w strukturze równoległej?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_rysunki2.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 249,
+    "text": "Przedsiębiorstwo otrzymało zamówienie od sklepu RTV na 120 sztuk dekoderów. W magazynie producenta znajduje się 50 sztuk wyrobu gotowego oraz 15 sztuk pamięci. Korzystając ze struktury wyrobu gotowego, oblicz zapotrzebowanie na pamięć do produkcji brakujących dekoderów.",
+    "answers": [
+      "125 sztuk.",
+      "140 sztuk.",
+      "225 sztuk.",
+      "240 sztuk."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_schemat4.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 250,
+    "text": "Inwentaryzacji pośredniej uproszczonej nie przeprowadza się poprzez",
+    "answers": [
+      "ocenę ekspertów.",
+      "porównywanie.",
+      "szacowanie.",
+      "ważenie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 251,
+    "text": "Na którym rysunku przedstawiono środek transportu wewnętrznego wspomagający w magazynie proces przemieszczania luzem pasz dla zwierząt?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_srodki.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 252,
+    "text": "Do funkcji potransakcyjnych w ramach systemu dystrybucji zalicza się",
+    "answers": [
+      "usługi gwarancyjne.",
+      "promocję produktów.",
+      "przekazywanie należności.",
+      "zawieranie kontaktów handlowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 253,
+    "text": "Ile maksymalnie kartonów o wymiarach 300 x 350 x 950 mm można umieścić w jednej warstwie na palecie o wymiarach 1 200 x 1 000 x 150 mm?",
+    "answers": [
+      "9 kartonów.",
+      "11 kartonów.",
+      "10 kartonów.",
+      "8 kartonów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 254,
+    "text": "Które minimalne wymiary powinno posiadać opakowanie kartonowe, w którym przechowywane będą czekoladki zapakowane do metalowych pudełek o wymiarach 20 x 10 x 15 cm (długość x szerokość x wysokość), jeżeli czekoladki mają być piętrzone w 2 warstwach, przechowywane w pionie a w opakowaniu kartonowym ma zmieścić się 10 opakowań czekoladek? Wymiary opakowania kartonowego są w układzie: długość x szerokość x wysokość.",
+    "answers": [
+      "100 x 10 x 30 cm",
+      "20 x 10 x 30 cm",
+      "30 x 20 x 100 cm",
+      "100 x 30 x 10 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 255,
+    "text": "Zapas magazynowy materiału X na dzień 1 maja wynosił 250 kg, w ciągu miesiąca do magazynu przyjęto kolejne 500 kg materiału X. Z dniem 1 czerwca uruchomiona została produkcja do zachowania ciągłości, której konieczne jest utrzymanie zapasu na poziomie 800 kg materiału X. W magazynie powstał",
+    "answers": [
+      "niedobór zapasu wynoszący 50 kg.",
+      "zapas nadmierny wynoszący 800 kg.",
+      "niedobór zapasu wynoszący 500 kg.",
+      "zapas nadmierny wynoszący 750 kg."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 256,
+    "text": "Masa przedmiotów podnoszonych i przenoszonych przez jednego pracownika – mężczyznę, przy pracy stałej, nie może przekraczać",
+    "answers": [
+      "30 kg",
+      "35 kg",
+      "45 kg",
+      "50 kg"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela15.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 257,
+    "text": "Do pojemnika w którym kolorze należy wrzucać puszki po napojach i konserwach?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_pojemniki2.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 258,
+    "text": "Korzystając z informacji w ramce, oblicz jaką minimalną liczbę sztuk wózków magazynowych należy przygotować, aby w czasie 2 godzin ułożyć 360 sztuk paletowych jednostek ładunkowych na regałach magazynowych. Cykl pracy wózka przy obsłudze 1 pjł obejmuje: podjęcie pjł, przewóz, odłożenie na regał, opuszczenie wideł, przejazd po kolejną pjł.",
+    "answers": [
+      "10 sztuk.",
+      "18 sztuk.",
+      "8 sztuk.",
+      "14 sztuk."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_ramka.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 259,
+    "text": "Ile zestawów regałów magazynowych należy przygotować dla planowanego przyjęcia 1 620 sztuk towaru o wymiarach 600 x 300 x 1 250 mm składowanych na paletach o wymiarach 1200 x 800 x 144 mm (dł. x szer. x wys.) bez piętrzenia?",
+    "answers": [
+      "23 sztuki.",
+      "90 sztuk.",
+      "180 sztuk.",
+      "45 sztuk."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_regaly2.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 260,
+    "text": "Urządzenie przedstawione na rysunku służące do podtrzymywania towaru, na którym składowany asortyment opierany jest bezpośrednio o elementy konstrukcyjne, to",
+    "answers": [
+      "podkład.",
+      "stojak.",
+      "wieszak.",
+      "regał."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_urzadzenie3.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 261,
+    "text": "Które towary należy zaliczyć do grupy C zgodnie z przedstawioną w tabeli analizą wyników ABC zapasów w magazynie.",
+    "answers": [
+      "Herbatę malinową i mleko.",
+      "Kawę z mlekiem i mleko.",
+      "Herbatę czarną i czekoladę z mlekiem.",
+      "Kawę z mlekiem i kawę czarną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela17.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 262,
+    "text": "Wskaźnik kosztu miejsca składowania w magazynie w skali roku wynosi 900,00 zł/pjł. Na kolejny rok kalendarzowy zaplanowano wzrost kosztu wskaźnika o 10%. Ile wyniesie wartość wskaźnika za 1 pjł w nowym roku?",
+    "answers": [
+      "900,09 zł/pjł",
+      "900,90 zł/pjł",
+      "990,00 zł/pjł",
+      "909,00 zł/pjł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 263,
+    "text": "System informatyczny stosowany do wspomagania realizacji zadań związanych z planowaniem pracy oznaczony jest skrótem",
+    "answers": [
+      "CAE (Computer Aided Engineering)",
+      "CAP (Computer Aided Planning)",
+      "CAQ (Computer Aided Quality Assurance)",
+      "CAD (Computer Aided Design)"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 264,
+    "text": "Przedsiębiorstwo otrzymało zamówienie na 840 drzwi wewnętrznych „Classic” – DCS. W magazynie znajduje się 120 drzwi, z czego 20 szt. to zapas zabezpieczający. Ile zawiasów – ZS, zgodnie z przedstawioną strukturą wyrobu gotowego, należy wydać do produkcji brakujących drzwi w celu realizacji otrzymanego zamówienia?",
+    "answers": [
+      "2 460 szt.",
+      "2 160 szt.",
+      "2 220 szt.",
+      "740 szt."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_schemat7.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 265,
+    "text": "Który system informatyczny zajmuje się przepływem informacji, towarów i usług, wspomagając zarządzanie całym łańcuchem dostaw?",
+    "answers": [
+      "SCM (Supply Chain Management)",
+      "LRP (Logistic Resources Planning)",
+      "CRM (Customer Relationship Management)",
+      "DRP (Distribution Requirements Planning)"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 266,
+    "text": "W magazynie przed dostawą znajdowało się 1 500 szt. zapasu, a po dostawie 17 500 szt. Określ ile wynosi wielkość średniego zapasu cyklicznego w tym magazynie, jeżeli jest ona równa połowie wielkości dostawy?",
+    "answers": [
+      "8 750 szt.",
+      "750 szt.",
+      "8 000 szt.",
+      "9 000 szt."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 267,
+    "text": "Pracownik dokonujący odbioru ilościowo-jakościowego dostaw magazynowych sprawdza",
+    "answers": [
+      "warunki w jakich dostarczony towar był wcześniej magazynowany.",
+      "właściwe rozmieszczenie dostarczonego towaru w strefie składowania.",
+      "zgodność dostarczonych towarów z dokumentacją inwentaryzacyjną.",
+      "stan opakowania zbiorczego zabezpieczającego dostarczony towar."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 268,
+    "text": "Który magazyn oferuje najniższy koszt wyładunku i składowania 12 t ładunku przez 7 dni (tydzień)?",
+    "answers": [
+      "Magazyn II.",
+      "Magazyn IV.",
+      "Magazyn III.",
+      "Magazyn I."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabela27.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 269,
+    "text": "Ile wynosi minimalna liczba wózków widłowych w magazynie, w którym średni obrót magazynowy paletowymi jednostkami ładunkowymi (pjł) wynosi 248 szt./h, a średnia norma czasu pracy jednego wózka wynosi 3 min/pjł?",
+    "answers": [
+      "83 wózki.",
+      "20 wózków.",
+      "13 wózków.",
+      "4 wózki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 270,
+    "text": "Który koszt zarządzania magazynem należy do kosztów zmiennych związanych z uzupełnianiem zapasów?",
+    "answers": [
+      "Koszt ubezpieczenia zapasów przechowywanych w magazynie na wypadek zdarzeń losowych.",
+      "Koszt utraconych przychodów od każdej niesprzedanej jednostki brakującego zapasu.",
+      "Koszt wynikający z ubytków naturalnych składowanych zapasów.",
+      "Koszt transportu liczony wg stawki za każdy przejechany kilometr."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 271,
+    "text": "Magazyn osiągnął roczny obrót na poziomie 2 mln zł, a średni zapas w tym czasie kształtował się na poziomie 50 tys. zł. Z jaką częstotliwością magazyn odnawiał swoje zapasy, jeżeli za rok przyjmiemy 360 dni?",
+    "answers": [
+      "Co 40 dni.",
+      "Co 9 dni.",
+      "Co 4 dni.",
+      "Co 25 dni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 272,
+    "text": "Rysunek przedstawia magazyn",
+    "answers": [
+      "zamknięty niezmechanizowany.",
+      "zamknięty zautomatyzowany.",
+      "otwarty niezautomatyzowany.",
+      "otwarty zmechanizowany."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_magazyn.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 273,
+    "text": "Który karton został poprawnie odłożony na regał magazynowy uwzględniając umieszczony na nim znak manipulacyjny?",
+    "answers": [
+      "Karton 3.",
+      "Karton 2.",
+      "Karton 4.",
+      "Karton 1."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_kartony.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 274,
+    "text": "Przedstawione na rysunku wypełnienie kartonu ma na celu",
+    "answers": [
+      "zabezpieczenie towaru przed wilgocią.",
+      "zablokowanie towaru.",
+      "oddzielenie od siebie warstw towarów.",
+      "zabezpieczenie przed promieniowaniem UV."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_karton.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 275,
+    "text": "Który rodzaj dystrybucji należy zastosować do towarów przedstawionych na rysunkach?",
+    "answers": [
+      "Zintegrowaną.",
+      "Intensywną.",
+      "Wyłączną.",
+      "Selektywną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_rysunki3.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 276,
+    "text": "Ile wynosi jednostkowa cena netto produktu, który jest objęty 23% VAT, a jego jednostkowa cena brutto to 49,20 zł?",
+    "answers": [
+      "60,52 zł",
+      "37,89 zł",
+      "40,00 zł",
+      "9,20 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 277,
+    "text": "Rytmiczna organizacja procesu produkcji charakteryzuje się",
+    "answers": [
+      "niską powtarzalnością czynności na poszczególnych stanowiskach.",
+      "rozmieszczeniem stanowisk roboczych zgodnie z operacjami technologicznymi.",
+      "zmienną kolejnością operacji technologicznych.",
+      "zmiennym kierunkiem przebiegu przedmiotów pracy między stanowiskami."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 278,
+    "text": "W wyniku przeprowadzonej inwentaryzacji stwierdzono niedobór niezawiniony 1 650 kg cukru, ewidencjonowanego po 2,00 zł/kg. Ile wynosi wartość niedoboru niezawinionego ponad normę ubytków naturalnych, jeżeli limit ubytków stanowi 1% średniego rocznego obrotu magazynowego, który wynosi 300 000,00 zł.",
+    "answers": [
+      "3 300,00 zł",
+      "3 000,00 zł",
+      "300,00 zł",
+      "6 300,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 279,
+    "text": "Tworząc ofertę w odpowiedzi na otrzymane zapytanie dotyczące konkretnego produktu należy ją",
+    "answers": [
+      "spersonalizować.",
+      "zignorować.",
+      "przygotować we współpracy z konkurencją.",
+      "skierować do szerokiej grupy potencjalnych klientów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 280,
+    "text": "Identyfikatory GS1 umożliwiają rozróżnianie towarów, lokalizacji i innych obiektów występujących",
+    "answers": [
+      "w łańcuchu dostaw na całym świecie.",
+      "tylko w oddziałach danego podmiotu gospodarczego.",
+      "tylko w magazynie danego przedsiębiorstwa.",
+      "w łańcuchu dostaw jedynie na terenie Unii Europejskiej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 281,
+    "text": "Przedsiębiorstwo posiada trzy identyczne silosy stosowane do magazynowania zboża o gęstości 800 kg/m3. Jaka jest pojemność jednego silosu, jeżeli łącznie we wszystkich można składować maksymalnie 240 t zboża?",
+    "answers": [
+      "30 m3",
+      "10 m3",
+      "100 m3",
+      "300 m3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 282,
+    "text": "Którym numerem na rysunku oznaczono regały obsługiwane przez układnice i przenośniki?",
+    "answers": [
+      "5",
+      "9",
+      "1",
+      "7"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_rysunek8.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 283,
+    "text": "Na podstawie informacji o warunkach przechowywania ryb i produktów rybnych określ, w którym magazynie można przechowywać konserwy rybne.",
+    "answers": [
+      "W magazynie I.",
+      "W magazynie II.",
+      "W magazynie IV.",
+      "W magazynie III."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_tabele4.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 284,
+    "text": "Który proces obejmuje działania związane z przekształcaniem surowców i materiałów w wyroby gotowe?",
+    "answers": [
+      "Proces zaopatrzenia.",
+      "Proces dystrybucji.",
+      "Proces produkcyjny.",
+      "Proces zarządzania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 285,
+    "text": "Który dokument magazynowy potwierdza przyjęcie na stan magazynu dostarczonej z własnej produkcji partii wyrobów gotowych?",
+    "answers": [
+      "Wydanie zewnętrzne.",
+      "Przychód wewnętrzny.",
+      "Przychód zewnętrzny.",
+      "Rozchód wewnętrzny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 286,
+    "text": "W kanale dystrybucji poza przepływem towarów występuje strumień",
+    "answers": [
+      "energii.",
+      "usług.",
+      "osób.",
+      "informacji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 287,
+    "text": "Który znak umieszczony na opakowaniu informuje, że jest ono biodegradowalne?",
+    "answers": [
+      "Znak 1.",
+      "Znak 3.",
+      "Znak 2.",
+      "Znak 4."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_znaki5.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 288,
+    "text": "W ramach ostatniego etapu dystrybucji występuje",
+    "answers": [
+      "obsługa zamówienia.",
+      "realizacja obowiązków z tytułu rękojmi i gwarancji.",
+      "wyszukiwanie ofert kupna-sprzedaży.",
+      "negocjowanie warunków umów handlowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 289,
+    "text": "Które towary zostały dostarczone niezgodnie z przedstawionym fragmentem wewnętrznej instrukcji przyjmowania towarów spożywczych do magazynu?",
+    "answers": [
+      "Jogurty.",
+      "Marmolada.",
+      "Lody.",
+      "Jabłka."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl01/au22_instrukcja.png"
+    },
+    "category": "SPL.01"
+  },
+  {
+    "id": 290,
+    "text": "Do zadań osób odpowiedzialnych za zarządzanie zapasami w magazynie należy między innymi",
+    "answers": [
+      "rozliczanie wynagrodzeń pracowników przedsiębiorstwa.",
+      "ustalanie potrzeb materiałowych dla celów produkcyjnych.",
+      "monitorowanie właściwego poziomu stanu magazynowego.",
+      "organizowanie działalności produkcyjnej w przedsiębiorstwie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 291,
+    "text": "Roczny strumień dostaw w centrum dystrybucji wyniósł 65 100 paletowych jednostek ładunkowych (pjł), a roczny strumień wysyłek 49 000 pjł. Jeżeli centrum pracuje 350 dni w roku, to średni dziennych obrót w centrum dystrybucji wyniósł",
+    "answers": [
+      "326 pjł",
+      "186 pjł",
+      "46 pjł",
+      "140 pjł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  },
+  {
+    "id": 292,
+    "text": "Stan magazynowy papieru ksero na początku zmiany wyniósł 600 ryz. W ciągu zmiany miała miejsce jedna dostawa papieru w liczbie 2 100 ryz, dwa wydania podmiotom zewnętrznym: 250 ryz i 310 ryz oraz jedno wydanie na potrzeby własne przedsiębiorstwa w liczbie 20 ryz. Ile wynosi poziom stanu magazynowego papieru ksero na koniec zmiany?",
+    "answers": [
+      "2 120 ryz",
+      "2 040 ryz",
+      "920 ryz",
+      "2 160 ryz"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.01"
+  }
+]
