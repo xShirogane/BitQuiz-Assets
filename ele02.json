@@ -1,0 +1,5425 @@
+[
+  {
+    "id": 1,
+    "text": "Wskaż prawidłowy schemat sterowania oświetleniem z dwóch niezależnych miejsc?",
+    "answers": [
+      "Schemat 1.",
+      "Schemat 2.",
+      "Schemat 4.",
+      "Schemat 3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_schematy3.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 2,
+    "text": "W zakres oględzin instalacji elektrycznej nie wchodzi",
+    "answers": [
+      "ocena dostępu do urządzeń umożliwiającego ich wygodną obsługę i eksploatację.",
+      "pomiar rezystancji uziemienia.",
+      "sprawdzenie oznaczenia obwodów i zabezpieczeń.",
+      "sprawdzenie poprawności oznaczenia przewodów neutralnych i ochronnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 3,
+    "text": "Do której z wymienionych grup urządzeń elektrycznych zalicza się przekładniki prądowe?",
+    "answers": [
+      "Do indukcyjnych sprzęgieł dwukierunkowych.",
+      "Do prądnic tachometrycznych.",
+      "Do transformatorów.",
+      "Do wzmacniaczy maszynowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 4,
+    "text": "Który element przedstawiono na ilustracji?",
+    "answers": [
+      "Wkładkę kalibrową.",
+      "Podstawę bezpiecznika topikowego.",
+      "Gniazdo zapłonnika.",
+      "Oprawkę źródła światła."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_element4.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 5,
+    "text": "Przygotowując się do wymiany uszkodzonego gniazda trójfazowego w instalacji elektrycznej, po wyłączeniu napięcia w obwodzie tego gniazda, należy przede wszystkim",
+    "answers": [
+      "oznaczyć miejsce pracy.",
+      "rozłożyć dywanik elektroizolacyjny w miejscu pracy.",
+      "zabezpieczyć obwód przed przypadkowym załączeniem napięcia.",
+      "zgłosić dostawcy energii zamiar naprawy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 6,
+    "text": "Korzystając z podanego wzoru i tabeli wyznacz wartość rezystancji izolacji uzwojeń silnika w temperaturze 20°C, jeżeli rezystancja izolacji uzwojeń tego silnika zmierzona w temperaturze 17°C wyniosła 7,3 MΩ. Współczynniki przeliczeniowe K20 dla rezystancji izolacji uzwojeń silników R20 = K20∙Rs",
+    "answers": [
+      "8,11 MΩ",
+      "6,57 MΩ",
+      "6,40 MΩ",
+      "8,20 MΩ"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_tabela7.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 7,
+    "text": "Na podstawie zamieszczonych w tabeli wyników pomiarów dotyczących przewodu przedstawionego na ilustracji określ, które z jego żył są ze sobą zwarte.",
+    "answers": [
+      "L1 i L3",
+      "N i L3",
+      "L1 i PE",
+      "N i PE"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_pomiary3.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 8,
+    "text": "Którą klasę ochronności posiada oprawa oświetleniowa oznaczona przedstawionym symbolem graficznym?",
+    "answers": [
+      "0",
+      "I",
+      "III",
+      "II"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_symbol3.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 9,
+    "text": "Którym z symboli oznacza się przewód jednożyłowy z wielodrutową żyłą miedzianą o przekroju 2,5 mm2 w izolacji polwinitowej?",
+    "answers": [
+      "LY 2,5 mm2",
+      "YLY 7×2,5 mm2",
+      "YDY 5×2,5 mm2",
+      "DY 2,5 mm2"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 10,
+    "text": "Ile powinna wynosić minimalna liczba żył przewodów w miejscach oznaczonych X oraz Y na przedstawionym schemacie instalacji elektrycznej, aby po jej wykonaniu zgodnie z tym schematem możliwe było jednoczesne sterowanie oświetleniem w obu punktach oświetleniowych niezależnie czterema łącznikami?",
+    "answers": [
+      "X – 4 żyły, Y – 5 żył.",
+      "X – 5 żył, Y – 5 żył.",
+      "X – 4 żyły, Y – 4 żyły.",
+      "X – 5 żył, Y – 4 żyły."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_schemat13.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 11,
+    "text": "Do czego przeznaczone są szczypce przedstawione na ilustracji?",
+    "answers": [
+      "Do zaciskania końcówek tulejkowych na żyłach wielodrutowych.",
+      "Do montażu zacisków zakleszczających.",
+      "Do zaprasowywania końców kabli w połączeniach wsuwanych.",
+      "Do formowania oczek na końcach żył jednodrutowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_szczypce.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 12,
+    "text": "Schemat którego silnika przedstawiono na ilustracji?",
+    "answers": [
+      "Synchronicznego z obcym wzbudzeniem.",
+      "Obcowzbudnego prądu stałego.",
+      "Indukcyjnego pierścieniowego.",
+      "Indukcyjnego klatkowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_schemat15.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 13,
+    "text": "Na której ilustracji przedstawiono kabel typu YAKY?",
+    "answers": [
+      "Na ilustracji 4.",
+      "Na ilustracji 1.",
+      "Na ilustracji 3.",
+      "Na ilustracji 2."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_kable2-1.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 14,
+    "text": "Do realizacji układu przedstawionego na schemacie należy zastosować stycznik Q17 z następującą liczbą i rodzajem zestyków:",
+    "answers": [
+      "3NC + 2NO + 1NC",
+      "3NO + 2NO + 1NC",
+      "3NO + 1NO + 2NC",
+      "3NC + 1NO + 2NC"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_uklad4.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 15,
+    "text": "Który z wymienionych materiałów wykazuje się najmniejszą rezystywnością?",
+    "answers": [
+      "Stal.",
+      "Nichrom.",
+      "Aluminium.",
+      "Miedź."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 16,
+    "text": "Ile wynosi znamionowa sprawność silnika trójfazowego o danych: PN = 2,2 kW (mocy mechanicznej), UN = 400 V, IN = 4,6 A, cos φN = 0,82?",
+    "answers": [
+      "0,49",
+      "0,39",
+      "0,69",
+      "0,84"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 17,
+    "text": "Którą funkcję pełnią uzwojenia pomocnicze w silniku prądu stałego?",
+    "answers": [
+      "Zmniejszają rezystancję obwodu twornika.",
+      "Zapobiegają rozbieganiu się silnika przy spadku obciążenia.",
+      "Eliminują niekorzystne zjawiska spowodowane oddziaływaniem twornika.",
+      "Wytwarzają napięcie remanentu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 18,
+    "text": "Który rodzaj źródła światła przedstawiono na ilustracji?",
+    "answers": [
+      "Wyładowcze wysokoprężne.",
+      "Żarowe.",
+      "Wyładowcze niskoprężne.",
+      "Półprzewodnikowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_zrodlo2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 19,
+    "text": "Który z wymienionych łączników instalacyjnych jest przeznaczony do układu niezależnego sterowania oświetleniem z co najmniej 3 różnych miejsc?",
+    "answers": [
+      "Jednobiegunowy.",
+      "Krzyżowy.",
+      "Świecznikowy.",
+      "Dwubiegunowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 20,
+    "text": "Do których zacisków przekaźnika zmierzchowego przedstawionego na schemacie należy podłączyć czujnik światła?",
+    "answers": [
+      "10 i 12",
+      "1 i 3",
+      "1 i 12",
+      "7 i 9"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_schemat2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 21,
+    "text": "Którą z wymienionych czynności sprawdzających należy wykonać po zamontowaniu trójfazowego silnika elektrycznego w układzie napędowym?",
+    "answers": [
+      "Sprawdzenie kierunku obrotów wału silnika.",
+      "Pomiar prędkości obrotowej.",
+      "Sprawdzenie symetrii napięcia zasilającego.",
+      "Pomiar temperatury stojana."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 22,
+    "text": "Ile klawiszy i ile zacisków posiada klasyczny łącznik świecznikowy?",
+    "answers": [
+      "Dwa klawisze i trzy niezależne zaciski.",
+      "Jeden klawisz i trzy niezależne zaciski.",
+      "Jeden klawisz i cztery niezależne zaciski.",
+      "Dwa klawisze i cztery niezależne zaciski."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 23,
+    "text": "Ile wynosi skuteczność świetlna źródła światła o etykiecie przedstawionej na ilustracji?",
+    "answers": [
+      "81,4 lm/W",
+      "14,5 lm/W",
+      "1 180,0 lm/W",
+      "206,9 lm/W"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_etykieta.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 24,
+    "text": "Którym symbolem graficznym oznacza się w dokumentacji sposób prowadzenia przewodów instalacji elektrycznej w listwach przypodłogowych?",
+    "answers": [
+      "Symbolem 1.",
+      "Symbolem 4.",
+      "Symbolem 2.",
+      "Symbolem 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_symbole4.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 25,
+    "text": "Która z wymienionych przyczyn odpowiada za zwiększenie się iskrzenia na komutatorze podczas pracy sprawnego silnika bocznikowego prądu stałego po wymianie jego szczotek?",
+    "answers": [
+      "Za małe wzbudzenie silnika.",
+      "Za mała powierzchnia styku szczotek z komutatorem.",
+      "Za duży nacisk szczotek na komutator.",
+      "Za duże wzbudzenie silnika."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 26,
+    "text": "W której z wymienionych sytuacji poślizg silnika indukcyjnego będzie najbliższy zeru?",
+    "answers": [
+      "Silnik pracuje w znamionowych warunkach zasilania i obciążenia.",
+      "Silnik pozostanie na biegu jałowym.",
+      "Silnik zasilony zostanie przeciwprądem.",
+      "Podczas zasilania silnika jego wirnik będzie nieruchomy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 27,
+    "text": "Kierunek obrotów wirnika silnika elektrycznego określa się patrząc na jego wał od strony",
+    "answers": [
+      "wprowadzenia przewodu zasilającego.",
+      "przewietrznika.",
+      "czopu.",
+      "tabliczki znamionowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 28,
+    "text": "Którym z kluczy nie da się skręcić stojana silnika elektrycznego śrubami jak przedstawiona na ilustracji?",
+    "answers": [
+      "Płaskim.",
+      "Imbusowym.",
+      "Nasadowym.",
+      "Oczkowym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_sruba2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 29,
+    "text": "W którym układzie sieciowym występuje kabel oznaczany przedstawionym symbolem graficznym?",
+    "answers": [
+      "TN-S",
+      "TN-C",
+      "TT",
+      "IT"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_symbol2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 30,
+    "text": "Który z wymienionych parametrów można zmierzyć przyrządem przedstawionym na ilustracji?",
+    "answers": [
+      "Rezystancję izolacji.",
+      "Moc.",
+      "Impedancję pętli zwarcia.",
+      "Prąd upływu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_przyrzad3.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 31,
+    "text": "Którą wstawkę kalibrową należy zastosować do podstawy bezpiecznikowej przeznaczonej dla wkładki topikowej typu D o oznaczeniu literowym gG i prądzie znamionowym 25 A?",
+    "answers": [
+      "Wstawkę 1.",
+      "Wstawkę 3.",
+      "Wstawkę 2.",
+      "Wstawkę 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_wstawki.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 32,
+    "text": "Którym z wymienionych elementów należy zabezpieczyć nakrętkę przed odkręceniem?",
+    "answers": [
+      "Podkładką dystansową.",
+      "Podkładką sprężystą.",
+      "Tuleją kołnierzową.",
+      "Tuleją redukcyjną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 33,
+    "text": "Parametry techniczne którego stycznika z tabeli odpowiadają stycznikowi przedstawionemu na ilustracji?",
+    "answers": [
+      "Stycznika 1.",
+      "Stycznika 2.",
+      "Stycznika 4.",
+      "Stycznika 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_stycznik.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 34,
+    "text": "Które urządzenie przedstawiono na ilustracji?",
+    "answers": [
+      "Czujnik zaniku i kolejności faz.",
+      "Wyłącznik różnicowoprądowy z członem nadprądowym.",
+      "Wyłącznik silnikowy jednofazowy.",
+      "Ogranicznik przepięć."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_urzadzenie4.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 35,
+    "text": "Której z wymienionych czynności nie wykonuje się podczas oględzin urządzenia napędowego z silnikiem elektrycznym w czasie ruchu?",
+    "answers": [
+      "Sprawdzenia szczotek i szczotkotrzymaczy.",
+      "Oceny stanu przewodów ochronnych i ich podłączenia.",
+      "Sprawdzenia działania układów chłodzenia.",
+      "Kontroli stanu osłon części wirujących."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 36,
+    "text": "Które z wymienionych urządzeń elektrycznych jest pokazane na ilustracji?",
+    "answers": [
+      "Wzbudnik indukcyjny.",
+      "Transformator.",
+      "Dławik magnetyczny.",
+      "Elektromagnes."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_urzadzenie2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 37,
+    "text": "Który środek ochrony przeciwporażeniowej przy uszkodzeniu zastosowano w układzie przedstawionym na schemacie?",
+    "answers": [
+      "Użycie odbiorników II klasy ochronności.",
+      "Separację odbiornika.",
+      "Samoczynne wyłączenie zasilania.",
+      "Połączenie wyrównawcze."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_schemat12.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 38,
+    "text": "Ile wynosi maksymalna dopuszczalna wartość impedancji pętli zwarcia w trójfazowym obwodzie elektrycznym o napięciu znamionowym 230/400 V, aby skuteczna była w nim ochrona przeciwporażeniowa przy uszkodzeniu izolacji, jeśli wyłączenie zasilania tego obwodu ma zapewnić instalacyjny wyłącznik nadprądowy B20?",
+    "answers": [
+      "0,56 Ω",
+      "1,15 Ω",
+      "2,30 Ω",
+      "3,83 Ω"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 39,
+    "text": "Prędkość obrotowa silnika w układzie przedstawionym na schemacie regulowana jest przez zmianę wartości",
+    "answers": [
+      "rezystancji obwodu twornika.",
+      "częstotliwości napięcia zasilania.",
+      "napięcia twornika.",
+      "prądu wzbudzenia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_schemat8.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 40,
+    "text": "Na podstawie przedstawionych na rysunku zależności napięcia na zaciskach akumulatora od prądu i czasu rozładowywania wskaż wartość napięcia akumulatora o pojemności C = 100 Ah, który przez 30 minut był obciążony prądem o wartości 60 A.",
+    "answers": [
+      "11,0 V",
+      "12,4 V",
+      "11,3 V",
+      "12,0 V"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_wykres.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 41,
+    "text": "Rodzaj której maszyny wirującej przedstawiono na ilustracji?",
+    "answers": [
+      "Indukcyjnej pierścieniowej.",
+      "Synchronicznej.",
+      "Komutatorowej prądu przemiennego.",
+      "Indukcyjnej klatkowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_maszyna.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 42,
+    "text": "Podczas wymiany uszkodzonego gniazda wtyczkowego w instalacji podtynkowej prowadzonej w rurach karbowanych stwierdzono, że w wyniku obluzowania zacisku izolacja jednego przewodu na długości kilku centymetrów straciła elastyczność i zmieniła kolor. W jaki sposób należy naprawić uszkodzenie?",
+    "answers": [
+      "Polakierować uszkodzoną izolację przewodu.",
+      "Wymienić uszkodzony przewód na nowy o takim samym przekroju.",
+      "Nałożyć gumowy wężyk na uszkodzoną izolację przewodu.",
+      "Wymienić wszystkie przewody na nowe o większym przekroju."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 43,
+    "text": "Do którego rodzaju ochrony przeciwporażeniowej zaliczane są środki ochrony opisane w ramce?",
+    "answers": [
+      "Ochrony uzupełniającej.",
+      "Ochrony przy uszkodzeniu (dodatkowej).",
+      "Ochrony podstawowej.",
+      "Ochrony przez zastosowanie bardzo niskiego napięcia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_ramka.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 44,
+    "text": "W jaki sposób należy wykonywać zalecane przez producenta okresowe sprawdzenie działania wyłącznika różnicowoprądowego?",
+    "answers": [
+      "Obserwując reakcję załączonego wyłącznika na odłączenie przewodu ochronnego w rozdzielnicy.",
+      "Naciskając przycisk TEST na wyłączonym wyłączniku.",
+      "Naciskając przycisk TEST na załączonym wyłączniku.",
+      "Obserwując reakcję wyłączonego wyłącznika na zwarcie przewodów czynnych w obwodzie wyjściowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 45,
+    "text": "Który rodzaj żarówki przedstawiono na ilustracji?",
+    "answers": [
+      "Halogenowy.",
+      "Wolframowy.",
+      "Ledowy.",
+      "Rtęciowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_zrodlo.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 46,
+    "text": "Wskaż prawidłowy schemat sterowania oświetleniem z dwóch niezależnych miejsc.",
+    "answers": [
+      "Schemat 3.",
+      "Schemat 4.",
+      "Schemat 1.",
+      "Schemat 2."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_schematy3.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 47,
+    "text": "Której końcówki wkrętaka należy użyć do demontażu wyłącznika nadprądowego z szyny TH 35?",
+    "answers": [
+      "Końcówki 3.",
+      "Końcówki 2.",
+      "Końcówki 4.",
+      "Końcówki 1."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_koncowki.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 48,
+    "text": "Na jaką maksymalną wartość należy nastawić wyłącznik silnikowy, zabezpieczający trójfazowy silnik indukcyjny klatkowy o wartości prądu znamionowego równej 11,1 A, aby zabezpieczyć go przed przeciążeniem z zachowaniem możliwości znamionowego obciążenia momentem hamującym?",
+    "answers": [
+      "10,5 A",
+      "12,2 A",
+      "11,7 A",
+      "11,1 A"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 49,
+    "text": "Który z wymienionych łączników instalacyjnych jest przeznaczony do niezależnego sterowania dwoma sekcjami źródeł światła w żyrandolu?",
+    "answers": [
+      "Schodowy.",
+      "Krzyżowy.",
+      "Świecznikowy.",
+      "Dwubiegunowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 50,
+    "text": "Silnik trójfazowy indukcyjny w układzie zasilania ze stycznikiem należy zabezpieczyć przed przeciążeniem przekaźnikiem termobimetalowym. W tym celu należy zastosować przekaźnik",
+    "answers": [
+      "trójtorowy bez styku sterującego.",
+      "trójtorowy ze stykiem sterującym.",
+      "jednotorowy bez styku sterującego.",
+      "jednotorowy ze stykiem sterującym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 51,
+    "text": "Poślizg silnika indukcyjnego będzie równy 1, gdy",
+    "answers": [
+      "wirnik silnika będzie zatrzymany.",
+      "silnik zostanie zasilony przeciwprądem.",
+      "wirnik silnika zostanie dopędzony.",
+      "silnik pozostanie na biegu jałowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 52,
+    "text": "W którym z wymienionych układów sieciowych występuje przewód PEN?",
+    "answers": [
+      "TN-S",
+      "TN-C",
+      "TT",
+      "IT"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 53,
+    "text": "Określ przyczynę nadmiernego wzrostu napięcia na zaciskach odbiornika Z1 w układzie przedstawionym na schemacie, przy założeniu, że impedancje Z1, Z2 i Z3 znacznie się różnią.",
+    "answers": [
+      "Przerwa na zaciskach odbiornika Z2 lub Z3.",
+      "Zwarcie pomiędzy dwoma przewodami fazowymi.",
+      "Przerwa w przewodzie neutralnym.",
+      "Zwarcie na zaciskach odbiornika Z2 lub Z3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_schemat7.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 54,
+    "text": "Na której ilustracji przedstawiono pomiar rezystancji izolacji między przewodami czynnymi w układzie TN-C?",
+    "answers": [
+      "Na ilustracji 2.",
+      "Na ilustracji 1.",
+      "Na ilustracji 3.",
+      "Na ilustracji 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_pomiary2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 55,
+    "text": "Które z wymienionych oznaczeń powinna mieć wkładka topikowa do zabezpieczenia przewodów przed skutkami zwarć i przeciążeń w obwodzie jednofazowego bojlera elektrycznego o danych znamionowych: PN = 3 kW, UN = 230 V?",
+    "answers": [
+      "gG 20 A",
+      "gG 16 A",
+      "aM 20 A",
+      "aM 16 A"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 56,
+    "text": "Który z wymienionych materiałów jest najlepszym przewodnikiem strumienia magnetycznego?",
+    "answers": [
+      "Stal.",
+      "Aluminium",
+      "Miedź.",
+      "Brąz."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 57,
+    "text": "Wskaż symbol graficzny przycisku zwiernego.",
+    "answers": [
+      "Symbol 4.",
+      "Symbol 2.",
+      "Symbol 3.",
+      "Symbol 1."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_symbole5.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 58,
+    "text": "Którym symbolem graficznym oznacza się instalację prowadzoną na drabinkach kablowych?",
+    "answers": [
+      "Symbolem 4.",
+      "Symbolem 1.",
+      "Symbolem 2.",
+      "Symbolem 3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_symbole4.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 59,
+    "text": "Która z wymienionych czynności nie wchodzi w zakres oględzin urządzeń napędowych w czasie ruchu?",
+    "answers": [
+      "Sprawdzenie stopnia nagrzewania obudowy i łożysk.",
+      "Kontrola stanu pierścieni ślizgowych i komutatorów.",
+      "Kontrola poziomu drgań.",
+      "Sprawdzenie działania układów chłodzenia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 60,
+    "text": "Podaj rodzaj i miejsce uszkodzenia w trójfazowym silniku indukcyjnym o uzwojeniach połączonych w gwiazdę, jeżeli wyniki pomiarów rezystancji jego uzwojeń przedstawione są w tabeli.",
+    "answers": [
+      "Zwarcie międzyzwojowe w fazie W",
+      "Przerwa w uzwojeniu fazy W",
+      "Przerwa w uzwojeniu fazy V",
+      "Zwarcie międzyzwojowe w fazie V"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_tabela3.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 61,
+    "text": "Który z wymienionych zestyków pomocniczych układu przedstawionego na schemacie uległ uszkodzeniu, skoro nie da się załączyć stycznika Q2?",
+    "answers": [
+      "NO stycznika Q1",
+      "NC stycznika Q1",
+      "NO stycznika Q2",
+      "NC stycznika Q2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_schemat10.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 62,
+    "text": "Ile klawiszy i ile zacisków posiada klasyczny pojedynczy łącznik schodowy?",
+    "answers": [
+      "Jeden klawisz i trzy zaciski.",
+      "Jeden klawisz i cztery zaciski.",
+      "Dwa klawisze i trzy zaciski.",
+      "Dwa klawisze i cztery zaciski."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 63,
+    "text": "Który rodzaj sterowania zapewnia układ silnika przedstawiony na schemacie?",
+    "answers": [
+      "Regulację obrotów przez bocznikowanie uzwojenia wzbudzenia.",
+      "Hamowanie dynamiczne.",
+      "Hamowanie prądnicowe.",
+      "Regulację obrotów przez zmianę napięcia twornika."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_schemat11.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 64,
+    "text": "Który z wymienionych elementów zabezpiecza nakrętkę przed odkręceniem?",
+    "answers": [
+      "Tuleja kołnierzowa.",
+      "Podkładka sprężysta.",
+      "Podkładka dystansowa.",
+      "Tuleja redukcyjna."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 65,
+    "text": "Przygotowując się do wymiany uszkodzonego gniazda siłowego w instalacji elektrycznej, po wyłączeniu napięcia w obwodzie tego gniazda, należy przede wszystkim",
+    "answers": [
+      "oznaczyć miejsce pracy.",
+      "zabezpieczyć obwód przed przypadkowym załączeniem napięcia.",
+      "zgłosić dostawcy energii zamiar naprawy.",
+      "rozłożyć dywanik elektroizolacyjny w miejscu pracy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 66,
+    "text": "Wskaż prawidłową kolejność czynności przy demontażu trójfazowego silnika klatkowego, jeżeli zachodzi konieczność wymiany łożysk.",
+    "answers": [
+      "Zdjęcie osłony przewietrznika, zdjęcie przewietrznika z wału, zdjęcie tarcz łożyskowych, wyjęcie wirnika z łożyskami, zdjęcie łożysk z wału.",
+      "Zdjęcie osłony przewietrznika, zdjęcie przewietrznika z wału, wyjęcie wirnika z łożyskami, zdjęcie tarcz łożyskowych, zdjęcie łożysk z wału.",
+      "Zdjęcie osłony przewietrznika, zdjęcie tarcz łożyskowych, zdjęcie przewietrznika  z  wału, wyjęcie wirnika z łożyskami, zdjęcie łożysk z wału.",
+      "Zdjęcie przewietrznika z wału, zdjęcie osłony przewietrznika, wyjęcie wirnika z łożyskami, zdjęcie tarcz łożyskowych, zdjęcie łożysk z wału."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 67,
+    "text": "Oblicz znamionowy współczynnik mocy silnika trójfazowego o danych: PN = 2,2 kW (mocy mechanicznej), UN = 400 V, IN = 4,6 A, ηN = 0,84.",
+    "answers": [
+      "0,69",
+      "0,57",
+      "0,99",
+      "0,82"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 68,
+    "text": "Którą funkcję w wyłączniku nadprądowym pełni element wskazany na ilustracji czerwoną strzałką?",
+    "answers": [
+      "Reaguje na zwarcia.",
+      "Łączy styki.",
+      "Reaguje na przeciążenia.",
+      "Gasi łuk elektryczny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_wylacznik.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 69,
+    "text": "Jaką największą wartość może mieć impedancja pętli zwarcia w trójfazowym obwodzie elektrycznym o napięciu znamionowym 230/400 V, aby skuteczna była ochrona przeciwporażeniowa przy uszkodzeniu izolacji, jeśli wiadomo, że wyłączenie zasilania tego obwodu ma zapewnić instalacyjny wyłącznik nadprądowy B20?",
+    "answers": [
+      "3,8 Ω",
+      "2,3 Ω",
+      "4,0 Ω",
+      "6,6 Ω"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 70,
+    "text": "Z instrukcji obsługi przedstawionego na ilustracji miernika wynika, że przed pomiarem rezystancji należy wyzerować omomierz. W tym celu należy przełącznikiem funkcji wybrać pomiar rezystancji i ustawić wskazówkę na 0 Ω przy pomocy pokrętła oznaczonego",
+    "answers": [
+      "cyfrą 2 przy odłączonych przewodach pomiarowych.",
+      "cyfrą 1 przy zwartych przewodach pomiarowych.",
+      "cyfrą 1 przy odłączonych przewodach pomiarowych.",
+      "cyfrą 2 przy zwartych przewodach pomiarowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_miernik.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 71,
+    "text": "Który element rozdzielnicy przedstawiono na ilustracji?",
+    "answers": [
+      "Lampkę sygnalizacyjną trójfazową.",
+      "Przekaźnik czasowy.",
+      "Czujnik zaniku fazy.",
+      "Regulator temperatury."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_element2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 72,
+    "text": "Na której ilustracji przedstawiono symbol graficzny przewodu neutralnego?",
+    "answers": [
+      "Na ilustracji 2.",
+      "Na ilustracji 1.",
+      "Na ilustracji 3.",
+      "Na ilustracji 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_symbole3.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 73,
+    "text": "Którą funkcję pełni wyzwalacz elektromagnetyczny w wyłączniku nadprądowym?",
+    "answers": [
+      "Naciąga sprężynę napędu.",
+      "Wykrywa zwarcia.",
+      "Wykrywa przeciążenia.",
+      "Gasi łuk elektryczny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 74,
+    "text": "W którym z punktów spośród wskazanych strzałkami na charakterystyce prądowo-napięciowej diody prostowniczej przedstawionej na wykresie odczytywane jest napięcie przebicia?",
+    "answers": [
+      "W punkcie C",
+      "W punkcie B",
+      "W punkcie A",
+      "W punkcie D"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_charakterystyka.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 75,
+    "text": "Do czego służą przy montażu instalacji elektrycznej przedstawione na ilustracji kleszcze?",
+    "answers": [
+      "Zaprasowywania przewodów w połączeniach wsuwanych.",
+      "Montażu zacisków zakleszczających.",
+      "Zaciskania końcówek tulejkowych na żyłach przewodu.",
+      "Formowania oczek na końcach żył."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_kleszcze.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 76,
+    "text": "Określ funkcje i liczbę przewodów jednożyłowych, które należy umieścić w rurach instalacyjnych, aby wykonać poszczególne obwody w układzie sieciowym TN-S, zakończone punktami odbioru o symbolach graficznych przedstawionych na rysunkach.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_schematy16.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 77,
+    "text": "Do końców którego uzwojenia pracującego silnika prądu stałego doprowadza się prąd elektryczny przez szczotki?",
+    "answers": [
+      "Wzbudzenia.",
+      "Twornika.",
+      "Komutacyjnego.",
+      "Kompensacyjnego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 78,
+    "text": "Które łożysko, spośród przedstawionych na rysunkach, jest przeznaczone do przenoszenia sił promieniowych i znacznych sił osiowych w jednym kierunku?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_lozyska.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 79,
+    "text": "Który rodzaj układu sieciowego przedstawiono na rysunku?",
+    "answers": [
+      "TT",
+      "TN-S",
+      "IT",
+      "TN-C"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_uklad14.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 80,
+    "text": "Na którym rysunku znajduje się schemat rozmieszczenia punktów odbioru odpowiadający przedstawionemu schematowi elektrycznemu?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_schemat57.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 81,
+    "text": "Która z wymienionych przyczyn może powodować nagłe rozbieganie się pracującego silnika bocznikowego?",
+    "answers": [
+      "Nagły skok napięcia zasilającego.",
+      "Zerwanie mechanicznego połączenia wału silnika z maszyną napędzaną.",
+      "Zanik strumienia w obwodzie wzbudzenia.",
+      "Uszkodzenie łożysk silnika."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 82,
+    "text": "Przekaźnik czasowy włączony do obwodu elektrycznego i nastawiony jak na rysunku, będzie realizował funkcję cyklicznego przełączania co",
+    "answers": [
+      "9 minut zaczynając od wyłączenia.",
+      "90 minut zaczynając od wyłączenia.",
+      "90 minut zaczynając od załączenia.",
+      "9 minut zaczynając od załączenia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_przekaznik.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 83,
+    "text": "Wskaż oznaczenia trzonków źródeł światła ustawione (lub zapisane) zgodnie z kolejnością trzonków przedstawionych na rysunku.",
+    "answers": [
+      "G9, MR16, GU10, E27",
+      "GU10, MR16, G9, E27",
+      "E27, G9, MR16, GU10",
+      "MR16, GU10, E27, G9"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_trzony.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 84,
+    "text": "Do przymocowania urządzenia elektrycznego do blachy o grubości 3 mm przy użyciu takich elementów, jak przedstawiony na rysunku, oprócz kompletu wierteł do metalu i punktaka niezbędne będą",
+    "answers": [
+      "wiertarko-wkrętarka z kompletem bitów i gwintownik.",
+      "wiertarka i wkrętak typu torx.",
+      "wiertarka i klucz imbusowy.",
+      "wiertarko-wkrętarka z kompletem bitów i rozwiertak."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_element9.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 85,
+    "text": "Którego silnika elektrycznego dotyczy tabliczka znamionowa przedstawiona na rysunku?",
+    "answers": [
+      "Synchronicznego trójfazowego.",
+      "Uniwersalnego.",
+      "Obcowzbudnego prądu stałego.",
+      "Asynchronicznego trójfazowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_tabliczka2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 86,
+    "text": "Na podstawie charakterystyki przedstawionej na rysunku określ przedział czasu, w którym na pewno nastąpi zadziałanie wyzwalacza termobimetalowego wyłącznika S301 B10 1P 6 kA, przy przepływie przez niego prądu o wartości 30 A.",
+    "answers": [
+      "0 s ˂ t ˂ 0,01 s",
+      "40 s ˂ t ˂ 10 000 s",
+      "7 s ˂ t ˂ 40 s",
+      "0,01 s ˂ t ˂ 7 s"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_charakterystyka2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 87,
+    "text": "Korzystając z podanego wzoru i tabeli wyznacz wartość rezystancji izolacji uzwojeń silnika w temperaturze 20°C, jeżeli rezystancja izolacji uzwojeń tego silnika zmierzona w temperaturze 14°C wyniosła 6,8 MΩ.",
+    "answers": [
+      "5,51 MΩ",
+      "5,99 MΩ",
+      "7,61 MΩ",
+      "8,40 MΩ"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_tabela28.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 88,
+    "text": "Jaką funkcję pełni uzwojenie pomocnicze w silniku prądu stałego?",
+    "answers": [
+      "Eliminuje niekorzystne zjawiska spowodowane oddziaływaniem wirnika.",
+      "Zmniejsza rezystancję obwodu twornika.",
+      "Wytwarza pole magnetyczne wzbudzenia.",
+      "Wytwarza napięcie remanentu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 89,
+    "text": "Jaki jest cel wykonywania próby biegu jałowego maszyny elektrycznej?",
+    "answers": [
+      "Pomiar wartości momentu rozruchowego.",
+      "Pomiar rezystancji izolacji uzwojeń względem korpusu oraz izolacji międzyzwojowej.",
+      "Wyznaczenie charakterystyki zewnętrznej maszyny.",
+      "Wyznaczenie parametrów maszyny bez obciążenia oraz oszacowanie strat mechanicznych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 90,
+    "text": "Na rysunku przedstawiono schemat układu zasilania silnika elektrycznego zawierający",
+    "answers": [
+      "czujnik kolejności i zaniku faz.",
+      "cyklokonwertor.",
+      "wyłącznik silnikowy.",
+      "przekaźnik termobimetalowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_schemat62.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 91,
+    "text": "Który element stosowany w instalacjach sterowania oświetleniem przedstawiono na rysunku?",
+    "answers": [
+      "Przekaźnik bistabilny.",
+      "Czujnik ruchu.",
+      "Automat zmierzchowy.",
+      "Regulator oświetlenia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_element8.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 92,
+    "text": "Która z wymienionych przyczyn może powodować nadmierne nagrzewanie się wirnika silnika pierścieniowego?",
+    "answers": [
+      "Nierówna szczelina powietrzna silnika.",
+      "Przerwa w uzwojeniu stojana.",
+      "Złe wyważenie wirnika.",
+      "Zwarcie wewnątrz uzwojeń wirnika."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 93,
+    "text": "Na podstawie przedstawionego schematu określ, który wyłącznik należy zamontować do zabezpieczenia przeciążeniowego silnika.",
+    "answers": [
+      "Q1",
+      "Q2",
+      "F1",
+      "F2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_schemat64.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 94,
+    "text": "Który z wymienionych zestawów wyłączników nadprądowych należy dobrać do zabezpieczenia obwodów instalacji elektrycznej o schemacie przedstawionym na rysunku?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_schemat60.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 95,
+    "text": "Na który zakres pomiarowy należy ustawić multimetr przedstawiony na rysunku, aby można nim zmierzyć napięcie zasilania sieci TN-S w budynku mieszkalnym?",
+    "answers": [
+      "200 V DC",
+      "500 V DC",
+      "200 V AC",
+      "500 V AC"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_multimetr.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 96,
+    "text": "Zakres oględzin urządzeń napędowych w czasie postoju nie obejmuje sprawdzenia",
+    "answers": [
+      "ustawienia zabezpieczeń i stanu osłon części wirujących.",
+      "poziomu drgań i działania układu chłodzenia.",
+      "stanu pierścieni ślizgowych i komutatorów.",
+      "stanu przewodów ochronnych i ich podłączenia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 97,
+    "text": "Jaki rodzaj silnika prądu stałego przedstawiony jest na schemacie?",
+    "answers": [
+      "Obcowzbudny.",
+      "Szeregowo-bocznikowy.",
+      "Bocznikowy.",
+      "Szeregowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_schemat61.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 98,
+    "text": "W celu sprawdzenia poprawności działania wyłączników różnicowoprądowych zmierzono ich różnicowe prądy zadziałania. Który z wyłączników nie spełnia warunku prądu zadziałania (0,5÷1,00) IΔN?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_tabele3.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 99,
+    "text": "Oprawa oświetleniowa posiadająca odporność przed pyłem i strugą wody powinna posiadać stopień ochrony co najmniej",
+    "answers": [
+      "IP45",
+      "IP43",
+      "IP54",
+      "IP55"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 100,
+    "text": "Na którym rysunku przedstawiono kabel przeznaczony do wykonania trójfazowego przyłącza ziemnego do budynku jednorodzinnego w sieci TN-S?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_kable.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 101,
+    "text": "Która z wymienionych czynności należy do oględzin podczas konserwacji wirnika silnika komutatorowego?",
+    "answers": [
+      "Pomiar rezystancji izolacji.",
+      "Wyważenie.",
+      "Sprawdzenie braku zwarć międzyzwojowych.",
+      "Sprawdzenie stanu wycinków komutatora."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 102,
+    "text": "Który typ łącznika instalacyjnego przedstawiono na rysunku?",
+    "answers": [
+      "Świecznikowy podtynkowy.",
+      "Dwubiegunowy natynkowy.",
+      "Podwójny schodowy natynkowy.",
+      "Podwójny krzyżowy podtynkowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_lacznik8.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 103,
+    "text": "Który z wymienionych parametrów można zmierzyć przyrządem przedstawionym na rysunku?",
+    "answers": [
+      "Impedancję pętli zwarcia.",
+      "Rezystancję izolacji.",
+      "Czas wyłączenia wyłącznika nadprądowego.",
+      "Rezystancję uziemienia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_przyrzad9.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 104,
+    "text": "Na podstawie przedstawionego schematu z instrukcji fabrycznej określ, które wyprowadzenia czujnika kontroli i zaniku faz należy włączyć szeregowo z cewką stycznika.",
+    "answers": [
+      "1 i 7",
+      "1 i 4",
+      "7 i 8",
+      "4 i 8"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_schemat58.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 105,
+    "text": "Który element i z jakiego silnika przedstawiony jest na rysunku a) i schemacie b)?",
+    "answers": [
+      "Wirnik silnika komutatorowego.",
+      "Wirnik silnika pierścieniowego.",
+      "Stojan silnika komutatorowego.",
+      "Stojan silnika pierścieniowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_element11.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 106,
+    "text": "Która z wymienionych przyczyn może spowodować samoczynne wyłączenie wyłącznika nadprądowego B16 instalacji elektrycznej pokoju, której schemat przedstawiono na rysunku?",
+    "answers": [
+      "Jednoczesne podłączenie odbiorników o zbyt dużej mocy.",
+      "Przerwa w żyle neutralnej przewodu zasilającego rozdzielnicę.",
+      "Włączenie lampy sodowej w obwodzie oświetleniowym.",
+      "Zwarcie przewodu ochronnego z przewodem neutralnym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_schemat59.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 107,
+    "text": "Który ze schematów ideowych dotyczy przedstawionego uproszczonego planu instalacji elektrycznej mieszkania?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_plan3.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 108,
+    "text": "Ile wynosi prędkość obrotowa wału wirnika silnika indukcyjnego o danych: UN = 3×400 V; fN = 50 Hz; cosφ = 0,95; IN = 3,6 A; s = 0,04; p = 4?",
+    "answers": [
+      "1 470 obr./min",
+      "720 obr./min",
+      "780 obr./min",
+      "1 530 obr./min"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 109,
+    "text": "Który element stycznika elektromagnetycznego przedstawiono na rysunku?",
+    "answers": [
+      "Zworę.",
+      "Cewkę.",
+      "Wyprowadzenie zestyku głównego.",
+      "Wyprowadzenie zestyku pomocniczego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_element10.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 110,
+    "text": "Które z przedstawionych narzędzi należy użyć do ściągania łożysk z wału silnika?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_narzedzia10.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 111,
+    "text": "Jaki charakter obciążenia ma odbiornik o przedstawionym wykresie wskazowym natężenia prądu i napięcia?",
+    "answers": [
+      "Rezystancyjno-pojemnościowy.",
+      "Indukcyjny.",
+      "Rezystancyjno-indukcyjny.",
+      "Pojemnościowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_wykres.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 112,
+    "text": "Którego z przedstawionych narzędzi należy użyć do zaciskania końcówek oczkowych na żyle przewodu wielodrutowego?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_narzedzia9.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 113,
+    "text": "Maksymalny czas samoczynnego wyłączenia zasilania w obwodzie odbiorczym o napięciu 230 V AC i prądzie obciążenia nie większym niż 32 A, w sieci TN, spełniający warunek skuteczności ochrony przed dotykiem pośrednim wynosi",
+    "answers": [
+      "0,4 sekundy.",
+      "0,2 sekundy.",
+      "1 sekundę.",
+      "5 sekund."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 114,
+    "text": "W którym z wymienionych zestawów zawarte są wyłącznie elementy występujące w układzie elektrycznym przedstawionym na schemacie?",
+    "answers": [
+      "Rozrusznik, przekaźnik czasowy, przyciski sterujące zwrotne NO i NC.",
+      "Wyłącznik silnikowy, rozrusznik, 3 styczniki, przekaźnik czasowy.",
+      "Przyciski sterujące zwrotne NO i NC, wyłącznik silnikowy, wyłącznik nadprądowy.",
+      "Przyciski sterujące zwrotne NO i NC, przekaźnik termobimetalowy, 3 styczniki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_schemat63.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 115,
+    "text": "Ile wynosi wartość napięcia probierczego podczas pomiaru rezystancji izolacji instalacji elektrycznej w budynku mieszkalnym?",
+    "answers": [
+      "1 000 V",
+      "250 V",
+      "500 V",
+      "750 V"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 116,
+    "text": "Z instrukcji obsługi przedstawionego na rysunku miernika wynika, że przed pomiarem rezystancji należy wyzerować omomierz. W tym celu należy przełącznikiem funkcji wybrać pomiar rezystancji i ustawić wskazówkę na 0 Ω przy pomocy pokrętła oznaczonego cyfrą",
+    "answers": [
+      "2 przy zwartych przewodach pomiarowych.",
+      "1 przy zwartych przewodach pomiarowych.",
+      "2 przy odłączonych przewodach pomiarowych.",
+      "1 przy odłączonych przewodach pomiarowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_miernik.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 117,
+    "text": "Którą z wymienionych wkładek bezpiecznikowych należy zastosować do zabezpieczenia przewodów przed skutkami zwarć i przeciążeń w obwodzie jednofazowego bojlera elektrycznego o danych znamionowych: PN = 3 kW, UN = 230 V?",
+    "answers": [
+      "aM 16 A",
+      "aM 20 A",
+      "gG 20 A",
+      "gG 16 A"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 118,
+    "text": "Przed pomiarami rezystancji izolacji obwodu oświetleniowego oprócz wyłączenia napięcia zasilającego ten obwód należy",
+    "answers": [
+      "zamontować źródła światła i zamknąć łączniki instalacyjne tego obwodu.",
+      "wymontować źródła światła i zamknąć łączniki instalacyjne tego obwodu.",
+      "wymontować źródła światła i otworzyć łączniki instalacyjne tego obwodu.",
+      "zamontować źródła światła i otworzyć łączniki instalacyjne tego obwodu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 119,
+    "text": "Który element regulacyjny występuje w układzie przedstawionym na schemacie?",
+    "answers": [
+      "Przesuwnik fazowy.",
+      "Dławik.",
+      "Autotransformator.",
+      "Regulator indukcyjny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_schemat8.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 120,
+    "text": "Na podstawie zależności napięcia na zaciskach akumulatora od prądu i czasu rozładowywania przedstawionych na rysunku wskaż wartość napięcia akumulatora o pojemności C = 100 Ah, który przez 30 minut był obciążony prądem o wartości 60 A.",
+    "answers": [
+      "12,4 V",
+      "12,0 V",
+      "11,3 V",
+      "11,0 V"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_wykres.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 121,
+    "text": "Które żyły przewodów należy połączyć ze sobą w puszce rozgałęźnej układu elektrycznego, przedstawionej na rysunku, aby połączenie zapewniało sterowanie oświetleniem i było zgodne ze sztuką monterską?",
+    "answers": [
+      "L z 4, N z 1, 2 z 3",
+      "L z 1, N z 4, 2 z 3",
+      "L z 3, N z 2, 1 z 4",
+      "L z 1, N z 3, 2 z 4"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_rysunek.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 122,
+    "text": "Który środek ochrony przeciwporażeniowej zastosowano w układzie, w którym zasilanie odbiorników odbywa się z transformatora bezpieczeństwa?",
+    "answers": [
+      "Izolację stanowiska.",
+      "Separację odbiorników.",
+      "Ochronne obniżenie napięcia.",
+      "Podwójną lub wzmocnioną izolację."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 123,
+    "text": "W dokumentacji projektowej instalacji elektrycznej wielopiętrowego bloku mieszkalnego zaznaczono, że należy zastosować ochronniki przeciwprzepięciowe klasy C. Powinny one być zainstalowane w",
+    "answers": [
+      "linii zasilającej budynek.",
+      "złączu budynku.",
+      "rozdzielnicach mieszkaniowych.",
+      "puszkach instalacyjnych gniazd odbiorczych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 124,
+    "text": "Który symbol graficzny w ideowym schemacie jednoliniowym instalacji elektrycznej obrazuje łącznik ze schematu wieloliniowego pokazany na rysunku?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_symbole.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 125,
+    "text": "Jaką największą wartość może mieć impedancja pętli zwarcia w trójfazowym obwodzie elektrycznym o napięciu znamionowym 230/400 V, aby skuteczna była ochrona przeciwporażeniowa przy uszkodzeniu izolacji, jeśli wiadomo, że dostatecznie szybkie wyłączenie zasilania tego obwodu ma zapewnić instalacyjny wyłącznik nadprądowy B20?",
+    "answers": [
+      "4,0 Ω",
+      "3,8 Ω",
+      "2,3 Ω",
+      "6,6 Ω"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 126,
+    "text": "Która z wymienionych list czynności opisuje w jakiej kolejności demontuje się elementy stojana silnika indukcyjnego z uzwojeniem wsypywanym w celu jego przezwojenia?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_tabela5.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 127,
+    "text": "Na rysunku przedstawiono graficzne oznaczenie przewodu",
+    "answers": [
+      "czynnego pod napięciem.",
+      "ochronno-neutralnego.",
+      "uziemiającego.",
+      "ochronnego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_oznaczenie.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 128,
+    "text": "Kabel typu YAKY przedstawiono na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_przewody2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 129,
+    "text": "Który z wymienionych elementów zabezpiecza nakrętki przed odkręceniem?",
+    "answers": [
+      "Tuleja kołnierzowa.",
+      "Podkładka dystansowa.",
+      "Tuleja redukcyjna.",
+      "Podkładka sprężysta."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 130,
+    "text": "Którą z wymienionych czynności wykonuje się w czasie oględzin pracującego transformatora?",
+    "answers": [
+      "Sprawdzenie poziomu oleju w olejowskazie konserwatora.",
+      "Konserwację styków i połączeń śrubowych.",
+      "Konserwację przełącznika zaczepów.",
+      "Czyszczenie izolatorów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 131,
+    "text": "W którym z punktów spośród wskazanych strzałkami na charakterystyce diody prostowniczej przedstawionej na rysunku odczytywane jest napięcie przebicia?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_rysunek2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 132,
+    "text": "Jaką funkcję pełni wyzwalacz elektromagnetyczny w wyłączniku nadprądowym?",
+    "answers": [
+      "Wykrywa zwarcia.",
+      "Gasi łuk elektryczny.",
+      "Wykrywa przeciążenia.",
+      "Naciąga sprężynę napędu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 133,
+    "text": "Na którym rysunku przedstawiono prawidłowy schemat sterowania oświetleniem z dwóch niezależnych miejsc?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_schematy2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 134,
+    "text": "Który z wymienionych odbiorników energii elektrycznej posiada najbardziej korzystny pod względem ekonomicznym współczynnik mocy?",
+    "answers": [
+      "Wzbudnik indukcyjny.",
+      "Piec oporowy.",
+      "Silnik asynchroniczny.",
+      "Silnik uniwersalny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 135,
+    "text": "Określ przyczynę nadmiernego wzrostu napięcia na zaciskach odbiornika Z1 przy założeniu, że impedancje Z1, Z2 i Z3 znacznie się różnią.",
+    "answers": [
+      "Zwarcie pomiędzy dwoma przewodami fazowymi.",
+      "Przerwa na zaciskach odbiornika Z2 lub Z3.",
+      "Zwarcie na zaciskach odbiornika Z2 lub Z3.",
+      "Uszkodzenie przewodu neutralnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_schemat7.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 136,
+    "text": "Który z wymienionych łączników instalacyjnych jest przeznaczony do sterowania dwoma sekcjami źródeł światła w żyrandolu?",
+    "answers": [
+      "Świecznikowy.",
+      "Krzyżowy.",
+      "Schodowy.",
+      "Dwubiegunowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 137,
+    "text": "Którym narzędziem należy wkręcać śrubę przedstawioną na rysunku?",
+    "answers": [
+      "Kluczem imbusowym.",
+      "Kluczem nasadowym.",
+      "Wkrętakiem z nacięciem Phillips.",
+      "Wkrętakiem z nacięciem Torx."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_sruba.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 138,
+    "text": "W jakiej kolejności należy włączać styczniki w układzie przedstawionym na schemacie, aby przeprowadzić prawidłowy rozruch silnika, przy zamkniętym wyłączniku Q1?",
+    "answers": [
+      "W odstępach czasu kolejno: K1M, K42M, K41M",
+      "Najpierw K1M i K41M, następnie wyłączyć K41M, a włączyć K42M",
+      "W odstępach czasu kolejno: K41M, K42M, K1M",
+      "Najpierw K1M i K42M, następnie wyłączyć K42M, a włączyć K41M"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_schemat9.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 139,
+    "text": "W układzie zasilania którego z wymienionych źródeł światła stosuje się zapłonnik?",
+    "answers": [
+      "Żarówki halogenowej.",
+      "Lampy sodowej.",
+      "Lampy rtęciowej.",
+      "Świetlówki tradycyjnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 140,
+    "text": "Który rodzaj maszyny wirującej przedstawiono na rysunku?",
+    "answers": [
+      "Komutatorową prądu przemiennego.",
+      "Synchroniczną jawnobiegunową.",
+      "Synchroniczną z biegunami utajonymi.",
+      "Indukcyjną klatkową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_maszyna.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 141,
+    "text": "Wybierz z tabeli numer katalogowy wtyczki, która wraz przewodem wystarczy do zasilenia betoniarki z silnikiem trójfazowym pobierającym w warunkach pracy znamionowej moc 12 kVA. Maszyna sterowana jest stycznikiem z cewką na napięcie 230 V i zasilana z sieci TN-S o napięciu 230/400 V.",
+    "answers": [
+      "024-6",
+      "014-6",
+      "025-6",
+      "015-6"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_tabela4.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 142,
+    "text": "Dobierz zestaw narzędzi niezbędnych do zamocowania listew instalacyjnych natynkowej instalacji elektrycznej przy użyciu kołków szybkiego montażu.",
+    "answers": [
+      "Osadzak gazowy, wkrętak, obcinaczki.",
+      "Wiertarka z kompletem wierteł, młotek, piła.",
+      "Osadzak gazowy, młotek, obcinaczki.",
+      "Wiertarka z kompletem wierteł, szczypce płaskie, piła."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 143,
+    "text": "Na którym rysunku przedstawiono symbol graficzny przycisku zwiernego?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_symbole2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 144,
+    "text": "Najmniejszy błąd pomiaru natężenia prądu o wartości 30 mA miliamperomierzem cyfrowym z wyświetlaczem do 2 miejsc po przecinku wystąpi przy użyciu miernika o dokładności",
+    "answers": [
+      "±2,5% + 1 cyfra.",
+      "±1,5% + 3 cyfry.",
+      "±1,0% + 4 cyfry.",
+      "±2,0% + 2 cyfry."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 145,
+    "text": "Który element stosowany do sterowania w domowej instalacji elektrycznej przedstawiono na rysunku?",
+    "answers": [
+      "Przekaźnik priorytetowy.",
+      "Regulator oświetlenia.",
+      "Sterownik rolet.",
+      "Przekaźnik bistabilny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_element.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 146,
+    "text": "Który zestaw czynności wchodzi w zakres oględzin instalacji elektrycznej w budynku mieszkalnym?",
+    "answers": [
+      "Nastawienie urządzeń zabezpieczających i sygnalizacyjnych, sprawdzenie dostępności urządzeń, umożliwiającej wygodną obsługę, identyfikację i konserwację.",
+      "Pomiar ciągłości przewodów ochronnych i przewodów czynnych, występujących w obwodach odbiorczych oraz sprawdzenie skuteczności ochrony przy uszkodzeniu za pomocą samoczynnego wyłączenia zasilania.",
+      "Sprawdzenie ochrony za pomocą SELV, PELV, separacji elektrycznej lub nieuziemionych połączeń wyrównawczych miejscowych.",
+      "Pomiar rezystancji izolacji przewodów, sprawdzenie ciągłości przewodów ochronnych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 147,
+    "text": "Do której grupy urządzeń elektrycznych zalicza się linie napowietrzne i kablowe?",
+    "answers": [
+      "Pomocniczych.",
+      "Odbiorczych.",
+      "Wytwórczych.",
+      "Przesyłowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 148,
+    "text": "Które czynności kontrolne nie wchodzą w zakres oględzin urządzeń napędowych w czasie ruchu?",
+    "answers": [
+      "Sprawdzenie stanu łożysk i pomiary elektryczne.",
+      "Kontrola poziomu drgań i działania układu chłodzenia.",
+      "Sprawdzenie stanu przewodów ochronnych i ich połączeń.",
+      "Sprawdzenie zabezpieczeń i stanu osłon części wirujących."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 149,
+    "text": "Które z wymienionych parametrów technicznych dotyczą przekaźnika bistabilnego?",
+    "answers": [
+      "Napięcie znamionowe, znamionowy prąd różnicowy zadziałania, prąd znamionowy ciągły, obciążalność zwarciowa, częstotliwość znamionowa, liczba biegunów.",
+      "Napięcie zasilania, prąd obciążenia, wartość prądu impulsu sterującego, opóźnienie zadziałania, sygnalizacja załączenia.",
+      "Liczba biegunów, rodzaj charakterystyki, prąd znamionowy, szerokość w modułach.",
+      "Typ modułu, zakres zliczania, rodzaj wyjścia, parametry wyjścia, napięcie zasilania, tryby pracy licznika."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 150,
+    "text": "Do których zacisków przekaźnika zmierzchowego należy podłączyć czujkę światła?",
+    "answers": [
+      "N i 12",
+      "10 i 12",
+      "L i 10",
+      "7 i 9"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_schemat2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 151,
+    "text": "Który układ sterowania przedstawiono na schemacie?",
+    "answers": [
+      "Do rozruchu silnika pierścieniowego.",
+      "Do załączenia silnika z opóźnieniem.",
+      "Do pracy zależnej dwóch styczników.",
+      "Do pracy równoległej dwóch styczników."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_uklad2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 152,
+    "text": "Które urządzenia elektryczne są wyposażeniem przyłącza obiektu budowlanego?",
+    "answers": [
+      "Zabezpieczenia nadprądowe poszczególnych obwodów.",
+      "Wyłącznik różnicowoprądowy i ograniczniki przepięć.",
+      "Zabezpieczenia przedlicznikowe i licznik energii elektrycznej.",
+      "Transformator słupowy z rozłącznikiem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 153,
+    "text": "Na którym rysunku przedstawiono przewód SMYp przeznaczony do podłączenia taśmy LED?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_przewody.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 154,
+    "text": "Które z wymienionych czynności należy wykonać po konserwacji silnika elektrycznego?",
+    "answers": [
+      "Impregnację uzwojeń i wyważenie wirnika.",
+      "Sprawdzenie układów sterowania i sygnalizacji.",
+      "Pomiar rezystancji izolacji i próbne uruchomienie.",
+      "Sprawdzenie układów rozruchowych i regulacyjnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 155,
+    "text": "Na podstawie wybranych danych dobierz wyłącznik nadprądowy do zabezpieczenia obwodu silnika trójfazowego klatkowego o prądzie znamionowym In = 5,5 A.",
+    "answers": [
+      "In = 16 A, charakterystyka B, krotność In = 3 do 5",
+      "In = 16 A, charakterystyka C, krotność In = 5 do 10",
+      "In = 6 A, charakterystyka C, krotność In = 5 do 10",
+      "In = 6 A, charakterystyka B, krotność In = 3 do 5"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 156,
+    "text": "Elementy którego silnika elektrycznego przedstawiono na rysunku?",
+    "answers": [
+      "Indukcyjnego klatkowego.",
+      "Indukcyjnego pierścieniowego.",
+      "Jednofazowego z kondensatorem pracy.",
+      "Komutatorowego prądu stałego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_silnik.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 157,
+    "text": "Który schemat montażowy instalacji oświetleniowej przedstawionej na zamieszczonym planie jest prawidłowy?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_plan.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 158,
+    "text": "Określ w kolejności od lewej strony nazwy narzędzi przedstawionych na rysunku.",
+    "answers": [
+      "Szczypce uniwersalne, przyrząd do ściągania izolacji, obcinaczki boczne, szczypce do zaciskania końcówek, wkrętak izolowany, wskaźnik napięcia.",
+      "Obcinaczki boczne, przyrząd do ściągania izolacji, szczypce do zaciskania końcówek, szczypce uniwersalne, wkrętak izolowany, wskaźnik napięcia.",
+      "Szczypce do zaciskania końcówek, szczypce uniwersalne, wskaźnik napięcia, obcinaczki czołowe, szczypce do ściągania izolacji, wkrętak izolowany płaski.",
+      "Obcinaczki czołowe, przyrząd do ściągania izolacji, szczypce uniwersalne, wskaźnik napięcia, szczypce do zaciskania końcówek, wkrętak izolowany płaski."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_narzedzia.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 159,
+    "text": "Na podstawie przedstawionego planu instalacji określ, które z wymienionych elementów należy wytrasować w pokoju i na tarasie.",
+    "answers": [
+      "2 punkty oświetleniowe sufitowe, 3 gniazda wtyczkowe, 2 łączniki.",
+      "2 punkty oświetleniowe sufitowe, 1 kinkiet, 4 gniazda wtyczkowe z uziemieniem, 1 gniazdo podwójne bez uziemienia.",
+      "1 punkt oświetleniowy sufitowy, 1 kinkiet, 4 gniazda wtyczkowe z uziemieniem, 1 gniazdo wtyczkowe bez uziemienia.",
+      "1 punkt oświetleniowy sufitowy, 1 kinkiet, 1 gniazdo pojedyncze bez uziemienia, 2 gniazda podwójne bez uziemienia, 1 łącznik."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_plan2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 160,
+    "text": "Jaką funkcję w wyłączniku nadprądowym pełni element wskazany na rysunku czerwoną strzałką?",
+    "answers": [
+      "Wyzwalacza zwarciowego.",
+      "Styku ruchomego.",
+      "Wyzwalacza przeciążeniowego.",
+      "Komory łukowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_wylacznik.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 161,
+    "text": "Którego aparatu dotyczy zamieszczony opis przeglądu? W trakcie okresowej kontroli stanu technicznego instalacji elektrycznej dokonano przeglądu z uwzględnieniem: 1. badania stanu ochrony przeciwporażeniowej, 2. kontrolnego sprawdzenie działania wyłącznika przyciskiem testowym, 3. sprawdzenia rzeczywistej wartości różnicowego prądu zadziałania, 4. pomiaru czasu wyłączania, 5. sprawdzenia napięcia dotykowego dla wartości prądu wyzwalającego.",
+    "answers": [
+      "Ochronnika przepięć.",
+      "Elektronicznego przekaźnika czasowego.",
+      "Wyłącznika nadprądowego.",
+      "Wyłącznika różnicowoprądowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 162,
+    "text": "Którego z przedstawionych narzędzi należy użyć do zamontowania zworek w tabliczce silnikowej?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_narzedzia2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 163,
+    "text": "Jaka jest najbardziej prawdopodobna przyczyna nadpalenia izolacji jednego z przewodów neutralnych w listwie N rozdzielnicy mieszkaniowej?",
+    "answers": [
+      "Za duży przekrój nadpalonego przewodu.",
+      "Poluzowane połączenie w listwie neutralnej.",
+      "Zbyt duża moc odbiornika.",
+      "Źle dobrana wartość znamionowa wyłącznika nadprądowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 164,
+    "text": "Który element przedstawionego na rysunku układu zasilania i sterowania silnikiem indukcyjnym steruje przełączeniem układu styczników łączących uzwojenia silnika w gwiazdę i w trójkąt?",
+    "answers": [
+      "Przekaźnik czasowy.",
+      "Przycisk sterujący zwrotny NC.",
+      "Wyłącznik silnikowy.",
+      "Przycisk sterujący zwrotny NO."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_uklad.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 165,
+    "text": "Które czynności powinien wykonać elektryk, posiadający uprawnienia do eksploatacji urządzeń i instalacji do 1 kV, przed wymianą uszkodzonego wyłącznika nadprądowego B16 w obwodzie gniazd wtyczkowych, aby nie pozbawić zasilania płyty grzewczej i piekarnika?",
+    "answers": [
+      "Wyłączyć wszystkie wyłączniki nadprądowe.",
+      "Wyłączyć wszystkie wyłączniki różnicowoprądowe.",
+      "Wyłączyć wyłącznik różnicowoprądowy P312 B25A.",
+      "Wyłączyć rozłącznik izolacyjny FR 304 32 A i wyłącznik nadprądowy S304 B16."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_schemat3.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 166,
+    "text": "Instalacja elektryczna i piorunochronna budynków mieszkalnych (zgodnie z polskim prawem budowlanym) powinna być okresowo badana",
+    "answers": [
+      "raz na rok.",
+      "co najmniej raz na 5 lat.",
+      "raz na pół roku.",
+      "co najmniej raz na 10 lat."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 167,
+    "text": "Na którym rysunku przedstawiono pierścienie ślizgowe silnika?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_pierscienie.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 168,
+    "text": "Które z wymienionych elementów nie wchodzą w skład dokumentacji technicznej urządzeń elektrycznych?",
+    "answers": [
+      "Rysunek ogólny urządzenia wraz ze schematami obwodów zasilania.",
+      "Instrukcja obsługi urządzenia.",
+      "Opis metod zastosowanych do wyeliminowania zagrożeń stwarzanych przez urządzenie.",
+      "Szczegółowe rysunki techniczne poszczególnych elementów urządzenia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 169,
+    "text": "Które urządzenie elektryczne przedstawiono na rysunku?",
+    "answers": [
+      "Stycznik elektromagnetyczny.",
+      "Wyłącznik nadprądowy S304.",
+      "Wyłącznik silnikowy.",
+      "Rozłącznik izolacyjny FRX400."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_urzadzenie.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 170,
+    "text": "Którego silnika dotyczy przedstawiony schemat?",
+    "answers": [
+      "Obcowzbudnego.",
+      "Szeregowego.",
+      "Indukcyjnego.",
+      "Jednofazowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_schemat4.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 171,
+    "text": "Które z przedstawionych parametrów dotyczą wyłącznika silnikowego?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_tabela2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 172,
+    "text": "Które z wymienionych usterek mogą powodować nadmierną wibrację silnika indukcyjnego?",
+    "answers": [
+      "Zwarcie w uzwojeniu wirnika, zamieniona kolejność faz.",
+      "Zbyt niskie napięcie, przerwa w jednej fazie, przeciążenie silnika.",
+      "Przerwa w uzwojeniu stojana, zatarcie łożysk, zbyt duża rezystancja uzwojeń wirnika.",
+      "Skrzywienie wału, złe wyważenie wirnika, nadmierny luz na łożyskach."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 173,
+    "text": "Jaką funkcję pełni uzwojenie biegunów komutacyjnych w maszynach prądu stałego?",
+    "answers": [
+      "Zmniejsza hałas podczas pracy.",
+      "Kompensuje SEM samoindukcji, eliminując iskrzenie na szczotkach.",
+      "Generuje jednokierunkowy moment magnetyczny.",
+      "Wytwarza nieruchome, stałe pole magnetyczne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 174,
+    "text": "Który typ źródła światła przedstawiono na rysunku?",
+    "answers": [
+      "Wolframowe.",
+      "Rtęciowe.",
+      "Halogenowe.",
+      "Diodowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_zrodlo.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 175,
+    "text": "Który z przedstawionych rdzeni stosowany jest do produkcji transformatora toroidalnego?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_rdzenie.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 176,
+    "text": "Który z wymienionych parametrów elementów instalacji elektrycznej można zmierzyć przyrządem, którego fragment pokazano na rysunku?",
+    "answers": [
+      "Czas wyłączenia wyłącznika nadprądowego.",
+      "Rezystancję uziemienia.",
+      "Rezystancję izolacji.",
+      "Impedancję pętli zwarcia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_przyrzad.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 177,
+    "text": "Na którym rysunku przedstawiono źródło światła z trzonkiem typu B?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_zrodla.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 178,
+    "text": "Do którego rodzaju ochrony przeciwporażeniowej zaliczane są środki ochrony opisane w tabeli?",
+    "answers": [
+      "Ochrony uzupełniającej.",
+      "Ochrony przez zastosowanie bardzo niskiego napięcia.",
+      "Ochrony podstawowej.",
+      "Ochrony przy uszkodzeniu (dodatkowej)."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_tabela.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 179,
+    "text": "Którego z wymienionych zestawów narzędzi należy użyć podczas przygotowania przewodów LY do montażu elektrycznego?",
+    "answers": [
+      "Nóż monterski, wkrętak, obcinaczki boczne.",
+      "Obcinaczki boczne, przyrząd do ściągania izolacji, zaciskarka końcówek tulejkowych.",
+      "Przyrząd do ściągania izolacji, obcinaczki czołowe, nóż monterski.",
+      "Zaciskarka końcówek tulejkowych, obcinaczki czołowe, wkrętak."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 180,
+    "text": "W jakiej kolejności nastąpi zadziałanie styczników i przekaźników podczas rozruchu silnika pierścieniowego w układzie, którego schemat połączeń przedstawiono na rysunkach, po załączeniu wyłączników Q i Q1 oraz przycisku sterującego S1?",
+    "answers": [
+      "K1, K5, K4, K6, K3, K7, K2",
+      "K7, K2, K3, K6, K4, K5, K1",
+      "K1, K2, K3, K4, K5, K6, K7",
+      "K1, K5, K4, K6, K3, K2, K7"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_schemat5.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 181,
+    "text": "Na rysunku przedstawiono wynik uzyskany podczas pomiaru rezystancji izolacji silnika indukcyjnego między zaciskami W2 i PE tabliczki silnikowej. Uzyskany wynik świadczy o",
+    "answers": [
+      "dobrym stanie izolacji uzwojenia W1 – W2.",
+      "zwarciu uzwojenia z obudową silnika.",
+      "zbyt dużej wartości rezystancji izolacji uzwojenia W1 – W2.",
+      "zbyt małej wartości rezystancji izolacji uzwojenia W1 – W2."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_pomiar.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 182,
+    "text": "Na podstawie przedstawionego schematu instalacji określ liczbę jednofazowych obwodów gniazd wtyczkowych.",
+    "answers": [
+      "14 obwodów.",
+      "5 obwodów.",
+      "12 obwodów.",
+      "7 obwodów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_schemat.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 183,
+    "text": "Parametry której maszyny elektrycznej zapisano na przedstawionej tabliczce znamionowej?",
+    "answers": [
+      "Dławika.",
+      "Transformatora jednofazowego.",
+      "Silnika jednofazowego.",
+      "Prądnicy synchronicznej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_tabliczka.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 184,
+    "text": "Na podstawie przedstawionego schematu oraz przedstawionych wyników pomiarów zlokalizuj usterkę typowego stycznika w układzie 1-fazowym, 230V.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_pomiary.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 185,
+    "text": "Które z wymienionych parametrów cechują wyłącznik instalacyjny nadprądowy?",
+    "answers": [
+      "Napięcie znamionowe, prąd znamionowy, rodzaj charakterystyki.",
+      "Prąd zwarciowy, rodzaj zestyku, napięcie podtrzymania.",
+      "Prąd obciążenia, rezystancja zestyku, czas wyłączenia.",
+      "Napięcie dopuszczalne, prąd różnicowy, czas zadziałania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 186,
+    "text": "W zakres oględzin instalacji elektrycznych w budynku mieszkalnym nie wchodzi sprawdzenie",
+    "answers": [
+      "skuteczności ochrony przeciwporażeniowej.",
+      "gotowości ruchowej urządzeń zabezpieczających, automatyki i sterowania.",
+      "stanu osłon przed uszkodzeniem mechanicznym przewodów.",
+      "stanu widocznych części przewodów, połączeń oraz osprzętu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 187,
+    "text": "Na rysunku przedstawiono schemat połączenia",
+    "answers": [
+      "regulatora natężenia oświetlenia.",
+      "przekaźnika bistabilnego.",
+      "automatu zmierzchowego.",
+      "automatu schodowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_schemat41.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 188,
+    "text": "Po wykonaniu prac konserwacyjnych instalacji elektrycznej w przedsiębiorstwach i budynkach użyteczności publicznej należy sporządzić",
+    "answers": [
+      "pismo potwierdzające wykonanie prac dla Inspektora Pracy.",
+      "protokół z wykonania pomiarów i opis wykonanych czynności.",
+      "pismo potwierdzające wykonanie prac dla zakładu energetycznego.",
+      "protokół z wykonania prac i wpis w książce kontrolnej budynku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 189,
+    "text": "Na którym rysunku przedstawiono symbol graficzny przewodu neutralnego?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_symbole15.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 190,
+    "text": "Który element oznacza się na schematach elektrycznych symbolem przedstawionym na rysunku?",
+    "answers": [
+      "Gniazdo z transformatorem separacyjnym.",
+      "Autotransformator.",
+      "Dławik.",
+      "Łącznik krańcowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_symbol13.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 191,
+    "text": "Który aparat elektryczny przedstawiono na rysunku?",
+    "answers": [
+      "Styk zwierny.",
+      "Rozłącznik.",
+      "Przekaźnik czasowy.",
+      "Przekaźnik instalacyjny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_aparat4.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 192,
+    "text": "Który przewód obwodu elektrycznego, oprócz przewodów fazowych, należy podłączyć do wejścia trójfazowego wyłącznika różnicowoprądowego, a który do jego wyjścia?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_tabela24.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 193,
+    "text": "W instalacjach o jakim największym napięciu należy stosować wstawkę kalibrową do bezpiecznika topikowego przedstawioną na rysunku?",
+    "answers": [
+      "100 V",
+      "25 V",
+      "250 V",
+      "500 V"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_wstawka.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 194,
+    "text": "Który element rozdzielnicy przedstawiono na rysunku?",
+    "answers": [
+      "Lampkę sygnalizacyjną trójfazową.",
+      "Czujnik zaniku fazy.",
+      "Przekaźnik czasowy.",
+      "Regulator temperatury."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_element7.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 195,
+    "text": "Układ połączenia jakiego rodzaju łączników przedstawiono na rysunku?",
+    "answers": [
+      "Świecznikowych.",
+      "Jednobiegunowych.",
+      "Żaluzjowych.",
+      "Schodowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_uklad12.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 196,
+    "text": "W jaki sposób będzie sterowane urządzenie elektryczne za pomocą przekaźnika czasowego, którego przebiegi czasowe przedstawiono na rysunku, jeżeli nastawiono funkcję B?",
+    "answers": [
+      "Załączanie z opóźnieniem – cyklicznie.",
+      "Wyłączanie z opóźnieniem.",
+      "Załączanie z opóźnieniem.",
+      "Wyłączanie z opóźnieniem – cyklicznie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_przebiegi.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 197,
+    "text": "Na rysunku przedstawiono podłączenie miernika do pomiaru rezystancji",
+    "answers": [
+      "izolacji.",
+      "żył przewodów.",
+      "uziomu.",
+      "pętli zwarcia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_pomiar6.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 198,
+    "text": "Na którym rysunku przedstawiono automat schodowy?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_automaty.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 199,
+    "text": "Które urządzenie przedstawiono na rysunku?",
+    "answers": [
+      "Czujnik zaniku i kolejności faz.",
+      "Wyłącznik różnicowoprądowy z członem nadprądowym.",
+      "Ogranicznik przepięć.",
+      "Wyłącznik nadprądowy dwubiegunowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_urzadzenie11.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 200,
+    "text": "Na podstawie rysunku przedstawiającego fragment instalacji elektrycznej określ technikę wykonania instalacji.",
+    "answers": [
+      "Natynkowa prowadzona w rurkach.",
+      "Podtynkowa.",
+      "Wtynkowa.",
+      "Natynkowa na uchwytach."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_instalacja5.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 201,
+    "text": "Do której czynności należy użyć narzędzia przedstawionego na rysunku?",
+    "answers": [
+      "Ściągania izolacji.",
+      "Ucinania przewodów.",
+      "Formowania oczek na przewodzie.",
+      "Zagniatania końcówek tulejowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_narzedzie5.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 202,
+    "text": "Na którym schemacie przedstawiono układ sieci TN-C?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_schematy15.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 203,
+    "text": "Który zestaw narzędzi należy przygotować do przymocowania przewodów na suficie żelbetowym pomieszczenia mieszkalnego za pomocą uchwytów przedstawionych na rysunku?",
+    "answers": [
+      "Młotek, punktak, wiertarkę udarową, wiertła widiowe, wkrętarkę z bitami, obcinaczki boczne.",
+      "Punktak, ołówek, młotowiertarkę, kleszcze płaskie.",
+      "Wiertarkę udarową, wiertła widiowe, obcinaczki boczne.",
+      "Ołówek, młotowiertarkę, wkrętarkę z bitami, kleszcze uniwersalne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_uchwyt.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 204,
+    "text": "Na podstawie oznaczenia barwnego wskazanego na bezpieczniku strzałką określ wielkość prądu znamionowego bezpiecznika.",
+    "answers": [
+      "10 A",
+      "6 A",
+      "16 A",
+      "20 A"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_bezpiecznik.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 205,
+    "text": "Do określenia sztywności sieci zasilającej należy zastosować woltomierz oraz",
+    "answers": [
+      "amperomierz.",
+      "watomierz.",
+      "fazomierz.",
+      "częstościomierz."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 206,
+    "text": "Które z wymienionych urządzeń przedstawiono na rysunku?",
+    "answers": [
+      "Przekaźnik bistabilny.",
+      "Licznik trójfazowy.",
+      "Przekaźnik kontroli stanu izolacji.",
+      "Przekaźnik podnapięciowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_urzadzenie10.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 207,
+    "text": "Jaki rodzaj uziomu zastosowano w instalacji piorunochronnej przedstawionej na rysunku?",
+    "answers": [
+      "Otokowy.",
+      "Pionowy.",
+      "Promieniowy.",
+      "Fundamentowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_instalacja3.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 208,
+    "text": "Które z przedstawionych na rysunkach narzędzi służy do odizolowywania końcówek żył przewodów?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_narzedzia8.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 209,
+    "text": "Który rodzaj źródła światła przedstawiono na rysunku?",
+    "answers": [
+      "Lampę fluorescencyjną.",
+      "Lampę sodową.",
+      "Lampę halogenową.",
+      "Lampę diodową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_zrodlo3.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 210,
+    "text": "Który wtyk należy zastosować w instalacji o napięciu znamionowym 110 V?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_wtyki.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 211,
+    "text": "Którego pomiaru należy dokonać w celu sprawdzenia skuteczności ochrony przeciwporażeniowej przy uszkodzeniu dla odbiornika I klasy ochronności pracującego w sieci TT?",
+    "answers": [
+      "Ciągłości przewodu neutralnego.",
+      "Ciągłości przewodów fazowych.",
+      "Rezystancji izolacji przewodu uziemiającego.",
+      "Rezystancji uziomu, do którego dołączona jest obudowa odbiornika."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 212,
+    "text": "Którego pomiaru nie można przeprowadzić miernikiem przedstawionym na rysunku?",
+    "answers": [
+      "Prądu zadziałania wyłącznika różnicowoprądowego.",
+      "Impedancji pętli zwarcia.",
+      "Rezystancji izolacji.",
+      "Natężenia prądu odbiornika."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_miernik2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 213,
+    "text": "Na którym rysunku przedstawiono pomiar rezystancji izolacji między przewodami czynnymi w układzie TN-C?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_pomiary2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 214,
+    "text": "Na którym rysunku przedstawiono symbol graficzny pralki elektrycznej?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_symbole13.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 215,
+    "text": "Schemat podłączenia którego urządzenia przedstawiono na rysunku?",
+    "answers": [
+      "Automatu schodowego.",
+      "Czujki ruchu.",
+      "Przekaźnika bistabilnego.",
+      "Automatu zmierzchowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_schemat40.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 216,
+    "text": "Na którym rysunku przedstawiono trzonek GU-10?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_trzonki.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 217,
+    "text": "Który zestaw narzędzi jest najbardziej odpowiedni do wykonania montażu przewodów DY w puszkach elektrycznych podtynkowych przy użyciu złączki samozaciskowej?",
+    "answers": [
+      "Obcinaczki boczne, komplet wkrętaków.",
+      "Nóż monterski, komplet wkrętaków.",
+      "Obcinaczki boczne, kleszcze do zdejmowania izolacji.",
+      "Nóż monterski, kleszcze do zdejmowania izolacji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 218,
+    "text": "Przyrządy przedstawione na rysunku służą do",
+    "answers": [
+      "pomiaru parametrów oświetlenia.",
+      "lokalizacji przewodów w instalacji elektrycznej.",
+      "pomiaru prędkości obrotowej wału silnika.",
+      "bezdotykowego pomiaru rezystancji przewodów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_przyrzady6.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 219,
+    "text": "Której końcówki należy użyć do demontażu wyłącznika nadprądowego z szyny TH 35?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_koncowki3.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 220,
+    "text": "Na podstawie tabeli określ w jaki sposób i przewodem o jakim przekroju powinna być wykonana trójfazowa wewnętrzna linia zasilająca (WLZ), której obciążalność prądowa długotrwała wynosi 230 A.",
+    "answers": [
+      "Sposób C i 95 mm2",
+      "Sposób E i 95 mm2",
+      "Sposób E i 70 mm2",
+      "Sposób C i 70 mm2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_tabela23.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 221,
+    "text": "W układzie, którego schemat przedstawiono na rysunku, mierzona jest",
+    "answers": [
+      "moc czynna z pomocą przekładnika napięciowego.",
+      "energia czynna z pomocą przekładnika prądowego.",
+      "moc czynna z pomocą przekładnika prądowego.",
+      "energia czynna z pomocą przekładnika napięciowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_schemat43.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 222,
+    "text": "Na rysunku przedstawiono schemat układu pomiarowego do wykrycia nieciągłości żył w przewodzie pięciożyłowym o dużej długości zasilającym odbiornik trójfazowy. Na podstawie wyników pomiarów zamieszczonych w tabeli określ ciągłość żył tego przewodu.",
+    "answers": [
+      "Nieciągłość występuje tylko w żyle ochronnej.",
+      "Ciągłość występuje we wszystkich żyłach.",
+      "Ciągłość występuje w dwóch żyłach fazowych.",
+      "Nieciągłość występuje we wszystkich żyłach."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_schemat42.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 223,
+    "text": "Jakie oznaczenie posiada przewód przedstawiony na rysunku?",
+    "answers": [
+      "OW 3×2,5 mm2",
+      "OWY 3×2,5 mm2",
+      "YDYpżo 3×2,5 mm2",
+      "YLYżo 3×2,5 mm2"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_przewod12.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 224,
+    "text": "Na którym rysunku przedstawiono przewód elektroenergetyczny stosowany do wykonywania napowietrznych przyłączy budynków mieszkalnych?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_przewody8.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 225,
+    "text": "Na rysunku przedstawiono schemat układu sterowania oświetleniem oraz diagram działania zastosowanego przekaźnika. Który opis działania układu jest prawidłowy?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_schemat39.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 226,
+    "text": "Który zestaw narzędzi jest niezbędny do wytrasowania drogi ułożenia przewodów natynkowej instalacji elektrycznej?",
+    "answers": [
+      "Ołówek traserski, poziomnica, przymiar taśmowy.",
+      "Ołówek traserski, przymiar kreskowy, rysik.",
+      "Kątownik, młotek, punktak.",
+      "Kątownik, ołówek traserski, sznurek traserski."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 227,
+    "text": "W którym z wymienionych przypadków instalacja elektryczna w pomieszczeniu biurowym musi być poddawana naprawie?",
+    "answers": [
+      "Gdy wartości jej parametrów nie mieszczą się w granicach określonych w instrukcji eksploatacji.",
+      "Gdy zmierzone natężenie oświetlenia w miejscu pracy jest niższe od wymaganego.",
+      "Przy wymianie zwykłych żarówek na energooszczędne.",
+      "Podczas przeprowadzania prac konserwacyjnych w pomieszczeniu, np. malowanie ścian."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 228,
+    "text": "Którego z przedstawionych przyrządów pomiarowych należy użyć w celu wyznaczenia tras ułożenia przewodów elektrycznych w instalacjach podtynkowych?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_przyrzady5.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 229,
+    "text": "Przedstawiony na rysunku przełącznik funkcji przyrządu do pomiaru parametrów instalacji elektrycznych ustawiono na pomiar",
+    "answers": [
+      "ciągłości przewodów.",
+      "rezystancji uziemienia.",
+      "rezystancji izolacji.",
+      "impedancji pętli zwarcia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_przelacznik2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 230,
+    "text": "Którym symbolem graficznym oznacza się na planie instalacji elektrycznej sposób prowadzenia przewodów przedstawiony na zdjęciu?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_instalacja4.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 231,
+    "text": "Oblicz, jaki jest całkowity względny błąd pomiaru rezystancji izolacji przewodów, jeżeli miernik wskazał wynik 200,0 MΩ, a jego niedokładność wynosi ± (3% w.w. + 8 cyfr)",
+    "answers": [
+      "6,8%",
+      "3,0%",
+      "8,3%",
+      "3,4%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 232,
+    "text": "Elektronarzędzie przedstawione na rysunku jest stosowane przy wykonywaniu instalacji elektrycznej",
+    "answers": [
+      "podtynkowej.",
+      "natynkowej.",
+      "prefabrykowanej.",
+      "prowadzonej w tynku."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_elektronarzedzie.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 233,
+    "text": "Które oznaczenie literowe ma przewód o przekroju przedstawionym na rysunku?",
+    "answers": [
+      "DY",
+      "YDY",
+      "YDYp",
+      "LgY"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_przewod11.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 234,
+    "text": "Które aparaty oznaczono na schemacie cyframi 1 i 2?",
+    "answers": [
+      "1 – wyłącznik różnicowoprądowy; 2 – odłącznik instalacyjny.",
+      "1 – wyłącznik nadprądowy; 2 – odłącznik instalacyjny.",
+      "1 – wyłącznik różnicowoprądowy; 2 – wyłącznik nadprądowy.",
+      "1 – wyłącznik nadprądowy; 2 – wyłącznik nadprądowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_schemat37.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 235,
+    "text": "Jaką minimalną wartość napięcia znamionowego izolacji powinien mieć przewód zastosowany do montażu instalacji trójfazowej 230/400 V, prowadzonej w rurkach stalowych?",
+    "answers": [
+      "300/300 V",
+      "450/750 V",
+      "300/500 V",
+      "600/1000 V"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 236,
+    "text": "Które urządzenie stosowane w instalacjach elektrycznych przedstawiono na rysunku?",
+    "answers": [
+      "Odłącznik bezpiecznikowy.",
+      "Wyłącznik nadmiarowoprądowy.",
+      "Wyłącznik przepięciowy.",
+      "Rozłącznik bezpiecznikowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_urzadzenie9.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 237,
+    "text": "Która zależność musi być spełniona podczas wymiany uszkodzonych przewodów instalacji elektrycznej i ewentualnej zmiany ich zabezpieczeń nadprądowych?",
+    "answers": [
+      "IB ≤ IZ ≤ IN",
+      "IN ≤ IB ≤ IZ",
+      "IB ≤ IN ≤ IZ",
+      "IZ ≤ IN ≤ IB"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_ramka3.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 238,
+    "text": "Która z wymienionych zasad nie musi być zawsze przestrzegana w czasie napraw i konserwacji instalacji elektrycznych o napięciu znamionowym do 1 kV?",
+    "answers": [
+      "Wszelkie prace remontowe należy wykonywać po wyłączeniu napięcia.",
+      "Bez wyłączenia napięcia wolno wykonywać pomiary i próby pod warunkiem zastosowania odpowiednich środków zabezpieczających.",
+      "Wszelkie prace można wykonywać tylko w obecności osoby asekurującej.",
+      "Pod napięciem można wymieniać tylko bezpieczniki lub żarówki (świetlówki) o nieuszkodzonej oprawie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 239,
+    "text": "Który z symboli przedstawionych na rysunkach jest stosowany na schematach montażowych?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_symbole12.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 240,
+    "text": "Jaki rodzaj złączki stosowanej w instalacjach elektrycznych przedstawiono na rysunku?",
+    "answers": [
+      "Samozaciskową.",
+      "Gwintową.",
+      "Skrętną.",
+      "Śrubową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_zlaczka4.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 241,
+    "text": "Który z wymienionych układów należy zamontować w instalacji elektrycznej zasilającej ważne odbiory niskiego napięcia, aby w przypadku zaniku zasilania nastąpiło automatyczne przełączenie pomiędzy źródłem podstawowym a rezerwowym źródłem zasilania?",
+    "answers": [
+      "SZR",
+      "SCO",
+      "SPZ",
+      "SRN"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 242,
+    "text": "Przedstawiony na rysunku zrzut ekranu miernika zawiera między innymi wyświetlaną w trakcie pomiaru wartość",
+    "answers": [
+      "spodziewanego prądu zwarcia.",
+      "prądu zadziałania zabezpieczenia.",
+      "maksymalnego prądu obciążenia.",
+      "znamionowego prądu instalacji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_zrzut2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 243,
+    "text": "W rozdzielnicy zasilającej instalację niskiego napięcia w budynku nastąpiło zadziałanie wyłącznika różnicowoprądowego przy braku zadziałania pozostałych zabezpieczeń. Określ przyczynę.",
+    "answers": [
+      "Przeciążenie obwodu.",
+      "Uszkodzenie wyłącznika nadprądowego w rozdzielnicy.",
+      "Zwarcie rezystancyjne do obudowy odbiornika.",
+      "Przepalenie lub uszkodzenie przewodu neutralnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 244,
+    "text": "Jaka jest krotność prądu znamionowego zadziałania wyzwalaczy zwarciowych w wyłącznikach instalacyjnych nadprądowych typu Z?",
+    "answers": [
+      "2 do 3",
+      "3 do 5",
+      "10 do 20",
+      "5 do 10"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 245,
+    "text": "Na którym rysunku przedstawiono świetlówkę kompaktową?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_swietlowki2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 246,
+    "text": "Którą funkcję pomiarową powinien posiadać miernik, aby można było wyznaczyć impedancję pętli zwarcia w układzie przedstawionym na rysunku?",
+    "answers": [
+      "ZL-PE RCD",
+      "ZL-PE",
+      "ZL-L",
+      "ZL-N"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_uklad10.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 247,
+    "text": "Który z przedstawionych wyłączników różnicowoprądowych umożliwia monitorowanie prądu upływu w instalacji elektrycznej?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_wylaczniki4.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 248,
+    "text": "Którego z przedstawionych narzędzi należy użyć przy wymianie uszkodzonej wkładki bezpiecznika mocy typu NH?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_narzedzia7.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 249,
+    "text": "Które prace, związane z konserwacją instalacji elektrycznych, powinny być zgodnie z przepisami BHP wykonywane przez co najmniej dwuosobowy zespół?",
+    "answers": [
+      "Wykonywane przy urządzeniach elektroenergetycznych wyłączonych spod napięcia i uziemionych w widoczny sposób.",
+      "Przeprowadzane stale przez upoważnione osoby w ustalonych miejscach podczas prób i pomiarów urządzeń znajdujących się pod napięciem.",
+      "Przeprowadzane w wykopach o głębokości do 2 m podczas modernizacji lub konserwacji linii kablowych.",
+      "Wykonywane na wysokości powyżej 2 m w przypadkach, w których wymagane jest zastosowanie środków ochrony indywidualnej przed upadkiem z wysokości."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 250,
+    "text": "Do naprawy uszkodzonego podczas prac ziemnych kabla przyłączeniowego, ułożonego bez zapasu, należy użyć",
+    "answers": [
+      "mufy rozgałęźnej i odcinka kabla.",
+      "dwóch muf kablowych i odcinka kabla.",
+      "odcinka kabla i zgrzewarki.",
+      "odcinka kabla zakończonego głowicami."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 251,
+    "text": "Która z wymienionych czynności wchodzi w zakres prac konserwacyjnych instalacji elektrycznych mieszkań i budynków użyteczności publicznej?",
+    "answers": [
+      "Montaż nowych wypustów oświetleniowych.",
+      "Wymiana uszkodzonych gniazd wtyczkowych.",
+      "Wymiana odbiorników energii elektrycznej na nowe.",
+      "Zmiana miejsc zamontowania opraw oświetleniowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 252,
+    "text": "Która z wymienionych czynności sprawdza skuteczność ochrony uzupełniającej przed porażeniem prądem elektrycznym?",
+    "answers": [
+      "Pomiar rezystancji izolacji przewodów.",
+      "Badanie wyłącznika różnicowoprądowego.",
+      "Pomiar impedancji pętli zwarciowej.",
+      "Badanie stanu izolacji podłóg."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 253,
+    "text": "Której klasy ogranicznik przepięciowy przedstawiono na rysunku?",
+    "answers": [
+      "Klasy C",
+      "Klasy D",
+      "Klasy A",
+      "Klasy B"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_ogranicznik2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 254,
+    "text": "Które z wymienionych oznaczeń opisuje wyłącznik silnikowy?",
+    "answers": [
+      "FRCdM-63/4/03",
+      "Ex9BP-N 4P C10",
+      "Z-MS-16/3",
+      "SM 25-40"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 255,
+    "text": "Która z wymienionych awarii urządzenia II klasy ochronności stwarza zagrożenie porażenia prądem?",
+    "answers": [
+      "Uszkodzenie przewodu ochronnego PE.",
+      "Przerwa w uzwojeniach silnika zainstalowanego w urządzeniu.",
+      "Uszkodzenie izolacji przewodu zasilającego urządzenie.",
+      "Przepalenie bezpiecznika wewnątrz urządzenia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 256,
+    "text": "Ile wynosi wartość impedancji pętli zwarcia wyznaczonej w układzie pomiarowym przedstawionym na rysunku, jeśli przy otwartym wyłączniku W woltomierz wskazywał napięcie 228 V, a przy zamkniętym wyłączniku W woltomierz wskazywał 218 V, a amperomierz wskazał prąd 4 A?",
+    "answers": [
+      "2,50 Ω",
+      "2,75 Ω",
+      "1,25 Ω",
+      "1,50 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_uklad11.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 257,
+    "text": "Na którym rysunku przedstawiono zgodne ze schematem połączenie układu sterowania oświetleniem?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_schemat38.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 258,
+    "text": "Który z wymienionych czynników ma wpływ na wymaganą częstotliwość okresowych kontroli instalacji elektrycznej?",
+    "answers": [
+      "Sposób montażu instalacji.",
+      "Kształt przestrzenny budynku.",
+      "Warunki zewnętrzne, na jakie jest narażona instalacja.",
+      "Liczba odbiorników zasilanych z instalacji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 259,
+    "text": "Na którym rysunku przedstawiono oprawę oświetleniową rastrową?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_oprawy6.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 260,
+    "text": "Który z przedstawionych wyłączników nie zapewni skutecznej ochrony przeciwporażeniowej w obwodzie zasilanym z sieci TN-S 230/400 V, w którym zmierzona wartość impedancji zwarcia L-PE wynosi 1 Ω?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_wylaczniki5.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 261,
+    "text": "Pomiar ciągłości elektrycznej przewodów ochronnych w połączeniach wyrównawczych głównych i dodatkowych oraz przewodów czynnych w przypadku pierścieniowych obwodów odbiorczych powinien być wykonany prądem o wartości co najmniej",
+    "answers": [
+      "100 mA",
+      "200 mA",
+      "150 mA",
+      "500 mA"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 262,
+    "text": "Którego miernika należy użyć, aby zmierzyć moc bierną w układzie?",
+    "answers": [
+      "Waromierza.",
+      "Watomierza.",
+      "Reflektometru.",
+      "Woltomierza."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 263,
+    "text": "W układzie przedstawionym na rysunku łącznik nie powoduje wyłączenia żarówki. W celu zdiagnozowania usterki wykonano pomiary, których wyniki zapisano w tabeli.",
+    "answers": [
+      "niepewne zamocowanie puszki rozgałęźnej do podłoża.",
+      "zwarcie międzyprzewodowe między punktami 5 – 6.",
+      "uszkodzenie przewodu między punktami 2 – 3.",
+      "przerwa w przewodzie neutralnym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_uklad9.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 264,
+    "text": "Które z wymienionych oznaczeń i jaką wartość najmniejszego prądu znamionowego powinna mieć wkładka topikowa do zabezpieczenia przewodów przed skutkami zwarć i przeciążeń w obwodzie jednofazowego bojlera elektrycznego o danych znamionowych: PN = 3 kW, UN = 230 V?",
+    "answers": [
+      "aM 16 A",
+      "gG 20 A",
+      "gG 16 A",
+      "aM 20 A"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 265,
+    "text": "Którą z funkcji umożliwia układ zasilania silnika elektrycznego przedstawiony na schemacie?",
+    "answers": [
+      "Pracę ze zmiennym kierunkiem obrotów.",
+      "Rozruch za pomocą rozrusznika rezystorowego.",
+      "Przełączanie uzwojeń z gwiazdy na trójkąt.",
+      "Hamowanie dynamiczne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_uklad3.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 266,
+    "text": "Jaką największą wartość może mieć impedancja pętli zwarcia w trójfazowym obwodzie elektrycznym o napięciu znamionowym 230/400 V, aby skuteczna była ochrona przeciwporażeniowa przy uszkodzeniu izolacji, jeśli wiadomo, że wyłączenie zasilania tego obwodu ma zapewnić instalacyjny wyłącznik nadprądowy B10?",
+    "answers": [
+      "8,0 Ω",
+      "7,7 Ω",
+      "2,3 Ω",
+      "4,6 Ω"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 267,
+    "text": "Który rodzaj wirującej maszyny elektrycznej przedstawiono na ilustracji?",
+    "answers": [
+      "Indukcyjną pierścieniową.",
+      "Synchroniczną.",
+      "Komutatorową prądu przemiennego.",
+      "Indukcyjną klatkową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_maszyna.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 268,
+    "text": "Na której ilustracji przedstawiono symbol graficzny przewodu ochronnego?",
+    "answers": [
+      "Na ilustracji 2.",
+      "Na ilustracji 1.",
+      "Na ilustracji 3.",
+      "Na ilustracji 4."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_symbole18.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 269,
+    "text": "Który z wymienionych parametrów można zmierzyć przedstawionym przyrządem?",
+    "answers": [
+      "Rezystancję izolacji.",
+      "Prąd upływu.",
+      "Impedancję pętli zwarcia.",
+      "Chwilową moc obciążenia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_przyrzad9.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 270,
+    "text": "Który element wyposażenia rozdzielnicy przedstawiono na ilustracji?",
+    "answers": [
+      "Przekaźnik czasowy.",
+      "Czujnik kolejności faz.",
+      "Lampkę sygnalizacyjną trójfazową.",
+      "Regulator temperatury."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_element7.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 271,
+    "text": "Który z wymienionych zestyków pomocniczych układu przedstawionego na schemacie uległ uszkodzeniu, jeśli nie da się załączyć stycznika Q2?",
+    "answers": [
+      "NC stycznika Q1",
+      "NO stycznika Q2",
+      "NO stycznika Q1",
+      "NC stycznika Q2"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_schemat10.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 272,
+    "text": "Którą funkcję pełni uzwojenie pomocnicze w silniku prądu stałego?",
+    "answers": [
+      "Zmniejsza rezystancję obwodu twornika.",
+      "Eliminuje niekorzystne zjawiska spowodowane oddziaływaniem twornika.",
+      "Wytwarza napięcie remanentu.",
+      "Zapobiega rozbieganiu się silnika przy spadku obciążenia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 273,
+    "text": "Który z wymienionych materiałów posiada najwyższą przewodność magnetyczną?",
+    "answers": [
+      "Aluminium.",
+      "Stal.",
+      "Miedź.",
+      "Brąz."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 274,
+    "text": "Ile powinna wynosić maksymalna wartość nastawy wyłącznika silnikowego zabezpieczającego trójfazowy silnik indukcyjny klatkowy o wartości prądu znamionowego równej 48,7 A, aby zabezpieczyć go przed przeciążeniem z zachowaniem możliwości znamionowego obciążenia momentem hamującym?",
+    "answers": [
+      "51,1 A",
+      "53,6 A",
+      "44,3 A",
+      "46,4 A"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 275,
+    "text": "Na podstawie wyników pomiarów rezystancji w przewodzie elektrycznym przedstawionym na ilustracji można stwierdzić, że żyły",
+    "answers": [
+      "L1 i L2 są zwarte.",
+      "N i PE są zwarte oraz L3 jest przerwana.",
+      "L1 i L2 są przerwane.",
+      "N i L3 są zwarte oraz PE jest przerwana."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_pomiary4.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 276,
+    "text": "Przygotowując się do wymiany uszkodzonego gniazda trójfazowego w instalacji elektrycznej, po wyłączeniu napięcia w obwodzie tego gniazda należy przede wszystkim",
+    "answers": [
+      "oznaczyć miejsce pracy.",
+      "zabezpieczyć obwód przed przypadkowym załączeniem napięcia.",
+      "zgłosić dostawcy energii zamiar naprawy.",
+      "rozłożyć dywanik elektroizolacyjny w miejscu pracy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 277,
+    "text": "Korzystając z podanego wzoru i tabeli wyznacz wartość rezystancji izolacji uzwojeń silnika w temperaturze 20°C, jeżeli rezystancja izolacji uzwojeń tego silnika zmierzona w temperaturze 23°C wyniosła 8,1 MΩ.",
+    "answers": [
+      "7,04 MΩ",
+      "9,32 MΩ",
+      "7,36 MΩ",
+      "8,91 MΩ"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_tabela31.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 278,
+    "text": "Którego z przedstawionych narzędzi należy użyć do ściągania łożysk z wału silnika?",
+    "answers": [
+      "Narzędzia 4.",
+      "Narzędzia 2.",
+      "Narzędzia 1.",
+      "Narzędzia 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_narzedzia11.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 279,
+    "text": "Który z wymienionych środków zalicza się do uzupełniającej ochrony przeciwporażeniowej?",
+    "answers": [
+      "Uniedostępnianie (umieszczenie poza zasięgiem ręki).",
+      "Dodatkowe miejscowe wyrównawcze połączenia ochronne.",
+      "Samoczynne wyłączenie zasilania.",
+      "Bardzo niskie napięcie ze źródła bezpiecznego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 280,
+    "text": "W której z wymienionych sytuacji poślizg silnika indukcyjnego będzie równy 1?",
+    "answers": [
+      "Silnik pozostanie na biegu jałowym.",
+      "Silnik zasilony zostanie przeciwprądem.",
+      "Wirnik silnika zostanie dopędzony ponad wartość prędkości synchronicznej.",
+      "Podczas zasilania silnika jego wirnik będzie nieruchomy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 281,
+    "text": "Kierunek obrotów wirnika silnika elektrycznego określa się, patrząc na jego wał od strony",
+    "answers": [
+      "tabliczki znamionowej.",
+      "wentylatora.",
+      "czopu.",
+      "łbów szpilek."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 282,
+    "text": "Do której z wymienionych grup urządzeń elektrycznych zalicza się przekładniki pomiarowe?",
+    "answers": [
+      "Do prądnic tachometrycznych.",
+      "Do transformatorów.",
+      "Do indukcyjnych sprzęgieł dwukierunkowych.",
+      "Do wzmacniaczy maszynowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 283,
+    "text": "Wskaż symbol graficzny monostabilnego przycisku z zestykiem NC.",
+    "answers": [
+      "Symbol 4.",
+      "Symbol 3.",
+      "Symbol 2.",
+      "Symbol 1."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_symbole20.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 284,
+    "text": "W którym układzie sieciowym występuje bezpiecznik iskiernikowy włączony między punkt neutralny strony wtórnej transformatora zasilającego ten układ, a uziom roboczy?",
+    "answers": [
+      "IT",
+      "TN-C",
+      "TN-S",
+      "TT"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 285,
+    "text": "Do czego przeznaczone są kleszcze przedstawione na ilustracji?",
+    "answers": [
+      "Do formowania oczek na końcach żył jednodrutowych.",
+      "Do montażu zacisków zakleszczających.",
+      "Do zaciskania końcówek tulejkowych na żyłach wielodrutowych.",
+      "Do zaprasowywania końców przewodów w połączeniach wsuwanych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_kleszcze2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 286,
+    "text": "Którą z wymienionych czynności sprawdzających należy wykonać po montażu trójfazowego silnika elektrycznego?",
+    "answers": [
+      "Pomiar prędkości obrotowej.",
+      "Sprawdzenie kierunku obrotów wału silnika.",
+      "Sprawdzenie symetrii napięcia zasilającego.",
+      "Pomiar temperatury stojana."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 287,
+    "text": "W którym układzie sieciowym występuje przewód oznaczany przedstawionym symbolem graficznym?",
+    "answers": [
+      "TN-C",
+      "IT",
+      "TT",
+      "TN-S"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_symbol2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 288,
+    "text": "Ile klawiszy i ile zacisków posiada klasyczny pojedynczy łącznik świecznikowy?",
+    "answers": [
+      "Dwa klawisze i trzy niezależne zaciski.",
+      "Jeden klawisz i trzy niezależne zaciski.",
+      "Dwa klawisze i cztery niezależne zaciski.",
+      "Jeden klawisz i cztery niezależne zaciski."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 289,
+    "text": "Na ilustracji przedstawiony jest",
+    "answers": [
+      "kabel elektroenergetyczny.",
+      "kabel telekomunikacyjny.",
+      "przewód sterowniczy.",
+      "przewód spawalniczy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_ilustracja.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 290,
+    "text": "Który z wymienionych silników elektrycznych charakteryzuje się najbardziej sztywną charakterystyką mechaniczną n = f(M) w zakresie pracy stabilnej?",
+    "answers": [
+      "Synchroniczny.",
+      "Obcowzbudny prądu stałego.",
+      "Asynchroniczny klatkowy.",
+      "Szeregowy prądu stałego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 291,
+    "text": "Rezystancja uzwojenia silnika elektrycznego zmierzona omomierzem wynosi ∞ Ω. Oznacza to, że uzwojenie silnika",
+    "answers": [
+      "posiada zwarcie międzyzwojowe.",
+      "ma uszkodzoną izolację.",
+      "jest sprawne.",
+      "jest przerwane."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 292,
+    "text": "Którym symbolem oznacza się przewód jednożyłowy z aluminiową żyłą wielodrutową, w izolacji polwinitowej, o przekroju żyły 2,5 mm2?",
+    "answers": [
+      "YDY 2,5 mm2",
+      "ALY 2,5 mm2",
+      "YLY 2,5 mm2",
+      "ADY 2,5 mm2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 293,
+    "text": "Do czego przeznaczone jest urządzenie przedstawione na ilustracji?",
+    "answers": [
+      "Do wyważania wirników.",
+      "Do montażu nabiegunników.",
+      "Do nawijania uzwojeń.",
+      "Do demontażu uzwojeń."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_urzadzenie3.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 294,
+    "text": "Ile wynosi maksymalna dopuszczalna wartość impedancji pętli zwarcia w trójfazowym obwodzie elektrycznym o napięciu znamionowym 230/400 V, aby skuteczna była w nim ochrona przeciwporażeniowa przy uszkodzeniu izolacji, jeśli wyłączenie zasilania tego obwodu ma zapewnić instalacyjny wyłącznik nadprądowy C20?",
+    "answers": [
+      "2,00 Ω",
+      "2,30 Ω",
+      "3,83 Ω",
+      "1,15 Ω"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 295,
+    "text": "W celu wymiany uszkodzonego łącznika instalacyjnego należy kolejno:",
+    "answers": [
+      "załączyć napięcie, sprawdzić ciągłość połączeń, wymontować uszkodzony łącznik.",
+      "wymontować uszkodzony łącznik, odłączyć napięcie, sprawdzić ciągłość połączeń.",
+      "odłączyć napięcie, wymontować uszkodzony łącznik, sprawdzić ciągłość połączeń.",
+      "odłączyć napięcie, sprawdzić brak napięcia, wymontować uszkodzony łącznik."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 296,
+    "text": "Który z wymienionych materiałów wykazuje się największą konduktywnością?",
+    "answers": [
+      "Aluminium.",
+      "Stal.",
+      "Nichrom.",
+      "Miedź."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 297,
+    "text": "W którym układzie sieciowym punkt neutralny transformatora zasilającego sieć nie jest połączony metalicznie z ziemią?",
+    "answers": [
+      "TN-C",
+      "IT",
+      "TT",
+      "TN-S"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 298,
+    "text": "Którym symbolem graficznym należy oznaczyć łącznik świecznikowy na schemacie ideowym instalacji elektrycznej?",
+    "answers": [
+      "Symbolem 3.",
+      "Symbolem 1.",
+      "Symbolem 4.",
+      "Symbolem 2."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_symbole6.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 299,
+    "text": "Narzędzie przedstawione na ilustracji przeznaczone jest",
+    "answers": [
+      "do ściągania izolacji z żył przewodów.",
+      "do zaciskania końcówek oczkowych.",
+      "do docinania przewodów.",
+      "do zaciskania końcówek tulejkowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_narzedzie3.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 300,
+    "text": "Podczas oględzin nowo wykonanej instalacji elektrycznej nie jest wymagane sprawdzenie",
+    "answers": [
+      "doboru zabezpieczeń i aparatury.",
+      "wartości natężenia oświetlenia na stanowiskach pracy.",
+      "rozmieszczenia tablic ostrzegawczych i informacyjnych.",
+      "doboru i oznaczenia przewodów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 301,
+    "text": "Który osprzęt przedstawiono na ilustracji?",
+    "answers": [
+      "Gniazda bezpiecznikowe.",
+      "Mufy przelotowe.",
+      "Złączki skrętne.",
+      "Dławiki izolacyjne."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_osprzet.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 302,
+    "text": "Przed umieszczeniem uzwojenia wsypywanego w żłobkach silnika indukcyjnego należy",
+    "answers": [
+      "wysmarować je lakierem elektroizolacyjnym.",
+      "umieścić w nich kliny zabezpieczające.",
+      "wyłożyć je izolacją żłobkową.",
+      "wysmarować je olejem elektroizolacyjnym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 303,
+    "text": "Którą wstawkę kalibrową należy zastosować do podstawy bezpiecznikowej przeznaczonej dla wkładki topikowej typu D, o oznaczeniu literowym gL i parametrach katalogowych UN = 500 V, IN = 25 A?",
+    "answers": [
+      "Wstawkę 4.",
+      "Wstawkę 1.",
+      "Wstawkę 2.",
+      "Wstawkę 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_wstawki.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 304,
+    "text": "W których z wymienionych rodzajów silników stosuje się wirnik przedstawiony na ilustracji?",
+    "answers": [
+      "Asynchronicznych pierścieniowych.",
+      "Synchronicznych.",
+      "Asynchronicznych klatkowych.",
+      "Uniwersalnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_wirnik.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 305,
+    "text": "Narzędzie przestawione na ilustracji przeznaczone jest do",
+    "answers": [
+      "zdejmowania pierścieni Segera.",
+      "wciskania łożysk.",
+      "profilowania przewodów.",
+      "zaciskania złączek Wago."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_narzedzie2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 306,
+    "text": "Z którym zaciskiem będzie połączony zacisk 41 stycznika K2 według przedstawionego schematu montażowego?",
+    "answers": [
+      "Z zaciskiem 22 stycznika K1",
+      "Z zaciskiem A2 stycznika K1",
+      "Z zaciskiem 4 listwy zaciskowej X1",
+      "Z zaciskiem 3 listwy zaciskowej X1"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_schemat14.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 307,
+    "text": "W której z wymienionych sytuacji poślizg silnika indukcyjnego będzie równy 100%?",
+    "answers": [
+      "Silnik pozostanie na biegu jałowym.",
+      "Silnik zasilony zostanie przeciwprądem.",
+      "Wirnik silnika zostanie dopędzony powyżej prędkości synchronicznej.",
+      "Podczas zasilania silnika jego wirnik będzie nieruchomy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 308,
+    "text": "Do realizacji układu przedstawionego na schemacie należy zastosować stycznik Q19 z następującą liczbą i rodzajem zestyków:",
+    "answers": [
+      "3NO + 2NO + 1NC",
+      "3NC + 2NO + 1NC",
+      "3NC + 1NO + 2NC",
+      "3NO + 1NO + 2NC"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_uklad4.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 309,
+    "text": "Który z wymienionych łączników instalacyjnych ma dwa klawisze i trzy zaciski przyłączeniowe?",
+    "answers": [
+      "Łącznik krzyżowy.",
+      "Łącznik schodowy podwójny.",
+      "Łącznik schodowy pojedynczy.",
+      "Łącznik świecznikowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 310,
+    "text": "Ile wynosi znamionowa sprawność silnika jednofazowego o danych: PN = 3,7 kW (moc mechaniczna na wale), UN = 230 V, IN = 21,4 A, cos φN = 0,95?",
+    "answers": [
+      "0,79",
+      "0,95",
+      "0,75",
+      "0,71"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 311,
+    "text": "Przedstawiona na ilustracji wstawka kalibrowa bezpiecznika przeznaczona jest do instalacji o napięciu znamionowym",
+    "answers": [
+      "co najmniej 500 V i wkładek topikowych o prądzie znamionowym co najmniej 63 A",
+      "nie wyższym niż 500 V i wkładek topikowych o prądzie znamionowym co najmniej 63 A",
+      "nie wyższym niż 500 V i wkładek topikowych o prądzie znamionowym nie przekraczającym 63 A",
+      "co najmniej 500 V i wkładek topikowych o prądzie znamionowym nie przekraczającym 63 A"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_wstawka2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 312,
+    "text": "Na której ilustracji przedstawiono przewód przeznaczony do wykonania trójfazowego przyłącza ziemnego do budynku jednorodzinnego w sieci TN-S?",
+    "answers": [
+      "Na ilustracji 2.",
+      "Na ilustracji 4.",
+      "Na ilustracji 3.",
+      "Na ilustracji 1."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_przewody9.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 313,
+    "text": "Który rodzaj układu sieciowego przedstawiono na schemacie?",
+    "answers": [
+      "IT",
+      "TN-S",
+      "TT",
+      "TN-C"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_uklad21.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 314,
+    "text": "Przed umieszczeniem uzwojenia wsypywanego stojana silnika indukcyjnego jego żłobki należy",
+    "answers": [
+      "wysmarować lakierem elektroizolacyjnym.",
+      "zabezpieczyć klinami zabezpieczającymi.",
+      "wysmarować olejem elektroizolacyjnym.",
+      "wyłożyć izolacją żłobkową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 315,
+    "text": "Którego z narzędzi należy użyć do wkręcenia przedstawionego elementu w nagwintowany otwór?",
+    "answers": [
+      "Klucza ampulowego.",
+      "Klucza nasadowego.",
+      "Wkrętaka krzyżowego.",
+      "Wkrętaka typu torks."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_element9.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 316,
+    "text": "Który przewód oznacza się symbolem literowym PE?",
+    "answers": [
+      "Ochronno-neutralny.",
+      "Ochronny.",
+      "Fazowy.",
+      "Neutralny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 317,
+    "text": "Który z przedstawionych zestawów wyłączników nadprądowych należy dobrać do zabezpieczenia obwodów pralki automatycznej i piekarnika w przedstawionej instalacji elektrycznej?",
+    "answers": [
+      "Zestaw 1.",
+      "Zestaw 4.",
+      "Zestaw 2.",
+      "Zestaw 3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_instalacja9.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 318,
+    "text": "Która z wymienionych przyczyn odpowiada za zmniejszenie się prędkości obrotowej trójfazowego silnika pierścieniowego podczas jego pracy?",
+    "answers": [
+      "Wzrost napięcia zasilania.",
+      "Spadek obciążenia silnika.",
+      "Przerwa w zasilaniu jednej fazy.",
+      "Zwarcie pierścieni ślizgowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 319,
+    "text": "Które z oznaczeń posiada trzonek źródła światła przedstawiony na ilustracji?",
+    "answers": [
+      "GU10",
+      "MR16",
+      "G9",
+      "E27"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_trzonek.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 320,
+    "text": "Na której ilustracji przedstawiono rastrową oprawę oświetleniową?",
+    "answers": [
+      "Na ilustracji 4.",
+      "Na ilustracji 2.",
+      "Na ilustracji 1.",
+      "Na ilustracji 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_oprawy7.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 321,
+    "text": "Ile wynosi prędkość obrotowa pola magnetycznego stojana silnika indukcyjnego o danych: fN = 50 Hz; p = 4?",
+    "answers": [
+      "750 obr./min",
+      "1 500 obr./min",
+      "720 obr./min",
+      "1 450 obr./min"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 322,
+    "text": "Którego silnika elektrycznego dotyczy przedstawiony schemat?",
+    "answers": [
+      "Synchronizowanego.",
+      "Bocznikowego prądu stałego.",
+      "Szeregowego prądu stałego.",
+      "Synchronicznego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_schemat72.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 323,
+    "text": "Które z przedstawionych narzędzi przeznaczone jest do zdejmowania izolacji z żył przewodów elektrycznych?",
+    "answers": [
+      "Narzędzie 2.",
+      "Narzędzie 4.",
+      "Narzędzie 1.",
+      "Narzędzie 3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_narzedzia13.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 324,
+    "text": "Który element oznaczony jest na przedstawionym schemacie symbolem literowym dT?",
+    "answers": [
+      "Bezpiecznik.",
+      "Przekaźnik termobimetalowy.",
+      "Wyłącznik silnikowy.",
+      "Rozłącznik."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_schemat74.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 325,
+    "text": "Która z wymienionych przyczyn może spowodować samoczynne wyłączenie wyłącznika nadprądowego obwodu gniazd wtyczkowych kuchni w przedstawionej instalacji?",
+    "answers": [
+      "Zwarcie przewodu ochronnego z przewodem neutralnym.",
+      "Przerwa w przewodzie uziemiającym instalację.",
+      "Włączenie odbiornika drugiej klasy ochronności.",
+      "Jednoczesne podłączenie odbiorników o zbyt dużej mocy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_instalacja7.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 326,
+    "text": "Wystąpienie prądu doziemienia o wartości 2,5 A w fazie L3 obwodu jednofazowych gniazd wtyczkowych przedstawionej instalacji spowoduje zadziałanie wyłącznika oznaczonego symbolem",
+    "answers": [
+      "P301 40A",
+      "S304 C25",
+      "P301 25A",
+      "S301 B16"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_instalacja8.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 327,
+    "text": "Które z parametrów są podane na przedstawionym urządzeniu?",
+    "answers": [
+      "Napięcie probiercze i prąd zadziałania.",
+      "Napięcie probiercze i prąd znamionowy.",
+      "Napięcie znamionowe i prąd znamionowy.",
+      "Napięcie znamionowe i prąd zadziałania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_urzadzenie16.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 328,
+    "text": "Ile powinno wynosić napięcie pomiarowe miernika podczas pomiaru rezystancji izolacji maszyny elektrycznej o napięciu znamionowym 230/400 V?",
+    "answers": [
+      "500 V",
+      "750 V",
+      "250 V",
+      "1 000 V"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 329,
+    "text": "Które z oznaczeń literowych dotyczy przewodu przeznaczonego do zasilania odbiorników przenośnych?",
+    "answers": [
+      "OMY",
+      "YAKY",
+      "LY",
+      "YDY"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 330,
+    "text": "Który element i z jakiego silnika przedstawiony jest na ilustracji a) i schemacie b)?",
+    "answers": [
+      "Wirnik silnika pierścieniowego.",
+      "Stojan silnika pierścieniowego.",
+      "Wirnik silnika komutatorowego.",
+      "Stojan silnika komutatorowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_elementy2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 331,
+    "text": "Który z łączników instalacyjnych przeznaczony do sterowania oświetleniem w instalacjach mieszkaniowych ma cztery niezależne zaciski przyłączeniowe i jeden klawisz sterujący?",
+    "answers": [
+      "Świecznikowy.",
+      "Schodowy.",
+      "Krzyżowy.",
+      "Jednobiegunowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 332,
+    "text": "Która z wymienionych czynności należy do oględzin wirnika maszyny komutatorowej?",
+    "answers": [
+      "Wyważenie.",
+      "Sprawdzenie braku zwarć międzyzwojowych.",
+      "Sprawdzenie stanu wycinków komutatora.",
+      "Pomiar rezystancji izolacji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 333,
+    "text": "Który element stycznika elektromagnetycznego przedstawiono na ilustracji?",
+    "answers": [
+      "Zworę.",
+      "Komorę gaszeniową.",
+      "Sprężynę zwrotną.",
+      "Cewkę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_element10.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 334,
+    "text": "W którym wierszu tabeli prawidłowo określono funkcje i liczby przewodów jednożyłowych, które należy umieścić w rurach instalacyjnych, aby wykonać poszczególne obwody w układzie sieciowym TN-S, zakończone punktami odbioru o przedstawionych symbolach graficznych?",
+    "answers": [
+      "W wierszu 3.",
+      "W wierszu 2.",
+      "W wierszu 1.",
+      "W wierszu 4."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_tabela33.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 335,
+    "text": "W celu sprawdzenia poprawności działania wyłączników różnicowoprądowych zmierzono ich różnicowe prądy zadziałania i wyniki zamieszczono w przedstawionej tabeli. Który z wyłączników nie spełnia warunku prądu zadziałania IΔ = (0,5÷1,00) IΔN?",
+    "answers": [
+      "P302 25-10-AC",
+      "P202 25-30-AC",
+      "P304 40-100-AC",
+      "P304 40-30-AC"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_tabela34.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 336,
+    "text": "Korzystając z podanego wzoru i tabeli wyznacz wartość rezystancji izolacji uzwojeń silnika w temperaturze 20°C, jeżeli rezystancja izolacji uzwojeń tego silnika zmierzona w temperaturze 23°C wyniosła 6,8 MΩ.",
+    "answers": [
+      "6,18 MΩ",
+      "6,87 MΩ",
+      "6,73 MΩ",
+      "7,48 MΩ"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_tabela36.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 337,
+    "text": "Która z wymienionych przyczyn może powodować nagłe rozbieganie się pracującego silnika szeregowego prądu stałego?",
+    "answers": [
+      "Przerwa w obwodzie wzbudzenia.",
+      "Zerwanie połączenia wału silnika z maszyną napędzaną.",
+      "Uszkodzenie łożysk silnika.",
+      "Zwarcie międzyzwojowe w uzwojeniu twornika."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 338,
+    "text": "Zgodnie z danymi przestawionymi w tabeli dobierz minimalny przekrój przewodu miedzianego jednożyłowego do wykonania jednofazowej natynkowej instalacji o napięciu 230 V, zasilającej piec rezystancyjny o mocy 5 000 W.",
+    "answers": [
+      "1,5 mm2",
+      "6 mm2",
+      "2,5 mm2",
+      "4 mm2"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_tabela35.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 339,
+    "text": "Na ilustracji przedstawiono schemat układu zasilania silnika elektrycznego zawierający",
+    "answers": [
+      "cyklokonwertor.",
+      "czujnik kolejności i zaniku faz.",
+      "przekaźnik termobimetalowy.",
+      "wyłącznik silnikowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_schemat73.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 340,
+    "text": "W rozdzielnicy instalacji mieszkaniowej, wykonanej zgodnie z przedstawionym schematem, należy zainstalować",
+    "answers": [
+      "cztery wyłączniki różnicowoprądowe i pięć jednofazowych wyłączników nadprądowych.",
+      "cztery wyłączniki różnicowoprądowe, cztery trójfazowe wyłączniki nadprądowe i jeden jednofazowy wyłącznik nadprądowy.",
+      "jeden wyłącznik różnicowoprądowy, cztery trójfazowe wyłączniki nadprądowe i cztery jednofazowe wyłączniki nadprądowe.",
+      "pięć wyłączników różnicowoprądowych i cztery jednofazowe wyłączniki nadprądowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_schemat70.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 341,
+    "text": "Którą z funkcji pełni uzwojenie pomocnicze w silniku prądu stałego?",
+    "answers": [
+      "Zmniejsza rezystancję obwodu twornika.",
+      "Wytwarza napięcie remanentu.",
+      "Wytwarza pole magnetyczne wzbudzenia.",
+      "Eliminuje niekorzystne zjawiska oddziaływania wirnika."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 342,
+    "text": "Które wyprowadzenia czujnika kontroli i zaniku faz należy włączyć szeregowo z cewką stycznika zgodnie z przedstawionymi schematami z jego instrukcji fabrycznej?",
+    "answers": [
+      "7 i 8",
+      "1 i 4",
+      "1 i 7",
+      "4 i 8"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_schematy21.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 343,
+    "text": "Zakres oględzin urządzeń napędowych w czasie postoju nie obejmuje sprawdzenia * zdający otrzymuje jeden punkt niezależnie od udzielonej odpowiedzi.",
+    "answers": [
+      "stanu pierścieni ślizgowych i komutatorów.  \nB.  poziomu drgań i działania układu chłodzenia. \nC.  stanu przewodów ochronnych i ich podłączenia. \nD.  ustawienia zabezpieczeń i stanu osłon części wirujących."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 344,
+    "text": "Silnika klatkowego, którego fragment tabliczki znamionowej przedstawiono na ilustracji, nie należy zasilać napięciem międzyfazowym o wysokości",
+    "answers": [
+      "400 V, gdy jego uzwojenia skojarzy się w gwiazdę.",
+      "230 V, gdy jego uzwojenia skojarzy się w trójkąt.",
+      "400 V, gdy jego uzwojenia skojarzy się w trójkąt.",
+      "230 V, gdy jego uzwojenia skojarzy się w gwiazdę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_tabliczka3.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 345,
+    "text": "Z którym zaciskiem będzie połączony zacisk 23 stycznika K2, jeżeli układ elektryczny zostanie zmontowany zgodnie z przedstawionym schematem montażowym?",
+    "answers": [
+      "Z zaciskiem 21 przycisku S1",
+      "Z zaciskiem X1 lampki kontrolnej H1",
+      "Z zaciskiem 1 listwy zaciskowej X1",
+      "Z zaciskiem 2 listwy zaciskowej X1"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_schemat71.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 346,
+    "text": "Który zakres pomiarowy i rodzaj napięcia należy ustawić na woltomierzu, aby można nim zmierzyć napięcie zasilania obwodu gniazd wtyczkowych w budynku mieszkalnym?",
+    "answers": [
+      "500 V AC",
+      "200 V AC",
+      "500 V DC",
+      "200 V DC"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 347,
+    "text": "Który aparat obwodu głównego będzie włączony zgodnie z przedstawionym schematem między wyłącznik różnicowoprądowy a stycznik?",
+    "answers": [
+      "Wyłącznik silnikowy.",
+      "Ochronnik przeciwprzepięciowy.",
+      "Rozłącznik bezpiecznikowy.",
+      "Przekaźnik przeciążeniowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_schemat75.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 348,
+    "text": "Ile wynosi znamionowa sprawność silnika jednofazowego o danych: PN = 3,7 kW (mocy mechanicznej), UN = 230 V, IN = 21,4 A, cos φN = 0,95?",
+    "answers": [
+      "0,95",
+      "0,75",
+      "0,71",
+      "0,79"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 349,
+    "text": "Z którym zaciskiem będzie połączony zacisk 42 stycznika K2 według przedstawionego schematu montażowego?",
+    "answers": [
+      "Z zaciskiem A2 stycznika K1",
+      "Z zaciskiem 3 listwy zaciskowej X1",
+      "Z zaciskiem 4 listwy zaciskowej X1",
+      "Z zaciskiem 22 stycznika K1"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_schemat67.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 350,
+    "text": "W którym układzie sieciowym występuje przewód PEN?",
+    "answers": [
+      "TN-C",
+      "TN-S",
+      "TT",
+      "IT"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 351,
+    "text": "Na ilustracji przedstawiono schemat do pomiaru rezystancji",
+    "answers": [
+      "izolacji pomiędzy zaciskami uzwojeń a korpusem silnika.",
+      "uzwojenia fazowego.",
+      "izolacji pomiędzy zaciskami uzwojeń silnika.",
+      "pętli zwarciowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_schemat69.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 352,
+    "text": "Do której czynności przeznaczone jest narzędzie przedstawione na ilustracji?",
+    "answers": [
+      "Do docinania przewodów.",
+      "Do zaciskania końcówek tulejkowych.",
+      "Do zaciskania końcówek oczkowych.",
+      "Do ściągania izolacji z żył przewodów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_narzedzie11.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 353,
+    "text": "W jaki sposób zwarcie międzyzwojowe w uzwojeniu D1 – D2 wpłynie na pracę silnika, którego schemat przedstawiono na ilustracji?",
+    "answers": [
+      "Zwiększy się wartość prędkości obrotowej wirnika.",
+      "Zmniejszy się wartość prędkości obrotowej wirnika.",
+      "Zwiększy się wartość strumienia magnetycznego wzbudzenia.",
+      "Zmniejszy się wartość prądu pobieranego przez silnik."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_schemat68.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 354,
+    "text": "Którym symbolem oznacza się przewód jednożyłowy z żyłą z drutu aluminiowego, w izolacji polwinitowej, o przekroju żyły 2,5 mm2?",
+    "answers": [
+      "ADY 2,5 mm2",
+      "ALY 2,5 mm2",
+      "YDY 2,5 mm2",
+      "YLY 2,5 mm2"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 355,
+    "text": "Którego klucza należy użyć do przymocowania urządzenia elektrycznego do podłoża przy użyciu wkrętów, jak przedstawiony na ilustracji?",
+    "answers": [
+      "Ampulowego.",
+      "Płaskiego.",
+      "Oczkowego.",
+      "Nasadowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_wkret2.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 356,
+    "text": "Symbol graficzny którego przewodu przedstawiono na ilustracji?",
+    "answers": [
+      "Neutralnego.",
+      "Uziemiającego.",
+      "Fazowego.",
+      "Ochronnego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_symbol22.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 357,
+    "text": "Na podstawie zamieszczonych wyników pomiarów rezystancji w przewodzie elektrycznym przedstawionym na ilustracji można stwierdzić, że żyły",
+    "answers": [
+      "L1 i L2 są przerwane.",
+      "L1 i L2 są zwarte.",
+      "N i PE są zwarte oraz L3 jest przerwana.",
+      "N i L3 są zwarte oraz PE jest przerwana."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_pomiary4.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 358,
+    "text": "Który typ przewodu przedstawiono na ilustracji?",
+    "answers": [
+      "YKY",
+      "YALY",
+      "YLY",
+      "YAKY"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele02/ee5_przewod.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 359,
+    "text": "Do realizacji układu przedstawionego na schemacie należy zastosować stycznik Q21 z następującą liczbą i rodzajem zestyków:",
+    "answers": [
+      "3NO + 2NC + 1NO",
+      "3NC + 2NO + 1NC",
+      "3NC + 2NC + 1NO",
+      "3NO + 2NO + 1NC"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_uklad20.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 360,
+    "text": "Którą rolę pełni w styczniku element wskazany na ilustracji czarną strzałką?",
+    "answers": [
+      "Likwiduje magnetyzm szczątkowy.",
+      "Zmniejsza siłę docisku zwory.",
+      "Likwiduje drgania zwory.",
+      "Zmniejsza napięcie podtrzymania cewki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_stycznik3.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 361,
+    "text": "Izolacja przewodów stosowanych w sieci trójfazowej niskiego napięcia 230/400 V powinna być wykonana na co najmniej",
+    "answers": [
+      "450/750 V",
+      "100/100 V",
+      "300/500 V",
+      "300/300 V"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 362,
+    "text": "Jaką największą wartość może mieć impedancja pętli zwarcia w trójfazowym obwodzie elektrycznym o napięciu znamionowym 230/400 V, aby skuteczna była ochrona przeciwporażeniowa przy uszkodzeniu izolacji, jeśli wiadomo, że wyłączenie zasilania tego obwodu ma zapewnić instalacyjny wyłącznik nadprądowy C10?",
+    "answers": [
+      "2,3 Ω",
+      "8,0 Ω",
+      "7,7 Ω",
+      "4,6 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 363,
+    "text": "Które z przedstawionych narzędzi jest przeznaczone do demontażu przewietrznika z wału silnika elektrycznego?",
+    "answers": [
+      "Narzędzie 4.",
+      "Narzędzie 1.",
+      "Narzędzie 2.",
+      "Narzędzie 3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele02/e8_narzedzia12.png"
+    },
+    "category": "ELE.02"
+  },
+  {
+    "id": 364,
+    "text": "Które czynności i w jakiej kolejności należy wykonać podczas wymiany uszkodzonego łącznika?",
+    "answers": [
+      "Odłączyć napięcie, sprawdzić brak napięcia, wymontować uszkodzony łącznik.",
+      "Odłączyć napięcie, wymontować uszkodzony łącznik, sprawdzić ciągłość połączeń.",
+      "Załączyć napięcie, sprawdzić ciągłość połączeń, wymontować uszkodzony łącznik.",
+      "Wymontować uszkodzony łącznik, odłączyć napięcie, sprawdzić ciągłość połączeń."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  },
+  {
+    "id": 365,
+    "text": "W której z wymienionych sytuacji poślizg silnika indukcyjnego będzie ujemny?",
+    "answers": [
+      "Wirnik silnika zostanie dopędzony powyżej prędkości synchronicznej.",
+      "Silnik pozostanie na biegu jałowym.",
+      "Silnik zasilony zostanie przeciwprądem.",
+      "Podczas zasilania silnika jego wirnik będzie nieruchomy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.02"
+  }
+]
