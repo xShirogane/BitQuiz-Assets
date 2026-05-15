@@ -1,0 +1,4674 @@
+[
+  {
+    "id": 1,
+    "text": "Które elementy posłania i bielizny pościelowej są niezbędne do zaścielenia łóżka małżeńskiego metodą standardową?",
+    "answers": [
+      "Ochraniacz na łóżko, trzy prześcieradła, sześć poszewek na poduszki, poszwa na kołdrę.",
+      "Ochraniacz na łóżko, cztery prześcieradła, cztery poszewki na poduszki, poszwa na kołdrę.",
+      "Ochraniacz na łóżko, dwa prześcieradła, trzy poszewki na poduszki, poszwa na kołdrę.",
+      "Ochraniacz na łóżko, jedno prześcieradło, dwie poszewki na poduszki, poszwa na kołdrę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 2,
+    "text": "W którym z podanych przypadków hotel nie jest odpowiedzialny za mienie gościa?",
+    "answers": [
+      "Poplamienia koszuli gościa przez kelnera.",
+      "Kradzieży portfela gościa, dokonanej przez pokojówkę.",
+      "Uszkodzenia walizki gościa przez bagażowego.",
+      "Awarii laptopa podczas użytkowania przez gościa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 3,
+    "text": "Produkt widoczny na zdjęciu dodaje się do herbaty po",
+    "answers": [
+      "chińsku.",
+      "turecku.",
+      "angielsku.",
+      "rosyjsku."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/tg13_produkt.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 4,
+    "text": "W zamówieniu wyżywienia dla grupy turystów zaznaczono śniadania kontynentalne. Który zestaw śniadaniowy należy przygotować?",
+    "answers": [
+      "Herbata, sok, pieczywo, jaja, wędlina.",
+      "Kawa, sok, bagietka, wędliny.",
+      "Kawa, sok, rogaliki, masło, dżem.",
+      "Herbata, mleko, jajecznica, pomidor."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 5,
+    "text": "Która z wymienionych osób nie jest pracownikiem służby pięter?",
+    "answers": [
+      "Korytarzowa.",
+      "Konserwator.",
+      "Magazynier bielizny.",
+      "Starsza pokojowa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 6,
+    "text": "Ile stołów o wymiarach 80×120 cm należy użyć do ustawienia stołu w kształcie litery „I” o wymiarach 480×720 cm na przyjęcie bankietowe na siedząco?",
+    "answers": [
+      "6",
+      "8",
+      "5",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 7,
+    "text": "Która z podanych usług dodatkowych świadczonych w hotelu jest płatna?",
+    "answers": [
+      "Prasowanie odzieży.",
+      "Udzielanie informacji.",
+      "Zamawianie taksówki.",
+      "Przechowanie bagażu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 8,
+    "text": "W jakiej temperaturze należy przechowywać surowe, świeże mięso?",
+    "answers": [
+      "Od -18ºC do -5ºC",
+      "Od 0ºC do 4ºC",
+      "Od -4ºC do 0ºC",
+      "Od 5ºC do 8ºC"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 9,
+    "text": "Firma farmaceutyczna zamówiła w hotelu usługi rekreacyjne, których wartość brutto wynosi 12 400,00 zł. Jaką kwotę zaliczki powinna wpłacić firma, jeżeli ma ona stanowić 20% zamówienia?",
+    "answers": [
+      "124,00 zł",
+      "1 240,00 zł",
+      "2 480,00 zł",
+      "248,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 10,
+    "text": "Z którego rodzaju ciasta są sporządzane rogaliki śniadaniowe typu croissant?",
+    "answers": [
+      "Kruchego.",
+      "Biszkoptowego.",
+      "Półkruchego.",
+      "Francuskiego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 11,
+    "text": "Hotel otrzymał zlecenie na organizację kameralnego szkolenia, ze szkolnym ustawieniem stołów i krzeseł, dla 50 osób, w terminie od 05 do 06.01.2023 r. Szkolenie rozpocznie się w czwartek o godzinie 14.00, zakończy następnego dnia o godzinie 17.00. Którą salę konferencyjną należy przygotować na zamówione szkolenie?",
+    "answers": [
+      "Błękitną.",
+      "Zieloną.",
+      "Złotą.",
+      "Kongresową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_tabela21.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 12,
+    "text": "Przedstawiony na zdjęciu wózek służy do",
+    "answers": [
+      "transportu warzyw i owoców do magazynu.",
+      "segregacji odpadów żywnościowych.",
+      "przewożenia odpadów żywnościowych.",
+      "przewożenia potraw na salę konsumencką."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/tg13_wozek.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 13,
+    "text": "Luksusowy apartament położony na ostatnim piętrze obiektu noclegowego, posiadający oddzielne wejście i taras to",
+    "answers": [
+      "junior suite.",
+      "duplex.",
+      "penthouse.",
+      "bungalow."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 14,
+    "text": "W jaki sposób należy przechowywać kawę ziarnistą, aby zachować jej właściwości organoleptyczne?",
+    "answers": [
+      "W torebce papierowej, w suchym, zaciemnionym i chłodnym pomieszczeniu.",
+      "W blaszanej puszce w wilgotnym i nasłonecznionym pomieszczeniu.",
+      "W puszce aluminiowej, w suchym, zaciemnionym i chłodnym pomieszczeniu.",
+      "W opakowaniu papierowym laminowanym, w nasłonecznionym pomieszczeniu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 15,
+    "text": "Który zabieg należy przeprowadzić, jeżeli w pokoju stwierdzono obecność owadów?",
+    "answers": [
+      "Deratyzację.",
+      "Dezynsekcję.",
+      "Dezynfekcję.",
+      "Dezodoryzację."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 16,
+    "text": "Codzienna kontrola czystości i estetyki pokoi hotelowych oraz pomieszczeń ogólnodostępnych, sprawności i kompletności sprzętu oraz wyposażenia w pokojach i na korytarzach, to obowiązki",
+    "answers": [
+      "pokojowej.",
+      "korytarzowej.",
+      "inspektora służby pięter.",
+      "menadżera hotelu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 17,
+    "text": "W hotelu odremontowano 60 jednostek mieszkalnych. Który rodzaj sprzątania należy przeprowadzić w tych jednostkach?",
+    "answers": [
+      "Gruntowne.",
+      "Specjalne.",
+      "Okolicznościowe.",
+      "Awaryjne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 18,
+    "text": "Pad to szczotka wykorzystywana w pracy służby pięter do",
+    "answers": [
+      "polerowania posadzki.",
+      "szorowania sedesu.",
+      "wycierania kurzu.",
+      "zamiatania podłogi."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 19,
+    "text": "Na którym zdjęciu przedstawiona jest jednostka mieszkalna typu SGL?",
+    "answers": [
+      "Zdjęcie 2.",
+      "Zdjęcie 1.",
+      "Zdjęcie 4.",
+      "Zdjęcie 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_zdjecia2.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 20,
+    "text": "Który system organizacji działu służby pięter uwzględnia w obsadzie kadrowej zatrudnienie pokojowej lotnej?",
+    "answers": [
+      "Rewirowy.",
+      "Grafikowy.",
+      "Dyspozycyjny.",
+      "Brygadowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 21,
+    "text": "Którą czynność, spośród wymienionych, jako pierwszą powinna wykonać pokojowa zgodnie z procedurą sprzątania pokoju „przy gościu”?",
+    "answers": [
+      "Opróżnić kosz, zebrać brudne naczynia.",
+      "Ustawić czyste naczynia.",
+      "Uzupełnić materiały informacyjne i reklamowe.",
+      "Ułożyć rozrzucone rzeczy gościa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 22,
+    "text": "Do której grupy usług świadczonych w motelu należą depozyt i budzenie?",
+    "answers": [
+      "Fakultatywnych.",
+      "Towarzyszących.",
+      "Uzupełniających.",
+      "Podstawowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 23,
+    "text": "Wskaż prawidłową kolejność czynności wykonywanych przez pokojową, podczas sprzątania łazienki hotelowej.",
+    "answers": [
+      "Dezynfekcja muszli, mycie kabiny prysznicowej, czyszczenie armatury, uzupełnienie ręczników.",
+      "Czyszczenie armatury, uzupełnienie ręczników, dezynfekcja muszli, mycie kabiny prysznicowej.",
+      "Mycie kabiny prysznicowej, czyszczenie armatury, uzupełnienie ręczników, dezynfekcja muszli.",
+      "Uzupełnienie ręczników, dezynfekcja muszli, mycie kabiny prysznicowej, czyszczenie armatury."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 24,
+    "text": "Na etykiecie płynu do prania dywanów, w instrukcji użycia jest zapisane: 3 nakrętki płynu na 3 litry wody. Którą ilość detergentu, zgodnie z instrukcją, należy zastosować na 10 litrów wody?",
+    "answers": [
+      "8 nakrętek.",
+      "12 nakrętek.",
+      "10 nakrętek.",
+      "6 nakrętek."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 25,
+    "text": "Usługa turndown service, realizowana w hotelach luksusowych, polega na",
+    "answers": [
+      "przygotowaniu pokoju do nocnego odpoczynku.",
+      "dostawieniu łóżeczka dla dziecka.",
+      "doposażeniu pokoju w dodatkowy koc.",
+      "wstawieniu do pokoju powitalnej wstawki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 26,
+    "text": "Wskaż zdjęcie, które przedstawia zestaw typowy dla śniadania wiedeńskiego wzmocnionego?",
+    "answers": [
+      "Zdjęcie 2.",
+      "Zdjęcie 4.",
+      "Zdjęcie 1.",
+      "Zdjęcie 3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_zdjecia3.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 27,
+    "text": "Która z zasad nakrywania stołu jest niepoprawna?",
+    "answers": [
+      "Łyżki oraz widelce należy układać grzbietem do dołu.",
+      "Można ułożyć maksymalnie dwie łyżki obok siebie.",
+      "Ostrza noży należy skierować w lewą stronę.",
+      "Ilość sztućców z lewej strony nie powinna przekraczać trzech."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 28,
+    "text": "Panu Krzysztofowi Zielińskiemu skradziono z zajmowanego dwuosobowego pokoju, nowy laptop o wartości 5 000,00 zł. Jaka wysokość odszkodowania przysługuje poszkodowanemu, jeżeli w hotelu obowiązuje cennik przedstawiony w ramce?",
+    "answers": [
+      "5 000,00 zł",
+      "1 200,00 zł",
+      "12 000,00 zł",
+      "6 000,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_cennik6.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 29,
+    "text": "Przyrząd przedstawiony na rysunku służy do czyszczenia",
+    "answers": [
+      "poręczy.",
+      "żaluzji.",
+      "żyrandoli.",
+      "rur."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/tg13_przyrzad.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 30,
+    "text": "Gość zamówił śniadanie do pokoju. W jakiej formie gastronomia zrealizuje to zamówienie?",
+    "answers": [
+      "Serwisu talerzowego.",
+      "Room service’u.",
+      "Serwisu a’la carte.",
+      "Bufetu śniadaniowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 31,
+    "text": "Urządzenie przedstawione na zdjęciu służy do",
+    "answers": [
+      "gotowania.",
+      "smażenia.",
+      "frytowania.",
+      "grillowania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/tg13_urzadzenie3.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 32,
+    "text": "Podawanie wszystkim gościom do stolików, o ustalonej godzinie i po z góry określonej cenie, tego samego zestawu menu śniadaniowego, to serwis",
+    "answers": [
+      "a' la carte.",
+      "table d’hôte.",
+      "bankietowy.",
+      "bufetowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 33,
+    "text": "Nakrycie do serwisu płatków z mlekiem składa się z",
+    "answers": [
+      "talerza zakąskowego, łyżki.",
+      "talerza głębokiego, łyżeczki.",
+      "miseczki na podstawce, łyżki.",
+      "filiżanki, mlecznika i łyżeczki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 34,
+    "text": "Na postawie zamieszczonego art.846 Kodeksu cywilnego, określ na jakiej podstawie hotel może odpowiadać za pozostawiony na parkingu hotelowym samochód gościa.",
+    "answers": [
+      "Warunków korzystania z depozytu.",
+      "Umowy o świadczenie usług hotelarskich.",
+      "Regulaminu hotelowego.",
+      "Umowy przechowania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_ramka9.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 35,
+    "text": "Które urządzenie przedstawiono na rysunku?",
+    "answers": [
+      "Odkurzacz samojezdny.",
+      "Ekstraktor do czyszczenia.",
+      "Myjkę ciśnieniową.",
+      "Szorowarkę jednotarczową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/tg13_urzadzenie.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 36,
+    "text": "Forma podawania śniadania przedstawiona na rysunku to",
+    "answers": [
+      "room service.",
+      "grab&run.",
+      "table d'hôte.",
+      "breakfast buffet."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/tg13_sniadanie.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 37,
+    "text": "Które zdjęcie przedstawia zestaw do krojenia i nakładania sera znajdującego się na bufecie śniadaniowym?",
+    "answers": [
+      "Zdjęcie 3.",
+      "Zdjęcie 1.",
+      "Zdjęcie 4.",
+      "Zdjęcie 2."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_zdjecia4.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 38,
+    "text": "Pracownik działu gastronomii, który odbiera od dostawcy półprodukty potrzebne do tworzenia posiłków musi zachować szczególną uwagę w wytyczonych przez zakład krytycznych punktach kontroli, które mają elementarne znaczenie przy zastosowaniu systemu",
+    "answers": [
+      "GMP",
+      "ISO 9001",
+      "HACCP",
+      "GHP"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 39,
+    "text": "Do hotelu wpłynęło zamówienie na zorganizowanie całodniowej konferencji dla 70 osób z jedną przerwą kawową – zestawem II. Na podstawie zamieszczonego cennika, oblicz koszt wynajęcia sali konferencyjnej wraz z przerwą kawową.",
+    "answers": [
+      "750,00 zł",
+      "860,00 zł",
+      "400,00 zł",
+      "300,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_cennik7.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 40,
+    "text": "Jak nazywa się bielizna stołowa upięta wzdłuż obwodu stołu w sposób przedstawiony na zdjęciu?",
+    "answers": [
+      "Obrus.",
+      "Serweta.",
+      "Molton.",
+      "Skirting."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/tg13_bielizna2.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 41,
+    "text": "Prowadzenie przez dział obsługi konferencji aktualnego grafiku wynajęcia sal pozwala przede wszystkim na",
+    "answers": [
+      "planowanie wyposażenia sal.",
+      "eliminację sytuacji podwójnej rezerwacji.",
+      "prezentację sal zamawiającemu.",
+      "zastosowanie różnych konfiguracji ustawienia stołów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 42,
+    "text": "Który z przedmiotów pozostawionych przez gościa i nieodebranych w ustalonym przez hotel czasie, można komisyjnie zniszczyć?",
+    "answers": [
+      "Poufne dokumenty.",
+      "Szczoteczkę do zębów.",
+      "Męski zegarek.",
+      "Telefon komórkowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 43,
+    "text": "Do którego urządzenia korytarzowa powinna nalać wody, przygotowując je do czyszczenia dywanu metodą szorująco-zbierającą?",
+    "answers": [
+      "Pada.",
+      "Zamiatarki.",
+      "Polerki.",
+      "Ekstraktora."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 44,
+    "text": "Pracownicy domu wczasowego wykonują szereg prac porządkowych, w tym odsuwanie szaf i mebli, pranie firanek i zasłon, omiatanie ścian, trzepanie dywanów i mebli tapicerowanych. Wykonywane czynności zalicza się do sprzątania",
+    "answers": [
+      "specjalnego.",
+      "bieżącego.",
+      "awaryjnego.",
+      "gruntownego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 45,
+    "text": "Firma zewnętrzna złożyła zamówienie na organizację konferencji z obsługą techniczną. Który rodzaj działań podejmie hotel w przeddzień konferencji?",
+    "answers": [
+      "Dokona rejestracji uczestników i powitania gości.",
+      "Wystawi tablice informacyjne, wskazujące drogę do sali konferencyjnej.",
+      "Sprawdzi nagłośnienie pomieszczeń i sprawność mikrofonów.",
+      "Ustawi mini bufet z napojami i przekąskami."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 46,
+    "text": "Urządzenie gastronomiczne przedstawione na rysunku, służy",
+    "answers": [
+      "do podgrzewania zupy.",
+      "do podgrzewania wody.",
+      "jako termos do kawy.",
+      "jako termos do ciepłych dań."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/tg13_urzadzenie4.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 47,
+    "text": "Jak nazywa się bielizna stołowa upięta wzdłuż obwodu stołu w sposób przedstawiony na rysunku?",
+    "answers": [
+      "Molton.",
+      "Serweta.",
+      "Obrus.",
+      "Skirting."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/tg13_bielizna2.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 48,
+    "text": "Wskaż grupę usług bezpłatnie świadczonych w hotelu 5*.",
+    "answers": [
+      "Wezwanie taksówki, usługa pralnicza, obsługa bagażowa, wymiana pościeli.",
+      "Budzenie, informacja turystyczna, parking, room-service.",
+      "Budzenie, usługa pralnicza, parking, udzielanie pierwszej pomocy.",
+      "Wymiana ręczników, budzenie, informacja turystyczna, obsługa bagażowa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 49,
+    "text": "Ile stołów o wymiarach 80 x 120 cm należy użyć do ustawienia stołu w kształcie litery „I” o wymiarach 120 x 480 cm na przyjęcie bankietowe na siedząco?",
+    "answers": [
+      "8 stołów.",
+      "4 stoły.",
+      "6 stołów.",
+      "5 stołów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 50,
+    "text": "W którym naczyniu należy podać mleko do kawy?",
+    "answers": [
+      "W filiżance.",
+      "W kokilce.",
+      "W dzbanuszku.",
+      "W nelsonce."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 51,
+    "text": "Wielopokojowe jednostki mieszkalne przystosowane do obsługi ruchu rodzinnego to jednostki typu",
+    "answers": [
+      "standardowego.",
+      "apartamentowego.",
+      "rezydencyjnego.",
+      "specjalnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 52,
+    "text": "Housekeeping supervisor zajmuje się",
+    "answers": [
+      "prowadzeniem magazynu bielizny brudnej i czystej.",
+      "wykonywaniem prac i czynności zleconych przez inspektora pięter.",
+      "współpracą z działem kadr przy zatrudnianiu pracowników.",
+      "nadzorowaniem pracy działu służby pięter."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 53,
+    "text": "Wieczorna obsługa jednostki mieszkalnej polegająca na przygotowaniu pokoju oraz łóżka do nocnego wypoczynku gościa w obiektach hotelarskich o standardzie 5* to",
+    "answers": [
+      "room service.",
+      "turndown service.",
+      "all inclusive.",
+      "executive lounge."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 54,
+    "text": "Przedstawiony na rysunku wózek służy do",
+    "answers": [
+      "przewożenia odpadów żywnościowych.",
+      "przewożenia potraw na salę konsumencką.",
+      "transportu warzyw i owoców do magazynu.",
+      "segregacji odpadów żywnościowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/tg13_wozek.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 55,
+    "text": "Wskaż metodę ścielenia łóżka, w której jednym prześcieradłem przykrywa się materac, na nim kładzie się drugie prześcieradło, następnie koc, na który wywija się fragment drugiego prześcieradła od strony wezgłowia, robiąc pewnego rodzaju śpiwór.",
+    "answers": [
+      "Niemiecka.",
+      "Francuska.",
+      "Angielska.",
+      "Standardowa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 56,
+    "text": "Gość zamówił śniadanie do pokoju. Gastronomia zrealizuje zamówienie wykorzystując formę",
+    "answers": [
+      "room service’u.",
+      "serwisu a’la carte.",
+      "bufetu śniadaniowego.",
+      "serwisu talerzowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 57,
+    "text": "Wskaż dokument, który nie jest wypełniany przez inspektora pięter.",
+    "answers": [
+      "Grafik pracy pokojowych.",
+      "Druk minibaru.",
+      "Lista kontrolna pokoju.",
+      "Kontrolka wydanych kluczy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 58,
+    "text": "Których naczyń użyje kelner, przygotowując zastawę stołową do podania jajka na miękko?",
+    "answers": [
+      "Głębokiego talerza lub miseczki na podstawce i łyżki.",
+      "Talerzyka płaskiego, małego noża i widelca.",
+      "Wygrzanego talerza zakąskowego, noża i widelca.",
+      "Spodka, kieliszka do jajka i łyżeczki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 59,
+    "text": "Przygotowując jednostkę mieszkalną dla gościa VIP, pokojowa powinna umieścić w niej przede wszystkim",
+    "answers": [
+      "list powitalny podpisany przez dyrektora hotelu.",
+      "ulotki reklamujące prestiżowe usługi hotelowe.",
+      "laptopa z drukarką.",
+      "zestaw gadżetów hotelowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 60,
+    "text": "Śniadanie składające się z gorącego napoju np. kawy lub herbaty, pieczywa jasnego lub ciemnego, bułek, tostów lub rogalików oraz dodatków w postaci masła, dżemu, miodu i konfitur, to śniadanie",
+    "answers": [
+      "amerykańskie.",
+      "francuskie.",
+      "wiedeńskie.",
+      "angielskie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 61,
+    "text": "Która z wymienionych czynności dotyczy wyłącznie sprzątania w.h.s?",
+    "answers": [
+      "Mycie podłogi i odkurzanie.",
+      "Wymiana ręczników.",
+      "Uzupełnianie materiałów reklamowych.",
+      "Wymiana szklanek i kubków jednorazowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 62,
+    "text": "Pokojowa, która zamierza sprzątnąć jednostkę mieszkalną przy pomocy silnego środka chemicznego, ma obowiązek w pierwszej kolejności",
+    "answers": [
+      "poinformować o tym przełożonego.",
+      "sprawdzić czy pomieszczenie jest dobrze wentylowane.",
+      "przygotować roztwór do użycia.",
+      "zapoznać się z instrukcją użycia środka."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 63,
+    "text": "Do której grupy należą usługi kosmetyczne świadczone w hotelach?",
+    "answers": [
+      "Fakultatywnych.",
+      "Podstawowych.",
+      "Towarzyszących.",
+      "Uzupełniających."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 64,
+    "text": "Kelner realizując zamówienie room-service śniadania kontynentalnego dla gościa użyje",
+    "answers": [
+      "wózka serwisowego z blatem.",
+      "windy serwisowej.",
+      "dużej tacy prostokątnej.",
+      "dużego płaskiego talerza."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 65,
+    "text": "Firma zewnętrzna chcąc zorganizować imprezę w hotelu, wysłała zapytanie ofertowe, na podstawie którego hotel w pierwszej kolejności przygotował",
+    "answers": [
+      "kalkulację kosztów imprezy.",
+      "prezentację hotelu i jego usług.",
+      "ofertę na organizację usługi.",
+      "umowę na realizację imprezy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 66,
+    "text": "Który system organizacji pionu służby pięter uwzględnia w obsadzie kadrowej zatrudnienie pokojowej lotnej?",
+    "answers": [
+      "Dyspozycyjny.",
+      "Grafikowy.",
+      "Rewirowy.",
+      "Brygadowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 67,
+    "text": "Który zestaw zawiera wyłącznie składniki charakterystyczne dla śniadania angielskiego?",
+    "answers": [
+      "Płatki kukurydziane, pszenne, musli, ryba na zimno, jajka na twardo, kiełbaski, naleśniki z syropem klonowym, woda z lodem.",
+      "Jajko po wiedeńsku, zestaw serów i wędlin, twarożek, dżem i konfitury, pieczywo jasne lub ciemne, bułeczki drożdżowe, kawa ze śmietanką.",
+      "Smażone kiełbaski, fasola w sosie pomidorowym, jajka smażone z plastrami boczku, masło, dżem, miód, tosty, grzanki, herbata.",
+      "Naleśniki na ciepło, jajka sadzone na boczku, masło, konfitury, dżem i miód, pieczywo jasne lub ciemne, kawa, woda."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 68,
+    "text": "Do wyposażenia wózka serwisowego nie zalicza się",
+    "answers": [
+      "wiadra z mopem.",
+      "worka na brudną bieliznę.",
+      "szorowarki walcowej.",
+      "rękawiczek ochronnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 69,
+    "text": "Która z podanych zasad dotyczących nakrywania stołu jest niepoprawna?",
+    "answers": [
+      "Można ułożyć maksymalnie dwie łyżki obok siebie.",
+      "Liczba sztućców z lewej strony nie powinna przekraczać trzech.",
+      "Łyżki oraz widelce należy układać grzbietem do dołu.",
+      "Ostrza noży należy skierować w lewą stronę."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 70,
+    "text": "Gość hotelowy skorzystał z minibaru, konsumując: paczkę paluszków słonych, baton zbożowy, 2 butelki whisky, puszkę coca coli oraz 2 butelki wody. Jaką kwotę w zł należy doliczyć do rachunku gościa?",
+    "answers": [
+      "117,00 zł",
+      "75,00 zł",
+      "71,00 zł",
+      "123,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/tg13_tabela3.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 71,
+    "text": "Kiedy pokojowa powinna umieścić wstawkę składającą się ze świeżych owoców w apartamencie gościa VIP?",
+    "answers": [
+      "W dniu wyjazdu gościa.",
+      "Dzień przed przyjazdem gościa.",
+      "W dniu przyjazdu gościa, po jego wejściu do pokoju.",
+      "W dniu przyjazdu gościa, przed jego wejściem do pokoju."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 72,
+    "text": "Ile minut należy gotować jajko we wrzącej, osolonej wodzie, aby otrzymać jajko mollet?",
+    "answers": [
+      "3-4 minuty.",
+      "4-5 minut.",
+      "8-10 minut.",
+      "2-3 minuty."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 73,
+    "text": "Którą z plam znajdującą się na wykładzinie dywanowej można usunąć za pomocą papieru chłonnego i żelazka?",
+    "answers": [
+      "Z czekolady.",
+      "Z soków owocowych.",
+      "Z masła.",
+      "Z wosku ze świecy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 74,
+    "text": "Którą najbardziej ekonomiczną formę podawania śniadań wybierze hotel, który gości 200 uczestników konferencji?",
+    "answers": [
+      "A’ la carte.",
+      "Bufet śniadaniowy.",
+      "Zestaw śniadaniowy.",
+      "Room service."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 75,
+    "text": "Jaki rodzaj ustawienia krzeseł w hotelowej sali konferencyjnej powinno się zaproponować organizatorom kongresu dla 300 osób?",
+    "answers": [
+      "Teatralny.",
+      "Klasowy.",
+      "Bankietowy.",
+      "Owalny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 76,
+    "text": "Którą kwotę należy wpisać na fakturze w rubryce wartość netto, jeżeli wartość brutto za usługę SPA wyniosła 170,00 zł?",
+    "answers": [
+      "130,90 zł",
+      "138,21 zł",
+      "201,79 zł",
+      "157,41 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 77,
+    "text": "Który zestaw produktów jest niezbędny do sporządzania omletu biszkoptowego?",
+    "answers": [
+      "Mąka ziemniaczana, jaja, woda.",
+      "Bułka tarta, jaja, woda.",
+      "Mąka pszenna, jaja, woda.",
+      "Kasza manna, jaja, mleko."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 78,
+    "text": "Gość korzystał z usług podstawowych i dodatkowych hotelu, w którym doba kosztuje 150,00 zł. Z jego pokoju skradziono aparat fotograficzny o wartości 10 100,00 zł. Jaką maksymalną wartość odszkodowania może otrzymać gość?",
+    "answers": [
+      "7 500,00 zł",
+      "5 050,00 zł",
+      "15 000,00 zł",
+      "10 100,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 79,
+    "text": "Kiedy w hotelu powinno się przeprowadzić sprzątanie specjalne?",
+    "answers": [
+      "W okresie wiosennym i jesiennym.",
+      "Po remoncie i większych imprezach.",
+      "Przed ważnymi świętami.",
+      "W sytuacji stwierdzenia obecności insektów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 80,
+    "text": "Która z wymienionych czynności nie należy do obowiązków kierownika służby pięter?",
+    "answers": [
+      "Sprawdzanie przestrzegania przepisów sanitarnych.",
+      "Przygotowanie raportów i analiz sprzedaży usług hotelarskich.",
+      "Organizacja pracy działu housekeepingu.",
+      "Współpraca z recepcją w zakresie wykorzystania pokojów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 81,
+    "text": "Jak powinna zachować się pokojowa, która w trakcie sprzątania pokoju „na czysto” zauważyła pozostawioną torbę podróżną?",
+    "answers": [
+      "Zanieść ją do recepcji hotelowej.",
+      "Oddać ją do przechowalni bagażu.",
+      "Niezwłocznie powiadomić przełożonych.",
+      "Sprawdzić jej zawartość."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 82,
+    "text": "Które urządzenie piorące przedstawiono na rysunku?",
+    "answers": [
+      "Myjkę ciśnieniową.",
+      "Ekstraktor do czyszczenia.",
+      "Odkurzacz samojezdny.",
+      "Szorowarkę jednotarczową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/tg13_urzadzenie.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 83,
+    "text": "Którego z elementów zastawy stołowej nie należy ustawić na stole przygotowując śniadanie – poranna herbata?",
+    "answers": [
+      "Talerzyka do pieczywa.",
+      "Cukiernicy.",
+      "Łyżeczki.",
+      "Filiżanki ze spodkiem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 84,
+    "text": "Którą wartość należy wpisać do rachunku minibaru w pozycji łączna kwota do zapłaty?",
+    "answers": [
+      "40,00 zł",
+      "33,00 zł",
+      "36,00 zł",
+      "32,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/tg13_rachunek.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 85,
+    "text": "Który rodzaj bielizny stołowej przedstawia rysunek?",
+    "answers": [
+      "Skirting.",
+      "Napperon.",
+      "Laufer.",
+      "Molton."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/tg13_bielizna.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 86,
+    "text": "Produkt widoczny na rysunku dodaje się do herbaty po",
+    "answers": [
+      "turecku.",
+      "chińsku.",
+      "angielsku.",
+      "rosyjsku."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/tg13_produkt.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 87,
+    "text": "Hotel otrzymał zlecenie na organizację kameralnego szkolenia, ze szkolnym ustawieniem stołów i krzeseł, dla 50 osób, w terminie od 17 do 18.01.2020 r. Szkolenie rozpocznie się w czwartek o godzinie 1400, zakończy następnego dnia o godzinie 1700. Którą salę konferencyjną należy przygotować na zamówione szkolenie?",
+    "answers": [
+      "Złotą.",
+      "Kongresową.",
+      "Błękitną.",
+      "Zieloną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/tg13_tabela.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 88,
+    "text": "Którą grupę produktów powinno się uwzględnić planując posiłki dla osób na diecie odchudzającej?",
+    "answers": [
+      "Twaróg i jogurt naturalny.",
+      "Banany i winogrona.",
+      "Mięso wieprzowe i podroby.",
+      "Napoje gazowane i nektary."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 89,
+    "text": "Która z podanych metod jest najbardziej odpowiednia do usunięcia gumy do żucia przyklejonej do wykładziny dywanowej w hotelowym pokoju?",
+    "answers": [
+      "Posypanie sodą.",
+      "Posypanie solą.",
+      "Użycie odplamiacza.",
+      "Użycie zamrażacza."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 90,
+    "text": "Pilot wycieczki zgłosił recepcjoniście wyjazd swojej grupy z hotelu o godzinie 400. Która metoda podania śniadania będzie odpowiednia dla tej grupy?",
+    "answers": [
+      "Table d'hôte.",
+      "Room service.",
+      "Bufet śniadaniowy.",
+      "Paczka śniadaniowa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 91,
+    "text": "Do której potrawy serwowanej podczas śniadania należy podać talerzyk na odpadki?",
+    "answers": [
+      "Jajka na miękko.",
+      "Szynki na zimno.",
+      "Jajecznicy z boczkiem.",
+      "Omletu biszkoptowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 92,
+    "text": "Rysunek przedstawia nakrycie stołu do śniadania",
+    "answers": [
+      "wiedeńskiego.",
+      "kontynentalnego.",
+      "niemieckiego.",
+      "amerykańskiego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/tg13_nakrycie2.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 93,
+    "text": "Na rysunku przedstawiono zestaw charakterystyczny dla śniadania",
+    "answers": [
+      "angielskiego.",
+      "kontynentalnego.",
+      "wiedeńskiego.",
+      "amerykańskiego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/tg13_zestaw.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 94,
+    "text": "Której czynności nie obejmuje usługa serwisu wieczornego wykonywana w jednostkach mieszkalnych, w luksusowych hotelach?",
+    "answers": [
+      "Ściągnięcia narzuty z łóżka.",
+      "Przygotowania przy łóżku pantofli.",
+      "Dostarczenia podwieczorku do pokoju.",
+      "Zapalenia lampki nocnej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 95,
+    "text": "W którym kierunku należy myć podłogę w jednostce mieszkalnej, sprzętem przedstawionym na rysunku, jeżeli okno znajduje się naprzeciwko drzwi wejściowych?",
+    "answers": [
+      "Od okna do drzwi.",
+      "Od okna do środka pokoju.",
+      "Od drzwi do okna.",
+      "Od środka pokoju do okna."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/tg13_sprzet.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 96,
+    "text": "Który zestaw wyposażenia jednostki mieszkalnej jest obowiązkowy w hotelach wszystkich kategorii?",
+    "answers": [
+      "Dywan lub dywanik przy łóżku, nocny stolik przy każdym miejscu do spania, szafa lub wieszak ścienny, krzesło lub inny mebel do siedzenia, biurko lub stół, telefon.",
+      "Nocny stolik lub półka przy każdym miejscu do spania, wnęka garderobiana lub wieszak ścienny, biurko lub stół, krzesło lub fotel, bagażnik.",
+      "Nocny stolik lub półka przy każdym miejscu do spania, szafa lub wnęka garderobiana, wieszak ścienny lub stojący na odzież wierzchnią, biurko lub stół, lustro.",
+      "Dywan lub dywanik przy łóżku, wieszak ścienny, przynajmniej jedno krzesło lub fotel do siedzenia, szafa, biurko lub stół, zestaw do czyszczenia odzieży."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 97,
+    "text": "Które z urządzeń jest przeznaczone do sporządzania kawy?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/tg13_urzadzenia.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 98,
+    "text": "Który z podanych produktów powinien być przechowywany w warunkach chłodniczych?",
+    "answers": [
+      "Ser twarogowy.",
+      "Czerwone wino.",
+      "Konserwa mięsna.",
+      "Mleko sterylizowane."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 99,
+    "text": "Na którym rysunku przedstawiona jest jednostka mieszkalna typu DBL?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/tg13_rysunki.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 100,
+    "text": "Do którego rodzaju śniadania zostało przedstawione nakrycie na rysunku?",
+    "answers": [
+      "Rosyjskiego.",
+      "Angielskiego.",
+      "Wiedeńskiego.",
+      "Niemieckiego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/tg13_nakrycie.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 101,
+    "text": "Urządzenie przedstawione na rysunku służy do",
+    "answers": [
+      "grillowania.",
+      "smażenia.",
+      "frytowania.",
+      "gotowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/tg13_urzadzenie3.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 102,
+    "text": "Przyjmując zamówienie na budzenie należy ustalić z gościem hotelowym",
+    "answers": [
+      "cenę usługi.",
+      "formę płatności za usługę.",
+      "godzinę usługi.",
+      "powód realizacji usługi."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 103,
+    "text": "Które z podanych usług nie są w hotelarstwie fakultatywnymi?",
+    "answers": [
+      "Dostęp do boiska do siatkówki, wynajem kręgielni.",
+      "Korzystanie z kortu tenisowego, zajęcia fitness.",
+      "Basen, możliwość korzystania z kompleksu saun.",
+      "Informacja turystyczna, dostarczenie poczty dla gości."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 104,
+    "text": "Którą czynność porządkową pracownicy służby pięter są zobowiązani wykonywać codziennie w węźle komunikacyjnym?",
+    "answers": [
+      "Zmienić dekorację.",
+      "Umyć futryny.",
+      "Przetrzeć poręcze.",
+      "Umyć ściany."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 105,
+    "text": "Na etykiecie płynu do prania dywanów, w instrukcji użycia jest zapisane: 3 nakrętki detergentu na 3 litry wody. Którą liczbę nakrętek detergentu, zgodnie z instrukcją należy zastosować na 10 litrów wody?",
+    "answers": [
+      "10 nakrętek.",
+      "12 nakrętek.",
+      "6 nakrętek.",
+      "8 nakrętek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 106,
+    "text": "Na postawie zamieszczonego art.846 Kodeksu cywilnego określ, na jakiej podstawie hotel może odpowiadać za pozostawiony na parkingu hotelowym samochód gościa. Art. 846. § 2. Rzeczą wniesioną w rozumieniu przepisów tytułu niniejszego jest rzecz, która w czasie korzystania przez gościa z usług hotelu lub podobnego zakładu znajduje się w tym hotelu lub podobnym zakładzie albo znajduje się poza nim, a została powierzona utrzymującemu zarobkowo hotel lub podobny zakład lub osobie u niego zatrudnionej albo umieszczona w miejscu przez nich wskazanym lub na ten cel przeznaczonym. § 3. Rzeczą wniesioną jest również rzecz, która w krótkim, zwyczajowo przyjętym okresie poprzedzającym lub następującym po tym, kiedy gość korzystał z usług hotelu lub podobnego zakładu, została powierzona utrzymującemu zarobkowo hotel lub podobny zakład lub osobie u niego zatrudnionej albo umieszczona w miejscu przez nich wskazanym lub na ten cel przeznaczonym. § 4. Pojazdów mechanicznych i rzeczy w nich pozostawionych oraz żywych zwierząt nie uważa się za rzeczy wniesione. Utrzymujący zarobkowo hotel lub podobny zakład może za nie odpowiadać jako przechowawca, jeżeli została zawarta umowa przechowania.",
+    "answers": [
+      "Regulaminu hotelowego.",
+      "Warunków korzystania z depozytu.",
+      "Umowy przechowania.",
+      "Umowy o świadczenie usług hotelarskich."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 107,
+    "text": "W którym z zamieszczonych naczyń należy podać mleko do kawy?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/tg13_naczynia.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 108,
+    "text": "Na którym rysunku przedstawiono opakowanie właściwe do zabezpieczenia ważnych dokumentów gościa przekazanych do depozytu?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/tg13_opakowania.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 109,
+    "text": "Gość w dniu wyjazdu skorzystał z przechowalni bagażu. Który z przedstawionych druków należy wykorzystać w celu realizacji tej usługi?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_druki.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 110,
+    "text": "Elementami wyposażenia jednostki mieszkalnej obligatoryjnymi wyłącznie w hotelach 4* i 5* są",
+    "answers": [
+      "szafa lub wnęka garderobiana, biurko lub stół.",
+      "fotele wypoczynkowe lub kanapa, stolik.",
+      "wieszak ścienny lub stojący na odzież wierzchnią, bagażnik.",
+      "nocny stolik lub półka przy każdym miejscu do spania, krzesło."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 111,
+    "text": "Jak powinna się zachować pokojowa, która podczas sprzątania jednostki mieszkalnej „na czysto” zauważyła pozostawioną walizkę?",
+    "answers": [
+      "Oddać ją do przechowalni bagażu.",
+      "Sprawdzić jej zawartość.",
+      "Niezwłocznie powiadomić przełożonych.",
+      "Zanieść ją do recepcji hotelowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 112,
+    "text": "Wskaż minimalny wymiar łóżka w jednostce mieszkalnej typu DBL.",
+    "answers": [
+      "90 cm x 200 cm",
+      "140 cm x 200 cm",
+      "198 cm x 203 cm",
+      "153 cm x 203 cm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 113,
+    "text": "Wskaż menu śniadaniowe uwzględniające potrzeby gościa będącego na diecie lekkostrawnej.",
+    "answers": [
+      "Chleb pszenny, chude wędliny, banany.",
+      "Chleb razowy, ser typu gouda, fasola.",
+      "Chleb żytni, mięsa wędzone, ogórki.",
+      "Pieczywo chrupkie, tłuste wędliny, gruszki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 114,
+    "text": "Przedstawiona na rysunku drożdżowa bułeczka, charakterystyczna dla śniadania francuskiego, to",
+    "answers": [
+      "bagietka.",
+      "croissant.",
+      "brioche.",
+      "chałka."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_buleczka.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 115,
+    "text": "Pracownik działu gastronomii, który odbiera od dostawcy półprodukty potrzebne do tworzenia posiłków musi zachować szczególną uwagę w krytycznych punktach kontroli, które mają zasadnicze znaczenie przy zastosowaniu systemu",
+    "answers": [
+      "ISO 9001",
+      "GMP",
+      "GHP",
+      "HACCP"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 116,
+    "text": "Gość w trakcie pobytu skorzystał z minibaru. Na podstawie zamieszczonego dokumentu, oblicz jaką kwotę należy dopisać do rachunku gościa.",
+    "answers": [
+      "111,00 zł",
+      "64,00 zł",
+      "93,00 zł",
+      "84,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_dokument3.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 117,
+    "text": "Przechowalnia bagażu jest w hotelu usługą",
+    "answers": [
+      "uzupełniającą, płatną.",
+      "towarzyszącą, płatną.",
+      "fakultatywną, bezpłatną.",
+      "komplementarną, bezpłatną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 118,
+    "text": "Których z wymienionych produktów należy użyć do przygotowania tradycyjnego omletu biszkoptowego?",
+    "answers": [
+      "Mąka, jaja, cukier.",
+      "Mąka, jaja, drożdże.",
+      "Jaja, woda, sól, soda oczyszczona.",
+      "Jaja, woda, sól, proszek do pieczenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 119,
+    "text": "Który element bielizny stołowej chroni blaty stołów przed zarysowaniem, wyrównuje nierówności na ich łączeniach oraz tłumi odgłosy stawianej zastawy?",
+    "answers": [
+      "Molton.",
+      "Napperon.",
+      "Laufer.",
+      "Sachetto."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 120,
+    "text": "Posiłek będący kombinacją śniadania i obiadu, w którym typowe menu śniadaniowe uzupełnianie jest o potrawy obiadowe, np. zupy, gulasze, ryby, sałatki i słodkie potrawy, to",
+    "answers": [
+      "bistro.",
+      "brunch.",
+      "rotiserrie.",
+      "lunch."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 121,
+    "text": "Podczas sprzątania węzła higieniczno-sanitarnego w jednostce mieszkalnej, pokojowa w pierwszej kolejności powinna",
+    "answers": [
+      "uzupełnić kosmetyki.",
+      "opróżnić kosz na śmieci.",
+      "wyczyścić półkę pod lustrem.",
+      "zebrać brudne ręczniki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 122,
+    "text": "Gość złożył zamówienie na zorganizowanie po południu przyjęcia na stojąco trwającego ok. 2 godzin. Taki rodzaj przyjęcia nosi nazwę",
+    "answers": [
+      "garden party.",
+      "aperitif.",
+      "toast.",
+      "cocktail party."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 123,
+    "text": "Wskaż metodę ścielenia łóżka, gdzie jednym prześcieradłem przykrywa się materac, na nim kładzie się drugie prześcieradło, następnie koc, na który wywija się fragment drugiego prześcieradła od strony wezgłowia, tworząc pewnego rodzaju śpiwór.",
+    "answers": [
+      "Francuska.",
+      "Standardowa.",
+      "Angielska.",
+      "Niemiecka."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 124,
+    "text": "Gość złożył zamówienie do hotelu na zorganizowanie międzynarodowej konferencji dla 150 uczestników, w której tłumaczenie ma odbywać się równocześnie z wypowiedzią mówiącego. Realizując usługę hotel powinien dysponować sprzętem do tłumaczenia",
+    "answers": [
+      "symultanicznego.",
+      "asymetrycznego.",
+      "szeptanego.",
+      "zwrotnego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 125,
+    "text": "Woda z lodem, soki owocowe, naleśniki z syropem klonowym, małe naleśniki pancake, kawałki baraniny, hamburgery, wołowina z puszki, grillowany bekon, a także duszone i świeże owoce, to charakterystyczne składniki śniadania",
+    "answers": [
+      "wiedeńskiego.",
+      "angielskiego.",
+      "francuskiego.",
+      "amerykańskiego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 126,
+    "text": "Zgodnie z zasadami bezpieczeństwa i higieny pracy gorące zupy mleczne serwowane gościom w trakcie śniadań, powinny mieć minimalną temperaturę",
+    "answers": [
+      "40°C",
+      "75°C",
+      "63°C",
+      "85°C"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 127,
+    "text": "Który z pracowników hotelu powinien sprawdzić przygotowanie jednostki mieszkalnej przed przyjazdem gościa specjalnego?",
+    "answers": [
+      "Kierownik służby pięter.",
+      "Pokojowa lotna.",
+      "Guest relations.",
+      "Recepcjonista concierge."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 128,
+    "text": "Który z zamieszczonych rysunków przedstawia wózek hotelowy przeznaczony wyłącznie do transportu brudnej bielizny?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_wozki3.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 129,
+    "text": "Którą z podanych czynności, podczas wydawania śniadania, należy wykonywać wyłącznie z prawej strony konsumenta?",
+    "answers": [
+      "Ustawianie talerzyków do pieczywa.",
+      "Zbieranie zastawy stołowej.",
+      "Podawanie potraw śniadaniowych z półmiska.",
+      "Podawanie potraw śniadaniowych wyporcjowanych na talerzu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 130,
+    "text": "Którego środka należy użyć, aby szybko usunąć smugi z obcasów na drewnianej podłodze w sali wielofunkcyjnej?",
+    "answers": [
+      "Zimnej wody.",
+      "Roztworu szamponu.",
+      "Benzyny ekstrakcyjnej.",
+      "Środka do schładzania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 131,
+    "text": "Jak długo należy gotować jajko we wrzącej i osolonej wodzie, aby otrzymać jajko mollet?",
+    "answers": [
+      "2-3 min",
+      "3-4 min",
+      "8-10 min",
+      "4-5 min"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 132,
+    "text": "W potwierdzeniu rezerwacji sali konferencyjnej należy określić między innymi",
+    "answers": [
+      "nazwę sali i nazwisko szkoleniowca.",
+      "godziny rezerwacji sali i formę płatności.",
+      "wyposażenie sali i liczbę osób obsługujących konferencję.",
+      "termin rezerwacji sali i  obywatelstwo uczestników."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 133,
+    "text": "Którą kwotę należy wpisać na fakturze w rubryce wartość netto, jeżeli wartość brutto za usługi typu Wellness&SPA wynosi 1 200,00 zł a podatek VAT 23%?",
+    "answers": [
+      "1 111,11 zł",
+      "1 296,00 zł",
+      "1 476,00 zł",
+      "975,61 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 134,
+    "text": "Z którym działem hotelu powinna współpracować służba pięter w zakresie przekazywania informacji o usterkach urządzeń i planowanych terminach remontów?",
+    "answers": [
+      "Administracyjnym.",
+      "Zaopatrzenia.",
+      "Marketingu.",
+      "Technicznym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 135,
+    "text": "Przedstawione na rysunku naczynie służy do",
+    "answers": [
+      "zaparzania kawy.",
+      "mieszania koktajli.",
+      "sporządzania herbaty.",
+      "przygotowania kakao."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_naczynie2.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 136,
+    "text": "Który rozmiar obrusa powinno się dobrać do stołu o wymiarach 120 cm x 80 cm podczas przygotowania sali konsumenckiej na śniadanie?",
+    "answers": [
+      "140 cm x 140 cm",
+      "180 cm x 140 cm",
+      "120 cm x 160 cm",
+      "120 cm x 120 cm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 137,
+    "text": "Wskaż środek, którego powinna użyć pokojowa do czyszczenia luster w jednostce mieszkalnej.",
+    "answers": [
+      "Płyn do dezynfekcji.",
+      "Mleczko czyszczące.",
+      "Płyn z alkoholem.",
+      "Mleczko nabłyszczające."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 138,
+    "text": "Który z elementów zastawy stołowej należy wykorzystać do podawania dodatków podczas śniadania kontynentalnego?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_elementy2.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 139,
+    "text": "Jak określa się typ jednostki mieszkalnej o podwyższonym standardzie, zlokalizowanej na ostatnim piętrze obiektu hotelarskiego?",
+    "answers": [
+      "Junior suite.",
+      "Duplex.",
+      "Penthouse.",
+      "Executive."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 140,
+    "text": "Jaką maksymalną wartość odszkodowania powinien wypłacić hotel gościowi, jeżeli podczas sprzątania jednostki mieszkalnej został uszkodzony laptop o wartości 6 000,00 zł, a koszt doby hotelowej wynosił 300,00 zł.",
+    "answers": [
+      "6 000,00 zł",
+      "9 000,00 zł",
+      "30 000,00 zł",
+      "15 000,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 141,
+    "text": "Kawa z orzechowo-brązową pianką zwaną crema, to",
+    "answers": [
+      "espresso.",
+      "con panna.",
+      "macchiato.",
+      "au lait."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 142,
+    "text": "Który rodzaj sprzątania należy zastosować w sytuacji pojawienia się w hotelu mrówek?",
+    "answers": [
+      "Specjalne.",
+      "Codzienne.",
+      "Bieżące.",
+      "Gruntowne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 143,
+    "text": "Pięcioosobowa rodzina zarezerwowała w hotelu dwa pokoje: dwuosobowy z łożem małżeńskim oraz trzyosobowy. Wskaż pokoje, które należy przygotować na przyjazd gości.",
+    "answers": [
+      "TPL, DBL",
+      "DBL, APT",
+      "APT, TPL",
+      "TPL, SGL"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 144,
+    "text": "Goście wykupili w hotelu nocleg ze śniadaniem wiedeńskim wzmocnionym. W zestawie śniadaniowym kelner nie poda",
+    "answers": [
+      "miodu, dżemu.",
+      "jaj po wiedeńsku.",
+      "wędlin, serów.",
+      "jajecznicy na bekonie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 145,
+    "text": "Ile musi dopłacić gość za zorganizowanie przyjęcia okolicznościowego dla 100 osób, jeżeli zamówił wszystkie usługi z zamieszczonego cennika i wpłacił już zaliczkę w wysokości 1 500,00 zł.",
+    "answers": [
+      "1 810,00 zł",
+      "3 310,00 zł",
+      "14 200,00 zł",
+      "12 700,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_cennik4.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 146,
+    "text": "Wskaż usługi, które obejmuje pakiet typu SPA.",
+    "answers": [
+      "Saunę fińską, masaż, peeling.",
+      "Kręgle, piłkę wodną.",
+      "Basen, saunę, jacuzzi.",
+      "Kort tenisowy, aerobik wodny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 147,
+    "text": "Na podstawie przedstawionego grafiku obłożenia wskaż numery pokojów, które należy posprzątać „na czysto” 6 grudnia.",
+    "answers": [
+      "101,102,103",
+      "102,103,104",
+      "101,102,104",
+      "101,103,104"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_grafik4.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 148,
+    "text": "Którą z podanych czynności można wykonać podczas sprzątania pokoju zajętego przez gościa?",
+    "answers": [
+      "Ułożyć piżamę gościa na łóżku.",
+      "Zabrać porozrzucaną garderobę gościa do prania.",
+      "Pochować wartościowe rzeczy gościa do sejfu.",
+      "Wyrzucić stare gazety gościa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 149,
+    "text": "Który z wymienionych elementów wyposażenia węzła higieniczno-sanitarnego nie jest obowiązkowy w hotelach dwugwiazdkowych?",
+    "answers": [
+      "Torba higieniczna.",
+      "Dozownik z płynnym mydłem.",
+      "Ręcznik kąpielowy.",
+      "Osłona wanny lub natrysku."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 150,
+    "text": "W jaki sposób powinien postąpić pracownik służby pięter, jeżeli po wykonaniu usługi pralniczej odniósł odzież do pokoju gościa, a na drzwiach zawieszona była wywieszka „Nie przeszkadzać”?",
+    "answers": [
+      "Poczekać, aż gość zdejmie wywieszkę.",
+      "Poczekać, aż gość skontaktuje się z recepcją.",
+      "Mimo wszystko zapukać i zostawić odzież gościowi.",
+      "Pozostawić w drzwiach informację o zrealizowanej usłudze."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 151,
+    "text": "Przygotowując śniadanie dla gościa z nietolerancją laktozy należy pamiętać, żeby w menu nie uwzględnić",
+    "answers": [
+      "mięsa i wędlin.",
+      "mleka i serów.",
+      "owoców cytrusowych.",
+      "warzyw strączkowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 152,
+    "text": "Zgodnie z wymaganiami kategoryzacyjnymi jednostka apartamentowa w hotelu 5* powinna obejmować co najmniej",
+    "answers": [
+      "salon, sypialnię z wydzielonym dodatkowo WC, część wejściową pomocniczą z łazienką.",
+      "salon, dwie sypialnie, łazienkę, część wejściową pomocniczą z wydzielonym dodatkowo WC.",
+      "salon z aneksem kuchennym, sypialnię z łazienką, część wejściową pomocniczą.",
+      "salon, sypialnię z łazienką, część wejściową pomocniczą z wydzielonym dodatkowo WC."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 153,
+    "text": "Jaką ilość płynu uniwersalnego należy dolać do 15 litrów wody w celu sporządzenia roztworu do mycia, jeżeli producent zaleca jego rozcieńczenie w proporcji 1:5?",
+    "answers": [
+      "1,5 litra.",
+      "5,0 litrów.",
+      "7,5 litra.",
+      "3,0 litry."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 154,
+    "text": "Kawa cappuccino to",
+    "answers": [
+      "napój mleczny powstały przez powolne dolanie kawy espresso do gorącego mleka.",
+      "gorące spienione mleko z dodatkiem naparu kawowego i karmelu.",
+      "kawa zaparzana w ekspresie ciśnieniowym, z dodatkiem cukru pudru, śmietanki i szczyptą cynamonu.",
+      "kawa zaparzana w ekspresie ciśnieniowym, podawana ze spienionym mlekiem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 155,
+    "text": "Który dokument sporządza recepcjonista na zamieszczonym formularzu?",
+    "answers": [
+      "Rozliczenie usługi podstawowej.",
+      "Kwit kaucyjny.",
+      "Zlecenie usługi dodatkowej.",
+      "Kwit depozytowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_formularz.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 156,
+    "text": "Dla kogo w pierwszej kolejności zostanie zrealizowane zamówienie śniadania a’la carte, jeśli przy stoliku siedzi małżeństwo z dzieckiem oraz z babcią?",
+    "answers": [
+      "Dla dziecka.",
+      "Dla żony.",
+      "Dla męża.",
+      "Dla babci."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 157,
+    "text": "Która ilustracja przedstawia wyposażenie charakterystyczne dla pokoju typu twin?",
+    "answers": [
+      "Ilustracja 1.",
+      "Ilustracja 2.",
+      "Ilustracja 3.",
+      "Ilustracja 4."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_wyposazenie4.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 158,
+    "text": "Wieczorna obsługa jednostki mieszkalnej polegająca na przygotowaniu pokoju oraz łóżka do nocnego wypoczynku gościa w obiektach hotelarskich o standardzie 5*, to",
+    "answers": [
+      "all inclusive.",
+      "executive lounge.",
+      "turndown service.",
+      "room service."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 159,
+    "text": "Które urządzenie należy zastosować do szorowania, polerowania i konserwacji podłogi marmurowej w hotelu?",
+    "answers": [
+      "Szorowarkę jednotarczową.",
+      "Odkurzacz do czyszczenia na mokro i sucho.",
+      "Odkurzacz samojezdny.",
+      "Automat szorująco-zbierający."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 160,
+    "text": "Który rodzaj śniadania składa się z kawy lub herbaty, soku pomarańczowego, croissanta, bagietki, masła i dżemu?",
+    "answers": [
+      "Wiedeńskie.",
+      "Angielskie.",
+      "Polskie.",
+      "Francuskie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 161,
+    "text": "Fasolka w sosie pomidorowym, grillowane pieczarki i pomidory, to między innymi składniki śniadania",
+    "answers": [
+      "polskiego.",
+      "angielskiego.",
+      "wiedeńskiego.",
+      "francuskiego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 162,
+    "text": "Zadaniem bagażowego wobec gościa, który wyjeżdża z hotelu, jest przede wszystkim",
+    "answers": [
+      "przeniesienie bagażu do pokoju.",
+      "udzielenie informacji o topografii hotelu.",
+      "udzielenie informacji o usługach oferowanych przez hotel.",
+      "przeniesienie bagażu we wskazane miejsce."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 163,
+    "text": "Przedstawiony schemat nakrycia jest odpowiedni dla śniadania",
+    "answers": [
+      "francuskiego.",
+      "angielskiego.",
+      "amerykańskiego.",
+      "wiedeńskiego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_schemat.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 164,
+    "text": "Przyjęcie rzeczy gościa hotelowego do depozytu jest usługą",
+    "answers": [
+      "podstawową płatną.",
+      "towarzyszącą płatną.",
+      "komplementarną bezpłatną.",
+      "fakultatywną bezpłatną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 165,
+    "text": "Jak długo należy gotować we wrzącej i osolonej wodzie jajko mollet?",
+    "answers": [
+      "4-5 minut.",
+      "3 minuty.",
+      "6 minut.",
+      "8-10 minut."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 166,
+    "text": "W jakiej temperaturze powinno się przechowywać jaja?",
+    "answers": [
+      "Od -5°C do -1°C",
+      "Od -10°C do -6°C",
+      "Od +10°C do +15°C",
+      "Od 0°C do +6°C"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 167,
+    "text": "Jak powinna się zachować korytarzowa, która w trakcie czynności porządkowych w holu hotelowym zauważyła skórzaną teczkę?",
+    "answers": [
+      "Zanieść ją do recepcji hotelowej.",
+      "Sprawdzić jej zawartość.",
+      "Niezwłocznie powiadomić przełożonych.",
+      "Oddać ją do przechowalni bagażu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 168,
+    "text": "Które elementy należy przetrzeć roztworem dezynfekującym podczas sprzątania jednostki mieszkalnej zwolnionej przez gościa?",
+    "answers": [
+      "Klamki, podłogę w łazience, parapet.",
+      "Słuchawkę telefonu, pilot TV, klamki.",
+      "Blat stołu, parapet, podłogę w łazience.",
+      "Szklanki do wody, pilot TV, blat stołu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 169,
+    "text": "W restauracji hotelowej część potraw śniadaniowych wyporcjowano w obecności gości, wykorzystując stół pomocniczy. Którą metodę obsługi zastosowano?",
+    "answers": [
+      "Francuską.",
+      "Niemiecką.",
+      "Rosyjską.",
+      "Angielską."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 170,
+    "text": "Który rodzaj śniadania powinien zawierać pakiet z ofertą wczasów odchudzających?",
+    "answers": [
+      "Węglowodanowe.",
+      "Niskokaloryczne.",
+      "Angielskie.",
+      "Amerykańskie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 171,
+    "text": "Na ilustracji przedstawiono",
+    "answers": [
+      "dyspenser do płatków.",
+      "pomocnik kelnerski.",
+      "taboret gastronomiczny.",
+      "bufet do dań gorących."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_ilustracja.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 172,
+    "text": "Które czynności wykonywane są podczas codziennego sprzątania jednostki mieszkalnej zajmowanej przez gościa?",
+    "answers": [
+      "Ścielenie łóżek, ścieranie kurzu z mebli, uzupełnienie ręczników.",
+      "Zebranie brudnej zastawy stołowej, wymiana pościeli, czyszczenie żyrandoli.",
+      "Czyszczenie glazury, odkurzanie podłogi, czyszczenie wnętrza szuflad.",
+      "Czyszczenie luster, wietrzenie pościeli i materacy, odkurzanie tapicerki mebli."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 173,
+    "text": "Którą metodę należy zastosować, aby usunąć gumę do żucia przyklejoną do dywanu?",
+    "answers": [
+      "Posypać solą.",
+      "Posypać sodą.",
+      "Użyć zamrażacza.",
+      "Użyć odplamiacza."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 174,
+    "text": "Wskaż rodzaj sprzątania związany ze zmianą wystroju części ogólnodostępnej w okresie przedświątecznym.",
+    "answers": [
+      "Bieżące.",
+      "Sezonowe.",
+      "Okolicznościowe.",
+      "Sezonowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 175,
+    "text": "Gość złożył zamówienie w hotelu na zorganizowanie przyjęcia z okazji podpisania umowy handlowej. Poprosił o przygotowanie przyjęcia w formie stojącej, trwającego ok. 30 minut w godzinach między 1200 a 1300. Który z rodzajów przyjęć recepcjonista powinien zaproponować gościowi?",
+    "answers": [
+      "Przyjęcie bufetowe.",
+      "Garden Party.",
+      "Coctail Party.",
+      "Lampkę wina."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 176,
+    "text": "Które urządzenie powinno się zastosować w restauracji hotelowej do wieloporcjowego podawania jajecznicy?",
+    "answers": [
+      "Dekanter.",
+      "Bemar.",
+      "Warnik.",
+      "Kociołek."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 177,
+    "text": "Który rodzaj ustawienia krzeseł w sali konferencyjnej powinno się zaproponować organizatorom kongresu dla 300 osób?",
+    "answers": [
+      "Klasowe.",
+      "Teatralne.",
+      "Bankietowe.",
+      "Podkowę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 178,
+    "text": "Który z przedstawionych fragmentów zamówienia dotyczy usług dodatkowych typu biznesowego?",
+    "answers": [
+      "Fragment 4.",
+      "Fragment 2.",
+      "Fragment 3.",
+      "Fragment 1."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_zamowienia2.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 179,
+    "text": "Opracowanie miesięcznych harmonogramów pracy dla pracowników służby pięter należy do obowiązków",
+    "answers": [
+      "kierownika recepcji.",
+      "pracownika marketingu.",
+      "kierownika służby pięter.",
+      "starszej pokojowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 180,
+    "text": "Pracownik hotelu, realizując zamówienie room-service śniadania kontynentalnego dla gościa, powinien użyć",
+    "answers": [
+      "dużego płaskiego talerza.",
+      "dużej tacy prostokątnej.",
+      "wózka serwisowego z blatem.",
+      "windy serwisowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 181,
+    "text": "Wskaż prawidłowy sposób podawania zimnych serów i wędlin na bufecie śniadaniowym.",
+    "answers": [
+      "W salaterkach ze szczypcami do serwisu.",
+      "Na dużych talerzach, sztućce serwisowe na oddzielnych talerzykach.",
+      "W bemarach, szczypce serwisowe na oddzielnym talerzyku.",
+      "Na półmiskach, na każdym półmisku widelec serwisowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 182,
+    "text": "Którą formę składania serwetek należy zastosować, nakrywając stoły do śniadania?",
+    "answers": [
+      "Formę składania 3.",
+      "Formę składania 4.",
+      "Formę składania 2.",
+      "Formę składania 1."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_formy.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 183,
+    "text": "W którym z wymienionych miejsc pokojowa, przygotowując jednostkę mieszkalną do przyjęcia gości, powinna położyć zestaw do czyszczenia odzieży i obuwia oraz igielnik?",
+    "answers": [
+      "Na bagażniku.",
+      "Na biurku.",
+      "W szafie.",
+      "W łazience."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 184,
+    "text": "Dokumentem potwierdzającym przyjęcie do realizacji zamówionych przez gościa e-mailem usług dodatkowych jest",
+    "answers": [
+      "zamówienie na usługi.",
+      "regulamin hotelowy.",
+      "kosztorys imprezy.",
+      "potwierdzenie rezerwacji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 185,
+    "text": "Który zestaw naczyń i sztućców należy przygotować nakrywając stół do śniadania wiedeńskiego wzmocnionego?",
+    "answers": [
+      "Talerzyk śniadaniowy z serwetką, nóż i widelec zakąskowy, filiżanka ze spodkiem i łyżeczką, goblet, mlecznik, cukiernica, koszyk na pieczywo, kieliszek lub szklanka na podstawce z łyżeczką.",
+      "Talerzyk śniadaniowy z serwetką, nóż zakąskowy, filiżanka ze spodkiem i łyżeczką, mlecznik, cukiernica, koszyk na pieczywo.",
+      "Talerzyk śniadaniowy z serwetką, nóż i widelec zakąskowy, filiżanka ze spodkiem i łyżeczką, mlecznik, cukiernica, koszyk na pieczywo, kieliszek lub szklanka na podstawce z łyżeczką, miseczka na miód i dżem.",
+      "Talerzyk śniadaniowy z serwetką, nóż i widelec zakąskowy, filiżanka ze spodkiem i łyżeczką, talerzyk na pieczywo z nożem do masła, półmisek na sery i wędliny, mlecznik, cukiernica, koszyk na pieczywo, kieliszek lub szklanka na podstawce z łyżeczką, miseczka na miód i dżem, menaż."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 186,
+    "text": "Na podstawie zamieszczonego rozliczenia, oblicz kwotę do zapłaty za zrealizowane usługi SPA?",
+    "answers": [
+      "189,00 zł",
+      "184,80 zł",
+      "210,00 zł",
+      "178,50 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_rozliczenie.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 187,
+    "text": "Która z wymienionych czynności wykonywana jest codziennie, podczas sprzątania korytarza i klatki schodowej obiektu hotelarskiego?",
+    "answers": [
+      "Czyszczenie wykładziny środkami chemicznymi.",
+      "Mycie okien.",
+      "Wytarcie kurzu z poręczy schodów.",
+      "Czyszczenie wentylatorów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 188,
+    "text": "Zamieszczona na ilustracji potrawa, to typowy składnik śniadania",
+    "answers": [
+      "angielskiego.",
+      "kontynentalnego.",
+      "amerykańskiego.",
+      "wiedeńskiego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_potrawa2.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 189,
+    "text": "Z pokoju hotelowego pani Nowak zginął złoty naszyjnik o wartości 4 000 zł. Cena wynajmu tego pokoju wynosiła 140 zł/dobę. Jaka wysokość odszkodowania przysługuje w tej sytuacji gościowi?",
+    "answers": [
+      "14 000 zł",
+      "1 400 zł",
+      "7 000 zł",
+      "4 000 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 190,
+    "text": "Do czego służy przedstawiony na ilustracji nóż?",
+    "answers": [
+      "Do sera.",
+      "Do wędlin.",
+      "Do ryb.",
+      "Do masła."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_noz.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 191,
+    "text": "Która z podanych metod jest najbardziej odpowiednia do usunięcia gumy do żucia przyklejonej do tapicerowanej kanapy?",
+    "answers": [
+      "Odkurzanie.",
+      "Użycie środka odtłuszczającego.",
+      "Zdrapanie nożem.",
+      "Zastosowanie zamrażacza."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 192,
+    "text": "Której z podanych potraw nie można zaplanować na śniadanie dla osób przestrzegających diety wegańskiej?",
+    "answers": [
+      "Jajek w koszulkach.",
+      "Kuskusa z warzywami.",
+      "Brokułów na parze.",
+      "Płatków z owocami."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 193,
+    "text": "Przedstawiony na ilustracji rogalik wchodzi w zestaw śniadania",
+    "answers": [
+      "wiedeńskiego.",
+      "francuskiego.",
+      "polskiego.",
+      "polskiego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_rogalik.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 194,
+    "text": "Którą potrawę przygotowuje się przez wlanie wybitych jaj do wrzącej, osolonej i zakwaszonej wody, a następnie powolne gotowanie przez około 3 minuty?",
+    "answers": [
+      "Jaja poszetowe.",
+      "Jaja na miękko.",
+      "Jaja frytowane.",
+      "Jaja sadzone."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 195,
+    "text": "Która z wymienionych metod podawania śniadań w restauracji hotelowej jest najbardziej odpowiednia podczas obsługi grupy turystycznej?",
+    "answers": [
+      "Niemiecka.",
+      "Rosyjska.",
+      "Francuska.",
+      "Angielska."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 196,
+    "text": "Kiedy pokojowa powinna umieścić wstawkę składającą się ze świeżych owoców i szampana w apartamencie gościa VIP?",
+    "answers": [
+      "W dniu przyjazdu gościa, przed jego wejściem do apartamentu.",
+      "W dniu przyjazdu gościa, po jego wejściu do apartamentu.",
+      "W dniu wyjazdu gościa.",
+      "Dzień przed przyjazdem gościa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 197,
+    "text": "Pokój zwolniony przez gościa, u którego stwierdzono chorobę zakaźną, należy poddać",
+    "answers": [
+      "deratyzacji.",
+      "dezynfekcji.",
+      "dezaktywacji.",
+      "dezynsekcji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 198,
+    "text": "Rzeczy wartościowe znalezione przez pracownika służby pięter przechowuje się w",
+    "answers": [
+      "sejfie w gabinecie dyrektora hotelu.",
+      "magazynie rzeczy znalezionych.",
+      "skrytce depozytowej w banku.",
+      "specjalnej kasetce w recepcji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 199,
+    "text": "W których z podanych obiektów hotelarskich, jednostka mieszkalna musi posiadać łazienkę wyposażoną między innymi w wagę, telefon oraz płaszcz kąpielowy?",
+    "answers": [
+      "Tylko w hotelach 4*.",
+      "W hotelach i motelach 4*.",
+      "W hotelach i motelach 5*.",
+      "Tylko w hotelach 5*."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 200,
+    "text": "Na podstawie zamieszczonego piktogramu, określ rodzaj usługi dodatkowej świadczonej w hotelu.",
+    "answers": [
+      "Uzupełniająca.",
+      "Towarzysząca.",
+      "Osobista.",
+      "Fakultatywna."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_piktogram2.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 201,
+    "text": "Na której ilustracji przedstawiono wyposażenie charakterystyczne dla pokoju typu single?",
+    "answers": [
+      "Na ilustracji 2.",
+      "Na ilustracji 4.",
+      "Na ilustracji 3.",
+      "Na ilustracji 1."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_wyposazenie5.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 202,
+    "text": "Na podstawie zamieszczonego wpisu do zeszytu usterek określ, w której jednostce mieszkalnej przeprowadzono sprzątanie gruntowne?",
+    "answers": [
+      "205",
+      "106",
+      "207",
+      "102"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_wpis.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 203,
+    "text": "Którą czynność powinna wykonać pokojowa w pierwszej kolejności, podczas codziennego sprzątania jednostki mieszkalnej?",
+    "answers": [
+      "Zapalić wszystkie światła.",
+      "Otworzyć okno.",
+      "Opróżnić kosz na śmieci.",
+      "Zmienić pościel."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 204,
+    "text": "Do hotelu wpłynęło zamówienie na organizację konferencji dla 33 osób, które będą pracowały w trzyosobowych grupach na stanowisku wyposażonym w jeden komputer. Która sala konferencyjna powinna zostać zarezerwowana dla zamawiającego usługę?",
+    "answers": [
+      "Sala nr I",
+      "Sala nr II",
+      "Sala nr IV",
+      "Sala nr III"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_tabela22.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 205,
+    "text": "Który z pracowników służby pięter na bieżąco współpracuje z dysponentem w zakresie aktualizowania informacji o stanie pokoi i kolejności ich sprzątania?",
+    "answers": [
+      "Inspektor pięter.",
+      "Korytarzowa.",
+      "Pokojowa lotna.",
+      "Magazynier."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 206,
+    "text": "Które urządzenie należy zastosować do pielęgnacji lakierowanej podłogi drewnianej?",
+    "answers": [
+      "Zamiatarkę.",
+      "Polerkę.",
+      "Mop.",
+      "Ekstraktor."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 207,
+    "text": "Czuwanie nad bezpieczeństwem gości i ich rzeczy, dyskretne obserwowanie osób przebywających w ciągach komunikacyjnych oraz informowanie recepcji o naruszaniu regulaminu hotelu, to obowiązki",
+    "answers": [
+      "inspektorki.",
+      "kierownika służby pięter.",
+      "kierownika piętra.",
+      "pokojowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 208,
+    "text": "W wyniku nie zachowania należytej ostrożności pokojowa uszkodziła powierzony jej sprzęt do utrzymania czystości w hotelu. Kto ponosi odpowiedzialność materialną za uszkodzone mienie?",
+    "answers": [
+      "Pokojowa w granicach rzeczywistej straty poniesionej przez właściciela hotelu.",
+      "Pokojowa w wysokości podwójnej wartości wyrządzonej szkody.",
+      "Solidarnie wszyscy pracownicy hotelu.",
+      "Wszyscy pracownicy służby pięter w ramach odpowiedzialności solidarnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 209,
+    "text": "Urządzenie przedstawione na ilustracji służy do",
+    "answers": [
+      "czyszczenia mebli tapicerowanych.",
+      "czyszczenia dywanów.",
+      "mycia szyb.",
+      "mycia urządzeń sanitarnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_urzadzenie-1.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 210,
+    "text": "Udostępnienie gościom hotelowym w czasie śniadania dużej liczby dań i napojów w dowolnej ilości, to bufet",
+    "answers": [
+      "polski.",
+      "czeski.",
+      "szwedzki.",
+      "francuski."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 211,
+    "text": "Zamawiający poprosił o teatralne ustawienie krzeseł w sali wielofunkcyjnej. Który schemat ustawienia jest zgodny z zamówieniem?",
+    "answers": [
+      "Schemat A.",
+      "Schemat D.",
+      "Schemat B.",
+      "Schemat C."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_schematy.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 212,
+    "text": "Który rozmiar obrusa należy dobrać do stołu o wymiarach 80 cm x 80 cm?",
+    "answers": [
+      "100 cm x 100 cm",
+      "150 cm x 160 cm",
+      "120 cm x 120 cm",
+      "130 cm x 150 cm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 213,
+    "text": "Jak nazywa się bielizna stołowa upięta wzdłuż obwodu stołu w sposób przedstawiony na ilustracji?",
+    "answers": [
+      "Molton.",
+      "Obrus.",
+      "Serweta.",
+      "Skirting."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_bielizna3.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 214,
+    "text": "Który dokument sporządza się na zamieszczonym formularzu?",
+    "answers": [
+      "Kwit depozytowy.",
+      "Kwit kaucyjny.",
+      "Rozliczenie usługi podstawowej.",
+      "Zlecenie usługi dodatkowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_formularz2.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 215,
+    "text": "Przedstawiony na ilustracji zestaw jest charakterystyczny dla śniadania",
+    "answers": [
+      "okolicznościowego.",
+      "angielskiego.",
+      "pełnego.",
+      "amerykańskiego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_zestaw.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 216,
+    "text": "Który zabieg należy wykonać podczas obróbki wstępnej jaj w celu zabezpieczenia przed zakażeniem Salmonellą?",
+    "answers": [
+      "Naświetlanie promieniami UV.",
+      "Podgrzanie w kuchni mikrofalowej.",
+      "Mycie pod bieżącą wodą.",
+      "Moczenie w wodzie z dodatkiem octu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 217,
+    "text": "Przedstawione na ilustracji udogodnienie jest szczególnie przydatne dla chcących skorzystać z basenu hotelowego",
+    "answers": [
+      "dzieci.",
+      "osób poruszających się na wózkach.",
+      "sportowców.",
+      "osób starszych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_zdjecie3.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 218,
+    "text": "Przedstawiony na zamieszczonej ilustracji dzbanek, służy do podania",
+    "answers": [
+      "śmietanki.",
+      "herbaty.",
+      "kawy.",
+      "mleka."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_dzbanek.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 219,
+    "text": "Kiedy należy przeprowadzić w hotelu sprzątanie okolicznościowe?",
+    "answers": [
+      "Po wyjeździe osób indywidualnych.",
+      "Przed świętami.",
+      "Po wyjeździe grupy turystycznej.",
+      "Przed sezonem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 220,
+    "text": "Jakie warunki powinny panować w pomieszczeniach magazynowych, służących do przechowywania warzyw, takich jak kalafior, kapusta, marchew, por?",
+    "answers": [
+      "Wilgotność 95%-100%, temperatura od 0°C do 1°C.",
+      "Wilgotność 70%-80%, temperatura od -3°C do 0°C.",
+      "Wilgotność 90%-95%, temperatura od 8°C do 12°C.",
+      "Wilgotność 80%-90%, temperatura od 10°C do 15°C."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 221,
+    "text": "Którą metodę należy zastosować aby usunąć gumę do żucia przyklejoną do dywanu?",
+    "answers": [
+      "Posypać sodą.",
+      "Posypać solą.",
+      "Użyć odplamiacza.",
+      "Użyć zamrażacza."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 222,
+    "text": "Ile wody powinna dodać pokojowa, przygotowując roztwór na bazie 0,5 litra koncentratu, jeżeli wymaga on rozcieńczenia w stosunku 1:4?",
+    "answers": [
+      "1,0 l",
+      "4,0 l",
+      "0,5 l",
+      "2,0 l"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 223,
+    "text": "Na podstawie zamieszczonego kwitu, oblicz kwotę do zapłaty za usługi parkingowe.",
+    "answers": [
+      "50,00 zł",
+      "25,00 zł",
+      "75,00 zł",
+      "100,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_kwit3.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 224,
+    "text": "Który z przedstawionych noży służy do krojenia wędlin i jest wykładany na bufecie śniadaniowym?",
+    "answers": [
+      "Nóż 2.",
+      "Nóż 1.",
+      "Nóż 4.",
+      "Nóż 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_noze4.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 225,
+    "text": "Które elementy zastawy stołowej zostaną wykorzystane do podania, gościowi na śniadanie, jajka na miękko?",
+    "answers": [
+      "Głęboki talerz lub miseczka na podstawce i łyżka.",
+      "Spodek, kieliszek do jajka i łyżeczka.",
+      "Wygrzany talerz zakąskowy, nóż i widelec.",
+      "Talerzyk płaski, mały nóż i widelec."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 226,
+    "text": "Kiedy należy umieścić w pokoju hotelowym wstawkę dla gościa VIP, składającą się między innymi z butelki schłodzonego szampana oraz kosza z owocami i ciastkami?",
+    "answers": [
+      "W dniu przyjazdu, po wejściu gościa do pokoju.",
+      "W dniu wyjazdu, przed opuszczeniem pokoju przez gościa.",
+      "W dniu przyjazdu, przed wejściem gościa do pokoju.",
+      "W dniu wyjazdu gościa, wczesnym rankiem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 227,
+    "text": "Jak długo można przechowywać mleko w warunkach chłodniczych po otwarciu opakowania?",
+    "answers": [
+      "2 dni.",
+      "5 dni.",
+      "12 godzin.",
+      "1 tydzień."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 228,
+    "text": "Który dokument został zamieszczony w ramce?",
+    "answers": [
+      "Zgłoszenie zniszczenia rzeczy pozostawionych w pokoju hotelowym.",
+      "Druk rzeczy pozostawionych w pokoju hotelowym.",
+      "Protokół wydania rzeczy pozostawionych w pokoju hotelowym.",
+      "Druk przyjęcia rzeczy znalezionych w pokoju hotelowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/a35_dokument8.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 229,
+    "text": "Wskaż prawidłową kolejność czynności wykonywanych przez pokojową podczas sprzątania pokoju hotelowego.",
+    "answers": [
+      "Opróżnienie kosza, ścielenie łóżka, odkurzanie, otwarcie okna.",
+      "Otwarcie okna, opróżnienie kosza, ścielenie łóżka, odkurzanie.",
+      "Otwarcie okna, ścielenie łóżka, odkurzanie, opróżnienie kosza.",
+      "Ścielenie łóżka, opróżnienie kosza, odkurzanie, otwarcie okna."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 230,
+    "text": "Pokojowa podczas sprzątania jednostki mieszkalnej zwolnionej przez gościa zauważyła pozostawiony na fotelu telefon komórkowy. Jak powinna w takiej sytuacji postąpić?",
+    "answers": [
+      "Przekazać telefon komórkowy dyrektorowi, spisując z nim protokół przekazania.",
+      "Pozostawić telefon komórkowy w miejscu znalezienia.",
+      "Przekazać telefon komórkowy kierownikowi służby pięter.",
+      "Zabrać telefon komórkowy, zejść do recepcji i złożyć go do sejfu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 231,
+    "text": "Kto ponosi odpowiedzialność w przypadku stwierdzenia braku bielizny pościelowej w magazynie?",
+    "answers": [
+      "Kierownik recepcji.",
+      "Inspektor pięter.",
+      "Magazynier bielizny.",
+      "Pokojowa lotna."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 232,
+    "text": "Którą formę serwowania śniadania, powinien zastosować kelner wobec gościa, który wybiera dania z karty?",
+    "answers": [
+      "Bankietową.",
+      "A’ la carte.",
+      "A part.",
+      "Bufetową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 233,
+    "text": "Która grupa usług zawiera wyłącznie usługi komplementarne bezpłatne?",
+    "answers": [
+      "Udzielanie informacji, przekazywanie wiadomości, wezwanie taksówki.",
+      "Budzenie, wypożyczenie leżaków, rezerwacja biletu na spektakl teatralny.",
+      "Jazda konna, udzielenie pierwszej pomocy, wskazanie drogi do banku.",
+      "Podawanie śniadania do pokoju, wymiana walut, sala zabaw."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 234,
+    "text": "Na czym polega standardowa metoda ścielenia łóżka stosowana w hotelu 5*?",
+    "answers": [
+      "Na materac zabezpieczony ochraniaczem kładzie się prześcieradło, a następnie obleczone w poszewki kołdrę i poduszki, a całość przykrywa się drugim prześcieradłem.",
+      "Jednym prześcieradłem przykrywa się materac, na nim kładzie się drugie prześcieradło, a następnie narzutę.",
+      "Jednym prześcieradłem przykrywa się materac, na nim kładzie się drugie prześcieradło, następnie koc, na który nawija się fragment drugiego prześcieradła.",
+      "Na materac zabezpieczony ochraniaczem kładzie się prześcieradło, a następnie obleczone w poszewki kołdrę i poduszki, a całość przykrywa się narzutą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 235,
+    "text": "Przedstawiony na rysunku zestaw zawiera produkty typowe dla śniadania",
+    "answers": [
+      "kontynentalnego.",
+      "angielskiego.",
+      "myśliwskiego.",
+      "wiedeńskiego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_wstawka.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 236,
+    "text": "Od której kategorii hotele i motele, są zobowiązane do świadczenia usługi sprzedaży lub udostępniania prasy codziennej?",
+    "answers": [
+      "1*",
+      "2*",
+      "3*",
+      "4*"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 237,
+    "text": "Przedstawiony na zamieszczonym rysunku dzbanek, służy do podania",
+    "answers": [
+      "śmietanki.",
+      "mleka.",
+      "kawy.",
+      "herbaty."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_dzbanek.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 238,
+    "text": "Do którego rodzaju śniadania należy przygotować przedstawione na rysunku nakrycie?",
+    "answers": [
+      "Wiedeńskiego.",
+      "Myśliwskiego.",
+      "Kontynentalnego.",
+      "Angielskiego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_nakrycie4.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 239,
+    "text": "Na podstawie fragmentu wymagań kategoryzacyjnych wskaż, ile powinna wynosić minimalna powierzchnia pokoju 3-osobowego w hotelu 3*.",
+    "answers": [
+      "12 m2",
+      "16 m2",
+      "14 m2",
+      "18 m2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_tabela20.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 240,
+    "text": "Które urządzenie gastronomiczne przedstawiono na rysunku?",
+    "answers": [
+      "Warnik.",
+      "Grill.",
+      "Opiekacz.",
+      "Bemar."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_urzadzenie5.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 241,
+    "text": "Który zestaw zawiera wyłącznie składniki śniadania wiedeńskiego wzmocnionego?",
+    "answers": [
+      "Kawa, herbata, ciasto drożdżowe, jajo po wiedeńsku, masło, sery.",
+      "Pieczywo pszenne, kawa, mleko lub śmietanka, jajo po wiedeńsku, wędliny, sery.",
+      "Pieczywo razowe, kawa, świeży sok, jajo po wiedeńsku, wędliny, sery.",
+      "Kawa, herbatniki, zupa mleczna, jajo po wiedeńsku, wędliny, sery."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 242,
+    "text": "Pokoje hotelowe dostosowane do potrzeb osób poruszających się na wózkach inwalidzkich należą do jednostek",
+    "answers": [
+      "rezydencjonalnych.",
+      "standardowych.",
+      "podstawowych.",
+      "specjalnych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 243,
+    "text": "W których jednostkach mieszkalnych występuje węzeł higieniczno-sanitarny z elementami wyposażenia przedstawionymi na rysunku?",
+    "answers": [
+      "Standardowych.",
+      "Reprezentacyjnych.",
+      "Popularnych.",
+      "Wielołóżkowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_wyposazenie3.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 244,
+    "text": "Która z wymienionych czynności należy do obowiązków pokojowej?",
+    "answers": [
+      "Opracowanie miesięcznych harmonogramów pracy.",
+      "Codzienna kontrola czystości pokoi.",
+      "Zbieranie brudnej bielizny pościelowej do prania.",
+      "Prowadzenie magazynu środków czystości."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 245,
+    "text": "W terminie od 4 do 17 listopada 2021 r. pani Maria Nowakowska przebywała w hotelu. Czwartego dnia pobytu złożyła zamówienie na masaże. Wskaż datę wystawienia dokumentu przez pracownika hotelu.",
+    "answers": [
+      "7 listopada 2021 r.",
+      "8 listopada 2021 r.",
+      "11 listopada 2021 r.",
+      "4 listopada 2021 r."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_dokument5.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 246,
+    "text": "Na podłodze w holu recepcyjnym znajdują się czarne smugi z obcasów. Który środek należy zastosować, aby je usunąć?",
+    "answers": [
+      "Zimną wodę.",
+      "Benzynę ekstrakcyjną.",
+      "Roztwór szamponu.",
+      "Rozcieńczony spirytus."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 247,
+    "text": "Wskaż sposób podania śniadania do pokoju dla dwóch osób.",
+    "answers": [
+      "Na paterze.",
+      "Na półmisku.",
+      "Na tacy.",
+      "Na talerzu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 248,
+    "text": "Która grupa elementów stanowi skład pełnego węzła sanitarnego w hotelowej jednostce mieszkalnej?",
+    "answers": [
+      "Umywalka, natrysk i wc.",
+      "Umywalka, wanna z natryskiem i wc.",
+      "Umywalka, wanna z natryskiem, bidet i wc.",
+      "Umywalka, natrysk, bidet i wc."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 249,
+    "text": "Który rodzaj ustawienia krzeseł w hotelowej sali konferencyjnej powinno się zaproponować organizatorom kongresu dla 400 osób?",
+    "answers": [
+      "Teatralny.",
+      "Klasowy.",
+      "Owalny.",
+      "Bankietowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 250,
+    "text": "Które urządzenie służy do polerowania marmurowych posadzek w jednostkach mieszkalnych?",
+    "answers": [
+      "Urządzenie 1.",
+      "Urządzenie 4.",
+      "Urządzenie 2.",
+      "Urządzenie 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_urzadzenia4.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 251,
+    "text": "Do czyszczenia której powierzchni powinna pokojowa zastosować instrukcję Ścierać na wilgotno z łagodnym środkiem czyszczącym?",
+    "answers": [
+      "Niezmywalnych tapet.",
+      "Powierzchni obrazu.",
+      "Powierzchni z naturalnego kamienia.",
+      "Elementów z surowego drewna."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 252,
+    "text": "Które służby hotelowe utrzymują czystość i estetyczny wygląd części ogólnodostępnej dla gości?",
+    "answers": [
+      "Recepcji.",
+      "Parterowe.",
+      "Pralnicze.",
+      "Pięter."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 253,
+    "text": "Na podstawie grafiku obłożenia wskaż numery pokoi, które należy posprzątać „na czysto” 6 grudnia.",
+    "answers": [
+      "101,103,104",
+      "101,102,104",
+      "101,102,103",
+      "102,103,104"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_tabela16.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 254,
+    "text": "W trakcie sprzątania jednostki mieszkalnej pokojowa zauważyła mrówki. Niezwłocznie powinna zastosować",
+    "answers": [
+      "dezynfekcję.",
+      "sanityzację.",
+      "deratyzację.",
+      "dezynsekcję."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 255,
+    "text": "Urządzenie gastronomiczne przedstawione na zdjęciu, służy",
+    "answers": [
+      "jako termos do kawy.",
+      "jako termos do ciepłych dań.",
+      "do podgrzewania zupy.",
+      "do podgrzewania wody."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_urzadzenie10.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 256,
+    "text": "Wielopokojowe jednostki mieszkalne, przystosowane przede wszystkim do obsługi ruchu rodzinnego, to jednostki typu",
+    "answers": [
+      "apartamentowego.",
+      "specjalnego.",
+      "standardowego.",
+      "rezydencyjnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 257,
+    "text": "Jaką wartość odszkodowania powinien wypłacić hotel gościowi, jeżeli podczas sprzątania jednostki mieszkalnej został uszkodzony laptop o wartości 6 000,00 zł, a koszt doby hotelowej wynosił 300,00 zł.",
+    "answers": [
+      "9 000,00 zł",
+      "30 000,00 zł",
+      "6 000,00 zł",
+      "15 000,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 258,
+    "text": "Które z wymienionych surowców należy użyć do przygotowania omletu biszkoptowego?",
+    "answers": [
+      "Mąka, jajko, cukier.",
+      "Jajko, woda, sól, proszek do pieczenia.",
+      "Mąka, jajko, drożdże.",
+      "Jajko, woda, sól, soda oczyszczona."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 259,
+    "text": "Dokumentem wypełnianym przez inspektora pięter po kontroli jednostki mieszkalnej przygotowanej do sprzedaży, jest",
+    "answers": [
+      "protokół strat w pokoju.",
+      "karta sprawdzania pokoju.",
+      "harmonogram czasu pracy.",
+      "wykaz pokoi do sprzątnięcia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 260,
+    "text": "Który z podanych dokumentów jest podstawą do zapłaty za zrealizowane usługi dodatkowe?",
+    "answers": [
+      "Faktura.",
+      "Zestawienie kosztów.",
+      "Rachunek uproszczony.",
+      "Kosztorys."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 261,
+    "text": "Do usług dodatkowych nieodpłatnych w hotelu zalicza się",
+    "answers": [
+      "udzielanie informacji turystycznej.",
+      "dostarczanie posiłków do pokoju.",
+      "zapewnienie opieki nad dziećmi.",
+      "transfer gości z lotniska."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 262,
+    "text": "Do usunięcia plamy z mleka na wykładzinie dywanowej, pokojowa w pierwszej kolejności powinna użyć",
+    "answers": [
+      "acetonu.",
+      "spirytusu etylowego.",
+      "ciepłej wody.",
+      "odrdzewiacza."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 263,
+    "text": "Jakie wymiary powinien mieć obrus do nakrycia stołu 80 cm x 120 cm, przy założeniu, że zwisająca część ma wynosić 30 cm?",
+    "answers": [
+      "110 cm x 150 cm",
+      "160 cm x 240 cm",
+      "130 cm x 180 cm",
+      "140 cm x 180 cm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 264,
+    "text": "Którą kawę przygotowuje się napełniając filiżankę do 3/4 gorącym naparem espresso i przykrywając jej wierzch warstwą gęstej bitej śmietany?",
+    "answers": [
+      "Irish coffee.",
+      "Melange.",
+      "Cappuccino.",
+      "Murzynek."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 265,
+    "text": "Przygotowując jednostkę mieszkalną dla gościa VIP, pokojowa umieszcza w nim",
+    "answers": [
+      "ulotki reklamujące prestiżowe usługi hotelowe.",
+      "list powitalny podpisany przez dyrektora hotelu.",
+      "zestaw gadżetów hotelowych.",
+      "laptopa z drukarką."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 266,
+    "text": "W restauracji hotelowej część potraw przygotowano w obecności gości, wykorzystując wózek kelnerski. Którą metodę obsługi zastosowano?",
+    "answers": [
+      "Francuską.",
+      "Rosyjską.",
+      "Niemiecką.",
+      "Angielską."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 267,
+    "text": "Na podstawie analizy danych z tabeli, oblicz minimalną wartość energetyczną śniadania mężczyzny spożywającego regularnie pięć posiłków, którego dzienne zapotrzebowanie energetyczne wynosi 2000 kcal.",
+    "answers": [
+      "400 kcal",
+      "500 kcal",
+      "600 kcal",
+      "700 kcal"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_tabela17.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 268,
+    "text": "Który zestaw potraw i napojów należy przygotować dla gości korzystających z oferty śniadania kontynentalnego?",
+    "answers": [
+      "Herbatę z mlekiem, pieczywo ciemne, kiełbasę, pasztet.",
+      "Kawę, herbatę, rogaliki, masło, dżem, miód.",
+      "Sok pomarańczowy, pieczywo razowe, jaja sadzone na bekonie.",
+      "Sok jabłkowy, pieczywo jasne, ryby, jaja, naleśniki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 269,
+    "text": "Wskaż kolejność nakrycia stołu bielizną stołową.",
+    "answers": [
+      "Napperon, obrus stołowy, skirting.",
+      "Molton, napperon, skirting.",
+      "Obrus stołowy, laufer, skirting.",
+      "Molton, obrus stołowy, napperon."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 270,
+    "text": "Firma handlowa zleciła hotelowi zorganizowanie imprezy biznesowej z konferencją i bankietem dla 50 pracowników. Który dokument, w pierwszej kolejności, powinien sporządzić pracownik hotelu, aby zrealizować zamówienie?",
+    "answers": [
+      "Wstępną kalkulację przyjęcia.",
+      "Ofertę menu bankietu.",
+      "Umowę wstępną realizacji imprezy.",
+      "Ofertę sal bankietowych i konferencyjnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 271,
+    "text": "Wskaż metodę ścielenia łóżka, gdzie jednym prześcieradłem przykrywa się materac, na nim kładzie się drugie prześcieradło, następnie koc, na który wywija się fragment drugiego prześcieradła od strony wezgłowia, robiąc pewnego rodzaju śpiwór.",
+    "answers": [
+      "Francuska.",
+      "Niemiecka.",
+      "Standardowa.",
+      "Angielska."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 272,
+    "text": "Od której kategorii hotele i motele są zobowiązane do świadczenia usługi sprzedaży lub zapewnienia kosmetyków i środków higieny osobistej (co najmniej szczoteczki i pasty do zębów oraz kremu i maszynki do golenia)?",
+    "answers": [
+      "Od 2*",
+      "Od 3*",
+      "Od 1*",
+      "Od 4*"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 273,
+    "text": "W terminie od 4 do 17 marca 2021 r. pani Zuzanna Gajek przebywała w hotelu. Czwartego dnia pobytu złożyła zamówienie na masaż limfatyczny ciała. Wskaż datę wystawienia dokumentu, którą powinien wpisać pracownik hotelu na zamieszczonym dokumencie.",
+    "answers": [
+      "5 marca 2021 r.",
+      "8 marca 2021 r.",
+      "4 marca 2021 r.",
+      "7 marca 2021 r."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_dokument4.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 274,
+    "text": "Na podstawie analizy cennika usług pralniczych, oblicz kwotę do zapłaty za usługę prania i prasowania spodni i marynarki oraz prasowania koszuli i krawatu.",
+    "answers": [
+      "135,00 zł",
+      "122,00 zł",
+      "126,00 zł",
+      "133,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_cennik5.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 275,
+    "text": "Do podstawowego wyposażenia wózka serwisowego nie zalicza się",
+    "answers": [
+      "wiadra z mopem.",
+      "rękawiczek ochronnych.",
+      "szorowarki jednotarczowej.",
+      "worka na brudną bieliznę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 276,
+    "text": "Którą czynność podczas podawania śniadania w pokoju gościa należy wykonać w pierwszej kolejności?",
+    "answers": [
+      "Podać gościowi kartę menu room-service.",
+      "Poprawić ułożenie potraw na stoliku.",
+      "Ustalić miejsce podania śniadania.",
+      "Zaproponować gościowi nalanie kawy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 277,
+    "text": "Na podstawie fragmentu wymagań kategoryzacyjnych, wskaż minimalną powierzchnię mieszkalną 6-osobowego pokoju w hotelu dwugwiazdkowym.",
+    "answers": [
+      "16,5 m2",
+      "18,0 m2",
+      "27,0 m2",
+      "22,5 m2"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_tabela15.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 278,
+    "text": "Co powinna zrobić pokojowa, która sprzątając pokój po wyjeździe gościa znalazła zegarek?",
+    "answers": [
+      "Oddać go do depozytu.",
+      "Zawiadomić kierownika służby pięter.",
+      "Pozostawić zegarek w pokoju.",
+      "Poinformować dyrektora hotelu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 279,
+    "text": "Pięcioosobowa rodzina zarezerwowała w hotelu dwa pokoje: dwuosobowy z łożem małżeńskim oraz trzyosobowy. Wskaż pokoje, które należy przygotować na przyjazd gości?",
+    "answers": [
+      "TPL, SGL",
+      "TPL, DBL",
+      "DBL, TWIN",
+      "APT, TPL"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 280,
+    "text": "Do sporządzenia kawy po irlandzku należy przygotować napar kawowy oraz:",
+    "answers": [
+      "skórkę pomarańczową, wrzątek, cukier, śmietankę.",
+      "gin, sok grejpfrutowy, kostki lodu, cukier.",
+      "whisky, brązowy cukier, śmietankę.",
+      "mleko, śmietankę, cukier."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 281,
+    "text": "Umieszczony na opakowaniu środka czystości znak ostrzega przed substancją",
+    "answers": [
+      "żrącą.",
+      "utleniającą się.",
+      "łatwopalną.",
+      "rozpuszczającą się."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_znak.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 282,
+    "text": "Dyrektor banku złożył zamówienie do hotelu na zorganizowanie konferencji. Jej zakończeniem, ok. godz. 2000, ma być uroczyste przyjęcie na stojąco dla ok. 100 osób. Który rodzaj przyjęcia należy zaproponować klientowi?",
+    "answers": [
+      "Aperitif.",
+      "Brunch.",
+      "Przyjęcie bufetowe.",
+      "Lampkę wina."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 283,
+    "text": "Kto w hotelu prowadzi magazyn bielizny brudnej i czystej?",
+    "answers": [
+      "Inspektor bhp.",
+      "Kierownik pięter.",
+      "Pracownik pralni.",
+      "Magazynier bielizny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 284,
+    "text": "Który rodzaj pokoju hotelowego przedstawiono na zamieszczonej ilustracji?",
+    "answers": [
+      "Duplex.",
+      "Suit.",
+      "Twin.",
+      "Single."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_pokoj2.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 285,
+    "text": "Która potrawa o galaretowatej powierzchni powstaje przez wylanie masy jajecznej na patelnię i smażenie z jednej strony?",
+    "answers": [
+      "Jajecznica.",
+      "Omlet.",
+      "Kotlety z jaj.",
+      "Jaja sadzone."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 286,
+    "text": "Która z wymienionych usług hotelarskich nie jest usługą uzupełniającą?",
+    "answers": [
+      "Depozyt.",
+      "Doręczanie korespondencji.",
+      "Zajęcia fitness.",
+      "Korzystanie z apteczki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 287,
+    "text": "Które ustawienie stołów i krzeseł powinien zaproponować pracownik hotelu, członkom rodziny, na uroczystą kolację z okazji urodzin seniora rodu?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_ustawienia.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 288,
+    "text": "Organizowanie i nadzorowanie wszystkich czynności związanych z obsługą gości w pokojach hotelowych, to zadanie",
+    "answers": [
+      "kierownika służby pięter.",
+      "kierownika recepcji.",
+      "pokojowej.",
+      "dyrektora hotelu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 289,
+    "text": "Który z podanych zestawów zawiera napoje i produkty typowe wyłącznie dla śniadania amerykańskiego?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_tabele4.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 290,
+    "text": "Wskaż prawidłową kolejność nakrycia stołu bielizną stołową.",
+    "answers": [
+      "Napperon, obrus stołowy, skirting.",
+      "Obrus stołowy, laufer, skirting.",
+      "Molton, obrus stołowy, napperon.",
+      "Molton, napperon, skirting."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 291,
+    "text": "Które produkty można pokroić za pomocą przedstawionego na ilustracji urządzenia?",
+    "answers": [
+      "Pieczywo.",
+      "Ogórki.",
+      "Wędliny.",
+      "Sery."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_urzadzenie9.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 292,
+    "text": "Wskaż metodę obsługi rodzinnego świątecznego śniadania, którą zastosowano wobec gości, jeżeli kelnerzy przygotowali nakrycie przed ich przyjściem oraz ustawili na stole wszystkie potrawy.",
+    "answers": [
+      "Francuska.",
+      "Niemiecka.",
+      "Rosyjska.",
+      "Angielska."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 293,
+    "text": "W której formie serwowany jest kilkudaniowy posiłek najczęściej spotykany w sanatoriach i ośrodkach wypoczynkowych, podawany wszystkim gościom do stolików o ustalonych godzinach i po z góry określonej cenie?",
+    "answers": [
+      "Table d`hôte.",
+      "Bufetu śniadaniowego.",
+      "À la carte.",
+      "Wstawki śniadaniowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 294,
+    "text": "Przedstawiony na fotografii dzbanek należy stosować do podawania",
+    "answers": [
+      "herbaty.",
+      "wody.",
+      "kawy.",
+      "mleka."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_dzbanek3.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 295,
+    "text": "Których danych, zgodnie z procedurami hotelowymi, nie wpisuje się do protokołu znalezienia rzeczy?",
+    "answers": [
+      "Miejsca znalezienia.",
+      "Daty znalezienia przedmiotu.",
+      "Terminu pobytu gościa.",
+      "Imienia i nazwiska znalazcy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 296,
+    "text": "Która z podanych atrakcji proponowanych gościom hotelowym nie należy do usług specjalnych?",
+    "answers": [
+      "Masaż relaksacyjny.",
+      "Wstawienie do pokoju pianina.",
+      "Nurkowanie pod lodem.",
+      "Lot paralotnią."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 297,
+    "text": "Prezes firmy farmaceutycznej złożył zamówienie do hotelu na zorganizowanie konferencji. Na jej zakończenie, ok. godz. 2000, zaplanowano uroczyste przyjęcie na stojąco dla ok. 120 osób. Który rodzaj przyjęcia należy zaproponować klientowi?",
+    "answers": [
+      "Lampkę wina.",
+      "Aperitif.",
+      "Brunch.",
+      "Przyjęcie bufetowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 298,
+    "text": "Zakładanie czystego prześcieradła przedstawione na rysunkach 1-4 przebiega w kolejności",
+    "answers": [
+      "3-4-1-2",
+      "1-4-2-3",
+      "2-3-1-4",
+      "4-2-1-3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_rysunki.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 299,
+    "text": "Która tabela zawiera zalecany procentowy rozdział zapotrzebowania energetycznego na poszczególne posiłki?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_tabele3.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 300,
+    "text": "Na podstawie zamieszczonego cennika oraz informacji dodatkowych, oblicz wartość pakietu usług przygotowanego dla nowożeńców, którzy zarezerwowali pobyt w APT z pełnym wyżywieniem na 2 doby, w drugim dniu pobytu uroczystą kolację zamiast zwykłej oraz poinformowali, że przyjadą do hotelu po godzinie 17.00.",
+    "answers": [
+      "1 232,00 zł",
+      "1 440,00 zł",
+      "1 800,00 zł",
+      "1 752,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_tabela14.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 301,
+    "text": "Przesłane przez kontrahenta pisemne zamówienie usług dodatkowych wymaga od pracowników centrum biznesu",
+    "answers": [
+      "wyłącznie wpisania danych do karty rezerwacyjnej.",
+      "ustnego potwierdzenia realizacji usług.",
+      "pisemnego potwierdzenia realizacji usług.",
+      "wyłącznie przesłania kosztorysu do kontrahenta."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 302,
+    "text": "Której z podanych potraw nie można zaplanować na śniadanie dla gości przestrzegających diety wegańskiej?",
+    "answers": [
+      "Brokułów na parze.",
+      "Kuskusa z warzywami.",
+      "Jajek w koszulkach.",
+      "Płatków z owocami."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 303,
+    "text": "Do czego służy przedstawione na ilustacji urządzenie?",
+    "answers": [
+      "Do podgrzewania wody.",
+      "Do sporządzania koktajli owocowych.",
+      "Do dozowania soków.",
+      "Do sporządzania napojów mlecznych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_urzadzenie8.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 304,
+    "text": "Które elementy wyposażenia uzupełniającego jednostki mieszkalnej są obowiązkowe we wszystkich hotelach, bez względu na kategorię?",
+    "answers": [
+      "Hotelowe materiały piśmiennicze.",
+      "Zestawy do czyszczenia odzieży, obuwia oraz igielnik.",
+      "Szklanki lub inne naczynia do picia w ilości odpowiadającej liczbie osób w pokoju.",
+      "Woda butelkowana w liczbie odpowiadającej liczbie osób w pokoju."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 305,
+    "text": "W hotelu odremontowano 50 jednostek mieszkalnych. Który rodzaj sprzątania należy przeprowadzić w tych jednostkach?",
+    "answers": [
+      "Okolicznościowe.",
+      "Gruntowne.",
+      "Awaryjne.",
+      "Specjalne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 306,
+    "text": "Zabieg deratyzacji polega na zwalczaniu szkodliwych",
+    "answers": [
+      "bakterii.",
+      "owadów.",
+      "wirusów.",
+      "gryzoni."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 307,
+    "text": "Na którym rysunku przedstawiono zestaw do krojenia i nakładania sera znajdującego się na bufecie śniadaniowym?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_zestawy4.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 308,
+    "text": "W której sytuacji pracownik służby pięter może zabrać do prania odzież z pokoju gościa?",
+    "answers": [
+      "Bielizna leży na łóżku wraz z zamówieniem pralniczym.",
+      "Bielizna leży na podłodze w łazience.",
+      "Bielizna jest spakowana z zawieszką „Please make up the room\".",
+      "Bielizna jest spakowana w reklamówce i pozostawiona w szafie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 309,
+    "text": "Który element wyposażenia nie występuje w hotelowej sali konferencyjnej?",
+    "answers": [
+      "Hoker.",
+      "Wizualizer.",
+      "Flipchart.",
+      "Projektor."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 310,
+    "text": "Którą z wymienionych czynności należy wykonać w pierwszej kolejności podczas sprzątania jednostki mieszkalnej?",
+    "answers": [
+      "Zetrzeć kurze z mebli.",
+      "Wymienić pościel.",
+      "Odkurzyć dywan.",
+      "Opróżnić kosz."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 311,
+    "text": "Która grupa zawiera podstawowe elementy nakrycia do śniadania prostego?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_tabele5.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 312,
+    "text": "Którą formę podawania śniadania powinno się zaproponować nowożeńcom, planującym pobyt w apartamencie, po przyjęciu weselnym?",
+    "answers": [
+      "Bufet śniadaniowy.",
+      "A'la carte.",
+      "Room service.",
+      "Zestaw śniadaniowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 313,
+    "text": "Na podstawie przedstawionej instrukcji ustal ilość proszku do prania 30 kg obrusów. Do prania obrusów zastosuj: 20 dag proszku na 1 kg prania",
+    "answers": [
+      "3,5 kg",
+      "1,5 kg",
+      "6,0 kg",
+      "2,0 kg"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 314,
+    "text": "W odpowiedzi na zamówienie na usługi hotelarskie, obejmujące oprócz noclegów i wyżywienia również usługi SPA, hotel powinien zaproponować",
+    "answers": [
+      "łaźnię parową.",
+      "grę w bilard.",
+      "jazdę konno.",
+      "zajęcia fitness."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 315,
+    "text": "Który zabieg należy przeprowadzić, jeżeli w magazynie pościeli stwierdzono obecność gryzoni?",
+    "answers": [
+      "Dezynsekcję.",
+      "Deodoryzację.",
+      "Deratyzację.",
+      "Dezynfekcję."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 316,
+    "text": "Utrzymanie czystości i porządku w części Wellness & SPA hotelu należy do obowiązków pracowników",
+    "answers": [
+      "działu technicznego.",
+      "działu rekreacji.",
+      "służby pięter.",
+      "służby parterowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 317,
+    "text": "Które urządzenie gastronomiczne przedstawiono na zdjęciu?",
+    "answers": [
+      "Bemar.",
+      "Hocker.",
+      "Dekanter.",
+      "Salamander."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_urzadzenie2.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 318,
+    "text": "Co należy umieścić, oprócz deski i noża na stole śniadaniowym, w miejscu do krojenia chleba?",
+    "answers": [
+      "Białą serwetę.",
+      "Naczynie z wodą.",
+      "Sztućce serwisowe.",
+      "Podkłady pod talerze."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 319,
+    "text": "Usługi kosmetyczne świadczone gościom w hotelu są usługami",
+    "answers": [
+      "towarzyszącymi o charakterze osobistym.",
+      "komplementarnymi.",
+      "towarzyszącymi o charakterze handlowym.",
+      "fakultatywnymi."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 320,
+    "text": "W którym z podanych miejsc pokojowa powinna umieścić zamieszczoną w ramce informację?",
+    "answers": [
+      "Na biurku.",
+      "W szafie.",
+      "Na łóżku.",
+      "W łazience."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_ramka5.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 321,
+    "text": "Ile wody i środka czyszczącego powinna zużyć korytarzowa do umycia posadzki w hallu recepcyjnym o powierzchni 80 m2, jeżeli zgodnie z hotelową procedurą sprzątania na każde 10 m2 należy zużyć 10 litrów wody i 25 ml środka czyszczącego?",
+    "answers": [
+      "100 litrów wody i 250 ml środka czyszczącego.",
+      "40 litrów wody i 25 ml środka czyszczącego.",
+      "80 litrów wody i 150 ml środka czyszczącego.",
+      "80 litrów wody i 200 ml środka czyszczącego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 322,
+    "text": "W jaki sposób powinien postąpić pracownik room service po wejściu do pokoju gościa, który zamówił dodatkowo płatne śniadanie do pokoju?",
+    "answers": [
+      "Ustawić tacę na stoliku, przyjąć należność i pożegnać gościa.",
+      "Ustawić tacę we wskazanym miejscu, zapytać o dodatkowe życzenia i podać rachunek do podpisu.",
+      "Ustawić tacę na stoliku, życzyć smacznego i uprzejmie pożegnać gościa.",
+      "Ustawić tacę we wskazanym miejscu, życzyć smacznego i przyjąć należność."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 323,
+    "text": "Na podstawie fragmentu wymagań kategoryzacyjnych, wskaż minimalną powierzchnię mieszkalną 6-osobowego pokoju w hotelu jednogwiazdkowym.",
+    "answers": [
+      "24,0 m2",
+      "22,5 m2",
+      "18,5 m2",
+      "16,0 m2"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_tabela18.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 324,
+    "text": "W terminie od 4 do 17 grudnia 2021 r. pani Zuzanna Gajek przebywała w hotelu. Czwartego dnia pobytu złożyła zamówienie na masaż limfatyczny ciała. Wskaż datę wystawienia dokumentu, którą powinien wpisać pracownik hotelu na zamieszczonym dokumencie.",
+    "answers": [
+      "7 grudnia 2021 r.",
+      "4 grudnia 2021 r.",
+      "5 grudnia 2021 r.",
+      "8 grudnia 2021 r."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_ramka8.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 325,
+    "text": "Który z przedstawionych na rysunku układów sali wielofunkcyjnej jest optymalny dla organizacji dużych, kilkusetosobowych konferencji?",
+    "answers": [
+      "Układ 4.",
+      "Układ 2.",
+      "Układ 3.",
+      "Układ 1."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_uklady2.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 326,
+    "text": "Komu pokojowa powinna zgłosić, zauważone w trakcie sprzątania, braki w wyposażeniu jednostki mieszkalnej zwolnionej przez gościa?",
+    "answers": [
+      "Dyrektorowi hotelu.",
+      "Dyżurnemu recepcjoniście.",
+      "Kierownikowi służby pięter.",
+      "Pracownikowi działu technicznego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 327,
+    "text": "Którą jednostkę mieszkalną należy przygotować dla gościa rezerwującego pokój dwuosobowy z podwójnym łóżkiem?",
+    "answers": [
+      "Duplex.",
+      "Twin.",
+      "Double.",
+      "Suite."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 328,
+    "text": "W których z podanych obiektów hotelarskich jednostka mieszkalna musi posiadać łazienkę wyposażoną między innymi w wagę, telefon oraz płaszcz kąpielowy?",
+    "answers": [
+      "W hotelach i motelach 5*.",
+      "W hotelach i motelach 4*.",
+      "Tylko w motelach 4*.",
+      "Tylko w hotelach 5*."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 329,
+    "text": "Na podstawie zamieszczonego harmonogramu określ, jak często należy myć lampy wiszące w hotelu.",
+    "answers": [
+      "1 raz w tygodniu.",
+      "2 razy w roku.",
+      "2 razy dziennie.",
+      "1 raz na kwartał."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_ramka6.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 330,
+    "text": "Który rozmiar obrusa należy dobrać do stołu o wymiarach 100 cm x 100 cm?",
+    "answers": [
+      "140 cm x 140 cm",
+      "100 cm x 100 cm",
+      "120 cm x 160 cm",
+      "160 cm x 180 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 331,
+    "text": "Które płatki śniadaniowe będą odpowiednie dla gości z nietolerancją glutenu?",
+    "answers": [
+      "Orkiszowe.",
+      "Jęczmienne.",
+      "Ryżowe.",
+      "Pszenne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 332,
+    "text": "Który składnik wykorzystuje się jako dodatek do przygotowania kawy po wiedeńsku?",
+    "answers": [
+      "Konfiturę wiśniową.",
+      "Odrobinę koniaku.",
+      "Bitą śmietankę.",
+      "Skórkę pomarańczy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 333,
+    "text": "Dom wczasowy przygotowując się do sezonu letniego wykonuje szereg gruntownych prac porządkowych, w tym odsuwanie szaf i mebli, pranie firanek i zasłon, omiatanie ścian, cyklinowanie i pastowanie podłóg, trzepanie dywanów i mebli tapicerowanych. Wykonywane czynności zalicza się do sprzątania",
+    "answers": [
+      "sezonowego.",
+      "specjalnego.",
+      "awaryjnego.",
+      "bieżącego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 334,
+    "text": "W formularzu rzeczy znalezionych, oprócz opisu przedmiotu i daty znalezienia, należy umieścić",
+    "answers": [
+      "miejsce znalezienia.",
+      "kwotę odszkodowania.",
+      "cenę zakupu przedmiotu.",
+      "numer dowodu tożsamości znalazcy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 335,
+    "text": "Którą czynność powinna wykonać pokojowa w pierwszej kolejności podczas codziennego sprzątania jednostki mieszkalnej?",
+    "answers": [
+      "Opróżnić kosz na śmieci.",
+      "Zmienić pościel.",
+      "Otworzyć okno.",
+      "Wytrzeć kurze z mebli."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.03"
+  },
+  {
+    "id": 336,
+    "text": "Jakie urządzenie przedstawiono na zamieszczonym zdjęciu?",
+    "answers": [
+      "Zamiatarkę ręczną.",
+      "Ekstraktor piorący.",
+      "Myjkę ciśnieniową.",
+      "Odkurzacz samojezdny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt03/t12_urzadzenie4.png"
+    },
+    "category": "HGT.03"
+  },
+  {
+    "id": 337,
+    "text": "Jak nazywa się podkład z miękkiej tkaniny, który rozkłada się na blacie stołu celem lepszego ułożenia obrusa?",
+    "answers": [
+      "Molton.",
+      "Laufer.",
+      "Napperon.",
+      "Skirting."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.03"
+  }
+]
