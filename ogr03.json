@@ -1,0 +1,3809 @@
+[
+  {
+    "id": 1,
+    "text": "W produkcji szczepionych roślin ozdobnych pędy odbijające z podkładki należy usuwać",
+    "answers": [
+      "przed rozpoczęciem wegetacji.",
+      "po zakończeniu wegetacji.",
+      "po zdrewnieniu odrostów.",
+      "natychmiast po wyrośnięciu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 2,
+    "text": "Róża pomarszczona (Rosa rugosa) sadzona na skarpach przy trasach komunikacyjnych spełnia przede wszystkim funkcję",
+    "answers": [
+      "przeciwerozyjną.",
+      "klimatyczną.",
+      "gospodarczą.",
+      "sanitarną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 3,
+    "text": "Strefa bagienna zbiornika wodnego jest dobrym siedliskiem dla",
+    "answers": [
+      "olszy czarnej (Alnus glutinosa) i metasekwoi chińskiej (Metasequoia glyptostroboides).",
+      "brzozy brodawkowatej (Betula pendula) i modrzewia europejskiego (Larix decidua).",
+      "dębu szypułkowego (Quercus robur) i cyprysika nutkajskiego (Chamaecyparis nootkatensis).",
+      "jesionu pensylwańskiego (Fraxinus pennsylvanica) i jodły jednobarwnej (Abies concolor)."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 4,
+    "text": "Które rośliny można polecić do obsadzenia ogrodu skalnego o charakterze alpejskim?",
+    "answers": [
+      "Bluszcz pospolity (Hedera helix), funkia sina (Hosta glauca).",
+      "Krwawnik wiązówkowaty (Achillea filipendulina), serduszka piękne (Dicentra formosa).",
+      "Liliowiec ogrodowy (Hemerocallis × hybrida), kosaciec bródkowy (Iris germanica).",
+      "Smagliczka skalna (Alyssum saxatile), żagwin ogrodowy (Aubrieta × cultorum)."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 5,
+    "text": "Która roślina nie jest polecana do uprawy gruntowej w szkółce o suchej glebie klasy V?",
+    "answers": [
+      "Dereń kousa (Cornus kousa).",
+      "Rokitnik pospolity (Hippophaë rhamnoides).",
+      "Berberys Thunberga (Berberis thunbergii).",
+      "Perukowiec podolski (Cotinus coggygria)."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 6,
+    "text": "Do odchwaszczenia kwietnika sezonowego należy użyć narzędzia przedstawionego na",
+    "answers": [
+      "ilustracji 3.",
+      "ilustracji 2.",
+      "ilustracji 1.",
+      "ilustracji 4."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_narzedzia19.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 7,
+    "text": "Na jaką głębokość należy przekopać glebę zbitą i słabo przepuszczalną, przygotowując podłoże pod sadzenie grupy krzewów?",
+    "answers": [
+      "15-20 cm",
+      "5-10 cm",
+      "60-70 cm",
+      "30-40 cm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 8,
+    "text": "Do tworzenia niskich żywopłotów obwódkowych w ogrodach zabytkowych można zastosować",
+    "answers": [
+      "cis pospolity (Taxus baccata).",
+      "bukszpan wieczniezielony (Buxus sempervirens).",
+      "irgę błyszczącą (Cotoneaster lucidus).",
+      "ligustr pospolity (Ligustrum vulgare)."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 9,
+    "text": "Roślina oznaczona w ofercie szkółkarskiej symbolem C10 powinna być sprzedawana",
+    "answers": [
+      "z odsłoniętym systemem korzeniowym przyciętym na długość 10 cm.",
+      "w pojemniku szkółkarskim o objętości 10 l.",
+      "z niezabezpieczoną bryłą korzeniową o promieniu 10 cm.",
+      "w pojemniku z tkaniny polipropylenowej gr. 10 mm."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 10,
+    "text": "Z przedstawionego kosztorysu wynika, że wartość kosztów bezpośrednich robocizny związanej z przygotowaniem terenu o powierzchni 5,00 m2 pod obsadzenie kwiatowe, z wymianą gleby rodzimej, wynosi",
+    "answers": [
+      "1 993,10 zł",
+      "1 433,99 zł",
+      "863,85 zł",
+      "570,14 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_kosztorys5.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 11,
+    "text": "Na której ilustracji przedstawiono prawidłowo ukształtowany krzew róży piennej przeznaczonej do sadzenia w terenach zieleni?",
+    "answers": [
+      "Na ilustracji 3.",
+      "Na ilustracji 2.",
+      "Na ilustracji 4.",
+      "Na ilustracji 1."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_krzewy2.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 12,
+    "text": "Podczas sadzenia krzewów z odsłoniętym systemem korzeniowym na dnie dołka należy",
+    "answers": [
+      "usypać kopczyk z ziemi.",
+      "ubić powierzchnię szpadlem.",
+      "wykopać małe wgłębienie.",
+      "nasypać warstwę piasku."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 13,
+    "text": "Którą funkcję klimatyczną spełnia zieleń osiedlowa?",
+    "answers": [
+      "Zwiększa parowanie wody z gleby.",
+      "Zmniejsza wahania temperatur dobowych.",
+      "Obniża wilgotność powietrza.",
+      "Podwyższa temperatury dobowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 14,
+    "text": "Do nawadniania roślin zadarniających na skarpach należy zastosować",
+    "answers": [
+      "zraszacze wynurzeniowe.",
+      "maty podsiąkowe.",
+      "linie kroplujące.",
+      "zraszacze zamgławiające."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 15,
+    "text": "Miejsce upraw warzyw, ziół i drzew owocowych zaprojektowane w tylnej części ogrodu można zaliczyć do strefy",
+    "answers": [
+      "izolacyjnej.",
+      "reprezentacyjnej.",
+      "użytkowej.",
+      "rekreacyjnej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 16,
+    "text": "Które pnącze należy dobrać do obsadzenia podpory usytuowanej na stanowisku słonecznym, aby uzyskać jesienią efekt barwnego zharmonizowania z posadzonym w pobliżu sumakiem octowcem (Rhus typhina)?",
+    "answers": [
+      "Winobluszcz trójklapowy (Parthenocissus tricuspidata).",
+      "Bluszcz pospolity (Hedera helix).",
+      "Glicynia kwiecista (Wisteria floribunda).",
+      "Dławisz okrągłolistny (Celastrus orbiculatus)."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 17,
+    "text": "Forma „Aha” stosowana jest w celu",
+    "answers": [
+      "podkreślenia osi kompozycyjnych.",
+      "zamknięcia przestrzeni widokowej.",
+      "ukrycia granicy ogrodu.",
+      "zaakcentowania podziału ogrodu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 18,
+    "text": "Cięcie korygujące krzewu liściastego o drobnych, cienkich pędach należy wykonać za pomocą",
+    "answers": [
+      "piły spalinowej.",
+      "sekatora dwuręcznego.",
+      "sekatora jednoręcznego.",
+      "piły ręcznej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 19,
+    "text": "Część tabelaryczna inwentaryzacji dendrologicznej powinna zawierać dla każdego drzewa między innymi numer inwentaryzacyjny, nazwę gatunkową oraz",
+    "answers": [
+      "średnicę pnia na wysokości 50 cm.",
+      "powierzchnię korony w metrach kwadratowych.",
+      "porę kwitnienia.",
+      "opis stanu zdrowotnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 20,
+    "text": "Którego elementu rysunku nie może zabraknąć na planszy projektu koncepcyjnego?",
+    "answers": [
+      "Wymiarowania.",
+      "Legendy.",
+      "Tabliczki tytułowej.",
+      "Tabeli materiałowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 21,
+    "text": "Wnętrze ogrodowe przedstawione na ilustracji można sklasyfikować jako wnętrze",
+    "answers": [
+      "konkretne wydłużone.",
+      "subiektywne wydłużone.",
+      "subiektywne centralne.",
+      "konkretne centralne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_wnetrze2.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 22,
+    "text": "Wskaż poprawną kolejność technologiczną robót użyźniania obornikiem gleby w terenie zachwaszczonym.",
+    "answers": [
+      "Rozłożenie obornika, usunięcie chwastów, przekopanie podłoża.",
+      "Rozłożenie obornika, przekopanie podłoża, usunięcie chwastów.",
+      "Usunięcie chwastów, rozłożenie obornika, przekopanie podłoża.",
+      "Usunięcie chwastów, przekopanie podłoża, rozłożenie obornika."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 23,
+    "text": "Szyszki którego drzewa nie nadają się do wykonania stroików świątecznych?",
+    "answers": [
+      "Sosny pospolitej (Pinus sylvestris).",
+      "Jodły pospolitej (Abies alba).",
+      "Świerku pospolitego (Picea abies).",
+      "Modrzewia europejskiego (Larix decidua)."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 24,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR 2-21 oblicz nakłady robocizny związanej z przygotowaniem 50 m2 terenu pod obsadzenia kwiatowe w gruncie kategorii IV, z wymianą gleby rodzimej warstwą ziemi kompostowej grubości 15 cm.",
+    "answers": [
+      "35,575 r-g",
+      "57,59 r-g",
+      "71,15 r-g",
+      "28,795 r-g"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_tablica5.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 25,
+    "text": "Ile sztuk roślin potrzeba do obsadzenia rabaty o powierzchni 5 m2, jeżeli rośliny mają być posadzone w rozstawie 25 × 25 cm?",
+    "answers": [
+      "40 sztuk.",
+      "60 sztuk.",
+      "100 sztuk.",
+      "80 sztuk."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 26,
+    "text": "Plan terenu, na którym odległość wynosząca w rzeczywistości 5 m wynosi 2,5 cm, sporządzono w skali",
+    "answers": [
+      "1:100",
+      "1:200",
+      "1:20",
+      "1:50"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 27,
+    "text": "Który zabieg stosowany jest w uprawie różaneczników w celu zapewnienia corocznego obfitego kwitnienia?",
+    "answers": [
+      "Przycinanie pędów kwiatowych.",
+      "Usuwanie najniższych pędów.",
+      "Wyłamywanie przekwitłych kwiatostanów.",
+      "Podcinanie korzeni."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 28,
+    "text": "Kosiarkę rotacyjną ciągnikową można uruchomić wyłącznie",
+    "answers": [
+      "po podniesieniu fartucha ochronnego.",
+      "w położeniu transportowym, gdy jest podniesiona.",
+      "po odłączeniu wału przegubowo-teleskopowego.",
+      "w położeniu roboczym, gdy jest opuszczona."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 29,
+    "text": "Na ilustracji przedstawiono bryłę korzeniową drzewa przygotowanego do transportu. W specyfikacji, w pozycji „forma sprzedaży”, materiał szkółkarski powinien otrzymać symbol",
+    "answers": [
+      "bB",
+      "B+S",
+      "P",
+      "B"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_bryla.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 30,
+    "text": "Którą grupę środków ochrony roślin należy zastosować do walki z chorobami grzybowymi?",
+    "answers": [
+      "Fungicydy.",
+      "Herbicydy.",
+      "Akarycydy.",
+      "Moluskocydy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 31,
+    "text": "Cięcie formujące krzewu sosny górskiej (Pinus mugo) polega na skróceniu",
+    "answers": [
+      "zeszłorocznych pędów - latem.",
+      "tegorocznych pędów - jesienią.",
+      "zeszłorocznych pędów - zimą.",
+      "tegorocznych pędów - wiosną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 32,
+    "text": "Z których roślin można utworzyć grupę o czerwonych i czerwono-brązowych pędach ozdobnych zimą?",
+    "answers": [
+      "Kalina angieska (Viburnum × carlcephalum), dereń kousa (Cornus kousa).",
+      "Dereń biały (Cornus alba), berberys Thunberga (Berberis thunbergii).",
+      "Ognik szkarłatny (Pyracanta coccinea), wawrzynek wilczełyko (Daphne mezereum).",
+      "Bez czarny (Sambucus nigra), pigwowiec pośredni (Chaenomeles × superba)."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 33,
+    "text": "Których roślin należy użyć, aby stworzyć dekorację roślinną w ciepłej tonacji barw?",
+    "answers": [
+      "Szafirek drobnokwiatowy (Muscari botryoides), fiołek wonny (Viola odorata).",
+      "Kocimiętka Faassena (Nepeta × faassenii), parzydło leśne (Aruncus dioicus).",
+      "Kosaciec syberyjski (Iris sibirica), ostróżka ogrodowa (Delphinium × cultorum).",
+      "Liliowiec ogrodowy (Hemerocallis × hybrida), pełnik europejski (Trollius europaeus)."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 34,
+    "text": "Zgodnie z normą PN-B-01027:2002 do oznaczenia żywopłotu iglastego w projekcie zagospodarowania terenu należy zastosować symbol graficzny przedstawiony na",
+    "answers": [
+      "ilustracji 3.",
+      "ilustracji 1.",
+      "ilustracji 4.",
+      "ilustracji 2."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_symbole5.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 35,
+    "text": "W jaki sposób należy przygotować końcówki pędów róż ciętych przeznaczonych do wykonania wiązanki, aby przedłużyć ich trwałość?",
+    "answers": [
+      "Rozbić młotkiem.",
+      "Przypalić płomieniem.",
+      "Przyciąć prosto sekatorem.",
+      "Przyciąć skośnie ostrym nożem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 36,
+    "text": "Zabiegiem typowym dla wiosennego sadzenia krzewów róż rabatowych jest",
+    "answers": [
+      "kopczykowanie krzewów na wysokość około 30 cm.",
+      "przycinanie pędów między 3 a 5 oczkiem skierowanym na zewnątrz.",
+      "przycinanie pędów na wysokości około 30 cm.",
+      "cieniowanie krzewów gałęziami roślin iglastych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 37,
+    "text": "Kompozycja parteru przedstawionego na ilustracji jest charakterystyczna dla ogrodu",
+    "answers": [
+      "średniowiecznego.",
+      "japońskiego.",
+      "chińskiego.",
+      "renesansowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_kompozycja5.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 38,
+    "text": "Przedstawiona na ilustracji czynność wykonywana jest podczas",
+    "answers": [
+      "geodezyjnej inwentaryzacji powykonawczej.",
+      "zabiegów pielęgnacyjnych drzew.",
+      "inwentaryzacji dendrologicznej.",
+      "zabiegów leczniczych drzew."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_czynnosc.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 39,
+    "text": "Którą czynność przygotowującą podłoże do nasadzeń roślinnych należy wykonać jako pierwszą?",
+    "answers": [
+      "Wyrównanie terenu.",
+      "Wzbogacenie gleby w składniki pokarmowe.",
+      "Uporządkowanie terenu.",
+      "Spulchnienie wierzchniej warstwy gleby."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 40,
+    "text": "Która praca pielęgnacyjna wykonywana jest z wykorzystaniem narzędzia pokazanego na ilustracji?",
+    "answers": [
+      "Cięcie drzew.",
+      "Wykaszanie chwastów.",
+      "Koszenie trawy.",
+      "Przycinanie żywopłotu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_narzedzie9.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 41,
+    "text": "Przygotowanie gleby pod uprawę roślin wrzosowatych należy rozpocząć od",
+    "answers": [
+      "domieszania piasku.",
+      "wykonania nawożenia.",
+      "przekopania podłoża.",
+      "weryfikacji odczynu gleby."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 42,
+    "text": "Który gatunek rośliny polecany jest do tworzenia letnich kwietników dywanowych?",
+    "answers": [
+      "Lewkonia długopłatkowa (Matthiola longipetala).",
+      "Szałwia błyszcząca (Salvia splendens).",
+      "Aster krzaczasty (Symphyotrichum dumosum).",
+      "Groszek pachnący (Lathyrus odoratus)."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 43,
+    "text": "W pracowni florystycznej zamówiono skromną dekorację stołu na przyjęcie ślubne. Zgodnie z zamówieniem i przedstawionym na rysunku szkicem sytuacyjnym należy wykonać kompozycję",
+    "answers": [
+      "wysoką wielostronną.",
+      "niską wielostronną.",
+      "niską jednostronną.",
+      "wysoką jednostronną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_szkic.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 44,
+    "text": "Do posadzenia w parku na stanowisku cienistym i glebie wilgotnej można polecić",
+    "answers": [
+      "bodziszek popielaty (Geranium cinereum).",
+      "krwawnik wiązówkowaty (Achillea filipendulina).",
+      "parzydło leśne (Aruncus dioicus).",
+      "jeżówkę purpurową (Echinacea purpurea)."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 45,
+    "text": "Dodanie piasku do gleby ma na celu",
+    "answers": [
+      "rozluźnienie podłoża.",
+      "obniżenie pH podłoża.",
+      "zwiększenie zawartości makroelementów w podłożu.",
+      "podwyższenie wilgotności podłoża."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 46,
+    "text": "Ile wynosi projektowana rozstawa sadzenia irgi Dammera (Cotoneaster dammeri) zgodnie z przedstawionym fragmentem projektu wykonawczego?",
+    "answers": [
+      "0,25 × 0,25 m",
+      "0,50 × 0,50 m",
+      "0,20 × 0,20 m",
+      "0,80 × 0,80 m"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_projekt6.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 47,
+    "text": "Które pnącze charakteryzuje zdolność wspinania się po pniach drzew bez konieczności stosowania do tego celu dodatkowych specjalnych konstrukcji wspierających?",
+    "answers": [
+      "Malina (Rubus sp.).",
+      "Powojnik wielkokwiatowy (Clematis sp.).",
+      "Bluszcz pospolity (Hedera helix).",
+      "Róża wielokwiatowa (Rosa multiflora)."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 48,
+    "text": "Które rośliny wymagają corocznego cięcia wiosennego?",
+    "answers": [
+      "Sosny dwuigielne.",
+      "Róże rabatowe.",
+      "Jałowce płożące.",
+      "Berberysy zimozielone."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 49,
+    "text": "W celu poprawienia pojemności wodnej gleby piaszczystej, należy dodać do niej",
+    "answers": [
+      "mieloną korę.",
+      "substrat torfowy.",
+      "mielony dolomit.",
+      "gruboziarnisty żwir."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 50,
+    "text": "Którym narzędziem należy wykopać dół przeznaczony do posadzenia krzewu róży parkowej?",
+    "answers": [
+      "Łopatką.",
+      "Szuflą.",
+      "Szpadlem.",
+      "Łopatą."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 51,
+    "text": "Którą roślinę należy dobrać do bukietu z żółtych tulipanów, aby uzyskać kompozycję barwną kontrastową?",
+    "answers": [
+      "Pomarańczowe gerbery.",
+      "Fioletowe irysy.",
+      "Zielone anturium.",
+      "Różowe goździki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 52,
+    "text": "Ile sztuk roślin potrzeba do zagospodarowania terenu o powierzchni 5 m2, jeśli zalecana rozstawa wynosi 0,20 × 0,20 m?",
+    "answers": [
+      "25 sztuk.",
+      "125 sztuk.",
+      "100 sztuk.",
+      "20 sztuk."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 53,
+    "text": "Na którym schemacie przedstawiono poprawny sposób dołowania roślin?",
+    "answers": [
+      "Na schemacie 1.",
+      "Na schemacie 2.",
+      "Na schemacie 3.",
+      "Na schemacie 4."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_schematy3.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 54,
+    "text": "Które rośliny można polecić do sadzenia na brzegach cieków wodnych, w celu ich ochrony przed erozją?",
+    "answers": [
+      "Graby, dęby.",
+      "Głogi, śliwy.",
+      "Wierzby, topole.",
+      "Buki, klony."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 55,
+    "text": "Do nawadniania krzewów ozdobnych, posadzonych wzdłuż ogrodzenia ogrodu przydomowego, najlepiej polecić",
+    "answers": [
+      "nawadnianie zalewowe.",
+      "deszczowanie.",
+      "nawadnianie kropelkowe.",
+      "zamgławianie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 56,
+    "text": "Na której ilustracji przedstawiono widok fragmentu ogrodu o symetrycznym układzie kompozycji?",
+    "answers": [
+      "Na ilustracji 3.",
+      "Na ilustracji 2.",
+      "Na ilustracji 1.",
+      "Na ilustracji 4."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_ogrody2.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 57,
+    "text": "Ile wynosi maksymalny czas przechowywania zrolowanej darni, w chłodne dni wiosenne i jesienne, bez zagrożenia jej uszkodzenia?",
+    "answers": [
+      "0,5 doby.",
+      "2 doby.",
+      "7 dób.",
+      "5 dób."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 58,
+    "text": "Przedstawiony na rysunku piktogram, umieszczony na opakowaniu środka do ochrony roślin oznacza, że środek ten jest",
+    "answers": [
+      "koncentratem w formie płynnej do rozcieńczenia.",
+      "koncentratem w formie stałej do rozcieńczenia.",
+      "zawiesiną gotową do użycia.",
+      "roztworem wodnym gotowym do użycia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_piktogram.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 59,
+    "text": "Właściciel zamierza posadzić w ogrodzie różanecznik katawbijski (Rhododendron catawbiense). Gleba w miejscu sadzenia jest przepuszczalna, o odczynie obojętnym. Który zabieg jest niezbędny, aby przystosować warunki glebowe do potrzeb sadzonej rośliny?",
+    "answers": [
+      "Zakwaszanie.",
+      "Wapnowanie.",
+      "Wałowanie.",
+      "Zagęszczanie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 60,
+    "text": "Zgodnie z normą PN-B-01027:2002 przedstawiony symbol graficzny stosowany jest na projektach wykonawczych do oznaczania drzewa liściastego",
+    "answers": [
+      "do usunięcia.",
+      "projektowanego.",
+      "istniejącego.",
+      "do przesadzenia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_symbol4.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 61,
+    "text": "Zgodnie z zaleceniami jakościowymi dla materiału szkółkarskiego, opracowanymi przez Związek Szkółkarzy Polskich, przeznaczone do sprzedaży różaneczniki i azalie powinny mieć",
+    "answers": [
+      "wykształcone 2 lub 3 pędy z uformowanymi pąkami kwiatowymi.",
+      "wykształcone liścienie i pierwsze pędy.",
+      "wykształconą, rozwiniętą rozetę liściową.",
+      "wykształcone 2 lub 3 pędy, bez pąków kwiatowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 62,
+    "text": "Które rośliny można zastosować do uzupełnienia kompozycji ogrodu skalnego zaprojektowanego w kolorystyce białej?",
+    "answers": [
+      "Dąbrówkę rozłogową (Ajuga reptans), miłka wiosennego (Adonis vernalis).",
+      "Rojnik ogrodowy (Sempervivum hybridum), rozchodnik kamczacki (Sedum kamtschaticum).",
+      "Gęsiówkę kaukaską (Arabis caucasica), ubiorek wieczniezielony (Iberis sempervirens).",
+      "Omieg wschodni (Doronicum orientale), macierzankę piaskową (Thymus serpyllum)."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 63,
+    "text": "Do wykonania wiosennego cięcia prześwietlającego krzewów liściastych należy użyć narzędzia przedstawionego na",
+    "answers": [
+      "ilustracji 2.",
+      "ilustracji 1.",
+      "ilustracji 3.",
+      "ilustracji 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_narzedzia18.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 64,
+    "text": "Którego gatunku drzew nie należy przesadzać metodą z odkrytym systemem korzeniowym?",
+    "answers": [
+      "Klonu zwyczajnego (Acer platanoides).",
+      "Sosny pospolitej (Pinus sylvestris).",
+      "Lipy drobnolistnej (Tilia cordata).",
+      "Modrzewia europejskiego (Larix decidua)."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 65,
+    "text": "Ile wyniesie na planie w skali 1:50 długość projektowanego kwietnika sezonowego, jeżeli w rzeczywistości ma wynosić 3,0 m?",
+    "answers": [
+      "12,0 cm",
+      "6,0 cm",
+      "1,5 cm",
+      "15,0 cm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 66,
+    "text": "Który gatunek rośliny drzewiastej polecany jest do tworzenia szpalerów formowanych?",
+    "answers": [
+      "Buk pospolity (Fagus sylvatica).",
+      "Dąb szypułkowy (Quercus robur).",
+      "Jarząb pospolity (Sorbus aucuparia).",
+      "Topola biała (Populus alba)."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 67,
+    "text": "Które zasady kompozycji zostały wykorzystane w komponowaniu ogrodu przedstawionego na ilustracji?",
+    "answers": [
+      "Kontrast barw i asymetria.",
+      "Symetria i kontrast barw.",
+      "Dominanta i asymetria.",
+      "Symetria i dominanta."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_ogrod5.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 68,
+    "text": "Którego rodzaju nawozów nie należy stosować jesienią w uprawie krzewów i drzew ozdobnych?",
+    "answers": [
+      "Potasowych.",
+      "Azotowych.",
+      "Magnezowych.",
+      "Wapniowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 69,
+    "text": "Ile m3 ziemi urodzajnej należy przygotować do założenia rabaty o powierzchni 1 200 m2, jeżeli nakłady zużycia ziemi wynoszą 15,4 m3 na 100 m2?",
+    "answers": [
+      "184,80 m3",
+      "128,33 m3",
+      "18,48 m3",
+      "12,83 m3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 70,
+    "text": "W którym zakresie powinien mieścić się wskaźnik procentowy określający stopień otwarcia ścian wnętrza subiektywnego?",
+    "answers": [
+      "Poniżej 20%",
+      "Od 50% do 60%",
+      "Powyżej 60%",
+      "Od 20% do 40%"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 71,
+    "text": "Która praca pielęgnacyjna wykonywana jest z wykorzystaniem narzędzia przedstawionego na ilustracji?",
+    "answers": [
+      "Grabienie skoszonej trawy.",
+      "Rozgrabianie kretowisk.",
+      "Aeracja wgłębna.",
+      "Aeracja powierzchniowa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_narzedzie8.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 72,
+    "text": "Które rośliny można polecić do uprawy gruntowej w szkółce roślin ozdobnych zlokalizowanej na glebach ubogich, suchych i piaszczystych?",
+    "answers": [
+      "Borówki (Vaccinium sp.).",
+      "Jałowce (Juniperus sp.).",
+      "Żywotniki (Thuja sp.).",
+      "Azalie (Rhododendron sp.)."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 73,
+    "text": "Który sposób sadzenia można polecić do założenia wąskiego, bardzo zwartego żywopłotu z cisu pospolitego (Taxus baccata)?",
+    "answers": [
+      "Jednorzędowo, w dołach.",
+      "W trójkę, w dołach.",
+      "Jednorzędowo, w rowach.",
+      "W trójkę, w rowach."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 74,
+    "text": "Główną funkcją, którą spełnia szpaler drzew liściastych oddzielający teren zamieszkany od trasy komunikacyjnej, jest funkcja",
+    "answers": [
+      "izolacyjna.",
+      "kulturowa.",
+      "klimatyczna.",
+      "estetyczna."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 75,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR 2-21 oblicz koszt robocizny związanej z założeniem trawnika parkowego o powierzchni 0,5 ha metodą siewu, w gruncie kategorii III, z nawożeniem, jeżeli cena 1 roboczogodziny wynosi 30,00 zł.",
+    "answers": [
+      "1 859,40 zł",
+      "816,60 zł",
+      "928,20 zł",
+      "929,70 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_tablica4.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 76,
+    "text": "Przedstawione na ilustracji drzewa tworzą",
+    "answers": [
+      "dominantę.",
+      "rytm.",
+      "paralelę.",
+      "akcent."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_drzewa2.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 77,
+    "text": "Na przedstawionym graficznym opracowaniu inwentaryzacji szczegółowej terenu liczbą 18, zgodnie z normą PN-B-01027:2002, oznaczono",
+    "answers": [
+      "istniejący żywopłot liściasty.",
+      "istniejący żywopłot iglasty.",
+      "projektowany żywopłot iglasty.",
+      "projektowany żywopłot liściasty."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_inwentaryzacja2.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 78,
+    "text": "Do roślin cebulowych lub bulwiastych polecanych do tworzenia dekoracji florystycznych wczesną wiosną należą",
+    "answers": [
+      "czosnek ozdobny (Allium sp.), lilia złotogłów (Lilium martagon).",
+      "krokus (Crocus sp.), śnieżyczka przebiśnieg (Galanthus nivalis).",
+      "zimowit jesienny (Colchicum autumnale), tulipan ogrodowy (Tulipa).",
+      "mieczyk (Gladiolus sp.), kosaciec syberyjski (Iris sibirica)."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 79,
+    "text": "Ile projektowanych drzew liściastych zaznaczono na przedstawionym fragmencie planu?",
+    "answers": [
+      "4 drzewa.",
+      "3 drzewa.",
+      "1 drzewo.",
+      "2 drzewa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_plan4.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 80,
+    "text": "Które narzędzie przeznaczone jest do wykonywania zabiegu, którego kolejne etapy przedstawiono na ilustracji?",
+    "answers": [
+      "Nóż sierpak.",
+      "Nóż okulizak.",
+      "Sekator dwuręczny.",
+      "Sekator jednoręczny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_zabieg.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 81,
+    "text": "Która roślina jest polecana do wysiewania pod oknami domów, w pobliżu ławek i w skrzynkach balkonowych ze względu na intensywny i przyjemny zapach jej kwiatów w porze wieczornej?",
+    "answers": [
+      "Nachyłek okółkowy (Coreopsis verticillata).",
+      "Maczek kalifornijski (Eschscholtzia californica).",
+      "Lobelia przylądkowa (Lobelia erinus).",
+      "Lewkonia dwurożna (Matthiola longipetala)."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 82,
+    "text": "Główną funkcją, którą spełnia rząd drzew iglastych oddzielający teren zamieszkany od trasy komunikacyjnej, jest funkcja",
+    "answers": [
+      "izolacyjna.",
+      "klimatyczna.",
+      "kulturowa.",
+      "estetyczna."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 83,
+    "text": "Ile wyniesie na planie w skali 1:50 długość projektowanego kwietnika sezonowego, jeżeli w rzeczywistości długość ta ma wynosić 2,5 m?",
+    "answers": [
+      "25,0 cm",
+      "12,5 cm",
+      "2,5 cm",
+      "5,0 cm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 84,
+    "text": "Ile wynosi maksymalny czas przechowywania zrolowanej darni w chłodne dni wiosenne i jesienne, bez zagrożenia jej uszkodzenia?",
+    "answers": [
+      "5 dób.",
+      "2 doby.",
+      "0,5 doby.",
+      "7 dób."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 85,
+    "text": "Która roślina polecana jest do tworzenia żywopłotów obwódkowych?",
+    "answers": [
+      "Oliwnik wąskolistny (Eleagnus angustifolia).",
+      "Leszczyna pospolita (Corylus avellana).",
+      "Karagana syberyjska (Caragana arborescens).",
+      "Lawenda wąskolistna (Lavandula angustifolia)."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 86,
+    "text": "Do napowietrzenia trawnika należy użyć sprzętu przedstawionego na",
+    "answers": [
+      "ilustracji 1.",
+      "ilustracji 3.",
+      "ilustracji 4.",
+      "ilustracji 2."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_sprzety3.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 87,
+    "text": "Którą grupę środków ochrony roślin należy stosować do walki z chorobami grzybowymi?",
+    "answers": [
+      "Fungicydy.",
+      "Herbicydy.",
+      "Moluskocydy.",
+      "Akarycydy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 88,
+    "text": "Która grupa roślin stosowana jest do użyźniania i rekultywacji gleb na terenach zdegradowanych?",
+    "answers": [
+      "Rośliny zielarskie.",
+      "Rośliny miododajne.",
+      "Rośliny motylkowe.",
+      "Rośliny wrzosowate."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 89,
+    "text": "Wnętrze krajobrazowe, którego otwarcie ścian waha się między 30% a 60%, to rodzaj wnętrza",
+    "answers": [
+      "subiektywnego.",
+      "otwartego.",
+      "konkretnego.",
+      "obiektywnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 90,
+    "text": "Wskaż poprawną kolejność technologiczną robót związanych z użyźnianiem gleby obornikiem w terenie zachwaszczonym.",
+    "answers": [
+      "Rozłożenie obornika, przekopanie podłoża, usunięcie chwastów.",
+      "Usunięcie chwastów, przekopanie podłoża, rozłożenie obornika.",
+      "Usunięcie chwastów, rozłożenie obornika, przekopanie podłoża.",
+      "Rozłożenie obornika, usunięcie chwastów, przekopanie podłoża."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 91,
+    "text": "Który zabieg szkółkarski służy do uzyskiwania przedstawionej na ilustracji formy płaczącej świerka pospolitego ‘Inversa’?",
+    "answers": [
+      "Skarlanie.",
+      "Szczepienie.",
+      "Sadzonkowanie.",
+      "Siew."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_swierk.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 92,
+    "text": "Które jednostki miary stosowane są w inwentaryzacji dendrologicznej do zapisywania pomierzonych wielkości obwodu pnia oraz średnicy korony drzewa?",
+    "answers": [
+      "Obwód pnia – [m]; średnica korony – [m]",
+      "Obwód pnia – [cm]; średnica korony – [m]",
+      "Obwód pnia – [cm]; średnica korony – [cm]",
+      "Obwód pnia – [mm]; średnica korony – [cm]"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 93,
+    "text": "Do obsadzenia roślinami małych rond wielkomiejskich można polecić",
+    "answers": [
+      "różaneczniki (Rhododendron sp.).",
+      "laurowiśnie (Prunus laurocerasus).",
+      "róże okrywowe (Rosa sp.).",
+      "magnolie (Magnolia sp.)."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 94,
+    "text": "W celu nawadniania murawy boiska szkolnego najlepiej zastosować system",
+    "answers": [
+      "linii kroplujących.",
+      "taśm kroplujących.",
+      "mikrozraszaczy.",
+      "zraszaczy wynurzalnych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 95,
+    "text": "Ile sztuk roślin potrzeba do zagospodarowania terenu o powierzchni 7 m2, jeśli zalecana rozstawa wynosi 0,25 × 0,25 m?",
+    "answers": [
+      "175 sztuk.",
+      "28 sztuk.",
+      "35 sztuk.",
+      "112 sztuk."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 96,
+    "text": "W terenie oczyszczonym z chwastów wytyczono powierzchnię o wymiarach 2,0 × 3,0 m pod obsadzenie kwietnikowe. Który zestaw narzędzi i sprzętu jest potrzebny do obsadzenia tego terenu roślinami jednorocznymi?",
+    "answers": [
+      "Szpadel, grabie, łopatka, konewka.",
+      "Widły, zagęszczarka, szpadel, wąż ogrodowy.",
+      "Łopata, wał gładki, szufelka, wiadro.",
+      "Glebogryzarka, wał strunowy, sadzarka, system nawadniający."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 97,
+    "text": "Do nasadzeń na stanowiskach o kwaśnym odczynie gleby należy polecić",
+    "answers": [
+      "wrzos pospolity (Calluna vulgaris).",
+      "czyściec wełnisty (Stachys byzantina).",
+      "lawendę wąskolistną (Lavandula angustifolia).",
+      "rozchodnik okazały (Sedum spectabile)."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 98,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR 2-21 oblicz liczbę sztuk roślin potrzebnych do obsadzenia kwietnika o powierzchni 75 m2 roślinami jednorocznymi w ilości 4 sztuki na 1 m2.",
+    "answers": [
+      "1 680 szt.",
+      "315 szt.",
+      "31 500 szt.",
+      "300 szt."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_tabela34.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 99,
+    "text": "Gąbkę florystyczną przeznaczoną do układania w naczyniu kompozycji z żywych kwiatów ciętych przedstawiono na",
+    "answers": [
+      "ilustracji 1.",
+      "ilustracji 4.",
+      "ilustracji 2.",
+      "ilustracji 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_gabki3.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 100,
+    "text": "Dodanie piasku do podłoża ma na celu",
+    "answers": [
+      "zwiększenie zawartości makroelementów w podłożu.",
+      "podwyższenie wilgotności podłoża.",
+      "rozluźnienie podłoża.",
+      "obniżenie pH podłoża."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 101,
+    "text": "Który gatunek rośliny należy dobrać, aby dekoracja florystyczna została utrzymana w odcieniach szarości?",
+    "answers": [
+      "Rącznik pospolity (Ricinus communis).",
+      "Starzec popielny (Senecio cineraria).",
+      "Ubiorek tarczowy (Iberis umbellata).",
+      "Nagietek lekarski (Calendula officinalis)."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 102,
+    "text": "Który zabieg należy wykonać bezpośrednio po rozłożeniu darni, podczas zakładania trawnika metodą darniowania?",
+    "answers": [
+      "Wałowanie.",
+      "Koszenie.",
+      "Nawożenie.",
+      "Podlewanie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 103,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR 2-21 oblicz koszt robocizny związanej z posadzeniem 150 sztuk krzewów żywopłotowych w rowach bez zaprawy dołów, w gruncie kategorii IV, jeżeli stawka wynagrodzenia za 1 roboczogodzinę wynosi 15,00 zł.",
+    "answers": [
+      "513,45 zł",
+      "251,33 zł",
+      "265,05 zł",
+      "397,58 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_tabela35.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 104,
+    "text": "Zgodnie z przedstawionym graficznym opracowaniem inwentaryzacji szczegółowej terenu liczbami 10 i 11 oznaczono odpowiednio drzewa",
+    "answers": [
+      "10 – istniejące iglaste; 11 – istniejące do przesadzenia.",
+      "10 – istniejące liściaste; 11 – istniejące iglaste.",
+      "10 – istniejące do przesadzenia; 11 – istniejące liściaste.",
+      "10 – istniejące do usunięcia; 11 – istniejące liściaste."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_rysunek5.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 105,
+    "text": "W uprawach gruntowych roślin ozdobnych, w celu poprawy struktury i podwyższenia odczynu gleby stosowana jest grupa nawozów",
+    "answers": [
+      "wapniowych.",
+      "magnezowych.",
+      "fosforowych.",
+      "potasowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 106,
+    "text": "Ile wynosi projektowana rozstawa sadzenia lawendy wąskolistnej (Lavandula angustifolia) zgodnie z przedstawionym fragmentem projektu wykonawczego?",
+    "answers": [
+      "0,20 × 0,20 m",
+      "0,25 × 0,25 m",
+      "0,80 × 0,80 m",
+      "0,50 × 0,50 m"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_projekt6.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 107,
+    "text": "Podczas projektowania nasadzeń drzew alejowych w kompozycji decydującą rolę odgrywa",
+    "answers": [
+      "paralela.",
+      "asymetria.",
+      "rytm.",
+      "kontrast."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 108,
+    "text": "W celu podwyższenia mrozoodporności roślin stosowane są nawozy",
+    "answers": [
+      "azotowe.",
+      "siarkowe.",
+      "potasowe.",
+      "manganowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 109,
+    "text": "Przedstawiony na ilustracji pojemnik przeznaczony jest do uprawy roślin",
+    "answers": [
+      "cebulowych.",
+      "wrzosowatych.",
+      "skalnych.",
+      "wodnych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_pojemnik2.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 110,
+    "text": "Do zaprojektowania kompozycji z roślin doniczkowych, która będzie dekoracją stołu w okresie przedwiośnia, należy wybrać",
+    "answers": [
+      "narcyzy i hiacynty.",
+      "mieczyki i lilie.",
+      "ostróżki i konwalie.",
+      "słoneczniki i złocienie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 111,
+    "text": "Obsadzenie skarpy irgą poziomą spełnia przede wszystkim funkcję",
+    "answers": [
+      "kulturową.",
+      "sanitarno-higieniczną.",
+      "produkcyjną.",
+      "przeciwerozyjną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 112,
+    "text": "Którą roślinę można polecić do zastosowania na terenach małych ogrodów przydomowych?",
+    "answers": [
+      "Klon palmowy (Acer palmatum).",
+      "Lipa szerokolistna (Tilia platyphyllos).",
+      "Wiąz szypułkowy (Ulmus laevis).",
+      "Platan klonolistny (Platanus × hispanica)."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 113,
+    "text": "Na której ilustracji przedstawiono gąbkę florystyczną przeznaczoną do tworzenia kompozycji z żywych kwiatów ciętych układanych w naczyniu?",
+    "answers": [
+      "Na ilustracji 3.",
+      "Na ilustracji 1.",
+      "Na ilustracji 4.",
+      "Na ilustracji 2."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_gabki2.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 114,
+    "text": "Cięcie sanitarne krzewów polega między innymi na",
+    "answers": [
+      "usunięciu pędów najcieńszych.",
+      "wycięciu tzw. odrostów.",
+      "wycięciu najstarszych pędów.",
+      "usunięciu chorych pędów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 115,
+    "text": "Symbol C20 zamieszczony w specyfikacji szkółkarskiej oznacza, że roślina sprzedawana jest",
+    "answers": [
+      "w doniczce okrągłej o średnicy 20 cm",
+      "w pojemniku o objętości 20 l",
+      "w doniczce kwadratowej o boku 20 cm",
+      "w pojemniku o masie 20 kg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 116,
+    "text": "Ile sztuk roślin potrzeba do założenia żywopłotu liściastego przedstawionego na rysunku",
+    "answers": [
+      "4 sztuki.",
+      "50 sztuk.",
+      "1 sztukę.",
+      "55 sztuk."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_zywoplot4.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 117,
+    "text": "Przedstawione na ilustracji wnętrze należy sklasyfikować jako wnętrze",
+    "answers": [
+      "konkretne centralne.",
+      "subiektywne wydłużone.",
+      "subiektywne centralne.",
+      "obiektywne szerokie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_ilustracja.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 118,
+    "text": "Wskaż zalecaną częstotliwość koszenia trawników dywanowych latem.",
+    "answers": [
+      "Dwa razy w roku.",
+      "Trzy razy w roku.",
+      "Raz w tygodniu.",
+      "Raz w miesiącu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 119,
+    "text": "W terenie oczyszczonym z chwastów wytyczono powierzchnię o wymiarach 2,0×3,0 m pod obsadzenie kwietnikowe. Który zestaw narzędzi i sprzętu jest potrzebny do obsadzenia tego gruntu roślinami jednorocznymi?",
+    "answers": [
+      "Widły, zagęszczarka, szpadel, wąż ogrodowy.",
+      "Łopata, wał gładki, szufelka, wiadro.",
+      "Glebogryzarka, wał strunowy, sadzarka, system nawadniający.",
+      "Szpadel, grabie, łopatka, konewka."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 120,
+    "text": "Zgodnie z normą PN-B-01027 lipiec 2002 r. „Rysunek budowlany. Oznaczenia graficzne stosowane w projektach zagospodarowania działki lub terenu” przedstawiony symbol graficzny stosowany jest na projektach wykonawczych do oznaczania drzewa liściastego",
+    "answers": [
+      "projektowanego.",
+      "do usunięcia.",
+      "istniejącego.",
+      "do przesadzenia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_symbol4.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 121,
+    "text": "Pokazaną na rysunku kompozycję cechuje",
+    "answers": [
+      "podobieństwo form i barw.",
+      "kontrast barw i podobieństwo form.",
+      "kontrast form i barw.",
+      "harmonia barw i kontrast form."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_kompozycja5.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 122,
+    "text": "Materiał szkółkarski oznaczony symbolem bB, który musi zaczekać na transport dłużej niż 2 dni, należy zadołować",
+    "answers": [
+      "w wilgotnym piasku, w miejscu nasłonecznionym.",
+      "w suchym piasku, w miejscu nasłonecznionym.",
+      "w suchym piasku, w miejscu zacienionym.",
+      "w wilgotnym piasku, w miejscu zacienionym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 123,
+    "text": "W celu przygotowania systemu nawadniania do okresu zimowego należy",
+    "answers": [
+      "usunąć wodę ze wszystkich rur i zamknąć zawory.",
+      "obsypać miejsca wynurzania zraszaczy torfem.",
+      "wyłożyć na trawniku geowłókninę w miejscach przebiegu rur.",
+      "zwinąć linie kroplujące i schować do pomieszczenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 124,
+    "text": "W terenie, na którym przewidziano uprawę roślin zasadolubnych stwierdzono lekko kwaśny odczyn gleby. Aby dostosować odczyn gleby do wymagań uprawianych roślin, należy wykonać nawożenie",
+    "answers": [
+      "siarczanem amonu.",
+      "kredą nawozową zwyczajną.",
+      "ziemią liściową.",
+      "mieloną korą."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 125,
+    "text": "Ile wyniesie długość 20-metrowego żywopłotu przedstawionego na planie w skali 1:250?",
+    "answers": [
+      "8,0 cm",
+      "5,0 cm",
+      "12,5 cm",
+      "0,5 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 126,
+    "text": "Ile wyniesie koszt zakupu roślin potrzebnych do obsadzenia 1 m2 kwietnika, jeżeli zaplanowano rozstawę sadzenia 25 × 25 cm, a cena jednostkowa rośliny wynosi 3,00 zł/szt.?",
+    "answers": [
+      "48,00 zł",
+      "30,00 zł",
+      "75,00 zł",
+      "60,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 127,
+    "text": "Do wykonania strzyżenia żywopłotu formowanego należy użyć narzędzia przedstawionego na",
+    "answers": [
+      "ilustracji 4.",
+      "ilustracji 3.",
+      "ilustracji 1.",
+      "ilustracji 2."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_narzedzia15.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 128,
+    "text": "Palikowanie krzewu ozdobnego w formie piennej, sadzonego metodą z odkrytym systemem korzeniowym, należy wykonać bezpośrednio",
+    "answers": [
+      "po umieszczeniu rośliny w dołku.",
+      "po podlaniu posadzonej rośliny.",
+      "przed podlaniem posadzonej rośliny.",
+      "przed umieszczeniem rośliny w dołku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 129,
+    "text": "Na podstawie danych zawartych w tablicy z KNR 2-21 oblicz, ile roboczogodzin należy przeznaczyć na odmłodzenie 30 sztuk pojedynczych krzewów o średnicy korony 1,8 m.",
+    "answers": [
+      "9,456 r-g",
+      "11,832 r-g",
+      "94,560 r-g",
+      "118,320 r-g"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_tablica3.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 130,
+    "text": "Narzędzie przeznaczone do cięcia darni przedstawiono na",
+    "answers": [
+      "ilustracji 2.",
+      "ilustracji 1.",
+      "ilustracji 3.",
+      "ilustracji 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_narzedzia16.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 131,
+    "text": "Ile drzew przeznaczonych do usunięcia znajduje się na przedstawionym rysunku inwentaryzacji szczegółowej terenu?",
+    "answers": [
+      "8 drzew.",
+      "6 drzew.",
+      "5 drzew.",
+      "7 drzew."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_rysunek5.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 132,
+    "text": "Zastosowane na stromej skarpie gęste nasadzenia z krzewów róży pomarszczonej (Rosa rugosa) pełnią przede wszystkim funkcję",
+    "answers": [
+      "klimatyczną.",
+      "ochronną.",
+      "badawczą.",
+      "dydaktyczną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 133,
+    "text": "Który gatunek rośliny należy zastosować, aby dekoracja florystyczna została utrzymana w odcieniach szarości?",
+    "answers": [
+      "Rącznik pospolity (Ricinus communis).",
+      "Nagietek lekarski (Calendula officinalis).",
+      "Starzec popielny (Senecio cineraria).",
+      "Ubiorek tarczowy (Iberis umbellata)."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 134,
+    "text": "Ile sztuk roślin potrzeba do zagospodarowania terenu o wymiarach 2,0 × 3,5 m, jeśli zalecana rozstawa sadzenia wynosi 0,25 × 0,25 m?",
+    "answers": [
+      "112 sztuk.",
+      "175 sztuk.",
+      "35 sztuk.",
+      "28 sztuk."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 135,
+    "text": "Do nawadniania krzewów ozdobnych, posadzonych wzdłuż ogrodzenia ogrodu przydomowego, można polecić",
+    "answers": [
+      "nawadnianie kropelkowe.",
+      "zamgławianie.",
+      "deszczowanie.",
+      "nawadnianie zalewowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 136,
+    "text": "Na którym rysunku przedstawiono schemat sadzenia roślin w tzw. „cynek”?",
+    "answers": [
+      "Na rysunku 4.",
+      "Na rysunku 3.",
+      "Na rysunku 2.",
+      "Na rysunku 1."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_rysunki4.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 137,
+    "text": "Do wykonania nacięć darni trawnika w celu usunięcia obumarłych szczątków roślinnych i poprawy warunków powietrzno-wodnych w glebie należy użyć",
+    "answers": [
+      "wertykulatora.",
+      "fertygatora.",
+      "aeratora.",
+      "kultywatora."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 138,
+    "text": "Który zestaw narzędzi i sprzętu jest wystarczający do założenia niewielkiego trawnika metodą darniowania?",
+    "answers": [
+      "Motyka, grabie, łata, węgielnica.",
+      "Szpadel, grabie, nóż, wał gładki.",
+      "Łopata, grabie, młotek gumowy, wał strunowy.",
+      "Graca, grabie, wał gładki, kosiarka listwowa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 139,
+    "text": "Który sposób nawadniania polecany jest do stosowana w szkółkach drzew i krzewów, prowadzących uprawę w pojemnikach dwudziestopięciolitrowych i większych?",
+    "answers": [
+      "Deszczowanie.",
+      "Podlewanie ręczne.",
+      "Nawadnianie kroplowe.",
+      "Nawadnianie podsiąkowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 140,
+    "text": "Który gatunek polecany jest do tworzenia sezonowego kwietnika atrakcyjnego wiosną?",
+    "answers": [
+      "Malwa różowa (Alcea rosea).",
+      "Bratek ogrodowy (Viola x wittrockiana).",
+      "Goździk brodaty (Dianthus barbatus).",
+      "Dzwonek ogrodowy (Campanula medium)."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 141,
+    "text": "Za pomocą którego gatunku rośliny można uzyskać w kompozycji ogrodowej akcent w postaci bryły o stożkowatym pokroju?",
+    "answers": [
+      "Sosny górskiej (Pinus mugo).",
+      "Forsycji pośredniej (Forsythia x intermedia).",
+      "Irgi poziomej (Cotoneaster horizontalis).",
+      "Jodły koreańskiej (Abies koreana)."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 142,
+    "text": "Ile drzew liściastych przeznaczonych do usunięcia, zgodnie z normą PN-B-01027, znajduje się na przedstawionym fragmencie planu zagospodarowania terenu?",
+    "answers": [
+      "4 szt.",
+      "1 szt.",
+      "3 szt.",
+      "2 szt."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_plan3.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 143,
+    "text": "Na którym rysunku przedstawiono symbol graficzny, który zgodnie z normą PN-B-01027, stosowany jest do oznaczania projektowanego żywopłotu iglastego?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_symbole4.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 144,
+    "text": "W jakim zakresie powinien mieścić się wskaźnik procentowy otwarcia w ścianach wnętrza subiektywnego?",
+    "answers": [
+      "Od 50% do 60%",
+      "Od 0% do 20%",
+      "Od 60% do 90%",
+      "Od 20% do 40%"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 145,
+    "text": "Który gatunek rośliny można polecić do posadzenia na terenie ogrodu znajdującego się przy szkole podstawowej?",
+    "answers": [
+      "Cis pospolity (Taxus baccata).",
+      "Bieluń dziędzierzawa (Datura stramonium).",
+      "Wiśnia piłkowana (Prunus serrulata).",
+      "Konwalia majowa (Convallaria majalis)."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 146,
+    "text": "Wnętrze biurowe urządzone w stylu chłodnym, ascetycznym i achromatycznym postanowiono uzupełnić roślinami doniczkowymi. Który rodzaj pojemnika do uprawy roślin należy wybrać do uzupełnienia kompozycji tego wnętrza w celu uzyskania efektu harmonii?",
+    "answers": [
+      "Porcelanowa misa bogato zdobiona kolorowym motywem kwiatowym.",
+      "Ceramiczna, nieszkliwiona donica w kolorze pomarańczowobrązowym.",
+      "Drewniany, bielony i postarzany pojemnik.",
+      "Stalowa donica o gładkiej powierzchni."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 147,
+    "text": "Na podstawie tabeli oblicz liczbę roboczogodzin potrzebnych do posadzenia 20 szt. krzewów liściastych bez bryły korzeniowej w dołach o średnicy i głębokości 0,5 m, bez zaprawiania dołów.",
+    "answers": [
+      "82,890 r-g",
+      "70,670 r-g",
+      "16,578 r-g",
+      "14,134 r-g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_tabela33.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 148,
+    "text": "Która kolejność czynności jest właściwa w celu przygotowania opryskiwacza do wykonania oprysku środkiem ochrony roślin?",
+    "answers": [
+      "Wypłukać opryskiwacz, sprawdzić dysze, napełnić pojemnik środkiem ochrony roślin.",
+      "Napełnić pojemnik środkiem ochrony roślin, wypłukać opryskiwacz, sprawdzić dysze.",
+      "Sprawdzić dysze, wypłukać opryskiwacz, napełnić pojemnik środkiem ochrony roślin.",
+      "Wypłukać opryskiwacz, napełnić pojemnik środkiem ochrony roślin, sprawdzić dysze."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 149,
+    "text": "Zgodnie z przedstawionym fragmentem projektu nasadzeń, w ogrodzie przewidziano posadzenie między innymi",
+    "answers": [
+      "2 sztuk drzew iglastych.",
+      "60 sztuk szałwii błyszczącej.",
+      "4 sztuk aksamitki rozpierzchłej.",
+      "15 sztuk żeniszka meksykańskiego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_projekt8.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 150,
+    "text": "Który gatunek byliny polecany jest do nasadzeń na brzegach zbiorników wodnych?",
+    "answers": [
+      "Smagliczka skalna (Alyssum saxatile).",
+      "Rozchodnik ostry (Sedum acre).",
+      "Floks szydlasty (Phlox subulata).",
+      "Knieć błotna (Caltha palustris)."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 151,
+    "text": "Cebule narcyzów (Narcissus sp.) należy sadzić na głębokość",
+    "answers": [
+      "5-6 razy większą niż obwód cebuli.",
+      "2-3 razy większą niż obwód cebuli.",
+      "2-3 razy większą niż wysokość cebuli.",
+      "5-6 razy większą niż wysokość cebuli."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 152,
+    "text": "Jaki rodzaj podłoża należy zapewnić w miejscu przeznaczonym na kwietnik sezonowy, na którym mają rosnąć petunia ogrodowa (Petunia x hybrida), kocanki ogrodowe (Helichrysum bracteatum) i płomyk Drummonda (Phlox drummondii)?",
+    "answers": [
+      "Zwięzłe, o odczynie zasadowym.",
+      "Gliniaste, o odczynie kwaśnym.",
+      "Piaszczyste, o odczynie zasadowym.",
+      "Przepuszczalne, o odczynie lekko kwaśnym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 153,
+    "text": "Do wykonania podkładu wieńca pogrzebowego należy użyć pędów",
+    "answers": [
+      "leszczyny pospolitej (Corylus avellana).",
+      "dębu bezszypułkowego (Quercus petraea).",
+      "rokitnika pospolitego (Hippophaë rhamnoides).",
+      "berberysu zwyczajnego (Berberis vulgaris)."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 154,
+    "text": "Aby zwiększyć odporność roślin na niskie temperatury należy zastosować nawożenie nawozem",
+    "answers": [
+      "magnezowym.",
+      "potasowym.",
+      "wapniowym.",
+      "azotowym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 155,
+    "text": "Wskaż pozycję w ofercie ozdobnego materiału szkółkarskiego, w której zamieszczono okrywową różę odmiany ‘The Fairy’ w wyborze B, sprzedawaną w pojemniku trzylitrowym.",
+    "answers": [
+      "Pozycja 4",
+      "Pozycja 2",
+      "Pozycja 1",
+      "Pozycja 3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_tabela32.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 156,
+    "text": "Oblicz ile sztuk roślin potrzeba do obsadzenia 20 m2 kwietnika, jeśli rośliny sadzone będą w rozstawie 0,20 × 0,20 m.",
+    "answers": [
+      "500 szt.",
+      "150 szt.",
+      "50 szt.",
+      "250 szt."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 157,
+    "text": "Pokazaną na rysunku kompozycję roślin charakteryzuje rytm oraz",
+    "answers": [
+      "asymetria i kontrast barw.",
+      "symetria i kontrast form.",
+      "symetria i kontrast barw.",
+      "asymetria i kontrast form."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_kompozycja4.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 158,
+    "text": "Przedstawione na fotografii rośliny pełnią przede wszystkim funkcję",
+    "answers": [
+      "użytkową.",
+      "estetyczną.",
+      "klimatyczną.",
+      "ochronną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_rosliny.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 159,
+    "text": "Które oznaczenie, zgodnie z normą PN-B-01027, jest przeznaczone do oznaczania drzewa liściastego przewidzianego do przesadzenia?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_oznaczenia5.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 160,
+    "text": "Który gatunek rośliny polecany jest do tworzenia kwietników dywanowych?",
+    "answers": [
+      "Kosmos podwójnie pierzasty (Cosmos bipinnatus).",
+      "Szałwia błyszcząca (Salvia splendens).",
+      "Groszek pachnący (Lathyrus odoratus).",
+      "Lewkonia długopłatkowa (Matthiola longipetala)."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 161,
+    "text": "Które zalecenia dotyczące sposobu i pory podlewania krzewów róż rabatowych są właściwe?",
+    "answers": [
+      "Podlewać codziennie, poprzez zraszanie całych roślin, wyłącznie w południe.",
+      "Podlewać za pomocą nawadniania kroplowego, dużą dawką wody co kilka dni, rano lub wieczorem.",
+      "Podlewać konewką tylko w przypadku utraty turgoru przez rośliny, wyłącznie wieczorem.",
+      "Podlewać codziennie, poprzez zraszanie całych roślin, wyłącznie rano."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 162,
+    "text": "Które byliny należy wykopać przed zimą w celu zabezpieczenia ich organów podziemnych przed przemarznięciem?",
+    "answers": [
+      "Języczkę pomarańczową (Ligularia dentata), dąbrówkę rozłogową (Ajuga reptans).",
+      "Funkię Fortunego (Hosta Fortunei), bergenię sercowatą (Bergenia cordifolia).",
+      "Żurawkę ogrodową (Heuchera x hybrida), paprotkę zwyczajną (Polypodium vulgare).",
+      "Paciorecznika ogrodowego (Canna x generalis), dalię ogrodową (Dahlia x cultorum)."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 163,
+    "text": "W pracowni florystycznej zamówiono skromną dekorację stołu na przyjęcie ślubne. Zgodnie z zamówieniem i pokazanym na rysunku szkicem sytuacyjnym należy wykonać kompozycję",
+    "answers": [
+      "niską jednostronną.",
+      "niską wielostronną.",
+      "wysoką wielostronną.",
+      "wysoką jednostronną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_rysunek4.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 164,
+    "text": "W celu określenia częstotliwości nawadniania gleby należy dokonać pomiaru siły ssącej gleby za pomocą",
+    "answers": [
+      "pehametru.",
+      "tensjometru.",
+      "deszczomierza.",
+      "konduktometru."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 165,
+    "text": "Ile wyniosą wymiary rabaty bylinowej na rzucie z góry sporządzonym w skali 1:50, jeżeli wymiary tej rabaty w terenie wynoszą 6 × 10 m?",
+    "answers": [
+      "6 × 10 cm",
+      "30 × 50 cm",
+      "12 × 20 cm",
+      "3 × 5 cm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 166,
+    "text": "Na rysunku przedstawiono wiązankę utworzoną w jednej tonacji kolorystycznej, która ma być wzmocniona poprzez zastosowanie kontrastu barw. Który gatunek rośliny należy dobrać, aby uzyskać ten efekt?",
+    "answers": [
+      "Aksamitka wzniesiona (Tagetes erecta).",
+      "Nagietek lekarski (Calendula officinalis).",
+      "Lawenda wąskolistna (Lavandula angustifolia).",
+      "Słonecznik ozdobny (Helianthus annuus)."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_wiazanka.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 167,
+    "text": "Przedstawione na fotografii wnętrze należy sklasyfikować jako wnętrze",
+    "answers": [
+      "obiektywne szerokie.",
+      "obiektywne centralne.",
+      "konkretne wydłużone.",
+      "konkretne centralne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_wnetrze.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 168,
+    "text": "Który gatunek rośliny można polecić do uprawy gruntowej w szkółce roślin ozdobnych, zlokalizowanej na terenie o glebach zasobnych w wapń?",
+    "answers": [
+      "Wrzos pospolity (Calluna vulgaris).",
+      "Choina kanadyjska (Tsuga canadensis).",
+      "Cis pospolity (Taxus baccata).",
+      "Azalia japońska (Rhododendron japonica)."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 169,
+    "text": "Które narzędzie jest potrzebne do sprawnego wykonania cięcia formującego długiego i wąskiego nasadzenia z lawendy wąskolistnej (Lavandula angustifolia)?",
+    "answers": [
+      "Nożyce do żywopłotu.",
+      "Nóż sierpak.",
+      "Sekator jednoręczny.",
+      "Sekator dwuręczny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 170,
+    "text": "Najlepszym sposobem przechowywania zakupionych drzew i krzewów liściastych z odsłoniętym systemem korzeniowym do czasu posadzenia, jest ich zadołowanie w miejscu",
+    "answers": [
+      "cienistym, w kierunku „pod wiatr”.",
+      "nasłonecznionym, zgodnie z kierunkiem wiatru.",
+      "nasłonecznionym, w kierunku „pod wiatr”.",
+      "cienistym, zgodnie z kierunkiem wiatru."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 171,
+    "text": "Pole powierzchni trawnika przedstawionego na rysunku wynosi",
+    "answers": [
+      "30 m2",
+      "36 m2",
+      "20 m2",
+      "24 m2"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_rysunek3.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 172,
+    "text": "W celu zabezpieczenia przed zimą piennej formy róży posadzonej w gruncie należy",
+    "answers": [
+      "wykopać roślinę i przechować do wiosny w ciepłym pomieszczeniu.",
+      "wykonać kopczyk do wysokości 1/3 długości pędów.",
+      "przygiąć koronę do ziemi i obsypać ją drobno zmieloną korą.",
+      "równomiernie, grubą warstwą rozłożyć stroisz wokół korzeni rośliny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 173,
+    "text": "W związku z bezpośrednim sąsiedztwem ruchliwej ulicy z terenem ogrodu szkolnego planuje się stworzenie strefy izolacyjnej z roślinności posadzonej wzdłuż ogrodzenia terenu szkoły. Który gatunek rośliny należy wybrać do utworzenia takiej strefy?",
+    "answers": [
+      "Serduszka okazałe (Dicentra spectabilis).",
+      "Funkia ogrodowa (Hosta hybrida).",
+      "Irga pozioma (Cotoneaster horizontalis).",
+      "Ligustr pospolity (Ligustrum vulgare)."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 174,
+    "text": "Które gatunki drzew są charakterystyczne dla terenów łęgowych, położonych nad dużymi rzekami?",
+    "answers": [
+      "Wierzba biała (Salix alba) i topola biała (Populus alba).",
+      "Dąb bezszypułkowy (Quercus petraea) i sosna pospolita (Pinus sylvestris).",
+      "Grab pospolity (Carpinus betulus) i buk pospolity (Fagus sylvatica).",
+      "Olsza szara (Alnus incana) i świerk pospolity (Picea abies)."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 175,
+    "text": "W celu zwalczenia zaobserwowanego na roślinach przędziorka chmielowca należy zastosować środki ochrony roślin z grupy",
+    "answers": [
+      "akarycydów.",
+      "moluskocydów.",
+      "fungicydów.",
+      "insektycydów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 176,
+    "text": "Sadzenie wrażliwych na mróz roślin liściastych metodą z odkrytym systemem korzeniowym zalecane jest",
+    "answers": [
+      "wiosną, bezpośrednio po rozpoczęciu wegetacji roślin.",
+      "wiosną, przed rozpoczęciem wegetacji roślin.",
+      "jesienią, przed zakończeniem wegetacji roślin.",
+      "latem, w pełni wegetacji roślin."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 177,
+    "text": "Część graficzna miejscowego planu zagospodarowania przestrzennego sporządzana jest w skali",
+    "answers": [
+      "1:200",
+      "1:50",
+      "1:1000",
+      "1:100"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 178,
+    "text": "Ile roboczogodzin potrzeba, zgodnie z danymi zawartymi w tablicy 0331 z KNR 2-21, do posadzenia 75 sztuk krzewów żywopłotowych w rowach całkowicie zaprawianych ziemią żyzną, w gruncie kategorii II?",
+    "answers": [
+      "16,185 r-g",
+      "21,580 r-g",
+      "17,760 r-g",
+      "12,248 r-g"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_tabela31.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 179,
+    "text": "Przedstawione na rysunku zestawienie drzew liściastych po obu stronach drogi cechuje rytm oraz",
+    "answers": [
+      "asymetria kształtów i kontrast barw.",
+      "symetria kształtów i harmonia barw.",
+      "symetria kształtów i kontrast barw.",
+      "asymetria kształtów i harmonia barw."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_zestawienie2.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 180,
+    "text": "Ile sztuk aksamitki wąskolistnej (Tagetes tenuifolia) potrzeba do obsadzenia rabaty o wymiarach 0,5 × 2,0 m, jeżeli w projekcie przewidziano sadzenie roślin w rozstawie 0,25 × 0,25 m?",
+    "answers": [
+      "4 sztuki.",
+      "16 sztuk.",
+      "8 sztuk.",
+      "12 sztuk."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 181,
+    "text": "Na którym rysunku przedstawiono narzędzie przeznaczone do ręcznego przycinania trawnika?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_narzedzia14.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 182,
+    "text": "Kiedy należy pozyskiwać pędy roślin ozdobnych w celu wykonania sadzonek zdrewniałych?",
+    "answers": [
+      "Od stycznia do marca, w stanie bezlistnym.",
+      "Od kwietnia do maja, po wystąpieniu oznak wegetacji.",
+      "Od czerwca do sierpnia, w pełni wegetacji.",
+      "Od października do listopada, przed zrzuceniem liści."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 183,
+    "text": "Ile istniejących drzew liściastych oznaczono na zamieszczonym fragmencie projektu zagospodarowania terenu?",
+    "answers": [
+      "2",
+      "4",
+      "3",
+      "5"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_projekt7.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 184,
+    "text": "Którą czynność należy wykonać jako ostatnią podczas zakładania ogrodu?",
+    "answers": [
+      "Posadzenie drzew.",
+      "Obsadzenie rabaty bylinowej.",
+      "Posadzenie żywopłotu.",
+      "Założenie trawnika."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 185,
+    "text": "Którą bylinę należy polecić do posadzenia w lekko zacienionym miejscu ogrodu skalnego, w celu uzyskania efektu kwitnienia od kwietnia do czerwca?",
+    "answers": [
+      "Nachyłek okółkowy (Coreopsis verticillata).",
+      "Ubiorek wiecznie zielony (Iberis sempervirens).",
+      "Jeżówkę purpurową (Echinacea purpurea).",
+      "Dzwonek karpacki (Campanula carpatica)."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 186,
+    "text": "Do automatycznego nawadniania trawników poleca się stosować",
+    "answers": [
+      "linie kroplujące.",
+      "zraszacze wynurzalne.",
+      "deszczownie.",
+      "mikrozraszacze."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 187,
+    "text": "Który gatunek rośliny można polecić do uprawy gruntowej w gospodarstwie położonym w południowej Polsce, posiadającym stanowisko słoneczne i gleby przepuszczalne zasobne w wapń?",
+    "answers": [
+      "Perukowiec podolski (Cotinus coggygria).",
+      "Hortensja pnąca (Hydrangea petiolaris).",
+      "Różanecznik katawbijski (Rhododendron catawbiense).",
+      "Wrzos pospolity (Calluna vulgaris)."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 188,
+    "text": "W celu ograniczenia występowania na trawniku młodych siewek komosy białej należy",
+    "answers": [
+      "systematycznie kosić trawnik.",
+      "nawozić trawnik azotem.",
+      "nawozić trawnik fosforem.",
+      "wykonać piaskowanie trawnika."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 189,
+    "text": "Które działanie konserwatorskie w ogrodach zabytkowych ma na celu przywrócenie wartości historycznych z jednoczesnym zachowaniem pierwotnej formy, funkcji i programu założenia?",
+    "answers": [
+      "Adaptacja.",
+      "Rekultywacja.",
+      "Rewitalizacja.",
+      "Rewaloryzacja."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 190,
+    "text": "Zgodnie z zaleceniami jakościowymi dla materiału szkółkarskiego opracowanymi przez Związek Szkółkarzy Polskich, przeznaczone do sprzedaży różaneczniki i azalie powinny mieć",
+    "answers": [
+      "wykształcone liścienie i pierwsze pędy.",
+      "wykształconą rozwiniętą rozetę liściową.",
+      "wykształcone dwa lub trzy pędy, bez pąków kwiatowych.",
+      "wykształcone dwa lub trzy pędy z uformowanymi pąkami kwiatowymi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 191,
+    "text": "Do podwyższenia walorów przyrodniczych krajobrazu przyczynia się zwiększenie udziału procentowego powierzchni",
+    "answers": [
+      "obiektów przemysłowych.",
+      "zbiorników wodnych.",
+      "obiektów drogowych.",
+      "zabudowy mieszkaniowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 192,
+    "text": "Przedstawiony na zdjęciu fragment terenu jest przykładem krajobrazu",
+    "answers": [
+      "pierwotnego.",
+      "kulturowego harmonijnego.",
+      "kulturowego zdegradowanego.",
+      "naturalnego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_krajobraz.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 193,
+    "text": "Która roślina polecana jest do sadzenia w ogrodach traw ozdobnych?",
+    "answers": [
+      "Miskant chiński (Miscanthus sinensis).",
+      "Liliowiec rdzawy (Hemerocallis fulva).",
+      "Tawułka Arendsa (Astilbe x arendsii).",
+      "Juka karolińska (Yucca filamentosa)."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 194,
+    "text": "Ile wyniesie wartość brutto kosztów założenia trawnika, jeżeli koszt netto wynosi 1 740,00 zł, a stawka VAT 8%?",
+    "answers": [
+      "1 753,92 zł",
+      "1 741,39 zł",
+      "1 879,20 zł",
+      "3 132,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 195,
+    "text": "Jak często należy kosić wiosną trawnik dywanowy?",
+    "answers": [
+      "Dwa razy w tygodniu.",
+      "Raz na dwa miesiące.",
+      "Raz w miesiącu.",
+      "Dwa razy w miesiącu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 196,
+    "text": "Który gatunek rośliny jest polecany do obsadzania miejsca zacienionego o wilgotnym podłożu?",
+    "answers": [
+      "Funkia sina (Hosta sieboldiana).",
+      "Smagliczka skalna (Alyssum saxatile).",
+      "Żeniszek meksykański (Ageratum houstonianum).",
+      "Żagwin ogrodowy (Aubrieta x cultorum)."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 197,
+    "text": "Zgodnie z danymi zawartymi w zamieszczonej tabeli kosztorysowej wartość kosztów bezpośrednich materiałów potrzebnych do posadzenia 12 sztuk drzew liściastych wynosi",
+    "answers": [
+      "1 170,00 zł",
+      "1 902,72 zł",
+      "1 170,72 zł",
+      "1 329,28 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_tabela30.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 198,
+    "text": "Ile ziemi żyznej należy przygotować pod obsadzenie kwiatowe o wymiarach 5 × 12 m, jeżeli nakłady zużycia ziemi żyznej wynoszą 20,60 m3 na 100 m2?",
+    "answers": [
+      "160,00 m3",
+      "80,60 m3",
+      "12,36 m3",
+      "17,00 m3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 199,
+    "text": "Zgodnie z wymogami ustawy z 16 kwietnia 2004 r. o ochronie przyrody (Dz. U. z 2020 r. poz. 55), w przypadku zgłaszania do urzędu gminy zamiaru usunięcia drzewa należy podać między innymi obwód pnia. Na jakiej wysokości od poziomu gruntu należy wykonać pomiar obwodu pnia?",
+    "answers": [
+      "5 cm",
+      "30 cm",
+      "10 cm",
+      "20 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 200,
+    "text": "Który gatunek drzewa jest polecany do sadzenia w ogrodach w celu uzyskania efektu przebarwionych na pomarańczowo-czerwono liści?",
+    "answers": [
+      "Miłorząb dwuklapowy (Ginkgo biloba).",
+      "Kasztanowiec żółty (Aesculus flava).",
+      "Jesion wyniosły (Fraxinus excelsior).",
+      "Klon palmowy (Acer palmatum)."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 201,
+    "text": "Który gatunek rośliny można polecić do utworzenia rabaty z roślin kwitnących późnym latem i jesienią?",
+    "answers": [
+      "Zawilec gajowy (Anemone nemorosa).",
+      "Szafirek drobnokwiatowy (Muscari botryoides).",
+      "Cebulica syberyjska (Scilla siberica).",
+      "Lilia złocista (Lilium auratum)."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 202,
+    "text": "Które narzędzie przeznaczone jest do wykonywania zabiegu, którego kolejne etapy przedstawiono na rysunkach?",
+    "answers": [
+      "Nóż sierpak.",
+      "Nóż okulizak.",
+      "Sekator dwuręczny.",
+      "Sekator jednoręczny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_rysunki2.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 203,
+    "text": "W celu zmiany odczynu gleby z obojętnego na kwaśny podczas jej uprawy należy dodać",
+    "answers": [
+      "włókno kokosowe.",
+      "ziemię liściową.",
+      "torf wysoki.",
+      "piasek rzeczny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 204,
+    "text": "Stosowany w produkcji szkółkarskiej zabieg skaryfikacji mechanicznej ma na celu",
+    "answers": [
+      "przyspieszenie kiełkowania nasion.",
+      "przedłużenie żywotności nasion.",
+      "dostarczenie roślinom niezbędnych mikroelementów.",
+      "zwiększenie odporności roślin na choroby."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 205,
+    "text": "Cięcie formujące krzewów, których kwiaty rozwijają się z pąków uformowanych w okresie wegetacyjnym poprzedzającym kwitnienie, zaleca się wykonać",
+    "answers": [
+      "bezpośrednio przed rozpoczęciem kwitnienia.",
+      "w trakcie kwitnienia.",
+      "bezpośrednio po zakończeniu kwitnienia.",
+      "pod koniec okresu wegetacji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 206,
+    "text": "Kiedy należy wykonać pierwsze cięcie części nadziemnej sadzonych roślin liściastych, z których wiosną będzie formowany żywopłot?",
+    "answers": [
+      "W trzecim roku po posadzeniu.",
+      "Bezpośrednio po posadzeniu.",
+      "Tuż przed posadzeniem.",
+      "W drugim roku po posadzeniu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 207,
+    "text": "Zgodnie z normą PN-B-01027:2002 r. „Rysunek budowlany. Oznaczenia graficzne stosowane w projektach zagospodarowania działki lub terenu” przedstawiony symbol graficzny stosowany jest na projektach wykonawczych do oznaczania żywopłotu",
+    "answers": [
+      "istniejącego iglastego.",
+      "istniejącego liściastego.",
+      "projektowanego iglastego.",
+      "projektowanego liściastego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_oznaczenie12.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 208,
+    "text": "Lasy występujące na terenach przyległych do rzek i strumieni, które są cyklicznie zalewane przez wodę, to",
+    "answers": [
+      "olsy.",
+      "buczyny.",
+      "łęgi.",
+      "grądy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 209,
+    "text": "Które narzędzie przeznaczone jest do wykonywania cięć formujących żywopłotów?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_narzedzia11.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 210,
+    "text": "Na ilustracji pokazano kompozycję",
+    "answers": [
+      "statyczną zamkniętą.",
+      "statyczną otwartą.",
+      "dynamiczną otwartą.",
+      "dynamiczną zamkniętą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_kompozycja2.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 211,
+    "text": "Na jakiej wysokości zaleca się wykonać pomiar obwodu pnia drzewa o koronie rozwiniętej na wysokości 150 cm podczas przeprowadzania inwentaryzacji dendrologicznej?",
+    "answers": [
+      "130 cm",
+      "120 cm",
+      "110 cm",
+      "100 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 212,
+    "text": "Do sadzenia przy obiektach przemysłowych, ze względu na odporność na zanieczyszczenia polecane są rośliny iglaste:",
+    "answers": [
+      "sosna czarna (Pinus nigra), cis pospolity (Taxus baccata).",
+      "sosna pospolita (Pinus sylvestris), choina kanadyjska (Tsuga canadensis).",
+      "jodła pospolita (Abies alba), cyprysik groszkowy (Chamaecyparis pisifera).",
+      "sosna wejmutka (Pinus strobus), sosna himalajska (Pinus wallichiana)."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 213,
+    "text": "Której rośliny nie należy polecać do sadzenia w ogrodzie jordanowskim?",
+    "answers": [
+      "Jabłoni purpurowej (Malus purpurea).",
+      "Tawuły brzozolistnej (Spiraea betulifolia).",
+      "Klon pospolity (Acer platanoides).",
+      "Wawrzynka wilczełyko (Daphne mezereum)."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 214,
+    "text": "Który sprzęt należy polecić do koszenia trawy na boisku piłkarskim?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_sprzety2.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 215,
+    "text": "Koszty pośrednie robocizny i sprzętu, zgodnie z danymi zamieszczonymi w zestawieniu kosztów robót, wynoszą po zaokrągleniu do dwóch miejsc po przecinku",
+    "answers": [
+      "920,15 zł",
+      "3 807,29 zł",
+      "3 978,94 zł",
+      "171,65 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_tabela28.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 216,
+    "text": "Które narzędzie jest przeznaczone specjalnie do grabienia liści?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_narzedzia13.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 217,
+    "text": "Ile sztuk krzewów okrywowych potrzeba do obsadzenia powierzchni 250 m2, przy założeniu, że krzewy mają być sadzone w rozstawie 0,50 x 0,50 m?",
+    "answers": [
+      "250 szt.",
+      "4 szt.",
+      "2 500 szt.",
+      "1 000 szt."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 218,
+    "text": "Na podstawie przedstawionego rysunku wskaż, ile drzew liściastych zaprojektowano.",
+    "answers": [
+      "2 sztuki.",
+      "5 sztuk.",
+      "4 sztuki.",
+      "3 sztuki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_rysunek2.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 219,
+    "text": "Która roślina polecana jest na stanowiska słoneczne i jest symbolem nadchodzącej jesieni?",
+    "answers": [
+      "Barwinek pospolity (Vinca minor).",
+      "Wrzos pospolity (Calluna vulgaris).",
+      "Lawenda wąskolistna (Lavandula angustifolia).",
+      "Runianka japońska (Pachysandra terminalis)."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 220,
+    "text": "Na rysunku pokazano rzut klombu na płaszczyźnie trawnika. Który dobór roślin odzwierciedla prawidłowe ich rozmieszczenie?",
+    "answers": [
+      "1. rozchodnik okazały, 2. rozchodnik ostry, 3. rozchodnik kaukaski.",
+      "1. rozchodnik ostry, 2. rozchodnik okazały, 3. rozchodnik kaukaski.",
+      "1. rozchodnik ostry, 2. rozchodnik kaukaski, 3. rozchodnik okazały.",
+      "1. rozchodnik okazały, 2. rozchodnik kaukaski, 3. rozchodnik ostry."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_rzut.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 221,
+    "text": "Który materiał jest materiałem organicznym stosowanym jako ściółka w celu ograniczenia wzrostu chwastów?",
+    "answers": [
+      "Kora.",
+      "Żwir.",
+      "Keramzyt.",
+      "Agrowłóknina."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 222,
+    "text": "Który zestaw parametrów otrzymuje się w wyniku przeprowadzenia inwentaryzacji szczegółowej drzewostanu?",
+    "answers": [
+      "Liczba odgałęzień pnia, wysokość drzewa, powierzchnia korony.",
+      "Wysokość drzewa, średnica korony, obwód pnia.",
+      "Średnica korony, wysokość drzewa, grubości konarów.",
+      "Pierśnica, grubości konarów, powierzchnia korony."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 223,
+    "text": "Którą czynność należy wykonywać każdorazowo po zakończeniu koszenia kosiarką spalinową?",
+    "answers": [
+      "Opróżnić zbiornik paliwa.",
+      "Wymienić olej.",
+      "Naostrzyć noże.",
+      "Oczyścić maszynę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 224,
+    "text": "Które rośliny polecane są do jesiennego obsadzania kwietników sezonowych?",
+    "answers": [
+      "Cynia wytworna (Zinia elegans), aster chiński (Callistephus chinensis).",
+      "Bratek ogrodowy (Viola ×wittrockiana), słonecznik zwyczajny (Helianthus annuus).",
+      "Lobelia przylądkowa (Lobelia erinus), stokrotka pospolita (Bellis perennis).",
+      "Niezapominajka leśna (Myosotis sylvatica), aksamitka wyniosła (Tagetes erecta)."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 225,
+    "text": "Trawę na boisku sportowym przeznaczonym do gry w piłkę nożną należy kosić na wysokość",
+    "answers": [
+      "19-20 cm",
+      "3-4 cm",
+      "8-9 cm",
+      "12-13 cm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 226,
+    "text": "Bezpośrednio po posadzeniu każdej rośliny niezbędne jest",
+    "answers": [
+      "przycięcie rośliny.",
+      "podlanie rośliny.",
+      "nawożenie podłoża.",
+      "ściółkowanie podłoża."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 227,
+    "text": "Na podstawie danych zawartych w zamieszczonej wycenie kosztorysowej oblicz w pozycji razem wartość kosztorysową materiałów użytych przy zakładaniu żywopłotu liściastego.",
+    "answers": [
+      "254,78 zł",
+      "840,00 zł",
+      "843,20 zł",
+      "320,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_tabela29.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 228,
+    "text": "Ile sztuk roślin zimozielonych o zielonych błyszczących liściach zaprojektowano na rabacie przedstawionej na schemacie?",
+    "answers": [
+      "256",
+      "250",
+      "48",
+      "53"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_rabata2.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 229,
+    "text": "Który rodzaj gąbki florystycznej służy do układania kompozycji z żywych kwiatów ciętych układanych w naczyniu?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_gabki.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 230,
+    "text": "Ciemnozielone liście oraz bardzo silny wzrost pędów rozsady pelargonii są objawami",
+    "answers": [
+      "przenawożenia gleby fosforem.",
+      "niedoboru potasu w glebie.",
+      "przenawożenia gleby azotem.",
+      "niedoboru magnezu w glebie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 231,
+    "text": "Pokazane na ilustracji drzewa tworzą",
+    "answers": [
+      "akcent.",
+      "dominantę.",
+      "paralelę.",
+      "rytm."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_drzewa.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 232,
+    "text": "Przewidywana średnica korony projektowanego drzewa wynosi 8 m. Jaką średnicę powinien mieć okrąg pokazujący to drzewo na projekcie wykonanym w skali 1:200?",
+    "answers": [
+      "8 cm",
+      "2 cm",
+      "16 cm",
+      "4 cm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 233,
+    "text": "Które drzewa są polecane do sadzenia w ogrodzie w miejscach półcienistych?",
+    "answers": [
+      "Dąb czerwony (Quercus rubra), brzoza brodawkowata (Betula pendula).",
+      "Sosna zwyczajna (Pinus sylvestris), robinia akacjowa (Robinia pseudoacacia).",
+      "Modrzew europejski (Larix decidua), jodła jednobarwna (Abies concolor).",
+      "Cis pospolity (Taxus baccata), buk zwyczajny (Fagus sylvatica)."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 234,
+    "text": "Który gatunek należy do grupy roślin o pływających liściach?",
+    "answers": [
+      "Rogatek sztywny.",
+      "Moczarka kanadyjska.",
+      "Pałka wodna.",
+      "Grążel żółty."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 235,
+    "text": "Które narzędzie należy wybrać do sadzenia cebul tulipanów?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_narzedzia12.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 236,
+    "text": "Środki ochrony której grupy należy zastosować do walki z chorobami grzybowymi?",
+    "answers": [
+      "Fungicydy.",
+      "Moluskocydy.",
+      "Herbicydy.",
+      "Akarycydy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 237,
+    "text": "Występowanie których roślin jest charakterystyczne dla terenów o glebach suchych i piaszczystych?",
+    "answers": [
+      "Lipy drobnolistnej (Tilia cordata), grabu pospolitego (Carpinus betulus).",
+      "Olszy czarnej (Alnus glutinosa), wierzby białej (Salix alba).",
+      "Jałowca pospolitego (Juniperus communis), sosny zwyczajnej (Pinus sylvestris).",
+      "Dębu szypułkowego (Quercus robur), buka zwyczajnego (Fagus sylvatica)."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 238,
+    "text": "Oznaczenie graficzne pokazane na ilustracji, wg normy PN-B-01027:2002, służy do przestawienia na projektach wykonawczych",
+    "answers": [
+      "kwietnika.",
+      "roślin okrywowych.",
+      "trawnika.",
+      "rabaty bylinowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/r21_oznaczenie11.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 239,
+    "text": "W kompozycji przestrzennej krajobrazu, przedstawionej na fotografii, wskazany strzałką obiekt jest",
+    "answers": [
+      "tłem.",
+      "punktem.",
+      "dominantą.",
+      "akcentem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/rl21_fotografia.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 240,
+    "text": "Do obsadzania brzegów i strefy wody płytkiej naturalnego zbiornika wodnego można polecić",
+    "answers": [
+      "funkię ogrodową (Hosta x hybrida), żurawkę ogrodową (Heuchera x hybrida).",
+      "tawułkę Arendsa (Astilbe × arendsii), bergenię sercowatą (Bergenia cordifolia).",
+      "kosaciec żółty (Iris pseudacorus), tatarak zwyczajny (Acorus calamus).",
+      "języczkę pomarańczową (Ligularia dentata), pełnika europejskiego (Trollius europaeus)."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 241,
+    "text": "Które rośliny można polecić do sadzenia na terenie ogródka przedszkolnego z przeznaczeniem na rabatę ziołową o intensywnym zapachu?",
+    "answers": [
+      "Cebulicę syberyjską (Scilla siberica), nawłoć ogrodową (Solidago x hybryda).",
+      "Lawendę wąskolistną (Lavandula angustifolia), szałwię lekarską (Salvia officinalis).",
+      "Krwawnik wiązówkowaty (Achillea filipendulina), ostróżkę ogrodową (Delphinium x cultorum).",
+      "Łubin trwały (Lupinus polyphyllus), żurawkę ogrodową (Heuchera x hybrida)."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 242,
+    "text": "Do zaprojektowania jednogatunkowej formy drzewiastej w parku o charakterze krajobrazowym należy dobrać",
+    "answers": [
+      "szpaler pełny.",
+      "boskiet.",
+      "klomb mieszany.",
+      "kępę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 243,
+    "text": "Wskaż narzędzie przeznaczone do płytkiego spulchnienia podłoża na małej powierzchni.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/rl21_narzedzia3.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 244,
+    "text": "Na której fotografii przedstawiono widok fragmentu ogrodu o symetrycznym układzie kompozycji?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/rl21_fotografie2.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 245,
+    "text": "Ile m3 ziemi urodzajnej należy przygotować do założenia rabaty o powierzchni 1 800 m2, jeżeli nakłady zużycia ziemi wynoszą 15,4 m3 na 100 m2?",
+    "answers": [
+      "277,20 m3",
+      "18,00 m3",
+      "180,00 m3",
+      "27,72 m3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 246,
+    "text": "Sprzętem geodezyjnym przeznaczonym do bezpośredniego pomiaru odległości w terenie jest",
+    "answers": [
+      "teodolit.",
+      "tachimetr.",
+      "ruletka.",
+      "niwelator."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 247,
+    "text": "Które gatunki roślin należy wybrać do zaprojektowania obsadzenia słonecznego brzegu zbiornika wodnego w celu uzyskania efektu obfitego kwitnienia na przełomie maja i czerwca?",
+    "answers": [
+      "Tatarak zwyczajny (Acorus calamus), strzałkę wodną (Sagittaria sagittifolia).",
+      "Rutewkę orlikolistną (Thalictrum aquilegiifolium), pełnika europejskiego (Trollius europaeus).",
+      "Kostrzewę siną (Festuca cinerea), astra krzaczastego (Aster dumosus).",
+      "Fiołka rogatego (Viola cornuta), wrotycz różowy (Tanacetum coccineum)."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 248,
+    "text": "Gatunkami charakterystycznymi dla lasów grądowych są",
+    "answers": [
+      "olsza czarna (Alnus glutinosa), czeremcha zwyczajna (Prunus padus), brzoza brodawkowata (Betula pendula).",
+      "wierzba krucha  (Salix fragilis),  jesion wyniosły  (Fraxinus  excelsior),  sosna pospolita  (Pinus sylvestris).",
+      "dąb szypułkowy (Quercus robur), grab pospolity (Carpinus betulus), lipa drobnolistna (Tilia cordata).",
+      "jodła pospolita (Abies alba), wierzba purpurowa (Salix purpurea), buk pospolity (Fagus sylvatica)."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 249,
+    "text": "Zgodnie z zasadami specyfikacji materiału szkółkarskiego określonymi przez Związek Szkółkarzy Polskich, symbol P 9 oznacza doniczkę o przekroju",
+    "answers": [
+      "okrągłym i średnicy 9 cm.",
+      "kwadratowym i pojemności 9 litrów.",
+      "kwadratowym i długości boku 9 cm.",
+      "okrągłym i pojemności 9 litrów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 250,
+    "text": "Podstawowym gatunkiem jodły stosowanym w terenach zieleni miejskiej, polecanym do uprawy na terenie całej Polski jest",
+    "answers": [
+      "jodła koreańska (Abies koreana).",
+      "jodła pospolita (Abies alba).",
+      "jodła jednobarwna (Abies concolor).",
+      "jodła kaukaska (Abies nordmanniana)."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 251,
+    "text": "Które cięcie należy wykonać w przypadku krzewu, na którym widoczne są oznaki chorób?",
+    "answers": [
+      "Korygujące.",
+      "Sanitarne.",
+      "Odmładzające.",
+      "Formujące."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 252,
+    "text": "Metodę sadzenia żywopłotu w tzw. piątkę przedstawiono na schemacie",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/rl21_schemat.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 253,
+    "text": "Przykładami roślin dwuletnich polecanych do wiosennego obsadzania kwietników miejskich są",
+    "answers": [
+      "stokrotka pospolita (Bellis perennis) i niezapominajka leśna (Myosotis sylvatica).",
+      "wilec purpurowy (Ipomoea purpurea) i maczek kalifornijski (Eschscholzia californica).",
+      "aster chiński (Callistephus chinensis) i zatrwian wrębny (Limonium sinuatum).",
+      "werbena ogrodowa (Verbena x hybrida) i nasturcja większa (Tropaeolum majus)."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 254,
+    "text": "Drzewa posadzone na terenach wokół obiektów przemysłowych w postaci pasa zieleni, zapobiegające rozprzestrzenianiu się szkodliwych substancji, pełnią przede wszystkim funkcję",
+    "answers": [
+      "społeczną.",
+      "ochronną.",
+      "edukacyjną.",
+      "estetyczną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 255,
+    "text": "Którego narzędzia należy użyć do ręcznego wycinania drobnych martwych gałęzi z drzew?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/rl21_narzedzia2.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 256,
+    "text": "Na podstawie danych w tablicy z KNR oblicz, ile roboczogodzin należy przeznaczyć na odmłodzenie 30 sztuk pojedynczych krzewów o średnicy korony 1,8 m.",
+    "answers": [
+      "118,320 r-g",
+      "9,456 r-g",
+      "11,832 r-g",
+      "94,560 r-g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/rl21_tablica.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 257,
+    "text": "Który z wymienionych gatunków roślin doniczkowych nie jest polecany do stosowania w pomieszczeniach biurowych ze względu na wysokie wymagania w stosunku do oświetlenia, temperatury i wilgotności powietrza?",
+    "answers": [
+      "Kroton pstry (Codiaeum variegatum pictum).",
+      "Zielistka Sternberga (Chlorophytum comosum).",
+      "Skrzydłokwiat Wallisa (Spathiphyllum wallisi).",
+      "Wężownica gwinejska (Sansevieria trifasciata)."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 258,
+    "text": "Który gatunek rośliny jest polecany do tworzenia dekoracji na tarasie usytuowanym w półcieniu?",
+    "answers": [
+      "Petunia ogrodowa (Petunia x atkinsiana).",
+      "Cynia wytworna (Zinia elegans).",
+      "Niecierpek Waleriana (Impatiens waleriana).",
+      "Gazania lśniąca (Gazania rigens)."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 259,
+    "text": "W celu zagęszczenia podłoża przy zakładaniu trawnika należy użyć",
+    "answers": [
+      "wału.",
+      "kultywatora.",
+      "brony.",
+      "włóki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 260,
+    "text": "W celu poprawy warunków glebowych terenu przeznaczonego pod założenie kwietnika sezonowego przewiduje się rozsypanie i wymieszanie z glebą warstwy ziemi kompostowej o grubości 5 cm na powierzchni 50 m2. Ile ziemi kompostowej potrzeba do wykonania tego zadania?",
+    "answers": [
+      "2,5 m3",
+      "50,0 m3",
+      "25,0 m3",
+      "5,0 m3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 261,
+    "text": "Zbiorowiska leśne z dominującą w drzewostanie olszą czarną (Alnus glutinosa) oraz niewielką domieszką świerka pospolitego (Picea abies) i brzozy omszonej (Betula pubescens), związane z obniżeniami terenu, gdzie podłoże przesiąknięte jest wodą, to",
+    "answers": [
+      "grądy.",
+      "buczyny.",
+      "olsy.",
+      "bory."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 262,
+    "text": "Ile projektowanych drzew iglastych, zgodnie z normą PN-B-01027 lipiec 2002 r. „Rysunek budowlany. Oznaczenia graficzne stosowane w projektach zagospodarowania działki lub terenu”, znajduje się na przedstawionym fragmencie projektu zagospodarowania działki?",
+    "answers": [
+      "Jedno drzewo.",
+      "Dwa drzewa.",
+      "Trzy drzewa.",
+      "Cztery drzewa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/rl21_oznaczenia.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 263,
+    "text": "Który gatunek rośliny należy dobrać do kompozycji roślinnej w celu uzyskania gęstej pokrywy roślinnej z licznymi różowymi kwiatami pojawiającymi się na przełomie maja i czerwca?",
+    "answers": [
+      "Macierzankę piaskową (Thymus serpyllum).",
+      "Smagliczkę skalną (Alyssum saxatile).",
+      "Rogownicę kutnerowatą (Cerastium tomentosum).",
+      "Ubiorek wiecznie zielony (Iberis sempervirens)."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 264,
+    "text": "Który wózek przeznaczony jest do transportowania samochodem dostawczym roślin doniczkowych?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/rl21_wozki.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 265,
+    "text": "Który gatunek rośliny charakteryzują dekoracyjne srebrzyste liście?",
+    "answers": [
+      "Nagietek lekarski (Calendula officinalis).",
+      "Ubiorek tarczowy (Iberis umbellata).",
+      "Starzec popielny (Senecio cineraria).",
+      "Rącznik pospolity (Ricinus communis)."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 266,
+    "text": "Na której fotografii przedstawiono krajobraz kulturowy?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/rl21_fotografie.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 267,
+    "text": "Który gatunek rośliny polecany jest do biologicznego umacniania skarp?",
+    "answers": [
+      "Krzewuszka cudowna (Weigela florida).",
+      "Kalina hordowina (Viburnum lantana).",
+      "Dereń kousa (Cornus kousa).",
+      "Róża pomarszczona (Rosa rugosa)."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 268,
+    "text": "Który gatunek rośliny charakteryzują ozdobne zimozielone liście?",
+    "answers": [
+      "Winobluszcz pięciolistkowy (Parthenocissus quinquefolia).",
+      "Bluszcz pospolity (Hederia helix).",
+      "Hortensja pnąca (Hydrangea petiolaris).",
+      "Wiciokrzew przewiercień (Lonicera caprifolium)."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 269,
+    "text": "Którego narzędzia należy użyć do sadzenia roślin na kwietnikach sezonowych?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/rl21_narzedzia.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 270,
+    "text": "Który system stosowany jest w celu nawadniania muraw boisk szkolnych?",
+    "answers": [
+      "Zraszaczy wynurzalnych.",
+      "Linii kroplujących.",
+      "Taśm kroplujących.",
+      "Mikrozraszaczy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 271,
+    "text": "Na której fotografii przedstawiono sprzęt przeznaczony do rozdrabniania ściętych gałęzi?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr03/rl21_sprzety.png"
+    },
+    "category": "OGR.03"
+  },
+  {
+    "id": 272,
+    "text": "Pomiaru odczynu gleby można dokonać za pomocą",
+    "answers": [
+      "tensjometru.",
+      "węgielnicy.",
+      "pehametru.",
+      "dalmierza."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  },
+  {
+    "id": 273,
+    "text": "Na jaką wysokość powinny być koszone trawniki parkowe?",
+    "answers": [
+      "Od 6 do 8 cm",
+      "Powyżej 15 cm",
+      "Od 10 do 15 cm",
+      "Poniżej 6 cm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.03"
+  }
+]
