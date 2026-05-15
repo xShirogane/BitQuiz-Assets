@@ -1,0 +1,4966 @@
+[
+  {
+    "id": 1,
+    "text": "Na podstawie fragmentu zamówienia na usługi hotelarskie, wskaż adresata potwierdzenia rezerwacji.",
+    "answers": [
+      "Jon Lawson",
+      "Krzysztof Konik",
+      "Marek Kotułas",
+      "Tomasz Majak"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_zamowienie13.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 2,
+    "text": "Wskaż kwotę podatku, którą powinien recepcjonista wpisać w brakujące pole faktury, rozliczając koszty podanej usługi.",
+    "answers": [
+      "37,40 zł",
+      "14,81 zł",
+      "18,70 zł",
+      "40,65 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_faktura16.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 3,
+    "text": "Dla małego hotelu najbardziej odpowiednim narzędziem do dokonania rezerwacji usług na podstawie otrzymanego zamówienia jest",
+    "answers": [
+      "turystyczna wyszukiwarka internetowa.",
+      "portal społecznościowy zakupów grupowych.",
+      "globalny portal rezerwacyjny.",
+      "program komputerowy dla hoteli."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 4,
+    "text": "Który instrument promocji zastosował hotel sponsorując imprezę dobroczynną na rzecz dzieci niepełnosprawnych?",
+    "answers": [
+      "Reklamę.",
+      "Akwizycję.",
+      "Promocję sprzedaży.",
+      "Public relations."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 5,
+    "text": "Pan Pietraszko na podstawie zapytania rezerwacyjnego uzyskał potrzebne informacje o ofercie hotelu i podał termin, w którym obiekt otrzyma zamówienie na usługi hotelarskie. Wskaż, który to rodzaj rezerwacji.",
+    "answers": [
+      "Potwierdzona.",
+      "Kredytowa.",
+      "Gwarantowana.",
+      "Wstępna."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 6,
+    "text": "Gość hotelu poprosił pracownika recepcji o rezerwację biletu na samolot do Rzymu. Z którego systemu rezerwacyjnego powinien skorzystać recepcjonista?",
+    "answers": [
+      "Amadeus.",
+      "Expedia.",
+      "Chart.",
+      "Voyager."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 7,
+    "text": "Gość hotelowy zamówił pakiet usług obejmujący codzienne budzenie, depozyt w recepcji oraz przechowanie bagażu po zwolnieniu pokoju. Zamówiony pakiet to usługi",
+    "answers": [
+      "podstawowe.",
+      "fakultatywne.",
+      "towarzyszące.",
+      "uzupełniające."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 8,
+    "text": "Który zestaw usług dodatkowych powinien zaoferować hotel gościom typu biznesowego?",
+    "answers": [
+      "Zestaw D.",
+      "Zestaw A.",
+      "Zestaw B.",
+      "Zestaw C."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_zestawy.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 9,
+    "text": "Który dokument sporządza recepcjonista w celu zapisania wszystkich szczegółów przyjętej rezerwacji?",
+    "answers": [
+      "Formularz rezerwacyjny.",
+      "Grafik rezerwacji.",
+      "Księgę rejestracyjną.",
+      "Kartę obciążeń."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 10,
+    "text": "Recepcjonista-operator centrali telefonicznej zajmuje się realizacją usługi",
+    "answers": [
+      "maid in room.",
+      "room service.",
+      "turn down service.",
+      "wake up call."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 11,
+    "text": "Wskaż usługę bezpłatnie świadczoną w hotelu na życzenie gości.",
+    "answers": [
+      "Zamówienie posiłku do pokoju.",
+      "Czyszczenie odzieży.",
+      "Korzystanie z odnowy biologicznej.",
+      "Zamówienie taksówki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 12,
+    "text": "Pomoc gościom hotelu 4* w przeniesieniu walizki z recepcji do pokoju jest obowiązkiem",
+    "answers": [
+      "dźwigowego.",
+      "gońca.",
+      "portiera.",
+      "bagażowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 13,
+    "text": "Podczas przyjęcia do hotelu grupy turystycznej recepcjonista może zastosować uproszczoną procedurę check-in polegającą na rejestracji gości bez",
+    "answers": [
+      "wpisywania danych do księgi rejestracyjnej.",
+      "wręczania kluczy do pokoi.",
+      "wręczania kart pobytu.",
+      "okazywania dokumentów tożsamości."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 14,
+    "text": "Do hotelu w miejscowości uzdrowiskowej przyjeżdżają głównie seniorzy w celu poprawy stanu zdrowia. Który pakiet usług powinien skierować hotel do tej grupy gości, aby spełnić tę potrzebę?",
+    "answers": [
+      "Turystyczny.",
+      "Rehabilitacyjny.",
+      "Rozrywkowy.",
+      "Sportowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 15,
+    "text": "Którą usługę powinien zaproponować recepcjonista hotelu w Legnicy niezmotoryzowanemu gościowi, który ma zakupiony bilet kolejowy na przejazd na trasie Legnica – Wrocław oraz bilet na przelot z Wrocławia do Warszawy?",
+    "answers": [
+      "Transfer z hotelu na dworzec kolejowy.",
+      "Transfer z hotelu na lotnisko.",
+      "Transfer z dworca kolejowego do hotelu.",
+      "Transfer z lotniska do hotelu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 16,
+    "text": "Recepcjonista prosi o dokument potwierdzający tożsamość gościa podczas",
+    "answers": [
+      "rozliczenia za pobyt w hotelu.",
+      "codziennego wydawania klucza do pokoju.",
+      "przyjęcia do hotelu.",
+      "realizacji usług dodatkowych w trakcie pobytu w hotelu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 17,
+    "text": "W związku z rezerwacją apartamentu dla nowożeńców recepcja powinna przekazać kierownikowi housekeepingu zlecenie na",
+    "answers": [
+      "udekorowanie pokoju i umieszczenie dostawki.",
+      "dodatkowe doposażenie pokoju.",
+      "udekorowanie pokoju i umieszczenie wstawki.",
+      "dodatkowe sprzątanie pokoju."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 18,
+    "text": "Z którą formą płatności jest związana preautoryzacja środków finansowych na zamówione w pensjonacie przez gościa usługi noclegowe i wyżywienie?",
+    "answers": [
+      "Kartą płatniczą.",
+      "Gotówką.",
+      "Przekazem pocztowym.",
+      "Poleceniem przelewu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 19,
+    "text": "Którą usługę powinien zaproponować recepcjonista fanom szczypiorniaka spędzającym weekend w hotelu?",
+    "answers": [
+      "Skorzystanie z siłowni hotelowej.",
+      "Rezerwację biletów na mecz piłki siatkowej.",
+      "Rezerwację biletów na mecz piłki ręcznej.",
+      "Wycieczkę po miejscowych muzeach."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 20,
+    "text": "Recepcjonista udzielił gościowi informacji turystycznej, gdy",
+    "answers": [
+      "poinformował o usługach hotelu.",
+      "zaproponował usługę parkingu.",
+      "wyjaśnił obsługę sejfu w pokoju.",
+      "wskazał drogę do centrum miasta."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 21,
+    "text": "Do recepcji zgłasza się osoba twierdząc, że jest gościem hotelowym i że zgubiła klucz do pokoju, w postaci karty magnetycznej. W takiej sytuacji recepcjonista powinien:",
+    "answers": [
+      "sprawdzić listę gości, poprosić o kartę pobytu, wydać nowy klucz.",
+      "dokonać adnotacji w księdze rejestracyjnej, wręczyć nowy klucz.",
+      "wezwać przełożonego, wręczyć nowy klucz.",
+      "poprosić o akceptację rezerwacji, wydać nowy klucz."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 22,
+    "text": "Przedstawiony fragment dokumentu hotelowego, przygotowany przez recepcjonistę dla gościa, to",
+    "answers": [
+      "faktura.",
+      "dowód wpłaty.",
+      "kosztorys.",
+      "rachunek wstępny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_dokument7.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 23,
+    "text": "Która z przedstawionych ofert hotelu jest najbardziej odpowiednia dla passantów?",
+    "answers": [
+      "Oferta A.",
+      "Oferta D.",
+      "Oferta B.",
+      "Oferta C."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_oferty8.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 24,
+    "text": "Na podstawie którego dokumentu recepcjonista może wpisać studenta do księgi rejestracyjnej hotelu?",
+    "answers": [
+      "Karty płatniczej.",
+      "Prawa jazdy.",
+      "Karty pobytu.",
+      "Potwierdzenia rezerwacji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 25,
+    "text": "Którym piktogramem oznaczone są usługi świadczone jako towarzyszące?",
+    "answers": [
+      "Piktogramem B.",
+      "Piktogramem A.",
+      "Piktogramem D.",
+      "Piktogramem C."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_piktogramy3.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 26,
+    "text": "Z którego fragmentu, poniższych zamówień wynika konieczność poinformowania szefa kuchni o przyjeździe gości ze specjalnymi potrzebami żywieniowymi?",
+    "answers": [
+      "3",
+      "4",
+      "1",
+      "2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_tabela43.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 27,
+    "text": "Prezes firmy zarezerwował apartament w hotelu. Na podstawie fragmentu grafiku rezerwacji, wskaż termin jego pobytu.",
+    "answers": [
+      "02.09 – 07.09",
+      "03.09 – 08.09",
+      "02.09 – 08.09",
+      "03.09 – 07.09"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_grafik14.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 28,
+    "text": "Który pakiet usług jest najbardziej odpowiedni dla gości preferujących dbanie o urodę i sylwetkę?",
+    "answers": [
+      "Rehabilitacyjne.",
+      "Podstawowe.",
+      "Handlowe.",
+      "Spa i wellness."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 29,
+    "text": "Pracownik recepcji wystawił i wysłał klientowi fakturę z błędnie wpisaną nazwą firmy. Który dokument powinien sporządzić recepcjonista po zauważeniu pomyłki?",
+    "answers": [
+      "Korektę paragonu.",
+      "Ewidencję korekt.",
+      "Fakturę korygującą.",
+      "Notę korygującą."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 30,
+    "text": "Która z przedstawionych ofert domu wycieczkowego spełni oczekiwania grupy młodzieży szkolnej w zakresie zamówionych usług: pokoje z łazienkami, wyżywienie HB, parking dla autokaru, sala na spotkania z grupą?",
+    "answers": [
+      "Oferta B.",
+      "Oferta A.",
+      "Oferta C.",
+      "Oferta D."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_oferty9.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 31,
+    "text": "Hotel, który wynajął dla biura podróży pokoje z klauzulą, że za niewykorzystane jednostki mieszkalne nie pobiera opłaty, zastosował",
+    "answers": [
+      "allotment.",
+      "czarter.",
+      "timesharing.",
+      "overbooking."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 32,
+    "text": "Którą z wymienionych czynności powinien wykonać recepcjonista jako ostatnią podczas procedury check-in grupy?",
+    "answers": [
+      "Udzielić informacji dotyczących usług świadczonych w hotelu.",
+      "Otworzyć rachunek zbiorczy dla grupy.",
+      "Przekazać pilotowi karty pobytu.",
+      "Zapytać, na jakie nazwisko była dokonana rezerwacja."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 33,
+    "text": "Podczas rozliczania noclegu gościa w hotelu, recepcjonista poprosił o dopłatę w wysokości 210,00 zł informując, że 140,00 zł zostało wpłacone na etapie rezerwacji usług. Jaki % zaliczki wpłacił gość przed przyjazdem?",
+    "answers": [
+      "40%",
+      "50%",
+      "30%",
+      "60%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 34,
+    "text": "Gość hotelu poprosił pracownika recepcji o dodatkową poduszkę i koc. Kogo powinien poinformować recepcjonista o prośbie gościa?",
+    "answers": [
+      "Pokojową.",
+      "Pracownika zaopatrzenia.",
+      "Korytarzową.",
+      "Magazyniera pościeli."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 35,
+    "text": "Kwit depozytowy recepcjonista sporządził i wręczył gościowi, który",
+    "answers": [
+      "zdeponował pieniądze w sejfie pokoju hotelowego.",
+      "oddał walizkę do przechowalni bagażu.",
+      "oddał rzecz wartościową do sejfu w recepcji.",
+      "wpłacił zaliczkę do hotelowej kasy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 36,
+    "text": "Na podstawie cennika usług noclegowych ustal kwotę, którą zapłacą goście za pobyt przez pięć dób w trzyosobowym pokoju?",
+    "answers": [
+      "3 500,00 zł",
+      "2 500,00 zł",
+      "1 750,00 zł",
+      "1 250,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_cennik7.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 37,
+    "text": "Gościowi, który korzysta z noclegu w pensjonacie, powinny być obowiązkowo zaoferowane usługi",
+    "answers": [
+      "odnowy biologicznej.",
+      "całodziennego wyżywienia.",
+      "wypożyczenia sprzętu.",
+      "wycieczek fakultatywnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 38,
+    "text": "Którą czynność może wykonać recepcjonista za pomocą przedstawionego na fotografii urządzenia?",
+    "answers": [
+      "Wykwaterować gościa z hotelu.",
+      "Wysłać do gościa potwierdzenie rezerwacji.",
+      "Wystawić gościowi fakturę za usługi hotelowe.",
+      "Zarejestrować gościa w hotelu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_urzadzenie4.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 39,
+    "text": "Pani Wojas w zamówieniu usług hotelarskich poprosiła o rezerwację: apartamentu, pełnego wyżywienia, room service wszystkich posiłków, opiekunki do dziecka, instruktora do nauki pływania dla dziecka, wizyty u fryzjera dla siebie. Wskaż usługę, o której recepcjonista powinien poinformować dział rekreacji.",
+    "answers": [
+      "Instruktor do nauki pływania dla dziecka.",
+      "Wizyta u fryzjera.",
+      "Opiekunka do dziecka.",
+      "Room service wszystkich posiłków."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 40,
+    "text": "Działaniem promocyjnym hotelu w ramach marketingu bezpośredniego jest",
+    "answers": [
+      "oferowanie gadżetów reklamowych z logo hotelu.",
+      "świadczenie usług podstawowych na terenie obiektu.",
+      "prezentowanie oferty hotelu na stronie internetowej www.",
+      "stosowanie obniżki cen przy dłuższych pobytach."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 41,
+    "text": "Klient dokonał rezerwacji noclegu w pensjonacie i we wskazanym przez obiekt terminie uregulował określoną w potwierdzeniu zaliczkę. Wskaż, który rodzaj rezerwacji powinien zaznaczyć recepcjonista.",
+    "answers": [
+      "Gwarantowaną.",
+      "Niepotwierdzoną.",
+      "Przedwstępną.",
+      "Kredytową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 42,
+    "text": "Który segment gości jest adresatem oferowanego przez hotel pakietu usług Zabawa?",
+    "answers": [
+      "Uczniowie biorący udział w zielonej szkole.",
+      "Rodzice z małymi dziećmi.",
+      "Uczniowie biorący udział w wycieczce szkolnej.",
+      "Rodzice ze starszymi dziećmi."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/tg12_ramka2.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 43,
+    "text": "Gość wyjeżdżając z hotelu, zamówił w recepcji pokój na przyszły termin. Jaki to rodzaj rezerwacji?",
+    "answers": [
+      "Pośredni.",
+      "Osobisty.",
+      "Telefoniczny.",
+      "Elektroniczny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 44,
+    "text": "Hotel wystawił zamawiającemu fakturę z adnotacją o uregulowaniu należności w terminie dwóch tygodni od daty jej wystawienia. Którą formę płatności określono w dokumencie?",
+    "answers": [
+      "Gotówkę.",
+      "Czek.",
+      "Kartę kredytową.",
+      "Polecenie przelewu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 45,
+    "text": "Do usług odpłatnych świadczonych na życzenie gości zalicza się",
+    "answers": [
+      "skorzystanie z przechowalni bagażu.",
+      "skorzystanie ze skrytki depozytowej.",
+      "usługę budzenia.",
+      "usługę room service."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 46,
+    "text": "Dysponent pełniący dyżur na nocnej zmianie powinien sporządzić raport dobowy i przekazać informacje w nim zawarte",
+    "answers": [
+      "inspektorowi służby pięter.",
+      "dyrektorowi hotelu.",
+      "kierownikowi sali konsumenckiej.",
+      "kierownikowi recepcji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 47,
+    "text": "Na podstawie analizy zamieszczonych fragmentów faktur wskaż, który dokument recepcjonista przygotował dla gościa nocującego w hotelu 3 doby.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/tg12_faktury.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 48,
+    "text": "Który instrument promocji zastosował hotel, sponsorując imprezę dobroczynną na rzecz dzieci niepełnosprawnych?",
+    "answers": [
+      "Akwizycję.",
+      "Promocję sprzedaży.",
+      "Public relations.",
+      "Reklamę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 49,
+    "text": "Przedstawiony fragment dokumentu hotelowego to część",
+    "answers": [
+      "paragonu fiskalnego.",
+      "dowodu wpłaty.",
+      "faktury.",
+      "kosztorysu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/tg12_tabela6.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 50,
+    "text": "Wartość brutto zamówionych usług hotelarskich wynosi 1 500,00 zł. Wskaż kwotę, którą powinien zapłacić gość w dniu wyjazdu, jeżeli wpłacił zaliczkę w wysokości 40%.",
+    "answers": [
+      "2 100,00 zł",
+      "600,00 zł",
+      "900,00 zł",
+      "1 500,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 51,
+    "text": "Po otrzymaniu zamówienia na usługi hotelarskie recepcjonista w pierwszej kolejności powinien sporządzić",
+    "answers": [
+      "grafik rezerwacji.",
+      "potwierdzenie rezerwacji.",
+      "wykaz rezerwacji.",
+      "formularz rezerwacji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 52,
+    "text": "Którą ze strategii zastosowano w hotelu, gdy w okresie zimowym do każdej jednostki mieszkalnej dodatkowo dołożono szlafroki?",
+    "answers": [
+      "Personelu.",
+      "Dystrybucji.",
+      "Promocji.",
+      "Produktu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 53,
+    "text": "Hotel, który w ramach działań promocyjnych wykorzystuje własną stronę internetową do prezentowania oferty usług, stosuje",
+    "answers": [
+      "sponsoring.",
+      "marketing pośredni.",
+      "lobbing.",
+      "marketing bezpośredni."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 54,
+    "text": "Rodzina wybrała hotel, który jest położony niedaleko lotniska i przyjmuje zwierzęta. Zarezerwowała pokój z telewizorem i łazienką, w której jest wanna. Ich oczekiwania związane z pobytem w obiekcie spełnią usługi oznaczone piktogramami",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/tg12_piktogramy.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 55,
+    "text": "W jaki sposób powinien postąpić recepcjonista, jeżeli został telefonicznie poproszony przez żonę gościa hotelowego o przekazanie mężowi ważnej informacji?",
+    "answers": [
+      "Zadzwonić do gościa i przedstawić informację z pamięci.",
+      "Przekazać wiadomość ustnie osobie towarzyszącej gościowi.",
+      "Zapisać szczegóły na druku message i dołączyć do dokumentacji hotelowej.",
+      "Zapisać szczegóły na druku message i powiadomić gościa o wiadomości."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 56,
+    "text": "Który pakiet usług jest bezpłatnie świadczony gościom hotelowym?",
+    "answers": [
+      "Usługa bagażowa, korzystanie z mini baru, usługi spa.",
+      "Usługa budzenia, depozyt hotelowy, przechowanie bagażu.",
+      "Usługa pralnicza, udzielenie informacji turystycznej, nocleg.",
+      "Usługa room service, udzielenie pierwszej pomocy, korzystanie z faksu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 57,
+    "text": "Gość skorzystał z usług hotelu w terminie od 10 do 12 września w taryfie BB w cenie 250,00 zł brutto za dobę. Dodatkowo wykupił dwa masaże ciała w cenie 90,00 zł brutto każdy. Za usługi podstawowe zapłacił kartą kredytową służbową, a za usługi fakultatywne – gotówką. Wskaż należność zapłaconą gotówką.",
+    "answers": [
+      "340,00 zł",
+      "180,00 zł",
+      "500,00 zł",
+      "680,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 58,
+    "text": "Wskaż kwotę, którą powinien recepcjonista wpisać w pozycji obiadokolacja, sporządzając dla gościa potwierdzenie rezerwacji.",
+    "answers": [
+      "50,00 zł",
+      "100,00 zł",
+      "150,00 zł",
+      "75,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/tg12_tabela4.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 59,
+    "text": "Na podstawie cennika usług noclegowych ustal kwotę, którą zapłacą goście za pobyt przez 5 dób w trzyosobowym pokoju.",
+    "answers": [
+      "3 500,00 zł",
+      "1 250,00 zł",
+      "1 750,00 zł",
+      "2 500,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/tg12_tabela5.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 60,
+    "text": "Podczas przyjęcia do hotelu grupy turystycznej recepcjonista może zastosować uproszczoną procedurę check in polegającą na rejestracji gości bez",
+    "answers": [
+      "wpisywania danych do księgi rejestracyjnej.",
+      "wręczania kluczy do pokojów.",
+      "okazywania dokumentów tożsamości.",
+      "wręczania kart pobytu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 61,
+    "text": "Wskaż podstawowe zadanie wykonywane przez kierownika recepcji hotelu.",
+    "answers": [
+      "Przygotowanie jednostek mieszkalnych do sprzedaży.",
+      "Udzielanie informacji turystycznej.",
+      "Kontrola stanu wyposażenia pokojów hotelowych.",
+      "Nadzór i koordynacja pracy pracowników recepcji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 62,
+    "text": "Prezes firmy zarezerwował apartament w hotelu. Na podstawie fragmentu grafiku rezerwacji wskaż termin jego pobytu.",
+    "answers": [
+      "02.07 – 08.07",
+      "02.07 – 07.07",
+      "03.07 – 07.07",
+      "03.07 – 08.07"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/tg12_grafik.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 63,
+    "text": "Kwit depozytowy recepcjonista sporządzi i wręczy gościowi, który",
+    "answers": [
+      "odda walizkę do przechowalni bagażu.",
+      "odda rzecz wartościową do sejfu w recepcji.",
+      "zdeponuje pieniądze w sejfie pokoju hotelowego.",
+      "wpłaci zaliczkę do hotelowej kasy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 64,
+    "text": "W sytuacji, gdy do hotelu przyjeżdża stały klient, który ma status VIP-a, pracownik recepcji powinien w pierwszej kolejności przekazać informację",
+    "answers": [
+      "dyrektorowi hotelu.",
+      "portierowi.",
+      ".pokojowej",
+      "kierownikowi restauracji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 65,
+    "text": "Które z podanych usług hotelu oznaczone piktogramem są świadczone jako towarzyszące?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/tg12_piktogramy2.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 66,
+    "text": "Przekazana do recepcji informacja o usłudze gastronomicznej, za którą gość zapłaci na koniec pobytu w hotelu, powinna zawierać imię i nazwisko gościa, należność oraz",
+    "answers": [
+      "rodzaj pokoju.",
+      "termin wyjazdu.",
+      "termin przyjazdu.",
+      "numer pokoju."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 67,
+    "text": "W procedurze check in recepcjonista obowiązkowo powinien udzielić gościowi informacji o usługach dodatkowych hotelu",
+    "answers": [
+      "przed wydaniem klucza do pokoju.",
+      "po wskazaniu drogi do pokoju.",
+      "przy uprzejmym powitaniu.",
+      "podczas życzenia miłego pobytu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 68,
+    "text": "Do recepcji zgłasza się gość prosząc o zmianę pokoju ze względu na hałas dochodzący z ulicy. Jak powinien zachować się recepcjonista?",
+    "answers": [
+      "Wyjaśnić gościowi, że wyolbrzymia problem.",
+      "Zaproponować gościowi inny obiekt hotelarski.",
+      "Wysłuchać gościa i nie reagować na uwagi.",
+      "Być empatycznym i starać się rozstrzygnąć problem na korzyść gościa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 69,
+    "text": "Przedstawione na rysunku urządzenie recepcjonista wykorzystuje do",
+    "answers": [
+      "przyjmowania należności kartą płatniczą.",
+      "rejestrowania operacji finansowych gościa podczas pobytu w hotelu.",
+      "kodowania kluczy magnetycznych.",
+      "kodowania zamków elektronicznych w drzwiach pokojów hotelowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/tg12_urzadzenie.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 70,
+    "text": "Recepcjonista przyjął zamówienie od gościa, który będzie korzystał z noclegu oraz usług w taryfie FB. Która komórka organizacyjna powinna zostać poinformowana o życzeniu klienta?",
+    "answers": [
+      "Pion gastronomiczny.",
+      "Dział marketingu.",
+      "Pion rekreacyjny.",
+      "Dział zaopatrzenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 71,
+    "text": "Jeżeli pracownik recepcji przyjmując gościa do hotelu wpisał w dokumencie serię i numer dowodu osobistego, to oznacza, że sporządził",
+    "answers": [
+      "druk wiadomości.",
+      "księgę rejestracyjną.",
+      "kwit bagażowy.",
+      "kartę pobytu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 72,
+    "text": "Jeżeli podczas przyjęcia gościa do hotelu recepcjonista dokonuje preautoryzacji, to oznacza, że gość zapłaci za pobyt",
+    "answers": [
+      "gotówką.",
+      "voucherem.",
+      "czekiem podróżniczym.",
+      "kartą płatniczą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 73,
+    "text": "Wskaż, z którego systemu rezerwacji powinien skorzystać recepcjonista w sytuacji, gdy gość podczas pobytu w hotelu w Warszawie poprosił go o sprawdzenie możliwości rezerwacji pokoju w hotelu we Francji.",
+    "answers": [
+      "Krajowego.",
+      "Lokalnego.",
+      "Globalnego.",
+      "Regionalnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 74,
+    "text": "Która czynność jest ostatnim elementem procedury check in dla grupy zorganizowanej?",
+    "answers": [
+      "Otwarcie rachunku gości.",
+      "Wydanie kluczy i kart pobytu.",
+      "Poinformowanie o usługach dodatkowych.",
+      "Rejestracja gości."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 75,
+    "text": "Które z zachowań jest niezgodne z zasadami savoir-vivre wobec osoby poruszającej się na wózku inwalidzkim, podczas jej rejestracji w hotelu?",
+    "answers": [
+      "Wyręczanie gościa we wszystkich czynnościach.",
+      "Zajęcie przez recepcjonistę pozycji siedzącej na krześle, na poziomie osoby poruszającej się na wózku.",
+      "Przemieszczanie wózka we wskazane przez gościa miejsce.",
+      "Umieszczenie potrzebnych przedmiotów w zasięgu rąk osoby poruszającej się na wózku."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 76,
+    "text": "Które z wymienionych narzędzi marketingu mix stosuje hotel, jeżeli usługi noclegowe sprzedaje za pośrednictwem biura podróży?",
+    "answers": [
+      "Dystrybucję.",
+      "Promocję.",
+      "Cenę.",
+      "Produkt."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 77,
+    "text": "Który rodzaj zabiegów rehabilitacyjnych należy zaplanować dla gości chcących skorzystać z zabiegu termoterapii, wykonywanego w specjalnej kabinie, z wykorzystaniem temperatur poniżej 0°C?",
+    "answers": [
+      "Hydroterapię.",
+      "Krioterapię.",
+      "Fizykoterapię.",
+      "Kinezyterapię."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 78,
+    "text": "Gościom hotelowym, którzy planują zwiedzić Stare Miasto w Warszawie i dotrzeć na lotnisko taksówką, należy udzielić informacji, korzystając",
+    "answers": [
+      "z rozkładu komunikacyjnego.",
+      "z mapy regionu.",
+      "z planu miasta.",
+      "z książki teleadresowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 79,
+    "text": "Na podstawie którego dokumentu przesłanego przez touroperatora recepcjonista może zarezerwować pokoje dla poszczególnych uczestników imprezy turystycznej oraz wypełnić grafik pokoi?",
+    "answers": [
+      "Listy roomingowej.",
+      "Formularza rezerwacji.",
+      "Vouchera.",
+      "Potwierdzenia rezerwacji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 80,
+    "text": "Gość hotelowy poprosił o zorganizowanie w pokoju lunchu dla kilku osób. Które informacje recepcja powinna przekazać gastronomii w związku z zamówioną usługą?",
+    "answers": [
+      "Nazwisko gościa, datę, ceny potraw, menu.",
+      "Nr pokoju, datę i godzinę, liczbę osób, menu.",
+      "Nr pokoju, datę i godzinę, rodzaje napojów.",
+      "Nazwiska gości, godzinę, menu, nr pokoju."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 81,
+    "text": "Którego zwrotu należy użyć, tytułując list powitalny skierowany do rektora wyższej uczelni?",
+    "answers": [
+      "Wasza Ekscelencja.",
+      "Szanowny Rektorze.",
+      "Panie Dyrektorze.",
+      "Jego Magnificencja."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 82,
+    "text": "Który z dokumentów potwierdzających zapłatę za zamówione i zrealizowane usługi powinien wręczyć recepcjonista, gdy nabywcą jest osoba prawna?",
+    "answers": [
+      "Fakturę pro forma.",
+      "Fakturę.",
+      "Kosztorys usług.",
+      "Paragon fiskalny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 83,
+    "text": "Na podstawie danych przedstawionych w tabeli określ minimalną powierzchnię hallu recepcyjnego w hotelu 4* posiadającym 200 jednostek mieszkalnych.",
+    "answers": [
+      "50 m2",
+      "170 m2",
+      "105 m2",
+      "80 m2"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/tg12_tabela.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 84,
+    "text": "Na którym etapie kompleksowej obsługi gościa recepcjonista powinien poinformować go o warunkach dokonania przedpłaty?",
+    "answers": [
+      "Rozliczenia.",
+      "Rejestracji.",
+      "Pobytu.",
+      "Rezerwacji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 85,
+    "text": "Państwo Kowalscy zarezerwowali 4 pokoje DBL na dwie doby. Ile wynosi wartość netto tej usługi, jeżeli pokój DBL kosztuje 180,00 zł brutto/dobę przy stawce podatku VAT wynoszącej 8%?",
+    "answers": [
+      "666,67 zł",
+      "1 440,00 zł",
+      "720,00 zł",
+      "1 333,33 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 86,
+    "text": "Który z przedstawionych formularzy wykorzystywany jest przez hotel do procedury preautoryzacji?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/tg12_formularze.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 87,
+    "text": "W celu poprawienia błędnie naliczonych usług noclegowych na fakturze należy wystawić",
+    "answers": [
+      "fakturę pro forma.",
+      "fakturę uproszczoną.",
+      "duplikat faktury.",
+      "fakturę korygującą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 88,
+    "text": "Z której formy płatności zamierza skorzystać gość, jeżeli chce przekazać należność za pobyt w hotelu za pośrednictwem bankowości internetowej?",
+    "answers": [
+      "Polecenia przelewu.",
+      "Wpłaty gotówkowej.",
+      "Pobrania pocztowego.",
+      "Czeku podróżnego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 89,
+    "text": "Gość w trakcie pobytu poprosił o dokonanie rezerwacji zabiegu manicure i pedicure w salonie kosmetycznym na terenie hotelu. Który to rodzaj usług?",
+    "answers": [
+      "Komplementarne.",
+      "Uzupełniające.",
+      "Towarzyszące.",
+      "Fakultatywne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 90,
+    "text": "Dla kogo recepcjonista pracujący na nocnej zmianie jest zobowiązany przygotować raport o statusie pokoi?",
+    "answers": [
+      "Przełożonego służby parterowej.",
+      "Kierownika służby pięter.",
+      "Szefa pionu technicznego.",
+      "Księgowej w dziale rozliczeń."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 91,
+    "text": "Pracownik recepcji przyjmujący rezerwację telefoniczną na usługi hotelarskie w pierwszej kolejności powinien",
+    "answers": [
+      "zapytać o specjalne życzenia.",
+      "podać numer rezerwacji.",
+      "ustalić termin pobytu.",
+      "zapytać o położenie pokoju."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 92,
+    "text": "Do recepcji wpłynęło zamówienie dotyczące pobytu gościa VIP, który posiada bardzo duży bagaż. W celu zrealizowania prawidłowej procedury check in gościa specjalnego należy w dniu przyjazdu zwiększyć liczbę pracowników należących do",
+    "answers": [
+      "komórki administracyjnej.",
+      "pionu pobytowego.",
+      "służby parterowej.",
+      "działu technicznego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 93,
+    "text": "Gość hotelowy zwrócił się z prośbą o usunięcie z minibarku napojów alkoholowych. Co powinien w tej sytuacji zrobić recepcjonista?",
+    "answers": [
+      "Spełnienie prośby uzależnić od podanej przyczyny.",
+      "Bezzwłocznie zapewnić spełnienie prośby gościa.",
+      "Przekazać prośbę gościa dyrektorowi hotelu.",
+      "Przekazać prośbę gościa kierownikowi recepcji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 94,
+    "text": "Zgodnie z procedurą check in wydanie klucza i karty pobytu gościowi powinno nastąpić po",
+    "answers": [
+      "wskazaniu drogi do pokoju gościa.",
+      "poinformowaniu gościa o usługach dodatkowych.",
+      "otwarciu rachunku gościa.",
+      "życzeniu gościowi miłego pobytu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 95,
+    "text": "Wskaż czynność charakterystyczną dla procedury check out.",
+    "answers": [
+      "Realizacja usług objętych zamówieniem.",
+      "Sprawdzenie rezerwacji w grafiku.",
+      "Powtórzenie szczegółów rezerwacji.",
+      "Sporządzenie rachunku wstępnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 96,
+    "text": "Na podstawie zamieszczonego zamówienia określ, który rodzaj jednostek mieszkalnych należy zaproponować gościom.",
+    "answers": [
+      "Connecting rooms.",
+      "Superior rooms.",
+      "Executive rooms.",
+      "Adjacent rooms."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/tg12_ramka.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 97,
+    "text": "Na który z dokumentów powinien powołać się recepcjonista, udzielając informacji gościowi o możliwości dokonania procedury express check out?",
+    "answers": [
+      "Formularz rezerwacyjny.",
+      "Regulamin hotelowy.",
+      "Raport dobowy.",
+      "Kartę rejestracyjną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 98,
+    "text": "Którą z wymienionych grup usług recepcjonista może połączyć na fakturze w jedną pozycję?",
+    "answers": [
+      "Usługę noclegową, usługę parkingową.",
+      "Usługę przewodnicką, usługę SPA.",
+      "Obiad, butelkę wina wytrawnego.",
+      "Kolację, występ artystyczny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 99,
+    "text": "Uczniowski klub sportowy uprawiający rolkarstwo szybkie zorganizował zgrupowanie w ośrodku sportowo-wypoczynkowym. Które działy powinny zostać poinformowane przez recepcjonistę o przyjeździe zawodników?",
+    "answers": [
+      "Gastronomii, rekreacji, działu technicznego.",
+      "Administracji, gastronomii, służby pięter.",
+      "Obsługi konferencji, gastronomii, marketingu.",
+      "Służby pięter, księgowości, działu zaopatrzenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 100,
+    "text": "Imienny dokument, potwierdzający zarezerwowane i opłacone wcześniej usługi noclegowe w hotelu, to",
+    "answers": [
+      "voucher.",
+      "czek podróżny.",
+      "confirmation.",
+      "przelew bankowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 101,
+    "text": "Na podstawie zamieszczonego formularza rezerwacji określ, który z działów będzie wymagał zaangażowania większej niż zazwyczaj liczby pracowników podczas realizacji usług zamówionych na 12.07.2020 r.?",
+    "answers": [
+      "Marketingu.",
+      "Gastronomiczny.",
+      "Techniczny.",
+      "Recepcji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/tg12_formularz.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 102,
+    "text": "Gość przebywał w hotelu dwie doby oraz skorzystał z usług noclegowych i gastronomicznych na łączną kwotę 1 200,00 zł. W związku z tym, że jest gościem hotelu po raz piąty otrzymał rabat w wysokości 10%. Wskaż rodzaj zastosowanego rabatu.",
+    "answers": [
+      "Czasowy.",
+      "Ilościowy.",
+      "Lojalnościowy.",
+      "Sezonowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 103,
+    "text": "Które systemy rezerwacyjne umożliwiają turyście aktualnie przebywającemu w Polsce dokonać rezerwacji miejsca noclegowego, biletu lotniczego oraz wynajęcia samochodu w Australii?",
+    "answers": [
+      "Chart, Travelplanet.",
+      "eTravel, Expedia.",
+      "Travel-web, Fidelio.",
+      "Amadeus, Sabre."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 104,
+    "text": "Który z dokumentów podczas procedury check out należy przedstawić gościowi płacącemu gotówką do akceptacji?",
+    "answers": [
+      "Dokument kasowy.",
+      "Polecenie przelewu.",
+      "Rachunek wstępny.",
+      "Fakturę zaliczkową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 105,
+    "text": "Gość dokonał rezerwacji jednego pokoju SGL i dwóch pokoi DBL w terminie od 12 stycznia 2020 r. do 18 stycznia 2020 r. Poprosił o pokoje na jednym piętrze. Który z przedstawionych grafików odpowiada przyjętemu zamówieniu?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/tg12_grafiki.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 106,
+    "text": "Który pracownik hotelu zajmuje się bezpośrednią obsługą gości w zakresie udzielania informacji hotelowej, turystycznej, kulturalnej oraz spełnianiem ich oczekiwań i życzeń?",
+    "answers": [
+      "Executive Housekeeper.",
+      "Front Office Manager.",
+      "Guest relations.",
+      "Concierge."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 107,
+    "text": "Pan Nowak zostawił samochód na trzy doby na parkingu hotelowym, którego cena jednostkowa brutto wynosi 50,00 zł/dobę. Ile wynosi wartość podatku VAT tej usługi przy stawce 23%?",
+    "answers": [
+      "11,11 zł",
+      "28,05 zł",
+      "12,00 zł",
+      "34,50 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 108,
+    "text": "Który rodzaj rezerwacji umożliwia gościowi rejestrację w hotelu rano, tuż przed końcem pierwszej doby hotelowej, bez ryzyka anulowania tej rezerwacji przez hotel?",
+    "answers": [
+      "Rezerwacja niegwarantowana.",
+      "Rezerwacja na zapytanie.",
+      "Rezerwacja gwarantowana.",
+      "Rezerwacja wstępna."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 109,
+    "text": "Recepcjonista podczas zmiany zauważył overbooking na dany dzień. W tej sytuacji powinien niezwłocznie powiadomić kierownika",
+    "answers": [
+      "służby pięter.",
+      "recepcji.",
+      "administracji.",
+      "działu marketingu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 110,
+    "text": "Firma Thor podczas pobytu w hotelu skorzystała z 5 pokoi DBL, wyżywienia FB w terminie od 9 do 11 marca oraz wynajęła salę konferencyjną w dniach 9 i 10 marca po 4 godziny dziennie. Cena za pokój w tym hotelu wynosi 300,00 zł, śniadanie wliczone jest w cenę noclegu, obiad kosztuje 40,00 zł, a kolacja 25,00 zł. Wynajęcie sali konferencyjnej to koszt 60,00 zł za godzinę. Który z przedstawionych rachunków wstępnych powinien zostać wręczony przedstawicielowi firmy Thor do akceptacji podczas procedury wyrejestrowania z hotelu?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/tg12_tabela2.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 111,
+    "text": "Utrzymywanie dobrych relacji ze społecznością wewnętrzną i zewnętrzną obiektu, a także dbanie o dobry wizerunek hotelu, to działanie w ramach",
+    "answers": [
+      "public relations.",
+      "marketingu zewnętrznego.",
+      "marketingu partyzanckiego.",
+      "sales promotion."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 112,
+    "text": "Gość przybył do hotelu w czasie trwania doby hotelowej. Na miejscu okazało się, że w zarezerwowanym pokoju trwa usuwanie awarii, które zajmie jeszcze ok. 2 godziny. Wszystkie pozostałe jednostki są zajęte. W tej sytuacji recepcjonista w pierwszej kolejności powinien",
+    "answers": [
+      "skonsultować ze służbą pięter czas trwania sprzątania pokoju po naprawie awarii.",
+      "poprosić kierownika działu technicznego w celu wyjaśnienia sytuacji.",
+      "zaproponować gościowi skorzystanie z przechowalni bagażu.",
+      "zaproponować gościowi spacer po parku."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 113,
+    "text": "Który z działów hotelu powinien zostać poinformowany w pierwszej kolejności, o przyjeździe gości z Izraela, w celu realizacji usług podstawowych zgodnie z przestrzeganymi przez nich zasadami koszerności?",
+    "answers": [
+      "Administracyjny.",
+      "Gastronomiczny.",
+      "Marketingu.",
+      "Służby pięter."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 114,
+    "text": "Który dokument powinien sporządzić recepcjonista, przyjmując rezerwację telefoniczną na usługi hotelarskie?",
+    "answers": [
+      "Kartę rejestracyjną.",
+      "Formularz rezerwacji.",
+      "Kartę pobytu.",
+      "Formularz kaucyjny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 115,
+    "text": "W którym dokumencie sporządzonym przez recepcjonistę i wysłanym na życzenie zleceniodawcy do gościa powinny znaleźć się informacje m.in. o terminie pobytu i zamówionych usługach, bez podawania cen?",
+    "answers": [
+      "W liście powitalnym.",
+      "W formularzu rezerwacyjnym.",
+      "W potwierdzeniu rezerwacji.",
+      "W zaproszeniu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 116,
+    "text": "Do rozliczeń bezgotówkowych nie zalicza się",
+    "answers": [
+      "czeku rozrachunkowego.",
+      "wpłaty do kasy.",
+      "polecenia zapłaty.",
+      "polecenia przelewu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 117,
+    "text": "Zadaniem którego pracownika recepcji jest rejestrowanie gości?",
+    "answers": [
+      "Klucznika.",
+      "Telefonisty.",
+      "Dysponenta.",
+      "Kasjera."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 118,
+    "text": "Który pakiet usług jest najbardziej odpowiedni dla przebywającej w hotelu, w ramach konkursu geograficznego, grupy gimnazjalistów?",
+    "answers": [
+      "Room service, SPA, wycieczka krajoznawcza.",
+      "Sauna, kasyno, gra miejska.",
+      "Usługa fryzjerska, masaże, gra miejska.",
+      "Basen, kręgielnia, wycieczka krajoznawcza."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 119,
+    "text": "Który z obiektów na zamieszczonych rysunkach jest godny polecenia gościom przebywającym w hotelu w Krakowie?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_obiekty.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 120,
+    "text": "Koncern samochodowy zamówił w hotelu organizację ośmiogodzinnej konferencji dla dyrektorów swoich oddziałów. Na podstawie fragmentu zamówienia określ, które usługi recepcjonista powinien zlecić do zrealizowania przez dział techniczny.",
+    "answers": [
+      "Ustawienie stołów konferencyjnych w podkowę oraz podpięcie laptopów do sieci.",
+      "Transport z lotniska uczestników konferencji oraz zorganizowanie przerwy kawowej.",
+      "Wręczenie przy rejestracji pakietów konferencyjnych oraz wysłanie zaproszeń.",
+      "Przygotowanie imiennych zaproszeń oraz pakietów konferencyjnych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_zamowienie7.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 121,
+    "text": "Na podstawie fragmentu zamówienia na usługi hotelarskie wskaż datę sporządzenia i adresata potwierdzenia rezerwacji.",
+    "answers": [
+      "14.07. 2019 r., Jon Lawson",
+      "25.02. 2019 r., Tomasz Majak",
+      "16.06. 2019 r., Krzysztof Konik",
+      "28.02. 2019 r., Marek Kotułas"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_rezerwacja2.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 122,
+    "text": "Na podstawie zamieszczonego grafiku rezerwacji określ możliwy termin rezerwacji pokoju dwuosobowego na dwie doby w drugim tygodniu marca.",
+    "answers": [
+      "08.03 – 10.03",
+      "09.03 – 11.03",
+      "07.03 – 09.03",
+      "06.03 – 08.03"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_grafik10.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 123,
+    "text": "Które usługi może zaoferować recepcjonista młodym kobietom, jeżeli przyjechały zrelaksować się w hotelu i przy okazji zwiedzić miasto?",
+    "answers": [
+      "Usługę depozytową i bezpłatne WiFi.",
+      "Masaż twarzy i usługę pralniczą.",
+      "Centrum SPA i wynajem samochodu.",
+      "Usługę budzenia i koloryzację włosów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_ramka10.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 124,
+    "text": "Stały gość hotelu, w dniu przyjazdu obchodzi pięćdziesiąte urodziny. Do którego z działów recepcjonista powinien przekazać tę informację?",
+    "answers": [
+      "Księgowości.",
+      "Administracji.",
+      "Marketingu.",
+      "Technicznego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 125,
+    "text": "Podczas wręczania gościowi rachunku zawsze należy zapytać",
+    "answers": [
+      "co nie podobało mu się podczas pobytu.",
+      "czy rachunek się zgadza.",
+      "o wielkość napiwku.",
+      "czy gość przyjedzie kolejny raz."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 126,
+    "text": "Którą z przedstawionych ofert usług dodatkowych recepcjonista powinien zaoferować rodzinie z dwójką małych dzieci (2 i 5 lat)?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_oferty6.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 127,
+    "text": "Który z podanych elementów powinien znaleźć się na karcie rejestracyjnej?",
+    "answers": [
+      "Numer konta hotelu.",
+      "Podpis dyrektora hotelu.",
+      "Data rezerwacji wstępnej.",
+      "Podpis gościa hotelowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 128,
+    "text": "Informacje o przyjeździe stałego gościa, który ma status VIP-a, pracownik recepcji powinien w pierwszej kolejności przekazać",
+    "answers": [
+      "dyrektorowi hotelu.",
+      "portierowi.",
+      "pokojowej.",
+      "kierownikowi restauracji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 129,
+    "text": "Na podstawie zamieszczonego cennika oblicz kwotę należną za usługi hotelowe, z których skorzystali Państwo Kowalscy tj. pobyt z pełnym wyżywieniem na 3 doby. Goście przyjechali do hotelu o godzinie 1700.",
+    "answers": [
+      "2 560,00 zł",
+      "1 856,00 zł",
+      "2 048,00 zł",
+      "2 347,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_cennik2.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 130,
+    "text": "Którą rezerwację powinien przyjąć recepcjonista od gościa oczekującego, że jego pokój będzie do dyspozycji przez pierwszą dobę hotelową planowanego pobytu, bez względu na to, o której godzinie przybędzie do hotelu?",
+    "answers": [
+      "Niegwarantowaną.",
+      "Wstępną.",
+      "Kredytową.",
+      "Gwarantowaną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 131,
+    "text": "Którą ze strategii zastosowano w hotelu, gdy w okresie zimowym do każdego pokoju dodatkowo dołożono ciepły koc i kapcie?",
+    "answers": [
+      "Dystrybucji.",
+      "Produktu.",
+      "Personelu.",
+      "Promocji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 132,
+    "text": "Celem preautoryzacji karty płatniczej gościa hotelowego jest",
+    "answers": [
+      "zabezpieczenie środków na koszty pobytu gościa.",
+      "obciążenie konta klienta.",
+      "identyfikacja właściciela karty.",
+      "sprawdzenie stanu środków na koncie gościa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 133,
+    "text": "Na podstawie, którego z podanych dokumentów nie można zarejestrować gościa w hotelu?",
+    "answers": [
+      "Legitymacji studenckiej.",
+      "Prawa jazdy.",
+      "Karty ubezpieczenia zdrowotnego.",
+      "Paszportu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 134,
+    "text": "Oblicz wartość podatku VAT za usługę noclegową, jeżeli wartość brutto usługi wynosi 1 500,00 zł, a stawka podatku 8%.",
+    "answers": [
+      "120,00 zł",
+      "111,11 zł",
+      "280,49 zł",
+      "345,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 135,
+    "text": "Który dokument będący elementem rozliczenia z gościem hotelowym powinien zawierać numer identyfikacji podatkowej sprzedawcy?",
+    "answers": [
+      "Paragon fiskalny.",
+      "Faktura.",
+      "Rachunek wstępny.",
+      "Polecenie przelewu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 136,
+    "text": "Informacje o gościach no show recepcja w pierwszej kolejności powinna przekazać do",
+    "answers": [
+      "służby parterowej.",
+      "działu technicznego.",
+      "działu marketingu.",
+      "służby pięter."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 137,
+    "text": "Który dokument sporządzony przez recepcjonistę uwzględnia warunki rezerwacji?",
+    "answers": [
+      "Potwierdzenie rezerwacji.",
+      "Voucher.",
+      "Karta pobytu.",
+      "Raport dobowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 138,
+    "text": "Który pakiet usług dodatkowych świadczony gościom hotelowym jest najczęściej wliczony w cenę usług podstawowych?",
+    "answers": [
+      "Usługa bagażowa, korzystanie z mini baru, usługi SPA.",
+      "Usługa room service, udzielenie pierwszej pomocy, korzystanie z faksu.",
+      "Usługa budzenia, depozyt hotelowy, przechowalnia bagażu.",
+      "Usługa pralnicza, udzielenie informacji turystycznej, nocleg ze śniadaniem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 139,
+    "text": "Do którego działu hotelu recepcjonista powinien przekazać informacje o usterkach w jednostkach mieszkalnych, zgłoszone przez gości?",
+    "answers": [
+      "Zaopatrzenia.",
+      "Technicznego.",
+      "Rezerwacji.",
+      "Księgowości."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 140,
+    "text": "Gość skorzystał z usług hotelu w terminie od 10 do 12 września w taryfie BB w cenie 250,00 zł brutto za dobę. Dodatkowo wykupił dwa masaże ciała w cenie 90,00 zł brutto każdy. Za usługi podstawowe zapłacił kartą kredytową służbową, a za usługi fakultatywne gotówką. Wskaż należność zapłaconą gotówką.",
+    "answers": [
+      "500,00 zł",
+      "680,00 zł",
+      "180,00 zł",
+      "340,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 141,
+    "text": "Do zadań którego z pracowników hotelu 5* należy zaplanowanie na prośbę gościa kilkugodzinnej wycieczki po mieście?",
+    "answers": [
+      "Managera hotelu.",
+      "Recepcjonisty concierge.",
+      "Kierownika recepcji.",
+      "Boya hotelowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 142,
+    "text": "Przyjęcie którego typu gości w hotelu odbywa się na podstawie rooming list?",
+    "answers": [
+      "Passantów.",
+      "Grupowych.",
+      "Indywidualnych.",
+      "Specjalnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 143,
+    "text": "Za dwudniową konferencję zorganizowaną w hotelu zamawiający, po otrzymaniu faktury z odroczoną płatnością, powinien zapłacić",
+    "answers": [
+      "czekiem przed konferencją.",
+      "czekiem po konferencji.",
+      "przelewem po konferencji.",
+      "przelewem przed konferencją."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 144,
+    "text": "Ile wynosi wartość brutto usługi pralniczej zamówionej przez gościa hotelowego, jeżeli wartość netto tej usługi wynosi 40,00 zł, a stawka podatku VAT wynosi 23%?",
+    "answers": [
+      "55,40 zł",
+      "49,20 zł",
+      "37,04 zł",
+      "32,52 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 145,
+    "text": "Gość wyjeżdżając z hotelu, zamówił w recepcji pokój na przyszły termin. Który to rodzaj rezerwacji?",
+    "answers": [
+      "Elektroniczny.",
+      "Osobisty.",
+      "Telefoniczny.",
+      "Pośredni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 146,
+    "text": "Recepcjonista, widząc wchodzącego gościa do hotelu, w pierwszej kolejności powinien",
+    "answers": [
+      "życzyć mu miłego pobytu.",
+      "przejąć opiekę nad jego bagażem.",
+      "zaprosić go do lady recepcyjnej.",
+      "nawiązać z nim kontakt wzrokowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 147,
+    "text": "Oblicz koszt noclegów dla 3-osobowej rodziny, która przebywała w hotelu w terminie od 11 do 16.04.2024 r. i skorzystała z pokojów: 1- i 2 osobowego.",
+    "answers": [
+      "2 000,00 zł",
+      "1 800,00 zł",
+      "2 400,00 zł",
+      "2 250,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_cennik5.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 148,
+    "text": "Na podstawie zamieszczonego zamówienia, określ który rodzaj jednostek mieszkalnych należy zaproponować gościom.",
+    "answers": [
+      "Superior rooms.",
+      "Connecting rooms.",
+      "Adjacent rooms.",
+      "Executive rooms."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_zamowienie10.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 149,
+    "text": "Gość skorzystał z usług hotelu w terminie od 10 do 12 września w taryfie BB w cenie 350,00 zł brutto za dobę. Dodatkowo wykupił dwa masaże ciała w cenie 110,00 zł brutto każdy. Za usługi podstawowe zapłacił kartą kredytową służbową, a za usługi fakultatywne gotówką. Oblicz należność zapłaconą gotówką.",
+    "answers": [
+      "920,00 zł",
+      "700,00 zł",
+      "220,00 zł",
+      "460,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 150,
+    "text": "Do której grupy gości skierowana jest oferta hotelu Venus zamieszczona w ramce?",
+    "answers": [
+      "Studentów.",
+      "Małżeństw.",
+      "Emerytów.",
+      "Biznesmenów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_oferta6.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 151,
+    "text": "Na podstawie którego dokumentu recepcjonista może wydać gościowi klucze do pokoju hotelowego?",
+    "answers": [
+      "Karty pobytu.",
+      "Dowodu osobistego.",
+      "Paszportu.",
+      "Karty rejestracyjnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 152,
+    "text": "Dla zapewnienia wysokiego obłożenia w sezonie letnim, hotel położony nad morzem, z dużym wyprzedzeniem przygotowuje ofertę sprzedaży usług typu",
+    "answers": [
+      "timesharing.",
+      "first minute.",
+      "rack rate.",
+      "all inclusive."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 153,
+    "text": "Który z pracowników recepcji nadzoruje przestrzeganie procedury przyjęcia gości do hotelu oraz ich sprawną obsługę?",
+    "answers": [
+      "Recepcjonista klucznik.",
+      "Recepcjonista dysponent.",
+      "Recepcjonista concierge.",
+      "Recepcjonista telefonista."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 154,
+    "text": "Za pomocą urządzenia przedstawionego na ilustracji gość ureguluje należność za pobyt",
+    "answers": [
+      "kartą płatniczą.",
+      "przelewem.",
+      "przekazem pocztowym.",
+      "gotówką."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_urzadzenie3.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 155,
+    "text": "W którym momencie procedury check-in recepcjonista powinien poinformować gościa o dostępnych w ofercie hotelu usługach dodatkowych?",
+    "answers": [
+      "Podczas wprowadzania do systemu danych gościa.",
+      "Przed wydaniem gościowi kluczy do pokoju.",
+      "Podczas wypełniania przez gościa karty rejestracyjnej.",
+      "Po pobraniu od gościa dokumentu tożsamości w celu rejestracji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 156,
+    "text": "Do której grupy usług należy przechowywanie w depozycie recepcyjnym przedmiotów wartościowych gości?",
+    "answers": [
+      "Towarzyszących, nieodpłatnych.",
+      "Uzupełniających, płatnych.",
+      "Uzupełniających, nieodpłatnych.",
+      "Towarzyszących, płatnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 157,
+    "text": "Które czynności powinien wykonać recepcjonista w celu gotówkowego rozliczenia kosztów pobytu gościa?",
+    "answers": [
+      "Przeprowadzić fiskalizację, przyjąć kartę płatniczą, wręczyć dokument potwierdzający zapłatę.",
+      "Zapytać gościa, czy jest zadowolony z pobytu, przyjąć należność, wydać resztę.",
+      "Przyjąć kartę płatniczą, wprowadzić kartę do czytnika POS, wydrukować dokument z czytnika.",
+      "Przedstawić do akceptacji wstępny rachunek, przyjąć gotówkę, wręczyć paragon."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 158,
+    "text": "Cechą charakterystyczną rezerwacji gwarantowanej jest",
+    "answers": [
+      "uzgodnienie dokładnej godziny przyjazdu gościa do hotelu.",
+      "wyznaczenie terminu potwierdzenia rezerwacji.",
+      "wpłacenie przez zamawiającego zaliczki.",
+      "określenie usług, z których może skorzystać gość."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 159,
+    "text": "Co jest podstawą do wydania właścicielowi rzeczy złożonej w depozycie hotelowym?",
+    "answers": [
+      "Dokument tożsamości i karta pobytu.",
+      "Dokument tożsamości i kwit depozytowy.",
+      "Karta pobytu i kwit parkingowy.",
+      "Kwit pralniczy i karta rejestracyjna."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 160,
+    "text": "Dokumentem sporządzanym przez recepcjonistę-dysponenta, po otrzymaniu zamówienia od gościa, a następnie wysyłanym do zamawiającego, jest",
+    "answers": [
+      "list powitalny.",
+      "potwierdzenie rezerwacji.",
+      "formularz rezerwacyjny.",
+      "karta zamówienia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 161,
+    "text": "Który z pracowników recepcji dużego hotelu realizuje usługi wake up call?",
+    "answers": [
+      "Kierownik zmiany.",
+      "Telefonista.",
+      "Guest relations.",
+      "Informator."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 162,
+    "text": "Który dokument służy do przekazania należności za skorzystanie z usługi noclegowej z rachunku gościa na rachunek motelu?",
+    "answers": [
+      "Polecenie przelewu.",
+      "Dowód wpłaty.",
+      "Faktura.",
+      "Rachunek wstępny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 163,
+    "text": "Do której godziny, w dniu przyjazdu, jednostka mieszkalna w hotelu pozostanie do dyspozycji gościa w ramach rezerwacji niegwarantowanej zgodnie z Kodeksem Postępowania Praktycznego?",
+    "answers": [
+      "14.00",
+      "19.00",
+      "12.00",
+      "18.00"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 164,
+    "text": "Hotel planuje zorganizowanie sprzedaży ciast świątecznych. Który środek przekazu będzie najlepiej informował społeczność lokalną o planowanym działaniu?",
+    "answers": [
+      "Telewizja krajowa.",
+      "Tablica drogowa.",
+      "Strona www hotelu.",
+      "Gazeta lokalna."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 165,
+    "text": "Który pakiet usług jest przeznaczony dla nowożeńców spędzających w hotelu część podróży poślubnej?",
+    "answers": [
+      "Pakiet IV",
+      "Pakiet III",
+      "Pakiet I",
+      "Pakiet II"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_tabela42.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 166,
+    "text": "Check-out to procedura",
+    "answers": [
+      "obsługi gościa w trakcie pobytu w obiekcie hotelarskim.",
+      "zapłaty za pobyt w obiekcie hotelarskim.",
+      "wykwaterowania gościa  z obiektu hotelarskiego.",
+      "przyjęcia gościa do obiektu hotelarskiego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 167,
+    "text": "Które urządzenie umożliwia przygotowanie przez recepcjonistę klucza elektronicznego dla gościa?",
+    "answers": [
+      "Czytnik bufora zdarzeń.",
+      "Włącznik elektrozamka na kartę zbliżeniową.",
+      "Programator kart zbliżeniowych.",
+      "Włącznik elektrozamka na przycisk."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 168,
+    "text": "Którą z czynności należy wykonać, w pierwszej kolejności, przyjmując gościa do hotelu?",
+    "answers": [
+      "Zapytać gościa o nazwisko lub numer rezerwacji.",
+      "Wręczyć gościowi klucze do pokoju i kartę pobytu.",
+      "Pobrać od gościa dokumenty potrzebne do rejestracji.",
+      "Poinformować gościa o ofercie hotelowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 169,
+    "text": "Recepcjonista rozliczył pobyt gościa w hotelu i wystawił fakturę. Za dodatkową usługę, na życzenie gościa, pobrał należność w formie gotówkowej. Recepcjonista ma obowiązek wydać gościowi",
+    "answers": [
+      "dowód wpłaty KP.",
+      "paragon fiskalny.",
+      "rachunek wstępny.",
+      "potwierdzenie wpłaty."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 170,
+    "text": "Na podstawie danych z tabeli, określ minimalną powierzchnię hallu recepcyjnego w hotelu 4*, posiadającym 80 jednostek mieszkalnych.",
+    "answers": [
+      "35 m2",
+      "20 m2",
+      "45 m2",
+      "30 m2"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_tabela35.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 171,
+    "text": "Na podstawie zamieszczonego grafiku rezerwacji, określ możliwy termin rezerwacji pokoju dwuosobowego na dwie doby w drugim tygodniu marca.",
+    "answers": [
+      "07.03 – 09.03",
+      "08.03 – 10.03",
+      "06.03 – 08.03",
+      "09.03 – 11.03"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_grafik10.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 172,
+    "text": "Który etap procesu rezerwacji internetowej usług hotelarskich przedstawiono na zamieszczonym zrzucie ekranu?",
+    "answers": [
+      "Wpłacenie zaliczki za pobyt.",
+      "Rezerwację pokoi.",
+      "Sprawdzenie cen pokoi.",
+      "Wyszukanie hotelu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_rezerwacja.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 173,
+    "text": "O który dokument należy poprosić organizatora imprezy turystycznej, w celu usprawnienia przyjęcia do hotelu grupy turystów w dniu przyjazdu?",
+    "answers": [
+      "Listę uczestników z danymi osobowymi.",
+      "Voucher wystawiony przez biuro podróży.",
+      "Dowód tożsamości kierownika grupy.",
+      "Pisemne potwierdzenie rezerwacji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 174,
+    "text": "Do którego działu hotelu, recepcjonista powinien przekazać informacje od gości dotyczące usterek w jednostkach mieszkalnych?",
+    "answers": [
+      "Technicznego.",
+      "Zaopatrzenia.",
+      "Rezerwacji.",
+      "Księgowości."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 175,
+    "text": "Z którego systemu powinien skorzystać recepcjonista krakowskiego hotelu sprawdzając możliwość rezerwacji pobytu dla gości w hotelu w Amsterdamie?",
+    "answers": [
+      "Fidelio.",
+      "Chart.",
+      "DM Plaza.",
+      "Amadeus."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 176,
+    "text": "Którym instrumentem promocji posługują się pracownicy recepcji, osobiście prezentując i zachęcając gości do skorzystania z oferty hotelu?",
+    "answers": [
+      "Reklamą zewnętrzną.",
+      "Promocją szeptaną.",
+      "Public relations.",
+      "Sprzedażą osobistą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 177,
+    "text": "Który z wymienionych rodzajów gości hotelowych jest adresatem zamieszczonej oferty pakietowej?",
+    "answers": [
+      "No show.",
+      "VIP.",
+      "Passant.",
+      "Walk in."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_oferta5.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 178,
+    "text": "Na podstawie fragmentu zamówienia określ, które usługi recepcjonista powinien zlecić do zrealizowania działowi technicznemu?",
+    "answers": [
+      "Ustawienie stołów konferencyjnych w podkowę oraz podłączenie laptopów do sieci.",
+      "Przygotowanie imiennych zaproszeń oraz pakietów konferencyjnych.",
+      "Transport z lotniska uczestników konferencji oraz zorganizowanie przerwy kawowej.",
+      "Wręczenie przy rejestracji pakietów konferencyjnych oraz wysłanie zaproszeń."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_zamowienie11.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 179,
+    "text": "Które z urządzeń umożliwia recepcjoniście wysłanie do gościa hotelowego potwierdzenia rezerwacji?",
+    "answers": [
+      "Urządzenie 4.",
+      "Urządzenie 1.",
+      "Urządzenie 2.",
+      "Urządzenie 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_urzadzenia4.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 180,
+    "text": "Informację o przyjeździe gościa VIP, pracownik recepcji powinien w pierwszej kolejności przekazać",
+    "answers": [
+      "portierowi.",
+      "dyrektorowi hotelu.",
+      "pokojowej.",
+      "kierownikowi restauracji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 181,
+    "text": "Po zapoznaniu się z fragmentem ulotki reklamowej jednego z używanych w polskich hotelach programu komputerowego wskaż, który to program. Profesjonalny program zarządzania hotelami. Przeznaczony do użytkowania w hotelu dowolnej wielkości. Może być wykorzystywany w wersji jednostanowiskowej lub w sieci. Jest jednym z najpopularniejszych systemów na świecie, preferowanym przez duże międzynarodowe sieci hotelowych. Nie jest to wyłącznie system recepcyjny. Współpracuje z systemami rezerwacyjnymi, gastronomicznymi, księgowymi, SPA oraz centralami telefonicznymi, systemami zamków elektronicznych, zarządzania zużyciem energii i Pay-TV-Video.",
+    "answers": [
+      "ReHot.",
+      "Galileo International.",
+      "Tour Manager.",
+      "Fidelio Front Office."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 182,
+    "text": "Zastosowanie w hotelu miejskim, położonym blisko strefy ekonomicznej, programu lojalnościowego jest sposobem pozyskania",
+    "answers": [
+      "studentów.",
+      "grup turystycznych.",
+      "rodzin z dziećmi.",
+      "gości biznesowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 183,
+    "text": "W której najniższej kategorii hotelu, gość ma zapewnioną możliwość otrzymywania codziennej prasy?",
+    "answers": [
+      "1*",
+      "3*",
+      "2*",
+      "4*"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 184,
+    "text": "Którą ofertę, pozwalającą na wspólne spędzenie czasu dzieci z rodzicami, powinien złożyć recepcjonista rodzinom wypoczywającym w ośrodku wczasowym?",
+    "answers": [
+      "Warsztaty kulinarne, kasyno, kawiarenka internetowa.",
+      "Kawiarenka internetowa, park wodny, zawody strzeleckie.",
+      "Mini zoo, park wodny, warsztaty kulinarne.",
+      "Mini zoo, zawody strzeleckie, siłownia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 185,
+    "text": "Hotel 4* posiadający sale wielofunkcyjne różnej wielkości, nowoczesne wyposażenie audiowizualne oraz oferujący szeroką gamę usług rekreacyjnych, skieruje swoją ofertę przede wszystkim do",
+    "answers": [
+      "gości indywidualnych podróżujących z rodziną.",
+      "firm organizujących szkolenia i konferencje.",
+      "organizatorów wczasów wypoczynkowych.",
+      "grup turystycznych nastawionych na rozrywkę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 186,
+    "text": "Organizator przyjęcia weselnego zamówił do apartamentu nowożeńców butelkę schłodzonego szampana. Który dział hotelu powinien otrzymać z recepcji zlecenie na tę usługę?",
+    "answers": [
+      "Handlowy.",
+      "Marketingu.",
+      "Techniczny.",
+      "Gastronomiczny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 187,
+    "text": "Który zestaw zabiegów leczniczych powinien zaproponować gościowi pracownik hotelu położonego w miejscowości uzdrowiskowej?",
+    "answers": [
+      "Animacje czasu wolnego, gimnastykę i saunę.",
+      "Sesje treningowe z trenerem, room-service i whirlpool.",
+      "Konsultacje medyczne ze specjalistą, wi-fi i porady dietetyka.",
+      "Picie wód mineralnych, okłady borowinowe i inhalacje."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 188,
+    "text": "Nowo otwarty pensjonat oferuje usługi skierowane głównie do rodzin z dziećmi. W celu aktywizacji sprzedaży usług, powinien reklamować się",
+    "answers": [
+      "poprzez rozdawanie ulotek na ulicach.",
+      "w katalogach dla wybranego segmentu gości.",
+      "poprzez umieszczenie bilbordów w mieście.",
+      "w lokalnej prasie, radio i telewizji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 189,
+    "text": "Gość złożył pisemne zamówienie na usługi noclegowe, w którym podał numer karty kredytowej oraz określił swój przyjazd do hotelu do godziny 17.00. W podanym czasie nie przybył jednak do obiektu. Do kiedy recepcjonista powinien zatrzymać pokój i jakie czynności dotyczące kosztów powinien wykonać?",
+    "answers": [
+      "Do 12.00 dnia następnego i obciążyć gościa kosztami noclegu.",
+      "Do 18.00 dnia planowanego przyjazdu i nie obciążyć gościa kosztami noclegu.",
+      "Do 12.00 dnia następnego i nie obciążyć gościa kosztami noclegu.",
+      "Do 18.00 dnia planowanego przyjazdu i obciążyć gościa kosztami noclegu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 190,
+    "text": "Przedstawione na ilustracji urządzenie, będące na wyposażeniu recepcji hotelowej, służy do",
+    "answers": [
+      "rejestracji przeprowadzonych operacji finansowych.",
+      "kodowania kart magnetycznych do pokoi.",
+      "przyjmowania należności kartą płatniczą.",
+      "programowania klimatyzacji w hallu recepcyjnym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_urzadzenie5.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 191,
+    "text": "Recepcjonista, który objaśnił gościowi jak dojść do ruin zamku, które są największą atrakcją regionu, przekazał mu informację",
+    "answers": [
+      "użytkową.",
+      "osobistą.",
+      "turystyczną.",
+      "kulturalną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 192,
+    "text": "Pracownik recepcji hotelu sieciowego w Warszawie przyjął rezerwację od touroperatora, za pośrednictwem elektronicznego systemu rezerwacyjnego, umożliwiającego rezerwację miejsc noclegowych, biletów lotniczych, kolejowych, promowych, wynajmu samochodów, biletów do teatru i wiele innych. W którym systemie dokonano rezerwacji?",
+    "answers": [
+      "Lokalnym Systemie Rezerwacji.",
+      "Regionalnym Systemie Rezerwacji.",
+      "Polskim Systemie Dystrybucji.",
+      "Globalnym Systemie Dystrybucji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 193,
+    "text": "Które z zachowań jest niezgodne z zasadami savoir-vivre wobec osoby poruszającej się na wózku inwalidzkim, podczas rejestracji w hotelu?",
+    "answers": [
+      "Umieszczenie potrzebnych przedmiotów w zasięgu rąk osoby niepełnosprawnej.",
+      "Zajęcie przez recepcjonistę pozycji siedzącej na krześle, na poziomie osoby niepełnosprawnej.",
+      "Przemieszczanie wózka we wskazane przez gościa miejsce.",
+      "Wyręczanie gościa we wszystkich czynnościach."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 194,
+    "text": "Pierwszym elementem procedury przyjęcia zorganizowanej grupy turystów do hotelu jest",
+    "answers": [
+      "wręczenie gościom kart rejestracyjnych do wypełnienia i podpisania.",
+      "poproszenie gości o dokumenty tożsamości potrzebne do zarejestrowania.",
+      "wręczenie pilotowi kart pobytu dla gości.",
+      "poproszenie pilota o aktualną listę z danymi uczestników."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 195,
+    "text": "Recepcja, w ramach świadczenia usług w taryfie BB, powinna przekazać gastronomii hotelowej listę gości z",
+    "answers": [
+      "datami urodzenia.",
+      "adresem zamieszkania.",
+      "numerami pokoi.",
+      "wykazem usług dodatkowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 196,
+    "text": "Który dokument stanowi podstawę rozliczenia za pobyt grupy turystycznej w hotelu?",
+    "answers": [
+      "Czek.",
+      "Allotment.",
+      "Czarter.",
+      "Voucher."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 197,
+    "text": "Na podstawie zamieszczonego pisma, określ w którym dniu najpóźniej recepcjonista jest zobowiązany do potwierdzenia zamówionych usług, jeżeli korespondencja odbywała się drogą elektroniczną?",
+    "answers": [
+      "6.02.2025 r.",
+      "3.01.2025 r.",
+      "9.01.2025 r.",
+      "4.02.2025 r."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_pismo.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 198,
+    "text": "W które urządzenie, bezwzględnie wymagane na stanowisku recepcjonisty-kasjera, należy wyposażyć recepcję hotelową?",
+    "answers": [
+      "Skaner.",
+      "Kasę fiskalną.",
+      "Kserokopiarkę.",
+      "Sejf depozytowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 199,
+    "text": "Zgodnie z procedurą check-in, bezpośrednio po udzieleniu informacji o usługach świadczonych w hotelu recepcjonista powinien",
+    "answers": [
+      "przekazać klucz do pokoju.",
+      "dokonać rejestracji gościa.",
+      "powitać gościa.",
+      "przyjąć zapłatę."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 200,
+    "text": "Które czynności powinien wykonać recepcjonista, w celu gotówkowego rozliczenia kosztów pobytu gościa?",
+    "answers": [
+      "Przyjąć kartę płatniczą, wprowadzić kartę do czytnika POS, wydrukować dokument z czytnika.",
+      "Przedstawić do akceptacji wstępny rachunek, przyjąć gotówkę, wręczyć paragon.",
+      "Zapytać gościa, czy jest zadowolony z pobytu, przyjąć należność, wydać resztę.",
+      "Przeprowadzić fiskalizację, przyjąć kartę płatniczą, wręczyć dokument potwierdzający zapłatę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 201,
+    "text": "Dla zapewnienia wysokiego obłożenia w sezonie zimowym, hotel położony w Bieszczadach, z dużym wyprzedzeniem przygotowuje ofertę sprzedaży usług typu",
+    "answers": [
+      "first minute.",
+      "timesharing.",
+      "rack rate.",
+      "all inclusive."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 202,
+    "text": "Które działanie hotelu prowadzone jest w ramach promocji sprzedaży?",
+    "answers": [
+      "Podwyższenie ceny pobytu w hotelu w sezonie.",
+      "Obniżenie cen pakietów pobytowych dla seniorów poza sezonem.",
+      "Prezentacja hotelu przez pracownika działu marketingu.",
+      "Sponsorowanie akcji dobroczynnej na rzecz potrzebującego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 203,
+    "text": "Wystawienie i wręczenie faktury jest elementem obsługi gościa podczas",
+    "answers": [
+      "potwierdzenia rezerwacji.",
+      "procedury check-in.",
+      "procedury check-out.",
+      "przyjęcia zamówienia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 204,
+    "text": "Korzystając z podanego cennika, oblicz koszt pobytu państwa Malinowskich, korzystających z usługi noclegowej w pokoju 2-osobowym, w terminie od 30 września do 2 października.",
+    "answers": [
+      "640,00 zł",
+      "340,00 zł",
+      "460,00 zł",
+      "880,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_cennik6.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 205,
+    "text": "Formularz rezerwacyjny służy do",
+    "answers": [
+      "przesłania przez klienta pocztą elektroniczną zamówienia na usługi hotelarskie.",
+      "zapisania przez gościa swoich danych osobowych podczas rejestracji w hotelu.",
+      "zapisania przez recepcjonistę przyjętego zamówienia na usługi hotelarskie.",
+      "wysłania klientowi potwierdzenia zamówionych usług."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 206,
+    "text": "Recepcjonista przyjmując od gościa aparat fotograficzny na przechowanie musi wypełnić kwit",
+    "answers": [
+      "depozytowy.",
+      "rozliczeniowy.",
+      "bagażowy.",
+      "przesyłowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 207,
+    "text": "Podczas procedury check-in recepcjonista sporządza",
+    "answers": [
+      "formularz rezerwacji.",
+      "kartę pobytu.",
+      "umowę wynajmu pokoju.",
+      "zlecenie na parking."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 208,
+    "text": "Do hotelu wpłynęła prośba o zarezerwowanie w terminie od 1 do 5 sierpnia pokoju dwuosobowego z dwoma pojedynczymi łóżkami. Na podstawie fragmentu grafiku obłożenia określ, który rodzaj i numer pokoju powinien przydzielić im recepcjonista.",
+    "answers": [
+      "APT 121",
+      "TWIN 109",
+      "SGL 104",
+      "DBL 111"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_grafik13.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 209,
+    "text": "Hotel posiadający sale wielofunkcyjne z wyposażeniem multimedialnym oferuje usługi",
+    "answers": [
+      "techniczne.",
+      "konferencyjne.",
+      "edukacyjne.",
+      "rekreacyjne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 210,
+    "text": "Które działanie w pierwszej kolejności powinien podjąć recepcjonista, wobec gościa walk-in, jeżeli chce on wynająć pokój bez wcześniejszej rezerwacji?",
+    "answers": [
+      "Zaproponować przechowanie bagażu.",
+      "Zaprowadzić gościa do pokoju.",
+      "Zatrzymać dowód tożsamości gościa.",
+      "Ustalić szczegóły dotyczące pobytu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 211,
+    "text": "Spacer wydmami i rejs statkiem recepcjonista może zaproponować gościom hotelu położonego",
+    "answers": [
+      "w Krynicy Zdroju.",
+      "w Lądku Zdroju.",
+      "w Krynicy Morskiej.",
+      "w Kazimierzu Dolnym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 212,
+    "text": "W hotelu jest organizowany kongres partii politycznej. Dział konferencji i bankietów ma przygotować salę wielofunkcyjną do obrad. Które informacje dla tego działu powinien przygotować i przekazać recepcjonista?",
+    "answers": [
+      "Ilość uczestników i sposób aranżacji sali.",
+      "Menu na kolację i rodzaj usług dodatkowych.",
+      "Sposób aranżacji sali i menu na kolację.",
+      "Ilość uczestników i rodzaj usług dodatkowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 213,
+    "text": "Recepcjonista przygotowuje rozliczenie pobytu gościa indywidualnego, który przebywał w hotelu w terminie od 3 do 5 czerwca 2024 roku (od poniedziałku do środy). Hotel jest zlokalizowany w centrum dużego miasta. Które rodzaje cen powinien zastosować recepcjonista do rozliczenia noclegów?",
+    "answers": [
+      "Pozasezonowe.",
+      "Standardowe.",
+      "Konferencyjne.",
+      "Weekendowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 214,
+    "text": "Który pracownik recepcji zajmuje się opieką nad gośćmi i spełnianiem ich życzeń, a w szczególności polecaniem restauracji i klubów, organizowaniem biletów do teatru lub kina, umawianiem wizyt u fryzjera czy zamawianiem limuzyny na lotnisko?",
+    "answers": [
+      "Concierge.",
+      "Kierownik zmiany recepcji.",
+      "Kierownik recepcji.",
+      "Specjalista ds. rezerwacji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 215,
+    "text": "Kto zajmuje się przyjmowaniem zleceń na budzenie telefoniczne oraz prowadzeniem ewidencji tych zamówień w hotelu o rozbudowanej strukturze organizacyjnej?",
+    "answers": [
+      "Pracownik guest relations.",
+      "Kierownik recepcji.",
+      "Operator centrali telefonicznej.",
+      "Recepcjonista-concierge."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 216,
+    "text": "Na podstawie zamieszczonego grafiku rezerwacji, określ możliwy termin rezerwacji pokoju dwuosobowego na dwie doby w drugim tygodniu lipca.",
+    "answers": [
+      "06.07 – 08.07",
+      "07.07 – 09.07",
+      "08.07 – 10.07",
+      "09.07 – 11.07"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_grafik12.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 217,
+    "text": "Gość w czasie podróży zatrzymał się w motelu. Który rodzaj usług poza noclegiem powinien obligatoryjnie zaoferować mu recepcjonista?",
+    "answers": [
+      "Serwis sprzętu turystycznego.",
+      "Miejsce parkingowe.",
+      "Usługi rekreacyjne.",
+      "Całodzienne wyżywienie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 218,
+    "text": "Którym dokumentem składa się dyspozycję przekazania należności za skorzystanie z usługi noclegowej z rachunku gościa na rachunek motelu?",
+    "answers": [
+      "Poleceniem przelewu.",
+      "Rachunkiem wstępnym.",
+      "Dowodem wpłaty.",
+      "Fakturą."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 219,
+    "text": "Którą z przedstawionych ofert usług dodatkowych, recepcjonista powinien zaoferować rodzinie z dwójką małych dzieci (2 i 5 lat)?",
+    "answers": [
+      "Ofertę 4.",
+      "Ofertę 2.",
+      "Ofertę 1.",
+      "Ofertę 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_tabela39.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 220,
+    "text": "Który rodzaj promocji usług stosuje hotel honorujący karty stałego klienta?",
+    "answers": [
+      "Marketing bezpośredni.",
+      "Promocję sprzedaży.",
+      "Ulotkę reklamową.",
+      "Sprzedaż osobistą."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 221,
+    "text": "Na podstawie zamieszczonej informacji wskaż instrument promocji stosowany przez hotel Wezyr. Hotel*** Wezyr obchodzi 100-lecie działalności Zapraszamy na Dzień Otwarty 15 lipca br. w godzinach od 1600 do 2000, podczas którego będzie można zobaczyć przepiękne wnętrza obiektu oraz spróbować wyśmienitych potraw hotelowej restauracji.",
+    "answers": [
+      "Public relations.",
+      "Promocja sprzedaży.",
+      "Reklama.",
+      "Sprzedaż osobista."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 222,
+    "text": "Wskaż rodzaj umowy, która uprawnia biuro podróży do bezkosztowej anulacji zarezerwowanych miejsc noclegowych w hotelu w określonym czasie.",
+    "answers": [
+      "Allotment.",
+      "Czarter.",
+      "Timesharing.",
+      "Overbooking."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 223,
+    "text": "Którą z czynności należy wykonać w pierwszej kolejności, przyjmując gościa do hotelu?",
+    "answers": [
+      "Pobrać dokumenty potrzebne do rejestracji.",
+      "Zapytać o nazwisko lub numer rezerwacji.",
+      "Wręczyć klucze do pokoju i kartę pobytu.",
+      "Wskazać drogę do restauracji i pokoju."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 224,
+    "text": "Którą grupę informacji, oprócz nazwiska i imienia gościa, należy wpisać do karty pobytu?",
+    "answers": [
+      "Cenę za dobę, datę wyjazdu, rodzaj pokoju.",
+      "Numer pokoju, cenę za dobę, termin pobytu.",
+      "Datę przyjazdu, numer pokoju, ilość posiłków.",
+      "Kategorię hotelu, rodzaj pokoju, cenę za dobę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 225,
+    "text": "Na podstawie analizy rachunku wstępnego wskaż kwotę, którą należy przedstawić gościowi do akceptacji.",
+    "answers": [
+      "1 350,00 zł",
+      "1 250,00 zł",
+      "1 150,00 zł",
+      "1 050,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_rachunek4.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 226,
+    "text": "Które z podanych zadań wykonywane jest przez pracownika recepcji hotelowej?",
+    "answers": [
+      "Udzielanie informacji turystycznej.",
+      "Kompleksowa obsługa sal konferencyjnych.",
+      "Przygotowanie jednostek mieszkalnych do sprzedaży.",
+      "Kontrola stanu wyposażenia pokoi hotelowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 227,
+    "text": "Wskaż kwotę, którą zapłaci gość za pobyt w hotelu, jeżeli wartość brutto zamówionych i zrealizowanych usług wynosi 1 200,00 zł, a podczas rezerwacji została wpłacona na konto hotelu zaliczka w wysokości 30% wartości zamówienia.",
+    "answers": [
+      "840,00 zł",
+      "300,00 zł",
+      "960,00 zł",
+      "360,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 228,
+    "text": "Klient zarezerwował dla czterech osób w terminie od 2 do 4 października apartament rodzinny, dwie obiadokolacje oraz trzygodzinny pakiet rekreacyjny. Którą kwotę w pozycji Razem powinien wpisać recepcjonista w przesłanej do klienta kalkulacji kosztów?",
+    "answers": [
+      "520,00 zł",
+      "1 400,00 zł",
+      "840,00 zł",
+      "1 120,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_tabela40.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 229,
+    "text": "Która z podanych usług dodatkowych jest najbardziej odpowiednia dla przebywającej w hotelu rodziny z dwójką dzieci w wieku przedszkolnym?",
+    "answers": [
+      "Spływ kajakowy.",
+      "Sala zabaw.",
+      "Kręgielnia.",
+      "Siłownia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 230,
+    "text": "Na podstawie fragmentu faktury oblicz wartość brutto usług hotelarskich.",
+    "answers": [
+      "1 200,00 zł",
+      "3 800,00 zł",
+      "1 600,00 zł",
+      "2 800,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_faktura14.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 231,
+    "text": "Która usługa powinna być dostępna dla gości w hotelu niezależnie od kategorii?",
+    "answers": [
+      "Usługa bagażowa.",
+      "Przechowalnia bagażu.",
+      "Podawanie śniadań do pokoi.",
+      "Pranie odzieży."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 232,
+    "text": "Które urządzenie służy do rejestrowania sprzedaży usług hotelarskich do celów ewidencji skarbowej?",
+    "answers": [
+      "Urządzenie 2.",
+      "Urządzenie 4.",
+      "Urządzenie 3.",
+      "Urządzenie 1."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_urzadzenia6.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 233,
+    "text": "Którą komórkę organizacyjną hotelu należy poinformować o szczegółach zamówienia złożonego przez Jana Nowaka?",
+    "answers": [
+      "Dział gastronomiczny.",
+      "Służbę parterową.",
+      "Służbę pięter.",
+      "Dział techniczny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_zamowienie9.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 234,
+    "text": "Klient zamówił pokój z dwoma łóżkami i pełne wyżywienie dla dwóch osób. Który z zamieszczonych skrótów powinien wpisać recepcjonista w formularzu rezerwacji?",
+    "answers": [
+      "BBx2, DBL",
+      "FBx2, DBL",
+      "FBx2, TWIN",
+      "EPx2, TWIN"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 235,
+    "text": "Który z proponowanych przez hotel pakietów usług jest skierowany do gości, chcących aktywnie spędzić czas, podczas pobytu w obiekcie?",
+    "answers": [
+      "Boisko do koszykówki, biesiada z muzyką, sala kinowa.",
+      "Masaże, bezprzewodowy Internet, korty tenisowe.",
+      "Sauna, jacuzzi z hydromasażem, kręgielnia, siłownia.",
+      "Wypożyczalnia rowerów, instruktor nordic walking, basen."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 236,
+    "text": "Oblicz wartość brutto usługi gastronomicznej, jeżeli gość hotelowy zamówił do pokoju 3 obiady w cenie jednostkowej brutto 50,00 zł, a usługa room service wynosi 20% wartości zamówienia.",
+    "answers": [
+      "120,00 zł",
+      "180,00 zł",
+      "150,00 zł",
+      "170,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 237,
+    "text": "Gość podczas pobytu w hotelu, chciałby zwiedzić trzy lokalne winnice oraz spotkać się z winiarzem. Którą z wymienionych imprez powinien polecić mu recepcjonista?",
+    "answers": [
+      "Wycieczkę objazdową z możliwością podziwiania dwóch lokalnych winnic wraz z przewodnikiem winiarzem.",
+      "Podziwianie winnic zlokalizowanych wzdłuż rzeki wraz z prelekcją lokalnego winiarza.",
+      "Wycieczkę szlakiem trzech lokalnych winnic - spacer po winnicach oraz spotkanie z winiarzem.",
+      "Spotkanie z winiarzami z lokalnych winnic w hotelu wraz z prelekcją dotyczacą tradycji winiarstwa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 238,
+    "text": "Które działania w pierwszej kolejności powinien podjąć recepcjonista, wobec gościa walk in, jeżeli chce on wynająć pokój bez wcześniejszej rezerwacji?",
+    "answers": [
+      "Zaprowadzić gościa do pokoju.",
+      "Zaproponować przechowanie bagażu.",
+      "Ustalić szczegóły dotyczące pobytu.",
+      "Zatrzymać dowód tożsamości gościa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 239,
+    "text": "Podczas pobytu w hotelu w Krakowie, grupa turystów poprosiła o przedstawienie propozycji jednodniowej wycieczki po mieście i okolicy. Którą z możliwości powinien zaproponować im recepcjonista?",
+    "answers": [
+      "Propozycja 3.",
+      "Propozycja 2.",
+      "Propozycja 1.",
+      "Propozycja 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_tabela41.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 240,
+    "text": "Która forma płatności wymaga wyposażenia recepcji hotelowej w terminal płatniczy?",
+    "answers": [
+      "Przelew bankowy.",
+      "Voucher hotelowy.",
+      "Karta kredytowa.",
+      "Czek podróżniczy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 241,
+    "text": "Firma konsultingowa złożyła do hotelu zamówienie na spotkanie integracyjne dla swoich pracowników. Która propozycja elementów spotkania będzie przede wszystkim spełniała oczekiwania zamawiającego?",
+    "answers": [
+      "Skromny poczęstunek, czas wolny.",
+      "Uroczysta kolacja, czas na rozmowy.",
+      "Spotkanie w holu recepcyjnym, obiad.",
+      "Godzinne szkolenie, przerwa kawowa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 242,
+    "text": "Którą ilość kart rejestracyjnych musi wypełnić recepcjonista dla czteroosobowej rodziny: Anny Kwiatkowskiej i Andrzeja Kwiatkowskiego oraz ich pięcioletniej córki i siedmioletniego syna?",
+    "answers": [
+      "Cztery.",
+      "Trzy.",
+      "Dwie.",
+      "Jedną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 243,
+    "text": "Informację o zwiększonym obłożeniu pokoi należy w pierwszej kolejności przekazać",
+    "answers": [
+      "służbie parterowej.",
+      "dyrekcji.",
+      "służbie pięter.",
+      "administracji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 244,
+    "text": "Który dokument należy wysłać klientowi w celu poinformowania go o terminie rezerwacji pobytu, rodzaju pokoju oraz jego cenie?",
+    "answers": [
+      "Rachunek wstępny.",
+      "Cennik pokoi.",
+      "Ofertę hotelu.",
+      "Potwierdzenie rezerwacji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 245,
+    "text": "Gość obiektu hotelarskiego skorzystał z usług kawiarni hotelowej. Należność za usługę została przetransferowana z interfejsu z kasy gastronomicznej do komputerowego systemu zarządzania w recepcji. Następnie klient został poproszony przez pracownika kawiarni o podpisanie rachunku. Jak nazywa się ta forma rozliczeń z gościem hotelowym?",
+    "answers": [
+      "Preautoryzacja.",
+      "Room-charge.",
+      "Polecenie przelewu.",
+      "Polecenie zapłaty."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 246,
+    "text": "Na podstawie zamieszczonego cennika, oblicz koszt pobytu zorganizowanej grupy w 15 pokojach 1-osobowych w terminie od 7.07 do 8.07.",
+    "answers": [
+      "1 650,00 zł",
+      "1 500,00 zł",
+      "2 100,00 zł",
+      "1 950,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_cennik4.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 247,
+    "text": "Stały gość hotelu, w dniu przyjazdu obchodzi urodziny. Do którego z działów recepcjonista powinien przekazać tę informację?",
+    "answers": [
+      "Księgowości.",
+      "Administracji.",
+      "Marketingu.",
+      "Technicznego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 248,
+    "text": "Który z pracowników recepcji hotelu przekazuje recepcjonistom bieżące informacje o stanie rezerwacji, dokonuje rezerwacji oraz przygotowywuje listy przyjazdów na określone terminy?",
+    "answers": [
+      "Pracownik działu rezerwacji.",
+      "Recepcjonista-informator.",
+      "Recepcjonista concierge.",
+      "Pracownik działu guest relations."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 249,
+    "text": "Którym gościom recepcjonista powinien zaproponować kolację na dachu hotelu, szampana do pokoju, nocny przejazd bryczką oraz darmowy dwugodzinny pobyt w strefie relaksu?",
+    "answers": [
+      "Gościom, którzy mają w danym dniu urodziny.",
+      "Turystom z Argentyny, będącym w podróży dookoła świata.",
+      "Nowożeńcom w podróży poślubnej.",
+      "Uczestnikom prestiżowego pokazu mody ślubnej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 250,
+    "text": "Na podstawie fragmentu Karty rezerwacji, oblicz ile posiłków należy zlecić do przygotowania hotelowej restauracji dla gości z Uniwersytetu Łódzkiego.",
+    "answers": [
+      "66 śniadań, 66 obiadów, 66 kolacji.",
+      "66 śniadań, 44 obiady, 66 kolacji.",
+      "44 śniadania, 88 obiadów, 66 kolacji.",
+      "44 śniadania, 44 obiady, 66 kolacji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_karta4.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 251,
+    "text": "Podczas telefonicznej rezerwacji usług przez gościa indywidualnego recepcjonista powinien ustalić przede wszystkim",
+    "answers": [
+      "datę wyjazdu i liczbę pokoi.",
+      "usługi dodatkowe i datę przyjazdu.",
+      "formę płatności i cel pobytu.",
+      "termin pobytu i rodzaj pokoju."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 252,
+    "text": "Które urządzenia stanowią wyposażenie stanowiska kasjera w hotelu?",
+    "answers": [
+      "Kalkulator i sejf depozytowy.",
+      "Komputer i klucznica.",
+      "Kasa fiskalna i terminal POS.",
+      "Faks i telefon."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 253,
+    "text": "O który dokument, umożliwiający realizację świadczeń zamówionych przez biuro podróży dla grupy turystów z Włoch, powinien poprosić recepcjonista podczas przyjęcia gości do hotelu w Polsce?",
+    "answers": [
+      "Potwierdzenie przelewu środków finansowych.",
+      "Voucher.",
+      "Potwierdzenie przyjęcia rezerwacji.",
+      "Rooming list."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 254,
+    "text": "Na którym etapie kompleksowej obsługi gościa, recepcjonista powinien poinformować go o warunkach dokonania przedpłaty?",
+    "answers": [
+      "Pobytu.",
+      "Rejestracji.",
+      "Rezerwacji.",
+      "Rozliczenia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 255,
+    "text": "Przyjaciółki postanowiły uczcić swoje czterdzieste urodziny, korzystając z oferty Spa & Wellness w nadmorskim hotelu. Która propozycja spędzenia czasu wolnego najlepiej spełni ich oczekiwania?",
+    "answers": [
+      "Zabiegi kosmetyczne na twarz i ciało, fitness oraz seanse relaksacyjne.",
+      "Nocne zwiedzanie zabytków z przewodnikiem, ognisko integracyjne.",
+      "Rejs statkiem połączony z degustacją regionalnych potraw i oprawą muzyczną.",
+      "Rozgrywki w piłkę siatkową, tenis, wieczorna dyskoteka."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 256,
+    "text": "Który dokument sporządza się na zamieszczonym formularzu?",
+    "answers": [
+      "Czek podróżny.",
+      "Kartę pobytu.",
+      "Kartę rejestracyjną.",
+      "Voucher biura podróży."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_formularz4.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 257,
+    "text": "Która grupa usług jest świadczona gościom hotelowym bezpłatnie?",
+    "answers": [
+      "Budzenie, usługa parkingowa, udzielanie informacji, wymiana walut.",
+      "Przechowanie bagażu, udzielanie pierwszej pomocy, budzenie, depozyt.",
+      "Przechowanie bagażu, wynajęcie samochodu, podawanie posiłków do pokoi.",
+      "Depozyt, wymiana walut, podawanie posiłków do pokoi, obsługa bagażowa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 258,
+    "text": "Do przekazania informacji, gościowi przebywającemu w hotelu, recepcjonista wykorzysta",
+    "answers": [
+      "kartę rejestracyjną.",
+      "blankiet pocztowy.",
+      "kartę pobytu.",
+      "druk message."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 259,
+    "text": "Które komórki organizacyjne hotelu, poza służbą pięter i działem gastronomii, powinny zostać poinformowane o życzeniach klienta, zawartych w zamówieniu usług hotelarskich?",
+    "answers": [
+      "Pion techniczny i dział zaopatrzenia.",
+      "Dział księgowości i kadry.",
+      "Administracja i służba parterowa.",
+      "Służba parterowa i dział rekreacji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_zamowienie8.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 260,
+    "text": "Jak powinien zachować się recepcjonista w trakcie procedury check-in wobec gościa poruszającego się na wózku inwalidzkim?",
+    "answers": [
+      "Udzielać pomocy traktując gościa w sposób specjalny.",
+      "Bez ustaleń z gościem pomagać w przemieszczaniu wózka.",
+      "Ustalić z gościem zakres pomocy.",
+      "Wyręczać go we wszystkich możliwych czynnościach."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 261,
+    "text": "Którą usługę dodatkową powinien zaproponować recepcjonista gościowi pragnącemu odpocząć z dala od zgiełku, po wyczerpującej podróży?",
+    "answers": [
+      "Wieczór karaoke.",
+      "Orienteering terenowy.",
+      "Masaż relaksacyjny.",
+      "Animacje na basenie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 262,
+    "text": "Który rodzaj usługi zaoferowano gościom, jeżeli zaproponowano im udział w zajęciach animacyjnych dla dorosłych?",
+    "answers": [
+      "Podstawową.",
+      "Komplementarną.",
+      "Fakultatywną.",
+      "Towarzyszącą."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 263,
+    "text": "W jakim czasie od momentu otrzymania zamówienia na usługi hotelarskie, recepcja powinna przesłać klientowi pisemne potwierdzenie rezerwacji?",
+    "answers": [
+      "Do 12 godz.",
+      "Do 24 godz.",
+      "Do 36 godz.",
+      "Do 48 godz."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 264,
+    "text": "Na podstawie danych zamieszczonych w ramce oraz informacji, że wartość netto usługi noclegowej wynosi 1 000,00 zł, oblicz kwotę, którą powinien zapłacić gość za usługę.",
+    "answers": [
+      "1 080,00 zł",
+      "1 230,00 zł",
+      "1 023,00 zł",
+      "1 008,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_ramka18.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 265,
+    "text": "Którą kwotę należy wpisać na fakturze w rubryce wartość netto, jeżeli wartość brutto za wynajęcie sali konferencyjnej wyniosła 800,00 zł, a stawka podatku VAT wynosi 23%?",
+    "answers": [
+      "616,00 zł",
+      "650,41 zł",
+      "949,59 zł",
+      "984,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 266,
+    "text": "Która z podanych grup usług dodatkowych oferowana jest zarówno gościom hotelu jak i passantom.",
+    "answers": [
+      "Czyszczenie odzieży, kantor wymiany walut, room service śniadania do pokoju.",
+      "Kiosk z pamiątkami, budzenie na życzenie, przekazywanie korespondencji.",
+      "Usługi kosmetyczne, sprzedaż kwiatów, sprzedaż ciast z hotelowej cukierni.",
+      "Przechowalnia bagażu, wynajęcie skrytki depozytowej, usługi hotelowego SPA."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 267,
+    "text": "Który instrument promocji zastosował hotel Bohema**** w zamieszczonej informacji?",
+    "answers": [
+      "Public relations.",
+      "Promocję sprzedaży.",
+      "Reklamę.",
+      "Sprzedaż osobistą."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_ramka17.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 268,
+    "text": "Pan Kwiatkowski telefonicznie poprosił o rezerwację pokoju typu twin i otrzymał informację, że zarezerwowany pokój będzie do jego dyspozycji do godziny 18.00 w dniu przyjazdu. Jeżeli gość nie pojawi się do godz. 18.00, hotel bezkosztowo anuluje rezerwację. Której rezerwacji dokonano, zgodnie ze zleceniem gościa?",
+    "answers": [
+      "Gwarantowanej pokoju jednoosobowego.",
+      "Niegwarantowanej pokoju jednoosobowego.",
+      "Niegwarantowanej pokoju z dwoma oddzielnymi łóżkami.",
+      "Gwarantowanej pokoju z dwoma oddzielnymi łóżkami."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 269,
+    "text": "Które urządzenie służy do rejestrowania sprzedaży usług hotelarskich oraz do celów ewidencji skarbowej?",
+    "answers": [
+      "Urządzenie 1.",
+      "Urządzenie 2.",
+      "Urządzenie 4.",
+      "Urządzenie 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_urzadzenia5.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 270,
+    "text": "Na podstawie informacji dotyczących programu lojalnościowego, określ który instrument zastosowano w hotelu w celu aktywizacji sprzedaży usług hotelarskich.",
+    "answers": [
+      "Public relations.",
+      "Sponsoring.",
+      "Promocję sprzedaży.",
+      "Sprzedaż osobistą."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_program.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 271,
+    "text": "Pomieszczenie depozytowe w hotelu powinno być dostępne z",
+    "answers": [
+      "bagażowni i holu recepcyjnego.",
+      "pomieszczenia socjalnego i zaplecza recepcji.",
+      "lobby i bagażowni.",
+      "holu recepcyjnego i zaplecza recepcji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 272,
+    "text": "Który druk powinien przygotować recepcjonista wprowadzający rezerwację do zapisania szczegółów dotyczących pobytu gościa w hotelu?",
+    "answers": [
+      "Grafik usług dodatkowych.",
+      "Kartę pobytu.",
+      "Formularz rezerwacji.",
+      "Kartę rejestracyjną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 273,
+    "text": "Nieodłącznym elementem procedury zarejestrowania gościa w każdym obiekcie hotelarskim jest",
+    "answers": [
+      "pomoc przy bagażach.",
+      "ustalenie zakresu płatnych usług.",
+      "wręczenie klucza.",
+      "pobranie należności od gościa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 274,
+    "text": "Recepcjonista przyjął rezerwację noclegów dla grupy 17 studentów, w tym 9 mężczyzn i 8 kobiet. Którą z podanych struktur pokoi powinien zaproponować gościom?",
+    "answers": [
+      "7 DBL i 4 SGL",
+      "4 DBL i 3 TPL",
+      "8 DBL i 2 SGL",
+      "3 DBL i 5 TPL"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 275,
+    "text": "Który dział obiektu hotelarskiego recepcjonista powinien poinformować o tym, że gość choruje na celiakię?",
+    "answers": [
+      "Techniczny.",
+      "Służby pięter.",
+      "Rekreacji.",
+      "Gastronomii."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 276,
+    "text": "Ile potwierdzeń drukuje terminal POS, po dokonanej transakcji zapłaty kartą kredytową za usługi hotelarskie?",
+    "answers": [
+      "Jedno.",
+      "Trzy.",
+      "Dwa.",
+      "Cztery."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 277,
+    "text": "Którą usługę dodatkową świadczoną w hotelu powinno się zarezerwować z wyprzedzeniem?",
+    "answers": [
+      "Dodatkowy koc.",
+      "Skrytkę depozytową.",
+      "Wymianę ręczników.",
+      "Jazdę konno w terenie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 278,
+    "text": "Podstawowym zadaniem recepcji jest",
+    "answers": [
+      "obsługa gości przyjeżdżających i wyjeżdżających.",
+      "świadczenie usług noclegowych i gastronomicznych.",
+      "nadzór nad funkcjonowaniem poszczególnych działów hotelu.",
+      "rozpoznawanie potrzeb związanych z organizacją czasu wolnego gości."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 279,
+    "text": "Zgodnie z Praktycznym Kodeksem Postępowania, rezerwacja pobytu dla całej grupy zorganizowanej w hotelu bez ponoszenia kosztów, może zostać anulowana najpóźniej przed datą przybycia grupy w terminie",
+    "answers": [
+      "7 dni.",
+      "14 dni.",
+      "21 dni.",
+      "30 dni."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 280,
+    "text": "Zakładka komputerowego systemu przedstawiona na zrzucie ekranu to",
+    "answers": [
+      "grafik rezerwacji.",
+      "status pokoi zajętych.",
+      "harmonogram przyjazdów.",
+      "formularz rezerwacji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_zrzut3.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 281,
+    "text": "Do jednego z obowiązków służby parterowej należy",
+    "answers": [
+      "rezerwacja i sprzedaż usług podstawowych i dodatkowych.",
+      "utrzymanie czystości w holu hotelowym.",
+      "dbanie o stan techniczny urządzeń znajdujących się w pokojach.",
+      "odprowadzenie gości do pokoju."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 282,
+    "text": "Która z zamieszczonych kart może zostać zaproponowana wyłącznie gościom, którzy regularnie i często odwiedzają hotel?",
+    "answers": [
+      "Karta 1.",
+      "Karta 2.",
+      "Karta 3.",
+      "Karta 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_karty4.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 283,
+    "text": "Który z wymienionych pracowników hotelu ma w zakresie swoich obowiązków m.in.: prowadzenie rejestru gości, reagowanie na ich skargi oraz pobieranie należności za pobyt?",
+    "answers": [
+      "Dyrektor hotelu.",
+      "Kierownik marketingu.",
+      "Concierge.",
+      "Recepcjonista."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 284,
+    "text": "Które systemy rezerwacyjne umożliwiają rezerwację: biletu lotniczego, miejsca noclegowego lub wynajmu samochodu w Kanadzie turyście, który aktualnie przebywa w hotelu w Europie?",
+    "answers": [
+      "Polish Travel, Travelplanet, eTravel.",
+      "Sabre, Galileo, Amadeus.",
+      "Travelocity, Travels-web, Expedia.",
+      "Fidelio, Chart, ProHott."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 285,
+    "text": "Jak określi recepcjonista, w zleceniu dla działu służby pięter, informację o pokoju w trakcie remontu?",
+    "answers": [
+      "Czasowo wyłączony z eksploatacji.",
+      "Zwolniony do przygotowania.",
+      "Zajęty.",
+      "Wyeksploatowany."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 286,
+    "text": "Klient zamówił w hotelu dla pary nowożeńców pobyt, w cenę którego wliczono: nocleg, 3 posiłki, napoje, przekąski, usługi rozrywkowe i rekreacyjne. Który z przedstawionych fragmentów formularzy rezerwacyjnych, odpowiada zamówieniu klienta?",
+    "answers": [
+      "I",
+      "II",
+      "IV",
+      "III"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_formularze.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 287,
+    "text": "W jaki sposób powinien zachować się recepcjonista, gdy podczas procedury check-out zdenerwowany gość informuje, że jego lot opóźniony jest o 10 godzin?",
+    "answers": [
+      "Pożegnać gościa zapraszając do ponownych odwiedzin hotelu.",
+      "Pożegnać gościa wyrażając ubolewanie nad niesolidnością przewoźników.",
+      "Zaprosić do ponownych odwiedzin w hotelu i skorzystania na przyszłość z transferu.",
+      "Zaproponować usługę przechowania bagażu i skorzystania z części ogólnodostępnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 288,
+    "text": "Który rodzaj płatności za usługi hotelu poprzedza preautoryzacja?",
+    "answers": [
+      "Kartą płatniczą.",
+      "Czekiem gotówkowym.",
+      "Gotówką.",
+      "Przelewem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 289,
+    "text": "Na podstawie zamieszczonego fragmentu faktury oblicz wartość podatku VAT dla usług podstawowych.",
+    "answers": [
+      "19,63 zł",
+      "49,26 zł",
+      "29,63 zł",
+      "36,46 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_faktura13.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 290,
+    "text": "Za pomocą którego dokumentu księgowego, biuro podróży może przekazać należność na rachunek hotelu za skorzystanie z jego usług?",
+    "answers": [
+      "Duplikatu faktury.",
+      "Polecenia przelewu.",
+      "Rachunku wstępnego.",
+      "Dowodu wypłaty."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 291,
+    "text": "Wskaż czynność dotyczącą rezerwacji, którą wykona recepcjonista korzystając z przedstawionej na zrzucie zakładki systemu komputerowego.",
+    "answers": [
+      "Potwierdzenie.",
+      "Anulowanie.",
+      "Przebukowanie.",
+      "Wprowadzenie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_zrzut2.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 292,
+    "text": "Który element procedury check-in ma miejsce podczas przyjęcia grupy na podstawie listy roomingowej?",
+    "answers": [
+      "Dostarczenie kart pobytu do pokoi gości po ich zakwaterowaniu.",
+      "Wypełnianie kart pobytu przez uczestników.",
+      "Indywidualna rejestracja wszystkich uczestników.",
+      "Wydanie kart pobytu pilotowi grupy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 293,
+    "text": "Którego rodzaju informacji udzielił pracownik recepcji gościom, zapoznając ich z ciekawymi miejscami znajdującymi się w okolicach hotelu?",
+    "answers": [
+      "Przyrodniczej.",
+      "Hotelarskiej.",
+      "Regionalnej.",
+      "Turystycznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 294,
+    "text": "Do którego segmentu gości jest skierowany fragment oferty hotelu?",
+    "answers": [
+      "Gości biznesowych.",
+      "Małżeństwa z dziećmi.",
+      "Nowożeńców w podróży poślubnej.",
+      "Uczestników obozu wędrownego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_oferta4.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 295,
+    "text": "Którą czynność może wykonać recepcjonista za pomocą przedstawionego na rysunku urządzenia?",
+    "answers": [
+      "Wysłać do gościa potwierdzenia rezerwacji.",
+      "Zarejestrować gościa w hotelu.",
+      "Wystawić gościowi fakturę za usługi hotelowe.",
+      "Wykwaterować gościa z hotelu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_urzadzenie4.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 296,
+    "text": "Który dokument sporządzi pracownik recepcji dla gościa oddającego rzecz wartościową na przechowanie w recepcji hotelowej?",
+    "answers": [
+      "Kwit bagażowy.",
+      "Kwit depozytowy.",
+      "Kartę rejestracyjną.",
+      "Kartę lojalnościową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 297,
+    "text": "Który instrument promocji zastosował hotel organizując imprezę integracyjną dla swoich pracowników i ich rodzin?",
+    "answers": [
+      "Marketing bezpośredni.",
+      "Sprzedaż osobistą.",
+      "Public relations zewnętrzny.",
+      "Public relations wewnętrzny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 298,
+    "text": "Bieżące kontrolowanie pracy recepcjonistów podczas nieobecności kierownika działu, należy do obowiązków",
+    "answers": [
+      "brygadzisty.",
+      "concierge.",
+      "dysponenta.",
+      "inspektora."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 299,
+    "text": "Którą kartę sporządzi recepcjonista, po otrzymaniu pisemnego zamówienia na pobyt w hotelu grupy turystów?",
+    "answers": [
+      "Rejestracyjną.",
+      "Rezerwacji.",
+      "Lojalnościową.",
+      "Pobytu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 300,
+    "text": "Gość zarezerwował dwa pokoje dwuosobowe dla czterech osób w taryfie all inclusive w terminie od 09 do 14 lipca. Który fragment potwierdzenia rezerwacji odpowiada zamówieniu?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_tabela34.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 301,
+    "text": "Recepcjonista przyjmując rezerwację telefoniczną dotyczącą noclegu, powinien zapytać zamawiającego, przede wszystkim, o rodzaj pokoju oraz",
+    "answers": [
+      "datę wyjazdu i formę płatności.",
+      "termin pobytu i formę płatności.",
+      "datę urodzenia i nazwisko gościa.",
+      "termin pobytu i nazwisko gościa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 302,
+    "text": "Gość indywidualny z Warszawy dokonał rezerwacji usług hotelarskich w małym pensjonacie w Zakopanem poprzez stronę internetową www obiektu, co oznacza, że pensjonat dysponuje",
+    "answers": [
+      "wewnętrznym systemem hotelowym.",
+      "globalnym systemem dystrybucji.",
+      "narodowym systemem rezerwacji.",
+      "regionalnym systemem rezerwacji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 303,
+    "text": "Którą informację, oprócz imienia i nazwiska, recepcjonista musi wpisać przygotowując gościowi zagranicznemu kartę pobytu?",
+    "answers": [
+      "Numer pokoju.",
+      "Datę urodzenia.",
+      "Numer paszportu.",
+      "Datę rezerwacji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 304,
+    "text": "W ramach umowy hotelu z biurem podróży, podstawą do rozliczenia grupy turystycznej w hotelu jest",
+    "answers": [
+      "czek turystyczny.",
+      "voucher wystawiony przez biuro podroży.",
+      "czek podróżniczy.",
+      "voucher wystawiony przez hotel."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 305,
+    "text": "Na podstawie fragmentu Formularza rezerwacji wskaż dział, któremu recepcjonista powinien zlecić realizację zamówionych usług.",
+    "answers": [
+      "Gastronomia.",
+      "Konferencji i bankietów.",
+      "Księgowość.",
+      "Usług specjalnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_formularz3.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 306,
+    "text": "Gość hotelu poprosił pracownika recepcji o rezerwację biletu na samolot do Mediolanu. Z którego systemu rezerwacyjnego powinien skorzystać recepcjonista?",
+    "answers": [
+      "Amadeus.",
+      "Voyager.",
+      "Chart.",
+      "Expedia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 307,
+    "text": "Podczas procedury check-in małżeństwa oraz ich dwójki nieletnich dzieci, pracownik recepcji powinien wręczyć gościom",
+    "answers": [
+      "dwie karty pobytu dla dorosłych.",
+      "cztery karty pobytu dla każdej osoby.",
+      "trzy karty pobytu – dwie dla dorosłych i jedną dla dzieci.",
+      "jedną kartę pobytu dla całej rodziny wystawioną na osobę dorosłą."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 308,
+    "text": "Którą atrakcję turystyczną powinien polecić recepcjonista gościowi zainteresowanemu poznaniem walorów antropogenicznych okolicy?",
+    "answers": [
+      "Spacer w ogrodzie botanicznym.",
+      "Zwiedzanie muzeum przyrodniczego.",
+      "Spacer w parku narodowym.",
+      "Zwiedzanie muzeum sztuki regionalnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 309,
+    "text": "W której najniższej kategorii hotelu, gość ma zapewnioną codzienną wymianę ręczników i pościeli oraz możliwość zakupu lub otrzymywania codziennej prasy?",
+    "answers": [
+      "2*",
+      "3*",
+      "1*",
+      "4*"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 310,
+    "text": "Pan Malinowski na podstawie zapytania rezerwacyjnego uzyskał potrzebne informacje o ofercie hotelu i podał termin, w jakim obiekt, otrzyma zamówienie na usługi hotelarskie. Wskaż, który to rodzaj rezerwacji.",
+    "answers": [
+      "Gwarantowana.",
+      "Potwierdzona.",
+      "Kredytowa.",
+      "Wstępna."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 311,
+    "text": "Biuro podróży zamówiło w imieniu firmy farmaceutycznej kilkanaście pokoi w hotelu. Który to rodzaj rezerwacji?",
+    "answers": [
+      "Telefoniczny.",
+      "Pośredni.",
+      "Osobisty.",
+      "Bezpośredni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 312,
+    "text": "Jaką wartość brutto w pozycji Razem powinien wpisać recepcjonista po rozliczeniu pobytu gościa w hotelu?",
+    "answers": [
+      "870,00 zł",
+      "1 425,00 zł",
+      "2 385,00 zł",
+      "2 850,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_rachunek3.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 313,
+    "text": "Wskaż rodzaj jednostki mieszkalnej, którą podczas rezerwacji, powinien zaproponować recepcjonista matce z 14-letnim synem.",
+    "answers": [
+      "Single.",
+      "Duplex.",
+      "Triple.",
+      "Twin."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 314,
+    "text": "Pani Nowak w zamówieniu usług hotelarskich poprosiła o rezerwację: apartamentu, pełnego wyżywienia, room service wszystkich posiłków, opiekunki do dziecka, instruktora do nauki pływania dla dziecka, wizyty u fryzjera dla siebie. Wskaż usługę, o której recepcjonista powinien poinformować dział rekreacji.",
+    "answers": [
+      "Room service wszystkich posiłków.",
+      "Opiekunka do dziecka.",
+      "Wizyta u fryzjera.",
+      "Instruktor do nauki pływania dla dziecka."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 315,
+    "text": "Na podstawie fragmentu zamówienia, wskaż pakiet usług, który powinien zaproponować hotel grupie gości z Koła Emerytów. Fragment zamówienia Prosimy o zarezerwowanie 8 pokoi dwuosobowych typu standardowego, pełne wyżywienie, masaże całego ciała, fizykoterapię, inhalacje, krioterapię.",
+    "answers": [
+      "Pokoje TPL, śniadania, zabiegi SPA.",
+      "Pokoje DBL, śniadania, obiady, kolacje, zabiegi lecznicze.",
+      "Pokoje TPL, pełne wyżywienie, zabiegi wellness.",
+      "Pokoje DBL, śniadania, obiadokolacje, zabiegi relaksacyjne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 316,
+    "text": "Klient dokonał rezerwacji noclegu pokoju jednoosobowego od 15 sierpnia na 3 doby oraz pokoju dwuosobowego od 14 sierpnia na 3 doby. Które oznaczenie w grafiku jest właściwe dla tej rezerwacji?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_grafik11.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 317,
+    "text": "W ramach wyjazdu motywacyjnego w hotelu przebywa grupa gości chcących aktywnie spędzić czas. Wskaż usługi, które zaspokoją ich potrzeby.",
+    "answers": [
+      "Konferencyjne i szkoleniowe.",
+      "Rekreacyjno-sportowe i imprezy integracyjne.",
+      "Gastronomiczne i imprezy rozrywkowe.",
+      "Pielęgnacyjne i upiększające."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 318,
+    "text": "Wskaż kwotę do zapłaty za nocleg w terminie od 03.03. do 8.03., jeżeli cena za wynajmowany pokój w miesiącach maj-wrzesień wynosi 300,00 zł za dobę, a w pozostałych jest o 30% niższa.",
+    "answers": [
+      "1 125,00 zł",
+      "1 200,00 zł",
+      "1 950,00 zł",
+      "1 050,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 319,
+    "text": "Na zlecenie firmy korporacyjnej hotel zorganizował konferencję i wystawił fakturę z adnotacją o odroczonym terminie płatności. Zapis ten oznacza, że firma dokona zapłaty",
+    "answers": [
+      "czekiem.",
+      "kartą kredytową.",
+      "gotówką.",
+      "poleceniem przelewu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 320,
+    "text": "Pilot wycieczki zgłosił recepcjoniście, że w grupie są wegetarianie. Pracownik recepcji uzyskaną informację powinien przekazać do działu",
+    "answers": [
+      "służby pięter.",
+      "gastronomii.",
+      "rekreacji.",
+      "służby parterowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 321,
+    "text": "Duży, luksusowy hotel w Sudetach został sponsorem drużyny narodowej w piłkę ręczną. Który element promocji usług hotelarskich został zastosowany?",
+    "answers": [
+      "Marketing bezpośredni.",
+      "Sprzedaż osobista.",
+      "Public relations.",
+      "Promocja sprzedaży."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 322,
+    "text": "Który dokument potwierdzający sprzedaż usług hotelarskich recepcjonista powinien wręczyć gościowi, który uregulował gotówką płatność za pobyt?",
+    "answers": [
+      "Paragon fiskalny.",
+      "Fakturę proforma.",
+      "Polecenie przelewu.",
+      "Potwierdzenie z terminala."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 323,
+    "text": "Gość hotelu poprosił pracownika recepcji o rezerwację biletu na samolot do Barcelony. Z którego systemu rezerwacyjnego powinien skorzystać recepcjonista?",
+    "answers": [
+      "Expedia.",
+      "Chart.",
+      "Voyager.",
+      "Amadeus."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 324,
+    "text": "Który dokument jest sporządzany na przedstawionym druku?",
+    "answers": [
+      "Karta rejestracyjna.",
+      "Grafik obłożenia pokoi.",
+      "Formularz rezerwacji.",
+      "Potwierdzenie rezerwacji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_tabela27.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 325,
+    "text": "Bagaż gościa VIP jest dostarczany do pokoju w czasie, kóry nie powinien przekroczyć",
+    "answers": [
+      "25 minut.",
+      "15 minut.",
+      "10 minut.",
+      "20 minut."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 326,
+    "text": "Którą czynność powinien w pierwszej kolejności wykonać recepcjonista, dokonując na prośbę gościa rezerwacji wstępnej?",
+    "answers": [
+      "Poprosić o skan dowodu osobistego.",
+      "Zarezerwować miejsce parkingowe.",
+      "Zarezerwować pokój zgodnie z życzeniem.",
+      "Poprosić o podanie numeru karty kredytowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 327,
+    "text": "Oblicz koszt noclegów dla 3-osobowej rodziny, która będzie przebywała w hotelu w terminie od 11.04 do 16.04.2022 i skorzysta z pokojów: 1- i 2-osobowego.",
+    "answers": [
+      "2 250,00 zł",
+      "1 800,00 zł",
+      "2 000,00 zł",
+      "2 400,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_cennik3.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 328,
+    "text": "Na którym etapie kompleksowej obsługi gościa, recepcjonista powinien udzielić informacji o regulaminie hotelowym, zasadach funkcjonowania depozytu oraz usługach dodatkowych oferowanych przez hotel?",
+    "answers": [
+      "Rezerwacji usług.",
+      "Procedury check-in.",
+      "Procedury check-out.",
+      "Obsługi w trakcie pobytu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 329,
+    "text": "Do świadczenia których z podanych usług nie są zobowiązane motele 4* i 5*?",
+    "answers": [
+      "W zespole odnowy biologicznej: pływalni, sauny, siłowni, solarium, masaży i innych usług rekreacyjnych – co najmniej dwóch rodzajów usług.",
+      "Prania, prasowania i czyszczenia bielizny i odzieży gości.",
+      "W zespole sal wielofunkcyjnych, dostosowanych do charakteru obiektu  –  konferencyjnych, klubowych, szkoleniowych.",
+      "Sprzedaży lub zapewnienia kosmetyków i środków higieny osobistej (co najmniej szczoteczka do zębów, pasta do zębów, krem do golenia i maszynka do golenia)."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 330,
+    "text": "Do recepcji dzwoni gość informując, że mimo ciszy nocnej w pokoju nr 118 jest głośno. W tej sytuacji recepcjonista powinien",
+    "answers": [
+      "wezwać ochronę hotelu w celu udzielenia gościom z pokoju nr 118 upomnienia.",
+      "zadzwonić na policję i poprosić o interwencję w pokoju nr 118.",
+      "poprosić gości z pokoju nr 118 o bezwzględne zachowanie ciszy nocnej.",
+      "poprosić gości z pokoju nr 118 o opuszczenie hotelu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 331,
+    "text": "Do hotelu wpłynęła prośba o zarezerwowanie, w terminie 11-15 lipca, pokoju dwuosobowego z łóżkiem małżeńskim dla pani Kwiatkowskiej i jej męża. Na podstawie fragmentu grafiku obłożenia określ, który rodzaj i numer pokoju powinien przydzielić im recepcjonista.",
+    "answers": [
+      "TWIN 108",
+      "SGL 103",
+      "APT 111",
+      "DBL 106"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_tabela28.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 332,
+    "text": "Który segment gości jest adresatem oferowanego przez hotel pakietu usług?",
+    "answers": [
+      "Rodzice z małymi dziećmi.",
+      "Uczniowie biorący udział w wycieczce szkolnej.",
+      "Rodzice ze starszymi dziećmi.",
+      "Uczniowie biorący udział w zielonej szkole."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_ramka11.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 333,
+    "text": "Jaką maksymalną wysokość powinna mieć lada recepcyjna przystosowana do obsługi osób niepełnosprawnych?",
+    "answers": [
+      "100 cm",
+      "110 cm",
+      "90 cm",
+      "80 cm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 334,
+    "text": "Jaką należność za pobyt zapłaci gość przebywający w hotelu 4 doby, jeżeli pokój kosztuje 300,00 zł za pierwszą dobę, a rabat za każdą następną dobę wynosi 20% i jest liczony zawsze od ceny za pierwszą dobę?",
+    "answers": [
+      "1 380,00 zł",
+      "1 200,00 zł",
+      "1 110,00 zł",
+      "1 020,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 335,
+    "text": "Grupa turystów pragnąca zwiedzić Kraków i okolice poprosiła o zaproponowanie jednodniowej wycieczki. Którą z możliwości powinien zaproponować im recepcjonista?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_tabela31.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 336,
+    "text": "Który pakiet usług, hotel powinien polecić firmie zlecającej zorganizowanie 3-dniowego pobytu integracyjnego połączonego z konferencją szkoleniową dla swoich pracowników?",
+    "answers": [
+      "Trening.",
+      "Korpo.",
+      "Relax.",
+      "Biznes."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_tabela32.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 337,
+    "text": "Na podstawie zamieszczonego grafiku rezerwacji, określ możliwy termin rezerwacji pokoju jednoosobowego na dwie doby w drugim tygodniu maja.",
+    "answers": [
+      "06.05 – 08.05",
+      "07.05 – 09.05",
+      "09.05 – 11.05",
+      "08.05 – 10.05"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_tabela26.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 338,
+    "text": "W który sposób recepcjonista powinien potwierdzić klientowi przyjęcie telefonicznej rezerwacji na usługi hotelarskie?",
+    "answers": [
+      "Wypełniając formularz rezerwacji.",
+      "Oddzwaniając do niego w ciągu tygodnia.",
+      "Ustnie w dniu jego przyjazdu.",
+      "W formie pisemnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 339,
+    "text": "Podczas procedury check-out gość poprosił recepcjonistę o fakturę za zrealizowane w hotelu usługi. Przed jej wystawieniem pracownik recepcji powinien ustalić zakres płatnych usług oraz",
+    "answers": [
+      "poprosić gościa o zwrot karty pobytu.",
+      "przyjąć należność wyłącznie gotówką.",
+      "przedstawić do akceptacji wstępny rachunek.",
+      "otworzyć gościowi rachunek hotelowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 340,
+    "text": "Który instrument promocji stosuje hotel, wprowadzając ofertę „Śpij 6 nocy, a zapłać za 5″? Oferta „Śpij 6 nocy, a zapłać za 5”. Rezerwując pobyt w pokoju dwuosobowym lub apartamencie na 6 dób, jeden nocleg otrzymasz gratis! Oferta ważna do 31 marca 2021 r.",
+    "answers": [
+      "Promocję sprzedaży.",
+      "Sprzedaż osobistą.",
+      "Public relations.",
+      "Marketing bezpośredni."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 341,
+    "text": "Gość złożył pisemne zamówienie na usługi noclegowe, w którym podał numer karty kredytowej oraz określił swój przyjazd do hotelu do godziny 1600. W podanym czasie nie przybył jednak do obiektu. Do kiedy recepcjonista powinien zatrzymać pokój i jakie czynności dotyczące kosztów powinien wykonać?",
+    "answers": [
+      "Do 1200 dnia następnego i obciążyć gościa kosztami noclegu.",
+      "Do 1200 dnia planowanego przyjazdu i nie obciążyć gościa kosztami noclegu.",
+      "Do 1200 dnia planowanego przyjazdu i obciążyć gościa kosztami noclegu.",
+      "Do 1200 dnia następnego i nie obciążyć gościa kosztami noclegu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 342,
+    "text": "Wskaż rodzaj jednostki mieszkalnej, którą podczas rezerwacji powinien zaproponować recepcjonista ojcu z 11-letnią córką.",
+    "answers": [
+      "Duplex.",
+      "Triple.",
+      "Twin.",
+      "Single."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 343,
+    "text": "Na podstawie zamieszczonego zestawienia zamówionych świadczeń określ ilość śniadań, które należy przygotować dnia 3 października.",
+    "answers": [
+      "23",
+      "35",
+      "28",
+      "41"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_tabela30.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 344,
+    "text": "Najwszechstronniejszy system rezerwacyjny, działający na linii hotel – pośrednik, oferujący możliwość sporządzania różnorodnych rezerwacji turystycznych: miejsc hotelowych, biletów lotniczych, kolejowych, wynajmu samochodu, to",
+    "answers": [
+      "wewnętrzny system hotelowy.",
+      "globalny system dystrybucji.",
+      "komputerowy system rezerwacji.",
+      "internetowa wyszukiwarka rezerwacji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 345,
+    "text": "Gość hotelu poprosił pracownika recepcji o rezerwację 3 biletów na samolot do Mediolanu. Z którego systemu rezerwacyjnego powinien skorzystać recepcjonista?",
+    "answers": [
+      "Voyager.",
+      "Expedia.",
+      "Amadeus.",
+      "Chart."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 346,
+    "text": "Kto zajmuje się przyjmowaniem zleceń na budzenie telefoniczne w hotelu o rozbudowanej strukturze organizacyjnej?",
+    "answers": [
+      "Kierownik recepcji.",
+      "Operator centrali telefonicznej.",
+      "Pracownik guest relations.",
+      "Recepcjonista - concierge."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 347,
+    "text": "Dla zapewnienia wysokiego obłożenia w sezonie zimowym, hotel położony w górach, z dużym wyprzedzeniem przygotowuje ofertę sprzedaży usług typu",
+    "answers": [
+      "rack rate.",
+      "first minute.",
+      "all inclusive.",
+      "timesharing."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 348,
+    "text": "Do świadczenia, których z podanych usług nie są zobowiązane motele 4* i 5*?",
+    "answers": [
+      "Sprzedaży lub zapewnienia kosmetyków i środków higieny osobistej (co najmniej szczoteczka do zębów, pasta do zębów, krem do golenia i maszynka do golenia).",
+      "W zespole sal wielofunkcyjnych, dostosowanych do charakteru obiektu –  konferencyjnych, klubowych, szkoleniowych.",
+      "W zespole odnowy biologicznej: pływalni, sauny, siłowni, solarium, masaży i innych usług rekreacyjnych – co najmniej dwóch rodzajów usług.",
+      "Prania, prasowania i czyszczenia bielizny i odzieży gości."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 349,
+    "text": "Za pośrednictwem którego dokumentu, gość może dokonać przekazania należności za pobyt, ze swojego rachunku bankowego na rachunek hotelu?",
+    "answers": [
+      "Dowodu wpłaty.",
+      "Faktury.",
+      "Polecenia przelewu.",
+      "Rachunku wstępnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 350,
+    "text": "Jak służby parterowe 4-gwiazdkowego hotelu powinny postąpić z bagażem gościa, dostarczonym do recepcji kilkanaście minut później po jego przybyciu do hotelu?",
+    "answers": [
+      "Dostarczyć do pokoju gościa w ciągu pierwszej doby pobytu.",
+      "Poinformować telefonicznie, że bagaż znajduje się w recepcji.",
+      "Przechować w bagażowni do czasu, aż gość się sam zgłosi.",
+      "Dostarczyć do pokoju gościa w możliwie najkrótszym czasie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 351,
+    "text": "Na jakiej podstawie recepcjonista powinien sporządzić fakturę za świadczone gościowi usługi?",
+    "answers": [
+      "Rachunków otrzymanych z poszczególnych pionów hotelu.",
+      "Faktur otrzymanych z poszczególnych działów hotelu.",
+      "Wpisu w grafiku obłożenia pokoi.",
+      "Wpisu do księgi rejestracyjnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 352,
+    "text": "Na podstawie danych z tabeli, określ minimalną powierzchnię hallu recepcyjnego w hotelu 3*, posiadającym 80 jednostek mieszkalnych.",
+    "answers": [
+      "37 m2",
+      "26 m2",
+      "35 m2",
+      "29 m2"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_tabela35.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 353,
+    "text": "O konieczności przygotowania sali konferencyjnej recepcjonista powinien poinformować hotelowy dział",
+    "answers": [
+      "sprzedaży.",
+      "techniczny.",
+      "służby pięter.",
+      "służby parterowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 354,
+    "text": "Który dokument stanowi podstawę do wydania klucza do pokoju hotelowego?",
+    "answers": [
+      "Karta kredytowa.",
+      "Karta pobytu.",
+      "Karta rejestracyjna.",
+      "Karta stałego klienta."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 355,
+    "text": "Wskazanie przez recepcjonistę gościowi zagranicznemu drogi do konsulatu jest",
+    "answers": [
+      "udzieleniem informacji turystycznej.",
+      "informowaniem o usługach dodatkowych świadczonych przez hotel.",
+      "obowiązkowym elementem procesu rejestracyjnego.",
+      "częścią procedury check-out."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 356,
+    "text": "Który dokument jest potwierdzeniem, dla gościa, rezerwacji jednostki mieszkalnej w hotelu?",
+    "answers": [
+      "Potwierdzenie rezerwacji.",
+      "Karta rezerwacji.",
+      "Grafik rezerwacji.",
+      "Formularz rezerwacji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 357,
+    "text": "Jaką należność za pobyt zapłaci gość przebywający w hotelu 4 doby, jeżeli pokój kosztuje 300,00 zł za pierwszą dobę, a rabat za każdą następną dobę wynosi 20%?",
+    "answers": [
+      "1 110,00 zł",
+      "1 380,00 zł",
+      "1 020,00 zł",
+      "1 200,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 358,
+    "text": "Duży, luksusowy hotel w Katowicach został sponsorem drużyny narodowej w piłkę ręczną. Który element promocji usług hotelarskich został zastosowany?",
+    "answers": [
+      "Marketing bezpośredni.",
+      "Public relations.",
+      "Sprzedaż osobista.",
+      "Promocja sprzedaży."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 359,
+    "text": "Przykładem którego elementu marketingu-mix jest informacja o otwarciu nowego pensjonatu w okolicy, zamieszczona w regionalnej prasie?",
+    "answers": [
+      "Ceny.",
+      "Promocji.",
+      "Produktu.",
+      "Dystrybucji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 360,
+    "text": "Małżeństwo z dwójką małych dzieci zamierza spędzić wakacje w luksusowym hotelu położonym jak najbliżej morza, który zapewni im nocleg w pokoju typu studio, atrakcje związane z pobytem oraz opieką nad dziećmi. Którą ofertę powinien zaproponować gościom pracownik działu rezerwacji sieci hoteli?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_tabela36.png"
+    },
+    "category": "HGT.06"
+  },
+  {
+    "id": 361,
+    "text": "Recepcjonista przydzielając pokoje dla stałych gości powinien",
+    "answers": [
+      "zadbać o wniesienie do j.m. dużej powitalnej wstawki.",
+      "zlecić doposażenie j.m. w dodatkową poduszkę i koc.",
+      "zaznaczyć w grafiku obłożenia - gość VIP.",
+      "uwzględnić, w miarę możliwości, ich upodobania i życzenia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.06"
+  },
+  {
+    "id": 362,
+    "text": "Do hotelu wpłynęła prośba o zarezerwowanie w terminie od 01 do 05 sierpnia pokoju dwuosobowego z łóżkiem małżeńskim dla państwa Malinowskich. Na podstawie fragmentu grafiku obłożenia określ, który rodzaj i numer pokoju powinien przydzielić im recepcjonista.",
+    "answers": [
+      "SGL 104",
+      "DBL 111",
+      "TWIN 109",
+      "APT 121"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt06/t11_grafik13.png"
+    },
+    "category": "HGT.06"
+  }
+]
