@@ -1,0 +1,4321 @@
+[
+  {
+    "id": 1,
+    "text": "Który etap wykonywania tynku gipsowego przedstawiono na ilustracji?",
+    "answers": [
+      "Wstępne gładzenie tzw. piórowanie.",
+      "Ręczne nakładanie.",
+      "Ostateczne gładzenie.",
+      "Wstępne wyrównanie tzw. zaciąganie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_tynk.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 2,
+    "text": "Która zaprawa jest zaprawą ogniotrwałą?",
+    "answers": [
+      "Wapienna.",
+      "Silikatowa.",
+      "Cementowa.",
+      "Krzemionkowa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 3,
+    "text": "Na podstawie danych z tabeli oblicz ilość piasku potrzebnego do wykonania 0,5 m3 zaprawy cementowo-wapiennej M2.",
+    "answers": [
+      "0,95 m3",
+      "0,45 m3",
+      "0,47 m3",
+      "0,93 m3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_tabela.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 4,
+    "text": "Aby usunąć murowaną ścianę działową zgodnie z obowiązującymi zasadami wykonywania prac rozbiórkowych, ścianę należy",
+    "answers": [
+      "rozbierać od góry, gruz składować na stropie.",
+      "podciąć na dole i przewrócić, gruz zrzucać rynnami do kontenerów.",
+      "podciąć na dole i przewrócić, cegły oczyścić i składować na stropie.",
+      "rozbierać od góry, gruz zrzucać rynnami do kontenerów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 5,
+    "text": "Oblicz wynagrodzenie tynkarza za wykonanie tynku zwykłego po obu stronach ściany o wymiarach 4×3 m, jeżeli stawka pracy tynkarza wynosi 24,00 zł/r-g, a norma pracy na wykonanie tego tynku wynosi 1,2 r-g/m2.",
+    "answers": [
+      "576,00 zł",
+      "691,20 zł",
+      "345,60 zł",
+      "288,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 6,
+    "text": "Do wykonania 100 m2 płyty stropowej grubości 15 cm potrzeba 15,4 m3 mieszanki betonowej. Ile wyniesie koszt mieszanki betonowej potrzebnej do wykonania takiej płyty o powierzchni 50 m2, jeżeli cena jednostkowa mieszanki wynosi 200,00 zł/m3?",
+    "answers": [
+      "1 540,00 zł",
+      "1 000,00 zł",
+      "2 000,00 zł",
+      "3 080,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 7,
+    "text": "Do wymurowania 1 m2 ściany grubości 25 cm z cegieł budowlanych pełnych potrzeba 0,084 m3 zaprawy cementowo-wapiennej. Oblicz koszt zaprawy potrzebnej do wymurowania takiej ściany o powierzchni 12 m2, jeżeli cena jednostkowa zaprawy wynosi 250,00 zł/m3.",
+    "answers": [
+      "2 420,00 zł",
+      "252,00 zł",
+      "2 520,00 zł",
+      "242,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 8,
+    "text": "Na ilustracji przedstawiono materiał izolacyjny przeznaczony do wykonywania izolacji",
+    "answers": [
+      "przeciwwilgociowej i paroprzepuszczalnej.",
+      "termicznej i akustycznej.",
+      "akustycznej i przeciwwodnej.",
+      "przeciwwodnej i przeciwwilgociowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_material.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 9,
+    "text": "Na podstawie fragmentu instrukcji producenta oblicz, ile kilogramów zaprawy murarskiej potrzeba do wymurowania jednej ściany grubości 25 cm, długości 12 m i wysokości 3 m.",
+    "answers": [
+      "ok. 900 kg",
+      "ok. 3 600 kg",
+      "ok. 360 kg",
+      "ok. 1 440 kg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_tabela10.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 10,
+    "text": "Które z wymienionych cegieł należy zastosować do wymurowania lekkiej ścianki działowej grubości 12 cm?",
+    "answers": [
+      "Klinkierowe.",
+      "Ceramiczne pełne.",
+      "Silikatowe pełne.",
+      "Dziurawki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 11,
+    "text": "Tynk ozdobny wykonany z zaprawy gipsowej lub gipsowo-wapiennej, imitujący marmur, to",
+    "answers": [
+      "stiuk.",
+      "sztukateria.",
+      "fresk.",
+      "sgraffito."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 12,
+    "text": "Jeżeli podłoże przeznaczone do otynkowania wykonane jest z różnych materiałów, to miejsce styku tych materiałów przed tynkowaniem należy zakryć",
+    "answers": [
+      "kształtką z tworzywa sztucznego.",
+      "listwą aluminiową.",
+      "taśmą z papieru laminowanego folią.",
+      "pasem z siatki z włókna szklanego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 13,
+    "text": "Na ilustracji przedstawiono rusztowanie",
+    "answers": [
+      "wiszące - koszowe.",
+      "na kozłach teleskopowych.",
+      "drabinowe.",
+      "ramowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_rusztowanie.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 14,
+    "text": "Oblicz objętość 10 belek żelbetowych o przekroju poprzecznym jak na rysunku i długości 1,5 m każda.",
+    "answers": [
+      "0,0864 m3",
+      "0,864 m3",
+      "8,64 m3",
+      "86,4 m3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_belka.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 15,
+    "text": "Zaczyny cementowe są mieszaniną",
+    "answers": [
+      "cementu i pasku.",
+      "cementu, wapna i wody.",
+      "cementu i wody.",
+      "cementu, piasku i wody."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 16,
+    "text": "Płaska przegroda pozioma dzieląca budynek na kondygnacje to",
+    "answers": [
+      "nadproże.",
+      "stropodach.",
+      "ściana.",
+      "strop."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 17,
+    "text": "Na ilustracji przedstawiono urządzenie przeznaczone do",
+    "answers": [
+      "mieszania składników zaprawy budowlanej.",
+      "dozowania składników zaprawy budowlanej.",
+      "transportu mieszanki betonowej.",
+      "zagęszczania mieszanki betonowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_urzadzenie4.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 18,
+    "text": "Do budowy jednowarstwowych ścian zewnętrznych, z uwagi na konieczność uzyskania odpowiedniej izolacyjności cieplnej, stosuje się przede wszystkim",
+    "answers": [
+      "cegły ceramiczne pełne lub bloczki z betonu kruszywowego.",
+      "bloczki z betonu komórkowego lub pustaki ceramiczne poryzowane.",
+      "cegły ceramiczne klinkierowe lub cegły ceramiczne dziurawki.",
+      "bloczki silikatowe lub płyty gipsowo-kartonowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 19,
+    "text": "Na podstawie fragmentu instrukcji producenta oblicz, ile bloczków gazobetonowych o wymiarach 240×240×590 mm potrzeba do wymurowania ściany grubości 24 cm, długości 12 m i wysokości 4 m.",
+    "answers": [
+      "8 064 szt.",
+      "672 szt.",
+      "336 szt.",
+      "80 szt."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_tabela11.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 20,
+    "text": "Zgodnie z instrukcją producenta zużycie gipsowej zaprawy tynkarskiej wynosi 6 kg/m2/10 mm. Oblicz, ile 25-kilogramowych worków zaprawy należy kupić, aby wykonać tynk grubości 20 mm na ścianach o łącznej powierzchni 100 m2.",
+    "answers": [
+      "60 worków.",
+      "48 worków.",
+      "30 worków.",
+      "24 worki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 21,
+    "text": "Ręczne przygotowanie zaprawy cementowo-wapiennej polega na odmierzeniu wszystkich składników zaprawy, a następnie zmieszaniu",
+    "answers": [
+      "cementu z piaskiem i dodaniu ciasta wapiennego rozrzedzonego wodą.",
+      "cementu z ciastem wapiennym rozrzedzonym wodą i dodaniu piasku.",
+      "wody z piaskiem i dodaniu ciasta wapiennego oraz cementu.",
+      "wody z cementem i dodaniu piasku oraz ciasta wapiennego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 22,
+    "text": "Zgodnie z zapotrzebowaniem do wykonania ścian budynku potrzeba 500 sztuk bloczków gazobetonowych. Cena palety takich bloczków wynosi 1 200,00 zł. Ile wyniosą koszty zakupu, jeżeli na palecie mieszczą się 24 bloczki, a sprzedaż jest wyłącznie pełnopaletowa?",
+    "answers": [
+      "25 200,00 zł",
+      "25 000,00 zł",
+      "24 200,00 zł",
+      "24 000,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 23,
+    "text": "Spoiwem mineralnym powietrznym jest",
+    "answers": [
+      "cement hutniczy.",
+      "gips budowlany.",
+      "cement portlandzki.",
+      "wapno hydrauliczne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 24,
+    "text": "Na ilustracji przedstawiono elementy stropu",
+    "answers": [
+      "Teriva.",
+      "Akermana.",
+      "Porotherm.",
+      "Fert."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_elementy4.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 25,
+    "text": "Zgodnie z zasadami przedmiarowania robót murarskich ilość ścian oblicza się w metrach kwadratowych ich powierzchni. Od powierzchni ścian należy odejmować powierzchnie projektowanych otworów okiennych i drzwiowych większych od 0,5 m2. Oblicz wartość przedmiaru robót związanych z wykonaniem ściany z cegły ceramicznej pełnej, której widok przedstawiono na rysunku.",
+    "answers": [
+      "25,60 m2",
+      "22,11 m2",
+      "21,75 m2",
+      "23,55 m2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_sciana.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 26,
+    "text": "Keramzyt to lekkie kruszywo budowlane, stosowane do produkcji zapraw",
+    "answers": [
+      "ciepłochronnych.",
+      "krzemionkowych.",
+      "kwasoodpornych.",
+      "szamotowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 27,
+    "text": "Tynk trójwarstwowy składa się z kolejno wykonywanych warstw:",
+    "answers": [
+      "1. gładź, 2. narzut, 3. obrzutka.",
+      "1. narzut, 2. obrzutka, 3. gładź.",
+      "1. gładź, 2. obrzutka, 3. narzut.",
+      "1. obrzutka, 2. narzut, 3. gładź."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 28,
+    "text": "Na ilustracji przedstawiono fragment lica muru wykonanego w wiązaniu",
+    "answers": [
+      "kowadełkowym.",
+      "główkowym.",
+      "krzyżykowym.",
+      "wozówkowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_lico.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 29,
+    "text": "Na rysunku przedstawiono rzut pomieszczenia, w którym zaplanowano wyburzenie ściany. Oblicz powierzchnię ściany przeznaczonej do rozbiórki, jeżeli wysokość pomieszczenia wynosi 3,2 m.",
+    "answers": [
+      "10,88 m2",
+      "8,96 m2",
+      "5,44 m2",
+      "8,00 m2"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_rzut2.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 30,
+    "text": "Pozioma izolacja przeciwwilgociowa podłogi parteru w budynku niepodpiwniczonym układana jest",
+    "answers": [
+      "bezpośrednio na podsypce z piasku.",
+      "na warstwie chudego betonu.",
+      "bezpośrednio na gruncie.",
+      "na warstwie izolacji termicznej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 31,
+    "text": "Perlit jest kruszywem lekkim wchodzącym w skład zapraw tynkarskich",
+    "answers": [
+      "nakrapianych.",
+      "termoizolacyjnych.",
+      "cyklinowanych.",
+      "wodoszczelnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 32,
+    "text": "Przedstawione na ilustracji narzędzie przeznaczone jest do",
+    "answers": [
+      "wyrównywania nierówności i wygładzania powierzchni muru.",
+      "odmierzania i przenoszenia wody podczas rozrabiania zaprawy.",
+      "odmierzania i przenoszenia suchej mieszanki podczas rozrabiania zaprawy.",
+      "równomiernego rozprowadzania zaprawy i wykonywania cienkich spoin."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_narzedzie8.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 33,
+    "text": "Przedstawiony na ilustracji sprzęt, stosowany do usuwania gruzu podczas rozbiórki budynku, to",
+    "answers": [
+      "zsyp budowlany.",
+      "przenośnik taśmowy.",
+      "pompa do gruzu.",
+      "kontener na gruz."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_sprzet4.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 34,
+    "text": "Na ilustracji przedstawiono wyrób silikatowy drążony przeznaczony do budowy",
+    "answers": [
+      "przewodów kominowych.",
+      "ścian osłonowych i działowych.",
+      "ścian fundamentowych.",
+      "przewodów wentylacyjnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_wyrob.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 35,
+    "text": "Ile wynosi minimalna grubość przegród oddzielających przewody spalinowe od dymowych wykonanych w ścianach murowanych z cegły?",
+    "answers": [
+      "1 cegły.",
+      "1½ cegły.",
+      "½ cegły.",
+      "¼ cegły."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 36,
+    "text": "Który etap naprawy spękanego tynku przedstawiono na ilustracji?",
+    "answers": [
+      "Nakładanie zaprawy szpachlowej.",
+      "Poszerzanie rysy.",
+      "Gruntowanie obrzeża rysy.",
+      "Oczyszczanie obrzeża rysy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_tynk2.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 37,
+    "text": "Na podstawie fragmentu rzutu pomieszczenia oblicz liczbę cegieł potrzebnych do wymurowania projektowanej łamanej ścianki działowej wysokości 3 m, jeżeli norma zużycia cegieł wynosi 50 szt./m2.",
+    "answers": [
+      "642 sztuki",
+      "696 sztuk",
+      "600 sztuk",
+      "660 sztuk"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_rzut.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 38,
+    "text": "Która zaprawa stosowana jest do murowania konstrukcji elementów budynku przenoszących duże obciążenia oraz elementów narażonych na wilgoć np. ścian fundamentowych?",
+    "answers": [
+      "Gipsowo-wapienna.",
+      "Wapienna.",
+      "Cementowa.",
+      "Gipsowa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 39,
+    "text": "Oblicz koszt całkowity wykonania tynku mozaikowego na ścianie o powierzchni 30 m2, jeżeli koszt jednostkowy robocizny wynosi 25,00 zł/m2, a koszt materiałów 20,00 zł/m2.",
+    "answers": [
+      "1 500,00 zł",
+      "600,00 zł",
+      "1 350,00 zł",
+      "750,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 40,
+    "text": "Na którym rysunku przedstawiono oznaczenie graficzne betonu niezbrojonego stosowane na rysunkach budowlanych?",
+    "answers": [
+      "Na rysunku 4.",
+      "Na rysunku 3.",
+      "Na rysunku 1.",
+      "Na rysunku 2."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_oznaczenia6.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 41,
+    "text": "Który etap wykonania ocieplenia ścian budynku metodą lekką mokrą przedstawiono na ilustracji?",
+    "answers": [
+      "Wyrównanie powierzchni płyt styropianowych.",
+      "Wtapianie siatki zbrojącej.",
+      "Nakładanie tynku cienkowarstwowego.",
+      "Nakładanie zaprawy klejowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_ilustracja4.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 42,
+    "text": "Na którym rysunku przedstawiono oznaczenie graficzne stosowane w projektach budowlanych do oznaczania przekroju ściany z cegieł ceramicznych?",
+    "answers": [
+      "Na rysunku 3.",
+      "Na rysunku 1.",
+      "Na rysunku 4.",
+      "Na rysunku 2."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_oznaczenia5.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 43,
+    "text": "Na której ilustracji przedstawiono cegłę, którą należy zastosować do wykonania zewnętrznych ścian nośnych piwnicy?",
+    "answers": [
+      "Na ilustracji 2.",
+      "Na ilustracji 1.",
+      "Na ilustracji 4.",
+      "Na ilustracji 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_cegly3.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 44,
+    "text": "Wskaż prawidłową kolejność technologiczną prac przy obniżaniu poziomu posadowienia murowanych ław fundamentowych.",
+    "answers": [
+      "Wykonanie wykopu i zabezpieczenie deskowaniem → podbicie fundamentu → odciążenie ław.",
+      "Odciążenie ław → podbicie fundamentu → wykonanie wykopu i zabezpieczenie deskowaniem.",
+      "Podbicie fundamentu → odciążenie ław → wykonanie wykopu i zabezpieczenie deskowaniem.",
+      "Wykonanie wykopu i zabezpieczenie deskowaniem → odciążenie ław → podbicie fundamentu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 45,
+    "text": "Zaprawy tynkarskie przeznaczone do stosowania na zewnątrz budynku powinny charakteryzować się dużą",
+    "answers": [
+      "nasiąkliwością.",
+      "kapilarnością.",
+      "higroskopijnością.",
+      "mrozoodpornością."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 46,
+    "text": "Ile wynosi łączna objętość dwóch ław fundamentowych o przekroju poprzecznym przedstawionym na rysunku i długości 8 m każda?",
+    "answers": [
+      "2,240 m3",
+      "22 400 m3",
+      "4,480 m3",
+      "44 800 m3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_przekroj7.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 47,
+    "text": "Do murowania silnie obciążonych ścian oraz wykonywania murów w wilgotnym środowisku stosowane są zaprawy",
+    "answers": [
+      "wapienne.",
+      "cementowo-wapienne.",
+      "gipsowo-wapienne.",
+      "cementowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 48,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR 2-02 oblicz, ile zaprawy potrzeba do wymurowania czterech prostokątnych filarów o wymiarach 38×38 cm i wysokości 3,0 m każdy, na zaprawie cementowo- wapiennej.",
+    "answers": [
+      "0,276 m3",
+      "0,444 m3",
+      "0,828 m3",
+      "0,588 m3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_tablica11.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 49,
+    "text": "Licowanie ściany murowanej polega na",
+    "answers": [
+      "wykonaniu w ścianie dylatacji poziomej umieszczonej pod otworami okiennymi.",
+      "wypełnieniu widocznych spoin pionowych oraz poziomych zaprawą mrozoodporną.",
+      "wypełnieniu widocznych spoin pionowych oraz poziomych zaprawą zabarwioną pigmentem.",
+      "wykonaniu na powierzchni ściany warstwy okładzinowej np. z cegły klinkierowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 50,
+    "text": "Ręczną rozbiórkę stropu ceglanego na belkach stalowych należy rozpocząć od",
+    "answers": [
+      "rozebrania wierzchu stropu, czyli podłogi.",
+      "wycięcia belek przy ścianach.",
+      "skucia wypełnienia stropu.",
+      "zbicia tynku ze stropu, czyli sufitu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 51,
+    "text": "Tynk kategorii II jest tynkiem",
+    "answers": [
+      "pospolitym o powierzchni równej i szorstkiej.",
+      "pospolitym o powierzchni równej i gładkiej.",
+      "doborowym o powierzchni równej i gładkiej.",
+      "doborowym o powierzchni równej i szorstkiej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 52,
+    "text": "Na podstawie przedstawionej instrukcji producenta zaprawy murarskiej oblicz, ile wody należy użyć do wymieszania 200 kg suchej mieszanki.",
+    "answers": [
+      "35 litrów.",
+      "21 litrów.",
+      "28 litrów.",
+      "14 litrów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_instrukcja10.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 53,
+    "text": "Na podstawie danych zawartych w tabeli oblicz całkowity koszt wykonania 1 m2 tynku mozaikowego drobnoziarnistego wraz z gruntowaniem podłoża.",
+    "answers": [
+      "58,00 zł",
+      "85,00 zł",
+      "82,00 zł",
+      "88,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_tabela52.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 54,
+    "text": "Do wykonania zaprawy cementowo-wapiennej o proporcji objętościowej składników 1:2,5:10,5 należy przygotować:",
+    "answers": [
+      "1 część wapna, 2,5 części cementu i 10,5 części piasku.",
+      "1 część wapna, 2,5 części cementu i 10,5 części wody.",
+      "1 część cementu, 2,5 części wapna i 10,5 części wody.",
+      "1 część cementu, 2,5 części wapna i 10,5 części piasku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 55,
+    "text": "Podłoże betonowe przeznaczone do tynkowania powinno być równe oraz",
+    "answers": [
+      "zwilżone i chropowate.",
+      "suche i gładkie.",
+      "suche i chropowate.",
+      "zwilżone i gładkie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 56,
+    "text": "Na której ilustracji przedstawiono kielnię przeznaczoną do wypełniania oraz wygładzania spoin?",
+    "answers": [
+      "Na ilustracji 2.",
+      "Na ilustracji 3.",
+      "Na ilustracji 1.",
+      "Na ilustracji 4."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_kielnie4.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 57,
+    "text": "Na ilustracji przedstawiono fragment stropu",
+    "answers": [
+      "Fert.",
+      "Teriva.",
+      "Akermana.",
+      "Kleina."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_strop9.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 58,
+    "text": "Na rysunku przedstawiono dwie kolejne warstwy cegieł w narożniku muru z zastosowaniem wiązania",
+    "answers": [
+      "pospolitego.",
+      "krzyżykowego.",
+      "wielorzędowego.",
+      "polskiego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_wiazanie11.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 59,
+    "text": "Oblicz koszt montażu stolarki okiennej i drzwiowej w remontowanym pomieszczeniu, którego rzut przedstawiono na rysunku, jeżeli koszt jednostkowy montażu okna wraz z obróbką otworu wynosi 140,00 zł/m, a drzwi 290,00 zł/szt.",
+    "answers": [
+      "1 074,00 zł",
+      "962,00 zł",
+      "1 456,00 zł",
+      "1 746,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_rzut20.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 60,
+    "text": "Na podstawie danych zawartych w tablicy z KNR 9-01 oblicz, ile bloczków SILKA M8 należy zakupić do wykonania ścianki działowej na zaprawie cienkospoinowej, jeżeli ilość robót określona w przedmiarze wynosi 45,00 m2.",
+    "answers": [
+      "662 szt.",
+      "689 szt.",
+      "688 szt.",
+      "661 szt."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_tablica12.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 61,
+    "text": "Na podstawie receptury oblicz, ile piasku potrzeba do sporządzenia jednego zarobu mieszanki betonowej w betoniarce o pojemności roboczej 200 litrów.",
+    "answers": [
+      "3 900 kg",
+      "390 kg",
+      "156 kg",
+      "1 560 kg"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_receptura7.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 62,
+    "text": "Przedstawioną na ilustracji łatę tynkarską typu H stosuje się do",
+    "answers": [
+      "nakładania poszczególnych warstw tynku.",
+      "wyznaczania powierzchni tynku.",
+      "wyrównywania tynku po lekkim związaniu.",
+      "zaciągania tynku bezpośrednio po nałożeniu zaprawy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_lata.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 63,
+    "text": "Do wykonywania tynków chroniących przed promieniowaniem rentgenowskim, mających zastosowanie w pomieszczeniach pracowni diagnostycznych, stosuje się zaprawy z dodatkiem kruszywa",
+    "answers": [
+      "bazaltowego.",
+      "barytowego.",
+      "wapiennego.",
+      "granitowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 64,
+    "text": "Perlit to lekkie kruszywo budowlane, stosowane do produkcji zapraw",
+    "answers": [
+      "ciepłochronnych.",
+      "kwasoodpornych.",
+      "szamotowych.",
+      "krzemionkowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 65,
+    "text": "Na którym rysunku przedstawiono widok lica muru wykonanego z zastosowaniem gotyckiego wiązania cegieł?",
+    "answers": [
+      "Na rysunku 2.",
+      "Na rysunku 4.",
+      "Na rysunku 1.",
+      "Na rysunku 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_mury2.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 66,
+    "text": "Na ilustracji przedstawiono sposób wykonania",
+    "answers": [
+      "hydroizolacji.",
+      "izolacji akustycznej.",
+      "izolacji cieplnej.",
+      "paroizolacji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_ilustracja2.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 67,
+    "text": "Wielowarstwowy i różnobarwny tynk ozdobny, w którym barwę rysunku wydobywa się przez wyskrobanie lub wycięcie odpowiednich warstw wierzchnich to",
+    "answers": [
+      "sztukateria.",
+      "sztablatura.",
+      "sgraffito.",
+      "stiuk."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 68,
+    "text": "Na podstawie fragmentu instrukcji producenta oblicz, ile palet bloczków gazobetonowych o wymiarach 24×24×59 cm potrzeba do wymurowania dwóch ścian wysokości 2,75 m, długości 6 m i grubości 24 cm każda.",
+    "answers": [
+      "58 palet.",
+      "3 palety.",
+      "116 palet.",
+      "5 palet."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_instrukcja11.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 69,
+    "text": "Którym preparatem należy pokryć powierzchnię pylącego tynku w celu jego wzmocnienia?",
+    "answers": [
+      "Penetrującym.",
+      "Barwiącym.",
+      "Antyadhezyjnym.",
+      "Gruntującym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 70,
+    "text": "Do czego służy poziomica wężowa?",
+    "answers": [
+      "Do kontrolowania pionu murowanej ściany.",
+      "Do wyznaczania i przenoszenia poziomu murowanej ściany na odległość.",
+      "Do kontrolowania grubości murowanej ściany.",
+      "Do wyznaczania zewnętrznej krawędzi murowanych warstw muru."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 71,
+    "text": "Zaprawę tynkarską produkowaną fabrycznie, oznaczoną symbolem R stosuje się do wykonania tynków",
+    "answers": [
+      "renowacyjnych.",
+      "izolujących cieplnie.",
+      "szlachetnych.",
+      "jednowarstwowych zewnętrznych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 72,
+    "text": "Na ilustracji przedstawiono fragment naroża ściany",
+    "answers": [
+      "szczelinowej.",
+      "trójwarstwowej.",
+      "jednowarstwowej.",
+      "dwuwarstwowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_naroze.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 73,
+    "text": "Na ilustracji przedstawiono etap badania konsystencji mieszanki betonowej metodą",
+    "answers": [
+      "oznaczania stopnia zagęszczalności.",
+      "opadu stożka.",
+      "stolika rozpływowego.",
+      "Ve-be."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_ilustracja.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 74,
+    "text": "Do spoiw mineralnych hydraulicznych zaliczane są",
+    "answers": [
+      "cement hutniczy i pucolanowy.",
+      "wapno hydratyzowane i palone.",
+      "wapno dolomitowe i pokarbidowe.",
+      "gips szpachlowy i autoklawizowany."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 75,
+    "text": "Kontrola odchylenia powierzchni muru od płaszczyzny polega na",
+    "answers": [
+      "pomiarze grubości 5 spoin w dowolnym miejscu muru z dokładnością do 1 mm, uśrednieniu wyniku pomiaru i porównaniu z wartością nominalną.",
+      "pomiarze długości i wysokości muru z dokładnością do 10 mm i porównaniu wymiarów z dokumentacją projektową.",
+      "przyłożeniu 2-metrowej łaty kontrolnej w dowolnym miejscu powierzchni muru i pomiarze z dokładnością do 1 mm prześwitu między łatą a powierzchnią muru.",
+      "przyłożeniu kątownika murarskiego do krawędzi muru i pomiarze odchylenia krawędzi od kąta prostego z dokładnością do 1°."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 76,
+    "text": "Gąbkowanie powierzchni tynku gipsowego, polegające na zroszeniu tynku rozproszonym strumieniem wody i zacieraniu pacą gąbkową, wykonuje się w celu",
+    "answers": [
+      "wstępnego wyrównania powierzchni tynku.",
+      "przygotowania powierzchni do ostatecznego wygładzenia.",
+      "zebrania nadmiaru zaprawy.",
+      "usunięcia nadmiaru kruszywa drobnoziarnistego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 77,
+    "text": "Na podstawie informacji zamieszczonych w tabeli określ maksymalną dopuszczalną grubość tynku pospolitego dwuwarstwowego na siatce stalowej.",
+    "answers": [
+      "17 mm",
+      "20 mm",
+      "22 mm",
+      "23 mm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_tabela51.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 78,
+    "text": "Zgodnie z zasadami przedmiarowania robót murarskich ilość ścian oblicza się w metrach kwadratowych ich powierzchni. Od powierzchni ścian należy odejmować powierzchnie projektowanych otworów okiennych i drzwiowych większych od 0,5 m2. Oblicz ilość robót związanych z wykonaniem ściany z cegły ceramicznej pełnej, której widok przedstawiono na rysunku.",
+    "answers": [
+      "21,00 m2",
+      "19,11 m2",
+      "18,13 m2",
+      "20,02 m2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_sciana23.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 79,
+    "text": "Masa asfaltowa dostępna jest w opakowaniach 10-litrowych w cenie 74,90 zł za opakowanie. Oblicz koszt zakupu masy asfaltowej potrzebnej do wykonania dwuwarstwowej hydroizolacji na dwóch ścianach fundamentowych o powierzchni 25,0 m2 każda, jeżeli zużycie masy w pierwszej warstwie wynosi 0,5 l/m2, w drugiej 0,4 l/m2.",
+    "answers": [
+      "299,60 zł",
+      "374,50 zł",
+      "224,70 zł",
+      "149,80 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 80,
+    "text": "Na rysunku przedstawiono układ cegieł w murze grubości 2 cegieł z zastosowaniem wiązania",
+    "answers": [
+      "polskiego.",
+      "weneckiego.",
+      "holenderskiego.",
+      "słowiańskiego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_mur2.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 81,
+    "text": "Ile wynosi łączna objętość dwóch belek żelbetowych o przekroju poprzecznym przedstawionym na rysunku i długości 6 m każda?",
+    "answers": [
+      "0,750 m3",
+      "7 500 m3",
+      "3 750 m3",
+      "0,375 m3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_belka2.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 82,
+    "text": "Do spoiw powietrznych zaliczane są",
+    "answers": [
+      "wapno hydrauliczne i cement hutniczy.",
+      "cement portlandzki i cement pucolanowy.",
+      "cement żużlowy i cement murarski.",
+      "wapno palone i gips budowlany."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 83,
+    "text": "Której zaprawy nie stosuje się w miejscach styczności z elementami stalowymi, ze względu na możliwość wystąpienia korozji stali?",
+    "answers": [
+      "Cementowej.",
+      "Szamotowej.",
+      "Gipsowo-wapiennej.",
+      "Cementowo-wapiennej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 84,
+    "text": "Na której ilustracji przedstawiono kielnię murarską?",
+    "answers": [
+      "Na ilustracji 1.",
+      "Na ilustracji 2.",
+      "Na ilustracji 3.",
+      "Na ilustracji 4."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_narzedzia.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 85,
+    "text": "Na podstawie fragmentu rzutu pomieszczenia oblicz liczbę cegieł potrzebnych do wymurowania projektowanej łamanej ściany działowej wysokości 3 m, jeżeli norma zużycia cegieł wynosi 50 szt./m2.",
+    "answers": [
+      "711 sztuk.",
+      "600 sztuk.",
+      "675 sztuk.",
+      "731 sztuk."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_rzut3.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 86,
+    "text": "Na podstawie tabeli oblicz, ile cementu portlandzkiego i wapna hydratyzowanego potrzeba do wykonania 2 m3 zaprawy cementowo-wapiennej klasy M10.",
+    "answers": [
+      "293 kg cementu, 34 kg wapna",
+      "494 kg cementu, 114 kg wapna",
+      "247 kg cementu, 57 kg wapna",
+      "330 kg cementu, 194 kg wapna"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_tabela5.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 87,
+    "text": "Na podstawie danych zawartych w tablicy z KNR 2-02 oblicz, ile cegieł budowlanych pełnych należy zakupić do wymurowania ściany grubości 38 cm na zaprawie cementowej, jeżeli ilość robót określona w przedmiarze wynosi 150 m2.",
+    "answers": [
+      "15 015 sztuk.",
+      "30 090 sztuk.",
+      "20 985 sztuk.",
+      "22 545 sztuk."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_tabela9.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 88,
+    "text": "Do wykonania mieszanki betonowej o proporcji objętościowej składników 1 : 1,5 : 3 należy przygotować:",
+    "answers": [
+      "1 część żwiru, 1,5 części cementu i 3 części wody.",
+      "1 część piasku, 1,5 części żwiru i 3 części cementu.",
+      "1 część cementu, 1,5 części piasku i 3 części żwiru.",
+      "1 część wody, 1,5 części żwiru i 3 części cementu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 89,
+    "text": "Ile wyniesie wynagrodzenie tynkarza za wykonanie gładzi gipsowej na ścianach o łącznej powierzchni 120 m2, jeżeli stawka godzinowa pracy tynkarza wynosi 25,00 zł, a norma pracy wynosi 42 r-g/100 m2?",
+    "answers": [
+      "1 050,00 zł",
+      "1 260,00 zł",
+      "3 000,00 zł",
+      "4 200,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 90,
+    "text": "Zgodnie z instrukcją producenta zużycie gipsowej zaprawy tynkarskiej wynosi 8 kg/1 m2/10 mm. Ile 30-kilogramowych worków zaprawy należy kupić, aby wykonać tynk grubości 20 mm na ścianach o łącznej powierzchni 270 m2?",
+    "answers": [
+      "36 worków.",
+      "72 worki.",
+      "144 worki.",
+      "108 worków."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 91,
+    "text": "Na ilustracjach przedstawiono kolejne etapy murowania",
+    "answers": [
+      "warstwy wozówkowej, metodą na docisk z kielnią.",
+      "warstwy wozówkowej, metodą na wycisk z podcięciem zaprawy kielnią.",
+      "warstwy główkowej, metodą na docisk z kielnią.",
+      "warstwy główkowej, metodą na wycisk z podcięciem zaprawy kielnią."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_etapy.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 92,
+    "text": "Na rysunku przedstawiono rzut pomieszczenia, w którym zaplanowano wyburzenie ściany. Oblicz powierzchnię ściany przeznaczonej do rozbiórki, jeżeli wysokość pomieszczenia wynosi 3 m.",
+    "answers": [
+      "1,08 m2",
+      "4,50 m2",
+      "7,50 m2",
+      "1,80 m2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_rzut4.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 93,
+    "text": "Naprawa uszkodzenia ściany przedstawionej na ilustracji powinna polegać na",
+    "answers": [
+      "dwukrotnym otynkowaniu tynkiem wapiennym.",
+      "wypełnieniu ubytków muru zaprawą gipsową.",
+      "przemurowaniu uszkodzonego fragmentu muru.",
+      "wzmocnieniu muru stalowymi płaskownikami."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_sciana2.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 94,
+    "text": "Do murowania ścian fundamentowych należy stosować zaprawę, której podstawowym spoiwem jest",
+    "answers": [
+      "wapno palone.",
+      "gips budowlany.",
+      "cement portlandzki.",
+      "wapno suchogaszone."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 95,
+    "text": "Której pacy należy użyć do zatarcia tynku gipsowego, w celu wyciągnięcia z tynku mleczka gipsowego?",
+    "answers": [
+      "Pacy nr 1.",
+      "Pacy nr 4.",
+      "Pacy nr 2.",
+      "Pacy nr 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_pace.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 96,
+    "text": "Na której ilustracji przedstawiono mieszadło przeznaczone do przygotowania zaprawy murarskiej?",
+    "answers": [
+      "Na ilustracji 1.",
+      "Na ilustracji 4.",
+      "Na ilustracji 2.",
+      "Na ilustracji 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_mieszadla.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 97,
+    "text": "Rozbiórkę budynku murowanego z dachem o konstrukcji drewnianej należy rozpocząć od",
+    "answers": [
+      "rozbiórki konstrukcji więźby dachowej.",
+      "demontażu stolarki okiennej i drzwiowej.",
+      "rozbiórki ścianek działowych.",
+      "demontażu urządzeń i instalacji elektrycznych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 98,
+    "text": "Na którym rysunku przedstawiono oznaczenie graficzne betonu zbrojonego stosowane na rysunkach budowlanych?",
+    "answers": [
+      "Na rysunku 3.",
+      "Na rysunku 4.",
+      "Na rysunku 1.",
+      "Na rysunku 2."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_oznaczenia2.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 99,
+    "text": "Która z wymienionych właściwości jest charakterystyczna dla świeżo zarobionej zaprawy?",
+    "answers": [
+      "Mrozoodporność.",
+      "Wytrzymałość na ściskanie.",
+      "Podatność na ścieranie.",
+      "Urabialność."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 100,
+    "text": "Na ilustracji przedstawiono wyrób budowlany przeznaczony do wykonywania izolacji",
+    "answers": [
+      "termicznej i akustycznej.",
+      "przeciwwodnej i przeciwwilgociowej.",
+      "przeciwwilgociowej i paroprzepuszczalnej.",
+      "akustycznej i przeciwwodnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_wyrob2.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 101,
+    "text": "Oblicz całkowity koszt wykonania tynku po obu stronach ściany o wymiarach 6×3 m, jeżeli jednostkowy koszt robocizny wynosi 21,00 zł/m2, a koszt materiałów 16,00 zł/m2.",
+    "answers": [
+      "1 368,00 zł",
+      "888,00 zł",
+      "666,00 zł",
+      "1 332,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 102,
+    "text": "Ile 25-kilogramowych worków zaprawy tynkarskiej należy zakupić do otynkowania 11 cokołów o wysokości 0,3 m i długości 5,0 m każdy, jeżeli norma zużycia zaprawy wynosi 3 kg/m2?",
+    "answers": [
+      "3 worki.",
+      "4 worki.",
+      "1 worek.",
+      "2 worki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 103,
+    "text": "Przedstawiony na ilustracji sprzęt, stosowany podczas murowania ścian z bloków silikatowych, to skrzynka",
+    "answers": [
+      "do wyznaczania grubości poszczególnych warstw muru.",
+      "do nanoszenia zaprawy na długich prostych odcinkach muru.",
+      "do kontrolowania kątów prostych na powierzchni muru.",
+      "do wyznaczania poziomu poszczególnych warstw muru."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_skrzynka.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 104,
+    "text": "Którego spoiwa należy użyć do wykonania tynku zewnętrznego w miejscach narażonych na działanie wilgoci?",
+    "answers": [
+      "Gipsu budowlanego.",
+      "Gipsu szpachlowego.",
+      "Wapna palonego.",
+      "Wapna hydraulicznego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 105,
+    "text": "Na podstawie fragmentu instrukcji producenta oblicz, ile bloczków gazobetonowych o wymiarach 12×24×59 cm potrzeba do wymurowania dwóch ścian grubości 12 cm, długości 6 m i wysokości 3 m każda.",
+    "answers": [
+      "126 sztuk.",
+      "3 024 sztuki.",
+      "252 sztuki.",
+      "1 512 sztuk."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_tabela8.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 106,
+    "text": "W hurtowni „Budblok” sprzedaż bloczków z betonu komórkowego jest wyłącznie pełnopaletowa. Zgodnie z zapotrzebowaniem do wykonania ścian budynku potrzeba 1 245 sztuk bloczków o wymiarach 48,0×19,9×59,9 cm. Jedna paleta zawiera 24 takie bloczki. Cena palety bloczków wynosi 650,00 zł. Ile wyniosą koszty zakupu bloczków w tej hurtowni zgodnie z zapotrzebowaniem?",
+    "answers": [
+      "15 600,00 zł",
+      "33 150,00 zł",
+      "33 800,00 zł",
+      "16 250,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 107,
+    "text": "Na podstawie fragmentu instrukcji producenta oblicz, ile kilogramów zaprawy murarskiej potrzeba do wymurowania jednej ściany grubości 25 cm, długości 15 m i wysokości 3 m.",
+    "answers": [
+      "ok. 4 500 kg",
+      "ok. 1 800 kg",
+      "ok. 7 500 kg",
+      "ok. 3 000 kg"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_tabela6.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 108,
+    "text": "Zgodnie z informacjami zamieszczonymi w tabeli mieszanka kruszyw o uziarnieniu 0÷31,5 mm nie ma zastosowania do produkcji",
+    "answers": [
+      "zapraw budowlanych.",
+      "mieszanek betonowych.",
+      "elementów prefabrykowanych dla budownictwa hydrotechnicznego.",
+      "elementów prefabrykowanych dla budownictwa drogowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_tabela7.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 109,
+    "text": "Na rysunku przedstawiono rzut pomieszczenia, w którym zaplanowano wyburzenie ściany. Oblicz powierzchnię ściany przeznaczonej do rozbiórki, jeżeli wysokość pomieszczenia wynosi 2,70 m.",
+    "answers": [
+      "6,75 m2",
+      "4,59 m2",
+      "7,56 m2",
+      "6,48 m2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_rzut19.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 110,
+    "text": "Oblicz objętość ławy fundamentowej długości 10 m i przekroju poprzecznym przedstawionym na rysunku.",
+    "answers": [
+      "18 000,0 m3",
+      "18,0 m3",
+      "1 800,0 m3",
+      "1,8 m3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_przekroj6.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 111,
+    "text": "Na ilustracji przedstawiono fragment elewacji wykończonej tynkiem dekoracyjnym",
+    "answers": [
+      "zacieranym.",
+      "ciągnionym.",
+      "mozaikowym.",
+      "strukturalnym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_tynk3.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 112,
+    "text": "Na ilustracji przedstawiono fragment lica muru wykonanego z zastosowaniem wiązania",
+    "answers": [
+      "krzyżykowego.",
+      "amerykańskiego.",
+      "polskiego.",
+      "pospolitego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_mur10.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 113,
+    "text": "Ile m3 zaprawy cementowej M 5 powstanie, jeżeli zaplanowano użyć 50 kg cementu oraz piasku i wody w proporcjach zgodnych z przedstawioną recepturą?",
+    "answers": [
+      "0,130 m3",
+      "0,200 m3",
+      "0,176 m3",
+      "0,250 m3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_receptura5.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 114,
+    "text": "Oblicz koszt wyburzenia trzech ścian działowych, każda o wymiarach 4,0×2,5 m i grubości ½ cegły, jeżeli koszt wyburzenia 1 m2 takiej ściany wynosi 65,00 zł?",
+    "answers": [
+      "1 950,00 zł",
+      "650,00 zł",
+      "243,75 zł",
+      "81,25 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 115,
+    "text": "Na której ilustracji przedstawiono pacę przeznaczoną do nakładania tynków mozaikowych?",
+    "answers": [
+      "Na ilustracji 1.",
+      "Na ilustracji 3.",
+      "Na ilustracji 4.",
+      "Na ilustracji 2."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_pace4.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 116,
+    "text": "Na ilustracji przedstawiono wykonywanie poziomej hydroizolacji z użyciem",
+    "answers": [
+      "termozgrzewalnej papy asfaltowej.",
+      "samoprzylepnej membrany bitumicznej.",
+      "emulsji bitumicznej.",
+      "lepiku asfaltowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_hydroizolacja2.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 117,
+    "text": "Przedstawione na ilustracji narzędzie, stosowane podczas remontów i rozbiórki budynków, to",
+    "answers": [
+      "młot udarowy.",
+      "wkrętarka akumulatorowa.",
+      "szlifierka kątowa.",
+      "wiertarka stołowa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_narzedzie14.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 118,
+    "text": "Na podstawie fragmentu instrukcji producenta oblicz, ile pustaków ceramicznych o wymiarach 115×498×249 mm potrzeba do wymurowania 2 ścian działowych o długości 5 m, wysokości 3 m.",
+    "answers": [
+      "330 szt.",
+      "120 szt.",
+      "165 szt.",
+      "240 szt."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_tabela49.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 119,
+    "text": "Które izolacje powinny być wykonane w strefie cokołowej budynku?",
+    "answers": [
+      "Przeciwwilgociowa i akustyczna.",
+      "Paroprzepuszczalna i akustyczna.",
+      "Przeciwwilgociowa i termiczna.",
+      "Paroprzepuszczalna i termiczna."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 120,
+    "text": "Na ilustracji przedstawiono narzędzie przeznaczone do ręcznego",
+    "answers": [
+      "wyrównywania powierzchni bloczków z betonu komórkowego.",
+      "wykonywania bruzd instalacyjnych w ścianach z betonu komórkowego.",
+      "wygładzania powierzchni ścian z betonu komórkowego.",
+      "przycinania bloczków z betonu komórkowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_narzedzie13.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 121,
+    "text": "Który rodzaj uszkodzenia tynku cienkowarstwowego przedstawiono na ilustracji?",
+    "answers": [
+      "Skażenie mikrobiologiczne.",
+      "Odspojenie.",
+      "Mikropęknięcie.",
+      "Spękanie skurczowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_uszkodzenie4.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 122,
+    "text": "Ile wynosi minimalna grubość przegród międzykanałowych w murowanych ścianach z przewodami kominowymi?",
+    "answers": [
+      "2 cegły.",
+      "1 cegły.",
+      "1½ cegły.",
+      "½ cegły."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 123,
+    "text": "Przedstawiona na ilustracji prefabrykowana belka przeznaczona jest do wykonywania",
+    "answers": [
+      "stopni schodów zewnętrznych lub wewnętrznych.",
+      "nadproży drzwiowych lub okiennych.",
+      "kanałów wentylacyjnych lub spalinowych.",
+      "stropów gęstożebrowych lub belkowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_belka2.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 124,
+    "text": "Po maszynowym nałożeniu tynku gipsowego, kolejną czynnością jest wstępne wyrównanie zaprawy, czyli zaciąganie tynku łatą tynkarską typu H. Na której ilustracji przedstawiono tę czynność?",
+    "answers": [
+      "Na ilustracji 4.",
+      "Na ilustracji 1.",
+      "Na ilustracji 3.",
+      "Na ilustracji 2."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_ilustracje2.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 125,
+    "text": "Do murowania ścian fundamentowych należy stosować zaprawę, której spoiwem jest",
+    "answers": [
+      "wapno palone.",
+      "gips budowlany.",
+      "cement portlandzki.",
+      "wapno suchogaszone."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 126,
+    "text": "Na podstawie rzutu pomieszczenia określ wysokość otworu drzwiowego.",
+    "answers": [
+      "90 cm",
+      "120 cm",
+      "205 cm",
+      "160 cm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_rzut18.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 127,
+    "text": "Na którym rysunku przedstawiono oznaczenie graficzne stosowane na rysunkach budowlanych do oznaczania zaprawy?",
+    "answers": [
+      "Na rysunku 2.",
+      "Na rysunku 3.",
+      "Na rysunku 4.",
+      "Na rysunku 1."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_oznaczenia4.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 128,
+    "text": "Na podstawie danych zawartych w tabeli oblicz całkowity koszt wykonania 1 m2 tynku drobnoziarnistego wraz z gruntowaniem podłoża.",
+    "answers": [
+      "57,00 zł",
+      "51,00 zł",
+      "54,00 zł",
+      "33,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_ramka3.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 129,
+    "text": "Na ilustracji przedstawiono budynek o konstrukcji",
+    "answers": [
+      "szkieletowej żelbetowej ze ścianami murowanymi.",
+      "szkieletowej stalowej ze ścianami betonowymi.",
+      "ścianowej żelbetowej.",
+      "ścianowej murowanej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_budynek3.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 130,
+    "text": "Na podstawie informacji zawartych w tabeli określ minimalną dopuszczalną grubość tynku pospolitego trójwarstwowego na podłożu gipsowym.",
+    "answers": [
+      "16 mm",
+      "8 mm",
+      "12 mm",
+      "5 mm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_tabela50.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 131,
+    "text": "Na podstawie danych zawartych w tablicy z KNR 2-02 oblicz, ile cegieł budowlanych pełnych należy zakupić do wymurowania ściany grubości 25 cm na zaprawie cementowo-wapiennej, jeżeli ilość robót określona w przedmiarze wynosi 130,00 m2.",
+    "answers": [
+      "26 078 szt.",
+      "13 013 szt.",
+      "24 193 szt.",
+      "12 051 szt."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_tablica10.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 132,
+    "text": "Zaprawy modyfikowane żywicami akrylowymi stosowane są między innymi do",
+    "answers": [
+      "wykonywania elastycznych powłok tynkarskich.",
+      "murowania elementów narażonych na działanie kwaśnych wód gruntowych.",
+      "murowania ścian przeciwpożarowych.",
+      "wykonywania paroprzepuszczalnych powłok tynkarskich."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 133,
+    "text": "Do połączenia ceramicznych elementów paleniska należy użyć zaprawy",
+    "answers": [
+      "szamotowej.",
+      "polimerowej.",
+      "termalitowej.",
+      "krzemionkowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 134,
+    "text": "Na podstawie receptury oblicz, ile cementu potrzeba do sporządzenia jednego zarobu mieszanki betonowej w betoniarce o pojemności roboczej 200 litrów. Należy przyjąć, że objętość zarobu wynosi 80% objętości roboczej mieszalnika betoniarki.",
+    "answers": [
+      "44,8 kg",
+      "448,0 kg",
+      "22,4 kg",
+      "224,0 kg"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_receptura6.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 135,
+    "text": "Na której ilustracji przedstawiono pustak z keramzytobetonu?",
+    "answers": [
+      "Na ilustracji 2.",
+      "Na ilustracji 3.",
+      "Na ilustracji 4.",
+      "Na ilustracji 1."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_pustaki4.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 136,
+    "text": "W budynku z poddaszem nieużytkowym, w celu zmniejszenia kubatury ogrzewanej części budynku, należy ułożyć izolację termiczną",
+    "answers": [
+      "między elementami konstrukcji dachu od strony poddasza.",
+      "między elementami konstrukcji dachu od strony pokrycia.",
+      "na stropie nad ostatnią kondygnacją.",
+      "na ściankach kolanowych poddasza."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 137,
+    "text": "Przedstawiony na ilustracji sprzęt stosowany do usuwania gruzu podczas remontu budynku, to",
+    "answers": [
+      "kontener na gruz.",
+      "zsyp budowlany.",
+      "przenośnik taśmowy.",
+      "pompa do gruzu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_sprzet5.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 138,
+    "text": "Perlit to lekkie kruszywo budowlane stosowane do produkcji zapraw",
+    "answers": [
+      "szamotowych.",
+      "kwasoodpornych.",
+      "krzemionkowych.",
+      "ciepłochronnych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 139,
+    "text": "Przedstawioną na ilustracji listwę stosuje się do",
+    "answers": [
+      "ochrony naroży.",
+      "mocowania termoizolacji.",
+      "wzmocnienia ościeży.",
+      "wykonania boniowania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_listwa.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 140,
+    "text": "Na której ilustracji przedstawiono element ceramiczny stosowany do murowania zewnętrznych ścian nośnych piwnic?",
+    "answers": [
+      "Na ilustracji 4.",
+      "Na ilustracji 2.",
+      "Na ilustracji 1.",
+      "Na ilustracji 3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_elementy3.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 141,
+    "text": "Ile wyniesie koszt mieszanki betonowej potrzebnej do wykonania dwóch słupów o przekroju 60×60 cm i wysokości 3 m każdy, jeżeli norma zużycia mieszanki betonowej wynosi 1,02 m3/m3, a cena 325,00 zł/m3?",
+    "answers": [
+      "351,00 zł",
+      "358,02 zł",
+      "702,00 zł",
+      "716,04 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 142,
+    "text": "Do wykonania mieszanki betonowej o proporcji objętościowej składników 1:2:4 należy przygotować:",
+    "answers": [
+      "1 część żwiru, 2 części cementu i 4 części wody.",
+      "1 część wody, 2 części żwiru i 4 części cementu.",
+      "1 część cementu, 2 części piasku i 4 części żwiru.",
+      "1 część piasku, 2 części żwiru i 4 części cementu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 143,
+    "text": "Przedstawiony na ilustracji zestaw narzędzi stosowany jest do wykonywania ścian",
+    "answers": [
+      "z pustaków keramzytobetonowych.",
+      "z cegły klinkierowej szkliwionej.",
+      "z płyt gipsowo-kartonowych.",
+      "z bloczków z betonu komórkowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_zestaw2.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 144,
+    "text": "Na ilustracjach przedstawiono kolejne etapy murowania ściany metodą",
+    "answers": [
+      "na docisk z kielnią.",
+      "na puste spoiny.",
+      "na cienkie spoiny.",
+      "na wycisk z podcięciem kielnią."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_metoda.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 145,
+    "text": "Na rysunku przedstawiono fragment naroża ściany",
+    "answers": [
+      "trójwarstwowej zewnętrznej.",
+      "dwuwarstwowej zewnętrznej.",
+      "dwuwarstwowej wewnętrznej.",
+      "trójwarstwowej wewnętrznej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_naroze2.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 146,
+    "text": "Na podstawie fragmentu instrukcji producenta oblicz, ile palet pustaków potrzeba do wymurowania dwóch ścian wysokości 4 m, długości 8,5 m i grubości 19 cm każda.",
+    "answers": [
+      "10 palet",
+      "9 palet",
+      "13 palet",
+      "12 palet"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_tabela47.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 147,
+    "text": "Na podstawie tablicy z KNR 2-02 oblicz, ile m3 zaprawy cementowo-wapiennej potrzeba do wymurowania dwóch prostokątnych filarków o wymiarach 2×2½ cegły i wysokości 3 m.",
+    "answers": [
+      "0,138 m3",
+      "0,294 m3",
+      "0,522 m3",
+      "0,588 m3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_tablica8.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 148,
+    "text": "Oblicz koszt całkowity wykonania tynku maszynowego gipsowego po obu stronach ściany o wymiarach 7×3 m, jeżeli koszt jednostkowy robocizny wynosi 19,00 zł/m2, a koszt materiałów 7,00 zł/m2.",
+    "answers": [
+      "546,00 zł",
+      "945,00 zł",
+      "1 386,00 zł",
+      "1 092,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 149,
+    "text": "Na której ilustracji przedstawiono chwytak do przenoszenia cegieł?",
+    "answers": [
+      "Na ilustracji 4.",
+      "Na ilustracji 1.",
+      "Na ilustracji 3.",
+      "Na ilustracji 2."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_chwytaki.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 150,
+    "text": "Przedstawione na ilustracji prefabrykowane belki przeznaczone są do wykonywania",
+    "answers": [
+      "nadproży.",
+      "żeber rozdzielczych.",
+      "podciągów.",
+      "belek stropowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_belki.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 151,
+    "text": "Warstwę termoizolacyjną ściany, której fragment przekroju pionowego przedstawiono na rysunku, oznaczono cyfrą",
+    "answers": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_sciana21.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 152,
+    "text": "Do murowania konstrukcji elementów budynku przenoszących duże obciążenie, takich jak nadproża, słupy, filary, należy stosować zaprawy",
+    "answers": [
+      "cementowo-wapienne.",
+      "gipsowo-wapienne.",
+      "wapienne.",
+      "cementowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 153,
+    "text": "Spoiwem mineralnym hydraulicznym jest",
+    "answers": [
+      "cement hutniczy.",
+      "gips hydrauliczny.",
+      "wapno hydratyzowane.",
+      "wapno dolomitowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 154,
+    "text": "Na podstawie danych zawartych w tablicy z KNR 2-02, oblicz wynagrodzenie tynkarza za wykonywanie tynku zwykłego kategorii III na ścianach o powierzchni 200 m2, jeżeli stawka godzinowa pracy tynkarza wynosi 25,00 zł.",
+    "answers": [
+      "2 690,00 zł",
+      "2 915,00 zł",
+      "2 475,00 zł",
+      "2 295,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_tablica9.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 155,
+    "text": "Oblicz powierzchnię ściany przedstawionej na rysunku, jeżeli zgodnie z zasadami przedmiarowania od powierzchni ścian należy odjąć powierzchnię otworów większych od 0,5 m2.",
+    "answers": [
+      "18,91 m2",
+      "22,40 m2",
+      "22,04 m2",
+      "18,55 m2"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_sciana22.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 156,
+    "text": "Elementy stalowe, które mają być podłożem pod tynk, należy na całej powierzchni",
+    "answers": [
+      "powlec mleczkiem cementowym.",
+      "owinąć siatką stalową ocynkowaną.",
+      "obłożyć matami trzcinowymi.",
+      "pokryć listewkami drewnianymi."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 157,
+    "text": "Na ilustracji przedstawiono fragment powierzchni tynku",
+    "answers": [
+      "strukturalnego.",
+      "ciągnionego.",
+      "zacieranego.",
+      "mozaikowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_tynk2.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 158,
+    "text": "Zaprawę tynkarską produkowaną fabrycznie, oznaczoną symbolem R stosuje się do wykonywania tynków",
+    "answers": [
+      "izolujących cieplnie.",
+      "renowacyjnych.",
+      "szlachetnych.",
+      "jednowarstwowych zewnętrznych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 159,
+    "text": "Podczas wykonywania tynków gipsowych kolejną czynnością po wstępnym wyrównaniu zaprawy łatą tynkarską typu H jest „piórowanie”, czyli wstępne gładzenie powierzchni tynku. Na której ilustracji przedstawiono tę czynność?",
+    "answers": [
+      "Na ilustracji 1.",
+      "Na ilustracji 2.",
+      "Na ilustracji 4.",
+      "Na ilustracji 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_ilustracje.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 160,
+    "text": "Izolację przeciwwilgociową pionową typu lekkiego na ścianach fundamentowych należy wykonać",
+    "answers": [
+      "z dwóch warstw papy termozgrzewalnej.",
+      "z jednej warstwy folii kubełkowej.",
+      "z jednej warstwy emulsji asfaltowej.",
+      "z dwóch warstw lepiku asfaltowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 161,
+    "text": "Na podstawie fragmentu instrukcji producenta oblicz, ile 25-kilogramowych worków suchej zaprawy murarskiej potrzeba do wymurowania trzech ścian o długości 5 m, wysokości 3 m i grubości 25 cm każda.",
+    "answers": [
+      "405 worków",
+      "540 worków",
+      "270 worków",
+      "135 worków"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_tabela46.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 162,
+    "text": "Na rysunku przedstawiono fragment stropu",
+    "answers": [
+      "Teriva.",
+      "Fert.",
+      "Akermana.",
+      "DZ."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_strop4.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 163,
+    "text": "Oblicz, ile cegieł dziurawek należy przygotować do wykonania dwóch ścianek działowych o wymiarach 2,4×6,0 m i grubości 25 cm każda, jeżeli norma zużycia tych cegieł wynosi 93,40 szt./m2.",
+    "answers": [
+      "1345 sztuk",
+      "1401 sztuk",
+      "2801 sztuk",
+      "2690 sztuk"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 164,
+    "text": "Który z tynków szlachetnych ma twardą, gładką i lśniącą powierzchnię imitującą polerowany kamień?",
+    "answers": [
+      "Stiuk.",
+      "Sztablatura.",
+      "Sgraffito.",
+      "Sztukateria."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 165,
+    "text": "Na podstawie danych zawartych w tabeli, określ dopuszczalną odchyłkę od pionu muru spoinowanego, mierzoną na całej wysokości ściany budynku dwukondygnacyjnego.",
+    "answers": [
+      "6 mm",
+      "20 mm",
+      "12 mm",
+      "10 mm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_tabela48.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 166,
+    "text": "Oblicz koszt wymiany pięciu okien o wymiarach 120×150 cm każde, jeżeli jednostkowy koszt tej usługi wynosi 65,00 zł/m.",
+    "answers": [
+      "1 560,00 zł",
+      "1 404,00 zł",
+      "1 950,00 zł",
+      "1 755,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 167,
+    "text": "Którym preparatem należy pokryć powierzchnię osypującego się i pylącego tynku w celu jego wzmocnienia?",
+    "answers": [
+      "Barwiącym.",
+      "Antyadhezyjnym.",
+      "Penetrującym.",
+      "Gruntującym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 168,
+    "text": "Podczas wzmacniania i naprawy spękanego gzymsu nadokiennego, usytuowanego na wysokości 5 m od poziomu terenu, należy zastosować rusztowanie",
+    "answers": [
+      "kozłowe.",
+      "na wysuwnicach.",
+      "na stojakach teleskopowych.",
+      "stolikowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 169,
+    "text": "Na którym rysunku przedstawiono łatę murarską z dwiema libellami?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_rysunki6.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 170,
+    "text": "Na podstawie rzutu pomieszczenia określ szerokość ław podokiennych.",
+    "answers": [
+      "205 cm",
+      "419 cm",
+      "120 cm",
+      "553 cm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_rzut15.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 171,
+    "text": "Ile 25-kilogramowych worków zaprawy tynkarskiej należy zakupić do otynkowania 10 cokołów o wysokości 30 cm i długości 700 cm każdy, jeżeli norma zużycia zaprawy wynosi 3 kg/m2?",
+    "answers": [
+      "3 worki.",
+      "4 worki.",
+      "2 worki.",
+      "1 worek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 172,
+    "text": "Ile wyniesie koszt wymiany stolarki okiennej i drzwiowej w pomieszczeniu, którego rzut przedstawiono na rysunku, jeżeli koszt wymiany jednego okna wynosi 120,00 zł/m2, a wymiany drzwi 150,00 zł/m2?",
+    "answers": [
+      "540,00 zł",
+      "270,00 zł",
+      "283,50 zł",
+      "823,50 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_rzut17.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 173,
+    "text": "Ile wyniesie koszt robocizny związanej z wykonaniem tynków gipsowych na ścianach o łącznej powierzchni 78 m2, jeżeli jednostkowy koszt położenia tynku gipsowego wynosi 25,00 zł/ m2, a przygotowania podłoża 11,00 zł/m2?",
+    "answers": [
+      "2 808,00 zł",
+      "1 950,00 zł",
+      "4 758,00 zł",
+      "3 666,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 174,
+    "text": "Na podstawie danych zawartych w tablicy z KNR oblicz, ile m3 zaprawy cementowo-wapiennej M2 potrzeba do wykonania tynku kategorii III na ścianach o łącznej powierzchni 250 m2 i podciągach o łącznej powierzchni 70 m2.",
+    "answers": [
+      "6,592 m3",
+      "5,536 m3",
+      "5,150 m3",
+      "6,361 m3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_tabela45.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 175,
+    "text": "Na podstawie danych zawartych w tablicy z KNR oblicz, ile m3 zaprawy potrzeba do wykonania jednowarstwowej ściany o wymiarach 10 × 4 m z pustaków ceramicznych grubości 39 cm.",
+    "answers": [
+      "1,326 m3",
+      "3,400 m3",
+      "2,400 m3",
+      "3,315 m3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_tabela42.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 176,
+    "text": "Perlit i keramzyt są składnikami zapraw",
+    "answers": [
+      "ogniotrwałych.",
+      "żaroodpornych.",
+      "ciepłochronnych.",
+      "wodoszczelnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 177,
+    "text": "Na rysunku przedstawiono podstawowy element rusztowania",
+    "answers": [
+      "kozłowego.",
+      "wspornikowego.",
+      "stojakowego.",
+      "kolumnowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_element8.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 178,
+    "text": "Na rysunku przedstawiono widok stropu",
+    "answers": [
+      "Teriva.",
+      "Kleina.",
+      "Porotherm.",
+      "Akermana."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_strop8.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 179,
+    "text": "Hydroizolację pionową ścian fundamentowych, usytuowanych w gruntach suchych, należy wykonać",
+    "answers": [
+      "z wełny skalnej.",
+      "z polistyrenu ekspandowanego.",
+      "z lepiku asfaltowego.",
+      "z papy perforowanej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 180,
+    "text": "Ściana, której lico przedstawiono na rysunku, wykonana jest z zastosowaniem wiązania",
+    "answers": [
+      "główkowego.",
+      "kowadełkowego.",
+      "krzyżykowego.",
+      "wozówkowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_sciana18.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 181,
+    "text": "W pomieszczeniu wysokości 3,0 m, którego rzut przedstawiono na rysunku będą otynkowane wraz z ościeżami obie ściany z oknami. Zgodnie z zamieszczonymi zasadami przedmiarowania, oblicz powierzchnię ścian przeznaczonych do otynkowania, jeżeli ościeża otworów będą tynkowane. Zasady obliczania powierzchni ścian otynkowanych Od powierzchni ściany odlicza się powierzchnie otworów powyżej 1 m2, jeżeli nie będą tynkowane ościeża otworów. Od powierzchni ściany nie odlicza się powierzchni otworów do 3 m2, jeżeli tynkowane będą ościeża otworu.",
+    "answers": [
+      "21,75 m2",
+      "17,25 m2",
+      "24,00 m2",
+      "19,50 m2"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_rzut16.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 182,
+    "text": "Oblicz, liczbę bloczków silikatowych potrzebnych do wykonania dwóch ścian o wymiarach 8,0 × 2,7 m i grubości 24 cm, jeśli norma zużycia tych bloczków wynosi 15 sztuk/1 m2.",
+    "answers": [
+      "648 szt.",
+      "288 szt.",
+      "324 szt.",
+      "576 szt."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 183,
+    "text": "Rozbiórkę stropów na belkach stalowych należy rozpocząć od",
+    "answers": [
+      "demontażu belek stalowych.",
+      "zbicia tynków z sufitu.",
+      "usunięcia wypełnienia stropu.",
+      "usunięcia cegieł z przestrzeni miedzy belkami."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 184,
+    "text": "Które narzędzie przeznaczone jest do wyrównania powierzchni tynków gipsowych po lekkim związaniu zaprawy?",
+    "answers": [
+      "Paca stalowa.",
+      "Paca styropianowa.",
+      "Łata trapezowa.",
+      "Łata typu H."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 185,
+    "text": "Tynki otrzymywane przez wyłuskanie ziaren kruszywa za pomocą specjalnej pacy lub deszczułki z nabitymi gwoździami to tynki",
+    "answers": [
+      "cyklinowane.",
+      "zmywane.",
+      "nakrapiane.",
+      "gładzone."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 186,
+    "text": "Ile m3 zaprawy cementowej M10 powstanie, jeżeli użyto 50 kg cementu oraz piasku i wody w proporcjach zgodnych z zamieszczoną recepturą?",
+    "answers": [
+      "0,130 m3",
+      "0,176 m3",
+      "0,208 m3",
+      "0,200 m3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_tabela41.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 187,
+    "text": "Przedstawione na rysunku narzędzie, stosowane podczas remontów i rozbiórki budynków, to",
+    "answers": [
+      "szlifierka oscylacyjna.",
+      "wyrzynarka.",
+      "szlifierka kątowa.",
+      "pilarka."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_narzedzie11.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 188,
+    "text": "Który etap wykonywania tynku gipsowego przedstawiono na fotografii?",
+    "answers": [
+      "Rozprowadzanie zaprawy tynkarskiej.",
+      "Równanie powierzchni tynku.",
+      "Nakładanie zaprawy tynkarskiej.",
+      "Gąbkowanie powierzchni tynku."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_fotografia7.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 189,
+    "text": "Przyczyną uszkodzenia tynku cienkowarstwowego przedstawionego na fotografii najprawdopodobniej jest",
+    "answers": [
+      "nieodpowiednie przygotowanie zaprawy.",
+      "nałożenie zbyt grubej warstwy zaprawy.",
+      "niewykonanie warstwy pośredniej zwiększającej przyczepność.",
+      "nieodpowiednie przygotowanie zaprawy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_fotografia8.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 190,
+    "text": "Oblicz objętość 2 słupów żelbetowych o wysokości 3,5 m i przekroju przedstawionym na rysunku, niezbędną do wykonania zapotrzebowania na mieszankę betonową.",
+    "answers": [
+      "0,192 m3",
+      "0,336 msup>3",
+      "0,672 msup>3",
+      "0,840 msup>3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_przekroj5.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 191,
+    "text": "Przedstawione na rysunku narzędzie stosowane jest między innymi do",
+    "answers": [
+      "skuwania tynków.",
+      "wyciągania ze ścian głęboko wbitych gwoździ.",
+      "spoinowania murów.",
+      "wycinania otworów w ściankach działowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_narzedzie12.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 192,
+    "text": "Do ocieplania przedstawionej na ilustracji ściany budynku zastosowano płyty",
+    "answers": [
+      "z polistyrenu grafitowego.",
+      "z pianki poliuretanowej.",
+      "z pianki rezolowej.",
+      "z wełny mineralnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_sciana19.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 193,
+    "text": "Narzędzie przedstawione na rysunku przeznaczone jest do",
+    "answers": [
+      "wyrównywaniu zaprawy na ścianach z pustaków ceramicznych.",
+      "usuwania łuszczącej się zaprawy z bloczków betonowych.",
+      "wykonywania bruzd w ścianach z cegieł silikatowych.",
+      "rozprowadzania zaprawy na bloczkach gazobetonowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_narzedzie10.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 194,
+    "text": "Kruszywem ciężkim, stosowanym do wytwarzania betonów osłonowych, jest",
+    "answers": [
+      "glinoporyt.",
+      "żużel wielkopiecowy.",
+      "kruszywo granitowe.",
+      "keramzyt."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 195,
+    "text": "Oblicz koszt wyburzenia trzech ścian działowych o wymiarach 4,0 × 3,5 m i grubości 12 cm każda, jeżeli koszt wyburzenia 1 m2 takiej ściany wynosi 65,00 zł?",
+    "answers": [
+      "910,00 zł",
+      "327,60 zł",
+      "2 730,00 zł",
+      "109,20 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 196,
+    "text": "Na podstawie fragmentu instrukcji producenta oblicz, ile pustaków ceramicznych o wymiarach 115 × 498 × 249 mm potrzeba do wymurowania 3 ścian działowych o długości 5 m, wysokości 3 m i grubości 11,5 cm każda.",
+    "answers": [
+      "360 szt.",
+      "165 szt.",
+      "120 szt.",
+      "495 szt."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_tabela43.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 197,
+    "text": "Przedstawiona na rysunku prefabrykowana belka przeznaczona jest do wykonywania",
+    "answers": [
+      "kanałów wentylacyjnych lub spalinowych.",
+      "stropów gęstożebrowych lub belkowych.",
+      "stopni schodów zewnętrznych lub wewnętrznych.",
+      "nadproży drzwiowych lub okiennych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_belka2.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 198,
+    "text": "Wykonując ocieplenie ściany budynku metodą lekką mokrą, bezpośrednio po zamocowaniu i wyrównaniu płyt styropianowych należy",
+    "answers": [
+      "wtopić siatkę zbrojącą.",
+      "zamontować listwę startową.",
+      "nałożyć tynk cienkowarstwowy.",
+      "nanieść preparat gruntujący."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 199,
+    "text": "Zgodnie z zapotrzebowaniem do wykonania ścian fundamentowych potrzeba 2 856 sztuk bloczków betonowych o wymiarach 380 × 240 × 120 mm. Cena palety takich bloczków wynosi 216,00 zł. Ile wyniosą koszty zakupu, jeżeli na palecie mieszczą się 72 bloczki, a sprzedaż jest wyłącznie pełnopaletowa?",
+    "answers": [
+      "8 784,00 zł",
+      "8 424,00 zł",
+      "8 640,00 zł",
+      "8 568,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 200,
+    "text": "Na rysunku przedstawiono dwie kolejne warstwy cegieł muru z zastosowaniem wiązania",
+    "answers": [
+      "śląskiego.",
+      "polskiego.",
+      "holenderskiego.",
+      "weneckiego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_mur11.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 201,
+    "text": "Z danych zawartych w tabeli wynika, że minimalna dopuszczalna grubość tynku jednowarstwowego wewnętrznego z suchej zaprawy wynosi",
+    "answers": [
+      "5 mm",
+      "15 mm",
+      "3 mm",
+      "10 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_tabela44.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 202,
+    "text": "Który rodzaj izolacji ściany fundamentowej przedstawiono na ilustracji?",
+    "answers": [
+      "Poziomą z papy asfaltowej.",
+      "Pionową z membrany samoprzylepnej.",
+      "Pionową z lepiku bitumicznego.",
+      "Poziomą z zaprawy wodoszczelnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_izolacja3.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 203,
+    "text": "Który spośród wymienionych rodzajów tynków charakteryzuje się wysoką wytrzymałością i wodoodpornością oraz niską paroprzepuszczalnością?",
+    "answers": [
+      "Wapienny.",
+      "Cementowo-wapienny.",
+      "Cementowy.",
+      "Wapienno-gipsowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 204,
+    "text": "Zgodnie z instrukcją producenta zużycie gipsowej zaprawy tynkarskiej wynosi 6 kg/m2/10 mm. Oblicz, ile 30-kilogramowych worków zaprawy należy kupić, aby wykonać tynk grubości 20 mm na ścianach o łącznej powierzchni 200 m2.",
+    "answers": [
+      "80 worków.",
+      "20 worków.",
+      "10 worków.",
+      "40 worków."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 205,
+    "text": "Oblicz objętość 2 nadprożowych belek żelbetowych długości 1,4 m każda, których przekrój poprzeczny przedstawiono na rysunku.",
+    "answers": [
+      "1612,800 m3",
+      "806,400 m3",
+      "0,161 m3",
+      "0,081 m3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_belka.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 206,
+    "text": "Na fotografii przedstawiono urządzenie przeznaczone do",
+    "answers": [
+      "transportu mieszanki betonowej.",
+      "zagęszczania mieszanki betonowej.",
+      "dozowania składników zaprawy budowlanej.",
+      "mieszania składników zaprawy budowlanej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_urzadzenie.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 207,
+    "text": "Na rysunku przedstawiono fragment lica muru grubości jednej cegły, wykonanego z zastosowaniem wiązania",
+    "answers": [
+      "kowadełkowego.",
+      "weneckiego.",
+      "gotyckiego.",
+      "amerykańskiego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_mur.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 208,
+    "text": "Na fotografii przedstawiono materiał izolacyjny przeznaczony do wykonywania izolacji",
+    "answers": [
+      "przeciwwodnej i przeciwwilgociowej.",
+      "termicznej i akustycznej.",
+      "przeciwwilgociowej i paroprzepuszczalnej.",
+      "akustycznej i przeciwwodnej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_material.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 209,
+    "text": "Na podstawie fragmentu rzutu pomieszczenia oblicz liczbę cegieł potrzebnych do wymurowania projektowanej łamanej ścianki działowej wysokości 2,8 m, jeżeli norma zużycia cegieł wynosi 50 szt./m2.",
+    "answers": [
+      "616 sztuk.",
+      "560 sztuk.",
+      "650 sztuk.",
+      "599 sztuk."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_rzut.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 210,
+    "text": "Na podstawie danych zawartych w tablicy z KNR oblicz ile cegieł budowlanych pełnych należy zakupić do wymurowania ściany grubości 25 cm na zaprawie cementowej, jeżeli ilość robót określona w przedmiarze wynosi 126,00 m2.",
+    "answers": [
+      "11 681 sztuk.",
+      "12 613 sztuk.",
+      "17 628 sztuk.",
+      "18 938 sztuk."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_tabela4.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 211,
+    "text": "Oblicz koszt całkowity wykonania tynku mozaikowego po obu stronach ściany o wymiarach 8×4 m, jeżeli koszt jednostkowy robocizny wynosi 21,00 zł/m2, a koszt materiałów 14,00 zł/m2.",
+    "answers": [
+      "2 420,00 zł",
+      "1 792,00 zł",
+      "1 120,00 zł",
+      "2 240,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 212,
+    "text": "Na podstawie fragmentu instrukcji producenta oblicz, ile bloczków gazobetonowych o wymiarach 240×240×590 mm potrzeba do wymurowania trzech ścian grubości 24 cm, długości 12 m i wysokości 4,5 m każda.",
+    "answers": [
+      "2268 sztuk.",
+      "756 sztuk.",
+      "378 sztuk.",
+      "1134 sztuk."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_tabela3.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 213,
+    "text": "Na fotografii przedstawiono narzędzie przeznaczone do ręcznego",
+    "answers": [
+      "wyrównywania powierzchni bloczków z betonu komórkowego.",
+      "wykonywania bruzd instalacyjnych w ścianie z betonu komórkowego.",
+      "wygładzania powierzchni ściany z betonu komórkowego.",
+      "przycinania bloczków z betonu komórkowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_narzedzie.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 214,
+    "text": "Wskaż oznaczenie graficzne zaprawy stosowane na rysunkach budowlanych.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_oznaczenia.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 215,
+    "text": "Oblicz wynagrodzenie tynkarza za wykonanie tynku zwykłego po obu stronach ściany o wymiarach 5×3 m, jeżeli stawka godzinowa pracy tynkarza wynosi 15,00 zł, a norma pracy na wykonanie tego tynku wynosi 1,2 r-g/m2.",
+    "answers": [
+      "450,00 zł",
+      "225,00 zł",
+      "270,00 zł",
+      "540,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 216,
+    "text": "Na podstawie tabeli oblicz ilości cementu portlandzkiego i piasku, potrzebne do wykonania 1,5 m3 zaprawy cementowo-wapiennej M2.",
+    "answers": [
+      "145,5 kg cementu, 1,410 m3 piasku",
+      "186,0 kg cementu, 1,425 m3 piasku",
+      "107,0 kg cementu, 1,425 m3 piasku",
+      "160,5 kg cementu, 1,410 m3 piasku"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_tabela.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 217,
+    "text": "Na rysunku przedstawiono rusztowanie",
+    "answers": [
+      "wiszące – koszowe.",
+      "drabinowe.",
+      "na kozłach teleskopowych.",
+      "ramowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_rusztowanie.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 218,
+    "text": "Na podstawie fragmentu instrukcji producenta oblicz, ile kilogramów zaprawy murarskiej potrzeba do wymurowania jednej ściany grubości 25 cm, długości 12 m i wysokości 4 m.",
+    "answers": [
+      "ok. 1200 kg",
+      "ok.   400 kg",
+      "ok. 4800 kg",
+      "ok. 1920 kg"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_tabela2.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 219,
+    "text": "Na rysunku przedstawiono wyrób silikatowy drążony przeznaczony do budowy",
+    "answers": [
+      "ścian fundamentowych.",
+      "ścian osłonowych i działowych.",
+      "przewodów kominowych.",
+      "przewodów wentylacyjnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_wyrob.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 220,
+    "text": "Na fotografii przedstawiono sposób rozmieszczenia i podparcia elementów stropu",
+    "answers": [
+      "Porotherm.",
+      "Ceram.",
+      "Teriva.",
+      "Fert."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_strop.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 221,
+    "text": "Naprawa uszkodzenia ściany przedstawionej na fotografii powinna polegać na",
+    "answers": [
+      "wzmocnieniu muru prętami stalowymi.",
+      "uzupełnieniu ubytku muru mieszanką betonową.",
+      "wypełnieniu ubytków muru zaprawą cementową.",
+      "przemurowaniu uszkodzonego fragmentu muru."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_sciana2.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 222,
+    "text": "Ile wyniesie koszt mieszanki betonowej potrzebnej do wykonania wieńca o przekroju 25×30 cm w ścianach budynku, którego rzut przedstawiono na rysunku, jeżeli norma zużycia mieszanki betonowej wynosi 1,02 m3/m3, a cena mieszanki wynosi 250,00 zł/m3?",
+    "answers": [
+      "543,75 zł",
+      "554,63 zł",
+      "535,50 zł",
+      "525,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_wieniec.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 223,
+    "text": "W hurtowni „Bud-kom” sprzedaż bloczków z betonu komórkowego jest wyłącznie pełnopaletowa. Zgodnie z zapotrzebowaniem do wykonania ścian budynku potrzeba 375 sztuk bloczków o wymiarach 480×199×599 mm. Na jednej palecie mieszczą się 24 bloczki o tych wymiarach. Cena tych bloczków wynosi 631,00 zł/paletę. Ile wyniosą koszty zakupu bloczków w tej hurtowni zgodnie z zapotrzebowaniem?",
+    "answers": [
+      "10 125,00 zł",
+      "9 750,00 zł",
+      "9 465,00 zł",
+      "10 096,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 224,
+    "text": "Który etap naprawy spękanego tynku przedstawiono na fotografii?",
+    "answers": [
+      "Poszerzanie rysy.",
+      "Gruntowanie obrzeża rysy.",
+      "Oczyszczanie obrzeża rysy.",
+      "Nakładanie zaprawy szpachlowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/bd14_tynk2.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 225,
+    "text": "Do wykonania murowanych ścianek działowych o grubości do 12 cm i o jak najmniejszym ciężarze objętościowym należy użyć cegły",
+    "answers": [
+      "silikatowej pełnej.",
+      "ceramicznej pełnej.",
+      "dziurawki.",
+      "klinkierowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 226,
+    "text": "Na fotografii przedstawiono elementy stropu",
+    "answers": [
+      "Porotherm",
+      "Akermana",
+      "Teriva",
+      "Fert"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_strop6.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 227,
+    "text": "Przedstawione na rysunku narzędzie przeznaczone jest do",
+    "answers": [
+      "odmierzania i przenoszenia wody podczas rozrabiania zaprawy.",
+      "wyrównywania nierówności i wygładzania powierzchni muru.",
+      "równomiernego rozprowadzania zaprawy i wykonywania cienkich spoin.",
+      "odmierzania i przenoszenia suchej mieszanki podczas rozrabiania zaprawy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_narzedzie8.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 228,
+    "text": "Wskaż prawidłową kolejność technologiczną prac przy pogłębianiu murowanych ław fundamentowych.",
+    "answers": [
+      "Zabezpieczenie wykopu deskowaniem → podbicie fundamentu → odciążenie ław.",
+      "Odciążenie ław → podbicie fundamentu → zabezpieczenie wykopu deskowaniem.",
+      "Zabezpieczenie wykopu deskowaniem → odciążenie ław → podbicie fundamentu.",
+      "Podbicie fundamentu → odciążenie ław → zabezpieczenie wykopu deskowaniem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 229,
+    "text": "Który z elementów architektonicznych budynku przedstawiono na fotografii?",
+    "answers": [
+      "Ryzalit.",
+      "Attykę.",
+      "Wykusz.",
+      "Cokół."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_fotografia.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 230,
+    "text": "Na rysunku przedstawiono zwymiarowany widok ściany przeznaczonej do otynkowania. Zgodnie z zamieszczonymi zasadami przedmiarowania, oblicz powierzchnię ściany przeznaczoną do otynkowania, jeżeli ościeża otworów nie będą tynkowane.",
+    "answers": [
+      "17,55 m2",
+      "13,06 m2",
+      "14,06 m2",
+      "15,50 m2"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_sciana16.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 231,
+    "text": "Rusztowanie stosowane wewnątrz pomieszczeń, składające się dwóch podpór i pomostu roboczego, to rusztowanie",
+    "answers": [
+      "stojakowe.",
+      "kozłowe.",
+      "modułowe.",
+      "ramowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 232,
+    "text": "Który rodzaj hydroizolacji należy zastosować w celu zabezpieczenia ściany fundamentowej przed działaniem wody gruntowej?",
+    "answers": [
+      "Poziomą typu lekkiego.",
+      "Pionową typu lekkiego.",
+      "Pionową typu średniego lub ciężkiego.",
+      "Poziomą typu średniego lub ciężkiego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 233,
+    "text": "Do zacierania tynków cienkowarstwowych należy użyć pacy",
+    "answers": [
+      "stalowej gładkiej.",
+      "z tworzywa sztucznego.",
+      "z gąbką miękką.",
+      "nierdzewnej zębatej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 234,
+    "text": "Warstwę konstrukcyjną ściany, której fragment przekroju przedstawiono na rysunku, wykonano z betonu",
+    "answers": [
+      "lekkiego niezbrojonego.",
+      "zbrojonego.",
+      "niezbrojonego.",
+      "lekkiego zbrojonego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_sciana15.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 235,
+    "text": "W jaki sposób należy przygotować kształtowniki stalowe w stropie murarskim do otynkowania tynkiem zawierającym gips?",
+    "answers": [
+      "Owinąć kształtowniki siatką stalową ocynkowaną i zagruntować je zaczynem wapiennym.",
+      "Usunąć rdzę z kształtowników i wyszlifować ich powierzchnię.",
+      "Usunąć rdzę z kształtowników i porysować ich powierzchnię.",
+      "Zabezpieczyć kształtowniki przed korozją i owinąć je siatką stalową ocynkowaną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 236,
+    "text": "Oblicz koszt wycięcia w ścianie z cegły 2 otworów okiennych o wymiarach 120 × 120 cm każdy, jeżeli koszt wycięcia otworu w takiej ścianie wynosi 165,00 zł/m.",
+    "answers": [
+      "475,20 zł",
+      "1 584,00 zł",
+      "237,60 zł",
+      "792,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 237,
+    "text": "Jeżeli nakład robocizny na wykonanie 100 m2 tynku w ramach prac remontowych wynosi 35 r-g, to nakłady na otynkowanie 60 m2 ścian grubości 25 cm wyniosą",
+    "answers": [
+      "35,0 r-g",
+      "21,0 r-g",
+      "15,0 r-g",
+      "25,0 r-g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 238,
+    "text": "Oblicz, ile mieszanki betonowej potrzeba do wykonania 3 ław fundamentowych długości 7 m każda i przekroju przedstawionym na rysunku.",
+    "answers": [
+      "4,20 m3",
+      "0,54 m3",
+      "1,26 m3",
+      "3,78 m3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_przekroj4.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 239,
+    "text": "Na którym rysunku przedstawiono pustak szalunkowy?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_pustaki2.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 240,
+    "text": "Które kruszywa stosowane są do wykonania zaprawy murarskiej ciepłochronnej?",
+    "answers": [
+      "Piasek i pospółka.",
+      "Perlit i keramzyt.",
+      "Perlit i żwir.",
+      "Piasek i keramzyt."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 241,
+    "text": "Tynk kategorii III jest tynkiem",
+    "answers": [
+      "pospolitym o powierzchni równej i gładkiej.",
+      "pospolitym o powierzchni równej i szorstkiej.",
+      "doborowym o powierzchni równej i gładkiej.",
+      "doborowym o powierzchni równej i szorstkiej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 242,
+    "text": "Zgodnie z instrukcją producenta zużycie zaprawy tynkarskiej wynosi 1,75 kg/m2/1 mm tynku. Ile 25-kilogramowych worków zaprawy należy przygotować do otynkowania 3 powierzchni ścian o wymiarach 5 × 2,8 m każda, jeżeli grubość tynku ma wynosić 1,5 cm?",
+    "answers": [
+      "30 worków.",
+      "45 worków.",
+      "10 worków.",
+      "15 worków."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 243,
+    "text": "Na którym rysunku przedstawiono kielnię murarską?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_rysunki5.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 244,
+    "text": "Na rysunku fragmentu muru cyfrą 1 oznaczono spoinę",
+    "answers": [
+      "podłużną pionową.",
+      "wsporną.",
+      "poziomą.",
+      "poprzeczną pionową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_mur7.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 245,
+    "text": "Na którym rysunku przedstawiono pacę przeznaczoną do nakładania tynków mozaikowych?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_pace2.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 246,
+    "text": "Naprawa pęknięć tynku zwykłego o głębokości większej niż 0,5 cm, polega na poszerzeniu rysy i zwilżeniu wodą, a następnie",
+    "answers": [
+      "zatarciu gęstoplastyczną zaprawą cementową.",
+      "wypełnieniu dwiema warstwami zaczynu gipsowego.",
+      "zatarciu gęstoplastyczną zaprawą gipsową.",
+      "wypełnieniu dwiema warstwami zaprawy, z której wykonano tynk."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 247,
+    "text": "Zgodnie z zasadami przedmiarowania robót murarskich ilość ścianek działowych oblicza się w metrach kwadratowych ich powierzchni; od powierzchni ścianek należy odjąć powierzchnie otworów drzwiowych. Oblicz ilość ścianek działowych w pomieszczeniu przedstawionym na rysunku, jeżeli jego wysokość wynosi 2,85 m.",
+    "answers": [
+      "42,50 m2",
+      "20,53 m2",
+      "22,37 m2",
+      "40,25 m2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_pomieszczenie2.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 248,
+    "text": "Oblicz koszt mieszanki betonowej potrzebnej do wykonania 4 prostokątnych stóp fundamentowych o wymiarach 1,2 × 1,2 × 0,6 m każda, jeżeli cena mieszanki wynosi 290,00 zł/m3.",
+    "answers": [
+      "835,20 zł",
+      "1 670,40 zł",
+      "250,56 zł",
+      "1 002,24 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 249,
+    "text": "Do łączenia ceramicznych elementów palenisk należy użyć zaprawy",
+    "answers": [
+      "krzemionkowej.",
+      "szamotowej.",
+      "termalitowej.",
+      "polimerowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 250,
+    "text": "Oblicz, ile 25-kilogramowych opakowań tynku silikonowego należy zakupić do otynkowania powierzchni zewnętrznych 2 ścian osłonowych długości 15 m i wysokości 10 m każda, jeżeli zużycie wynosi 3,4 kg/m2.",
+    "answers": [
+      "85 opakowań.",
+      "51 opakowań.",
+      "21 opakowań.",
+      "41 opakowań."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 251,
+    "text": "Na rysunku przedstawiono schemat ściany",
+    "answers": [
+      "szczelinowej z ceramiki poryzowanej.",
+      "jednowarstwowej z ceramiki poryzowanej.",
+      "trójwarstwowej z cegły pełnej.",
+      "dwuwarstwowej z cegły pełnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_sciana14.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 252,
+    "text": "Po maszynowym nałożeniu tynku gipsowego na przygotowaną powierzchnię ściany, kolejną czynnością jest wstępne wyrównanie zaprawy czyli zaciąganie tynku łatą tynkarską typu H. Wskaż fotografię, na której przedstawiono tę czynność.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_fotografie2.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 253,
+    "text": "Metoda zachowania ciepła, stosowana podczas murowania ścian w warunkach zimowych, polega na",
+    "answers": [
+      "stosowaniu prowizorycznych konstrukcji chroniących wznoszony mur przed warunkami atmosferycznymi tzw. cieplaków, ogrzewanych za pomocą nagrzewnic.",
+      "wbiciu w spoiny krótkich prętów stalowych (elektrod), podłączeniu przewodami do źródła prądu elektrycznego, bez stosowania dodatkowych zabezpieczeń.",
+      "zastosowaniu optymalizacji  składników zaprawy oraz nadmuchiwaniu  ciepłego powietrza za pomocą nagrzewnic.",
+      "podgrzewaniu składników zaprawy, przechowywaniu cegieł w ogrzewanym pomieszczeniu i okrywaniu matami wymurowanego fragmentu muru."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 254,
+    "text": "Oblicz, ile zaprawy cementowej należy przygotować do wykonania 2 ścian fundamentowych o wymiarach 10 × 2,8 × 0,25 m każda, jeżeli zgodnie z KNR zużycie zaprawy wynosi 0,180 m3/m3 ściany.",
+    "answers": [
+      "2,520 m3",
+      "0,180 m3",
+      "5,040 m3",
+      "1,260 m3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 255,
+    "text": "Na rysunku przedstawiono dwie kolejne warstwy cegieł w narożniku prostym muru wykonanego w wiązaniu",
+    "answers": [
+      "krzyżykowym.",
+      "polskim.",
+      "pospolitym.",
+      "gotyckim."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_mur8.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 256,
+    "text": "Który zestaw narzędzi należy zastosować do murowania ściany z bloczków z betonu komórkowego?",
+    "answers": [
+      "Kielnia, pion, młotek murarski.",
+      "Kielnia, poziomica, paca zębata.",
+      "Kielnia, pion, paca stalowa.",
+      "Kielnia, poziomica, młotek gumowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 257,
+    "text": "Na rysunku przedstawiono bloczek o wymiarach 390 × 298 × 12 mm, stosowany jako izolacja cieplna wieńca. Ile takich elementów należy przygotować do wykonania docieplenia wieńca wysokości 30 cm od strony zewnętrznej w 2 ścianach długości 15,6 m każda?",
+    "answers": [
+      "40 sztuk.",
+      "260 sztuk.",
+      "80 sztuk.",
+      "130 sztuk."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_bloczek.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 258,
+    "text": "Na fotografiach przedstawiono, w przypadkowej kolejności, etapy wykonania ocieplenia ścian budynku metodą lekką mokrą. Wskaż zgodną z technologią kolejność wykonania prac.",
+    "answers": [
+      "4, 3, 1, 2",
+      "2, 3, 1, 4",
+      "3, 1, 2, 4",
+      "3, 2, 4, 1"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_fotografie.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 259,
+    "text": "Masa asfaltowa dostępna jest w opakowaniach 10-litrowych w cenie 50,40 zł za opakowanie. Oblicz koszt zakupu masy asfaltowej potrzebnej do wykonania dwuwarstwowej hydroizolacji na 2 ścianach fundamentowych o powierzchni 30,0 m2 każda, jeżeli zużycie masy w pierwszej warstwie wynosi 0,5 l/m2, w drugiej 0,3 l/m2.",
+    "answers": [
+      "100,80 zł",
+      "252,00 zł",
+      "201,60 zł",
+      "151,20 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 260,
+    "text": "Do wykonania przedstawionej na fotografii hydroizolacji ściany fundamentowej zastosowano",
+    "answers": [
+      "lepik asfaltowy.",
+      "papę zgrzewalną.",
+      "matę bentonitową.",
+      "membranę samoprzylepną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_hydroizolacja.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 261,
+    "text": "Przedstawiony na rysunku sprzęt, stosowany do usuwania gruzu podczas rozbiórki budynku, to",
+    "answers": [
+      "zsyp budowlany.",
+      "pompa do gruzu.",
+      "przenośnik taśmowy.",
+      "kontener na gruz."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_sprzet4.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 262,
+    "text": "Na rysunku przedstawiono fragment tynku",
+    "answers": [
+      "zacieranego.",
+      "strukturalnego.",
+      "mozaikowego.",
+      "ciągnionego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_tynk.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 263,
+    "text": "Na podstawie danych zawartych w tabeli oblicz całkowity koszt wykonania 1 m2 tynku mozaikowego.",
+    "answers": [
+      "57,00 zł",
+      "51,00 zł",
+      "33,00 zł",
+      "54,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_ramka2.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 264,
+    "text": "Tynk otrzymywany przez zatarcie drobnoziarnistej zaprawy pacą na gładko i usunięcie pędzlem nadmiaru spoiwa to tynk",
+    "answers": [
+      "filcowany.",
+      "gładzony.",
+      "wypalany.",
+      "zmywany."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 265,
+    "text": "Na którym rysunku przedstawiono pustak z keramzytobetonu?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_pustaki3.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 266,
+    "text": "Oblicz koszt wycięcia w ścianie betonowej 2 otworów okiennych o wymiarach 150 × 120 cm każdy, jeżeli koszt jednostkowy wycięcia otworu w takiej ścianie wynosi 120,00 zł/m.",
+    "answers": [
+      "324,00 zł",
+      "1 296,00 zł",
+      "648,00 zł",
+      "432,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 267,
+    "text": "Przedstawiony na fotografii sprzęt przeznaczony jest do",
+    "answers": [
+      "dozowania i rozprowadzania zaprawy cienkowarstwowej.",
+      "zwilżania bloczków w trakcie murowania.",
+      "poziomowania warstwy startowej z bloczków.",
+      "sporządzania i przechowywania zaprawy klejowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_fotografia5.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 268,
+    "text": "W których zaprawach spoiwem są żywice syntetyczne?",
+    "answers": [
+      "Ciepłochronnych.",
+      "Ogniotrwałych.",
+      "Termalitowych.",
+      "Polimerowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 269,
+    "text": "Oblicz, ile pustaków ściennych o wymiarach 288 × 188 × 220 mm należy przygotować do wykonania 2 ścian wysokości 3 m i długości 8 m każda, jeżeli norma zużycia tych pustaków wynosi 22,40 szt./m2.",
+    "answers": [
+      "650 sztuk",
+      "1300 sztuk",
+      "1076 sztuk",
+      "538 sztuk"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 270,
+    "text": "Ile wyniesie koszt mieszanki betonowej potrzebnej do wykonania 5 nadproży o przekroju poprzecznym 40 × 40 cm i długości 150 cm każde, jeżeli norma zużycia mieszanki betonowej wynosi 1,02 m3/m3, a cena mieszanki wynosi 250,00 zł/m3?",
+    "answers": [
+      "255,00 zł",
+      "306,00 zł",
+      "250,00 zł",
+      "300,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 271,
+    "text": "Na fotografii przedstawiono budynek o konstrukcji",
+    "answers": [
+      "ścianowej żelbetowej.",
+      "szkieletowej stalowej ze ścianami betonowymi.",
+      "szkieletowej żelbetowej ze ścianami murowanymi.",
+      "ścianowej murowanej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_budynek2.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 272,
+    "text": "Do ocieplania przedstawionego na fotografii poddasza zastosowano",
+    "answers": [
+      "wełnę drzewną.",
+      "polistyren ekstrudowany.",
+      "włókno celulozowe.",
+      "piankę poliuretanową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_fotografia4.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 273,
+    "text": "Na podstawie danych zawartych w tablicy z KNR oblicz czas pracy tynkarzy przy wykonywaniu tynków zwykłych kategorii II na ścianach o powierzchni 350 m2.",
+    "answers": [
+      "45,90 r-g",
+      "53,80 r-g",
+      "188,30 r-g",
+      "160,65 r-g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_tablica7.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 274,
+    "text": "Na podstawie fragmentu instrukcji producenta oblicz, ile 25-kilogramowych worków zaprawy murarskiej potrzeba do wymurowania 1 ściany wysokości 3,5 m, długości 10 m i grubości 12 cm.",
+    "answers": [
+      "48 worków.",
+      "168 worków.",
+      "112 worków.",
+      "56 worków."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_tabela39.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 275,
+    "text": "Które rusztowanie stosowane jest podczas wykonywania tynków zewnętrznych?",
+    "answers": [
+      "Na wysuwnicach.",
+      "Stojakowe.",
+      "Na kozłach.",
+      "Wiszące."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 276,
+    "text": "Zgodnie z zasadami przedmiarowania robót murarskich od powierzchni ścianek działowych należy odejmować powierzchnie projektowanych otworów drzwiowych. Oblicz powierzchnię ścianki działowej z otworem drzwiowym w pomieszczeniu o wysokości 3 m, którego rzut przedstawiono na rysunku.",
+    "answers": [
+      "11,66 m2",
+      "15,60 m2",
+      "29,10 m2",
+      "13,76 m2"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_rzut14.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 277,
+    "text": "Ile wynosi rzeczywista powierzchnia ściany przeznaczonej do otynkowania, jeżeli na rysunku wykonanym w skali 1:50 jej długość i wysokość wynoszą odpowiednio 10 i 6 cm.",
+    "answers": [
+      "3 m2",
+      "6 m2",
+      "10 m2",
+      "15 m2"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 278,
+    "text": "Na rysunku przedstawiono elementy stropu",
+    "answers": [
+      "Porotherm.",
+      "Teriva.",
+      "Ceram.",
+      "Akermana."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_strop7.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 279,
+    "text": "Zadaniem izolacji poziomej fundamentu jest ochrona ścian budynku przed",
+    "answers": [
+      "działaniem wód gruntowych.",
+      "kapilarnym podciąganiem wody z gruntu.",
+      "działaniem wód opadowych.",
+      "przenikaniem pary wodnej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 280,
+    "text": "Oblicz wynagrodzenie tynkarza za wykonanie tynku zwykłego po obu stronach dwunastu ścian działowych o wymiarach 2,5 × 6,0 m każda, jeżeli koszt jednostkowy robocizny wynosi 22,00 zł/m2.",
+    "answers": [
+      "7 920,00 zł",
+      "2 640,00 zł",
+      "1 320,00 zł",
+      "3 960,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 281,
+    "text": "Ile zaprawy cementowo-wapiennej należy zakupić do otynkowania ścian o powierzchni 300 m2 i sufitów o powierzchni 100 m2, jeżeli zgodnie z KNR nakłady zaprawy na wykonanie tynków zwykłych kategorii III wynoszą dla ścian – 2,12 m3/100 m2, a dla stropów – 1,68 m3/100 m2.",
+    "answers": [
+      "3,80 m3",
+      "5,04 m3",
+      "8,04 m3",
+      "6,36 m3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 282,
+    "text": "Który etap wykonania ocieplenia ścian budynku metodą lekką mokrą przedstawiono na fotografii?",
+    "answers": [
+      "Nakładanie zaprawy klejowej.",
+      "Wtapianie siatki zbrojącej.",
+      "Nakładanie tynku cienkowarstwowego.",
+      "Uzupełnianie ubytków pianką."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_fotografia2.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 283,
+    "text": "Sznur murarski przeznaczony jest do",
+    "answers": [
+      "kontrolowania poziomu układanych warstw muru.",
+      "wyznaczania zewnętrznej krawędzi układanych warstw muru.",
+      "kontrolowania pionu murowanej ściany.",
+      "wyznaczania i przenoszenia poziomu na odległość."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 284,
+    "text": "Warstwę konstrukcyjną ściany, której fragment przekroju pionowego przedstawiono na rysunku, wykonano z betonu",
+    "answers": [
+      "zwykłego zbrojonego.",
+      "lekkiego zbrojonego.",
+      "zwykłego niezbrojonego.",
+      "lekkiego niezbrojonego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_sciana17.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 285,
+    "text": "Na podstawie fragmentu instrukcji producenta oblicz, ile palet bloczków gazobetonowych o wymiarach 240 × 240 × 590 mm potrzeba do wymurowania 2 ścian wysokości 4 m, długości 8 m i grubości 24 cm każda.",
+    "answers": [
+      "5 palet.",
+      "16 palet.",
+      "6 palet.",
+      "10 palet."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_tabela40.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 286,
+    "text": "Na rysunku przedstawiono łatę typu H przeznaczoną do",
+    "answers": [
+      "nakładania poszczególnych warstw tynku.",
+      "zaciągania tynku bezpośrednio po nałożeniu zaprawy.",
+      "wyrównywania tynku po lekkim związaniu.",
+      "gładzenia tynku po zwilżeniu jego powierzchni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_lata.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 287,
+    "text": "Ile wynosi minimalna grubość przegród międzykanałowych w przypadku przewodów wentylacyjnych wykonanych w ścianach murowanych z cegły?",
+    "answers": [
+      "¼ cegły.",
+      "1 cegły.",
+      "½ cegły.",
+      "1½ cegły."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 288,
+    "text": "Na podstawie danych zawartych w tablicy z KNR oblicz, ile m3 zaprawy potrzeba do wykonania 2 ścian z pustaków „UNI” o wysokości 3,5 m, długości 12 m i grubości 29 cm każda.",
+    "answers": [
+      "2,520 m3",
+      "5,040 m3",
+      "2,772 m3",
+      "6,300 m3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_tablica6.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 289,
+    "text": "Na rysunku przedstawiono fragment lica muru wykonanego z zastosowniem wiązania",
+    "answers": [
+      "gotyckiego.",
+      "krzyżykowego.",
+      "śląskiego.",
+      "kowadełkowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_mur10.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 290,
+    "text": "Na podstawie receptury oblicz, ile żwiru potrzeba do sporządzenia mieszanki betonowej w betoniarce, której pojemność robocza wynosi 200 litrów.",
+    "answers": [
+      "343,75 kg",
+      "1375,00 kg",
+      "137,50 kg",
+      "275,00 kg"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_receptura4.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 291,
+    "text": "Zgodnie z zapotrzebowaniem do wykonania ścian budynku potrzeba 550 sztuk bloczków o wymiarach 480 × 199 × 599 mm. Cena palety takich bloczków wynosi 650,00 zł. Ile wyniosą koszty zakupu, jeżeli na palecie mieszczą się 24 bloczki, a sprzedaż jest wyłącznie pełnopaletowa?",
+    "answers": [
+      "12 650,00 zł",
+      "14 300,00 zł",
+      "14 950,00 zł",
+      "12 100,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.12"
+  },
+  {
+    "id": 292,
+    "text": "Na rysunku przedstawiono prefabrykowaną ceramiczno-betonową belkę przeznaczoną do wykonania",
+    "answers": [
+      "wieńca.",
+      "ościeża.",
+      "gzymsu.",
+      "nadproża."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud12/b18_belka.png"
+    },
+    "category": "BUD.12"
+  },
+  {
+    "id": 293,
+    "text": "Do wykonywania tynków w pracowniach rentgenowskich stosowane są zaprawy z dodatkiem kruszywa",
+    "answers": [
+      "wapiennego.",
+      "bazaltowego.",
+      "granitowego.",
+      "barytowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.12"
+  }
+]
