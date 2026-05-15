@@ -1,0 +1,4591 @@
+[
+  {
+    "id": 1,
+    "text": "Suflet z sera należy podawać",
+    "answers": [
+      "w bulionówce na spodku.",
+      "w kokilce na podstawce.",
+      "w pucharku na podstawce.",
+      "w talerzu głębokim."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 2,
+    "text": "Zupę cebulową krem należy wydawać",
+    "answers": [
+      "z ziemniakami.",
+      "z grzankami.",
+      "z diablotkami.",
+      "z ryżem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 3,
+    "text": "Ile kilogramów mrożonych, rybnych filetów należy pobrać z magazynu, aby przygotować 150 porcji potrawy o wadze 100 gramów każda, jeżeli ubytki w czasie obróbki cieplnej wynoszą 25%?",
+    "answers": [
+      "20,00 kg",
+      "15,00 kg",
+      "11,25 kg",
+      "18,75 kg"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 4,
+    "text": "Zgodnie z zasadami HACCP rozmrażanie mięsa należy przeprowadzać w temperaturze",
+    "answers": [
+      "8°C",
+      "4°C",
+      "16°C",
+      "12°C"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 5,
+    "text": "Długotrwałe gotowanie wywaru z rozdrobnionych buraków powoduje zmianę jego ciemnoczerwonej barwy na",
+    "answers": [
+      "jasnoróżową.",
+      "fioletową.",
+      "oliwkową.",
+      "żółtobrązową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 6,
+    "text": "Instrukcje i procedury Dobrej Praktyki Higienicznej w zakładach gastronomicznych dotyczą przede wszystkim działań związanych",
+    "answers": [
+      "z oznakowaniem magazynowanych towarów.",
+      "z zaopatrzeniem zakładu w wodę.",
+      "z przechowywaniem gorących potraw.",
+      "z monitorowaniem temperatur magazynów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 7,
+    "text": "Którą metodę utrwalania żywności należy zastosować, aby papryka zachowała jak największą ilość witaminy C?",
+    "answers": [
+      "Zamrażanie.",
+      "Marynowanie.",
+      "Suszenie.",
+      "Suszenie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 8,
+    "text": "Którą metodę utrwalania zastosowano do otrzymania ogórków kiszonych?",
+    "answers": [
+      "Chemiczną.",
+      "Biologiczną.",
+      "Fizyczną.",
+      "Skojarzoną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 9,
+    "text": "Podstawowym surowcem do produkcji musztardy jest",
+    "answers": [
+      "jałowiec.",
+      "kminek.",
+      "gorczyca.",
+      "kolendra."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 10,
+    "text": "Który proces zachodzi podczas sporządzania kisielu kawowego, po dodaniu zawiesiny z mleka i mąki?",
+    "answers": [
+      "Koagulacja białek.",
+      "Karmelizacja cukru.",
+      "Żelowanie błonnika.",
+      "Kleikowanie skrobi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 11,
+    "text": "Do otrzymania którego produktu zastosowano chemiczną metodę utrwalania?",
+    "answers": [
+      "Maślanki.",
+      "Kurkumy.",
+      "Rodzynek.",
+      "Rolmopsów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 12,
+    "text": "Korzystając z przedstawionego normatywu surowcowego, oblicz ile porcji potrawy należy sporządzić z 1,2 kg kiełbasy.",
+    "answers": [
+      "20 porcji.",
+      "16 porcji.",
+      "40 porcji.",
+      "25 porcji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_normatyw28.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 13,
+    "text": "Który surowiec powinien być wpisany w miejscu oznaczonym w tabeli symbolem X, by mógł być zastosowany do sporządzenia fasolki po bretońsku?",
+    "answers": [
+      "Pieczarki.",
+      "Kiełbasa.",
+      "Cukinia.",
+      "Wołowina."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_tabela35.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 14,
+    "text": "Pasztet z kurczaka i warzyw należy kroić na desce koloru",
+    "answers": [
+      "żółtego.",
+      "brązowego.",
+      "białego.",
+      "zielonego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 15,
+    "text": "Ile porcji napoju otrzyma się z 8 opakowań soku o pojemności 1,5 l każdy, jeżeli na 1 porcję napoju potrzeba 200 ml soku?",
+    "answers": [
+      "16 porcji.",
+      "60 porcji.",
+      "45 porcji.",
+      "75 porcji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 16,
+    "text": "Przechowywanie kremu sułtańskiego w optymalnych warunkach dłużej niż 6 godzin, może spowodować, że krem",
+    "answers": [
+      "skwaśnieje.",
+      "będzie grudkowaty.",
+      "rozwarstwi się.",
+      "będzie gorzki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 17,
+    "text": "Które z przedstawionych na ilustracjach mieszadeł, należy zamontować w miesiarce planetarnej, aby sporządzić ciasto na pączki?",
+    "answers": [
+      "Na ilustracji 2.",
+      "Na ilustracji 4.",
+      "Na ilustracji 3.",
+      "Na ilustracji 1."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_mieszadla.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 18,
+    "text": "Mruganie to technika gotowania",
+    "answers": [
+      "rosołu.",
+      "kompotu.",
+      "szpinaku.",
+      "szparagów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 19,
+    "text": "Wykorzystując wszystkie surowce wymienione w przedstawionym normatywie, należy sporządzić czekoladowy",
+    "answers": [
+      "kisiel.",
+      "krem.",
+      "kompot.",
+      "budyń."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_normatyw23.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 20,
+    "text": "Zamieszczony fragment sposobu wykonania ciasta dotyczy produkcji",
+    "answers": [
+      "klusek śląskich.",
+      "pierogów leniwych.",
+      "krokietów ziemniaczanych.",
+      "kołdunów litewskich."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_tabela34.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 21,
+    "text": "Krytycznym punktem kontrolnym, który należy monitorować podczas sporządzania udek faszerowanych pieczarkami i papryką, jest temperatura",
+    "answers": [
+      "blanszowania papryki.",
+      "duszenia pieczarek.",
+      "pieczenia udek.",
+      "smażenia cebuli."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 22,
+    "text": "Długotrwałe wyrabianie ciasta ziemniaczanego powoduje, że ciasto staje się",
+    "answers": [
+      "szare.",
+      "gorzkie.",
+      "rzadkie.",
+      "twarde."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 23,
+    "text": "Dobrej jakości surówka powinna charakteryzować się",
+    "answers": [
+      "dużą ilością zaprawy.",
+      "dominującym smakiem przypraw.",
+      "składnikami przesączonymi wydzielonym sokiem.",
+      "równomiernie rozdrobnionymi składnikami."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 24,
+    "text": "Przedmagazyn należy wyposażyć, oprócz wagi, stołu i umywalki, w wózek",
+    "answers": [
+      "kelnerski.",
+      "bemarowy.",
+      "platformowy.",
+      "jodełkowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 25,
+    "text": "Na podstawie danych w tabeli wskaż środek spożywczy, który zawiera najwięcej węglowodanów.",
+    "answers": [
+      "Kasza gryczana.",
+      "Kasza pęczak.",
+      "Kasza manna.",
+      "Kasza jaglana."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_tabela33.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 26,
+    "text": "Do tłuszczów o najkrótszym okresie przechowywania w optymalnych warunkach należy",
+    "answers": [
+      "masło śmietankowe.",
+      "smalec wieprzowy.",
+      "margaryna mleczna.",
+      "olej słonecznikowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 27,
+    "text": "Do sporządzenia potrawki należy użyć mięsa",
+    "answers": [
+      "wołowego lub wieprzowego.",
+      "cielęcego lub drobiowego.",
+      "wołowego lub cielęcego.",
+      "wieprzowego lub drobiowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 28,
+    "text": "Które ciasto przed formowaniem wyrobów należy schłodzić w lodówce?",
+    "answers": [
+      "Drożdżowe.",
+      "Parzone.",
+      "Ucierane.",
+      "Kruche."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 29,
+    "text": "Której potrawy nie należy podawać na półmisku platerowym?",
+    "answers": [
+      "Terriny drobiowej.",
+      "Rolady serowej.",
+      "Schabu pieczonego.",
+      "Jaj nadziewanych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 30,
+    "text": "Najkrócej w optymalnych warunkach chłodniczych należy przechowywać",
+    "answers": [
+      "śliwki.",
+      "maliny.",
+      "borówki.",
+      "czereśnie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 31,
+    "text": "Na której ilustracji przedstawiono warzywo liściowe?",
+    "answers": [
+      "Na ilustracji 1.",
+      "Na ilustracji 3.",
+      "Na ilustracji 2.",
+      "Na ilustracji 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_warzywa3.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 32,
+    "text": "W magazynie o wilgotności 50÷65% należy przechowywać",
+    "answers": [
+      "jabłka.",
+      "soczewicę.",
+      "ziemniaki.",
+      "cykorię."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 33,
+    "text": "Którą potrawę należy podawać z cząstką cytryny?",
+    "answers": [
+      "Jaja po wiedeńsku.",
+      "Rybę po polsku.",
+      "Kurczaka po krakowsku.",
+      "Ziemniaki po nelsońsku."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 34,
+    "text": "Zastosowanie którego urządzenia pozwala na utrzymanie określonej temperatury wydawanych ciepłych potraw?",
+    "answers": [
+      "Bemara.",
+      "Warnika.",
+      "Szybkowaru.",
+      "Autoklawu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 35,
+    "text": "Minimalna temperatura mierzona przez 2 minuty wewnątrz pieczonego schabu, powinna wynosić nie mniej niż",
+    "answers": [
+      "70°C",
+      "75°C",
+      "65°C",
+      "60°C"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 36,
+    "text": "Przedstawiony na ilustracji nóż należy stosować",
+    "answers": [
+      "do dzielenia pizzy.",
+      "do krojenia serów.",
+      "do szatkowania kapusty.",
+      "do rozdrabniania ziół."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_noz3.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 37,
+    "text": "Do produktów pochodzenia roślinnego należą",
+    "answers": [
+      "drożdże i kalmary.",
+      "żelatyna i karczochy.",
+      "pasternak i trufle.",
+      "miód i szparagi."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 38,
+    "text": "Przedstawiony na rysunku wyrób cukierniczy, należy sporządzać z ciasta",
+    "answers": [
+      "francuskiego.",
+      "drożdżowego.",
+      "kruchego.",
+      "zbijanego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_wyrob2.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 39,
+    "text": "Powstałe podczas formowania tradycyjnej sztufady okrawki mięsa należy wykorzystać do sporządzenia",
+    "answers": [
+      "boeuf Stroganowa.",
+      "kotletów pożarskich.",
+      "pieczeni rzymskiej.",
+      "sznycla po wiedeńsku."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 40,
+    "text": "Ziarna zbóż działają zakwaszająco na organizm człowieka, dzięki dużej zawartości w nich",
+    "answers": [
+      "wapnia.",
+      "sodu.",
+      "fosforu.",
+      "jodu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 41,
+    "text": "Do wyposażenia pomieszczeń magazynowych należy zaliczyć",
+    "answers": [
+      "szafy chłodnicze przeszklone i steamery.",
+      "witryny chłodnicze i bemary.",
+      "lady chłodnicze i wilki.",
+      "szafy chłodnicze pełne i regały."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 42,
+    "text": "Optymalną temperaturę wyporcjowanych surówek zapewni przechowywanie ich",
+    "answers": [
+      "w rozdzielni kelnerskiej.",
+      "w kuchni potraw zimnych.",
+      "w szafach chłodniczych.",
+      "na stole produkcyjnym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 43,
+    "text": "Na podstawie danych zawartych w tabeli wskaż, która ryba zawiera najwięcej niezbędnych nienasyconych kwasów tłuszczowych.",
+    "answers": [
+      "IV",
+      "I",
+      "II",
+      "III"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_tabela30.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 44,
+    "text": "Charakterystyczną barwę barszczu czerwonego uzyska się, doprawiając barszcz",
+    "answers": [
+      "majerankiem.",
+      "cukrem.",
+      "pieprzem ziołowym.",
+      "kwaskiem cytrynowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 45,
+    "text": "W okresie zimowym i wiosennym najwięcej dobrze przyswajalnej witaminy C znajduje się",
+    "answers": [
+      "w owocach ziarnkowych.",
+      "w kiszonych ogórkach.",
+      "w kiszonej kapuście.",
+      "w owocach jagodowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 46,
+    "text": "Przechowywanie których środków spożywczych, w optymalnych warunkach, zwiększa ich jakość organoleptyczną?",
+    "answers": [
+      "Warzyw.",
+      "Serów.",
+      "Cytrusów.",
+      "Przypraw."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 47,
+    "text": "GHP to system kontroli, który nie obejmuje procesów",
+    "answers": [
+      "przygotowywania posiłków.",
+      "magazynowania surowców.",
+      "przygotowywania receptur.",
+      "przyjmowania surowców."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 48,
+    "text": "W zamieszczonym wykazie składników na pierogi leniwe w miejsce znaku zapytania należy dobrać",
+    "answers": [
+      "ser podpuszczkowy.",
+      "ser twarogowy.",
+      "masło.",
+      "śmietanę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_tabela32.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 49,
+    "text": "„Rozpuścić drożdże w podgrzanym mleku, dodać sól, podgrzaną masę jajowo-cukrową, przesianą mąkę, wyrobić ciasto. Dodać upłynniony tłuszcz, połączyć z ciastem i zostawić do wyrośnięcia”. Według przedstawionego opisu należy sporządzić ciasto",
+    "answers": [
+      "krucho-drożdżowe.",
+      "drożdżowe metodą jednofazową.",
+      "półfrancuskie drożdżowe.",
+      "drożdżowe metodą dwufazową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 50,
+    "text": "Śluz na skórze ryb świeżych powinien być",
+    "answers": [
+      "ciągliwy i nieprzezroczysty.",
+      "przezroczysty i nieciągliwy.",
+      "rzadki i mętny.",
+      "gęsty i szary."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 51,
+    "text": "Zagęszczanie potraw zawiesiną z mąki ziemniaczanej i wody należy stosować podczas sporządzania",
+    "answers": [
+      "galaretek i zup mlecznych.",
+      "musów i mleczek.",
+      "sufletów i budyni.",
+      "kisieli i zup owocowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 52,
+    "text": "Do wydania kremu brûlée, należy dobrać",
+    "answers": [
+      "kompotierkę na podstawce.",
+      "pucharek na spodku.",
+      "talerzyk deserowy.",
+      "kokilkę na talerzyku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 53,
+    "text": "Jednorazowych rękawiczek należy używać podczas",
+    "answers": [
+      "dekorowania zakąsek gorących.",
+      "wydawania zup gorących.",
+      "dekorowania zakąsek zimnych.",
+      "wydawania dań zasadniczych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 54,
+    "text": "Sos beszamelowy należy doprawiać",
+    "answers": [
+      "chili.",
+      "curry.",
+      "gałką muszkatołową.",
+      "papryką słodką."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 55,
+    "text": "Czerstwy razowy chleb należy wykorzystać",
+    "answers": [
+      "do spulchnienia mas mielonych.",
+      "do emulgowania zup.",
+      "do związania mas mielonych.",
+      "do zagęszczania sosów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 56,
+    "text": "W magazynie, w którym wilgotność powietrza jest niższa niż 75%, przechowywana marchew będzie",
+    "answers": [
+      "gnić.",
+      "dojrzewać.",
+      "więdnąć.",
+      "kiełkować."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 57,
+    "text": "Befsztyk tatarski należy przechowywać w warunkach optymalnych od momentu sporządzenia maksymalnie",
+    "answers": [
+      "6 godzin.",
+      "2 godziny.",
+      "4 godziny.",
+      "8 godzin."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 58,
+    "text": "„Z mięsnej masy mielonej uformować kule, obtoczyć w mące i gotować w wywarze z włoszczyzny kilka minut” – to fragment receptury opisującej wykonanie",
+    "answers": [
+      "zrazów.",
+      "pulpetów.",
+      "klopsów.",
+      "klopsików."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 59,
+    "text": "Wskaż czynności obróbki wstępnej.",
+    "answers": [
+      "Mieszanie i pieczenie.",
+      "Formowanie i zapiekanie.",
+      "Moczenie i przesiewanie.",
+      "Porcjowanie i duszenie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 60,
+    "text": "Do grupy warzyw liściowych należy zaliczyć",
+    "answers": [
+      "cykorię sałatową i szczypiorek.",
+      "kapustę pekińską i jarmuż.",
+      "kapustę głowiastą i pietruszkę naciową.",
+      "sałatę głowiastą i seler naciowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 61,
+    "text": "Na podstawie danych zawartych w tabeli wskaż optymalne warunki przechowywania jabłek.",
+    "answers": [
+      "II",
+      "IV",
+      "III",
+      "I"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_tabela31.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 62,
+    "text": "Wskaż elementy półtuszy wołowej.",
+    "answers": [
+      "Rostbef i pachwina.",
+      "Rozbratel i nerkówka.",
+      "Antrykot i szponder.",
+      "Comber i karkówka."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 63,
+    "text": "Oblicz, ile mięsa należy przygotować do sporządzenia 25 porcji sztufady, jeżeli na jedną porcję tej potrawy należy użyć 250 gramów mięsa.",
+    "answers": [
+      "2,50 kg",
+      "6,25 kg",
+      "62,50 kg",
+      "25,00 kg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 64,
+    "text": "Pojawienie się „kłaczków” podczas zagęszczania żółtkami zupy kremu wskazuje, że zupa była zbyt",
+    "answers": [
+      "słona.",
+      "słodka.",
+      "gorąca.",
+      "zimna."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 65,
+    "text": "Zastosowanie której metody utrwalania spowoduje powstanie najmniejszych strat składników odżywczych w żywności?",
+    "answers": [
+      "Zamrażania.",
+      "Wędzenia.",
+      "Pasteryzowania.",
+      "Suszenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 66,
+    "text": "Oblicz, ile wody należy przygotować do sporządzenia kleiku z 250 cm3 kaszy manny, jeżeli na jedną objętość kaszy należy użyć 6 objętości wody.",
+    "answers": [
+      "0,25 l",
+      "1,50 l",
+      "2,50 l",
+      "15,00 l"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 67,
+    "text": "Związki Maillarda powstają podczas",
+    "answers": [
+      "gotowania na parze.",
+      "duszenia dietetycznego.",
+      "smażenia tradycyjnego.",
+      "gotowania sous vide."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 68,
+    "text": "Charakterystycznym elementem dekoracyjnym kremu brûlée jest",
+    "answers": [
+      "ubita śmietanka.",
+      "sos malinowy.",
+      "skarmelizowany cukier.",
+      "cukier trzcinowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 69,
+    "text": "W celu zapewnienia prawidłowego funkcjonowania zakładu gastronomicznego zmywalnia naczyń stołowych powinna",
+    "answers": [
+      "stanowić wydzieloną część kuchni zimnej.",
+      "stanowić wydzieloną część kuchni gorącej.",
+      "być bezpośrednio połączona z rozdzielnią kelnerską.",
+      "być bezpośrednio połączona z przygotowalnią."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 70,
+    "text": "Mizerię jednoporcjowo do dania zasadniczego należy podawać",
+    "answers": [
+      "w pucharku z podstawkiem.",
+      "na talerzu z daniem zasadniczym.",
+      "w kompotierce z podstawkiem.",
+      "na talerzyku zakąskowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 71,
+    "text": "Marynaty otrzymuje się w wyniku utrwalania surowca",
+    "answers": [
+      "dwutlenkiem siarki.",
+      "kwasem benzoesowym.",
+      "mieszanką peklującą.",
+      "kwasem octowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 72,
+    "text": "Podstawowymi surowcami do sporządzenia ciasta kruchego są: mąka pszenna, tłuszcz, cukier puder oraz",
+    "answers": [
+      "proszek do pieczenia.",
+      "żółtka.",
+      "soda oczyszczona.",
+      "śmietana."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 73,
+    "text": "Monitorowanie temperatury pieczonego mięsa, ma na celu wyeliminowanie zagrożeń spowodowanych obecnością w mięsie",
+    "answers": [
+      "ciał obcych.",
+      "drobnoustrojów.",
+      "metali ciężkich.",
+      "pestycydów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 74,
+    "text": "Korzystając z przedstawionego normatywu surowcowego należy sporządzić",
+    "answers": [
+      "leniwe pierogi.",
+      "kluski śląskie.",
+      "knedle.",
+      "kopytka."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_normatyw21.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 75,
+    "text": "Budyń z sera z sosem malinowym wieloporcjowo, należy wydawać",
+    "answers": [
+      "na talerzu szklanym.",
+      "na półmisku metalowym.",
+      "na paterze ceramicznej.",
+      "w salaterce szklanej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 76,
+    "text": "Które urządzenie zapewni optymalną temperaturę talerzy podczas ekspedycji potraw gorących?",
+    "answers": [
+      "Szafa przelotowa.",
+      "Bemar bankietowy.",
+      "Podgrzewacz.",
+      "Warnik."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 77,
+    "text": "Kaszami otrzymywanymi z pszenicy są",
+    "answers": [
+      "płatki jaglane i kasza pęczak.",
+      "płatki górskie i kasza perłowa.",
+      "kasza manna i bulgur.",
+      "kasza jaglana i perłowa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 78,
+    "text": "Higrometr to urządzenie instalowane w pomieszczeniach magazynowych w celu kontroli",
+    "answers": [
+      "temperatury powietrza.",
+      "wilgotności powietrza.",
+      "temperatury surowców.",
+      "zanieczyszczenia powietrza."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 79,
+    "text": "Którym skrótem oznacza się krytyczne punkty kontroli?",
+    "answers": [
+      "CCP",
+      "WHO",
+      "GMP",
+      "FAO"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 80,
+    "text": "Białka jaj należy stosować do produkcji",
+    "answers": [
+      "mleczek.",
+      "zup zabielanych.",
+      "zup kremów.",
+      "sufletów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 81,
+    "text": "Pojemniki ze stali nierdzewnej przedstawione na ilustracji należy stosować podczas obróbki cieplnej potraw",
+    "answers": [
+      "w kuchence mikrofalowej.",
+      "na taborecie gazowym.",
+      "na patelni elektrycznej.",
+      "w piecu konwekcyjnym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_pojemniki.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 82,
+    "text": "Do przygotowania galarety z mięsa zwierząt rzeźnych należy użyć",
+    "answers": [
+      "polędwicy.",
+      "golonki.",
+      "podgardla.",
+      "boczku."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 83,
+    "text": "Korzystając z zamieszczonego normatywu surowcowego wskaż, ile wina białego wytrawnego i jaj należy przygotować do sporządzenia 15 porcji sosu szodonowego.",
+    "answers": [
+      "12,9 l wina, 3 jaja.",
+      "1,29 l wina, 3 jaja.",
+      "1,29 l wina, 12 jaj.",
+      "12,9 l wina, 12 jaj."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_normatyw20.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 84,
+    "text": "Która zmiana zachodzi w jajach w trakcie ich przechowywania?",
+    "answers": [
+      "Zmniejszenie komory powietrznej.",
+      "Zwiększenie przepuszczalności skorupki.",
+      "Gęstnienie białka.",
+      "Zwiększenie masy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 85,
+    "text": "W przygotowalni brudnej należy",
+    "answers": [
+      "spulchniać mięso.",
+      "porcjować surówki.",
+      "rozdrabniać kapustę.",
+      "płukać ziemniaki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 86,
+    "text": "Które urządzenie należy stosować do schłodzenia ciepłej galaretki owocowej?",
+    "answers": [
+      "Szafę chłodniczą.",
+      "Regał chłodniczy.",
+      "Schładzarkę szokową.",
+      "Szafę dwutemperaturową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 87,
+    "text": "Posypanie powierzchni ugotowanej marchwi mąką pszenną z dodatkiem cukru i jej ponowne zagotowanie, to sposób zagęszczania przez",
+    "answers": [
+      "oprószanie.",
+      "zacieranie.",
+      "glazurowanie.",
+      "zasmażanie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 88,
+    "text": "Które warzywo przedstawiono na ilustracji?",
+    "answers": [
+      "Pietruszkę.",
+      "Skorzonerę.",
+      "Chrzan.",
+      "Rzepę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_warzywo4.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 89,
+    "text": "Które warzywo spośród podanych jest bogatym źródłem karotenu?",
+    "answers": [
+      "Cebula.",
+      "Dynia.",
+      "Cukinia.",
+      "Kalafior."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 90,
+    "text": "Które urządzenie należy stosować do sporządzania zup kremów?",
+    "answers": [
+      "Wilk.",
+      "Miesiarkę.",
+      "Kuter.",
+      "Malakser."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 91,
+    "text": "W zamieszczonym schemacie kolejnych czynności przedstawiono sposób sporządzania ciasta Ubijanie jaj z cukrem → ucieranie tłuszczu na puszystą masę → dodanie masy jajecznej do tłuszczu → dodanie mąki pszennej z proszkiem do pieczenia → mieszanie masy → formowanie masy → pieczenie 180 ÷ 200°C",
+    "answers": [
+      "kruchego.",
+      "piaskowego.",
+      "biszkoptowego.",
+      "francuskiego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 92,
+    "text": "Które naczynie należy stosować do tradycyjnego podania deseru panna cotta?",
+    "answers": [
+      "II.",
+      "I.",
+      "IV.",
+      "III."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_naczynia4.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 93,
+    "text": "Która technika obróbki cieplnej została oznaczona znakiem zapytania w przedstawionym schemacie sporządzania jabłek w cieście?",
+    "answers": [
+      "Smażenie.",
+      "Blanszowanie.",
+      "Zapiekanie.",
+      "Konfitowanie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_schemat9.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 94,
+    "text": "Które warzywa należy zaliczyć do owocowych?",
+    "answers": [
+      "Endywia i cieciorka.",
+      "Jarmuż i brukselka.",
+      "Karczoch i ogórek.",
+      "Bakłażan i patison."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 95,
+    "text": "Zamieszczony wykaz surowców do sporządzenia kisielu truskawkowego należy w miejscu znaku zapytania uzupełnić o",
+    "answers": [
+      "mąkę kukurydzianą.",
+      "mąkę ziemniaczaną.",
+      "agar.",
+      "żelatynę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_tabela28.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 96,
+    "text": "Na podstawie przedstawionego w tabeli składu chemicznego mąki pszennej wskaż jej typ.",
+    "answers": [
+      "650",
+      "500",
+      "750",
+      "870"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_tabela25.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 97,
+    "text": "Dodanie której przyprawy do ryżu powoduje jego pomarańczowe zabarwienie?",
+    "answers": [
+      "Imbiru.",
+      "Szafranu.",
+      "Anyżu.",
+      "Goździków."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 98,
+    "text": "Potrawę wyprodukowaną w systemie cook-chill po podgrzaniu do temperatury minimum 70°C należy wydać do konsumpcji w ciągu",
+    "answers": [
+      "25 min.",
+      "15 min.",
+      "9 min.",
+      "5 min."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 99,
+    "text": "Którą czynność przedstawiono na ilustracji?",
+    "answers": [
+      "Tablerowanie.",
+      "Obieranie.",
+      "Filetowanie.",
+      "Trybowanie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_ilustracja.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 100,
+    "text": "Którego naczynia nie należy używać do serwowania lodów?",
+    "answers": [
+      "I.",
+      "IV.",
+      "II.",
+      "III."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_naczynia5.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 101,
+    "text": "Który magazyn należy wyposażyć w urządzenie przedstawione na ilustracji?",
+    "answers": [
+      "Nabiału.",
+      "Jaj.",
+      "Warzyw.",
+      "Mięsa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_urzadzenie14.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 102,
+    "text": "Techniką obróbki wstępnej czystej jest",
+    "answers": [
+      "płukanie.",
+      "formowanie.",
+      "sortowanie.",
+      "obieranie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 103,
+    "text": "Który proces zachodzi podczas ogrzewania cukru na suchej patelni?",
+    "answers": [
+      "Dekstrynizacja.",
+      "Retrogradacja.",
+      "Karmelizacja.",
+      "Denaturacja."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 104,
+    "text": "Środkiem spożywczym spulchniającym suflet jest",
+    "answers": [
+      "mąka.",
+      "mleko.",
+      "śmietana.",
+      "jajo."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 105,
+    "text": "Optymalna temperatura przechowywania ryb świeżych do 2 dni w lodówce powinna wynosić",
+    "answers": [
+      "0°C ÷ 3°C.",
+      "-3°C ÷ -1°C.",
+      "9°C ÷ 12°C.",
+      "5°C ÷ 8°C."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 106,
+    "text": "Którą tarczę krajalnicy należy użyć do szatkowania kapusty?",
+    "answers": [
+      "II.",
+      "IV.",
+      "I.",
+      "III."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_tarcze2.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 107,
+    "text": "Który surowiec występuje w miejscu znaku zapytania w zamieszczonym wykazie surowców niezbędnych do sporządzenia sosu holenderskiego?",
+    "answers": [
+      "Oliwa z oliwek.",
+      "Wywar jarski.",
+      "Śmietanka kremowa.",
+      "Masło klarowane."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_tabela29.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 108,
+    "text": "Który zestaw cech jest charakterystyczny dla śmietanki?",
+    "answers": [
+      "I",
+      "IV",
+      "II",
+      "III"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_tabela26.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 109,
+    "text": "Który sposób utrwalania mięsa przedstawiono w opisie? „Wodę zagotować z pokrojoną w krążki cebulą, przyprawami i octem. Po ostudzeniu zalać ułożone w naczyniu mięso”",
+    "answers": [
+      "Bejcowanie.",
+      "Blanszowanie.",
+      "Kiszenie.",
+      "Peklowanie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 110,
+    "text": "Na podstawie zamieszczonego sposobu wykonania należy sporządzić",
+    "answers": [
+      "budyń kakaowy.",
+      "krem bawarski.",
+      "melbę.",
+      "tiramisu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_ramka4.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 111,
+    "text": "Które urządzenie skraca czas gotowania potraw?",
+    "answers": [
+      "Salamander.",
+      "Cyrkulator zanurzeniowy.",
+      "Kocioł warzelny.",
+      "Bemar."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 112,
+    "text": "Na ilustracji przedstawiono schemat działania",
+    "answers": [
+      "grilla.",
+      "kuchni indukcyjnej.",
+      "kuchni mikrofalowej.",
+      "salamandera."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_schemat11.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 113,
+    "text": "Do owoców trwałych należy zaliczyć",
+    "answers": [
+      "brzoskwinie i winogrona.",
+      "truskawki i grapefruity.",
+      "jabłka i pomarańcze.",
+      "maliny i poziomki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 114,
+    "text": "Do sporządzenia rolmopsów należy wykorzystać",
+    "answers": [
+      "węgorze.",
+      "śledzie.",
+      "sardele.",
+      "makrele."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 115,
+    "text": "Którą technikę obróbki cieplnej należy stosować, przygotowując „Wołową sztukę mięsa”?",
+    "answers": [
+      "Pieczenie.",
+      "Grillowanie.",
+      "Duszenie.",
+      "Gotowanie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 116,
+    "text": "W której potrawie dodatek soku z cytryny spowoduje utrwalenie barwy użytego surowca?",
+    "answers": [
+      "Marchew oprószana.",
+      "Szpinak zasmażany.",
+      "Karczoch grillowany.",
+      "Buraki zasmażane."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 117,
+    "text": "Która czynność występuje w miejscu znaku zapytania w przedstawionym schemacie produkcji ciasta kruchego?",
+    "answers": [
+      "Dodanie żółtek.",
+      "Siekanie składników.",
+      "Chłodzenie ciasta.",
+      "Wyrabianie ciasta."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_schemat10.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 118,
+    "text": "Który element rozbioru tuszy wołowej przedstawiono ma ilustracji?",
+    "answers": [
+      "Polędwicę.",
+      "Ligawę.",
+      "Rostbef.",
+      "Antrykot."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_element4.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 119,
+    "text": "Wskaż optymalne warunki przechowywania mąki.",
+    "answers": [
+      "II",
+      "IV",
+      "III",
+      "I"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_tabela27.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 120,
+    "text": "Którym z noży przedstawionych na ilustracji należy siekać zioła?",
+    "answers": [
+      "I.",
+      "III.",
+      "II.",
+      "IV."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_noze.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 121,
+    "text": "Sporządzając tradycyjne gołąbki, należy użyć: kapusty białej, mięsa mielonego mieszanego oraz",
+    "answers": [
+      "grzybów suszonych.",
+      "pieczarek.",
+      "kaszy manny.",
+      "ryżu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 122,
+    "text": "Przedstawione etapy składania i wałkowania należy zastosować do sporządzania ciasta",
+    "answers": [
+      "kruchego.",
+      "ptysiowego.",
+      "drożdżowego.",
+      "francuskiego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_etapy.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 123,
+    "text": "Do zaparzania kawy po turecku należy stosować",
+    "answers": [
+      "ekspres ciśnieniowy.",
+      "dzbanek.",
+      "tygielek miedziany.",
+      "termos."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 124,
+    "text": "Do krojenia mięsa pieczonego należy stosować deskę koloru",
+    "answers": [
+      "białego.",
+      "żółtego.",
+      "czerwonego.",
+      "brązowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 125,
+    "text": "Podajnik ślimakowy, nóż czteroskrzydłowy i szarpak to elementy budowy",
+    "answers": [
+      "kutra.",
+      "wilka.",
+      "kotleciarki.",
+      "krajalnicy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 126,
+    "text": "Tradycyjne bliny należy sporządzić z mąki",
+    "answers": [
+      "jaglanej.",
+      "gryczanej.",
+      "kukurydzianej.",
+      "ryżowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 127,
+    "text": "Nóż przedstawiony na ilustracji należy zastosować do krojenia",
+    "answers": [
+      "owoców.",
+      "serów.",
+      "pieczywa.",
+      "wędlin."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_noz.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 128,
+    "text": "Na ilustracji przedstawiono makaron",
+    "answers": [
+      "penne.",
+      "spaghetti.",
+      "tagliatelle.",
+      "fussilli."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_makaron.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 129,
+    "text": "Które warzywo spośród wymienionych zawiera najwięcej witaminy C w 100 g surowca?",
+    "answers": [
+      "Papryka.",
+      "Dynia.",
+      "Ogórek.",
+      "Bakłażan."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 130,
+    "text": "Brązowa piana powstająca podczas gotowania rosołu spowodowana jest",
+    "answers": [
+      "wytapianiem tłuszczów.",
+      "pęcznieniem kolagenu.",
+      "denaturacją białek prostych.",
+      "karmelizacją cukrów prostych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 131,
+    "text": "Której czynności brakuje w zamieszczonym schemacie przedstawiającym technikę sporządzania boeuf Strogonow?",
+    "answers": [
+      "Płaty mięsa rozbić, nadziać i zrolować.",
+      "Plastry mięsa rozbić, nadając okrągły kształt.",
+      "Mięso naszpikować słoniną.",
+      "Mięso pokroić w paski."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_schemat.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 132,
+    "text": "Cyfra 3 na początku kodu: 3-PL-66448877 umieszczonego na skorupce jaja oznacza, że pochodzi ono od kur hodowanych w sposób",
+    "answers": [
+      "ekologiczny.",
+      "ściółkowy.",
+      "wolnowybiegowy.",
+      "klatkowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 133,
+    "text": "Sporządzając krokiety z nadzieniem słonym, naleśniki należy uformować",
+    "answers": [
+      "w chusteczkę.",
+      "w rulon otwarty.",
+      "w rulon zamknięty.",
+      "w sakiewkę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 134,
+    "text": "Które urządzenie przedstawiono na ilustracji?",
+    "answers": [
+      "Rożen.",
+      "Frytkownicę.",
+      "Salamander.",
+      "Toster."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_urzadzenie3.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 135,
+    "text": "System jakości zdrowotnej żywności GMP nie dotyczy",
+    "answers": [
+      "przechowywania żywności.",
+      "postępowania z surowcem.",
+      "układania receptur.",
+      "higieny personelu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 136,
+    "text": "Przedstawiony na ilustracji sposób formowania należy zastosować do sporządzania",
+    "answers": [
+      "bryzoli.",
+      "steków wieprzowych.",
+      "kotletów de volaille.",
+      "rumsztyków."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_ilustracja2.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 137,
+    "text": "Którą technikę obróbki cieplnej należy stosować do sporządzenia budyniu serowego?",
+    "answers": [
+      "Smażenie.",
+      "Duszenie.",
+      "Gotowanie.",
+      "Zapiekanie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 138,
+    "text": "Namoczona żelatyna w zimnej wodzie ulega",
+    "answers": [
+      "retrogradacji.",
+      "pęcznieniu.",
+      "denaturacji.",
+      "rozklejeniu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 139,
+    "text": "Za cierpki smak owoców aronii odpowiadają",
+    "answers": [
+      "garbniki.",
+      "antocyjany.",
+      "związki pektynowe.",
+      "benzoesany."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 140,
+    "text": "Przedstawione na ilustracji wyposażenie magazynu o optymalnej temperaturze 10÷15°C i wilgotności 50÷65% należy stosować do przechowywania",
+    "answers": [
+      "artykułów suchych.",
+      "ziemniaków.",
+      "warzyw nietrwałych.",
+      "nabiału."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_magazyn.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 141,
+    "text": "Na postawie zamieszczonego normatywu surowcowego oblicz, ile szpinaku i mleka należy przygotować do sporządzenia 9 porcji szpinaku zasmażanego.",
+    "answers": [
+      "1,8 kg szpinaku i 1,08 l mleka.",
+      "5,4 kg szpinaku i 0,36 l mleka.",
+      "5,4 kg szpinaku i 1,08 l mleka.",
+      "1,8 kg szpinaku i 0,36 l mleka."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_normatyw2.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 142,
+    "text": "Do przygotowania greckiej musaki należy użyć",
+    "answers": [
+      "pomarańczy.",
+      "karczochów.",
+      "bakłażanów.",
+      "szparagów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 143,
+    "text": "Zamieszczony wykaz surowców do sporządzenia ćwikły należy uzupełnić o korzeń",
+    "answers": [
+      "brukwi.",
+      "pasternaku.",
+      "marchwi.",
+      "chrzanu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_tabela5.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 144,
+    "text": "Metodę chemiczną utrwalania surowca należy stosować do produkcji",
+    "answers": [
+      "gruszek w occie.",
+      "kapusty kiszonej.",
+      "powideł śliwkowych.",
+      "borowików suszonych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 145,
+    "text": "Schab i biodrówka to elementy rozbioru tuszy",
+    "answers": [
+      "baraniej.",
+      "wieprzowej.",
+      "cielęcej.",
+      "wołowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 146,
+    "text": "Naczynie o pojemności 250 ml przedstawione na ilustracji należy stosować do podania",
+    "answers": [
+      "caprese.",
+      "consomme.",
+      "cannelloni.",
+      "carpaccio."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_naczynie2.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 147,
+    "text": "Przedstawione na ilustracji narzędzia należy stosować do sporządzania",
+    "answers": [
+      "sosów.",
+      "zup.",
+      "naleśników.",
+      "racuchów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_narzedzia.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 148,
+    "text": "Na podstawie przedstawionego normatywu surowcowego dobierz metodę utrwalania kapusty białej.",
+    "answers": [
+      "Kiszenie.",
+      "Peklowanie.",
+      "Marynowanie.",
+      "Zagęszczanie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_normatyw.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 149,
+    "text": "Optymalna temperatura przechowywania lodów śmietankowych wynosi",
+    "answers": [
+      "4°C",
+      "-18°C",
+      "0°C",
+      "- 4°C"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 150,
+    "text": "Którą rybę przedstawiono na ilustracji?",
+    "answers": [
+      "Lina.",
+      "Szczupaka.",
+      "Sandacza.",
+      "Amura."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_ryba.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 151,
+    "text": "Orzechy są surowcem wysokoenergetycznym ze względu na zawartość",
+    "answers": [
+      "białek.",
+      "błonnika.",
+      "tłuszczów.",
+      "węglowodanów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 152,
+    "text": "Do serów typu włoskiego należy zaliczyć",
+    "answers": [
+      "mazdamer.",
+      "gouda.",
+      "parmezan.",
+      "gruyere."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 153,
+    "text": "Środkiem spożywczym pochodzenia zwierzęcego jest",
+    "answers": [
+      "kapar.",
+      "komosa.",
+      "kindziuk.",
+      "karczoch."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 154,
+    "text": "Na której ilustracji przedstawiono anyż?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_ilustracje2.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 155,
+    "text": "Którą technikę obróbki cieplnej należy stosować do sporządzania „Pstrąga na niebiesko”?",
+    "answers": [
+      "Smażenie tradycyjne.",
+      "Grillowanie.",
+      "Gotowanie w wodzie.",
+      "Pieczenie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 156,
+    "text": "Do sporządzenia sałatki przedstawionej na ilustracji należy wykorzystać ser",
+    "answers": [
+      "ricotta.",
+      "camembert.",
+      "mozzarella.",
+      "mascarpone."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_salatka.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 157,
+    "text": "Spośród podanych surowców najmniej trwałym jest",
+    "answers": [
+      "cukier.",
+      "drób.",
+      "ocet.",
+      "ryż."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 158,
+    "text": "Na ilustracji przedstawiono grzankę z jajem",
+    "answers": [
+      "po wiedeńsku.",
+      "sadzonym.",
+      "mollet.",
+      "poszetowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_grzanka.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 159,
+    "text": "Do ciasta na 4 porcje potrawy należy użyć 170 g mąki. Ile mąki należy odważyć do sporządzenia ciasta na 40 porcji potrawy?",
+    "answers": [
+      "4,00 kg",
+      "6,80 kg",
+      "17,00 kg",
+      "1,70 kg"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 160,
+    "text": "Który środek spożywczy zawiera w 100 g największą ilość sacharozy?",
+    "answers": [
+      "Lody mleczne.",
+      "Morele suszone.",
+      "Mleko słodzone.",
+      "Cukier rafinowany."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 161,
+    "text": "Sprzęt przedstawiony na ilustracji należy zastosować do",
+    "answers": [
+      "odciskania namoczonej bułki.",
+      "przeciskania ugotowanych ziemniaków.",
+      "formowania klusek lanych.",
+      "przeciskania czosnku."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_sprzet3.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 162,
+    "text": "Bukiet wina to cecha, którą należy ocenić za pomocą zmysłu",
+    "answers": [
+      "węchu.",
+      "wzroku.",
+      "dotyku.",
+      "słuchu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 163,
+    "text": "Przedstawiony na ilustracji półprodukt należy użyć do sporządzenia",
+    "answers": [
+      "flaków.",
+      "rolmopsów.",
+      "kołdunów litewskich.",
+      "boeuf Stroganowa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_polprodukt.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 164,
+    "text": "Na podstawie danych z tabeli wskaż optymalną temperaturę przechowywania orzechów włoskich.",
+    "answers": [
+      "od 1,5 do 16°C",
+      "od 2 do 5°C",
+      "od -1 do +1°C",
+      "od 0 do 4°C"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_tabela2.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 165,
+    "text": "Najwięcej odpadów powstaje podczas obróbki wstępnej świeżych",
+    "answers": [
+      "śliwek.",
+      "ananasów.",
+      "truskawek.",
+      "czereśni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 166,
+    "text": "Według zamieszczonego sposobu wykonania, z mleka, jaj, cukru i cukru waniliowego należy sporządzić",
+    "answers": [
+      "mleczko waniliowe.",
+      "sorbet waniliowy.",
+      "budyń karmelowy.",
+      "suflet karmelowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_ramka.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 167,
+    "text": "Typ mąki określa",
+    "answers": [
+      "wydajność przemiału ziarna na mąkę.",
+      "wielkość cząsteczek mąki.",
+      "zawartość składników mineralnych w mące.",
+      "rodzaj ziarna, z którego pochodzi mąka."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 168,
+    "text": "Środkiem spożywczym pochodzenia mineralnego jest",
+    "answers": [
+      "miód spadziowy.",
+      "ocet spirytusowy.",
+      "sól kuchenna.",
+      "żelatyna spożywcza."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 169,
+    "text": "W magazynie artykułów suchych należy umieścić",
+    "answers": [
+      "kiszoną kapustę.",
+      "mleko instant.",
+      "jaja.",
+      "tofu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 170,
+    "text": "W naczyniu przedstawionym na ilustracji należy podawać",
+    "answers": [
+      "mus.",
+      "suflet.",
+      "budyń.",
+      "mleczko."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_naczynie.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 171,
+    "text": "Fizyczną metodą utrwalania żywności jest",
+    "answers": [
+      "kiszenie.",
+      "pasteryzacja.",
+      "wędzenie.",
+      "peklowanie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 172,
+    "text": "Przedstawiony na ilustracji termometr jest przeznaczony do monitorowania CCP",
+    "answers": [
+      "w bemarze.",
+      "w lodówce.",
+      "w piecu konwekcyjnym.",
+      "w zmywarce komorowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_termometr.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 173,
+    "text": "Sprzęt przedstawiony na ilustracji to",
+    "answers": [
+      "nóż do krojenia w julienne.",
+      "tarka do sera.",
+      "wyciskacz do cytryny.",
+      "skrobak do ryb."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_sprzet2.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 174,
+    "text": "Do przedstawionej na ilustracji potrawy należy podawać",
+    "answers": [
+      "dip.",
+      "sos sojowy.",
+      "chatney.",
+      "sos winegret."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_potrawa.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 175,
+    "text": "Którą technikę obróbki cieplnej należy stosować do sporządzenia „ryby po polsku”?",
+    "answers": [
+      "Gotowanie.",
+      "Smażenie.",
+      "Duszenie.",
+      "Zapiekanie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 176,
+    "text": "Żółtka jaj należy użyć do zagęszczenia",
+    "answers": [
+      "ciasta biszkoptowego.",
+      "sosu waniliowego.",
+      "budyniu słonego.",
+      "kotletów mielonych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 177,
+    "text": "Do ugotowania 1 kg ryżu na sypko należy użyć 2,10 dm3 wody. Ile wody należy użyć do ugotowania 200 porcji ryżu, jeśli na 1 porcję należy użyć 50 g ryżu?",
+    "answers": [
+      "210,50 dm3",
+      "105,00 dm3",
+      "21,00 dm3",
+      "10,50 dm3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 178,
+    "text": "Misa obrotowa i nóż sierpowy przedstawiony na ilustracji to elementy robocze",
+    "answers": [
+      "miesiarki.",
+      "kutra.",
+      "piły do mięsa.",
+      "kotleciarki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_ilustracja.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 179,
+    "text": "Podczas sporządzania ciasta biszkoptowego należy zastosować technikę",
+    "answers": [
+      "siekania.",
+      "zaparzania.",
+      "mieszania.",
+      "zarabiania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 180,
+    "text": "Który rodzaj przetworów owocowych otrzymuje się przez utrwalenie surowca metodą zagęszczania?",
+    "answers": [
+      "Galaretki.",
+      "Syropy.",
+      "Dżemy.",
+      "Powidła."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 181,
+    "text": "Którą technikę obróbki cieplnej należy stosować do sporządzania terriny?",
+    "answers": [
+      "Duszenie.",
+      "Smażenie.",
+      "Pieczenie.",
+      "Grilowanie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 182,
+    "text": "Na której ilustracji przedstawiono bazylię?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_ilustracje.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 183,
+    "text": "W której technice zagęszczania należy rozprowadzić w gorącym płynie i zagotować utartą w proporcji 1:1 mąkę z masłem?",
+    "answers": [
+      "Zagęszczanie zasmażką.",
+      "Zagęszczanie zawiesiną.",
+      "Zagęszczanie podprawą zacieraną.",
+      "Zagęszczanie przez glazurowanie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 184,
+    "text": "Którego zestawu sprzętu należy użyć do sporządzenia jaj poszetowych?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_zestawy.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 185,
+    "text": "W której metodzie utrwalania żywności należy zapewnić sprzyjające warunki do rozwoju bakterii kwasu mlekowego?",
+    "answers": [
+      "W liofilizowaniu.",
+      "W tyndalizacji.",
+      "W marynowaniu.",
+      "W kiszeniu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 186,
+    "text": "Korzeń jest częścią jadalną",
+    "answers": [
+      "marchwi.",
+      "jarmużu.",
+      "rabarbaru.",
+      "ciecierzycy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 187,
+    "text": "Do sporządzenia którego wyrobu kulinarnego należy wykorzystać wszystkie surowce wymienione w zamieszczonym normatywie?",
+    "answers": [
+      "Omlety.",
+      "Naleśniki.",
+      "Knedle.",
+      "Kołduny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_tabela4.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 188,
+    "text": "Cechą świadczącą o nieświeżości mięsa wieprzowego jest",
+    "answers": [
+      "barwa jasnoróżowa.",
+      "zapach kwaśny.",
+      "konsystencja elastyczna.",
+      "powierzchnia sucha, matowa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 189,
+    "text": "Przedstawiony na ilustracji sprzęt zapewnia funkcjonalność w pomieszczeniu",
+    "answers": [
+      "produkcyjnym.",
+      "administracyjnym.",
+      "socjalnym.",
+      "ekspedycyjnym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_sprzet.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 190,
+    "text": "Mąki pszennej, mąki żytniej, miodu, przypraw korzennych należy użyć do sporządzenia",
+    "answers": [
+      "piernika.",
+      "tarty.",
+      "szarlotki.",
+      "rolady."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 191,
+    "text": "Który sposób należy zastosować w celu przywrócenia świeżego wyglądu zwiędniętej marchwi?",
+    "answers": [
+      "Zapakować próżniowo i włożyć do lodówki na kilka godzin.",
+      "Zanurzyć na kilka minut w letniej słonej wodzie.",
+      "Skropić sokiem z cytryny.",
+      "Włożyć do zimnej wody na kilka godzin."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 192,
+    "text": "Który magazyn należy wyposażyć w urządzenie chłodnicze przedstawione na ilustracji?",
+    "answers": [
+      "Magazyn kiszonek.",
+      "Magazyn jaj.",
+      "Magazyn napojów.",
+      "Magazyn odpadów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_urzadzenie.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 193,
+    "text": "Przedstawione na ilustracji urządzenie gastronomiczne należy zastosować do",
+    "answers": [
+      "smażenia beztłuszczowego.",
+      "pieczenia pizzy.",
+      "ogrzewania mikrofalowego.",
+      "pasteryzacji w systemie sous - vide."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_urzadzenie2.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 194,
+    "text": "W wykazie składników do sporządzania majonezu, w miejscu oznaczonym znakiem zapytania, brakuje",
+    "answers": [
+      "masła.",
+      "oleju.",
+      "śmietanki.",
+      "śmietany."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_tabela3.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 195,
+    "text": "Wskaż optymalne warunki przechowywania pieczywa.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_tabela.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 196,
+    "text": "Zupę chłodnik należy podawać schłodzoną do temperatury",
+    "answers": [
+      "5°C",
+      "25°C",
+      "14°C",
+      "34°C"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 197,
+    "text": "Ekspedycję potraw należy usytuować w sąsiedztwie",
+    "answers": [
+      "magazynu żywności.",
+      "kuchni gorącej.",
+      "przygotowalni czystej.",
+      "magazynu podręcznego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 198,
+    "text": "Której czynności brakuje w przedstawionym sposobie wykonania befsztyka tatarskiego?",
+    "answers": [
+      "Ułożyć na środku talerza, skropić olejem i wygładzić.",
+      "Udusić w sosie własnym, ułożyć na środku talerza.",
+      "Smażyć w głębokim tłuszczu, ułożyć na środku talerza.",
+      "Smażyć krótko z obu stron, ułożyć na środku talerza."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/tg7_ramka2.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 199,
+    "text": "Na którym rysunku przedstawiono perliczkę?",
+    "answers": [
+      "Na rysunku 2.",
+      "Na rysunku 3.",
+      "Na rysunku 4.",
+      "Na rysunku 1."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_rysunki7.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 200,
+    "text": "Element rozbioru tuszy wołowej jest przedstawiony na rysunku",
+    "answers": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_elementy3.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 201,
+    "text": "Przedstawioną na rysunku komorę należy stosować w magazynie do przechowywania",
+    "answers": [
+      "kiszonek.",
+      "produktów mlecznych.",
+      "warzyw korzeniowych.",
+      "kaszy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_komora.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 202,
+    "text": "W czasie powolnego zamrażania surowców dochodzi do",
+    "answers": [
+      "zmniejszenia ich objętości.",
+      "zmniejszenia w nich ciśnienia osmotycznego.",
+      "tworzenia drobnych kryształów lodu.",
+      "tworzenia dużych kryształów lodu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 203,
+    "text": "Truskawki należą do grupy owoców",
+    "answers": [
+      "pestkowych.",
+      "jagodowych.",
+      "południowych.",
+      "ziarnkowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 204,
+    "text": "W zakładach gastronomicznych do obróbki surowego drobiu, zgodnie z zasadami HACCP, należy stosować deskę koloru",
+    "answers": [
+      "zielonego.",
+      "żółtego.",
+      "niebieskiego.",
+      "białego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 205,
+    "text": "Temperatura przechowywanych dań głównych w bemarze powinna wynosić",
+    "answers": [
+      "100°C",
+      "45°C",
+      "65°C",
+      "80°C"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 206,
+    "text": "Do sporządzania ciasta biszkoptowego należy przygotować 1 kg jaj. Ile jaj o wadze 50 gramów należy zaplanować do tego ciasta?",
+    "answers": [
+      "20 sztuk.",
+      "30 sztuk.",
+      "50 sztuk.",
+      "40 sztuk."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 207,
+    "text": "Którą technikę obróbki cieplnej należy stosować do sporządzania jaj poszetowych?",
+    "answers": [
+      "Smażenie.",
+      "Pieczenie.",
+      "Gotowanie.",
+      "Zapiekanie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 208,
+    "text": "W zamieszczonym wykazie surowców do sporządzania klusek francuskich brakuje",
+    "answers": [
+      "wody.",
+      "masła.",
+      "mleka.",
+      "cukru."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_tabela41.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 209,
+    "text": "Wątróbkę wieprzową sauté należy zaliczyć do potraw",
+    "answers": [
+      "smażonych.",
+      "duszonych.",
+      "pieczonych.",
+      "gotowanych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 210,
+    "text": "Który wariant ilości surowców należy przygotować do sporządzania ciasta kruchego, jeżeli proporcje mąki, tłuszczu i cukru w tym cieście wynoszą 3:2:1?",
+    "answers": [
+      "II",
+      "IV",
+      "III",
+      "I"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_tabela40.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 211,
+    "text": "Korpusy ptysi należy sporządzać z ciasta",
+    "answers": [
+      "parzonego.",
+      "biszkoptowego.",
+      "drożdżowego.",
+      "francuskiego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 212,
+    "text": "W przedstawionym na rysunku naczyniu należy podawać",
+    "answers": [
+      "miód.",
+      "małże.",
+      "konfitury.",
+      "kawior."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_naczynie4.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 213,
+    "text": "Którą technikę należy stosować do dokładnego wymieszania składników mięsnej masy mielonej?",
+    "answers": [
+      "Tablerowanie.",
+      "Filetowanie.",
+      "Flambirowanie.",
+      "Deglasowanie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 214,
+    "text": "Przedstawiony na rysunku sprzęt należy użyć do",
+    "answers": [
+      "schładzania lodów.",
+      "destylacji wody.",
+      "rozdrabniania owoców.",
+      "napowietrzania śmietany."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_sprzet4.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 215,
+    "text": "Na rysunku przedstawiono",
+    "answers": [
+      "nerki.",
+      "ozory.",
+      "śledziony.",
+      "grasice."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_rysunek4.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 216,
+    "text": "Na podstawie danych zawartych w tabeli wskaż zakres temperatur przechowywania szpinaku.",
+    "answers": [
+      "IV",
+      "II",
+      "I",
+      "III"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_tabela38.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 217,
+    "text": "Kuter należy stosować do",
+    "answers": [
+      "rozdrabniania mięsa.",
+      "podgrzewania talerzy.",
+      "rozdrabniania ziemniaków.",
+      "wyciskania soków."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 218,
+    "text": "Którą potrawę należy sporządzić według przedstawionego sposobu wykonania?",
+    "answers": [
+      "Kisiel.",
+      "Suflet.",
+      "Budyń.",
+      "Sorbet."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_ramka3.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 219,
+    "text": "Kolagen pęcznieje i rozkleja się podczas",
+    "answers": [
+      "szpikowania mięsa.",
+      "bejcowania mięsa.",
+      "gotowania mięsa.",
+      "trybowania mięsa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 220,
+    "text": "Noża przedstawionego na rysunku należy użyć do rozdrabniania",
+    "answers": [
+      "sera.",
+      "mięsa.",
+      "ziół.",
+      "owoców."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_noz2.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 221,
+    "text": "Którą zupę należy zagęścić żółtkiem?",
+    "answers": [
+      "Krupnik ryżowy.",
+      "Zupę szczawiową.",
+      "Krem pieczarkowy.",
+      "Barszcz ukraiński."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 222,
+    "text": "Na postawie zamieszczonego normatywu surowcowego oblicz, ile natki pietruszki należy przygotować do sporządzenia 16 porcji soku z pomidorów.",
+    "answers": [
+      "4 pęczki.",
+      "3 pęczki.",
+      "2 pęczki.",
+      "1 pęczek."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_normatyw26.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 223,
+    "text": "Którą technikę należy stosować do napowietrzania mąki?",
+    "answers": [
+      "Schładzanie.",
+      "Zaparzanie.",
+      "Przesiewanie.",
+      "Naświetlanie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 224,
+    "text": "Które warzywo jest źródłem chlorofilu?",
+    "answers": [
+      "Dynia.",
+      "Bakłażan.",
+      "Brokuł.",
+      "Marchew."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 225,
+    "text": "Do sporządzenia vol-au-vent należy stosować ciasto",
+    "answers": [
+      "drożdżowe.",
+      "francuskie.",
+      "makaronowe.",
+      "naleśnikowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 226,
+    "text": "Carpaccio wołowe należy serwować",
+    "answers": [
+      "na płaskim talerzu.",
+      "w kokilce.",
+      "w bulionówce.",
+      "na szklanej paterze."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 227,
+    "text": "Które warzywo jest przedstawione na rysunku?",
+    "answers": [
+      "Cykoria.",
+      "Sałata.",
+      "Pasternak.",
+      "Kapusta."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_warzywo3.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 228,
+    "text": "Zakres temperatur 0ºC ÷ 4ºC jako optymalny należy zapewnić",
+    "answers": [
+      "w magazynie ziemniaków.",
+      "w magazynie produktów suchych.",
+      "w komorze chłodniczej.",
+      "w komorze niskotemperaturowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 229,
+    "text": "Do dróg technologicznie czystych należy zaliczyć drogę",
+    "answers": [
+      "odpadów i opakowań.",
+      "surowców.",
+      "konsumentów.",
+      "gotowych potraw."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 230,
+    "text": "Do sporządzenia kruszonki, oprócz cukru należy użyć",
+    "answers": [
+      "mąki ziemniaczanej i masła.",
+      "mąki pszennej i masła.",
+      "mąki pszennej i białka.",
+      "mąki ziemniaczanej i białka."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 231,
+    "text": "Do warzyw o jadalnych nasionach znajdujących się na kolbach należy zaliczyć",
+    "answers": [
+      "szparagi.",
+      "rabarbar.",
+      "fenkuł.",
+      "kukurydzę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 232,
+    "text": "Do zagęszczenia 1 porcji zupy należy użyć 4 gramów mąki ziemniaczanej. Ile mąki należy użyć do sporządzenia 50 porcji zupy?",
+    "answers": [
+      "0,020 kg",
+      "0,002 kg",
+      "0,200 kg",
+      "2,000 kg"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 233,
+    "text": "Technikę peklowania należy stosować do utrwalania",
+    "answers": [
+      "jaj.",
+      "warzyw.",
+      "mięs.",
+      "mleka."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 234,
+    "text": "Przedstawiony na rysunku sposób formowania należy stosować do sporządzania",
+    "answers": [
+      "kopytek.",
+      "łazanek.",
+      "gnocchi.",
+      "kołdunów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_rysunek6.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 235,
+    "text": "Do przetworów utrwalanych technologicznie cukrem należy zaliczyć",
+    "answers": [
+      "miody i syropy.",
+      "marmolady i konfitury.",
+      "napoje i soki.",
+      "powidła i nektary."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 236,
+    "text": "Na kuchni indukcyjnej należy stosować naczynia oznaczone symbolem",
+    "answers": [
+      "III",
+      "I",
+      "IV",
+      "II"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_symbole2.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 237,
+    "text": "Instrukcje i procedury Dobrej Praktyki Higienicznej dotyczą działań związanych",
+    "answers": [
+      "z monitorowaniem temperatur magazynów.",
+      "z oznakowaniem magazynowanych towarów.",
+      "z przechowywaniem gorących potraw.",
+      "z zaopatrzeniem zakładu w wodę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 238,
+    "text": "Który deser należy sporządzać na podstawie zamieszczonego sposobu wykonania? Sposób wykonania Na patelni zrumienić cukier i sporządzić karmel. Wymieszać mąkę ziemniaczaną z częścią zimnego mleka. Pozostałe mleko zagotować z cukrem, dodać masło i karmel. Zagotowane mleko połączyć z zawiesiną z mąki ziemniaczanej, zagotować, ciągle mieszając. Wyporcjować.",
+    "answers": [
+      "Sorbet.",
+      "Krem.",
+      "Kisiel.",
+      "Mleczko."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 239,
+    "text": "Którą czynność obróbki wstępnej należy wykonywać w przygotowalni czystej zakładu gastronomicznego?",
+    "answers": [
+      "ścieranie warzyw na surówkę.",
+      "Płukanie warzyw.",
+      "Oczkowanie obranych ziemniaków.",
+      "Oczyszczanie pieczarek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 240,
+    "text": "Kalafior należy do grupy warzyw",
+    "answers": [
+      "liściowych.",
+      "strączkowych.",
+      "korzeniowych.",
+      "kapustnych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 241,
+    "text": "Podczas przechowywania jaj",
+    "answers": [
+      "barwa skorupki jaja ulega ciemnieniu.",
+      "komora powietrzna w jaju ulega zmniejszeniu.",
+      "zmniejsza się gęstość białka jaja.",
+      "zwiększa się gęstość białka jaja."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 242,
+    "text": "Ile mąki ziemniaczanej należy przygotować do sporządzenia klusek śląskich z 3 kg ugotowanych ziemniaków, jeżeli proporcja mąki ziemniaczanej do ziemniaków w cieście wynosi 1:5?",
+    "answers": [
+      "400 g mąki.",
+      "800 g mąki.",
+      "600 g mąki.",
+      "1 000 g mąki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 243,
+    "text": "Garnek przedstawiony na rysunku należy przeznaczyć do",
+    "answers": [
+      "gotowania bulionu.",
+      "duszenia mięsa.",
+      "gotowania ryb.",
+      "duszenia warzyw."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_garnek.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 244,
+    "text": "Która ryba jest przedstawiona na ilustracji?",
+    "answers": [
+      "Flądra.",
+      "Karp.",
+      "Okoń.",
+      "Tuńczyk."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_ryba2.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 245,
+    "text": "Podczas moczenia suchych nasion fasoli w zimnej wodzie zachodzi",
+    "answers": [
+      "osmoza i kleikowanie skrobi.",
+      "transpiracja i kleikowanie skrobi.",
+      "transpiracja i pęcznienie skrobi.",
+      "osmoza i pęcznienie skrobi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 246,
+    "text": "Którą potrawę z drobiu należy smażyć w głębokim tłuszczu?",
+    "answers": [
+      "Kotlet de volaille.",
+      "Filet z kostką.",
+      "Sznycel ministerski.",
+      "Kotlet pożarski."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 247,
+    "text": "Który element kulinarny należy do tuszy jagnięcej?",
+    "answers": [
+      "Schab.",
+      "Comber.",
+      "Gicz.",
+      "Rostbef."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 248,
+    "text": "Zgodnie z recepturą, z 0,6 kg buraków otrzymuje się 5 porcji sałatki. Ile porcji tej potrawy sporządza się z 12 kg buraków?",
+    "answers": [
+      "60 porcji.",
+      "100 porcji.",
+      "120 porcji.",
+      "160 porcji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 249,
+    "text": "Z przedstawionego na rysunku surowca należy sporządzić",
+    "answers": [
+      "leczo.",
+      "carpaccio.",
+      "cynaderki duszone.",
+      "ozorki w galarecie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_surowiec.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 250,
+    "text": "Których czynności brakuje w sposobie wykonania sufletu w miejscu oznaczonym znakiem zapytania?",
+    "answers": [
+      "Pokrajać jabłka w kostkę i obgotować.",
+      "Zetrzeć jabłka na tarce i obgotować.",
+      "Zetrzeć jabłka na grube wióry i upiec.",
+      "Upiec jabłka i przetrzeć przez sito."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_schemat12.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 251,
+    "text": "Który zestaw potraw należy podać jednoporcjowo na talerzu do dania zasadniczego?",
+    "answers": [
+      "Sztuka mięsa w sosie chrzanowym, kasza jaglana, sałatka z czerwonej kapusty.",
+      "Pulpety w sosie koperkowym, ryż, sałatka z buraków.",
+      "Kotlet schabowy, ziemniaki z wody, mizeria.",
+      "Sznycel ministerski, ziemniaki purée, fasolka szparagowa z wody."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 252,
+    "text": "Składnikiem zagęszczającym mleczko waniliowe jest",
+    "answers": [
+      "skrobia.",
+      "agar.",
+      "żelatyna.",
+      "jajo."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 253,
+    "text": "Ciasto na pierogi leniwe należy sporządzić z jaj, mąki pszennej oraz",
+    "answers": [
+      "kaszy manny.",
+      "surowych ziemniaków.",
+      "sera podpuszczkowego.",
+      "sera twarogowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 254,
+    "text": "Którą potrawę mięsną należy podać udekorowaną masłem smakowym?",
+    "answers": [
+      "Zrazy wołowe nadziewane.",
+      "Befsztyk po angielsku.",
+      "Sztufadę wołową.",
+      "Pieczeń duszoną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 255,
+    "text": "Z danych zamieszczonych w tabeli wynika, że więcej witaminy C znajduje się",
+    "answers": [
+      "w brukselce niż w papryce.",
+      "w pomidorach niż w rzodkiewkach.",
+      "w boćwinie niż w brukselce.",
+      "w rzodkiewkach niż w pomidorach."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_tabela17-1.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 256,
+    "text": "Które ciasto wyrabiane w naczyniu należy sporządzić na podstawie zamieszczonego normatywu surowcowego?",
+    "answers": [
+      "Francuskie.",
+      "Lane.",
+      "Naleśnikowe.",
+      "Półfrancuskie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_normatyw27.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 257,
+    "text": "Którą technikę obróbki cieplnej stosuje się do sporządzania tradycyjnych pyz ziemniaczanych?",
+    "answers": [
+      "Gotowanie w wodzie.",
+      "Smażenie zanurzeniowe.",
+      "Gotowanie na parze.",
+      "Smażenie beztłuszczowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 258,
+    "text": "Bulion wołowy należy sporządzać",
+    "answers": [
+      "z ligawy.",
+      "z łopatki.",
+      "z udźca.",
+      "z pręgi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 259,
+    "text": "Sous vide to technika obróbki cieplnej stosowana do sporządzania potraw",
+    "answers": [
+      "pieczonych.",
+      "duszonych.",
+      "smażonych.",
+      "gotowanych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 260,
+    "text": "Która procedura nie zapewnia bezpieczeństwa zdrowotnego sporządzanych w zakładzie gastronomicznym potraw?",
+    "answers": [
+      "Monitorowanie temperatur wewnątrz potraw smażonych z mięsa, drobiu, ryb.",
+      "Monitorowanie temperatur przechowywania surowców i półproduktów.",
+      "Wydawanie z magazynu surowców zgodnie z zasadą pierwsze przyszło – pierwsze wyszło.",
+      "Mycie i dezynfekcja rąk po obróbce wstępnej brudnej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 261,
+    "text": "W której grupie znajdują się wyłącznie surowce należące do grupy produktów tłuszczowych?",
+    "answers": [
+      "Boczek, margaryna, kukurydza.",
+      "Słonina, jaja, soja.",
+      "Łój, margaryna, smalec.",
+      "Masło, słonina, śmietana."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 262,
+    "text": "Która metoda utrwalania gwarantuje jedynie trzy dni przydatności mięsa do spożycia?",
+    "answers": [
+      "Wędzenie.",
+      "Liofilizacja.",
+      "Zamrażanie.",
+      "Marynowanie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 263,
+    "text": "Mąka pszenna dobrej jakości charakteryzuje się smakiem",
+    "answers": [
+      "lekko gorzkim.",
+      "lekko słonym.",
+      "lekko kwaśnym.",
+      "lekko słodkim."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 264,
+    "text": "Surowcami trwałymi są:",
+    "answers": [
+      "kasza, soczewica, mąka.",
+      "makaron, brukselka, mleko.",
+      "szparagi, smalec, sól.",
+      "ryż, jaja, fasola."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 265,
+    "text": "Który sos należy sporządzić na bazie emulsji żółtka i masła?",
+    "answers": [
+      "Chrzanowy.",
+      "Beszamelowy.",
+      "Holenderski.",
+      "Potrawkowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 266,
+    "text": "Naczynie przedstawione na rysunku należy zastosować do podawania",
+    "answers": [
+      "czerniny.",
+      "fondue.",
+      "gulaszu.",
+      "ostryg."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_naczynie3.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 267,
+    "text": "Na rysunku przedstawiono efekt",
+    "answers": [
+      "spinania tuszki dwiema nitkami.",
+      "formowania tuszki w kieszeń.",
+      "spinania tuszki jedną nitką.",
+      "formowania tuszki po angielsku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_rysunek2.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 268,
+    "text": "Technikę zaparzania mąki mieszaniną wody z tłuszczem stosuje się do sporządzania ciasta",
+    "answers": [
+      "zbijanego.",
+      "ptysiowego.",
+      "piernikowego.",
+      "drożdżowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 269,
+    "text": "Rozbity płat mięsa wieprzowego, uformowany w kształcie koła o średnicy 14 cm i grubości 0,5 cm, oprószony solą, pieprzem i mąką, to przygotowany półprodukt na",
+    "answers": [
+      "bryzol.",
+      "befsztyk.",
+      "rumsztyk.",
+      "filet."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 270,
+    "text": "Którą czynność obróbki wstępnej ryby należy wykonać przy sporządzaniu „ryby na niebiesko”?",
+    "answers": [
+      "Umyć sokiem z cytryny.",
+      "Umyć dokładnie, aby usunąć z niej śluz.",
+      "Umyć delikatnie, aby nie usunąć z niej śluzu.",
+      "Umyć gorącą wodą."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 271,
+    "text": "Który z przetworów należy zastosować do nadziewania tradycyjnych zrazów wołowych zawijanych?",
+    "answers": [
+      "Kapustę kiszoną.",
+      "Pomidory suszone.",
+      "Ogórki kiszone.",
+      "Paprykę konserwową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 272,
+    "text": "System HACCP polega na",
+    "answers": [
+      "organizowaniu stanowiska roboczego zgodnie z zasadami ergonomii.",
+      "zatwierdzaniu opracowanych receptur gastronomicznych.",
+      "określaniu wymagań zdrowotnych pracowników w gastronomii.",
+      "kontroli ustalonych punktów krytycznych danego procesu technologicznego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 273,
+    "text": "Które produkty należy przechowywać w chłodni?",
+    "answers": [
+      "Mięso, kasze, sery.",
+      "Drób, ryż, miód.",
+      "Mleko, jaja, mięso.",
+      "Oliwę, orzechy, masło."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 274,
+    "text": "Przystawkę do maszyny wieloczynnościowej, przedstawioną na rysunku, należy zastosować do",
+    "answers": [
+      "mielenia kawy.",
+      "przecierania zup.",
+      "obierania ziemniaków.",
+      "spulchniania mięsa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_przystawka2.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 275,
+    "text": "W magazynie o wilgotności 56-60% z dopuszczalnym pośrednim dostępem światła naturalnego można przechowywać",
+    "answers": [
+      "tłuszcze.",
+      "sery.",
+      "kasze.",
+      "jaja."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 276,
+    "text": "Które urządzenie chłodnicze stanowi wyposażenie pomieszczeń magazynowych?",
+    "answers": [
+      "Szafa chłodnicza.",
+      "Witryna chłodnicza.",
+      "Stół chłodniczy.",
+      "Lada chłodnicza."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 277,
+    "text": "Na którym rysunku przedstawiono gicz cielęcą?",
+    "answers": [
+      "Na rysunku II.",
+      "Na rysunku III.",
+      "Na rysunku IV.",
+      "Na rysunku I."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_rysunki8.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 278,
+    "text": "W zakładach gastronomicznych do obróbki surowego drobiu należy stosować deskę koloru",
+    "answers": [
+      "zielonego.",
+      "niebieskiego.",
+      "żółtego.",
+      "białego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 279,
+    "text": "Do wyrobów z ciasta zarabianego w naczyniu należy zaliczyć",
+    "answers": [
+      "kluski leniwe.",
+      "makarony.",
+      "kopytka.",
+      "kluski francuskie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 280,
+    "text": "Przedstawiony element wyposażenia pieca konwekcyjnego służy do pomiaru",
+    "answers": [
+      "temperatury wewnątrz potrawy.",
+      "wilgotności wewnątrz potrawy.",
+      "wilgotności w komorze roboczej.",
+      "temperatury w komorze roboczej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_element3.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 281,
+    "text": "Którą nazwę surowca należy wpisać do tabeli w miejscu X, niezbędnego do sporządzenia Fasolki po bretońsku?",
+    "answers": [
+      "Wołowina.",
+      "Pieczarki.",
+      "Cebula.",
+      "Cukinia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_tabela36.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 282,
+    "text": "Korzystając z przedstawionego normatywu surowcowego, oblicz, ile porcji potrawy należy sporządzić z 1,2 kg kiełbasy.",
+    "answers": [
+      "16 porcji.",
+      "40 porcji.",
+      "20 porcji.",
+      "25 porcji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_normatyw24.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 283,
+    "text": "Zakres temperatur 0°C ÷ 4°C należy zapewnić",
+    "answers": [
+      "w magazynie produktów suchych.",
+      "w komorze niskotemperaturowej.",
+      "w komorze chłodniczej.",
+      "w magazynie ziemniaków."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 284,
+    "text": "Którego elementu – oznaczonego na schemacie białym polem – brakuje w przedstawionym schemacie „Współzależność między systemami jakości”?",
+    "answers": [
+      "HACCP",
+      "CCP",
+      "IŻiŻ",
+      "QAFP"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_schemat8.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 285,
+    "text": "Zdezynfekowane jaja należy przechowywać",
+    "answers": [
+      "w lodówce w wytłaczarkach.",
+      "na regale w kuchni w czystej odkrytej misce.",
+      "na regale w kuchni w wytłaczarkach.",
+      "w lodówce w czystej przykrytej misce."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 286,
+    "text": "Do warzyw o jadalnych ogonkach liściowych należy zaliczyć * Dwie odpowiedzi są poprawne. Zaznacz obie, aby otrzymać punkt.",
+    "answers": [
+      "szparagi.",
+      "fenkuł.",
+      "kukurydzę.",
+      "rabarbar."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 287,
+    "text": "Które warzywo zawiera przede wszystkim chlorofil?",
+    "answers": [
+      "Brokuł.",
+      "Marchew.",
+      "Dynia.",
+      "Bakłażan."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 288,
+    "text": "Schab jest przedstawiony na rysunku",
+    "answers": [
+      "II",
+      "III",
+      "IV",
+      "I"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_rysunki5.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 289,
+    "text": "Na podstawie danych w tabeli wskaż środek spożywczy, który zawiera najmniej węglowodanów.",
+    "answers": [
+      "4",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_tabela33.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 290,
+    "text": "Na którym rysunku przedstawiono indyka?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_rysunki4.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 291,
+    "text": "Do sporządzenia kruszonki, oprócz cukru, należy użyć",
+    "answers": [
+      "mąki pszennej i białka.",
+      "mąki ziemniaczanej i białka.",
+      "mąki ziemniaczanej i masła.",
+      "mąki pszennej i masła."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 292,
+    "text": "Powstałe podczas formowanie sztufady okrawki mięsa należy wykorzystać do sporządzania",
+    "answers": [
+      "kotletów pożarskich.",
+      "boeuf Stroganowa.",
+      "pieczeni rzymskiej.",
+      "sznycla po wiedeńsku."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 293,
+    "text": "Zupę cebulową należy wydawać",
+    "answers": [
+      "z ryżem.",
+      "z ziemniakami.",
+      "z grzankami.",
+      "z diablotkami."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 294,
+    "text": "Na podstawie danych zawartych w tabeli wskaż optymalne warunki przechowywania świeżego pasztetu drobiowego.",
+    "answers": [
+      "III",
+      "IV",
+      "I",
+      "II"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_tabela37.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 295,
+    "text": "Zdolnością do barwienia potraw charakteryzują się następujące przyprawy:",
+    "answers": [
+      "estragon, anyż.",
+      "kurkuma, szafran.",
+      "oregano, kardamon.",
+      "imbir, jałowiec."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 296,
+    "text": "Obsuszony ser gouda bez żadnych zmian mikrobiologicznych należy",
+    "answers": [
+      "zetrzeć do zapiekanek.",
+      "wykorzystać do dekoracji kanapek.",
+      "bezwzględnie wyrzucić.",
+      "użyć jako przekąskę do talerza serów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 297,
+    "text": "Który środek spożywczy nie zawiera cholesterolu?",
+    "answers": [
+      "Pestki dyni.",
+      "Mięso wołowe.",
+      "Masło ekstra.",
+      "Smalec gęsi."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 298,
+    "text": "Którą technikę obróbki cieplnej należy stosować do sporządzania pulpetów?",
+    "answers": [
+      "Konfitowanie.",
+      "Gotowanie.",
+      "Zapiekanie.",
+      "Smażenie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 299,
+    "text": "Do instrukcji GHP/GMP nie należy",
+    "answers": [
+      "Instrukcja mycia chłodni.",
+      "Instrukcja bezpieczeństwa pożarowego.",
+      "Instrukcja rozmrażania surowców/półproduktów.",
+      "Instrukcja ekspedycji potraw."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 300,
+    "text": "Przedstawiony schemat produkcyjny przedstawia etapy sporządzania Obróbka wstępna brudna ziemniaków → rozdrabnianie → mieszanie składników → formowanie → smażenie",
+    "answers": [
+      "pyz ziemniaczanych.",
+      "placków ziemniaczanych.",
+      "ziemniaków faszerowanych.",
+      "ziemniaków purée."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 301,
+    "text": "Które urządzenie przedstawione jest na ilustracji?",
+    "answers": [
+      "Blender.",
+      "Młynek do kawy.",
+      "Malakser.",
+      "Mikser zanurzeniowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_urzadzenie15.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 302,
+    "text": "Cyrkulator temperatury należy stosować do",
+    "answers": [
+      "gotowania na parze.",
+      "smażenia w głębokim tłuszczu.",
+      "smażenia kontaktowego.",
+      "gotowania w kąpieli wodnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 303,
+    "text": "Do obróbki czystej podczas sporządzania surówki należy zaliczyć procesy",
+    "answers": [
+      "mieszania i rozdrabniania.",
+      "sortowania i oczyszczania.",
+      "mycia i oczyszczania.",
+      "płukania i sortowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 304,
+    "text": "Do sporządzenia ciasta biszkoptowego należy przygotować 2 kg jaj. Ile jaj o wadze 50 gramów należy zaplanować do tego ciasta?",
+    "answers": [
+      "20 sztuk.",
+      "30 sztuk.",
+      "50 sztuk.",
+      "40 sztuk."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 305,
+    "text": "Do sporządzania których klusek należy użyć drożdży?",
+    "answers": [
+      "Pampuchów.",
+      "Francuskich.",
+      "Leniwych.",
+      "Zacierek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 306,
+    "text": "Wskaż prawidłowy dobór metody utrwalania środka spożywczego.",
+    "answers": [
+      "Ogórki konserwowe – kiszenie.",
+      "Mleko UHT – kondensacja.",
+      "Fasolka w zalewie – pasteryzacja.",
+      "Susz warzywny – tyndalizacja."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 307,
+    "text": "Najwięcej kwasu szczawiowego zawierają:",
+    "answers": [
+      "rukola, karczoch.",
+      "endywia, boćwina.",
+      "roszponka, fenkuł.",
+      "szpinak, rabarbar."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 308,
+    "text": "Które z warzyw należy rozdrabniać w szyfonadę?",
+    "answers": [
+      "Szpinak.",
+      "Ogórki.",
+      "Pomidory.",
+      "Ziemniaki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 309,
+    "text": "Spadek wilgotności powietrza w magazynie ziemniaków do poziomu 60-70% spowoduje",
+    "answers": [
+      "rozkład skrobi w ziemniakach.",
+      "duże ubytki naturalne ziemniaków.",
+      "zwiększenie zawartości witaminy C w ziemniakach.",
+      "pochłanianie pary wodnej przez ziemniaki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 310,
+    "text": "Którą technikę obróbki termicznej należy zastosować, sporządzając sztukę mięsa?",
+    "answers": [
+      "Duszenie.",
+      "Gotowanie.",
+      "Grillowanie.",
+      "Smażenie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 311,
+    "text": "Opisane zmiany zachodzą podczas przechowywania w nieoptymalnych warunkach „Stęchły, jełki i gnilny zapach, porowata powierzchnia pokryta brunatną, śluzowatą warstwą, wzrost kwasowości”.",
+    "answers": [
+      "sera twarogowego.",
+      "smalcu wieprzowego.",
+      "owoców jagodowych.",
+      "warzyw korzeniowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 312,
+    "text": "Przygotowując konfitury, owoce należy",
+    "answers": [
+      "gotować w syropie cukrowym.",
+      "zamrozić i zagęścić.",
+      "przetrzeć i odparować.",
+      "odparować pod ciśnieniem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 313,
+    "text": "Przedstawiony na ilustracji sprzęt należy zastosować do",
+    "answers": [
+      "kruszenia lodu.",
+      "przeciskania ziemniaków.",
+      "wyciskania cytrusów.",
+      "miażdżenia orzechów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_sprzet.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 314,
+    "text": "Temperatura przechowywania ciepłych dań głównych w bemarze powinna wynosić",
+    "answers": [
+      "65°C",
+      "45°C",
+      "80°C",
+      "100°C"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 315,
+    "text": "Do sporządzenia sosu „tzatziki” należy użyć",
+    "answers": [
+      "jogurtu, czosnku i świeżych ogórków.",
+      "majonezu, ogórków i grzybów marynowanych.",
+      "oleju, warzyw i przecieru pomidorowego.",
+      "oleju, żółtek i soku z cytryny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 316,
+    "text": "Ile kilogramów ziemniaków należy przygotować do sporządzenia 200 porcji ziemniaków o wadze 200 gramów każda, jeżeli straty podczas obierania wynoszą 20%?",
+    "answers": [
+      "50 kg",
+      "80 kg",
+      "40 kg",
+      "70 kg"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 317,
+    "text": "Którego sprzętu należy użyć do bezpiecznego transportu tac GN?",
+    "answers": [
+      "II",
+      "III",
+      "I",
+      "IV"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_sprzety2.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 318,
+    "text": "W przedstawionym na ilustracji naczyniu należy podawać",
+    "answers": [
+      "sos.",
+      "zupę.",
+      "kawę.",
+      "herbatę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_naczynie.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 319,
+    "text": "Które właściwości jaj wykorzystuje się, sporządzając suflet czekoladowy?",
+    "answers": [
+      "Zagęszczające.",
+      "Emulgujące.",
+      "Wiążące.",
+      "Spulchniające."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 320,
+    "text": "Salamander gastronomiczny należy stosować do",
+    "answers": [
+      "opiekania potraw.",
+      "smażenia frytek.",
+      "blanszowania warzyw.",
+      "wypieku pizzy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 321,
+    "text": "Najdłuższym okresem przechowywania w optymalnych warunkach charakteryzują się",
+    "answers": [
+      "brokuły i papryka.",
+      "szpinak i selery.",
+      "szparagi i pomidory.",
+      "pory i cebula."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 322,
+    "text": "Przedstawione na ilustracji naczynie należy stosować do ekspedycji",
+    "answers": [
+      "karczochów.",
+      "jaj.",
+      "ostryg.",
+      "ślimaków."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt02/t6_naczynie5.png"
+    },
+    "category": "HGT.02"
+  },
+  {
+    "id": 323,
+    "text": "Korzystając z mrożonych warzyw przy przygotowywaniu potrawy smażonej „Warzywa na patelnię”, należy",
+    "answers": [
+      "bez rozmrażania wrzucić je na gorący tłuszcz.",
+      "umyć je i wrzucić na ciepły tłuszcz.",
+      "nie rozmrażać ich i wrzucić na zimny tłuszcz.",
+      "całkowicie je rozmrozić i wrzucić na gorący tłuszcz."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 324,
+    "text": "Podczas zagęszczania kisielu kakaowego zachodzi proces",
+    "answers": [
+      "koagulacji białka mleka.",
+      "karmelizacji cukru.",
+      "kleikowania skrobi.",
+      "rozkładu proszku kakaowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 325,
+    "text": "W celu uzyskania puszystej konsystencji naleśników do ciasta należy dodać",
+    "answers": [
+      "suszone drożdże.",
+      "roztopione masło.",
+      "przesianą mąkę ziemniaczaną.",
+      "gazowaną wodę mineralną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 326,
+    "text": "Kilkudniowe przechowywanie warzyw i owoców w szczelnie zamkniętych opakowaniach plastikowych powoduje",
+    "answers": [
+      "powstrzymanie  rozwoju drobnoustrojów.",
+      "rozwój i aktywność drobnoustrojów.",
+      "zachowanie cech organoleptycznych.",
+      "zwiększenie bezpieczeństwa żywności."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 327,
+    "text": "Pomieszczenie, w którym odbywa się ekspedycja gotowych potraw, nie może znajdować się przy",
+    "answers": [
+      "kuchni właściwej.",
+      "przygotowalni czystej.",
+      "zmywalni naczyń stołowych.",
+      "sali konsumenckiej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 328,
+    "text": "Do oceny organoleptycznej chrupkości należy wykorzystać zmysł",
+    "answers": [
+      "węchu.",
+      "zapachu.",
+      "słuchu.",
+      "wzroku."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.02"
+  },
+  {
+    "id": 329,
+    "text": "Potrawę wyprodukowaną w systemie cook – chill po podgrzaniu do temperatury nie niższej niż 70°C należy wydać do konsumpcji w czasie",
+    "answers": [
+      "9 min.",
+      "19 min.",
+      "15 min.",
+      "5 min."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.02"
+  }
+]
