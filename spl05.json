@@ -1,0 +1,4647 @@
+[
+  {
+    "id": 1,
+    "text": "Zgodnie z przedstawionym fragmentem OPWS roszczenie wynikające z umowy spedycji z tytułu utraty przesyłki, która miała być dostarczona odbiorcy 7 stycznia bieżącego roku upływa",
+    "answers": [
+      "21 stycznia bieżącego roku.",
+      "31 grudnia bieżącego roku.",
+      "7 stycznia przyszłego roku.",
+      "21 stycznia przyszłego roku."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_ramka10.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 2,
+    "text": "Czynnością handlową procesu transportowego jest",
+    "answers": [
+      "zawarcie umowy ubezpieczenia ładunku na czas przewozu.",
+      "przygotowanie oferty usługi transportowej.",
+      "sporządzenie umowy o przewóz.",
+      "wystawienie faktury za wykonaną usługę transportową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 3,
+    "text": "Które opakowanie należy zastosować do składowania i transportu nawozu w postaci granulatu?",
+    "answers": [
+      "Opakowanie A.",
+      "Opakowanie C.",
+      "Opakowanie B.",
+      "Opakowanie D."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_opakowania2.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 4,
+    "text": "Zgodnie z przedstawionym fragmentem rozporządzenia pojazd nienormatywny o długości 29 m, szerokości 4 m, wysokości 4,2 m i masie całkowitej 55 t powinien być pilotowany przez",
+    "answers": [
+      "dwa pojazdy poruszające się jeden z przodu i drugi z tyłu pojazdu nienormatywnego.",
+      "jeden pojazd poruszający się z przodu pojazdu nienormatywnego.",
+      "jeden pojazd poruszający się z tyłu pojazdu nienormatywnego.",
+      "dwa pojazdy poruszające się po obu bokach pojazdu nienormatywnego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_rozporzadzenie6.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 5,
+    "text": "Na podstawie wykresu określ, w którym roku nastąpił największy przyrost przewozów ładunków koleją w Niemczech w stosunku do roku 2006.",
+    "answers": [
+      "W 2007 r.",
+      "W 2011 r.",
+      "W 2010 r.",
+      "W 2008 r."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_wykres3.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 6,
+    "text": "W krajach należących do Unii Europejskiej istnieje wymóg, aby w transporcie chłodniczym stosować urządzenia pomiarowe oraz rejestratory i systemy monitorowania",
+    "answers": [
+      "wilgotności.",
+      "ciśnienia.",
+      "temperatury.",
+      "drgań."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 7,
+    "text": "Określ minimalną liczbę wagonów Eaos potrzebną do przewozu 2 000 t węgla linią kolejową klasy B2.",
+    "answers": [
+      "35 wagonów.",
+      "40 wagonów.",
+      "48 wagonów.",
+      "42 wagony."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela33.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 8,
+    "text": "Który model organizacji zadań transportowych polega na zaplanowaniu trasy przewozu pojazdu obejmującej pobranie towaru tylko raz z jednego punktu załadunku i dostarczenie do wielu punktów docelowych?",
+    "answers": [
+      "Obwodowy.",
+      "Sztafetowy.",
+      "Wahadłowy.",
+      "Promienisty."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 9,
+    "text": "Które narzędzie marketingu mix obejmuje reklamę, public relations, sponsoring i sprzedaż osobistą?",
+    "answers": [
+      "Produkt.",
+      "Cena.",
+      "Promocja.",
+      "Dystrybucja."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 10,
+    "text": "Pisemną umową na podstawie, której obywa się przewóz ładunków w żegludze nieregularnej jest",
+    "answers": [
+      "nota bukingowa.",
+      "manifest.",
+      "czarter.",
+      "routing order."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 11,
+    "text": "Ile maksymalnie godzin może jechać załoga dwuosobowa zestawu członowego o dopuszczalnej masie całkowitej 20 t, z wydłużonym czasem jazdy, między dwoma odpoczynkami dziennymi?",
+    "answers": [
+      "9 godzin",
+      "20 godzin",
+      "18 godzin",
+      "10 godzin"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 12,
+    "text": "Urządzeniem do mechanizacji prac ładunkowych o pracy ciągłej jest",
+    "answers": [
+      "suwnica.",
+      "wciągarka.",
+      "wózek widłowy.",
+      "przenośnik rolkowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 13,
+    "text": "Silos o masie 120 t, który należy przewieźć z Poznania do Wałbrzycha jest przykładem ładunku",
+    "answers": [
+      "niebezpiecznego.",
+      "drobnicowego.",
+      "nienormatywnego.",
+      "masowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 14,
+    "text": "Ile wynosi współczynnik wypełnienia ładowni samolotu o pojemności 120 m3, w której umieszczono 20 kontenerów lotniczych o wymiarach 2 200 x 1 500 x 1 600 mm (dł. x szer. x wys.)?",
+    "answers": [
+      "0,88",
+      "0,55",
+      "0,59",
+      "0,99"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 15,
+    "text": "Na palecie rozmieszczono ładunek w 8 warstwach zapakowany w kartony, po 12 kartonów w każdej warstwie. Masa brutto jednego kartonu wynosi 11 kg. Masa brutto utworzonej paletowej jednostki ładunkowej uformowanej na palecie o masie własnej 27 kg wynosi",
+    "answers": [
+      "1 081 kg",
+      "1 029 kg",
+      "1 056 kg",
+      "1 083 kg"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 16,
+    "text": "Na podstawie informacji zawartych w tabeli określ, która gałąź transportu generuje najniższe łączne koszty zewnętrzne transportu towarów w Unii Europejskiej?",
+    "answers": [
+      "Transport wodny śródlądowy.",
+      "Transport drogowy.",
+      "Transport kolejowy.",
+      "Transport morski."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela42.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 17,
+    "text": "Minimalna liczba pojemników IBC systemu bag in box o pojemności 1 000 l i ładowności 1 000 kg, niezbędnych do przewozu 15 000 l soku owocowego o gęstości 1,08 kg/l wynosi",
+    "answers": [
+      "18 szt.",
+      "17 szt.",
+      "15 szt.",
+      "16 szt."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 18,
+    "text": "Zgodnie z przedstawionym fragmentem ustawy o podatku od towarów i usług przedsiębiorca realizujący usługę przewozu 10 stycznia bieżącego roku jest zobowiązany do wystawienia faktury za jej wykonanie najpóźniej do dnia",
+    "answers": [
+      "15 stycznia bieżącego roku.",
+      "25 lutego bieżącego roku.",
+      "25 stycznia bieżącego roku.",
+      "15 lutego bieżącego roku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_ustawa9.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 19,
+    "text": "Międzynarodowym dokumentem potwierdzającym zawarcie umowy o przewóz ładunku przez nadawcę z przedsiębiorstwem kolejowym jest list przewozowy",
+    "answers": [
+      "CMR",
+      "HAWB",
+      "MAWB",
+      "CIM"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 20,
+    "text": "Wskaż polisę odpisową CARGO.",
+    "answers": [
+      "Polisa D.",
+      "Polisa A.",
+      "Polisa B.",
+      "Polisa C."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela38.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 21,
+    "text": "Jaką minimalną pojemność musi mieć cysterna, aby po załadowaniu do niej 25 000 litrów ładunku stopień wypełnienia cysterny nie przekroczył 80%.",
+    "answers": [
+      "18 750 litrów",
+      "31 250 litrów",
+      "20 000 litrów",
+      "30 000 litrów"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 22,
+    "text": "Ile wyniesie kwota VAT, za przewóz 20 t ładunku na odległość 250 km, jeżeli stawka netto przewozu wynosi 0,40 zł/tkm, a usługa jest objęta 23% VAT?",
+    "answers": [
+      "1 540,00 zł",
+      "2 460,00 zł",
+      "460,00 zł",
+      "2 000,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 23,
+    "text": "Na ilustracji jest przedstawiony",
+    "answers": [
+      "drobnicowiec.",
+      "kontenerowiec.",
+      "masowiec.",
+      "zbiornikowiec."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_ilustracja2.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 24,
+    "text": "Na podstawie informacji o ofertach i kryteriach oceny ofert, wskaż z którym przewoźnikiem spedytor powinien nawiązać współpracę na przewozy krajowe?",
+    "answers": [
+      "Trans Logistic.",
+      "Auto Trans.",
+      "Eurotrans.",
+      "Speed."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela20.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 25,
+    "text": "Klient zamówił piec o wymiarach 1 200 x 1 180 x 2 340 mm (dł. x szer. x wys.). Którą paletę należy zastosować w celu uformowania paletowej jednostki ładunkowej z piecem, tak aby ładunek nie wystawał poza obrys palety?",
+    "answers": [
+      "Paletę o wymiarach 1 200 x 800 x 144 mm",
+      "Paletę przemysłową o wymiarach 1140 x 1 140 x 138 mm",
+      "Paletę powiększoną o wymiarach 1 200 x 1 200 x 144 mm",
+      "Paletę o wymiarach 1 200 x 1 000 x 144 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 26,
+    "text": "Z jaką średnią prędkością porusza się wózek widłowy, który dystans 250 m pokonuje w czasie 3 min?",
+    "answers": [
+      "15 km/h",
+      "5 km/h",
+      "8 km/h",
+      "10 km/h"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 27,
+    "text": "Na podstawie danych z tabeli, który numer należy wpisać w liczniku tablicy ADR informującej o przewozie benzyny będącej cieczą o temperaturze zapłonu 21°C.",
+    "answers": [
+      "1203",
+      "33",
+      "30",
+      "1202"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela43.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 28,
+    "text": "Na podstawie przedstawionego fragmentu umowy ADR, należy dobrać zestaw gaśnic dla zestawu członowego o dopuszczalnej masie całkowitej (dmc) 24 t, którym będą przewożone materiały niebezpieczne.",
+    "answers": [
+      "Dwie gaśnice o pojemności po 2 kg i jedna gaśnica o pojemności 6 kg.",
+      "Dwie gaśnice o pojemności po 6 kg i jedna gaśnica o pojemności 2 kg.",
+      "Jedna gaśnica o pojemności 2 kg i jedna gaśnica o pojemności 8 kg.",
+      "Jedna gaśnica o pojemności 6 kg i jedna gaśnica o pojemności 2 kg."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_umowa.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 29,
+    "text": "Rysunek przedstawia automatyczną identyfikację z wykorzystaniem technologii",
+    "answers": [
+      "głosowej.",
+      "radiowej.",
+      "optycznej.",
+      "magnetycznej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_identyfikacja.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 30,
+    "text": "Jaką objętość zajmie ładunek w naczepie, jeżeli w jednej warstwie jest 18 paletowych jednostek ładunkowych (pjł), załadowane są dwie warstwy pjł, a jedna pjł ma objętość 1,4 m3?",
+    "answers": [
+      "25,2 m3",
+      "50,4 m2",
+      "50,4 m3",
+      "25,2 m2"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 31,
+    "text": "Ile maksymalnie paletowych jednostek ładunkowych (pjł) o wymiarach 1 200 x 800 x 2 450 mm (dł. x szer. x wys.) można umieścić w naczepie o wymiarach wewnętrznych 13 620 x 2 480 x 2 700 mm (dł. x szer. x wys.), jeżeli pjł są ustawiane dłuższym bokiem palety wzdłuż naczepy?",
+    "answers": [
+      "22 pjł",
+      "33 pjł",
+      "36 pjł",
+      "34 pjł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 32,
+    "text": "Ładunek jest formowany na paletach o wymiarach 1,2 x 0,8 x 0,144 m (dł. x szer. x wys.). Wysokość ładunku na palecie wynosi 850 mm. W ilu maksymalnie warstwach można piętrzyć utworzone paletowe jednostki ładunkowe (pjł) w naczepie o wysokości wewnętrznej 2,95 m?",
+    "answers": [
+      "W dwóch warstwach.",
+      "W czterech warstwach.",
+      "W jednej warstwie.",
+      "W trzech warstwach."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 33,
+    "text": "Przedstawiony na rysunku znak manipulacyjny umieszczony na opakowaniu informuje, że ładunek formowany w paletową jednostkę ładunkową",
+    "answers": [
+      "można umieścić tylko w czwartej warstwie na palecie.",
+      "w każdej warstwie waży maksymalnie cztery kilogramy.",
+      "można piętrzyć do czterech warstw.",
+      "składa się z czterech opakowań."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_znak2.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 34,
+    "text": "Na podstawie tabeli określ, jaką maksymalnie objętość zajmie kruszywo załadowane do przedstawionego wagonu, jeżeli przejazd będzie realizowany linią kolejową klasy C, a gęstość kruszywa wynosi 2 t/m3.",
+    "answers": [
+      "59,0 m3",
+      "73,3 m3",
+      "29,5 m3",
+      "35,7 m3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_wagon.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 35,
+    "text": "Która nalepka ADR umieszczona na opakowaniu informuje, że znajduje się w nim materiał, który w kontakcie z wodą wydziela gazy palne?",
+    "answers": [
+      "Nalepka A.",
+      "Nalepka C.",
+      "Nalepka D.",
+      "Nalepka B."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_nalepki.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 36,
+    "text": "Do intermodalnych jednostek transportowych (UTI) nie zaliczamy",
+    "answers": [
+      "naczepy siodłowej.",
+      "nadwozia samochodowego wymiennego.",
+      "kontenera.",
+      "samochodu ciężarowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 37,
+    "text": "Minimalna liczba palet o wymiarach 1 200 x 1 000 x 144 mm (dł. x szer. x wys.), którą należy użyć do uformowania 600 kartonów o wymiarach 200 x 200 x 200 mm, układanych na paletach w 5 warstwach wynosi",
+    "answers": [
+      "3 szt.",
+      "4 szt.",
+      "5 szt.",
+      "6 szt."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 38,
+    "text": "Która konwencja reguluje uproszczone procedury na przejściach granicznych i w urzędach celnych przy międzynarodowym przewozie towarów środkami transportu drogowego?",
+    "answers": [
+      "ATP",
+      "TIR",
+      "CIM",
+      "AETR"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 39,
+    "text": "Która Instytutowa Klauzula Ładunkowa (ICC) stanowi najszerszy zakres ochrony ubezpieczeniowej ładunku przewożonego środkami transportu drogowego?",
+    "answers": [
+      "Klauzula wojenna.",
+      "Klauzula air cargo.",
+      "Klauzula A.",
+      "Klauzula C."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 40,
+    "text": "Zgodnie z przedstawionym fragmentem OPWS zlecenie spedycyjne",
+    "answers": [
+      "musi być potwierdzone w formie pisemnej.",
+      "musi być zawarte w formie pisemnej.",
+      "musi być zawarte w formie aktu notarialnego.",
+      "może być zawarte w formie ustnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_ramka7.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 41,
+    "text": "Jaką pracę przewozową wykonał pojazd, który na trasie Toruń – Warszawa (280 km) przewiózł ładunek o masie 24 ton, a w drodze powrotnej ładunek o masie 16 ton?",
+    "answers": [
+      "6 720 tkm",
+      "11 200 tkm",
+      "8 960 tkm",
+      "13 440 tkm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 42,
+    "text": "Którym środkiem transportu nie można zrealizować przewozu lądowego?",
+    "answers": [
+      "Samochodem ciężarowym.",
+      "Kontenerowcem.",
+      "Pociągiem.",
+      "Zestawem bimodalnym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 43,
+    "text": "Fizyczne przemieszczanie ładunków w ramach jednego przedsiębiorstwa nazywa się transportem",
+    "answers": [
+      "zewnętrznym.",
+      "ciągłym.",
+      "dalekim.",
+      "wewnętrznym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 44,
+    "text": "Z jaką maksymalną prędkością mogą poruszać się pojazdy o dopuszczalnej masie całkowitej powyżej 3,5 tony po drodze przedstawionej na zamieszczonym rysunku?",
+    "answers": [
+      "120 km/h",
+      "60 km/h",
+      "140 km/h",
+      "80 km/h"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_droga.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 45,
+    "text": "Oblicz masę ładunku przewożonego pojazdem o dopuszczalnej masie całkowitej 24 tony i masie własnej 6 ton, jeżeli pojazd miał wykorzystaną ładowność w 80%.",
+    "answers": [
+      "14,4 ton.",
+      "19,2 ton.",
+      "24,0 ton.",
+      "18,0 ton."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 46,
+    "text": "Do funkcji pomocniczych w centrach logistycznych zalicza się",
+    "answers": [
+      "spedycję.",
+      "zarządzanie zamówieniami.",
+      "magazynowanie.",
+      "transport zewnętrzny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 47,
+    "text": "Marka, opakowanie, gwarancja i serwis to instrumenty wykorzystywane w kształtowaniu strategii",
+    "answers": [
+      "produktu.",
+      "dystrybucji.",
+      "ceny.",
+      "promocji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 48,
+    "text": "Na palecie EUR o wymiarach (dł. × szer. × wys.) 1 200 × 800 × 144 mm należy uformować ładunek umieszczony w kartonach o wymiarach (dł. × szer. × wys.) 200 × 100 × 250 mm. Kartonów nie można odwracać, czyli wysokość kartonu musi być wysokością ładunku na palecie. Ile maksymalnie kartonów można rozmieścić na jednej palecie EUR, jeżeli wysokość utworzonej paletowej jednostki ładunkowej nie może przekroczyć 1,5 metra?",
+    "answers": [
+      "220 kartonów.",
+      "336 kartonów.",
+      "240 kartonów.",
+      "120 kartonów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 49,
+    "text": "Zadanie transportowe realizowane co najmniej dwoma środkami transportu tej samej gałęzi określa się procesem transportowym",
+    "answers": [
+      "łamanym.",
+      "kombinowanym.",
+      "bimodalnym.",
+      "multimodalnym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 50,
+    "text": "Kontener typu tank służy do przewozu ładunków",
+    "answers": [
+      "sypkich luzem.",
+      "płynnych luzem.",
+      "drobnicowych.",
+      "o dużych naciskach punktowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 51,
+    "text": "Którą polisę CARGO należy wykupić w celu ubezpieczenia konkretnej przesyłki na czas przewozu określonym środkiem transportu na wskazanej trasie?",
+    "answers": [
+      "Odpisową.",
+      "Generalną.",
+      "Obrotową.",
+      "Jednostkową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 52,
+    "text": "Przedsiębiorstwo Transportowe TRANS (zleceniobiorca) otrzymało od Przedsiębiorstwa Spedycyjnego SPEDPOL (zleceniodawca/płatnik) zlecenie przewozu ładunku z Przedsiębiorstwa Produkcyjnego ONE (nadawca) do Przedsiębiorstwa Produkcyjnego TWO (odbiorca). Na fakturze dotyczącej realizacji tej usługi jako strony transakcji będą podane odpowiednio",
+    "answers": [
+      "sprzedawca: Przedsiębiorstwo Produkcyjne TWO, nabywca: Przedsiębiorstwo Produkcyjne ONE.",
+      "sprzedawca: Przedsiębiorstwo Produkcyjne ONE, nabywca: Przedsiębiorstwo Produkcyjne TWO.",
+      "sprzedawca: Przedsiębiorstwo Transportowe TRANS, nabywca: Przedsiębiorstwo Spedycyjne SPEDPOL.",
+      "sprzedawca: Przedsiębiorstwo Spedycyjne SPEDPOL, nabywca: Przedsiębiorstwo Transportowe TRANS."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 53,
+    "text": "Normy czasu prowadzenia pojazdów, przerw kierowców i okresów odpoczynku regulują",
+    "answers": [
+      "umowa ADR i umowa AETR.",
+      "umowa AETR i rozporządzenie (WE) 561/2006.",
+      "umowa CMR i rozporządzenie (EWG) 3821/85.",
+      "umowa ADR i umowa CMR."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 54,
+    "text": "Którą naklejkę ADR należy umieścić na pojeździe przewożącym substancje żrące?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_naklejki.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 55,
+    "text": "Przewoźnik zobowiązał się dostarczyć ładunek od nadawcy do odbiorcy w systemie just in time na godzinę 17:00. O której godzinie najpóźniej przewoźnik musi wyjechać z bazy do nadawcy ładunku, jeżeli planowany czas załadunku u nadawcy wynosi 45 minut, odległość baza – nadawca wynosi 40 km, a odległość nadawca – odbiorca 160 km? Pojazd porusza się ze średnią prędkością 50 km/h.",
+    "answers": [
+      "O godzinie 12:45",
+      "O godzinie 11:30",
+      "O godzinie 12:15",
+      "O godzinie 13:00"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 56,
+    "text": "Korzystając z informacji zawartych w tabeli, określ który pojazd uzyskał najwyższy wskaźnik wykorzystania pojemności skrzyni ładownej.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 57,
+    "text": "Spedytor, który zawrze ze swoim zleceniodawcą umowę spedycji, ponosi odpowiedzialność za ewentualne szkody zgodnie z przepisami",
+    "answers": [
+      "umowy CMR.",
+      "umowy AETR.",
+      "kodeksu karnego.",
+      "kodeksu cywilnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 58,
+    "text": "Wytyczenie optymalnej trasy przewozu należy do czynności",
+    "answers": [
+      "organizacyjnych procesu przewozowego.",
+      "wykonawczych procesu transportowego.",
+      "organizacyjnych procesu transportowego.",
+      "wykonawczych procesu przewozowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 59,
+    "text": "Przedsiębiorstwo wykonujące przewozy ładunków między państwami świadczy usługi w ramach transportu",
+    "answers": [
+      "bliskiego.",
+      "międzynarodowego.",
+      "krajowego.",
+      "wewnętrznego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 60,
+    "text": "Korzystając z Cennika netto obsługi kontenerów na terminalu, oblicz ile wyniesie koszt netto usługi obejmujący obsługę dwóch kontenerów 40’, polegającą na wyładunku pełnych kontenerów ze statku na plac składowy, a następnie ich przeładunek z placu składowego na środki transportu samochodowego.",
+    "answers": [
+      "580,00 zł",
+      "570,00 zł",
+      "630,00 zł",
+      "315,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_cennik.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 61,
+    "text": "Oblicz kwotę podatku VAT za usługę przewozu ładunku na odległość 230 km, jeżeli cena jednostkowa netto wynosi 3,10 zł/km, a usługa jest objęta 23% stawką podatku VAT.",
+    "answers": [
+      "876,99 zł",
+      "549,01 zł",
+      "57,04 zł",
+      "163,99 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 62,
+    "text": "Na przedstawionym formularzu sporządza się",
+    "answers": [
+      "zapytanie ofertowe.",
+      "reklamację.",
+      "ofertę.",
+      "umowę spedycji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_formularz.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 63,
+    "text": "Specjalny międzynarodowy dokument celny, który umożliwia i usprawnia czasową odprawę celną towarów, wywożonych w celach akwizycyjnych i wystawienniczych, nosi nazwę",
+    "answers": [
+      "świadectwo EUR 1.",
+      "świadectwo EUR-MED.",
+      "karnet TIR.",
+      "karnet ATA."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 64,
+    "text": "Kilkanaście sztuk rur stalowych o długości 2,5 m sformowanych w jedną całość przy użyciu pasów spinających tworzy",
+    "answers": [
+      "kontenerową jednostkę ładunkową.",
+      "mikrojednostkę ładunkową.",
+      "pakietową jednostkę ładunkową.",
+      "paletową jednostkę ładunkową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 65,
+    "text": "Który akt prawny reguluje zasady i warunki dopuszczenia pojazdu do ruchu na drogach publicznych?",
+    "answers": [
+      "Umowa AETR.",
+      "Umowa CMR.",
+      "Prawo o ruchu drogowym.",
+      "Kodeks cywilny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 66,
+    "text": "Oblicz minimalną liczbę naczep o ładowności 27 ton i pojemności 36 m3, jaką należy wykorzystać do przewozu 72 ton cementu, jeżeli gęstość cementu wynosi 1,5 t/m3?",
+    "answers": [
+      "2 naczepy.",
+      "3 naczepy.",
+      "4 naczepy.",
+      "5 naczep."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 67,
+    "text": "Zgodnie z ustawą o transporcie drogowym, dokumentem potwierdzającym posiadanie kwalifikacji i wiedzy niezbędnych do podjęcia i wykonywania działalności gospodarczej w zakresie transportu drogowego jest",
+    "answers": [
+      "licencja przewozowa.",
+      "licencja wspólnotowa.",
+      "certyfikat kompetencji zawodowych.",
+      "zezwolenie na wykonywanie zawodu przewoźnika drogowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 68,
+    "text": "Na zamieszczonym wykresie zestawiono w latach wydatki przedsiębiorstwa transportowego na usprawnienia, modernizację oraz utrzymanie bazy transportowej. Z wykresu wynika, że",
+    "answers": [
+      "wydatki na modernizację najwyższy poziom osiągnęły w 2018 r.",
+      "wydatki na usprawnienia w roku 2018 zmniejszyły się w stosunku do roku poprzedniego o 7,9%.",
+      "wydatki na modernizację bazy transportowej sukcesywnie maleją.",
+      "łączne wydatki na usprawnienia, modernizację i utrzymanie wzrastają z roku na rok o 5,525 mln Euro."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_wykres.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 69,
+    "text": "Tablica ADR barwy pomarańczowej z czarną ramką służy do oznaczania pojazdów przewożących materiały niebezpieczne",
+    "answers": [
+      "w sztukach przesyłki.",
+      "luzem.",
+      "pakowane w ilościach ograniczonych.",
+      "zagrażające tylko roślinom i zwierzętom."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tablica.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 70,
+    "text": "Ile paliwa zużyje pojazd, poruszający się na trasie Kraków-Szczecin-Kraków, jeżeli norma zużycia paliwa wynosi 30 litrów na 100 km, a odległość pomiędzy miastami wynosi 665 km?",
+    "answers": [
+      "1 995,0 litrów paliwa.",
+      "199,5 litra paliwa.",
+      "90,5 litra paliwa.",
+      "399,0 litrów paliwa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 71,
+    "text": "Jaką część godziny zajmie załadunek przedstawionego na rysunku autotransportera, jeżeli kierowca sam dokonuje załadunku aut, a średni czas załadunku jednego auta wynosi 6 minut?",
+    "answers": [
+      "0,92 godziny.",
+      "0,56 godziny.",
+      "0,80 godziny.",
+      "0,48 godziny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_zaladunek.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 72,
+    "text": "Którym skrótem oznacza się seryjny numer jednostki logistycznej przedstawiony na zamieszczonym fragmencie etykiety transportowej?",
+    "answers": [
+      "BATCH/LOT",
+      "VAR. COUNT",
+      "GTIN",
+      "SSCC"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_etykieta.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 73,
+    "text": "Regularny dzienny okres odpoczynku kierowca może wykorzystać w dwóch częściach, z których pierwsza musi nieprzerwanie trwać co najmniej 3 godziny, a druga co najmniej",
+    "answers": [
+      "7 godzin.",
+      "8 godzin.",
+      "11 godzin.",
+      "9 godzin."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 74,
+    "text": "Pozostawienie reklamacji bez odpowiedzi po upływie 30 dni od dnia przyjęcia pisma dotyczącego tej sprawy skutkuje",
+    "answers": [
+      "odrzuceniem reklamacji.",
+      "uznaniem reklamacji.",
+      "wezwaniem reklamującego do ponownego zgłoszenia reklamacji w formie pisemnej.",
+      "wszczęciem postępowania sądowego w sprawie zgłoszonej reklamacji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_rozporzadzenie.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 75,
+    "text": "Zgodnie z zamieszczonym fragmentem ustawy Prawo o ruchu drogowym, ładunek wystający z tyłu pojazdu w okresie dobrej widoczności należy oznaczyć",
+    "answers": [
+      "co najmniej dwoma pasami pomarańczowymi i białym światłem odblaskowym.",
+      "chorągiewką barwy czerwonej.",
+      "chorągiewką barwy pomarańczowej.",
+      "co najmniej dwoma pasami białymi i dwoma pasami czerwonymi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_ustawa.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 76,
+    "text": "Formuły handlowe INCOTERMS 2010: FAS, FOB, CFR i CIF odnoszą się wyłącznie do transportu",
+    "answers": [
+      "wodnego.",
+      "drogowego.",
+      "szynowego.",
+      "powietrznego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 77,
+    "text": "Kiedy przedawni się roszczenie z tytułu uszkodzenia przesyłki, którą dostarczono odbiorcy 10 stycznia 2019 r., zgodnie z zapisami Kodeksu cywilnego?",
+    "answers": [
+      "Po 10 stycznia 2020 r.",
+      "Po 31 grudnia 2019 r.",
+      "Po 11 stycznia 2020 r.",
+      "Po 31 grudnia 2020 r."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_kodeks.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 78,
+    "text": "Którą koncepcję zarządzania zastosowało przedsiębiorstwo spedycyjno–transportowe, jeżeli w celu obniżenia i efektywniejszej kontroli kosztów operacyjnych podjęło decyzję o rezygnacji z utrzymania własnej bazy transportowej i zlecania przewozów firmie zewnętrznej?",
+    "answers": [
+      "Outsourcing.",
+      "Benchmarking.",
+      "Searching.",
+      "Reengineering."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 79,
+    "text": "Na rysunku symbolem „?” oznaczono",
+    "answers": [
+      "plac przymagazynowy.",
+      "rampę.",
+      "zasiekę.",
+      "dok przeładunkowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_rysunek.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 80,
+    "text": "Linie kolejowe ze względu na przeznaczenie i kategorie linii dzielą się na",
+    "answers": [
+      "magistralne, pierwszorzędne, drugorzędne i znaczenia miejscowego.",
+      "jednotorowe, dwutorowe i wielotorowe.",
+      "prywatne i publiczne.",
+      "wąskotorowe, normalnotorowe i szerokotorowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 81,
+    "text": "Które przepisy regulują przewozy materiałów niebezpiecznych środkami transportu morskiego?",
+    "answers": [
+      "Kodeks IMDG",
+      "Regulamin RID",
+      "Umowa ADN",
+      "Umowa ADR"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 82,
+    "text": "Ile paletowych jednostek ładunkowych (pjł) z pustakami powinien odebrać kierowca od nadawcy ładunku zgodnie z załączonym dokumentem WZ, jeżeli na pełnej palecie znajduje się 40 pustaków?",
+    "answers": [
+      "4 850 pjł pełnych.",
+      "87 pjł pełnych i 1 pjł niepełna.",
+      "2 pjł pełne.",
+      "537 pjł pełnych i 1 pjł niepełna."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_dokument3.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 83,
+    "text": "Przedsiębiorstwo MIG zleciło spedytorowi zorganizowanie przewozu ładunku. Przewóz miał być zrealizowany 10 stycznia br. Na podstawie przedstawionego fragmentu OPWS określ, w jakiej formie i do kiedy zleceniodawca powinien złożyć reklamację do spedytora, który dostarczył do odbiorcy uszkodzony ładunek. Przedsiębiorstwo MIG o zaistniałej szkodzie dowiedziało się 11 stycznia bieżącego roku.",
+    "answers": [
+      "Reklamację należy złożyć na piśmie do 17 stycznia br.",
+      "Reklamację należy złożyć telefonicznie do 24 stycznia br.",
+      "Reklamację należy złożyć na piśmie do 25 stycznia br.",
+      "Reklamację należy złożyć telefonicznie do 16 stycznia br."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_ramka9.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 84,
+    "text": "Ile przewozów kabotażowych wykonano na przedstawionym rysunku?",
+    "answers": [
+      "Dwa.",
+      "Cztery.",
+      "Trzy.",
+      "Jeden."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_rysunek6.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 85,
+    "text": "Który rysunek przedstawia element transportowej infrastruktury punktowej?",
+    "answers": [
+      "Rysunek 3.",
+      "Rysunek 1.",
+      "Rysunek 4.",
+      "Rysunek 2."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_rysunki3.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 86,
+    "text": "Na placu kontenerowym do czynności manipulacyjnych są stosowane 4 typy wozów podsiębiernych. Na podstawie danych zawartych w tabeli określ, który wóz uzyskał największą wydajność na godzinę?",
+    "answers": [
+      "Wóz podsiębierny A.",
+      "Wóz podsiębierny B.",
+      "Wóz podsiębierny C.",
+      "Wóz podsiębierny D."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela41.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 87,
+    "text": "Na podstawie danych z tabeli, określ który numer należy wpisać w liczniku tablicy ADR informującej o przewozie benzyny będącej cieczą o temperaturze zapłonu 21°C.",
+    "answers": [
+      "1203",
+      "33",
+      "30",
+      "1202"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela43.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 88,
+    "text": "Ile wyniesie kwota podatku VAT, za przewóz 20 t ładunku na odległość 250 km, jeżeli stawka netto przewozu wynosi 0,40 zł/tkm, a usługa jest objęta 23% VAT?",
+    "answers": [
+      "1 540,00 zł",
+      "460,00 zł",
+      "2 460,00 zł",
+      "2 000,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 89,
+    "text": "Jaką maksymalną objętość kruszywa o gęstości 1,6 t/m3 można załadować do wagonu o pojemności 75 m3 i ładowności 60 t?",
+    "answers": [
+      "37,500 m3",
+      "75,000 m3",
+      "60,000 m3",
+      "46,875 m3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 90,
+    "text": "Którą naklejką ADR należy oznaczyć opakowanie zwierające gazy palne?",
+    "answers": [
+      "Naklejkę B.",
+      "Naklejkę A.",
+      "Naklejkę C.",
+      "Naklejkę D."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_naklejki3.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 91,
+    "text": "Zgodnie z załączonym fragmentem przepisów spedytor nie ponosi odpowiedzialności za",
+    "answers": [
+      "szkodę wynikającą z zaniedbania podwykonawcy usługi.",
+      "ubytek wagi towarów masowych wynikający z właściwości ładunku i mieszczący się w granicach normy.",
+      "przesyłkę wartościową, której dotyczyła podpisana umowa spedycji.",
+      "opóźnienie dostawy przesyłki, która zgodnie z umową miała być dostarczona w określonym czasie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_ramka8.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 92,
+    "text": "Które województwo, według przedstawionego wykresu, miało największy udział w krajowych wywozach ładunków skonteneryzowanych transportem samochodowym w 2020 roku?",
+    "answers": [
+      "Łódzkie.",
+      "Wielkopolskie.",
+      "Pomorskie.",
+      "Mazowieckie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_wykres4.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 93,
+    "text": "Ile maksymalnie kilometrów może przejechać do niedzielonej przerwy kierujący pojazdem o dopuszczalnej masie całkowitej (dmc) 24 t, jeżeli porusza się ze średnią prędkością 70 km/h?",
+    "answers": [
+      "315 km",
+      "280 km",
+      "630 km",
+      "245 km"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 94,
+    "text": "Zgłoszenie towarów do odprawy celnej należy do czynności",
+    "answers": [
+      "organizacyjnych procesu transportowego.",
+      "handlowych procesu przewozowego.",
+      "wykonawczych procesu przewozowego.",
+      "marketingowych procesu transportowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 95,
+    "text": "Na jednej wytłaczance znajduje się 30 jaj. W kartonie wytłaczanki z jajami są układane w 5 warstwach po 2 wytłaczanki w warstwie. Następnie kartony są układane na paletach w 4 warstwach po 3 kartony w warstwie. Ile paletowych jednostek ładunkowych (pjł) zostanie utworzonych z 28 800 jaj?",
+    "answers": [
+      "7 pjł",
+      "5 pjł",
+      "8 pjł",
+      "6 pjł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_jaja.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 96,
+    "text": "Do intermodalnych jednostek transportowych (UTI) nie zalicza się",
+    "answers": [
+      "kontenera.",
+      "nadwozia samochodowego wymiennego.",
+      "naczepy siodłowej.",
+      "samochodu ciężarowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 97,
+    "text": "Jaką pracę przewozową wykonał pociąg składający się z 18 wagonów węglarek przewożących po 50 000 kg węgla w każdym wagonie, jeżeli trasa przewozu wyniosła 625 km?",
+    "answers": [
+      "11 250 tkm",
+      "562 500 tkm",
+      "31 250 tkm",
+      "225 000 tkm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 98,
+    "text": "Który dokument, będący podstawą złożenia reklamacji usługi przewozowej jest przedstawiony na ilustracji?",
+    "answers": [
+      "Protokół szkody.",
+      "Instrukcja pisemna kierowcy.",
+      "List przewozowy.",
+      "Lista przewożonych towarów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_dokument2.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 99,
+    "text": "Który rodzaj transportu ze względu na największą ładowność i najniższe koszty transportu należy zastosować do przewozu samochodów produkowanych w Japonii przeznaczonych do sprzedaży na rynku europejskim?",
+    "answers": [
+      "Transport kolejowy.",
+      "Transport morski.",
+      "Transport powietrzny.",
+      "Transport samochodowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 100,
+    "text": "Które urządzenie jest przedstawione na ilustracji?",
+    "answers": [
+      "Automat do taśmowania.",
+      "Paletyzator.",
+      "Owijarka do palet.",
+      "Depaletyzator."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_urzadzenie.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 101,
+    "text": "Średnie miesięczne zużycie oleju napędowego w przedsiębiorstwie transportowym wynosi 28 800 litrów. W celu redukcji kosztów przedsiębiorstwo postanowiło zoptymalizować styl jazdy kierowców poprzez wdrożenie zasad eco-drivingu co zmniejszy zużycia paliwa o 10%. O ile średnio miesięcznie zmniejszą się koszty zużycia paliwa po wdrożeniu zasad eco-drivingu, jeżeli litr oleju napędowego kosztuje 7,45 zł?",
+    "answers": [
+      "19 310,40 zł",
+      "21 456,00 zł",
+      "214 560,00 zł",
+      "193 104,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 102,
+    "text": "Suwnica bramowa stosowana w przeładunku ładunku z kontenerowca na wagony pracuje ze średnią prędkością 1 intermodalna jednostka ładunkowa w ciągu minuty. Określ minimalny czas potrzebny na przeładunek 135 kontenerów 20’, i 45 kontenerów 40’, jeżeli po 2 godzinach pracy suwnicy jest planowana 15-minutowa przerwa.",
+    "answers": [
+      "3 godziny 00 minut",
+      "3 godziny 15 minut",
+      "2 godziny 25 minut",
+      "3 godziny 55 minut"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 103,
+    "text": "Który zestaw działań należy do funkcji logistycznych centrów logistycznych?",
+    "answers": [
+      "Zestaw B.",
+      "Zestaw C.",
+      "Zestaw D.",
+      "Zestaw A."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela39.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 104,
+    "text": "Określ objętość paletowej jednostki ładunkowej utworzonej z 12 kartonów przedstawionych na ilustracji, ułożonych w jednej warstwie na palecie o wymiarach 1 200 x 1 000 x 150 mm (dł. x szer. x wys.).",
+    "answers": [
+      "1,44 m3",
+      "0,24 m3",
+      "0,42 m3",
+      "2,40 m3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_karton.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 105,
+    "text": "Określ wydajność taśmociągu, który w ciągu dwóch godzin przetransportował 576 ton węgla.",
+    "answers": [
+      "80 kg/s",
+      "160 kg/s",
+      "80 kg/min",
+      "160 kg/min"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 106,
+    "text": "Które urządzenie zamontowane w pojeździe rejestruje aktywności kierowcy, prędkość chwilową oraz przejechany przez pojazd dystans?",
+    "answers": [
+      "Termograf.",
+      "Tempomat.",
+      "Tachograf.",
+      "Taksometr."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 107,
+    "text": "Ilustracja przedstawia przewóz ładunku",
+    "answers": [
+      "mieszanego.",
+      "półmasowego.",
+      "drobnicowego.",
+      "masowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_przewoz.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 108,
+    "text": "Którego urządzenia nie można zastosować do czynności manipulacyjnych kontenerami?",
+    "answers": [
+      "Urządzenia A.",
+      "Urządzenia C.",
+      "Urządzenia D.",
+      "Urządzenia B."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_urzadzenia.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 109,
+    "text": "Który ładunek można przewieźć naczepą o wymiarach wewnętrznych 13 500 x 2 400 x 2 400 mm (dł. x szer. x wys.)?",
+    "answers": [
+      "Czterdzieści beczek o wymiarach 1,0 x 1,6 m (średnica x wysokość).",
+      "Cztery pakiety o wymiarach 10,0 x 0,55 x 1,0 m (dł. x szer. x wys.).",
+      "Dwadzieścia skrzyń o wysokości 2,5 m i polu podstawy 1,44 m2.",
+      "Jedna maszyna o wymiarach 5,2 x 2,8 x 3,1 m (dł. x szer. x wys.)."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 110,
+    "text": "Zgodnie z przedstawionym fragmentem ustawy Prawo o ruchu drogowym ładunek, na przedstawionym ilustracji, może wystawać z tyłu pojazdu maksymalnie",
+    "answers": [
+      "2,00 m od tylnej osi pojazdu.",
+      "2,55 m od tylnej osi pojazdu.",
+      "5,00 m od tylnej płaszczyzny obrysu pojazdu.",
+      "2,00 m od tylnej płaszczyzny obrysu pojazdu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_ustawa8.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 111,
+    "text": "Który rodzaj wózka należy zastosować do obsługi ładunków umieszczonych w regałach przedstawionych na ilustracji?",
+    "answers": [
+      "Widłowy unoszący.",
+      "Podnośnikowy bramowy.",
+      "Podsiębierny unoszący.",
+      "Widłowy podnośnikowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_regaly2.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 112,
+    "text": "Która formuła Incoterms 2020 charakteryzuje się przeniesieniem ryzyka ze sprzedającego na kupującego w magazynie sprzedającego lub w innym miejscu, gdzie następuje odbiór towaru?",
+    "answers": [
+      "DDP (Delivered Duty Paid)",
+      "FOB (Free On Board)",
+      "CFR (Cost And Freight)",
+      "EXW (Ex Works)"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 113,
+    "text": "Które pisma należą do dokumentacji handlowej sporządzanej w związku z propozycją kupna-sprzedaży?",
+    "answers": [
+      "Awizo, faktura, nota korygująca.",
+      "Reklamacja, odpowiedź na reklamację.",
+      "Zapytanie ofertowe, list reklamowy, oferta handlowa.",
+      "Zamówienie, potwierdzenie zamówienia, umowa o dostawę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 114,
+    "text": "Na podstawie danych w tabeli określ, który oddział przedsiębiorstwa transportowego osiągnął najniższy średni koszt przypadający na 1 kilometr?",
+    "answers": [
+      "Oddział B.",
+      "Oddział A.",
+      "Oddział D.",
+      "Oddział C."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela35.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 115,
+    "text": "Międzynarodowy transport towarów koleją reguluje",
+    "answers": [
+      "Umowa SMGS.",
+      "Umowa ADR.",
+      "Konwencja AETR.",
+      "Konwencja CMR."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 116,
+    "text": "Fragment którego pisma procesu reklamacji jest przedstawiony w tabeli?",
+    "answers": [
+      "Zgłoszenia reklamacyjnego.",
+      "Wezwania do przedłożenia dokumentacji w związku z reklamacją.",
+      "Uznania reklamacji.",
+      "Odmowy uznania reklamacji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela37.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 117,
+    "text": "Który magazyn jest zlokalizowany w miejscu wytwarzania danych zapasów?",
+    "answers": [
+      "Centralny.",
+      "Wysyłkowy.",
+      "Regionalny.",
+      "Zakładowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 118,
+    "text": "Na podstawie przedstawionych wskaźników, wskaż z którym przewoźnikiem powinien współpracować spedytor, jeżeli zależy mu na terminowości dostaw.",
+    "answers": [
+      "Z przewoźnikiem A.",
+      "Z przewoźnikiem B.",
+      "Z przewoźnikiem D.",
+      "Z przewoźnikiem C."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela36.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 119,
+    "text": "Określ maksymalną liczbę skrzyń o wymiarach zewnętrznych 1,8 x 1,6 x 1,5 m (dł. x szer. x wys.), którą można umieścić w kontenerze o wymiarach wewnętrznych 13 556 x 2 345 x 2 498 mm (dł. x szer. x wys.)?",
+    "answers": [
+      "6 szt.",
+      "9 szt.",
+      "7 szt.",
+      "8 szt."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 120,
+    "text": "Które informacje należy wpisać w polu „Zamówienie” w dokumencie magazynowym przychód zewnętrzny?",
+    "answers": [
+      "Imię i nazwisko osoby składającej zamówienie.",
+      "Ilość i rodzaj zamówionego towaru.",
+      "Datę złożenia zamówienia u dostawcy na towar, którego dotyczy dokument Pz.",
+      "Numer zamówienia złożonego u dostawcy na towar, którego dotyczy dokument Pz."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 121,
+    "text": "Wskaż, które opakowanie nie zostało prawidłowo napełnione jeśli przepisy o przewozie materiałów niebezpiecznych określają dla przewożonej substancji maksymalny stopień napełnienia opakowania 96%.",
+    "answers": [
+      "Opakowanie A.",
+      "Opakowanie B.",
+      "Opakowanie C.",
+      "Opakowanie D."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela34.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 122,
+    "text": "Który rodzaj wózka widłowego jest przedstawiony na ilustracji?",
+    "answers": [
+      "Ręczny.",
+      "Akumulatorowy.",
+      "Spalinowy.",
+      "Elektryczny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_wozek.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 123,
+    "text": "Jeżeli zadanie transportowe jest realizowane co najmniej dwoma gałęziami transportu, ze zmianą jednostki transportowej, to mamy do czynienia z procesem transportowym",
+    "answers": [
+      "intermodalnym.",
+      "bimodalnym.",
+      "łamanym.",
+      "multimodalnym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 124,
+    "text": "Której gałęzi transportu dotyczy konwencja chicagowska?",
+    "answers": [
+      "Transportu kolejowego.",
+      "Transportu lotniczego.",
+      "Transportu wodnego.",
+      "Transportu drogowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 125,
+    "text": "Określ znaczenie znaku manipulacyjnego wskazanego na ilustracji czerwoną strzałką.",
+    "answers": [
+      "Sposób mocowania ładunku w skrzyni.",
+      "Miejsce zakładania zawiesi.",
+      "Zakaz chwytania ładunku.",
+      "Położenie środka ciężkości ładunku."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_ilustracja3.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 126,
+    "text": "Na podstawie zamieszczonego cennika określ koszt przewozu 38 paletowych jednostek ładunkowych (pjł) na odległość 325 km.",
+    "answers": [
+      "1 332,50 zł",
+      "1 672,50 zł",
+      "1 025,00 zł",
+      "1 365,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_cennik4.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 127,
+    "text": "Na które narzędzie marketingu mix powinno zwrócić uwagę przedsiębiorstwo, jeśli dla jego potencjalnych klientów najważniejsza jest jakość świadczonych usług?",
+    "answers": [
+      "Produkt.",
+      "Cenę.",
+      "Promocję.",
+      "Dystrybucję."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 128,
+    "text": "Który dokument powinien wystawić sprzedawca, jeśli na fakturze umieścił błędny numer NIP nabywcy?",
+    "answers": [
+      "Notę księgową.",
+      "Notę korygującą.",
+      "Fakturę korygującą.",
+      "Fakturę marża."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 129,
+    "text": "Który egzemplarz międzynarodowego listu kolejowego CIM jest przeznaczony dla stacji przeznaczenia przesyłki?",
+    "answers": [
+      "Oryginał.",
+      "Wtórnik.",
+      "Poświadczenie wysłania.",
+      "Ceduła przewozowa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 130,
+    "text": "Na palecie o wysokości 150 mm rozmieszczono ładunek w 5 warstwach. Wysokość jednej warstwy ładunku wynosi 320 mm. Między warstwami ładunku umieszczono przekładki o wysokości 2 cm, które nie zmieniają swojej wysokości pod wpływem nacisku. Określ wysokość utworzonej paletowej jednostki ładunkowej.",
+    "answers": [
+      "1,60 m",
+      "1,83 m",
+      "1,85 m",
+      "1,75 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 131,
+    "text": "Ładownię którego środka transportu przedstawiono na ilustracji?",
+    "answers": [
+      "Barki.",
+      "Samolotu.",
+      "Wagonu kolejowego.",
+      "Naczepy samochodowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_ladownia.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 132,
+    "text": "Przedsiębiorstwo transportowe posiada cennik, w którym opłaty naliczane są w zależności od liczby kilometrów pokonanych przez pojazd. Klientom, którzy zlecają przewozy na odległość ponad 300 km oferowany jest 5% rabat. Który rodzaj rabatu oferuje przedsiębiorstwo transportowe?",
+    "answers": [
+      "Funkcjonalny.",
+      "Sezonowy.",
+      "Ilościowy.",
+      "Przestrzenny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 133,
+    "text": "Przedsiębiorstwo otrzymało zlecenie przewozu 24 skrzyń o wymiarach zewnętrznych (dł. x szer. x wys.): 1 450 x 1 100 x 1 800 mm i masie brutto 2 450 kg każda. Ładunek należy przewieźć pionowo w kontenerach o ładowności 28 t i wymiarach wewnętrznych (dł. x szer. x wys.): 5 900 x 2 350 x 2 390 mm. Określ minimalną liczbę kontenerów potrzebną do realizacji otrzymanego zlecenia?",
+    "answers": [
+      "6 kontenerów.",
+      "2 kontenery.",
+      "5 kontenerów.",
+      "3 kontenery."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 134,
+    "text": "Który rodzaj budowli magazynowych jest przedstawiony na ilustracji?",
+    "answers": [
+      "Hale.",
+      "Wiaty.",
+      "Silosy.",
+      "Zasieki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_budowle.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 135,
+    "text": "Określ minimalną liczbę butelek i kartonów, przedstawionych na ilustracjach, potrzebną do przygotowania dla klienta dostawy 2 520 litrów oliwy z oliwek?",
+    "answers": [
+      "Butelka – 2520 szt., karton – 420 szt.",
+      "Butelka – 1 260 szt., karton – 210 szt.",
+      "Butelka – 420 szt., karton – 70 szt.",
+      "Butelka – 5 040 szt., karton – 840 szt."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_opakowania.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 136,
+    "text": "Który dokument jest przedstawiony na ilustracji?",
+    "answers": [
+      "Wpłata gotówkowa.",
+      "Czek rozrachunkowy.",
+      "Czek gotówkowy.",
+      "Polecenie przelewu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_dokument6.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 137,
+    "text": "Karnet TIR jest dokumentem celnym oraz",
+    "answers": [
+      "finansowym.",
+      "gwarancyjnym.",
+      "ubezpieczeniowym.",
+      "rozliczeniowym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 138,
+    "text": "Który magazyn, zgodnie z przedstawionymi cennikami, oferuje najniższe koszty magazynowania 50 skrzyń o wymiarach (dł. x szer. x wys.): 1 500 x 1 000 x 2 000 mm i masie brutto 2 200 kg każda, jeżeli skrzyń nie można piętrzyć?",
+    "answers": [
+      "Magazyn C.",
+      "Magazyn B.",
+      "Magazyn A.",
+      "Magazyn D."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_cennik3.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 139,
+    "text": "Według przedstawionego wykresu praca przewozowa ogółem wykonana transportem drogowym wzrosła w roku 2021 w stosunku do roku 2020",
+    "answers": [
+      "o 13 mln tkm",
+      "o 31 mln tkm",
+      "o 44 mln tkm",
+      "o 120 mln tkm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_wykres6.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 140,
+    "text": "Przedsiębiorstwo otrzymało zlecenie przewozu 30 skrzyń na odległość 216 km. Załadunek jednej skrzyni trwa 2 minuty, zabezpieczenie całego ładunku na naczepie i przygotowanie zestawu do jazdy 24 minuty, a wyładunek jednej skrzyni u odbiorcy 3 minuty. Określ łączny czas trwania procesu transportowego, obejmującego wszystkie czynności od załadunku ładunku do przekazania go odbiorcy, jeżeli na trasie pojazd poruszał się ze średnią prędkością 60 km/h?",
+    "answers": [
+      "5 godzin i 00 minut",
+      "5 godzin i 36 minut",
+      "6 godzin i 30 minut",
+      "6 godzin i 50 minut"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 141,
+    "text": "Z tabeli zawierającej znaczenie cyfr w numerze rozpoznawczym niebezpieczeństwa wynika, że przedstawiona na ilustracji tablica ADR, umieszczona na pojeździe, informuje o transporcie",
+    "answers": [
+      "cieczy samozapalnej, reagującej niebezpiecznie z wodą.",
+      "materiału utleniającego, wytwarzającego gazy i gwałtownie reagującego.",
+      "cieczy silnie łatwozapalnej i żrącej, reagującej niebezpiecznie z wodą.",
+      "materiału wybuchowego, wytwarzającego gazy i utleniającego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela29.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 142,
+    "text": "O godzinie 6:15 rozpoczął się rozładunek węgla z wagonów przy użyciu wywrotnicy, która jednocześnie opróżnia 2 wagony. Łączny czas wjazdu dwóch wagonów, odpięcia ich od składu, opróżnienia ich z węgla i wyjazd z wywrotnicy wynosi 5 minut. Do której godziny będzie trwał rozładunek składu przewożącego 2 880 ton węgla, jeżeli w jednym wagonie znajduje się 60 ton węgla?",
+    "answers": [
+      "Do 8:15",
+      "Do 10:15",
+      "Do 11:18",
+      "Do 7:35"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 143,
+    "text": "Centra logistyczne i porty morskie w systemie logistycznym",
+    "answers": [
+      "konsolidują przepływy towarów w duże strumienie ładunków.",
+      "wspierają spadek intermodalności transportu towarowego.",
+      "zmniejszają możliwości pozyskiwania ładunków na trasach powrotnych środków transportu.",
+      "dezintegrują regiony gospodarcze."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 144,
+    "text": "W przypadku, gdy po wystawieniu faktury sprzedaży klientowi udzielono rabatu, to sprzedawca jest zobowiązany do wystawienia",
+    "answers": [
+      "faktury marża.",
+      "noty księgowej.",
+      "faktury korygującej.",
+      "noty korygującej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 145,
+    "text": "Zakładając, że w przedsiębiorstwie produkcyjnym wyróżniamy dostawców materiałów, obszary magazynowe, odbiorców oraz system produkcyjny, to przedstawiony na schemacie transport zewnętrzny obejmuje logistykę",
+    "answers": [
+      "produkcji i magazynową.",
+      "produkcji i dystrybucji.",
+      "zaopatrzenia i dystrybucji.",
+      "zaopatrzenia i magazynową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_schemat3.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 146,
+    "text": "Średni czas jednego cyklu pracy suwnicy bramowej, podczas którego pobiera jeden kontener, wynosi 3 min. O której godzinie najpóźniej należy rozpocząć załadunek pociągu, jeżeli wyjazd do odbiorcy zaplanowano na godzinę 12:00, a na wagony należy załadować 48 kontenerów?",
+    "answers": [
+      "O godzinie 10:36",
+      "O godzinie 14:24",
+      "O godzinie 9:36",
+      "O godzinie 10:24"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 147,
+    "text": "Na podstawie zamieszczonego fragmentu rozporządzenia określ minimalną powierzchnię ładowni statku potrzebną do przewozu 50 świń, jeżeli masa jednej świni wynosi 100 kg.",
+    "answers": [
+      "21,3 m2",
+      "85,0 m2",
+      "42,5 m2",
+      "25,5 m2"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_rozporzadzenie5.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 148,
+    "text": "Ilustracja przedstawia końcowy etap negocjacji, które zakończyły się",
+    "answers": [
+      "zastraszeniem.",
+      "porażką.",
+      "porozumieniem.",
+      "niepowodzeniem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_ilustracja.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 149,
+    "text": "Które przedsiębiorstwo transportowe zrealizuje załadunek, przewóz i rozładunek 40 kontenerów IBC na odległość 210 km, po najniższym łącznym koszcie?",
+    "answers": [
+      "Przedsiębiorstwo transportowe D.",
+      "Przedsiębiorstwo transportowe A.",
+      "Przedsiębiorstwo transportowe B.",
+      "Przedsiębiorstwo transportowe C."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela31.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 150,
+    "text": "Która konwencja reguluje przewozy artykułów spożywczych, szybko psujących się w kontrolowanej temperaturze?",
+    "answers": [
+      "ADR",
+      "ADN",
+      "ATP",
+      "ATA"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 151,
+    "text": "Przewóz którego typu ładunku wymaga wypełnienia dziennika podróży przedstawionego na ilustracji?",
+    "answers": [
+      "Żywych zwierząt.",
+      "Artykułów spożywczych.",
+      "Materiałów niebezpiecznych.",
+      "Dzieł sztuki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_dziennik.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 152,
+    "text": "Do kontenera, którego fragment tablicy znamionowej przedstawiono na ilustracji, załadowano towar o masie 8 556 kg. Określ wskaźnik wykorzystania ładowności tego kontenera?",
+    "answers": [
+      "50%",
+      "13%",
+      "28%",
+      "30%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_kontener.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 153,
+    "text": "Przedsiębiorstwo FIX sprzedało Hurtowni OLE produkty, które do odbiorcy dostarczy Przedsiębiorstwo TRANS. Ładunek na czas przewozu będzie ubezpieczony w Agencji ALL. W dokumencie WZ wystawionym w związku z wydaniem hurtowni zamówionych produktów w okienku „odbiorca” należy wpisać dane",
+    "answers": [
+      "Przedsiębiorstwa FIX.",
+      "Agencji ALL.",
+      "Hurtowni OLE.",
+      "Przedsiębiorstwa TRANS."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 154,
+    "text": "Nadawca przekazał przesyłkę do przewozu 14 maja. Odbiorca przyjął bez zastrzeżeń przesyłkę od przewoźnika 16 maja. Następnego dnia przy otwieraniu przesyłki okazało się, że jest ona uszkodzona w sposób niedający się zauważyć z zewnątrz. Zgodnie z przedstawionym fragmentem ustawy odbiorca powinien zgłosić do przewoźnika żądanie ustalenia stanu przesyłki najpóźniej",
+    "answers": [
+      "21 maja.",
+      "22 maja.",
+      "23 maja.",
+      "24 maja."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_ustawa7.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 155,
+    "text": "W jaki sposób, zgodnie z przedstawionym fragmentem OPWS, zleceniodawca powinien złożyć reklamację do spedytora?",
+    "answers": [
+      "Na piśmie w ciągu 14 dni od daty powstania szkody.",
+      "Ustnie w ciągu 6 dni od daty powstania szkody.",
+      "Ustnie w ciągu 14 dni od daty, w której zleceniodawca dowiedział się o zaistniałej szkodzie.",
+      "Na piśmie w ciągu 6 dni od daty, w której zleceniodawca dowiedział się o zaistniałej szkodzie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_ramka6.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 156,
+    "text": "Który wózek widłowy należy zastosować, aby jak najszybciej załadować do naczepy 34 paletowe jednostki ładunkowe o masie brutto 1 322 kg/pjł?",
+    "answers": [
+      "Wózek widłowy D.",
+      "Wózek widłowy C.",
+      "Wózek widłowy B.",
+      "Wózek widłowy A."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela28.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 157,
+    "text": "Który skrót jest oznaczeniem Globalnego Numeru Lokalizacyjnego w systemie GS1?",
+    "answers": [
+      "EAN",
+      "GLN",
+      "GTIN",
+      "SSCC"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 158,
+    "text": "Przykładem infrastruktury liniowej transportu powietrznego jest",
+    "answers": [
+      "droga kołowania.",
+      "płyta postojowa.",
+      "pas startowy.",
+      "korytarz powietrzny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 159,
+    "text": "Ilustracja przedstawia przewozy międzynarodowe i kabotażowe. Na której trasie zgodnie z przedstawioną ilustracją został wykonany międzynarodowy przewóz ładunku?",
+    "answers": [
+      "Z Hiszpanii do Niemiec.",
+      "Z Niemiec do Hiszpanii.",
+      "Z Hiszpanii do Francji.",
+      "Z Niemiec do Francji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_schemat2.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 160,
+    "text": "W którym modelu organizacji zadań transportowych pojazd po dostarczeniu ładunku do jednego odbiorcy wraca do miejsca nadania, aby załadować towar, a następnie dostarczyć go do kolejnego odbiorcy?",
+    "answers": [
+      "Sztafetowym.",
+      "Obwodowym.",
+      "Promienistym.",
+      "Wahadłowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 161,
+    "text": "Ładunek na pojeździe należy umieścić w taki sposób, aby",
+    "answers": [
+      "powodował przekroczenie dopuszczalnych nacisków osi pojazdu na drogę.",
+      "nie zmieniał położenia w trakcie jazdy.",
+      "ograniczał widoczność drogi i urządzeń sygnalizacyjnych.",
+      "naruszał stateczność pojazdu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 162,
+    "text": "Którą naczepę należy zastosować do przewozu 32 paletowych jednostek ładunkowych o wymiarach (dł. x szer. x wys.): 1,2 x 0,8 x 1,6 m przy założeniu najmniejszej straty sztauerskiej?",
+    "answers": [
+      "Naczepę B.",
+      "Naczepę A.",
+      "Naczepę D.",
+      "Naczepę C."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela27.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 163,
+    "text": "Na podstawie cennika stawek czynnościowych oblicz łączny koszt usług obejmujących: formowanie 33 paletowych jednostek ładunkowych (pjł), załadunek sformowanych pjł do kontenera 20’, załadunek kontenera 20’ na środek transportu drogowego oraz przewóz kontenera 20’ na odległość 200 km.",
+    "answers": [
+      "1 500,00 zł",
+      "1 300,00 zł",
+      "1 230,00 zł",
+      "1 430,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela30.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 164,
+    "text": "Która ilustracja przedstawia mikrojednostkę ładunkową?",
+    "answers": [
+      "Ilustracja C.",
+      "Ilustracja B.",
+      "Ilustracja D.",
+      "Ilustracja A."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_ilustracje.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 165,
+    "text": "Która formuła Incoterms 2020 została przedstawiona w tabeli?",
+    "answers": [
+      "FAS",
+      "EXW",
+      "DDP",
+      "CPT"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela32.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 166,
+    "text": "Przedstawiony na ilustracji znak informuje, że pojazdy lub zespoły pojazdów o dopuszczalnej masie całkowitej powyżej 3,5 t będą",
+    "answers": [
+      "podlegać poborowi opłaty elektronicznej za przejazd drogą publiczną.",
+      "korzystać z systemu nawigacji satelitarnej.",
+      "wjeżdżać na teren objęty monitoringiem wizyjnym.",
+      "znajdować się w obszarze identyfikowania ładunku przez system RFiD."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_znak3.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 167,
+    "text": "Przedsiębiorstwo transportowe dla usług przewozu stosuje stawkę 0,30 zł/tkm. Określ koszt przewozu ładunku na odległość 100 km pojazdem o ładowności 24 t, jeżeli współczynnik wykorzystania ładowności tego pojazdu wynosi 0,75?",
+    "answers": [
+      "600,00 zł",
+      "540,00 zł",
+      "960,00 zł",
+      "720,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 168,
+    "text": "Który rodzaj suwnicy jest przedstawiony na ilustracji?",
+    "answers": [
+      "Pomostowa.",
+      "Wysięgnikowa.",
+      "Bramowa.",
+      "Kolumnowa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_suwnica.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 169,
+    "text": "Do czasu pracy kierowcy wlicza się",
+    "answers": [
+      "dobowy nieprzerwany odpoczynek.",
+      "nieusprawiedliwiony postój w czasie prowadzenia pojazdu.",
+      "czas dyżuru, jeżeli podczas dyżuru kierowca nie wykonywał pracy.",
+      "nadzór nad załadunkiem i wyładunkiem towaru."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 170,
+    "text": "Dobór środka transportu do przewozu, przygotowanie dokumentacji i wybór trasy są zadaniami wykonywanymi w ramach",
+    "answers": [
+      "fizycznego przemieszczania ładunku.",
+      "organizacji procesu przewozowego.",
+      "oceny przebiegu procesu transportowego.",
+      "przygotowania ładunku do przewozu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 171,
+    "text": "Przedstawionym fragmentem dokumentu jest",
+    "answers": [
+      "oferta handlowa.",
+      "list reklamowy.",
+      "zapytania ofertowe.",
+      "potwierdzenie zamówienia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_dokument5.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 172,
+    "text": "Określ stratę sztauerską w naczepie o pojemności 86,4 m3, jeżeli załadowano do niej 30 paletowych jednostek ładunkowych o wymiarach 1 200 x 800 x 1 500 mm (dł. x szer. x wys.). s = (V – N · v) : V s – strata sztauerska v – objętość jednej pjł V – pojemność naczepy N – liczba pjł umieszczonych w naczepie",
+    "answers": [
+      "0,60",
+      "0,40",
+      "0,50",
+      "0,70"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 173,
+    "text": "Którą strategię cenową stosuje przedsiębiorstwo spedycyjne dostosowując swoje ceny do cen usług oferowanych przez konkurencję?",
+    "answers": [
+      "Strategię selektywną.",
+      "Strategię penetracji.",
+      "Strategię innowacyjną.",
+      "Strategię adaptacyjną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 174,
+    "text": "Warunki eksploatacji technicznej ciągnika siodłowego wymagają wymiany oleju silnikowego co 40 000 km przebiegu. Ostatnia wymiana oleju w ciągniku miała miejsce przy stanie licznika 238 460 km. Ile maksymalnie kilometrów może przejechać ciągnik przed kolejną wymianą oleju, jeżeli obecny stan licznika wynosi 276 110 km?",
+    "answers": [
+      "2 350 km",
+      "40 000 km",
+      "37 650 km",
+      "3 890 km"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 175,
+    "text": "Który ładunek musi być pilotowany przez pojazd przedstawiony na ilustracji?",
+    "answers": [
+      "Przewożący żywe zwierzęta.",
+      "Niebezpieczny.",
+      "Nienormatywny.",
+      "Szybko psujący się."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_pojazd2.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 176,
+    "text": "Ile maksymalnie warstw kartonów o wysokości 600 mm można ułożyć na palecie o wymiarach 1 200 x 1 000 x 150 mm (dł. x szer. x wys.), jeżeli wysokość paletowej jednostki ładunkowej nie może przekroczyć 1,8 m?",
+    "answers": [
+      "1 warstwę.",
+      "3 warstwy.",
+      "4 warstwy.",
+      "2 warstwy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 177,
+    "text": "Ile czasu zajmie załadunek 2 cystern, każda o pojemności 25 000 litrów, jeżeli tempo załadunku wynosi 1 000 litrów na 5 minut, a cysterny są napełniane w 80%, jedna po drugiej?",
+    "answers": [
+      "4 godziny i 10 minut",
+      "1 godzinę i 40 minut",
+      "2 godziny i 05 minut",
+      "3 godziny i 20 minut"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 178,
+    "text": "Dominacja jest stylem negocjacji charakteryzującym się",
+    "answers": [
+      "troską o wzajemne stosunki między stronami.",
+      "dążeniem do realizacji własnych interesów.",
+      "dążeniem do realizacji interesów drugiej strony.",
+      "uległością wobec drugiej strony."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 179,
+    "text": "Początek rozładunku pojazdu z 34 skrzyniami zaplanowano na godzinę 10:30. Czas wyładunku 1 skrzyni wynosi 2 min, a kontrola ilościowo-jakościowa wszystkich skrzyń trwa łącznie 25 min bezpośrednio po wyładunku. O której godzinie zakończy się proces przyjęcia dostawy towaru do magazynu?",
+    "answers": [
+      "O godzinie 11:29",
+      "O godzinie 10:59",
+      "O godzinie 11:38",
+      "O godzinie 12:03"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 180,
+    "text": "Materiały nieodporne na warunki atmosferyczne i wymagające specjalnych parametrów temperatury i wilgotności w czasie przechowywania są składowane w magazynach",
+    "answers": [
+      "półzamkniętych.",
+      "otwartych.",
+      "zamkniętych.",
+      "półotwartych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 181,
+    "text": "Cysterna o pojemności 40 m3 wykorzystywana do przewozu materiałów niebezpiecznych może być wypełniona maksymalnie w 90%. Co najmniej, ile cystern należy zastosować do przewozu 360 m3 materiału niebezpiecznego?",
+    "answers": [
+      "8 cystern.",
+      "9 cystern.",
+      "11 cystern.",
+      "10 cystern."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 182,
+    "text": "Na ilustracji jest przedstawiony terminal",
+    "answers": [
+      "lotniczy drobnicowy.",
+      "lotniczy masowy.",
+      "morski masowy.",
+      "morski drobnicowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_terminal.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 183,
+    "text": "Której formuły handlowej Incoterms 2020 dotyczy opis w tabeli?",
+    "answers": [
+      "CFR",
+      "CIF",
+      "FOB",
+      "FAS"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_ramka5.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 184,
+    "text": "Maksymalnie ile kilometrów może przejechać bez przerwy kierowca pojazdu wysokotonażowego, jeżeli pojazd porusza się z prędkością 80 km/h?",
+    "answers": [
+      "360 km",
+      "270 km",
+      "405 km",
+      "720 km"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 185,
+    "text": "Który wagon należy zastosować do przewozu zboża luzem?",
+    "answers": [
+      "Wagon typu Hais",
+      "Wagon typu Flls",
+      "Wagon typu Ugpps",
+      "Wagon typu Zas"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela25.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 186,
+    "text": "Który karnet jest dokumentem celnym stosowanym do czasowej odprawy środków transportu zarejestrowanych w Polsce a wwożonych na przykład do krajów Bliskiego i Dalekiego Wschodu?",
+    "answers": [
+      "ATA",
+      "TIR",
+      "CPD",
+      "HVG"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 187,
+    "text": "Który wózek widłowy najszybciej dokona załadunku 34 paletowych jednostek ładunkowych (pjł) do naczepy, jeżeli odległość z miejsca składowania pjł do naczepy wynosi 200 m?",
+    "answers": [
+      "Wózek 2.",
+      "Wózek 4.",
+      "Wózek 3.",
+      "Wózek 1."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela26.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 188,
+    "text": "W modelu wahadłowym organizacji zadań transportowych, po dostarczeniu towaru z miejsca załadunku do miejsca wyładunku, pojazd",
+    "answers": [
+      "przemieszcza się do punktu przeładunkowego w celu przeładowania ładunku na mniejszy środek transportu.",
+      "przemieszcza się bez ładunku do kolejnego miejsca wyładunku.",
+      "wraca do miejsca przeznaczenia przesyłki.",
+      "wraca do miejsca nadania przesyłki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 189,
+    "text": "Przedsiębiorstwo otrzymało zlecenie przewozu belek z drewna klejonego o wymiarach 400 x 10 x 10 cm (dł. x szer. x wys.), które należy uformować w pakietowe jednostki ładunkowe zgodnie z przedstawioną ilustracją. Utworzona pakietowa jednostka ładunkowa będzie miała wymiary (dł. x szer. x wys.)",
+    "answers": [
+      "1 200 x 30 x 30 cm",
+      "4,0 x 0,3 x 0,3 m",
+      "30 x 30 x 400 mm",
+      "0,4 x 0,03 x 0,03 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_belki.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 190,
+    "text": "W którym roku, zgodnie z przedstawionym wykresem, przewozy kabotażowe miały najmniejszy udział w łącznych przewozach realizowanych w danym roku?",
+    "answers": [
+      "2016 r.",
+      "2018 r.",
+      "2017 r.",
+      "2019 r."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_wykres5.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 191,
+    "text": "Z usług którego przewoźnika należy skorzystać, aby jak najszybciej dostarczyć ładunek z Warszawy do Nowego Jorku?",
+    "answers": [
+      "Morskiego.",
+      "Lotniczego.",
+      "Kolejowego.",
+      "Drogowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 192,
+    "text": "Ubezpieczenie typu CARGO obejmuje ochroną ubezpieczeniową",
+    "answers": [
+      "pojazd.",
+      "ładunek.",
+      "przewoźnika.",
+      "spedytora."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 193,
+    "text": "Który osprzęt wózka widłowego należy wykorzystać do przeładunku dużych rolek papieru?",
+    "answers": [
+      "Osprzęt 1.",
+      "Osprzęt 3.",
+      "Osprzęt 2.",
+      "Osprzęt 4."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_osprzet.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 194,
+    "text": "W transporcie łamanym zadania przewozowe są realizowane",
+    "answers": [
+      "tylko dwoma środkami transportu z różnych gałęzi transportu.",
+      "co najmniej dwoma środkami transportu z tej samej gałęzi transportu.",
+      "tylko jednym środkiem transportu.",
+      "co najmniej dwoma środkami transportu z różnych gałęzi transportu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 195,
+    "text": "Który dokument handlowy wymagany do odprawy celnej w imporcie jest przedstawiony na ilustracji?",
+    "answers": [
+      "Faktura handlowa.",
+      "Lista pakunkowa.",
+      "List przewozowy.",
+      "Świadectwo pochodzenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_dokument4.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 196,
+    "text": "Zgodnie z przedstawionym fragmentem ustawy rzeczywista masa całkowita przyczepy ciągniętej przez samochód ciężarowy o rzeczywistej masie całkowitej 16 000 kg nie może przekraczać",
+    "answers": [
+      "6,4 t",
+      "4,9 t",
+      "17,4 t",
+      "22,4 t"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_ustawa5.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 197,
+    "text": "W magazynie przedstawionym na ilustracji jednostki ładunkowe są obsługiwane przez",
+    "answers": [
+      "układnice paletowe.",
+      "wózki unoszące.",
+      "suwnice bramowe.",
+      "żurawie wieżowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_magazyn.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 198,
+    "text": "Który dokument magazynowy dotyczy wydania towaru z magazynu dla odbiorcy zewnętrznego?",
+    "answers": [
+      "PZ",
+      "ZW",
+      "MM",
+      "WZ"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 199,
+    "text": "Który rodzaj ładunku znajduje się w pojeździe, który realizuje przewóz w ramach umowy ATP?",
+    "answers": [
+      "Artykuły spożywcze szybko psujące się.",
+      "Dzieła sztuki współczesnej.",
+      "Żywe zwierzęta.",
+      "Materiały niebezpieczne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 200,
+    "text": "Kontener refrigerated służy do przewozu ładunków",
+    "answers": [
+      "o dużych naciskach punktowych.",
+      "płynnych luzem.",
+      "sypkich luzem.",
+      "w kontrolowanej temperaturze."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 201,
+    "text": "Przewoźnik, podwykonawca spedytora, w wyniku zaniedbania 24 lutego uszkodził przesyłkę. Nadawca przesyłki 26 lutego złożył reklamację u spedytora, który 6 marca uznał reklamację i 12 marca wypłacił odszkodowanie nadawcy przesyłki. Zgodnie z przedstawionym fragmentem Kodeksu cywilnego roszczenie spedytora przeciwko przewoźnikowi przedawni się",
+    "answers": [
+      "26 sierpnia.",
+      "24 sierpnia.",
+      "12 września.",
+      "6 września."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_ustawa6.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 202,
+    "text": "Formuła handlowa Incoterms 2020 FCA (Free Carrier) oznacza",
+    "answers": [
+      "franco statek.",
+      "franco przewoźnik.",
+      "loco magazyn odbiorcy.",
+      "loco magazyn dostawcy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 203,
+    "text": "Koszt netto zorganizowania przewozu wyniósł 3 500,00 zł, a przedsiębiorstwo spedycyjne stosuje 30% prowizję spedytorską liczoną od poniesionych kosztów. Na jaką wartość brutto będzie wystawiona faktura za usługę spedycyjną, obejmującą poniesione koszty oraz prowizję spedytorską, jeżeli usługa jest objętą 23% stawką VAT?",
+    "answers": [
+      "4 550,00 zł",
+      "5 596,50 zł",
+      "1 291,50 zł",
+      "4 305,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 204,
+    "text": "Regularny dzienny okres odpoczynku kierowca może wykorzystać w dwóch częściach, z których druga musi nieprzerwanie trwać co najmniej 9 godzin, a pierwsza co najmniej",
+    "answers": [
+      "5 godzin.",
+      "2 godziny.",
+      "3 godziny.",
+      "4 godziny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 205,
+    "text": "Instrukcje Techniczne ICAO dotyczą przewozu materiałów niebezpiecznych transportem",
+    "answers": [
+      "kolejowym.",
+      "morskim.",
+      "powietrznym.",
+      "drogowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 206,
+    "text": "Puste przestrzenie, które mogą powstać w wyniku sztauowania jednostek ładunkowych o różnych kształtach i rozmiarach, muszą być wypełnione, aby zapewnić",
+    "answers": [
+      "maksymalne wypełnienie przestrzeni ładunkowej.",
+      "przyspieszenie czynności związanych z załadunkiem i rozładunkiem.",
+      "odpowiednie oparcie i stabilność ładunku.",
+      "oddzielenie poszczególnych jednostek ładunkowych od siebie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 207,
+    "text": "Który ładunek może być przewieziony samolotem o wymiarach ładowni 32,0 x 4,5 x 3,2 m (dł. x szer. x wys.) i ładowności 37 t?",
+    "answers": [
+      "Ładunek 2.",
+      "Ładunek 4.",
+      "Ładunek 1.",
+      "Ładunek 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela24.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 208,
+    "text": "Znaki manipulacyjne umieszczone na przedstawionej na ilustracji skrzyni informują między innymi, że umieszczony w niej ładunek jest",
+    "answers": [
+      "umocowany do skrzyni łańcuchami oraz zabezpieczony folią przed wilgocią.",
+      "owinięty łańcuchami i odporny na wilgoć.",
+      "kruchy i nieodporny na wilgoć.",
+      "uszkodzony i zamoczony."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_skrzynia.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 209,
+    "text": "Elementem infrastruktury liniowej transportu drogowego nie jest",
+    "answers": [
+      "parking.",
+      "most.",
+      "autostrada.",
+      "rondo."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 210,
+    "text": "Który rodzaj regałów przedstawiony jest na ilustracji?",
+    "answers": [
+      "Wspornikowe na ruchomej podstawie.",
+      "Paletowe przepływowe.",
+      "Wspornikowe z zadaszeniem.",
+      "Paletowe przesuwne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_regaly.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 211,
+    "text": "Odbiorca przyjął ładunek od przewoźnika 6 kwietnia bez sprawdzenia stanu przesyłki. Tego samego dnia odbiorca zauważył, że ładunek jest uszkodzony pomimo braku uszkodzeń opakowania. Zgodnie z przedstawionymi przepisami i załączonym fragmentem kalendarza odbiorca swoje zastrzeżenia co do stanu przesyłki powinien skierować do przewoźnika na piśmie nie później niż",
+    "answers": [
+      "15 kwietnia.",
+      "13 kwietnia.",
+      "14 kwietnia.",
+      "18 kwietnia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_ramka4.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 212,
+    "text": "Który dokument, zawierający wykaz wszystkich towarów, które mają być załadowane na statek w danym porcie sporządza spedytor, przed wejściem statku do portu?",
+    "answers": [
+      "Notę gotowości.",
+      "Manifest ładunkowy.",
+      "Kwit sternika.",
+      "Listę ładunkowa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 213,
+    "text": "Numerem identyfikacji VAT UE polskiego przedsiębiorcy umieszczanym na dokumentach związanych z transakcjami wewnątrzwspólnotowymi jest numer NIP tego przedsiębiorcy poprzedzony prefiksem",
+    "answers": [
+      "PL",
+      "PLN",
+      "EUR",
+      "UE"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 214,
+    "text": "Na podstawie przedstawionego fragmentu rozporządzenia określ minimalną ilość paszy treściwej, którą należy zapewnić na statku dla 400 sztuk owiec o średniej masie 80 kg każda, jeżeli rejs jest zaplanowany na 26 godzin.",
+    "answers": [
+      "576 kg",
+      "640 kg",
+      "720 kg",
+      "800 kg"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_rozporzadzenie4.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 215,
+    "text": "Które urządzenie należy zamontować w pojeździe w celu kontrolowania w nim wilgotności względnej powietrza?",
+    "answers": [
+      "Optometr.",
+      "Higrometr.",
+      "Barometr.",
+      "Termometr."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 216,
+    "text": "Określ minimalną liczbę nadwozi wymiennych, których parametry przedstawiono w tabeli, niezbędną do przewozu 50 paletowych jednostek ładunkowych (pjł) o wymiarach 1,2 x 0,8 x 1,6 m (dł. x szer. x wys.) i masie brutto 1,42 t/pjł?",
+    "answers": [
+      "6 nadwozi wymiennych.",
+      "4 nadwozia wymienne.",
+      "3 nadwozia wymienne.",
+      "5 nadwozi wymiennych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela22.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 217,
+    "text": "Która metoda zabezpieczania ładunku jest przedstawiona na rysunku?",
+    "answers": [
+      "Blokowanie.",
+      "Mocowanie odciągiem przepasującym od góry.",
+      "Mocowanie za pomocą odciągów prostych.",
+      "Ryglowanie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_rysunek7.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 218,
+    "text": "Który zestaw czynności podanych w tabeli dotyczy fizycznego przemieszczania ładunku?",
+    "answers": [
+      "Zestaw IV.",
+      "Zestaw I.",
+      "Zestaw III.",
+      "Zestaw II."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela21.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 219,
+    "text": "Który ładunek przewożony cysterną musi być podgrzewany w czasie transportu, aby zachował płynną konsystencję?",
+    "answers": [
+      "Kwas solny.",
+      "Olej palmowy.",
+      "Olej napędowy.",
+      "Kwas siarkowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 220,
+    "text": "Mycie i parowanie cysterny trwa 75 minut. Czas załadunku cysterny wynosi 65 minut, a jazda z ładunkiem do odbiorcy 184 minuty. O której godzinie najpóźniej należy zacząć myć cysternę, jeżeli towar należy dostarczyć do odbiorcy na godzinę 12:30?",
+    "answers": [
+      "O godzinie 7:06",
+      "O godzinie 8:21",
+      "O godzinie 6:54",
+      "O godzinie 9:26"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 221,
+    "text": "Zgodnie z którą formułą INCOTERMS 2020 sprzedający dostarcza towar i pokrywa koszty transportu od miejsca wyjazdu towaru po dostarczenie go do punktu docelowego wskazanego przez importera i przekazania do dyspozycji kupującego?",
+    "answers": [
+      "DAP",
+      "FAS",
+      "EXW",
+      "FCA"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 222,
+    "text": "Najniższe jednostkowe koszty transportu międzykontynentalnego zapewniają przewozy",
+    "answers": [
+      "lotnicze.",
+      "morskie.",
+      "drogowe.",
+      "kolejowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 223,
+    "text": "Które pismo handlowe należy sporządzić w odpowiedzi na zamówienie, jeżeli otrzymanego zamówienia nie można przyjąć do realizacji?",
+    "answers": [
+      "Odmowę realizacji zamówienia.",
+      "Reklamację.",
+      "Ofertę handlową.",
+      "Potwierdzenie realizacji zamówienia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 224,
+    "text": "Celem Unijnego Kodeksu Celnego nie jest",
+    "answers": [
+      "przyspieszenie procedur celnych.",
+      "ograniczanie pozwoleń na procedurę TIR.",
+      "zinformatyzowanie systemów celnych.",
+      "skuteczne pobieranie cła."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 225,
+    "text": "Którą tablicą należy oznakować środek transportu przeznaczony do transgranicznego transportu odpadów?",
+    "answers": [
+      "Tablicą 1.",
+      "Tablicą 2.",
+      "Tablicą 4.",
+      "Tablicą 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tablice.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 226,
+    "text": "Określ czas przewozu paletowej jednostki ładunkowej (pjł) na odległość 250 m, jeżeli wózek widłowy porusza się ze średnią prędkością 10 km/h.",
+    "answers": [
+      "4,0 min",
+      "1,2 min",
+      "2,5 min",
+      "1,5 min"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 227,
+    "text": "Którą technikę negocjacji zastosowano w opisanej sytuacji? Spedytor negocjuje stawkę za zorganizowanie przewozu nienormatywnego z potencjalnym klientem. Po długiej wymianie argumentów nikt nie chce ustąpić. Spedytor zażądał 20 000,00 zł, a potencjalny klient proponuje 18 000,00 zł. W pewnym momencie do rozmowy włączył się negocjator i zaproponował, aby obie strony poszły na ustępstwa i zaproponował stawkę 19 000,00 zł.",
+    "answers": [
+      "Zdechła ryba.",
+      "Presja czasu.",
+      "Krakowski targ.",
+      "Niska piłka."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 228,
+    "text": "Które działanie nie dotyczy ekonomicznej jazdy tzw. eco-drivingu?",
+    "answers": [
+      "Unikanie gwałtownego przyspieszania i hamowania.",
+      "Hamowanie silnikiem.",
+      "Unikanie płatnych odcinków dróg.",
+      "Dbanie o prawidłowe ciśnienie w oponach."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 229,
+    "text": "Na podstawie danych w tabeli określ, w którym roku wystąpił największy wzrost masy ładunków przewożonych transportem lotniczym, w stosunku do roku poprzedniego.",
+    "answers": [
+      "w 2015 r.",
+      "w 2018 r.",
+      "w 2017 r.",
+      "w 2016 r."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela23.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 230,
+    "text": "Dopuszczalna masa całkowita pojazdu samochodowego wynosi 22 tony, a jego masa własna to 10 500 kg. Ile wynosi współczynnik wykorzystania ładowności tego pojazdu, jeżeli załadowano do niego 9 200 kg ładunku?",
+    "answers": [
+      "0,88",
+      "0,80",
+      "0,91",
+      "0,42"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 231,
+    "text": "Na przedstawionej etykiecie logistycznej Seryjnym Numerem Jednostki Wysyłkowej jest numer",
+    "answers": [
+      "987654",
+      "540",
+      "9012345612344",
+      "490123456123450014"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_etykieta2.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 232,
+    "text": "Który środek transportu bliskiego o ruchu ciągłym należy zastosować do transportu kruszywa luzem?",
+    "answers": [
+      "Żuraw mobilny.",
+      "Przenośnik taśmowy.",
+      "Wózek naładowny.",
+      "Ładowarkę kołową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 233,
+    "text": "Pojazdy o dopuszczalnej masie całkowitej powyżej 3,5 t mogą poruszać się na autostradzie z maksymalną prędkością 80 km/h. Z odcinkowego pomiaru prędkości na autostradzie wynika, że ciągnik siodłowy z naczepą pokonał odległość 135 km w czasie 1 godz. i 30 min, co świadczy o tym, że pojazd",
+    "answers": [
+      "nie przekroczył dopuszczalnej prędkości i poruszał się ze średnią prędkością 75 km/h.",
+      "przekroczył dopuszczalną prędkość średnio o 24 km/h.",
+      "przekroczył dopuszczalną prędkość średnio o 10 km/h.",
+      "nie przekroczył dopuszczalnej prędkości i poruszał się ze średnią prędkością 70 km/h."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 234,
+    "text": "Przedmiotem przewozu jest ładunek w stanie stałym, o dużej wartości oraz wysokiej wrażliwości na wstrząsy. Które opakowanie transportowe należy użyć, aby zabezpieczyć go przed uszkodzeniem mechanicznym?",
+    "answers": [
+      "Worek.",
+      "Pojemnik IBC.",
+      "Skrzyniopaletę.",
+      "Big Bag."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 235,
+    "text": "Jeżeli kierowca w ciągu dnia będzie pracował 10 godzin, to, zgodnie z zamieszczonym fragmentem ustawy o czasie pracy kierowcy, przysługuje mu przerwa w wymiarze minimum",
+    "answers": [
+      "30 minut.",
+      "15 minut.",
+      "6 godzin.",
+      "45 minut."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_ustawa4.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 236,
+    "text": "Celem działań public relations jest",
+    "answers": [
+      "kształtowanie opinii w społeczeństwie na temat konkurencji.",
+      "negocjowanie terminów i warunków dostaw.",
+      "budowanie pozytywnego wizerunku przedsiębiorstwa w otoczeniu.",
+      "utrwalanie relacji handlowych z kontrahentami."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 237,
+    "text": "Na podstawie przedstawionego cennika określ, ile wynosi koszt przewozu kontenera 20-stopowego o masie brutto 19 t na odległość 180 km?",
+    "answers": [
+      "1 987,50 zł",
+      "2 385,00 zł",
+      "1 325,00 zł",
+      "2 252,50 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_cennik2.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 238,
+    "text": "Do magazynów zamkniętych zaliczane są",
+    "answers": [
+      "silosy.",
+      "zasieki.",
+      "place.",
+      "wiaty."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 239,
+    "text": "W której części treści pisma znajduje się szczegółowe wyjaśnienie sprawy, której pismo dotyczy?",
+    "answers": [
+      "W części głównej.",
+      "W części wstępnej.",
+      "W części końcowej.",
+      "W części przekonującej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 240,
+    "text": "Czas podstawienia i zabrania jednego zestawu drogowego spod załadunku trwa 4 minuty. Jeden cykl pracy wózka polegający na pobraniu beli papieru ze strefy składowania i załadowaniu jej do naczepy trwa 3,5 minuty. Oblicz czas trwania załadunku 48 bel papieru, jeżeli do jednej naczepy zostanie załadowanych 8 bel, a magazyn dysponuje jedną rampą.",
+    "answers": [
+      "2 h 48 min",
+      "4 h 16 min",
+      "3 h 12 min",
+      "3 h 20 min"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 241,
+    "text": "Na rysunku przedstawiono",
+    "answers": [
+      "zelektryfikowaną dwutorową linię kolejową.",
+      "zelektryfikowaną jednotorową linię kolejową.",
+      "niezelektryfikowaną jednotorową linię kolejową.",
+      "niezelektryfikowaną dwutorową linię kolejową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_rysunek3.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 242,
+    "text": "Które przepisy określają zasady oznakowania ładunku wystającego poza płaszczyzny obrysu pojazdu?",
+    "answers": [
+      "Umowa CIM.",
+      "Ustawa Prawo o ruchu drogowym.",
+      "Umowa AETR.",
+      "Ustawa o transporcie drogowym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 243,
+    "text": "Który rysunek przedstawia zasieki wielokomorowe dwurzędowe?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_zasieki.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 244,
+    "text": "Przedstawiony znak manipulacyjny umieszczony na opakowaniu informuje",
+    "answers": [
+      "o miejscu chwytania ładunku.",
+      "o miejscu zakładania zawiesi.",
+      "że należy podnosić bezpośrednio za ładunek.",
+      "gdzie znajduje się środek ciężkości ładunku."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_znak.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 245,
+    "text": "Który kontener należy wykorzystać do przewozu ładunku o masie 30 t i objętości 25 m3?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela9.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 246,
+    "text": "Zgodnie z przedstawionym fragmentem rozporządzenia reklamację na usługę przewozu należy składać w formie pisemnej i powinna ona zawierać między innymi",
+    "answers": [
+      "datę rozpatrzenia reklamacji.",
+      "podpis osoby przyjmującej reklamację.",
+      "kwotę uiszczoną za wykonaną usługę przewozu.",
+      "dane osoby składającej reklamację."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_rozporzadzenie2.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 247,
+    "text": "Który list przewozowy należy wystawić w związku z przewozem transportem kolejowym ładunku z Polski do Francji?",
+    "answers": [
+      "CMR",
+      "CIM",
+      "SMGS",
+      "MAWB"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 248,
+    "text": "Wybierz przewoźnika na podstawie przedstawionych cenników, który najtaniej dokona przewozu 82 skrzyniopalet o wymiarach 1 000 x 800 x 1 000 mm i masie 620 kg każda na odległość 125 km.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela13.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 249,
+    "text": "Ile wynosi wydajność pojazdu, który w ciągu 18 h pracy przewiózł 20 t ładunku na odległość 1 080 km?",
+    "answers": [
+      "972 tkm/h",
+      "1 200 h/tkm",
+      "972 h/tkm",
+      "1 200 tkm/h"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 250,
+    "text": "Który znak należy umieścić na opakowaniu substancji wysoce łatwopalnej?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_znaki.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 251,
+    "text": "Która z formuł handlowych INCOTERMS 2020 nakłada najmniejszy zakres obowiązków na sprzedającego?",
+    "answers": [
+      "CIF",
+      "FCA",
+      "DDP",
+      "EXW"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 252,
+    "text": "Na rysunku przedstawiono plan rozmieszczenia paletowych jednostek ładunkowych (pjł) w naczepie w jednej warstwie. Ile maksymalnie pjł można umieścić w tej naczepie, jeżeli ładunek można piętrzyć w stosie paletowym, wysokość pjł wynosi 1 100 mm, a wysokość wewnętrzna naczepy to 2,65 m?",
+    "answers": [
+      "66 pjł",
+      "68 pjł",
+      "34 pjł",
+      "33 pjł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_plan.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 253,
+    "text": "Przedsiębiorstwo otrzymało zlecenie zorganizowania przewozu drogowego ładunku z Wrocławia do Gdańska wraz z ubezpieczeniem. Oblicz na podstawie cennika koszt ubezpieczenia ładunku, jeżeli jego wartość wynosi 124 500,00 zł.",
+    "answers": [
+      "37,35 zł",
+      "24,90 zł",
+      "124,50 zł",
+      "373,50 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela12.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 254,
+    "text": "Na podstawie fragmentu ustawy Prawo przedsiębiorców oceń, która transakcja powinna być uregulowana za pośrednictwem rachunku płatniczego przedsiębiorcy, jeżeli średni kurs dolara ($) ogłoszony przez NBP z ostatniego dnia roboczego poprzedzającego dzień dokonania transakcji wynosi 3,85 zł, a średni kurs euro (€) 4,34 zł.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_ustawa2.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 255,
+    "text": "Który zestaw drogowy uzyskał najwyższy współczynnik wypełnienia objętościowego naczepy?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela10.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 256,
+    "text": "Transport w logistyce pełni rolę",
+    "answers": [
+      "konsumenta usługi przewozu.",
+      "producenta dóbr materialnych.",
+      "usługobiorcy, któremu świadczona jest usługa przewozu.",
+      "ogniwa łączącego stacjonarne elementy sieci logistycznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 257,
+    "text": "Zestawem drogowym obsługiwanym przez załogę jednoosobową należy przetransportować 24 t ładunku na odległość 260 km. Pojazd porusza się ze średnią prędkością 65 km/h. O której godzinie najpóźniej należy rozpocząć załadunek, jeżeli jest on realizowany w tempie 4 t w ciągu 5 minut, a ładunek ma być dostarczony do nabywcy dokładnie o godzinie 16:00?",
+    "answers": [
+      "O godzinie 12:00",
+      "O godzinie 10:00",
+      "O godzinie 10:45",
+      "O godzinie 11:30"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 258,
+    "text": "Na podstawie danych zawartych w tabeli oceń, który wagon został załadowany poprawnie, jeżeli przejazd składu będzie realizowany linią kolejową klasy A.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela8.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 259,
+    "text": "Rysunek przedstawia ładunek przygotowany dla odbiorcy. Ładunek składa się z 9 pakietowych jednostek ładunkowych. Każda jednostka składa się z 19 rur stalowych i jest spięta 2 taśmami stalowymi. Oblicz masę brutto całego ładunku przedstawionego na rysunku, jaką należy wpisać w liście przewozowym, jeżeli jedna rura stalowa waży 11,7 kg/szt., a jedna taśma stalowa 1,2 kg.",
+    "answers": [
+      "2 011,50 kg",
+      "2 400,84 kg",
+      "224,70 kg",
+      "2 022,30 kg"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_ladunek.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 260,
+    "text": "Ile wynosi wskaźnik wykorzystania ładowności pojazdu 24 t, jeżeli umieszczono w nim 30 skrzyniopalet z owocami. Tara jednej skrzyniopalety wynosi 47,5 kg, a masa netto owoców w jednej skrzyniopalecie wynosi 420 kg.",
+    "answers": [
+      "0,42",
+      "0,53",
+      "0,47",
+      "0,58"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 261,
+    "text": "Działalność spedycyjna w polskim prawodawstwie jest uregulowana ustawą Kodeks cywilny oraz",
+    "answers": [
+      "Ustawą o czasie pracy kierowcy.",
+      "Ogólnymi Polskimi Warunkami Spedycyjnymi.",
+      "Ogólnymi warunkami przewozu.",
+      "Ustawą o transporcie drogowym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 262,
+    "text": "Zasady podejmowania i wykonywania krajowego i międzynarodowego transportu drogowego rzeczy reguluje",
+    "answers": [
+      "ustawa prawo o ruchu drogowym.",
+      "ustawa o kierujących pojazdami.",
+      "ustawa o czasie pracy kierowców.",
+      "ustawa o transporcie drogowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 263,
+    "text": "Na rysunku przedstawiono pojazd załadowany",
+    "answers": [
+      "paletowymi jednostkami ładunkowymi.",
+      "kontenerowymi jednostkami ładunkowymi.",
+      "pakietowymi jednostkami ładunkowymi.",
+      "mikrojednostkami ładunkowymi."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_pojazd.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 264,
+    "text": "Stawka netto za przewóz 1 tony ładunku na odległość jednego kilometra wynosi 0,40 zł. Oblicz koszt brutto usługi przewozu 56 t ładunku na odległość 840 km, jeżeli usługa jest objęta 23% VAT.",
+    "answers": [
+      "18 816,00 zł",
+      "57 859,20 zł",
+      "14 488,32 zł",
+      "23 143,68 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 265,
+    "text": "Oblicz ładowność pojazdu, którego dopuszczalna masa całkowita (dmc) wynosi 24 tony, a masa własna 5 720 kg.",
+    "answers": [
+      "8 120 kg",
+      "29 720 kg",
+      "15 880 kg",
+      "18 280 kg"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 266,
+    "text": "Oblicz minimalną liczbę palet o wymiarach (dł. x szer. x wys.): 80 x 60 x 14,4 cm niezbędnych do sformowania ładunku składającego się z 480 kartonów o wymiarach (dł. x szer. x wys.): 200 x 200 x 200 mm, jeżeli ładunek na palecie może być piętrzony do 5 warstw.",
+    "answers": [
+      "6 palet.",
+      "8 palet.",
+      "10 palet.",
+      "12 palet."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 267,
+    "text": "Wykres przedstawia, jak w przedsiębiorstwie spedycyjnym kształtuje się jednostkowy całkowity koszt przejechania jednego kilometra w zależności od miesięcznego przebiegu. Określ, ile minimum kilometrów w miesiącu powinno być realizowane pojazdem spedytora, aby opłacalne było utrzymanie własnej bazy transportowej zamiast korzystać z usług przewoźnika, który stosuje stawkę 1,50 zł/km.",
+    "answers": [
+      "7 000 km/miesiąc",
+      "6 000 km/miesiąc",
+      "5 000 km/miesiąc",
+      "4 000 km/miesiąc"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_wykres2.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 268,
+    "text": "Przedsiębiorstwo transportowe dysponuje uniwersalnymi zestawami drogowymi o ładowności 22 t i wymiarach wewnętrznych naczepy (długość x szerokość x wysokość): 13 400 x 2 460 x 2 650 mm. Które zlecenie transportowe przedsiębiorstwo może przyjąć do realizacji, jeżeli przewóz ma być zrealizowany jednym zestawem drogowym?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela7.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 269,
+    "text": "Który kontener należy wykorzystać do transportu artykułów spożywczych w temperaturze kontrolowanej?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_kontenery.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 270,
+    "text": "Zapytanie ofertowe skierowane do przedsiębiorstwa spedycyjnego jest dokumentem bezpośrednio poprzedzającym",
+    "answers": [
+      "umowę spedycji.",
+      "potwierdzenie przyjęcia zlecenia.",
+      "ofertę handlową.",
+      "reklamację usługi przewozowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 271,
+    "text": "Przedsiębiorstwo spedycyjne przyjęło zlecenie zorganizowania przewozu ładunku o wartości 35 000,00 zł. Oblicz koszt usługi spedycyjnej, jeżeli przedsiębiorstwo stosuje prowizję spedytorską zgodnie z przedstawioną tabelą.",
+    "answers": [
+      "3 150,00 zł",
+      "4 550,00 zł",
+      "2 800,00 zł",
+      "3 850,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela11.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 272,
+    "text": "Które ubezpieczenie komunikacyjne jest obowiązkowe?",
+    "answers": [
+      "CARGO",
+      "AC",
+      "OC",
+      "NNW"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 273,
+    "text": "Centra logistyczne powinny być rozmieszczone w miejscach, gdzie występuje",
+    "answers": [
+      "duża powierzchnia terenów niezabudowanych z brakiem dostępu do infrastruktury komunikacyjnej.",
+      "wysokie zaludnienie i zagospodarowanie przestrzenne terenu.",
+      "ograniczony dostęp do infrastruktury transportowej.",
+      "łatwy i równoczesny dostęp do infrastruktury różnych gałęzi transportu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 274,
+    "text": "Która technika negocjacji polega na obiecywaniu przeciwnikowi korzyści w zamian za ustępstwa, ale w bliżej nieokreślonej przyszłości?",
+    "answers": [
+      "Nagroda w raju.",
+      "Dobry - zły glina.",
+      "Pusty portfel.",
+      "Ostatnie życzenie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 275,
+    "text": "W celu ustalenia liczby zleceń przypadających w ciągu miesiąca na jeden zestaw drogowy należy obliczyć wskaźnik",
+    "answers": [
+      "struktury.",
+      "rozproszenia.",
+      "dynamiki.",
+      "natężenia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 276,
+    "text": "Przedstawiona na rysunku naczepa służy do przewozu",
+    "answers": [
+      "cieczy.",
+      "gazu.",
+      "materiałów sproszkowanych.",
+      "ładunku drobnicowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_naczepa.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 277,
+    "text": "Przewóz polegający na załadunku całego składu pociągu towarem jednego nadawcy i przemieszczenie go do jednego odbiorcy nazywa się przewozem",
+    "answers": [
+      "wagonowym.",
+      "kabotażowym.",
+      "całopociągowym.",
+      "tranzytowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 278,
+    "text": "Który plan przedstawia rozmieszczenie palet przemysłowych o podstawie (dł. x szer.): 1 200 x 1 000 m w kontenerze 40’ o wymiarach wewnętrznych (dł. x szer. x wys.): 12 000 x 2 350 x 2 700 mm?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_plany.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 279,
+    "text": "Załadunek towaru na środek transportu oraz mocowanie i zabezpieczenie ładunku w pojeździe na czas transportu są czynnościami",
+    "answers": [
+      "wykonawczymi realizowanymi przed przewozem.",
+      "wykonawczymi realizowanymi w trakcie przewozu.",
+      "organizacyjnymi realizowanymi w trakcie przewozu.",
+      "organizacyjnymi realizowanymi przed przewozem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 280,
+    "text": "Informacje o sposobie przemieszczania ładunków zawierają znaki",
+    "answers": [
+      "zasadnicze.",
+      "manipulacyjne.",
+      "informacyjne.",
+      "niebezpieczeństwa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 281,
+    "text": "Na rysunku przedstawiono graficzną prezentację transportu",
+    "answers": [
+      "bimodalnego.",
+      "kabotażowego.",
+      "tranzytowego.",
+      "łamanego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_transport.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 282,
+    "text": "Przedsiębiorca w ciągu roku wynajął 12 300 szt. opakowań transportowych. Koszt wynajmu jednego opakowania wynosi 0,15 zł. Oblicz roczny koszt wynajmu opakowań transportowych.",
+    "answers": [
+      "184 500,00 zł",
+      "18 450,00 zł",
+      "184,50 zł",
+      "1 845,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 283,
+    "text": "Dobór optymalnego środka transportu do realizacji zadania transportowego należy do czynności",
+    "answers": [
+      "organizacyjnych procesu transportowego.",
+      "wykonawczych procesu przewozowego.",
+      "wykonawczych procesu transportowego.",
+      "organizacyjnych procesu przewozowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 284,
+    "text": "Dobierz naczepę o najwyższym współczynniku wypełnienia objętościowego do przewozu 34 paletowych jednostek ładunkowych (pjł) o wymiarach (dł. x szer. x wys.): 1 200 × 800 × 1 400 mm i masie 560 kg/pjł.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela6.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 285,
+    "text": "Jeżeli przedsiębiorstwo zamierza stosować uproszczone procedury celne, to musi uzyskać odpowiednie pozwolenie na ich stosowanie. Pozwolenie to wydaje",
+    "answers": [
+      "Wojewódzki Inspektor Handlowy ze względu na siedzibę wnioskodawcy.",
+      "Prezes Krajowej Izby Gospodarczej.",
+      "Główny Inspektor Transportu Drogowego.",
+      "Dyrektor Izby Celnej właściwy ze względu na siedzibę wnioskodawcy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 286,
+    "text": "Zasady sporządzania międzynarodowego samochodowego listu przewozowego są regulowane postanowieniami konwencji",
+    "answers": [
+      "CIV",
+      "CIM",
+      "CMR",
+      "COTIF"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 287,
+    "text": "Przedsiębiorstwo transportowe przeprowadziło segmentację rynku wśród przedsiębiorstw produkcyjnych na terenie województwa pomorskiego w celu wyodrębnienia grup nabywców usług transportowych ze względu na rodzaj wykorzystywanej gałęzi transportu. Korzystając z tabeli, w której przedstawiono wyniki segmentacji, określ do ilu potencjalnych klientów powinno swoją ofertę skierować przedsiębiorstwo transportowe dysponujące środkami transportu drogowego, jeżeli planuje wysłać ofertę do wszystkich podmiotów potencjalnie zainteresowanych tą gałęzią transportu na terenie województwa pomorskiego.",
+    "answers": [
+      "947 klientów.",
+      "1 154 klientów.",
+      "1 620 klientów.",
+      "2 774 klientów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela4.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 288,
+    "text": "W jednym pojemniku przedstawionym na rysunku można umieścić 30 kg wędlin. Ile minimum pojemników należy przygotować do transportu 3,0 t wędlin?",
+    "answers": [
+      "10 pojemników.",
+      "500 pojemników.",
+      "1 000 pojemników.",
+      "100 pojemników."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_pojemnik.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 289,
+    "text": "Celem negocjacji jest",
+    "answers": [
+      "poszukiwanie rozwiązania, które usatysfakcjonuje tylko silniejszą stronę konfliktu.",
+      "uzyskanie porozumienia przez strony uczestniczące w konflikcie.",
+      "zaspokojenie jasno określonych interesów jednej ze stron konfliktu.",
+      "rozpoznanie potrzeb stron dążących do rozwiązania konfliktu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 290,
+    "text": "Kontrola poprawności wystawienia dokumentów rozliczeniowych usługi transportowej zaliczana jest do czynności",
+    "answers": [
+      "organizacyjnych.",
+      "handlowych.",
+      "wykonawczych.",
+      "marketingowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 291,
+    "text": "Narzędziami marketingu-mix w ramach koncepcji 4P są:",
+    "answers": [
+      "produkt, promocja, proces, prognozowanie.",
+      "produkt, cena, dystrybucja, promocja.",
+      "produkt, cena, ludzie, komunikacja.",
+      "potrzeby, produkt, koszt, komunikacja."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 292,
+    "text": "Routing order to dokument",
+    "answers": [
+      "wysyłany zagranicznemu eksporterowi w celu dokonania wysyłki towaru importowanego z gestią transportową kupującego.",
+      "wystawiany przez eksportera lub importera, zlecający spedytorowi zorganizowanie przewozu określonego towaru.",
+      "wystawiany przez spedytora, w którym potwierdza on, że wydał towar adresatowi.",
+      "wystawiany przez spedytora, w którym przekazuje eksporterowi informacje potrzebne do odpowiedniego przygotowania towaru do wysyłki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 293,
+    "text": "Osobą odpowiedzialną za sprawdzenie poprawności i kompletności danych zawartych w zleceniu zorganizowania przewozu ładunku jest",
+    "answers": [
+      "załadowca.",
+      "odbiorca.",
+      "spedytor.",
+      "kierowca."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 294,
+    "text": "Który z przedstawionych wózków należy wykorzystać do obsługi regałów wysokiego składowania?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_wozki.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 295,
+    "text": "Na podstawie przedstawionego zestawienia odległości między wybranymi miastami oblicz z jaką średnią prędkością poruszał się pojazd, jeżeli podróż z Krakowa do Gdańska trwała 7 godzin i 30 minut.",
+    "answers": [
+      "74 km/h",
+      "90 km/h",
+      "82 km/h",
+      "60 km/h"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela2.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 296,
+    "text": "Wynikające z umowy prawa i obowiązki dotyczące zorganizowania transportu i pokrycia jego kosztów nazywa się",
+    "answers": [
+      "kongestią transportową.",
+      "konsolidacją.",
+      "dekonsolidacją.",
+      "gestią transportową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 297,
+    "text": "Którą strategię negocjacji należy przyjąć w sytuacji, gdy strony chcące dojść do porozumienia cechuje względna równowaga sił i wysokie prawdopodobieństwo kontaktów w dalszej perspektywie czasu?",
+    "answers": [
+      "Dominacji.",
+      "Łagodzenia.",
+      "Unikania.",
+      "Kooperacji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 298,
+    "text": "Do infrastruktury liniowej transportu lotniczego zalicza się",
+    "answers": [
+      "lądowiska.",
+      "lotniska.",
+      "porty lotnicze.",
+      "korytarze powietrzne."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 299,
+    "text": "Na schemacie przedstawiono elementy składowe układu pisma korespondencyjnego. Którą literą oznaczono pole na treść pisma?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_schemat.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 300,
+    "text": "Kierowca dostawcy Jan Kowalski przywiózł drewno do zakładu produkcji papieru. Magazynier Adam Nowak przyjął drewno do magazynu, aby następnie w miarę potrzeb wydawać je do produkcji. Z magazynu do działu produkcji drewno przyjmuje Marek Mazurek. Wyroby gotowe z zakładu produkcji papieru są dostarczane do odbiorców przez kierowcę zakładu produkcyjnego Tomasza Majewskiego. Kto powinien podpisać się w miejscu oznaczonym „dostarczył” w dokumencie przychód zewnętrzny (PZ)?",
+    "answers": [
+      "Adam Nowak.",
+      "Marek Mazurek.",
+      "Jan Kowalski.",
+      "Tomasz Majewski."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 301,
+    "text": "Przedsiębiorstwo spedycyjne za swoje usługi nalicza 10% prowizję spedytorską liczoną od wartości ładunku, dla którego organizuje przewóz. Oblicz na jaką kwotę brutto będzie wystawiona faktura za zorganizowanie przewozu ładunku o wartości 120 000,00 zł, jeżeli usługa jest objęta 23% stawką VAT.",
+    "answers": [
+      "14 760,00 zł",
+      "30 360,00 zł",
+      "12 000,00 zł",
+      "9 240,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 302,
+    "text": "Do przewozu głęboko zamrożonych artykułów spożywczych środkami transportu samochodowego zastosowanie mają pojazdy o nadwoziu",
+    "answers": [
+      "typu cysterna.",
+      "specjalizowanym.",
+      "specjalnym.",
+      "typu platforma."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 303,
+    "text": "O której godzinie najpóźniej należy wyjechać z bazy przedsiębiorstwa transportowego do miejsca załadunku ładunku, jeżeli załadunek rozpoczyna się o godzinie 7:30, odległość między bazą a miejscem załadunku wynosi 84 km, a pojazd porusza się ze średnią prędkością 70 km/h?",
+    "answers": [
+      "O godzinie 6:18",
+      "O godzinie 7:42",
+      "O godzinie 6:10",
+      "O godzinie 5:50"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 304,
+    "text": "Jeżeli ładowność naczepy skrzyniowej wynosi 23 100 kg, a w jednej warstwie można umieścić 33 paletowe jednostki ładunkowe (pjł), które nie mogą być piętrzone, to dopuszczalna masa brutto jednej pjł wynosi",
+    "answers": [
+      "0,7 t",
+      "7,0 t",
+      "7 000,0 kg",
+      "70,0 kg"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 305,
+    "text": "Na podstawie danych zawartych w tabeli oblicz, jaką część wszystkich zrealizowanych zleceń spedycyjnych stanowią zlecenia dotyczące transportu lotniczego.",
+    "answers": [
+      "0,480%",
+      "0,048%",
+      "4,800%",
+      "48,000%"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela3.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 306,
+    "text": "Do automatycznej identyfikacji towarów przy użyciu kodów kreskowych 2D stosowany jest system",
+    "answers": [
+      "optyczny.",
+      "biometryczny.",
+      "organoleptyczny.",
+      "radiowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 307,
+    "text": "Ile minimum cystern o pojemności 26 000 litrów należy wykorzystać do przewozu 130 000 litów paliwa, jeżeli wykorzystane cysterny mogą być wypełnione maksymalnie w 80%?",
+    "answers": [
+      "6 cystern.",
+      "8 cystern.",
+      "7 cystern.",
+      "5 cystern."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 308,
+    "text": "Na rysunku przedstawiono przenośnik",
+    "answers": [
+      "łańcuchowy.",
+      "paskowy.",
+      "rolkowy.",
+      "taśmowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_podnosnik.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 309,
+    "text": "Ile wyniesie łączna wartość towaru, którą zgodnie z przedstawionym dokumentem magazynowym WZ wydano z magazynu odbiorcy zewnętrznemu?",
+    "answers": [
+      "215 500,00 zł",
+      "19 638,00 zł",
+      "17 150,00 zł",
+      "2 488,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_dokument.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 310,
+    "text": "Oblicz koszt załadunku 200 paletowych jednostek ładunkowych (pjł) do wagonów, jeżeli godzina pracy operatora wózka widłowego wynosi 22,00 zł, godzina pracy wózka widłowego to koszt 72,00 zł, a czas załadunku jednej pjł wynosi 1,5 minuty.",
+    "answers": [
+      "470,00 zł",
+      "250,00 zł",
+      "360,00 zł",
+      "110,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 311,
+    "text": "Działalność spedycyjna w polskim prawodawstwie jest uregulowana w kodeksie",
+    "answers": [
+      "karnym.",
+      "drogowym.",
+      "pracy.",
+      "cywilnym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 312,
+    "text": "Ile minimum wagonów o ładowności 1 FEU potrzeba do przewozu 4 kontenerów 20’ i 8 kontenerów 40’?",
+    "answers": [
+      "12 wagonów.",
+      "10 wagonów.",
+      "14 wagonów.",
+      "8 wagonów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 313,
+    "text": "Przedmiotem ubezpieczenia typu casco jest",
+    "answers": [
+      "spedytor.",
+      "przewoźnik.",
+      "przewożony ładunek.",
+      "środek transportu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 314,
+    "text": "Który z przewoźników najtaniej dokona przewozu ładunku o masie 22 000 kg na odległość 330 km?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela5.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 315,
+    "text": "W opakowaniu zbiorczym znajdują się 4 laptopy. Masa brutto jednego laptopa wynosi 4,5 kg. Opakowanie zbiorcze waży 0,7 kg. Ile maksymalnie opakowań zbiorczych z laptopami można umieścić na palecie, jeżeli masa brutto paletowej jednostki ładunkowej (pjł) nie może przekroczyć 0,4 tony, a masa własna palety to 25 kg?",
+    "answers": [
+      "20 opakowań.",
+      "22 opakowania.",
+      "15 opakowań.",
+      "72 opakowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 316,
+    "text": "Klient zastrzegł sobie, aby maksymalna wysokość utworzonej paletowej jednostki ładunkowej (pjł) nie była wyższa niż 1,5 metra. Ile warstw kartonów można ułożyć na palecie, jeżeli wysokość jednego kartonu wynosi 500 mm?",
+    "answers": [
+      "3 warstwy.",
+      "4 warstwy.",
+      "2 warstwy.",
+      "1 warstwę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 317,
+    "text": "Jeżeli spedytor zawrze ze swoim zleceniodawcą umowę dotyczącą międzynarodowego przewozu ładunku, to ponosi odpowiedzialność za ewentualne szkody zgodnie z przepisami",
+    "answers": [
+      "umowy CMR.",
+      "umowy AETR.",
+      "prawa o ruchu drogowym.",
+      "kodeksu cywilnego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 318,
+    "text": "Przykładem magazynów specjalistycznych są",
+    "answers": [
+      "wiaty osłonięte.",
+      "budynki jednokondygnacyjne typu chłodnia.",
+      "place składowe.",
+      "zasieki ze ścianami ażurowymi."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 319,
+    "text": "Który rodzaj transportu ze względu na najwyższą ładowność i najniższe koszty transportu należy zastosować do przewozu samochodów produkowanych w Japonii przeznaczonych do sprzedaży na rynku europejskim?",
+    "answers": [
+      "Transport morski.",
+      "Transport powietrzny.",
+      "Transport kolejowy.",
+      "Transport samochodowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 320,
+    "text": "Który rysunek nie przedstawia transportu przesyłowego?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_rysunki.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 321,
+    "text": "Które opakowanie zbiorcze należy wybrać, ze względu na optymalne wypełnienie wewnętrzne, w celu zapakowania 33 szt. ładunku, ułożonego w pionie, o wymiarach zewnętrznych 0,2 x 0,5 x 0,6 m (dł. x szer. x wys.)?",
+    "answers": [
+      "Opakowanie B.",
+      "Opakowanie A.",
+      "Opakowanie C.",
+      "Opakowanie D."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela14.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 322,
+    "text": "Którą naklejką ADR należy oznaczyć opakowanie zawierające gazy palne?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_naklejki2.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 323,
+    "text": "Którą liczbą oznaczono na rysunku dok przeładunkowy?",
+    "answers": [
+      "1",
+      "12",
+      "10",
+      "2"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_rysunek4.png"
+    },
+    "category": "SPL.05"
+  },
+  {
+    "id": 324,
+    "text": "Załadunek 68 paletowych jednostek ładunkowych (pjł) przy użyciu 2 wózków widłowych rozpoczął się o godzinie 9:45. O której godzinie zakończy się załadunek, jeżeli jeden cykl pracy wózka trwa 3 minuty, a każdy wózek jednorazowo pobiera 1 pjł?",
+    "answers": [
+      "O godzinie 10:47",
+      "O godzinie 13:09",
+      "O godzinie 11:27",
+      "O godzinie 11:57"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPL.05"
+  },
+  {
+    "id": 325,
+    "text": "Na podstawie danych z tabeli wskaż, który numer należy wpisać w liczniku tablicy ADR informującej o przewozie benzyny będącej cieczą o temperaturze zapłonu 21°C.",
+    "answers": [
+      "33",
+      "30",
+      "1202",
+      "1203"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spl05/au31_tabela19.png"
+    },
+    "category": "SPL.05"
+  }
+]
