@@ -1,0 +1,5064 @@
+[
+  {
+    "id": 1,
+    "text": "Który produkt spożyty w ciągu dnia, w ilościach podanych w tabeli, dostarczy organizmowi człowieka najwięcej pełnowartościowego białka?",
+    "answers": [
+      "Makrela.",
+      "Jaja.",
+      "Chleb mazowiecki.",
+      "Fasola biała."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela51.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 2,
+    "text": "Która witamina zapewnia prawidłowy wzrost i mineralizację kości w organizmie człowieka?",
+    "answers": [
+      "Witamina K.",
+      "Witamina D.",
+      "Witamina A.",
+      "Witamina E."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 3,
+    "text": "Przedstawione na ilustracji urządzenie służy do wieloporcjowego podawania",
+    "answers": [
+      "przekąsek gorących.",
+      "zup gorących.",
+      "przekąsek zimnych.",
+      "zup zimnych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_urzadzenie4.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 4,
+    "text": "Która choroba powstaje na skutek spożywania małej ilości produktów bogatych w witaminę D i wapń?",
+    "answers": [
+      "Niedokrwistość.",
+      "Nadciśnienie.",
+      "Osteoporoza.",
+      "Cukrzyca."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 5,
+    "text": "Zgodnie z zasadami zamiany produktów, mleko można zastąpić",
+    "answers": [
+      "masłem.",
+      "makaronem.",
+      "maślanką.",
+      "mięsem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 6,
+    "text": "Zakładem gastronomicznym typu żywieniowego jest",
+    "answers": [
+      "cukiernia.",
+      "jadłodajnia.",
+      "kawiarnia.",
+      "piwiarnia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 7,
+    "text": "Podając gościom zupę wyporcjowaną w bulionówce kelner stosuje serwis",
+    "answers": [
+      "niemiecki.",
+      "francuski.",
+      "rosyjski.",
+      "angielski."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 8,
+    "text": "Źródłem białka roślinnego są:",
+    "answers": [
+      "ser, bób, soczewica.",
+      "mleko, fasola, ryby.",
+      "fasola, ciecierzyca, soja.",
+      "groch, soja, jaja."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 9,
+    "text": "Oblicz cenę gastronomiczną brutto 200 ml soku, jeżeli cena zakupu 2 litrów soku wynosi 10,00 zł, marża gastronomiczna 300% a stawka podatku VAT 23%.",
+    "answers": [
+      "9,84 zł",
+      "9,23 zł",
+      "4,92 zł",
+      "3,69 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 10,
+    "text": "Korzystając z informacji zamieszczonych w tabeli, określ w którym zakresie temperatur należy przechowywać gotowy do wydania kisiel karmelowy.",
+    "answers": [
+      "8 - 12°C",
+      "0,8 - 4°C",
+      "powyżej 75°C",
+      "63 - 74°C"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela86.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 11,
+    "text": "Korzystając z normatywu surowcowego zamieszczonego w tabeli oblicz, ile sera twarogowego i jaj należy pobrać z magazynu w celu sporządzenia 75 porcji pierogów leniwych.",
+    "answers": [
+      "Ser twarogowy: 60 kg, jaja: 60 szt.",
+      "Ser twarogowy: 12 kg, jaja: 60 szt.",
+      "Ser twarogowy: 12 kg, jaja: 300 szt.",
+      "Ser twarogowy: 60 kg, jaja: 300 szt."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_normatyw18.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 12,
+    "text": "Ile wynosi wartość energetyczna 100 g placków ziemniaczanych zawierających 4 g białka, 14 g tłuszczu, 24 g węglowodanów ogółem, w tym 2 g błonnika?",
+    "answers": [
+      "242 kcal",
+      "244 kcal",
+      "234 kcal",
+      "238 kcal"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 13,
+    "text": "Do czynności wykonywanych przez kelnera z lewej strony gościa należy",
+    "answers": [
+      "nalewanie kawy z dzbanka, nalewanie zupy z wazy.",
+      "nalewanie zupy z wazy, prezentacja potraw na półmisku.",
+      "podawanie wody w goblecie, ustawianie na stole talerza do pieczywa.",
+      "podawanie karty menu, prezentacja butelki wina."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 14,
+    "text": "Obrusu okrągłego o średnicy 160 cm należy użyć do nakrycia",
+    "answers": [
+      "stołu okrągłego Ø 100 cm",
+      "stołu prostokątnego 60 cm x 90 cm",
+      "stołu prostokątnego 120 cm x 90 cm",
+      "stołu okrągłego Ø 130 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 15,
+    "text": "Do witamin rozpuszczalnych w wodzie należy zaliczyć",
+    "answers": [
+      "kwas foliowy i witaminę E.",
+      "witaminę E i witaminę A.",
+      "kwas foliowy i witaminę PP.",
+      "witaminę PP i witaminę A."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 16,
+    "text": "Do czego służą przedstawione na ilustracji sztućce?",
+    "answers": [
+      "Do konsumowania świeżych ostryg.",
+      "Do tranżerowania pieczonego indyka.",
+      "Do podawania szaszłyków wieprzowych.",
+      "Do sporządzania fondue serowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_sztucce3.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 17,
+    "text": "Ile wyniesie kwota udzielonego rabatu za 8 zestawów obiadowych, jeżeli cena 1 zestawu w karcie menu wynosi 25,00 zł, a ilość zamówionych zestawów upoważnia do 10% rabatu?",
+    "answers": [
+      "80,00 zł",
+      "20,00 zł",
+      "180,00 zł",
+      "220,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 18,
+    "text": "Której z wymienionych potraw należy unikać w planowaniu żywienia dzieci w wieku przedszkolnym?",
+    "answers": [
+      "Jajecznicy ze szczypiorkiem.",
+      "Bitek cielęcych.",
+      "Bigosu z grzybami.",
+      "Zupy brokułowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 19,
+    "text": "W którym z wymienionych surowców żelazo występuje w formie najlepiej przyswajalnej dla człowieka?",
+    "answers": [
+      "W bananach suszonych.",
+      "W szpinaku mrożonym.",
+      "W mleku kozim.",
+      "W wątrobie cielęcej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 20,
+    "text": "Ile należy zakupić mrożonych ryb pokrytych wodną glazurą, jeżeli normatyw surowcowy przewiduje użycie 35 kg surowca, a ubytki wody podczas rozmrażania wynoszą 30%?",
+    "answers": [
+      "50 kg",
+      "70 kg",
+      "30 kg",
+      "35 kg"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 21,
+    "text": "Przedstawione w tabeli zmiany zachodzące w organizmie człowieka są objawami niedoboru w diecie",
+    "answers": [
+      "witaminy C.",
+      "tiaminy.",
+      "niacyny.",
+      "witaminy A."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela85.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 22,
+    "text": "Do kotletów z jaj należy zaplanować dodatek, który uzupełni w potrawie brak",
+    "answers": [
+      "składników mineralnych, głównie fosforu.",
+      "witamin rozpuszczalnych w tłuszczach.",
+      "węglowodanów złożonych.",
+      "białka pełnowartościowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 23,
+    "text": "Która odmiana wegetarianizmu dopuszcza spożywanie mięsa ryb, jaj, miodu i mleka?",
+    "answers": [
+      "Laktoowowegetarianizm.",
+      "Witarianizm.",
+      "Owowegetarianizm.",
+      "Semiwegetarianizm."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 24,
+    "text": "Zgodnie z informacjami zamieszczonymi w tabeli, wskaźnik masy ciała BMI = 26 oznacza, że",
+    "answers": [
+      "badana osoba cierpi na otyłość.",
+      "stan odżywienia badanej osoby jest w normie.",
+      "badana osoba ma niedowagę.",
+      "badana osoba ma nadwagę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela84.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 25,
+    "text": "Ile błonnika pokarmowego dostarczy 1 porcja zupy krem z zielonego groszku o masie 250 g, jeżeli 100 g tej zupy zawiera 3,1 g błonnika?",
+    "answers": [
+      "31,10 g",
+      "77,50 g",
+      "7,75 g",
+      "3,10 g"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 26,
+    "text": "Korzystny wpływ na obniżenie napięcia nerwowego, poprawę pamięci i koncentracji ma spożywanie produktów bogatych",
+    "answers": [
+      "w witaminę K.",
+      "w magnez.",
+      "w cynk.",
+      "w witaminę C."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 27,
+    "text": "Który przyrząd służy do pomiaru ciśnienia pary w kotle warzelnym?",
+    "answers": [
+      "Pirometr.",
+      "Termometr.",
+      "Higrometr.",
+      "Manometr."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 28,
+    "text": "Na podstawie zamieszczonych w tabeli danych o usługach świadczonych podczas warsztatów dla matek z dziećmi, oblicz ile wynosi należność brutto za organizację 4-godzinnych warsztatów dla 25 osób?",
+    "answers": [
+      "450,00 zł",
+      "350,00 zł",
+      "100,00 zł",
+      "975,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela88.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 29,
+    "text": "Którą potrawę można po sporządzeniu zamrozić i poddać restytucji bezpośrednio przed konsumpcją?",
+    "answers": [
+      "Suflet serowy.",
+      "Gulasz wieprzowy.",
+      "Pstrąga w galarecie.",
+      "Sałatkę caprese."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 30,
+    "text": "W kieliszku przedstawionym na ilustracji należy podać",
+    "answers": [
+      "wodę mineralną.",
+      "wermut wytrawny.",
+      "wino musujące.",
+      "napój gazowany."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_kieliszek7.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 31,
+    "text": "Ile wyniesie cena gastronomiczna netto 1 porcji zapiekanki, jeżeli całkowity koszt surowców do sporządzenia 10 porcji zapiekanki wynosi 12,00 zł, zakład stosuje ryczałt na przyprawy w wysokości 10% i marżę gastronomiczną w wysokości 150%?",
+    "answers": [
+      "3,30 zł",
+      "3,18 zł",
+      "2,52 zł",
+      "1,98 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 32,
+    "text": "Korzystając z danych zamieszczonych w tabeli, oblicz cenę brutto 1 zestawu obiadowego w przedszkolu.",
+    "answers": [
+      "5,40 zł",
+      "2,95 zł",
+      "6,15 zł",
+      "2,45 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela87.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 33,
+    "text": "Korzystając z informacji zamieszczonych w tabeli oblicz, ile miligramów witaminy C dostarczy organizmowi spożycie 1 porcji sałatki z kapusty czerwonej sporządzonej zgodnie z normatywem.",
+    "answers": [
+      "73,0 mg",
+      "45,5 mg",
+      "14,6 mg",
+      "227,5 mg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela54.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 34,
+    "text": "Ile kg pieczywa zastąpi 5 kg kaszy, jeżeli zgodnie z tabelą zamienności produktów spożywczych, 135 g pieczywa zastępuje 100 g kaszy?",
+    "answers": [
+      "0,76 kg",
+      "6,75 kg",
+      "5,30 kg",
+      "0,53 kg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 35,
+    "text": "Korzystając z danych zamieszczonych w tabeli i normy na wodę, która dla osoby dorosłej wynosi 1000 ml/1000 kcal wydatkowanej energii oblicz, ile wynosi zapotrzebowanie na wodę dla 32-letniej kobiety o masie ciała 60 kg, prowadzącej umiarkowaną aktywność fizyczną.",
+    "answers": [
+      "2,45 l",
+      "2,65 l",
+      "245 ml",
+      "265 ml"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela52.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 36,
+    "text": "Emulgowanie tłuszczu w przewodzie pokarmowym zachodzi pod wpływem",
+    "answers": [
+      "lipazy.",
+      "amylazy.",
+      "żółci.",
+      "insuliny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 37,
+    "text": "Którą formę promocji zastosowano w restauracji oferując w poniedziałki, do godziny 15.00 wszystkie desery taniej o 20%?",
+    "answers": [
+      "Marketing bezpośredni.",
+      "Public relations.",
+      "Sponsoring.",
+      "Promocję sprzedaży."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 38,
+    "text": "Zgodnie z zasadami planowania jadłospisów, do zestawu śniadaniowego składającego się z: pieczywa mieszanego, masła, polędwicy, sałaty zielonej i herbaty należy zaplanować",
+    "answers": [
+      "sałatkę z brokułów.",
+      "wodę mineralną.",
+      "dżem truskawkowy.",
+      "owsiankę na mleku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 39,
+    "text": "Którą potrawę należy wyserwować stosując chwyt płaski sztućców?",
+    "answers": [
+      "Pyzy ziemniaczane z mięsem.",
+      "Skrzydełka z kurczaka pieczone.",
+      "Filet z dorsza pieczony.",
+      "Gołąbki z mięsem i ryżem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 40,
+    "text": "W prawidłowym rozkładzie posiłków w ciągu dnia przerwy między kolejnymi posiłkami nie powinny być dłuższe niż",
+    "answers": [
+      "4 godziny.",
+      "1,5 godziny.",
+      "7 godzin.",
+      "6 godzin."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 41,
+    "text": "Na którym rysunku przedstawiono termos transportowy?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/tg16_rysunki.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 42,
+    "text": "Zaburzenie odżywiania, polegające na celowej utracie masy ciała i występowaniu jadłowstrętu psychicznego to",
+    "answers": [
+      "bulimia.",
+      "anoreksja.",
+      "celiakia.",
+      "anemia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 43,
+    "text": "Którą potrawę należy wyserwować z półmiska na talerz, stosując chwyt płaski sztućców?",
+    "answers": [
+      "Jabłka pieczone.",
+      "Jaja garnirowane.",
+      "Naleśniki z dżemem.",
+      "Knedle ze śliwkami."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 44,
+    "text": "Do sporządzenia espresso należy wykorzystać",
+    "answers": [
+      "ekspres przelewowy.",
+      "tygielek.",
+      "ekspres ciśnieniowy.",
+      "kawiarkę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 45,
+    "text": "Którą zupę należy podać konsumentowi w naczyniu przedstawionym na rysunku?",
+    "answers": [
+      "Krupnik jęczmienny.",
+      "Rosół wołowy z uszkami.",
+      "Barszcz czerwony czysty.",
+      "Kapuśniak z prażokami."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/tg16_naczynie.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 46,
+    "text": "Do oceny jakościowej sposobu żywienia należy zastosować metodę",
+    "answers": [
+      "wagową.",
+      "analityczną.",
+      "inwentarzową.",
+      "punktową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 47,
+    "text": "W kieliszku przedstawionym na rysunku należy podać",
+    "answers": [
+      "napój gazowany.",
+      "wermut wytrawny.",
+      "wodę mineralną.",
+      "wino musujące."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/tg16_kieliszek.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 48,
+    "text": "Zakład gastronomiczny wprowadzając rabaty dla stałych gości stosuje, marketing-mix w zakresie",
+    "answers": [
+      "ceny.",
+      "promocji.",
+      "produktu.",
+      "dystrybucji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 49,
+    "text": "Do konsumpcji zestawu składającego się z mostka cielęcego, purée z ziemniaków i kalafiora z wody należy podać widelec i nóż",
+    "answers": [
+      "duży.",
+      "specjalny.",
+      "mały.",
+      "średni."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 50,
+    "text": "Zgodnie z zasadami zamiany produktów mleko można zastąpić",
+    "answers": [
+      "maślanką.",
+      "masłem.",
+      "makaronem.",
+      "mięsem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 51,
+    "text": "Przedstawione na rysunku urządzenie służy do sporządzania",
+    "answers": [
+      "gorącej czekolady.",
+      "napojów mieszanych.",
+      "soków owocowych.",
+      "grzanego wina."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/tg16_urzadzenie.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 52,
+    "text": "Podłużne ozdobne serwety układane na obrusie to",
+    "answers": [
+      "laufry.",
+      "skirtingi.",
+      "moltony.",
+      "napperony."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 53,
+    "text": "Na podstawie zamieszczonych w tabeli danych o usługach świadczonych podczas warsztatów dla matek z dziećmi, oblicz ile wynosi należność brutto za organizację 4-godzinnych warsztatów dla 25 osób.",
+    "answers": [
+      "975,00 zł",
+      "100,00 zł",
+      "350,00 zł",
+      "450,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/tg16_tabela13.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 54,
+    "text": "Korzystając z danych zamieszczonych w tabeli określ, w jakiej temperaturze należy przechowywać gotowy do wydania kisiel karmelowy.",
+    "answers": [
+      "10°C",
+      "0 ÷ 4°C",
+      "powyżej 63°C",
+      "powyżej 75°C"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/tg16_tabela10.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 55,
+    "text": "Źródłem białka roślinnego są",
+    "answers": [
+      "groch, soja, jaja.",
+      "ser, bób, soczewica.",
+      "fasola, ciecierzyca, soja.",
+      "mleko, fasola, ryby."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 56,
+    "text": "Próbki kontrolne potraw przeznaczone do celów sanitarno-epidemiologicznych należy pobierać w ilości nie mniejszej niż",
+    "answers": [
+      "200 g",
+      "150 g",
+      "100 g",
+      "250 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 57,
+    "text": "Która instytucja kontroluje stan sanitarny zakładu i stan higieny pracowników?",
+    "answers": [
+      "Państwowa Inspekcja Pracy.",
+      "Instytut Żywności i Żywienia.",
+      "Stacja Sanitarno-Epidemiologiczna.",
+      "Państwowy Zakład Higieny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 58,
+    "text": "Korzystając z danych zamieszczonych w tabeli, oblicz wartość energetyczną 1 porcji kisielu karmelowego.",
+    "answers": [
+      "805,00 kcal",
+      "235,40 kcal",
+      "305,00 kcal",
+      "670,00 kcal"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/tg16_tabela9.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 59,
+    "text": "W karcie menu restauracji należy umieścić informację o",
+    "answers": [
+      "wysokości marży.",
+      "zawartości składników mineralnych.",
+      "objętości porcji napoju.",
+      "wartości VAT."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 60,
+    "text": "Do obowiązków sommeliera należy",
+    "answers": [
+      "sporządzanie napojów alkoholowych.",
+      "produkcja wyrobów garmażeryjnych.",
+      "parzenie kawy i herbaty.",
+      "doradzanie i serwowanie win do potraw."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 61,
+    "text": "Ile zapłaci stały klient za obiad dla grupy 24 osób, jeśli standardowa cena jednego zestawu wynosi 25,00 zł, a karta stałego klienta uprawnia go do 10% zniżki?",
+    "answers": [
+      "600,00 zł",
+      "480,00 zł",
+      "660,00 zł",
+      "540,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 62,
+    "text": "Jeżeli zakład gastronomiczny organizuje konferencję dla przedstawicieli branży gastronomicznej, to stosuje",
+    "answers": [
+      "public relations.",
+      "promocję bezpośrednią.",
+      "promocję sprzedaży.",
+      "sprzedaż osobistą."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 63,
+    "text": "Ile węglowodanów dostarczy organizmowi 1 porcja surówki z buraków i jabłek o masie 150 g, jeżeli 100 g tej surówki zawiera 12,10 g węglowodanów?",
+    "answers": [
+      "15,00 g",
+      "16,21 g",
+      "12,10 g",
+      "18,15 g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 64,
+    "text": "Glicerol w organizmie człowieka powstaje w wyniku",
+    "answers": [
+      "resyntezy tłuszczu.",
+      "hydrolizy tłuszczu.",
+      "syntezy białek.",
+      "hydrolizy białek."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 65,
+    "text": "Ile wynosi wartość energetyczna kotleta schabowego, który dostarcza organizmowi 6,5 g białka, 1,4 g tłuszczu oraz 41,9 g węglowodanów ?",
+    "answers": [
+      "238,70 kcal",
+      "415,70 kcal",
+      "206,20 kcal",
+      "199,20 kcal"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 66,
+    "text": "Który tłuszcz zawiera największą ilość NNKT, zgodnie z danymi zamieszczonymi w tabeli?",
+    "answers": [
+      "Smalec.",
+      "Masło.",
+      "Tran.",
+      "Oliwa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/tg16_tabela7.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 67,
+    "text": "Urządzenie przedstawione na rysunku służy do sporządzania i ekspedycji",
+    "answers": [
+      "soku.",
+      "granity.",
+      "lemoniady.",
+      "lodów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/tg16_urzadzenie2.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 68,
+    "text": "Podając gościom zupę wyporcjowaną w talerzu głębokim, kelner stosuje serwis",
+    "answers": [
+      "niemiecki.",
+      "francuski.",
+      "angielski.",
+      "rosyjski."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 69,
+    "text": "Która witamina zapewnia organizmowi człowieka prawidłowy wzrost i mineralizację kości?",
+    "answers": [
+      "Witamina E.",
+      "Witamina A.",
+      "Witamina D.",
+      "Witamina K."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 70,
+    "text": "Ile wynosi cena gastronomiczna netto 50 ml wódki, jeżeli koszt zakupu butelki wódki o pojemności 1,0 litra wyniósł 200,00 zł, a firma stosuje marżę w wysokości 100%?",
+    "answers": [
+      "10,00 zł",
+      "5,00 zł",
+      "30,00 zł",
+      "20,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 71,
+    "text": "Zgodnie z rekomendacją polskich norm żywienia zawartość soli kuchennej w diecie nie powinna przekraczać",
+    "answers": [
+      "50 g/dzień.",
+      "15 g/dzień.",
+      "5 g/dzień.",
+      "150 g/dzień."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 72,
+    "text": "Ile kg pieczywa należy przygotować, aby zastąpić 5,0 kg kaszy, jeżeli zgodnie z tabelą zamienności produktów spożywczych 153 g pieczywa zastępuje 100 g kaszy?",
+    "answers": [
+      "5,30 kg",
+      "7,65 kg",
+      "0,76 kg",
+      "0,53 kg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 73,
+    "text": "W diecie laktowegetarian uwzględnia się warzywa, owoce oraz",
+    "answers": [
+      "nabiał.",
+      "ryby.",
+      "jaja.",
+      "drób."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 74,
+    "text": "Do potrawy z jaj sadzonych należy zaplanować dodatek, który uzupełni w potrawie brak",
+    "answers": [
+      "składników mineralnych, głównie fosforu.",
+      "węglowodanów złożonych.",
+      "witamin rozpuszczalnych w tłuszczach.",
+      "białka pełnowartościowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 75,
+    "text": "Korzystając z danych zamieszczonych w tabeli, oblicz zapotrzebowanie na surowce do sporządzenia 40 porcji frytek.",
+    "answers": [
+      "Ziemniaki 1,40 kg, olej 0,03 kg",
+      "Ziemniaki 1,40 kg, olej 3,00 kg",
+      "Ziemniaki 14,00 kg, olej 3,0 kg",
+      "Ziemniaki 14,00 kg, olej 0,3 kg"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/tg16_tabela11.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 76,
+    "text": "Oblicz cenę gastronomiczną brutto 1 porcji barszczu ukraińskiego, jeżeli cena gastronomiczna netto 1 porcji tej zupy wynosi 4,10 zł, a stawka VAT 8%.",
+    "answers": [
+      "4,43 zł",
+      "32,80 zł",
+      "3,57 zł",
+      "12,10 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 77,
+    "text": "Przedstawione w tabeli zmiany w organizmie człowieka są objawami przede wszystkim",
+    "answers": [
+      "nadmiaru białka.",
+      "niedoboru cukrów prostych.",
+      "niedoboru cukrów złożonych.",
+      "nadmiaru tłuszczu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/tg16_tabela8.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 78,
+    "text": "Który system obsługi stosowany jest w restauracji, w której sala konsumencka podzielona jest na sekcje, a w każdej sekcji jeden kelner samodzielnie obsługuje gości?",
+    "answers": [
+      "System brygadowy.",
+      "System kelnerów rewirowych.",
+      "System zespołów specjalistycznych.",
+      "System brygadowo-kompleksowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 79,
+    "text": "Który rodzaj bielizny stołowej przedstawiono strzałką na rysunku?",
+    "answers": [
+      "Laufer.",
+      "Molton.",
+      "Napperon.",
+      "Skirting."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/tg16_bielizna.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 80,
+    "text": "Którą wartość należy wpisać na rachunek za śniadanie w formie bufetu dla dwóch osób dorosłych i trójki dzieci w wieku 5, 8 i 10 lat, wyrażoną w cenie brutto, jeżeli cena brutto śniadania wynosi 25,00 zł od osoby a śniadanie dla dzieci do 6 roku życia jest gratis?",
+    "answers": [
+      "150,00 zł",
+      "100,00 zł",
+      "75,00 zł",
+      "125,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 81,
+    "text": "Korzystając z normatywu surowcowego zamieszczonego w tabeli, oblicz zapotrzebowanie surowcowe na 55 porcji mleczka czekoladowego.",
+    "answers": [
+      "Mleko 5,5 l, jaja 165 szt., cukier 3,85 kg, czekolada 8,25 kg",
+      "Mleko 27,5 l, jaja 33 szt., cukier 19,3 kg, czekolada 41,3 kg",
+      "Mleko 27,5 l, jaja 165 szt., cukier 1,93 kg, czekolada 4,13 kg",
+      "Mleko 5,5 l, jaja 33 szt., cukier 0,385 kg, czekolada 0,825 kg"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/tg16_tabela5.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 82,
+    "text": "Który instrument promocyjny zastosowała pizzeria, oferując dostawę pizzy do domu?",
+    "answers": [
+      "Marketing bezpośredni.",
+      "Sponsoring.",
+      "Publicity.",
+      "Public relations."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 83,
+    "text": "Na rysunku przedstawiono",
+    "answers": [
+      "mikser barmański.",
+      "kruszarkę do lodu.",
+      "wyciskacz do cytrusów.",
+      "młynek do kawy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/tg16_rysunek.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 84,
+    "text": "Do witamin rozpuszczalnych w wodzie zalicza się",
+    "answers": [
+      "witaminę E i witaminę A.",
+      "kwas foliowy i witaminę E.",
+      "witaminę PP i witaminę A.",
+      "kwas foliowy i witaminę PP."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 85,
+    "text": "Ile wynosi wartość energetyczna 2 kostek czekolady o łącznej masie 12 g, jeżeli 100 g czekolady dostarcza 500 kcal?",
+    "answers": [
+      "60 kcal",
+      "250 kcal",
+      "2 kcal",
+      "44 kcal"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 86,
+    "text": "Przegrzanie organizmu, spowolnienie czynności umysłowych, zatrucie szkodliwymi produktami przemiany materii to niektóre objawy spowodowane",
+    "answers": [
+      "ujemnym bilansem wody w organizmie.",
+      "nadmiernym spożyciem chloru, sodu i potasu.",
+      "nadmiernym spożyciem węglowodanów prostych.",
+      "spożyciem zbyt małej ilości witamin B1 i PP."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 87,
+    "text": "W zamieszczonym w tabeli zestawie obiadowym dla osoby na diecie 1000 kcal zamienić należy",
+    "answers": [
+      "pieczoną rybę na gotowane żeberka.",
+      "ryż czarny na ziemniaki purée.",
+      "zupę czystą na zagęszczany krem.",
+      "deser na surówkę owocową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/tg16_tabela4.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 88,
+    "text": "Do kontroli którego parametru należy użyć sprzętu przedstawionego na rysunku?",
+    "answers": [
+      "Wilgotności w magazynie produktów suchych.",
+      "Temperatury wewnątrz gotowanej potrawy.",
+      "Ciśnienia w płaszczu wodnym kotła.",
+      "Masy potrawy po obróbce cieplnej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/tg16_sprzet2.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 89,
+    "text": "Opracowywaniem międzynarodowych standardów dla producentów żywności mających na celu dbanie o zdrowie konsumentów i uczciwe praktyki w handlu żywnością zajmuje się",
+    "answers": [
+      "Organizacja ds. Wyżywienia i Rolnictwa.",
+      "Komitet Żywienia Człowieka PAN.",
+      "Komisja Kodeksu Żywnościowego FAO/WHO.",
+      "Światowa Organizacja Zdrowia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 90,
+    "text": "Ile miodu zastąpi spożycie 20 g cukru, jeżeli zgodnie z tabelami zamienności 125 g miodu zastępuje 100 g cukru?",
+    "answers": [
+      "25 g miodu.",
+      "62,5 g miodu.",
+      "16 g miodu.",
+      "50 g miodu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 91,
+    "text": "Które szczypce wchodzą w skład nakrycia stołu bufetowego i służą konsumentowi do przekładania pieczywa z koszyka na talerz?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/tg16_szczypce.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 92,
+    "text": "Żelazo w formie najlepiej przyswajalnej dla człowieka występuje",
+    "answers": [
+      "w wątrobie cielęcej.",
+      "w bananach suszonych.",
+      "w mleku kozim.",
+      "w szpinaku mrożonym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 93,
+    "text": "Mocznik powstaje podczas przemian metabolicznych",
+    "answers": [
+      "aminokwasów.",
+      "kwasów tłuszczowych.",
+      "etanolu.",
+      "cukrów prostych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 94,
+    "text": "Jeżeli klient cyklicznie odbiera zamówione potrawy, za które uregulował należność „z góry”, to jest to sprzedaż",
+    "answers": [
+      "sugerowana.",
+      "ruchoma.",
+      "bezpośrednia.",
+      "abonamentowa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 95,
+    "text": "Która odmiana wegetarianizmu dopuszcza spożywanie produktów takich jak: mięso drobiu, ryby, jaja, miód, mleko?",
+    "answers": [
+      "Witarianizm.",
+      "Semiwegetarianizm.",
+      "Laktoowowegetarianizm.",
+      "Ichtiowegetarianizm."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 96,
+    "text": "W restauracji ofertę potraw i napojów sporządzanych dla dzieci należy zamieścić w karcie",
+    "answers": [
+      "okolicznościowej.",
+      "specjalnej.",
+      "standardowej.",
+      "dnia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 97,
+    "text": "Białko pełnowartościowe występuje",
+    "answers": [
+      "w fasoli białej.",
+      "w kaszy gryczanej.",
+      "w orzechach laskowych.",
+      "w kefirze owocowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 98,
+    "text": "Na podstawie danych zamieszczonych w cenniku oferty konferencyjnej oblicz koszt zorganizowania jednodniowego szkolenia dla 50 osób, wyrażony w cenie brutto, podczas którego przewidziano dwie przerwy kawowe i lunch.",
+    "answers": [
+      "4 600,00 zł",
+      "4 700,00 zł",
+      "5 200,00 zł",
+      "5 100,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/tg16_tabela6.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 99,
+    "text": "Do czego służą przedstawione na rysunku sztućce?",
+    "answers": [
+      "Do podawania szaszłyków wieprzowych.",
+      "Do tranżerowania pieczonego indyka.",
+      "Do konsumowania świeżych ostryg.",
+      "Do serwowania fondue serowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/tg16_sztucce.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 100,
+    "text": "Składnikiem mineralnym o działaniu kwasotwórczym jest",
+    "answers": [
+      "sód.",
+      "siarka.",
+      "potas.",
+      "magnez."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 101,
+    "text": "Wskaźnik WHR (stosunek obwodu talii do obwodu bioder) stosuje się do",
+    "answers": [
+      "określenia typu otyłości u osób dorosłych.",
+      "oceny gęstości mineralnej kości u osób dorosłych.",
+      "oceny rozwoju fizycznego dzieci i młodzieży.",
+      "określenia należytej masy ciała."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 102,
+    "text": "Do nakrycia stołu o wymiarach 120 cm x 90 cm na uroczystą, oficjalną kolację należy użyć obrusu",
+    "answers": [
+      "grafitowego o wymiarach 180 cm x 150 cm.",
+      "białego o wymiarach 180 cm x 150 cm.",
+      "grafitowego o wymiarach 150 cm x 120 cm.",
+      "białego o wymiarach 150 cm x 120 cm."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 103,
+    "text": "Optymalne przerwy między kolejnymi posiłkami zdrowej, dorosłej osoby powinny trwać",
+    "answers": [
+      "6 godzin.",
+      "1,5 godziny.",
+      "7 godzin.",
+      "4 godziny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 104,
+    "text": "Zastępując ziemniaki kaszą, należy uwzględnić w posiłku zwiększoną porcję warzyw w celu zrównoważenia zawartości",
+    "answers": [
+      "witaminy C i potasu.",
+      "skrobi i białka.",
+      "skrobi i potasu.",
+      "witaminy C i białka."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 105,
+    "text": "Niskie spożycie błonnika zwiększa ryzyko wystąpienia",
+    "answers": [
+      "żółtaczki pokarmowej.",
+      "anemii.",
+      "celiakii.",
+      "raka jelita grubego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 106,
+    "text": "Usługą podstawową świadczoną przez restaurację jest",
+    "answers": [
+      "zaopatrzenie zakładów w wyroby garmażeryjne.",
+      "organizacja przyjęć zasiadanych.",
+      "sprzedaż potraw i napojów do konsumpcji na miejscu.",
+      "wykonywanie usług cateringowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 107,
+    "text": "Zgodnie z zasadami planowania jadłospisów do zestawu obiadowego, w skład którego wchodzą: boeuf Strogonow, kasza jęczmienna, sałatka z buraków, kompot z moreli, należy zaplanować",
+    "answers": [
+      "krupnik na mięsie.",
+      "barszcz z botwinki.",
+      "zupę gulaszową.",
+      "krem z brokułów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 108,
+    "text": "Systemem samoobsługowym, w którym potrawy i napoje wydawane są przez „okienko” łączące kuchnię z salą konsumencką, jest",
+    "answers": [
+      "system czeski.",
+      "system francuski.",
+      "system polski.",
+      "system szwedzki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 109,
+    "text": "Ile wynosi zapotrzebowanie na energię dla mężczyzny prowadzącego umiarkowaną aktywność zawodową i dużą aktywność pozazawodową, którego PPM wynosi 1750 kcal? Do obliczeń wykorzystaj wybrany z tabeli właściwy współczynnik aktywności fizycznej PAL oraz wzór CPM = PPM×PAL.",
+    "answers": [
+      "3150 kcal",
+      "2800 kcal",
+      "3325 kcal",
+      "2625 kcal"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/tg16_tabela2.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 110,
+    "text": "Ile pęczków rzodkiewki o masie 0,25 kg należy zaplanować do sporządzenia 50 porcji surówki, jeżeli do wykonania 1 porcji potrzeba 30 g tego surowca?",
+    "answers": [
+      "2 pęczki.",
+      "4 pęczki.",
+      "8 pęczków.",
+      "6 pęczków."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 111,
+    "text": "Ile wyniesie cena gastronomiczna brutto 250 ml soku jabłkowego, jeżeli cena zakupu opakowania soku o pojemności 5 1 wynosi 10,00 zł, marża gastronomiczna 300%, a stawka podatku VAT 23%?",
+    "answers": [
+      "24,60 zł",
+      "2,46 zł",
+      "61,50 zł",
+      "6,16 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 112,
+    "text": "Stoły bufetowe z potrawami i napojami oraz stoły i krzesła dla gości należy przygotować na",
+    "answers": [
+      "bankiet amerykański.",
+      "przyjęcie zasiadane.",
+      "bankiet angielski.",
+      "koktajl party."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 113,
+    "text": "Zgodnie z tabelami zamienności mleka spożywczego nie można zastąpić",
+    "answers": [
+      "serem podpuszczkowym.",
+      "mlekiem kokosowym.",
+      "maślanką owocową.",
+      "jogurtem naturalnym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 114,
+    "text": "Korzystając z normatywu surowcowego oblicz, ile błonnika dostarczy organizmowi 1 porcja sałatki z kapusty czerwonej z papryką.",
+    "answers": [
+      "25,7 g",
+      "8,8 g",
+      "284,0 g",
+      "3,2 g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/tg16_tabela3.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 115,
+    "text": "Który przyrząd należy zastosować do pomiaru temperatury w środku mięsa podczas pieczenia?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_przyrzady.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 116,
+    "text": "Który serwis należy zaplanować do podania zupy cebulowej zapiekanej jednoporcjowo?",
+    "answers": [
+      "Niemiecki.",
+      "Angielski.",
+      "Rosyjski.",
+      "Francuski."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 117,
+    "text": "Ile stolików koktajlowych o powierzchni 0,3 m2 należy przygotować na przyjęcie dla 180 osób, jeżeli jeden stolik jest przeznaczony dla 10 osób",
+    "answers": [
+      "36 szt.",
+      "18 szt.",
+      "54 szt.",
+      "30 szt."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 118,
+    "text": "Który środek spożywczy dostarczy organizmowi człowieka największej ilości fruktozy?",
+    "answers": [
+      "Orzechy włoskie.",
+      "Miód.",
+      "Jabłko.",
+      "Mąka pszenna."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 119,
+    "text": "Wskaż sprzęt, który służy do wyciskania soku z limonki.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_sprzety.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 120,
+    "text": "Ile kg miodu naturalnego należy przygotować do zastąpienia 0,6 kg cukru, jeżeli zgodnie z tabelą zamienności produktów spożywczych 125 g miodu naturalnego zastępuje 100 g cukru?",
+    "answers": [
+      "0,75 kg",
+      "7,50 kg",
+      "0,48 kg",
+      "4,80 kg"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 121,
+    "text": "W diecie owowegetarian uwzględnia się warzywa, owoce oraz",
+    "answers": [
+      "nabiał.",
+      "jaja.",
+      "ryby.",
+      "drób."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 122,
+    "text": "Do czego służy przedstawiony na rysunku sprzęt pomocniczy?",
+    "answers": [
+      "Chłodzenia potraw.",
+      "Ekspozycji surówek.",
+      "Transportu zakąsek.",
+      "Podgrzewania potraw."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_sprzet14.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 123,
+    "text": "Kieliszek przedstawiony na rysunku stosuje się do podawania",
+    "answers": [
+      "wermutu.",
+      "wody mineralnej.",
+      "wina musującego.",
+      "koniaku."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_kieliszek6.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 124,
+    "text": "W schemacie technologicznym produkcji marchwi zasmażanej, po etapie pobrania surowców z magazynu, kolejnym etapem będzie",
+    "answers": [
+      "obróbka wstępna czysta.",
+      "obróbka cieplna.",
+      "obróbka wykończeniowa.",
+      "obróbka wstępna brudna."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 125,
+    "text": "Ile wynosi cena gastronomiczna brutto 150 ml wina, jeżeli cena zakupu butelki wina o pojemności 1,5 l wynosi 250,00 zł, zakład stosuje marżę w wysokości 100%, a stawka podatku VAT wynosi 23%?",
+    "answers": [
+      "6,25 zł",
+      "61,50 zł",
+      "50,00 zł",
+      "8,25 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 126,
+    "text": "Oblicz zapotrzebowanie na surowce do sporządzenia 15 porcji schabu pieczonego ze śliwkami, korzystając z normatywu surowcowego zamieszczonego w tabeli.",
+    "answers": [
+      "Schab 1,80 kg, śliwki suszone 0,30 kg, olej 0,06 k",
+      "Schab 1,80 kg, śliwki suszone 0,03 kg, olej 0,006 kg",
+      "Schab 1,80 kg, śliwki suszone 0,30 kg, olej 0,006 kg",
+      "Schab 1,80 kg, śliwki suszone 0,30 kg, olej 0,60 kg"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_normatyw16.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 127,
+    "text": "Stosując zasadę zamienności produktów spożywczych, olej można zastąpić",
+    "answers": [
+      "maślanką.",
+      "masłem.",
+      "jajami.",
+      "śmietaną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 128,
+    "text": "Talerz głęboki należy zastosować do podania",
+    "answers": [
+      "kremu pomidorowego z grzankami.",
+      "barszczu czerwonego z krokietem.",
+      "bulionu drobiowego z żółtkiem.",
+      "rosołu wołowego z kołdunami."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 129,
+    "text": "Którą potrawę należy zaplanować w menu dla osoby chorej na celiakię?",
+    "answers": [
+      "Kuskus z wieprzowiną i papryką.",
+      "Pęczak z dorszem i pomidorami.",
+      "Ryż z indykiem i brokułami.",
+      "Bulgur z kurczakiem i cukinią."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 130,
+    "text": "Który surowiec zawiera w swoim składzie najwięcej białka roślinnego",
+    "answers": [
+      "Porzeczka czerwona.",
+      "Papryka zielona.",
+      "Fasola biała.",
+      "Borówka czarna."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 131,
+    "text": "Korzystając z danych zamieszczonych w tabeli, oblicz wartość energetyczną 1 porcji zupy kalafiorowej.",
+    "answers": [
+      "261,80 kcal",
+      "120,80 kcal",
+      "250,00 kcal",
+      "308,00 kcal"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela47.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 132,
+    "text": "Dozownik przedstawiony na rysunku należy zastosować do",
+    "answers": [
+      "napojów chłodzonych.",
+      "płatków śniadaniowych.",
+      "koktajli mlecznych.",
+      "orzeszków ziemnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_dozownik.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 133,
+    "text": "Wskaż produkt o działaniu alkalizującym na odczyn płynów ustrojowych człowieka.",
+    "answers": [
+      "Szynka wędzona.",
+      "Sałata liściasta.",
+      "Ser gouda.",
+      "Płatki zbożowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 134,
+    "text": "Plan produkcji kuchni przewiduje zużycie 20 kg obranych ziemniaków do sporządzenia placków ziemniaczanych. Ile surowca powinien pobrać z magazynu szef kuchni, jeżeli ubytek masy podczas obróbki wstępnej ziemniaków wynosi 20%?",
+    "answers": [
+      "20,00 kg",
+      "27,00 kg",
+      "25,00 kg",
+      "22,00 kg"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 135,
+    "text": "Którym terminem określa się przedstawiony na rysunku sprzęt barmański?",
+    "answers": [
+      "Trybuszon.",
+      "Nalewak.",
+      "Jigger.",
+      "Muddler."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_sprzet13.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 136,
+    "text": "Przedstawione w tabeli zmiany w organizmie człowieka są objawami",
+    "answers": [
+      "niedoboru żelaza.",
+      "nadmiaru cynku.",
+      "niedoboru potasu.",
+      "nadmiaru miedzi."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela46.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 137,
+    "text": "Ile wynosi wartość energetyczna 100 g sera twarogowego chudego, który zawiera 19,8 g białka, 4,7 g tłuszczu oraz 3,7 g węglowodanów?",
+    "answers": [
+      "112,80 kcal",
+      "178,20 kcal",
+      "154,80 kcal",
+      "136,30 kcal"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 138,
+    "text": "Korzystając z danych zawartych w tabeli, oblicz cenę brutto 1 zestawu obiadowego, jeżeli stawka podatku VAT na potrawy i napoje wynosi 8%.",
+    "answers": [
+      "5,65 zł",
+      "56,65 zł",
+      "61,02 zł",
+      "6,10 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela49.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 139,
+    "text": "Trawienie skrobi w dwunastnicy przebiega z udziałem",
+    "answers": [
+      "lipazy jelitowej.",
+      "amylazy trzustkowej.",
+      "amylazy jelitowej.",
+      "lipazy trzustkowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 140,
+    "text": "Podmiotem odpowiedzialnym za opracowanie tabel składu i wartości odżywczej produktów spożywczych i potraw jest",
+    "answers": [
+      "Instytut Żywności i Żywienia.",
+      "Państwowy Zakład Higieny.",
+      "Ministerstwo Zdrowia.",
+      "Państwowa Inspekcja Sanitarna."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 141,
+    "text": "Zakład gastronomiczny w ramach promocji sprzedaży",
+    "answers": [
+      "umieszcza reklamę w lokalnej prasie.",
+      "organizuje konferencje branżowe.",
+      "oferuje dania dnia w atrakcyjnej cenie.",
+      "organizuje spotkania z ekspertami do spraw żywienia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 142,
+    "text": "Zgodnie z zamieszczoną na rysunku Piramidą Zdrowego Żywienia i Aktywności Fizycznej podstawą żywienia człowieka powinny być",
+    "answers": [
+      "kasze i makarony.",
+      "warzywa i owoce, z czego 3/4 warzywa, a 1/4 owoce.",
+      "warzywa i owoce, z czego 1/4 warzywa, a 3/4 owoce.",
+      "mleko i przetwory mleczne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_piramida.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 143,
+    "text": "Korzystając z informacji zawartych w tabeli, oceń masę ciała kobiety, której BMI wynosi 39.",
+    "answers": [
+      "Otyłość duża III stopnia.",
+      "Otyłość umiarkowana II stopnia.",
+      "Nadwaga, podejrzenie o przekarmienie.",
+      "Podejrzenie o stan niedożywienia organizmu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela48.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 144,
+    "text": "Do konsumpcji śniadania wiedeńskiego należy podać widelce i noże",
+    "answers": [
+      "średnie.",
+      "małe.",
+      "duże.",
+      "specjalne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 145,
+    "text": "Ile zapłaci w barze gość za zestaw dnia, korzystając z 20% rabatu, w ramach programu lojalnościowego? Cena standardowa zestawu w karcie wynosi 15,00 zł.",
+    "answers": [
+      "12,00 zł",
+      "20,00 zł",
+      "17,00 zł",
+      "15,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 146,
+    "text": "Zaburzenie odżywiania, polegające na celowej utracie masy ciała i występowaniu jadłowstrętu psychicznego, określane jest terminem",
+    "answers": [
+      "celiakia.",
+      "bulimia.",
+      "anemia.",
+      "anoreksja."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 147,
+    "text": "Do podstawowych usług gastronomicznych restauracji należy",
+    "answers": [
+      "prowadzenie działalności rozrywkowej.",
+      "sporządzanie potraw i napojów oraz konsumpcja na miejscu.",
+      "sprzedaż potraw i napojów na wynos.",
+      "dostarczanie produkcji gastronomicznej do innych zakładów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 148,
+    "text": "Które przyjęcie łączy w sobie możliwość korzystania z miejsc siedzących i bufetów?",
+    "answers": [
+      "Bankiet angielski.",
+      "Przyjęcie bufetowe.",
+      "Bankiet amerykański.",
+      "Przyjęcie koktajlowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 149,
+    "text": "Ile wyniesie rachunek za usługę organizacji przerwy kawowej dla 125 osób?",
+    "answers": [
+      "700,00 zł",
+      "850,00 zł",
+      "600,00 zł",
+      "765,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela50.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 150,
+    "text": "Ile białka dostarczy 1 porcja żurku o masie 300 g, jeżeli zawartość tego składnika w 100 g zupy wynosi 7,40 g?",
+    "answers": [
+      "22,20 g",
+      "14,80 g",
+      "88,80 g",
+      "74,00 g"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 151,
+    "text": "Do podania potraw i napojów na przedstawionym rysunku zastosowano serwis",
+    "answers": [
+      "niemiecki.",
+      "specjalny.",
+      "angielski.",
+      "rodzinny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_serwis.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 152,
+    "text": "Obiad złożony z barszczu ukraińskiego, ziemniaków, sałaty ze śmietaną, kompotu z rabarbaru, zgodnie z zasadami racjonalnego żywienia, należy uzupełnić",
+    "answers": [
+      "serem panierowanym.",
+      "pierogami z mięsem.",
+      "sałatką z buraków.",
+      "sosem pomidorowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 153,
+    "text": "Befsztyk tatarski należy umieścić w karcie menu restauracji w pozycji",
+    "answers": [
+      "zakąski zimne.",
+      "zakąski gorące.",
+      "dania jarskie.",
+      "dania drobiowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 154,
+    "text": "Który z wymienionych produktów działa alkalizująco na odczyn płynów ustrojowych człowieka?",
+    "answers": [
+      "Sałata liściasta.",
+      "Ser gouda.",
+      "Płatki zbożowe.",
+      "Szynka wędzona."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 155,
+    "text": "Dozownik przedstawiony na ilustracji należy zastosować do",
+    "answers": [
+      "napojów chłodzonych.",
+      "koktajli mlecznych.",
+      "orzeszków ziemnych.",
+      "płatków śniadaniowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_dozownik.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 156,
+    "text": "Do konsumpcji śniadania wiedeńskiego należy podać widelce i noże stołowe",
+    "answers": [
+      "małe.",
+      "specjalne.",
+      "średnie.",
+      "duże."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 157,
+    "text": "Przedstawione na ilustracji urządzenie służy do sporządzania",
+    "answers": [
+      "grzanego wina.",
+      "gorącej czekolady.",
+      "soków owocowych.",
+      "napojów mieszanych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_urzadzenie5.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 158,
+    "text": "Na której ilustracji przedstawiono termos transportowy?",
+    "answers": [
+      "Na ilustracji 3.",
+      "Na ilustracji 4.",
+      "Na ilustracji 1.",
+      "Na ilustracji 2."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_termosy.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 159,
+    "text": "Zgodnie z zasadami zamiany produktów olej można zastąpić",
+    "answers": [
+      "maślanką.",
+      "śmietaną.",
+      "masłem.",
+      "jajami."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 160,
+    "text": "Ile kg pieczywa należy przygotować, aby zastąpić 5 kg kaszy, jeżeli zgodnie z tabelą zamienności produktów spożywczych 135 g pieczywa zastępuje 100 g kaszy?",
+    "answers": [
+      "0,53 kg",
+      "6,75 kg",
+      "5,30 kg",
+      "0,76 kg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 161,
+    "text": "Którą zupę należy podać w talerzu głębokim?",
+    "answers": [
+      "Barszcz czerwony z krokietem.",
+      "Rosół wołowy z kołdunami.",
+      "Bulion drobiowy z żółtkiem.",
+      "Krem pomidorowy z grzankami."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 162,
+    "text": "Przedstawione w tabeli zmiany zachodzące w organizmie człowieka są objawami przede wszystkim",
+    "answers": [
+      "niedoboru potasu.",
+      "nadmiaru cynku.",
+      "nadmiaru miedzi.",
+      "niedoboru żelaza."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela94.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 163,
+    "text": "Która z wymienionych diet uwzględnia spożywanie mleka i przetworów mlecznych?",
+    "answers": [
+      "Frutarianizm.",
+      "Witarianizm.",
+      "Laktowegetarianizm.",
+      "Owowegetarianizm."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 164,
+    "text": "Ile gramów węglowodanów dostarczy 1 porcja sałatki z buraków i jabłek o masie 150 g, jeżeli 100 g tej sałatki zawiera 12,10 g węglowodanów?",
+    "answers": [
+      "15,00 g",
+      "12,10 g",
+      "18,15 g",
+      "16,21 g"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 165,
+    "text": "Do kontroli którego parametru należy użyć przyrządu przedstawionego na ilustracji?",
+    "answers": [
+      "Temperatura wewnątrz gotowanej potrawy.",
+      "Masa potrawy po obróbce cieplnej.",
+      "Ciśnienie w płaszczu wodnym kotła.",
+      "Wilgotność w magazynie produktów suchych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_przyrzad3.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 166,
+    "text": "Semiwegetarianizm to dieta wykluczająca z jadłospisu",
+    "answers": [
+      "ryby morskie.",
+      "jaja kurze.",
+      "sery twarogowe.",
+      "mięso czerwone."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 167,
+    "text": "Który rodzaj sprzedaży prowadzi firma, której klienci cyklicznie odbierają zamówienia opłacone z „góry” za cały cykl?",
+    "answers": [
+      "Bezpośrednią.",
+      "Abonamentową.",
+      "Sugerowaną.",
+      "Ruchomą."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 168,
+    "text": "Korzystając z danych zamieszczonych w tabeli, oblicz zapotrzebowanie energetyczne 25-letniej kobiety o masie ciała 60 kg, małej aktywności fizycznej, karmiącej 2-miesięczne niemowlę.",
+    "answers": [
+      "2260 kcal",
+      "2405 kcal",
+      "3240 kcal",
+      "2225 kcal"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela91.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 169,
+    "text": "Na której ilustracji przedstawiony jest nóż do masła?",
+    "answers": [
+      "Na ilustracji II.",
+      "Na ilustracji I.",
+      "Na ilustracji IV.",
+      "Na ilustracji III."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_noze2.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 170,
+    "text": "Na podstawie danych zamieszczonych w tabeli oblicz koszt usługi gastronomicznej dla 20 osób przebywających na jednodniowym szkoleniu, podczas którego zamówiono całodzienny dostęp do bufetu kawowego, lunch serwowany i uroczystą kolację.",
+    "answers": [
+      "2 400,00 zł",
+      "2 700,00 zł",
+      "1 700,00 zł",
+      "3 100,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_cennik5.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 171,
+    "text": "Serwując zupę z wazy do talerzy głębokich ustawionych przed gośćmi kelner stosuje serwis",
+    "answers": [
+      "francuski.",
+      "niemiecki.",
+      "rosyjski.",
+      "angielski."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 172,
+    "text": "Ile wynosi cena gastronomiczna netto 1 zestawu, jeżeli koszt surowców niezbędnych do sporządzenia 100 zestawów śniadaniowych wyniósł 400,00 zł, a marża gastronomiczna 250%?",
+    "answers": [
+      "6,50 zł",
+      "20,50 zł",
+      "14,00 zł",
+      "10,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 173,
+    "text": "Który z wymienionych surowców jest źródłem białka pełnowartościowego?",
+    "answers": [
+      "Kasza jęczmienna.",
+      "Jogurt owocowy.",
+      "Orzechy włoskie.",
+      "Fasola czerwona."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 174,
+    "text": "Na podstawie zamieszczonego normatywu, oblicz zapotrzebowanie na surowce do sporządzenia 40 porcji frytek.",
+    "answers": [
+      "Ziemniaki 14,00 kg, olej 3,0 l",
+      "Ziemniaki 14,00 kg, olej 0,3 l",
+      "Ziemniaki 1,40 kg, olej 0,03 l",
+      "Ziemniaki 1,40 kg, olej 3,00 l"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_normatyw19.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 175,
+    "text": "Który z wymienionych w tabeli tłuszczów zawiera największą ilość NNKT?",
+    "answers": [
+      "Tran.",
+      "Oliwa.",
+      "Masło.",
+      "Smalec."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela89.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 176,
+    "text": "Sprzęt przedstawiony na ilustracji przeznaczony jest do sporządzania i ekspedycji",
+    "answers": [
+      "lemoniady.",
+      "soku.",
+      "lodów.",
+      "granity."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_sprzet16.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 177,
+    "text": "Zgodnie z zasadami planowania jadłospisu, do zestawu obiadowego składającego się z boeuf Strogonowa, kaszy jęczmiennej, sałatki z buraków, kompotu z moreli należy zaplanować",
+    "answers": [
+      "krupnik na mięsie.",
+      "zupę gulaszową.",
+      "krem z brokułów.",
+      "barszcz z botwinki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 178,
+    "text": "Zastępując ziemniaki kaszą należy uwzględnić w posiłku zwiększoną porcję warzyw w celu zrównoważenia zawartości",
+    "answers": [
+      "witaminy C i potasu.",
+      "witaminy C i białka.",
+      "skrobi i potasu.",
+      "skrobi i białka."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 179,
+    "text": "Środkiem spożywczym zawierającym cholesterol jest",
+    "answers": [
+      "masło śmietankowe.",
+      "orzech laskowy.",
+      "olej rzepakowy.",
+      "ryż długoziarnisty."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 180,
+    "text": "Podłużna wąska ozdobna tkanina układana na obrusie nosi nazwę",
+    "answers": [
+      "napperon.",
+      "skirting.",
+      "laufer.",
+      "molton."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 181,
+    "text": "Wspólną funkcją sodu, potasu i chloru w organizmie człowieka jest",
+    "answers": [
+      "przeciwdziałanie tworzeniu się wolnych rodników.",
+      "tworzenie związku ATP, który magazynuje energię.",
+      "regulacja gospodarki wodno-elektrolitowej.",
+      "ochrona zębów przed próchnicą."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 182,
+    "text": "Zaburzeniem odżywiania, polegającym na celowej utracie masy ciała i występowaniu jadłowstrętu psychicznego jest",
+    "answers": [
+      "anemia.",
+      "anoreksja.",
+      "bulimia.",
+      "celiakia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 183,
+    "text": "Który instrument promocyjny zastosowała pizzeria oferując dostawę pizzy do domu?",
+    "answers": [
+      "Sponsoring.",
+      "Marketing bezpośredni.",
+      "Publicity.",
+      "Public relations."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 184,
+    "text": "Do sporządzenia espresso należy zaplanować",
+    "answers": [
+      "ekspres przelewowy.",
+      "kawiarkę.",
+      "tygielek.",
+      "ekspres ciśnieniowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 185,
+    "text": "Którą z wymienionych potraw kelner powinien wyserwować stosując chwyt szczypcowy boczny?",
+    "answers": [
+      "Pieczarki faszerowane.",
+      "Placki ziemniaczane.",
+      "Pierogi z serem.",
+      "Naleśniki z dżemem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 186,
+    "text": "Który zestaw urządzeń należy zaplanować do wyposażenia food tracka, w którego ofercie znajdują się zapiekanki i frytki?",
+    "answers": [
+      "Rożen gazowy i toster.",
+      "Opiekacz elektryczny i toster.",
+      "Opiekacz elektryczny i frytownicę.",
+      "Rożen gazowy i frytownicę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 187,
+    "text": "Na które z wymienionych przyjęć należy przygotować stoły bufetowe z potrawami i napojami oraz stoły i krzesła dla gości?",
+    "answers": [
+      "Bankiet angielski.",
+      "Bankiet amerykański.",
+      "Koktajl party.",
+      "Obiad zasiadany."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 188,
+    "text": "Menu przygotowane na przyjęcie weselne to karta",
+    "answers": [
+      "okolicznościowa.",
+      "tradycyjna.",
+      "dnia.",
+      "standardowa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 189,
+    "text": "Na podstawie danych zamieszczonych w tabeli, oblicz wartość energetyczną kotleta mielonego o masie 100 g.",
+    "answers": [
+      "184 kcal",
+      "289 kcal",
+      "46 kcal",
+      "244 kcal"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela93.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 190,
+    "text": "Do czynności wykonywanych przez kelnera z prawej strony gościa należą:",
+    "answers": [
+      "podawanie deseru w pucharku, ustawianie na stole talerza do pieczywa.",
+      "nalewanie kawy z dzbanka, serwowanie zupy z wazy.",
+      "podawanie zupy w bulionówce, nalewanie wina z butelki.",
+      "ustawianie na stole wazy z zupą, serwowanie potraw z półmiska."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 191,
+    "text": "Na podstawie informacji zamieszczonych w tabeli oceń typ otyłości kobiety, której obwód talii wynosi 85 cm, obwód bioder 100 cm.",
+    "answers": [
+      "WHR = 0,85, otyłość androidalna.",
+      "WHR = 1,18, otyłość gynoidalna.",
+      "WHR = 1,18, otyłość androidalna.",
+      "WHR = 0,85, otyłość gynoidalna."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela92.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 192,
+    "text": "Którą kwotę rabatu otrzyma zamawiający korzystający z karty lojalnościowej ze stałą zniżką w wysokości 15%, jeżeli jego rachunek wyniósł 600,00 zł?",
+    "answers": [
+      "120,00 zł",
+      "30,00 zł",
+      "60,00 zł",
+      "90,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 193,
+    "text": "W którym systemie samoobsługowym potrawy i napoje wydawane są przez „okienko” łączące kuchnię z salą konsumencką?",
+    "answers": [
+      "Czeskim.",
+      "Francuskim.",
+      "Polskim.",
+      "Szwedzkim."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 194,
+    "text": "Stosując zasadę zamienności produktów spożywczych, olej można zastąpić * zdający otrzymuje jeden punkt niezależnie od udzielonej odpowiedzi.",
+    "answers": [
+      "jajami. \nB.  masłem. \nC.  śmietaną. \nD.  maślanką."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 195,
+    "text": "Przedstawione w tabeli zmiany zachodzące w organizmie człowieka są objawami",
+    "answers": [
+      "nadmiaru tłuszczu.",
+      "nadmiaru białka.",
+      "niedoboru cukrów prostych.",
+      "niedoboru cukrów złożonych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela81.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 196,
+    "text": "Filiżankę o pojemności 40 ml należy zastosować do podania kawy",
+    "answers": [
+      "espresso.",
+      "americano.",
+      "cappuccino.",
+      "latte."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 197,
+    "text": "Do grupy składników odżywczych pełniących w organizmie człowieka funkcję budulcową należą",
+    "answers": [
+      "białka i tłuszcze.",
+      "białka i węglowodany.",
+      "składniki mineralne i tłuszcze.",
+      "składniki mineralne i białka."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 198,
+    "text": "Ile procent rabatu udziela jadłodajnia stałym gościom, sprzedając zestaw dnia w cenie 18,75 zł, jeżeli w stałej ofercie cena tego zestawu wynosi 25,00 zł?",
+    "answers": [
+      "6,25%",
+      "8,25%",
+      "20,00%",
+      "25,00%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 199,
+    "text": "Ile błonnika dostarczy 300 g zupy cebulowej, jeżeli 100 g zupy zawiera 0,4 g błonnika?",
+    "answers": [
+      "0,12 g",
+      "0,75 g",
+      "1,20 g",
+      "7,50 g"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 200,
+    "text": "W diecie laktowegetarian uwzględnia się produkty pochodzenia roślinnego oraz",
+    "answers": [
+      "jaja i potrawy z jaj.",
+      "drób i wędliny drobiowe.",
+      "ryby i konserwy rybne.",
+      "mleko i przetwory mleczne."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 201,
+    "text": "Którą czynność powinien wykonać kelner przy stole z prawej strony gościa?",
+    "answers": [
+      "Prezentowanie potrawy na półmisku.",
+      "Napełnianie filiżanki kawą.",
+      "Nalewanie zupy z wazy.",
+      "Ustawianie talerza do pieczywa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 202,
+    "text": "Ile wynosi cena gastronomiczna netto 1 zestawu śniadaniowego, jeżeli koszt surowców na 100 zestawów wynosi 400,00 zł, a marża gastronomiczna 250%?",
+    "answers": [
+      "20,50 zł",
+      "6,50 zł",
+      "10,00 zł",
+      "14,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 203,
+    "text": "Do zakładów gastronomicznych typu żywieniowego należą",
+    "answers": [
+      "bar mleczny i bufet.",
+      "bar mleczny i restauracja.",
+      "kawiarnia i bufet.",
+      "kawiarnia i restauracja."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 204,
+    "text": "Zaburzenie odżywiania polegające na obsesyjnym odchudzaniu i występowaniu jadłowstrętu psychicznego to",
+    "answers": [
+      "miażdżyca.",
+      "bulimia.",
+      "celiakia.",
+      "anoreksja."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 205,
+    "text": "Ile ziemniaków należy pobrać z magazynu, jeżeli zaplanowano zużycie 20 kg obranych ziemniaków, a ubytek masy podczas obróbki wstępnej brudnej tego surowca wynosi 20%?",
+    "answers": [
+      "25,00 kg",
+      "2700 kg",
+      "20,00 kg",
+      "22,00 kg"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 206,
+    "text": "Do sporządzenia kawy ristretto należy zaplanować",
+    "answers": [
+      "ekspres ciśnieniowy.",
+      "ekspres przelewowy.",
+      "kawiarkę.",
+      "tygielek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 207,
+    "text": "Źródłem kolagenu jest",
+    "answers": [
+      "pieczywo pełnoziarniste.",
+      "ryż biały.",
+      "mięso wieprzowe.",
+      "mleko tłuste."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 208,
+    "text": "Listę oferowanych potraw w standardowej karcie menu restauracji należy rozpocząć od potraw z grupy",
+    "answers": [
+      "przystawki gorące.",
+      "przystawki zimne.",
+      "dania rybne.",
+      "dania jarskie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 209,
+    "text": "Usługą uzupełniającą restauracji jest",
+    "answers": [
+      "działalność cateringowa.",
+      "sprzedaż na miejscu potraw i napojów.",
+      "działalność rozrywkowa.",
+      "sporządzanie potraw i napojów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 210,
+    "text": "Ile gramów miodu zastąpi spożycie 20 g cukru, jeżeli zgodnie z tabelami zamienności 125 g miodu zastępuje 100 g cukru?",
+    "answers": [
+      "50,0 g",
+      "25,0 g",
+      "62,5 g",
+      "16,5 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 211,
+    "text": "Która ilustracja przedstawia nóż do masła?",
+    "answers": [
+      "Ilustracja IV.",
+      "Ilustracja I.",
+      "Ilustracja III.",
+      "Ilustracja II."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_noze2.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 212,
+    "text": "Zakład gastronomiczny wprowadzając rabaty dla stałych gości stosuje marketing-mix w zakresie",
+    "answers": [
+      "promocji.",
+      "dystrybucji.",
+      "ceny.",
+      "produktu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 213,
+    "text": "Korzystając z informacji zamieszczonych w tabeli, określ ile wynosi dobowe zapotrzebowanie na energię dla mężczyzny prowadzącego umiarkowaną aktywność zawodową i dużą aktywność pozazawodową, którego PPM wynosi 1750 kcal/dobę.",
+    "answers": [
+      "2800 kcal",
+      "3325 kcal",
+      "2625 kcal",
+      "3150 kcal"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela82.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 214,
+    "text": "Która dieta alternatywna opiera się na spożywaniu głównie wyrobów zbożowych pełnoziarnistych z dodatkiem warzyw, roślin strączkowych i innych nasion oraz owoców przy znacznym ograniczeniu mięsa i mleka?",
+    "answers": [
+      "Dieta makrobiotyczna.",
+      "Dieta Dukana.",
+      "Dieta optymalna.",
+      "Dieta frutariańska."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 215,
+    "text": "Którą formę promocji wykorzystała restauracja, wprowadzając zniżkowe kupony na potrawy sezonowe?",
+    "answers": [
+      "Reklamę.",
+      "Sprzedaż osobistą.",
+      "Sponsoring.",
+      "Promocję sprzedaży."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 216,
+    "text": "Błonnik pokarmowy w organizmie człowieka",
+    "answers": [
+      "wpływa na prawidłowy rytm pracy serca.",
+      "zwiększa aktywność motoryczną jelit.",
+      "zwiększa zawartość cholesterolu we krwi.",
+      "reguluje równowagę kwasowo-zasadową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 217,
+    "text": "Ilu kucharzy należy zaplanować do sporządzenia w ciągu jednego dnia 75 kg kopytek i 40 kg uszek, jeżeli jeden kucharz produkuje dziennie 15 kg kopytek i 8 kg uszek?",
+    "answers": [
+      "5",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 218,
+    "text": "Stosując współczynnik Atwatera oblicz, o ile kilokalorii wzrośnie wartość energetyczna naparu z herbaty posłodzonego 2 łyżeczkami cukru, jeżeli masa 1 łyżeczki cukru wynosi 5 g.",
+    "answers": [
+      "O 20 kcal",
+      "O 40 kcal",
+      "O 50 kcal",
+      "O 90 kcal"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 219,
+    "text": "Którą potrawę zaplanowaną w menu bankietu można po sporządzeniu zamrozić i poddać restytucji bezpośrednio przed konsumpcją?",
+    "answers": [
+      "Tymbaliki drobiowe.",
+      "Schab pieczony.",
+      "Jaja faszerowane.",
+      "Suflet czekoladowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 220,
+    "text": "Który przyrząd kontrolno-pomiarowy przedstawiono na ilustracji?",
+    "answers": [
+      "Sondę temperaturową.",
+      "Wagę hakową.",
+      "Manometr.",
+      "Higrometr."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_przyrzad2.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 221,
+    "text": "Które z wymienionych produktów są najlepszym źródłem białka pełnowartościowego?",
+    "answers": [
+      "Mięso i fasola.",
+      "Mięso i mleko.",
+      "Jaja i soja.",
+      "Mleko i ryż."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 222,
+    "text": "W jadłospisie dla osób w podeszłym wieku nie należy planować",
+    "answers": [
+      "jogurtu naturalnego.",
+      "pulpetów cielęcych.",
+      "margaryny miękkiej.",
+      "zupy grzybowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 223,
+    "text": "Korzystając z informacji zamieszczonych w tabeli, oblicz cenę gastronomiczną netto posiłków dla czterech osób za dwutygodniowy pobyt, jeżeli marża gastronomiczna wynosi 200%.",
+    "answers": [
+      "1 512,00 zł",
+      "151,20 zł",
+      "108,00 zł",
+      "1 008,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela83.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 224,
+    "text": "Ile wywaru należy przygotować do sporządzenia 50 porcji zupy jarzynowej, jeżeli na 10 porcji zupy potrzeba 2,5 l wywaru?",
+    "answers": [
+      "12,5 l",
+      "52,5 l",
+      "20,0 l",
+      "25,0 l"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 225,
+    "text": "Przedstawiony na ilustracji zestaw sztućców służy do porcjowania",
+    "answers": [
+      "pizzy.",
+      "kawioru.",
+      "homara.",
+      "tortu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_sztucce_2.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 226,
+    "text": "Obiad złożony z barszczu ukraińskiego, ziemniaków purée, sałaty ze śmietaną, kompotu z rabarbaru, zgodnie z zasadami racjonalnego żywienia, należy uzupełnić",
+    "answers": [
+      "serem panierowanym.",
+      "kotletem z buraków.",
+      "sosem pomidorowym.",
+      "pierogami z mięsem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 227,
+    "text": "Sprzętu przedstawionego na ilustracji należy użyć do",
+    "answers": [
+      "odmierzania alkoholu.",
+      "mieszania alkoholu.",
+      "ochłodzenia wina.",
+      "dekantacji wina."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_sprzet11.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 228,
+    "text": "Niskie spożycie żelaza zwiększa w organizmie człowieka głównie ryzyko wystąpienia",
+    "answers": [
+      "anemii.",
+      "cukrzycy.",
+      "osteoporozy kości.",
+      "próchnicy zębów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 229,
+    "text": "Który zestaw kolacyjny został zaplanowany zgodnie z zasadami racjonalnego żywienia dzieci w wieku szkolnym?",
+    "answers": [
+      "Pieczywo razowe, masło, węgorz wędzony, cebula, bawarka.",
+      "Pieczywo pszenne, pasta jajeczna, pomidor, kawa zbożowa z mlekiem.",
+      "Pieczywo pszenne, masło, dżem wiśniowy, kakao, pączek.",
+      "Pieczywo razowe, smalec, ogórek małosolny, herbata, banan."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 230,
+    "text": "Stanowisko do produkcji potraw techniką sous-vide należy wyposażyć w",
+    "answers": [
+      "blender.",
+      "kocioł warzelny.",
+      "pakowarkę próżniową.",
+      "dyspenser."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 231,
+    "text": "Na podstawie zamieszczonej w tabeli analizy wskaźników BMI oceń stan odżywienia osoby, której BMI wynosi 45.",
+    "answers": [
+      "Wychudzenie organizmu.",
+      "Nadwaga.",
+      "Otyłość skrajna.",
+      "Niedowaga."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela79.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 232,
+    "text": "Na podstawie danych zamieszczonych w tabeli oblicz wartość energetyczną 1 porcji klusek francuskich.",
+    "answers": [
+      "355,30 kcal",
+      "347,00 kcal",
+      "138,80 kcal",
+      "424,80 kcal"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela78.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 233,
+    "text": "Kontrolowanie warunków higienicznych sporządzania posiłków w placówkach gastronomicznych jest zadaniem",
+    "answers": [
+      "Państwowej Inspekcji Pracy.",
+      "Państwowego Zakładu Higieny.",
+      "Instytutu Żywności i Żywienia.",
+      "Państwowej Inspekcji Sanitarnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 234,
+    "text": "Zakład gastronomiczny stosując kupony rabatowe działa w zakresie",
+    "answers": [
+      "publicity.",
+      "promocji sprzedaży.",
+      "public relations.",
+      "sponsoringu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 235,
+    "text": "Na podstawie danych zamieszczonych w cenniku, oblicz cenę brutto jednodniowego szkolenia dla 50 osób w sali konferencyjnej, z dwiema przerwami kawowymi i lunchem.",
+    "answers": [
+      "4 600,00 zł",
+      "5 100,00 zł",
+      "5 200,00 zł",
+      "4 700,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela80.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 236,
+    "text": "Które produkty, zgodnie z opracowaną przez IŻŻ Piramidą Zdrowego Żywienia i Aktywności Fizycznej, powinny być spożywane przez zdrowego człowieka w największej ilości?",
+    "answers": [
+      "Warzywne.",
+      "Nabiałowe.",
+      "Tłuszczowe.",
+      "Mięsne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 237,
+    "text": "Którą metodę obsługi zastosował kelner, jeżeli wyporcjował potrawę przy stole gości używając wózka kelnerskiego?",
+    "answers": [
+      "Niemiecką.",
+      "Rosyjską.",
+      "Angielską.",
+      "Francuską."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 238,
+    "text": "Oblicz cenę gastronomiczną brutto kanapki, jeżeli koszt surowca wynosi 1,50 zł, marża gastronomiczna 200% i podatek VAT 8%.",
+    "answers": [
+      "4,86 zł",
+      "3,24 zł",
+      "6,48 zł",
+      "5,70 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 239,
+    "text": "Zgodnie z tabelą zamiany produktów masło można zastąpić",
+    "answers": [
+      "smalcem.",
+      "olejem słonecznikowym.",
+      "oliwą.",
+      "śmietanką tortową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 240,
+    "text": "Który błąd żywieniowy powoduje u dzieci i młodzieży zahamowanie procesów wzrostowych?",
+    "answers": [
+      "Zbyt duże spożywanie witaminy D.",
+      "Zbyt małe spożywanie białka.",
+      "Zbyt duże spożywanie witaminy C.",
+      "Zbyt małe spożywanie tłuszczu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 241,
+    "text": "Do grupy produktów o działaniu alkalizującym w organizmie człowieka należy zaliczyć",
+    "answers": [
+      "mięso, warzywa strączkowe i mleko.",
+      "soki warzywne, owoce suche i przetwory mleczne.",
+      "kawę, pieczywo i migdały.",
+      "orzechy, produkty zbożowe i owoce świeże."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 242,
+    "text": "Żółć w organizmie człowieka wspomaga trawienie",
+    "answers": [
+      "błonnika.",
+      "białka.",
+      "tłuszczu.",
+      "skrobi."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 243,
+    "text": "Elementem bielizny stołowej, którego zadaniem jest tłumienie odgłosów ustawianych naczyń na stole jest",
+    "answers": [
+      "skirting.",
+      "napperon.",
+      "laufer.",
+      "molton."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 244,
+    "text": "Do zakładów gastronomicznych typu żywieniowego zalicza się:",
+    "answers": [
+      "bistra, restauracje, jadłodajnie.",
+      "bistra, cafeterie, bary.",
+      "kawiarnie, bary, jadłodajnie.",
+      "kawiarnie, restauracje, puby."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 245,
+    "text": "Korzystając z tabeli oblicz, ile fasoli szparagowej i bułki tartej należy przygotować do sporządzenia 38 porcji fasoli szparagowej z wody.",
+    "answers": [
+      "Fasola 12,38 kg, bułka 3,80 kg",
+      "Fasola 24,70 kg, bułka 7,60 kg",
+      "Fasola 24,70 kg, bułka 0,76 kg",
+      "Fasola 12,35 kg, bułka 0,38 kg"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_normatyw17.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 246,
+    "text": "Naczyniem przedstawionym na ilustracji jest",
+    "answers": [
+      "nelsonka.",
+      "bulionówka.",
+      "kokilka.",
+      "salaterka."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_naczynie5.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 247,
+    "text": "Ile kilogramów chleba zastąpi 2 kg kaszy, jeżeli zgodnie z tabelą zamiany produktów 100 g kaszy zastępuje 135 g chleba?",
+    "answers": [
+      "1,35 kg",
+      "2,70 kg",
+      "13,50 kg",
+      "27,00 kg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 248,
+    "text": "Która dieta wegetariańska dopuszcza spożycie maślanki?",
+    "answers": [
+      "Owowegetarianizm.",
+      "Weganizm.",
+      "Frutarianizm.",
+      "Laktowegetarianizm."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 249,
+    "text": "Ile wynosi wartość energetyczna jogurtu owocowego zawierającego 45 g białka, 10 g węglowodanów i 0 g tłuszczu?",
+    "answers": [
+      "220 kcal",
+      "270 kcal",
+      "445 kcal",
+      "310 kcal"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 250,
+    "text": "Bufety z napojami i słodyczami działające w kinach to placówki gastronomiczne zaliczane do",
+    "answers": [
+      "zakładów gastronomicznych.",
+      "typu żywieniowego.",
+      "sieci zamkniętej.",
+      "punktów gastronomicznych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 251,
+    "text": "Sporządzając standardową kartę menu restauracji, listę oferowanych potraw należy rozpocząć od grupy",
+    "answers": [
+      "przekąsek gorących.",
+      "przekąsek zimnych.",
+      "dań jarskich.",
+      "dań mięsnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 252,
+    "text": "Który zestaw należy zaplanować na podwieczorek dla osoby ciężko pracującej fizycznie jako uzupełnienie jadłospisu przedstawionego w tabeli?",
+    "answers": [
+      "Surówka z jabłek, koktajl malinowy.",
+      "Mus jabłkowy, herbata z wiśniami.",
+      "Racuchy z jabłkami, kakao na mleku.",
+      "Jabłko pieczone, jogurt naturalny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela77.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 253,
+    "text": "Kelner z prawej strony gościa powinien zaserwować",
+    "answers": [
+      "zupę z wazy.",
+      "ryż z półmiska.",
+      "surówkę z salaterki.",
+      "kawę z dzbanka."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 254,
+    "text": "Który z wymienionych surowców zawiera w 100 g najwięcej białka?",
+    "answers": [
+      "Fasola biała.",
+      "Śliwka żółta.",
+      "Porzeczka czerwona.",
+      "Papryka zielona."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 255,
+    "text": "Głównym węglowodanem występującym w ziemniakach jest",
+    "answers": [
+      "maltoza.",
+      "skrobia.",
+      "błonnik.",
+      "fruktoza."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 256,
+    "text": "Który rodzaj przyjęcia łączy w sobie możliwość korzystania z bufetów oraz miejsc siedzących przy stołach?",
+    "answers": [
+      "Bankiet angielski.",
+      "Bankiet amerykański.",
+      "Przyjęcie bufetowe.",
+      "Przyjęcie koktajlowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 257,
+    "text": "Pracownicy stołówki płacąc 9,00 zł za zestaw obiadowy, którego cena w ofercie zakładu wynosi 15,00 zł, korzystają z rabatu w wysokości",
+    "answers": [
+      "50%",
+      "30%",
+      "40%",
+      "60%"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 258,
+    "text": "Ile kilogramów karkówki należy zakupić do przygotowania 10 kg pieczeni, jeżeli straty masy podczas obróbki cieplnej surowca wynoszą 20%?",
+    "answers": [
+      "12,50 kg",
+      "11,00 kg",
+      "13,00 kg",
+      "14,50 kg"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 259,
+    "text": "Którą z wymienionych potraw należy zaplanować w menu dla osoby chorej na celiakię?",
+    "answers": [
+      "Bulgur z kurczakiem i cukinią.",
+      "Pęczak z dorszem i pomidorami.",
+      "Ryż z indykiem i brokułami.",
+      "Kuskus z wieprzowiną i papryką."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 260,
+    "text": "W której grupie napojów karty menu należy umieścić Tokaj, Merlot i Chardonnay?",
+    "answers": [
+      "Wódek.",
+      "Drinków.",
+      "Win.",
+      "Likierów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 261,
+    "text": "Który obrus należy zaplanować do nakrycia stołu o wymiarach 80 cm x 120 cm?",
+    "answers": [
+      "Okrągły o średnicy 180 cm.",
+      "Okrągły o średnicy 160 cm.",
+      "Prostokątny o wymiarach 140 cm x 180 cm.",
+      "Prostokątny o wymiarach 120 cm x 160 cm."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 262,
+    "text": "W którym odcinku układu pokarmowego człowieka pepsyna rozpoczyna trawienie białka?",
+    "answers": [
+      "W żołądku.",
+      "W jamie ustnej.",
+      "W dwunastnicy.",
+      "W jelicie cienkim."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 263,
+    "text": "Element przedstawiony na ilustracji stanowi część",
+    "answers": [
+      "podgrzewacza bufetowego.",
+      "ekspresu przelewowego.",
+      "blendera kielichowego.",
+      "salamandra elektrycznego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_element.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 264,
+    "text": "Który zestaw obiadowy przeznaczony dla dzieci w wieku przedszkolnym, został opracowany zgodnie z zasadami racjonalnego żywienia?",
+    "answers": [
+      "Zupa jarzynowa, golonka pieczona, ziemniaki z wody, ćwikła z chrzanem.",
+      "Zupa ogórkowa, polędwica po angielsku, frytki z ziemniaków, sałata ze śmietaną.",
+      "Zupa kalafiorowa, pulpety drobiowe w sosie koperkowym, ryż na sypko, surówka z marchwi.",
+      "Zupa fasolowa, zrazy w sosie grzybowym, kasza gryczana na sypko, sałatka z buraków."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 265,
+    "text": "Która ilustracja przedstawia przyrząd służący do pomiaru temperatury wewnątrz porcji mięsa podczas pieczenia?",
+    "answers": [
+      "Ilustracja 2.",
+      "Ilustracja 4.",
+      "Ilustracja 3.",
+      "Ilustracja 1."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_przyrzady3.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 266,
+    "text": "Sprzęt pomocniczy przedstawiony na ilustracji jest przeznaczony do",
+    "answers": [
+      "chłodzenia i transportu napojów.",
+      "podgrzewania i ekspedycji zup.",
+      "podgrzewania i ekspedycji napojów.",
+      "chłodzenia i transportu zup."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_sprzet12.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 267,
+    "text": "Która grupa enzymów bierze udział w trawieniu węglowodanów?",
+    "answers": [
+      "Lipazy.",
+      "Nukleazy.",
+      "Proteazy.",
+      "Amylazy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 268,
+    "text": "W której metodzie obsługi gości stosuje się stolik pomocniczy przedstawiony na ilustracji?",
+    "answers": [
+      "Metodzie angielskiej.",
+      "Metodzie rosyjskiej.",
+      "Metodzie niemieckiej.",
+      "Metodzie francuskiej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_ilustracja.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 269,
+    "text": "Które urządzenia stanowią typowe wyposażenie zakładów gastronomicznych typu „fast food”?",
+    "answers": [
+      "Piec konwekcyjno - parowy, zamrażarka szokowa.",
+      "Tunel wielofunkcyjny, schładzarka szokowa.",
+      "Frytownica ciśnieniowa, grill kontaktowy.",
+      "Pakowarka próżniowa, cyrkulator temperatury."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 270,
+    "text": "Ile wyniesie cena gastronomiczna netto 1 porcji truskawek w galaretce, jeżeli koszt zakupu surowców na 50 porcji wynosi 60,00 zł, a zakład stosuje marżę w wysokości 150%?",
+    "answers": [
+      "9,00 zł",
+      "3,00 zł",
+      "7,50 zł",
+      "1,80 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 271,
+    "text": "Który jadłospis obiadowy zaplanowano zgodnie z zasadami racjonalnego żywienia?",
+    "answers": [
+      "Jadłospis obiadowy I.",
+      "Jadłospis obiadowy IV.",
+      "Jadłospis obiadowy II.",
+      "Jadłospis obiadowy III."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela63.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 272,
+    "text": "Który rodzaj napoju alkoholowego należy podać na zakończenie przyjęcia?",
+    "answers": [
+      "Aperitif.",
+      "Long drink.",
+      "Digestif.",
+      "Diverse drinks."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 273,
+    "text": "Która grupa składników pokarmowych pełni w organizmie człowieka funkcje wymienione w tabeli?",
+    "answers": [
+      "Składniki mineralne.",
+      "Witaminy rozpuszczalne w wodzie.",
+      "Witaminy rozpuszczalne w tłuszczach.",
+      "Kwasy tłuszczowe nienasycone."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela61.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 274,
+    "text": "Przedstawione w tabeli zmiany w organizmie człowieka są objawami niedoboru",
+    "answers": [
+      "białka.",
+      "glukozy.",
+      "biotyny.",
+      "wapnia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela67.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 275,
+    "text": "Do czynności przygotowawczych kelnera w sali bankietowej przed przyjściem gości należy",
+    "answers": [
+      "serwowanie wina z oryginalnych butelek.",
+      "sprawdzenie stanu i kompletności dekoracji sali.",
+      "opracowanie standów kart menu.",
+      "zebranie brudnej zastawy stołowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 276,
+    "text": "Do nakrywania stolików koktajlowych służą",
+    "answers": [
+      "obrusy bankietowe.",
+      "coversy.",
+      "skirtingi.",
+      "laufry płócienne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 277,
+    "text": "Jadłospis dekadowy jest podstawą planowania produkcji gastronomicznej",
+    "answers": [
+      "w stołówkach.",
+      "w barach.",
+      "w jadłodajniach.",
+      "w restauracjach."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 278,
+    "text": "Niedostateczne spożycie produktów zwierzęcych bogatych w witaminę B12 zwiększa ryzyko wystąpienia",
+    "answers": [
+      "kurczów mięśni.",
+      "osteoporozy.",
+      "pelagry.",
+      "niedokrwistości."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 279,
+    "text": "System obsługi, w którym gość sam wybiera w bufecie sałatki, desery i przynosi do stolika, a pozostałe potrawy i napoje podaje kelner, to",
+    "answers": [
+      "system samoobsługowy typu francuskiego.",
+      "system samoobsługi z obsługą kelnerską.",
+      "system zespołowo-kompleksowy.",
+      "system zespołów specjalistycznych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 280,
+    "text": "Przedstawiony na ilustracji sprzęt służy do parzenia kawy",
+    "answers": [
+      "po adwokacku.",
+      "po irlandzku.",
+      "po wiedeńsku.",
+      "po turecku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_sprzet15.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 281,
+    "text": "Korzystając z danych zamieszczonych w tabeli, oblicz wartość energetyczną 1 porcji kalafiora gotowanego, podanego z roztopionym masłem i zrumienioną bułką tartą.",
+    "answers": [
+      "98,97 kcal",
+      "134,60 kcal",
+      "133,00 kcal",
+      "110,31 kcal"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela64.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 282,
+    "text": "Ile g sera twarogowego należy przygotować, aby zastąpić 500 g mleka, jeżeli zgodnie z tabelą zamienności produktów spożywczych 15 g sera twarogowego zastępuje 100 g mleka?",
+    "answers": [
+      "150 g",
+      "1 500 g",
+      "750 g",
+      "75 g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 283,
+    "text": "Wagi do określenia masy w obrocie handlowym podlegają * zdający otrzymuje jeden punkt niezależnie od udzielonej odpowiedzi.",
+    "answers": [
+      "odpowietrzeniu.\nB. zerowaniu. \nC. legalizacji.\nD. tarowaniu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 284,
+    "text": "Przygotowanie stanowiska pracy w sposób określany jako „mise en place” poprawia skuteczność działania w procesie produkcji gastronomicznej na etapie",
+    "answers": [
+      "procesu technologicznego.",
+      "magazynowania surowców i półproduktów.",
+      "serwowania potraw i napojów.",
+      "planowania zakupów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 285,
+    "text": "Na ilustracji przedstawiony jest",
+    "answers": [
+      "widelec półmiskowy do mięs.",
+      "widelec stołowy duży.",
+      "widelec stołowy średni.",
+      "widelec półmiskowy do ryb."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_ilustracja2.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 286,
+    "text": "Która dieta alternatywna opiera się na spożywaniu posiłków składających się z produktów bogatych w białko?",
+    "answers": [
+      "Dieta Dukana.",
+      "Dieta makrobiotyczna.",
+      "Dieta wegańska.",
+      "Dieta Montignaca."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 287,
+    "text": "Oblicz cenę gastronomiczną brutto butelki szampana, jeżeli koszt jej zakupu wynosi 40,00 zł, marża gastronomiczna 50%, a stawka podatku VAT 23%.",
+    "answers": [
+      "73,80 zł",
+      "61,50 zł",
+      "113,00 zł",
+      "98,40 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 288,
+    "text": "Który przyrząd należy zastosować do pomiaru ciśnienia pary wodnej w kotle warzelnym?",
+    "answers": [
+      "II.",
+      "I.",
+      "IV.",
+      "III."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_przyrzady2.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 289,
+    "text": "Zgodnie z zasadami zamiany produktów rybę panierowaną można zastąpić",
+    "answers": [
+      "krokietami z pęczakiem.",
+      "szaszłykami warzywnymi.",
+      "kotletami z kalafiora.",
+      "kotletami jajecznymi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 290,
+    "text": "Korzystając z danych zamieszczonych w tabeli oblicz, ile żelaza i witaminy C dostarczą organizmowi człowieka produkty spożyte na śniadanie.",
+    "answers": [
+      "1,66 mg żelaza, 11,50 mg witaminy C",
+      "1,66 mg żelaza, 23,00 mg witaminy C",
+      "2,30 mg żelaza, 11,50 mg witaminy C",
+      "2,30 mg żelaza, 23,00 mg witaminy C"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela65.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 291,
+    "text": "Ile wynosi maksymalne zapotrzebowanie na węglowodany dla kobiety, której zapotrzebowanie na energię wynosi 2 400 kcal, przy zaleceniu, aby węglowodany dostarczały 45 – 65% ogółu energii?",
+    "answers": [
+      "1 080 g",
+      "270 g",
+      "1 560 g",
+      "390 g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 292,
+    "text": "Korzystając z danych zamieszczonych w tabeli, oblicz kwotę należności za wyżywienie 10 osobowej grupy osób, która skorzystała z zamówionego śniadania podanego w formie bufetu oraz indywidualnie serwowanych obiadów i kolacji.",
+    "answers": [
+      "546,00 zł",
+      "494,00 zł",
+      "520,00 zł",
+      "468,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela69.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 293,
+    "text": "Za regulację stężenia glukozy we krwi w organizmie człowieka odpowiada",
+    "answers": [
+      "pepsyna.",
+      "limfa.",
+      "żółć.",
+      "insulina."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 294,
+    "text": "Składnikiem pokarmowym antyodżywczym jest",
+    "answers": [
+      "laktoza.",
+      "karoten.",
+      "kwas linolowy.",
+      "kwas szczawiowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 295,
+    "text": "Która karta menu zawiera spis potraw serwowanych podczas przyjęcia?",
+    "answers": [
+      "Karta specjalna.",
+      "Karta dnia.",
+      "Karta standardowa.",
+      "Karta okolicznościowa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 296,
+    "text": "Korzystając z normatywu surowcowego zamieszczonego w tabeli, oblicz zapotrzebowanie na surowce do sporządzenia 85 porcji ziemniaków purée.",
+    "answers": [
+      "Ziemniaki 25,5 kg, masło 8,5 kg, mleko 2,55 l, koperek 1,7 kg",
+      "Ziemniaki 2,55 kg, masło 0,85 kg, mleko 2,55 l, koperek 0,17 kg",
+      "Ziemniaki 2,55 kg, masło 8,5 kg, mleko 25,5 l, koperek 127 kg",
+      "Ziemniaki 25,5 kg, masło 0,85 kg, mleko 2,55 l, koperek 0,17 kg"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela68.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 297,
+    "text": "Na podstawie danych zamieszczonych w tabeli oceń, w którym tygodniu jadłospis jest niezgodny z normą na energię dla dziewcząt w wieku 18 lat.",
+    "answers": [
+      "Jadłospis w III tygodniu.",
+      "Jadłospis w II tygodniu.",
+      "Jadłospis w I tygodniu.",
+      "Jadłospis w IV tygodniu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela66.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 298,
+    "text": "Naturalnym źródłem retinolu jest",
+    "answers": [
+      "szpinak.",
+      "wątroba wieprzowa.",
+      "napój migdałowy.",
+      "dynia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 299,
+    "text": "Korzystając z informacji zamieszczonej w tabeli, oblicz ile powinna wynosić długość stołu – bufetu przygotowanego na przyjęcie dla 150 gości.",
+    "answers": [
+      "16 m",
+      "14 m",
+      "8 m",
+      "15 m"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela70.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 300,
+    "text": "Korzystając z danych zamieszczonych w tabeli, oblicz ile wynosi dzienne zapotrzebowanie na białko, na poziomie EAR dla 19-letniego mężczyzny o masie ciała 65 kg.",
+    "answers": [
+      "58,50 g",
+      "47,45 g",
+      "52,65 g",
+      "61,75 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela62.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 301,
+    "text": "Jadłospisy składające się z 3 posiłków dedykowane są",
+    "answers": [
+      "kobietom ciężarnym.",
+      "młodzieży szkolnej.",
+      "dzieciom w wieku 1 - 3 lat.",
+      "dorosłym o małej aktywności fizycznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 302,
+    "text": "Stosowanie której zasady żywienia zapewni dostarczenie organizmowi człowieka wszystkich niezbędnych składników pokarmowych?",
+    "answers": [
+      "Regularne spożywanie posiłków.",
+      "Spożywanie produktów z każdej grupy żywności.",
+      "Unikanie w diecie nadmiaru soli, cukru i tłuszczu.",
+      "Zapewnienie organizmowi zerowego bilansu energetycznego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 303,
+    "text": "Którą formę promocji zastosowała restauracja wprowadzając w ramach happy hours promocyjną obniżkę cen o 20% w godzinach 13:00-17:00?",
+    "answers": [
+      "Public relations.",
+      "Sponsoring.",
+      "Marketing bezpośredni.",
+      "Promocję sprzedaży."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 304,
+    "text": "Do zakładów gastronomicznych typu uzupełniającego należą",
+    "answers": [
+      "bistra i kawiarnie.",
+      "bistra i jadłodajnie.",
+      "cukiernie i kawiarnie.",
+      "cukiernie i jadłodajnie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 305,
+    "text": "Instytucją podejmującą działania na rzecz poprawy stanu odżywienia ludności świata jest",
+    "answers": [
+      "Światowa Organizacja Zdrowia WHO.",
+      "Organizacja ds. Wyżywienia i Rolnictwa Narodów Zjednoczonych FAO.",
+      "Komitet Żywienia Człowieka PAN.",
+      "Komisja Kodeksu Żywnościowego FAO/WHO."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 306,
+    "text": "Który produkt spożyty w tej samej ilości w ciągu dnia dostarczy organizmowi człowieka najwięcej węglowodanów nieprzyswajalnych? * Dwie odpowiedzi są poprawne. Zaznacz obie, aby otrzymać punkt.",
+    "answers": [
+      "Miód pszczeli.",
+      "Kasza gryczana.",
+      "Groszek zielony.",
+      "Mleko w proszku."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela60.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 307,
+    "text": "Obrus o wymiarach 140 cm x 140 cm powinien być używany do nakrycia stołu",
+    "answers": [
+      "okrągłego o średnicy Ø 90 cm.",
+      "prostokątnego o wymiarach 60 cm x 90 cm.",
+      "okrągłego o średnicy Ø 125 cm.",
+      "prostokątnego o wymiarach 120 cm x 90 cm."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 308,
+    "text": "Do zakładów gastronomicznych typu żywieniowego należy zaliczyć",
+    "answers": [
+      "bar mleczny i restaurację.",
+      "kawiarnię i bufet.",
+      "bar mleczny i bufet.",
+      "kawiarnię i restaurację."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 309,
+    "text": "Do grupy składników pokarmowych, które po spożyciu w organizmie człowieka wykazują działanie regulujące, zalicza się",
+    "answers": [
+      "laktozę.",
+      "białko.",
+      "retinol.",
+      "tłuszcz."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 310,
+    "text": "Które czynności kelner powinien wykonywać z prawej strony gościa?",
+    "answers": [
+      "Podawanie karty menu, prezentację potraw na półmisku.",
+      "Podawanie karty menu, prezentację butelki wina.",
+      "Nalewanie kawy z dzbanka, nalewanie zupy z wazy.",
+      "Ustawianie na stole wazy z zupą, ustawianie na stole talerza do pieczywa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 311,
+    "text": "Którego rodzaju bielizny stołowej użyto do nakrycia stołu na przedstawionym rysunku?",
+    "answers": [
+      "Podkładki.",
+      "Napperony.",
+      "Coversy.",
+      "Bieżniki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_stol2.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 312,
+    "text": "Którą formę promocji zastosowała kawiarnia oferując w piątki, do godziny 16.00 wszystkie desery taniej o 20%?",
+    "answers": [
+      "Marketing bezpośredni.",
+      "Sponsoring.",
+      "Promocję sprzedaży.",
+      "Public relations."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 313,
+    "text": "Która witamina spełnia w organizmie funkcje wymienione w zamieszczonym opisie?",
+    "answers": [
+      "Witamina PP.",
+      "Witamina A.",
+      "Witamina E.",
+      "Witamina B2."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_ramka3.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 314,
+    "text": "Jaką masę powinna mieć próbka kontrolna gulaszu pobrana do celów sanitarno-epidemiologicznych?",
+    "answers": [
+      "250 g",
+      "150 g",
+      "200 g",
+      "50 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 315,
+    "text": "Na podstawie danych zamieszczonych w tabeli oblicz, ile wyniesie należność za wyżywienie grupy 20 osób przebywających na jednodniowym szkoleniu, podczas którego zamówiono całodzienny dostęp do bufetu kawowego, lunch serwowany i uroczystą kolację.",
+    "answers": [
+      "1 700,00 zł",
+      "2 400,00 zł",
+      "3 100,00 zł",
+      "2 700,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela59.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 316,
+    "text": "Na podstawie zamieszczonego w tabeli normatywu surowcowego oblicz zapotrzebowanie surowcowe na 75 porcji pierogów leniwych.",
+    "answers": [
+      "Ser twarogowy - 120 kg, jaja - 60 szt., cukier - 9,00 kg, mąka pszenna - 37,50 kg",
+      "Ser twarogowy - 6 kg, jaja - 300 szt., cukier - 4,50 kg, mąka pszenna - 1,88 kg",
+      "Ser twarogowy - 12 kg, jaja - 60 szt., cukier - 0,90 kg, mąka pszenna - 3,75 kg",
+      "Ser twarogowy - 60 kg, jaja - 300 szt., cukier - 0,45 kg, mąka pszenna - 18,75 kg"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela58.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 317,
+    "text": "Przedstawione w tabeli objawy są spowodowane niedoborem w diecie",
+    "answers": [
+      "elastyny.",
+      "glukozy.",
+      "witaminy C.",
+      "witaminy A."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela57.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 318,
+    "text": "Działalnością uzupełniającą świadczoną przez restaurację nie jest",
+    "answers": [
+      "usługa cateringowa.",
+      "sprzedaż dań obiadowych, śniadaniowych, deserów i napojów do konsumpcji na miejscu.",
+      "zaopatrywanie innych zakładów gastronomicznych w wyroby garmażeryjne.",
+      "usługa drive - through sprzedaż zestawów posiłków konsumentom zmotoryzowanym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 319,
+    "text": "Składnikiem pokarmowym balastowym jest",
+    "answers": [
+      "gluten.",
+      "skrobia.",
+      "błonnik.",
+      "glikogen."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 320,
+    "text": "Który zestaw urządzeń umożliwi w zakładzie gastronomicznym produkcję zapiekanek i frytek?",
+    "answers": [
+      "Patelnia elektryczna i toster.",
+      "Piec konwekcyjny i gyros grill.",
+      "Opiekacz elektryczny i frytownica.",
+      "Rożen gazowy i trzon kuchenny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 321,
+    "text": "Korzystając z normatywu surowcowego oblicz, ile witaminy C dostarczy organizmowi spożycie 1 porcji sałatki z kapusty czerwonej.",
+    "answers": [
+      "45,5 mg",
+      "14,6 mg",
+      "73,0 mg",
+      "227,5 mg"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela54.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 322,
+    "text": "Proces emulgacji tłuszczu w przewodzie pokarmowym zachodzi pod wpływem",
+    "answers": [
+      "żółci.",
+      "insuliny.",
+      "lipazy.",
+      "śliny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 323,
+    "text": "Na rysunku jest przedstawiony",
+    "answers": [
+      "perkolator.",
+      "dyspenser do wody.",
+      "mikser barmański.",
+      "granitor."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_rysunek2.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 324,
+    "text": "Ile gramów mleka może zastąpić spożycie 150 g serka homogenizowanego, jeżeli zgodnie z tabelą wzajemnej zamiany produktów 100 g mleka zastępuje 30 g serka homogenizowanego?",
+    "answers": [
+      "150 g",
+      "300 g",
+      "450 g",
+      "500 g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 325,
+    "text": "Który opis charakteryzuje system samoobsługowy typu francuskiego?",
+    "answers": [
+      "Potrawy i napoje odbierane są w okienku ekspedycyjnym a konsumpcja odbywa się przy stolikach.",
+      "Potrawy i napoje podawane są gościom przy ladzie barowej, przy której może odbywać się konsumpcja.",
+      "Potrawy i napoje są eksponowane w bufetach ustawionych w linii.",
+      "Potrawy i napoje są eksponowane w bufetach ustawionych schodkowo."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 326,
+    "text": "Na podstawie danych zamieszczonych w tabeli oblicz wartość energetyczną kotleta mielonego o masie 100 g.",
+    "answers": [
+      "240 kcal",
+      "289 kcal",
+      "46 kcal",
+      "184 kcal"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela55.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 327,
+    "text": "Która z metod obsługi gości polega na ustawieniu na stole zimnych przekąsek, ciast i napojów przed przybyciem gości?",
+    "answers": [
+      "Metoda angielska.",
+      "Metoda rosyjska.",
+      "Metoda francuska.",
+      "Metoda niemiecka."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 328,
+    "text": "Oblicz kwotę udzielonego rabatu za 8 zestawów obiadowych, jeżeli cena 1 zestawu w karcie menu wynosi 25,00 zł, a ilość zamówionych zestawów upoważnia do 10% rabatu?",
+    "answers": [
+      "80,00 zł",
+      "220,00 zł",
+      "180,00 zł",
+      "20,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 329,
+    "text": "Na podstawie informacji zawartych w tabeli oceń typ otyłości kobiety, której obwód talii wynosi 85 cm, obwód bioder 100 cm. Wskaźnik WHR = obwód w talii / obwód bioder.",
+    "answers": [
+      "WHR = 1,18, otyłość gynoidalna.",
+      "WHR = 1,18, otyłość androidalna.",
+      "WHR = 0,85, otyłość gynoidalna.",
+      "WHR = 0,85, otyłość androidalna."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela56.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 330,
+    "text": "Który produkt można zastąpić produktami wyłącznie w obrębie tej samej grupy żywności?",
+    "answers": [
+      "Soję.",
+      "Mleko.",
+      "Jaja.",
+      "Mąkę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 331,
+    "text": "Na którym rysunku przedstawiony jest nóż do masła?",
+    "answers": [
+      "II.",
+      "I.",
+      "IV.",
+      "III."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_noze.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 332,
+    "text": "Koszt sporządzenia 100 zestawów śniadaniowych wyniósł 400,00 zł. Ile wynosi cena gastronomiczna netto 1 zestawu, jeżeli ustalona marża gastronomiczna wynosi 250%?",
+    "answers": [
+      "6,50 zł",
+      "14,00 zł",
+      "20,50 zł",
+      "10,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 333,
+    "text": "O ile kcal wzrośnie wartość energetyczna naparu z herbaty posłodzonego 2 łyżeczkami cukru, jeśli masa 1 łyżeczki cukru wynosi 5 g?",
+    "answers": [
+      "O 50 kcal",
+      "O 90 kcal",
+      "O 40 kcal",
+      "O 20 kcal"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 334,
+    "text": "Na podstawie danych zamieszczonych w tabeli i normy na wodę, która dla osoby dorosłej wynosi 1000 ml/1000 kcal wydatkowanej energii oblicz, ile wynosi zapotrzebowanie na wodę dla 32 letniej kobiety o masie ciała 60 kg, prowadzącej umiarkowaną aktywność fizyczną.",
+    "answers": [
+      "2,45 l",
+      "2,65 l",
+      "245 ml",
+      "265 ml"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela52.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 335,
+    "text": "Ile wynosi zapotrzebowanie na energię dla 25-letniej kobiety, o masie ciała 60 kg, małej aktywności fizycznej, karmiącej 2-miesięczne niemowlę? Do obliczeń wykorzystaj zamieszczone w tabeli informacje – zapotrzebowanie energetyczne oraz wielkość dodatku energii na okres karmienia niemowlęcia.",
+    "answers": [
+      "2225 kcal",
+      "2260 kcal",
+      "2405 kcal",
+      "3240 kcal"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela53.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 336,
+    "text": "Niskie spożycie produktów będących źródłem żelaza zwiększa głównie ryzyko wystąpienia",
+    "answers": [
+      "próchnicy.",
+      "celiakii.",
+      "cukrzycy.",
+      "anemii."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 337,
+    "text": "Do zestawu śniadaniowego składającego się: z pieczywa mieszanego, masła, polędwicy, sałaty zielonej i herbaty, zgodnie z zasadami planowania jadłospisów, należy zaplanować",
+    "answers": [
+      "dżem truskawkowy.",
+      "wodę mineralną.",
+      "sałatkę z brokułu.",
+      "owsiankę na mleku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 338,
+    "text": "Oblicz cenę gastronomiczną brutto 200 ml soku, jeżeli cena zakupu 2 litrów soku wynosi 10,00 zł, marża gastronomiczna 300%, a stawka podatku VAT 23%.",
+    "answers": [
+      "3,69 zł",
+      "9,84 zł",
+      "4,92 zł",
+      "9,23 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 339,
+    "text": "Zasada FIFO „first in, first out” dotyczy kolejności",
+    "answers": [
+      "pobierania surowców z magazynu.",
+      "przyjmowania od dostawców surowców do magazynu.",
+      "przekazywania potraw z kuchni do ekspedycji.",
+      "wydawania potraw gorących przekazanych do ekspedycji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 340,
+    "text": "O który dodatek warzywny należy uzupełnić zestaw potraw składający się z barszczu czerwonego, kotleta z fasoli i ziemniaków z wody?",
+    "answers": [
+      "Ćwikłę z chrzanem.",
+      "Buraki zasmażane.",
+      "Surówkę z marchwi.",
+      "Bób gotowany."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 341,
+    "text": "Zgodnie z tabelą zamienności produktów, mleko należy zastąpić",
+    "answers": [
+      "polędwicą.",
+      "serem twarogowym.",
+      "dorszem.",
+      "szynką wieprzową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 342,
+    "text": "Którą czynność wykonuje kelner na przedstawionej ilustracji?",
+    "answers": [
+      "Dekantowanie.",
+      "Kupażowanie.",
+      "Tranżerowanie.",
+      "Flambirowanie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_ilustracja3.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 343,
+    "text": "Ile miodu naturalnego należy przygotować do zastąpienia 0,6 kg cukru, jeżeli zgodnie z tabelą zamienności produktów spożywczych 125 g miodu naturalnego zastępuje 100 g cukru?",
+    "answers": [
+      "0,75 kg",
+      "7,50 kg",
+      "4,80 kg",
+      "0,48 kg"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 344,
+    "text": "Na podstawie danych zawartych w tabeli, oblicz maksymalną wartość energetyczną kolacji dla osoby spożywającej pięć posiłków w ciągu dnia i stosującej dietę „1 000 kalorii”.",
+    "answers": [
+      "300 kcal",
+      "150 kcal",
+      "250 kcal",
+      "200 kcal"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela71.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 345,
+    "text": "Narzędzie przedstawione na ilustracji służy do konsumpcji",
+    "answers": [
+      "homarów.",
+      "ślimaków.",
+      "ostryg.",
+      "steków."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_narzedzie.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 346,
+    "text": "Korzystając z informacji zamieszczonych w tabeli, oblicz na jaką kwotę należy wystawić rachunek za usługę organizacji przerwy kawowej dla 125 osób.",
+    "answers": [
+      "750,00 zł",
+      "600,00 zł",
+      "765,00 zł",
+      "850,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela75.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 347,
+    "text": "Który instrument promocji zastosowano zamieszczając nieodpłatnie w mediach pozytywne opinie o działalności zakładu gastronomicznego?",
+    "answers": [
+      "Publicity.",
+      "Sponsoring.",
+      "Promocję sprzedaży.",
+      "Reklamę prasową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 348,
+    "text": "Ile pęczków rzodkiewki o masie 0,25 kg każdy należy zaplanować do sporządzenia 50 porcji surówki, jeżeli do wykonania 1 porcji potrzeba 30 g tego surowca?",
+    "answers": [
+      "2 pęczki.",
+      "4 pęczki.",
+      "6 pęczków.",
+      "8 pęczków."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 349,
+    "text": "Insulina to hormon, który we krwi reguluje poziom",
+    "answers": [
+      "adrenaliny.",
+      "glukozy.",
+      "wapnia.",
+      "cholesterolu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 350,
+    "text": "Do czego jest przeznaczony przedstawiony na ilustracji sprzęt pomocniczy?",
+    "answers": [
+      "Transportu zakąsek.",
+      "Podgrzewania potraw.",
+      "Ekspozycji surówek.",
+      "Chłodzenia potraw."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_sprzet14.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 351,
+    "text": "Na podstawie danych zawartych w tabeli oblicz, ile gramów tłuszczu dostarczy organizmowi człowieka spożycie 100 g bobu.",
+    "answers": [
+      "2 g",
+      "84 g",
+      "18 g",
+      "9 g"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela72.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 352,
+    "text": "Źródłem kolagenu są",
+    "answers": [
+      "owoce i kasze.",
+      "mleko i sery.",
+      "mięso i ryby.",
+      "ryż i warzywa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 353,
+    "text": "W zamieszczonym w tabeli zestawie obiadowym dla osoby na diecie niskoenergetycznej zamienić należy",
+    "answers": [
+      "zupę czystą na zagęszczany krem.",
+      "deser na surówkę owocową.",
+      "pieczoną rybę na gotowane żeberka.",
+      "ryż czarny na ziemniaki purée."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_tabela74.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 354,
+    "text": "Ile zapłaci w barze gość za zestaw dnia, korzystający z 20% rabatu, w ramach programu lojalnościowego? Cena standardowa zestawu w karcie wynosi 15,00 zł.",
+    "answers": [
+      "20,00 zł",
+      "17,00 zł",
+      "12,00 zł",
+      "15,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 355,
+    "text": "Przykładem działania marketingowego public relations restauracji jest",
+    "answers": [
+      "zmiana aranżacji działu handlowego i działu produkcyjnego.",
+      "opracowanie programu lojalnościowego dla stałych konsumentów.",
+      "udostępnienie na stronie internetowej nagranych filmów o sporządzaniu potraw.",
+      "wprowadzenie systemu rabatowania usług żywieniowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 356,
+    "text": "Na której ilustracji strzałką oznaczono element bielizny stołowej, którym jest napperon?",
+    "answers": [
+      "Na ilustracji 4.",
+      "Na ilustracji 1.",
+      "Na ilustracji 2.",
+      "Na ilustracji 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_bielizna5.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 357,
+    "text": "Ile wyniesie cena gastronomiczna brutto 150 ml wina, jeżeli cena zakupu butelki wina o pojemności 1,5 l wynosi 250,00 zł, zakład stosuje marżę w wysokości 100%, a stawka podatku VAT wynosi 23%?",
+    "answers": [
+      "61,50 zł",
+      "8,25 zł",
+      "50,00 zł",
+      "6,25 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 358,
+    "text": "Zakładem gastronomicznym typu zamkniętego jest",
+    "answers": [
+      "stołówka szkolna.",
+      "bar przekąskowy.",
+      "kawiarnia.",
+      "pizzeria."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 359,
+    "text": "Zadaniem Instytutu Żywności i Żywienia jest",
+    "answers": [
+      "badanie mikrobiologiczne próbek potraw pobranych w zakładach żywienia zamkniętego.",
+      "badanie składu i wartości odżywczej żywności.",
+      "kontrolowanie zawartości soli w potrawach oferowanych przez stołówki szkolne.",
+      "kontrolowanie warunków sanitarnych produkcji żywności."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 360,
+    "text": "Na którym rysunku przedstawiono teatralne ustawienie stołów?",
+    "answers": [
+      "Na rysunku 4.",
+      "Na rysunku 2.",
+      "Na rysunku 3.",
+      "Na rysunku 1."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt12/t15_rysunki2.png"
+    },
+    "category": "HGT.12"
+  },
+  {
+    "id": 361,
+    "text": "Który surowiec wpływa alkalizująco na odczyn płynów ustrojowych człowieka?",
+    "answers": [
+      "Szynka wędzona.",
+      "Sałata liściasta.",
+      "Płatki zbożowe.",
+      "Ser pleśniowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 362,
+    "text": "Serwując zupę z wazy z lewej strony gościa, kelner stosuje serwis",
+    "answers": [
+      "niemiecki.",
+      "rosyjski.",
+      "francuski.",
+      "angielski."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 363,
+    "text": "Do sporządzenia 1 porcji sufletu jabłkowego należy użyć 135 g upieczonych, przetartych jabłek. Ile jabłek należy użyć do przygotowania 80 porcji deseru, jeżeli odpady stanowią 10%?",
+    "answers": [
+      "12,00 kg",
+      "10,80 kg",
+      "1,08 kg",
+      "1,20 kg"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.12"
+  },
+  {
+    "id": 364,
+    "text": "Lipazy to enzymy trawiące",
+    "answers": [
+      "białka.",
+      "węglowodany.",
+      "witaminy.",
+      "tłuszcze."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.12"
+  }
+]
