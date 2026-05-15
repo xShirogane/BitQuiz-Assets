@@ -1,0 +1,4903 @@
+[
+  {
+    "id": 1,
+    "text": "Jeżeli kwota należnego rocznego podatku dochodowego od osób fizycznych wynosi 5 786,00 zł, a suma pobranych przez płatników w ciągu roku zaliczek wynosi 7 199,00 zł, to",
+    "answers": [
+      "podatnikowi należy się zwrot podatku w kwocie 7 199,00 zł.",
+      "podatnik powinien wpłacić do urzędu skarbowego kwotę 5 786,00 zł.",
+      "podatnikowi należy się zwrot podatku w kwocie 1 413,00 zł.",
+      "podatnik powinien wpłacić do urzędu skarbowego kwotę 1 413,00 zł."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 2,
+    "text": "Strategia rozwoju produktu zakłada",
+    "answers": [
+      "wejście firmy na nowe rynki zbytu z dotychczasowymi produktami.",
+      "wprowadzenie nowego lub ulepszonego produktu na dotychczasowy rynek.",
+      "wejście firmy na nowe rynki zbytu z nowymi produktami.",
+      "zwiększenie sprzedaży dotychczasowego produktu na dotychczasowym rynku."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 3,
+    "text": "Pracownik jest zatrudniony w systemie czasowo-premiowym ze stawką godzinową 40,00 zł i premią regulaminową 10% od płacy zasadniczej. Obowiązuje go 8 godzinny dzień pracy, a normatywny czas pracy w maju wynosi 20 dni. Kwota wynagrodzenia brutto za maj wyniesie",
+    "answers": [
+      "8 000,00 zł",
+      "3 200,00 zł",
+      "7 040,00 zł",
+      "6 400,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 4,
+    "text": "Osobowość prawną posiada spółka",
+    "answers": [
+      "cywilna.",
+      "partnerska.",
+      "jawna.",
+      "akcyjna."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 5,
+    "text": "Do zadań maklera giełdowego należy między innymi:",
+    "answers": [
+      "Opis IV.",
+      "Opis II.",
+      "Opis I.",
+      "Opis III."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela152.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 6,
+    "text": "Przykładem nieetycznych działań wobec kontrahentów jest",
+    "answers": [
+      "zwalnianie pracowników bez zachowania okresu wypowiedzenia.",
+      "nierówne traktowanie pracowników.",
+      "niedotrzymywanie terminów dostaw i warunków umów.",
+      "zwlekanie z zapłatą podatków do urzędu skarbowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 7,
+    "text": "Stolarnia otrzymała zamówienie na 200 szuflad. Do wyprodukowania jednej szuflady potrzebne są: 1 front, 3 deski, 6 wkrętów i 1 uchwyt. Korzystając z danych przedstawionych na wykresie, ustal, które materiały i w jakich ilościach należy zakupić, aby zrealizować zamówienie.",
+    "answers": [
+      "60 uchwytów i 10 desek.",
+      "25 wkrętów, 20 frontów i 60 uchwytów.",
+      "25 frontów, 20 wkrętów i 60 uchwytów.",
+      "25 frontów i 10 desek."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_wykres6.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 8,
+    "text": "Przedsiębiorca opodatkowany jest na zasadach ogólnych i płaci podatek liniowy. Na podstawie danych w tabeli ustal kwotę dochodu za bieżący miesiąc.",
+    "answers": [
+      "12 500,00 zł",
+      "12 900,00 zł",
+      "15 300,00 zł",
+      "13 100,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela154.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 9,
+    "text": "W zakładzie produkcyjnym 200 robotników w ciągu 4 godzin pracy wyprodukowało 36 000 sztuk wyrobów gotowych. Wydajność pracy liczona na 1 robotnikogodzinę wyniosła",
+    "answers": [
+      "9 000 sztuk.",
+      "720 sztuk.",
+      "180 sztuk.",
+      "45 sztuk."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 10,
+    "text": "Który dokument powinien znajdować się w części B akt osobowych pracownika?",
+    "answers": [
+      "Wypowiedzenie umowy o pracę.",
+      "Oświadczenie o wyrażeniu zgody na przetwarzanie danych osobowych dla celów rekrutacji.",
+      "Wniosek o sprostowanie świadectwa pracy.",
+      "Oświadczenie o wyrażeniu zgody na przekazywanie wynagrodzenia na konto bankowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 11,
+    "text": "Co stanowi mocną stronę przedsiębiorstwa świadczącego usługi projektowania ogrodów w analizie SWOT?",
+    "answers": [
+      "Nowy program wsparcia z funduszy unijnych dla przedsiębiorców.",
+      "Wzrost zamożności mieszkańców.",
+      "Doświadczenie i wysokie kwalifikacje kadry pracowniczej.",
+      "Rozwój budownictwa jednorodzinnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 12,
+    "text": "Wypłaty wynagrodzenia z tytułu umowy o pracę dokonuje się",
+    "answers": [
+      "raz w miesiącu, w miejscu i terminie określonym przez pracownika.",
+      "najpóźniej do 30 dnia każdego miesiąca za poprzedni miesiąc.",
+      "najpóźniej do 15 dnia każdego miesiąca za poprzedni miesiąc.",
+      "co najmniej raz w miesiącu, w stałym i ustalonym z góry terminie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 13,
+    "text": "W Dzienniku Ustaw Rzeczypospolitej Polskiej są ogłaszane",
+    "answers": [
+      "uchwały Zgromadzenia Narodowego.",
+      "zarządzenia Prezesa Rady Ministrów.",
+      "akty prawa miejscowego wydane przez wojewodę.",
+      "rozporządzenia z mocą ustawy wydane przez Prezydenta RP."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 14,
+    "text": "Wskaż prawidłowy schemat wyliczania wynagrodzenia netto w liście płac dla pracownika zatrudnionego na podstawie umowy o pracę.",
+    "answers": [
+      "Schemat II.",
+      "Schemat IV.",
+      "Schemat III.",
+      "Schemat I."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_schematy2.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 15,
+    "text": "Zapas, który z konkretnych przyczyn jest na pewien czas przeznaczony na dostawę do określonego klienta lub do wykorzystania w procesie produkcyjnym określonego wyrobu, to zapas",
+    "answers": [
+      "informacyjny.",
+      "spekulacyjny.",
+      "strategiczny.",
+      "zarezerwowany."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 16,
+    "text": "Pierwszym etapem procesu planowania jest",
+    "answers": [
+      "ocena bieżącej sytuacji.",
+      "ustalenie procedury postępowania.",
+      "opracowanie harmonogramu pracy.",
+      "określenie celów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 17,
+    "text": "Która zasada planowania zakłada, że do określonych rezultatów można dojść rożnymi drogami przy angażowaniu różnych środków?",
+    "answers": [
+      "Zasada realności planu.",
+      "Zasada koncentracji.",
+      "Zasada wariantowych rozwiązań.",
+      "Zasada elastyczności planowania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 18,
+    "text": "Absolwent szkoły średniej, który po raz pierwszy podjął zatrudnienie na umowę o pracę na pełny etat, nabędzie prawo do 1/12 wymiaru urlopu wypoczynkowego po przepracowaniu",
+    "answers": [
+      "1 miesiąca.",
+      "1 roku.",
+      "1 kwartału.",
+      "1 tygodnia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 19,
+    "text": "Składka na ubezpieczenie emerytalne pracownika zatrudnionego na podstawie umowy o pracę wynosi",
+    "answers": [
+      "19,52% podstawy wymiaru i jest finansowana w równych częściach przez pracownika i pracodawcę.",
+      "2,45% podstawy wymiaru i jest finansowana tylko przez pracownika.",
+      "9,76% podstawy wymiaru i jest finansowana tylko przez pracodawcę.",
+      "8,00% podstawy wymiaru i jest finansowana w równych częściach przez pracownika i pracodawcę."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 20,
+    "text": "Na podstawie fragmentu listy płac ustal podstawę wymiaru składek na ubezpieczenie zdrowotne.",
+    "answers": [
+      "4 314,50 zł",
+      "4 750,00 zł",
+      "4 065,00 zł",
+      "5 000,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_lista21.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 21,
+    "text": "Która część biznesplanu zawiera informacje o przedsiębiorstwach działających w danej branży oraz o stosowanej przez nie polityce cenowej?",
+    "answers": [
+      "Charakterystyka firmy.",
+      "Analiza rynku.",
+      "Opis przedsięwzięcia.",
+      "Plan organizacyjny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 22,
+    "text": "Kwota brutto z tytułu umowy o dzieło wraz z przeniesieniem praw autorskich, zawartej z osobą, z którą nie łączy zamawiającego stosunek pracy, wynosi 3 000,00 zł. Ile wyniesie podatek dochodowy zapłacony do urzędu skarbowego?",
+    "answers": [
+      "255,00 zł",
+      "360,00 zł",
+      "180,00 zł",
+      "288,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_rachunek14.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 23,
+    "text": "Na podstawie danych przedstawionych w zestawieniu, oblicz metodą LIFO wartość wydanego z magazynu hurtowni towaru X w ilości 650 sztuk na podstawie Wz 1/03/2024.",
+    "answers": [
+      "7 072,00 zł",
+      "7 300,00 zł",
+      "7 050,00 zł",
+      "7 150,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_zestawienie4.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 24,
+    "text": "Program lojalnościowy proponowany przez sklep odzieżowy w postaci zbierania punktów za zakupy i ich wymiany na jednorazowe rabaty jest przykładem zastosowania strategii",
+    "answers": [
+      "cenowej.",
+      "dywersyfikacji.",
+      "dystrybucji.",
+      "produktu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 25,
+    "text": "W tabeli przedstawiono zestawienie zatrudnionych w Zakładzie Pracy Chronionej ZEGA sp. z o.o. według stanowisk. Jaki procent ogółu zatrudnionych stanowią osoby niepełnosprawne?",
+    "answers": [
+      "60%",
+      "70%",
+      "40%",
+      "50%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela155.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 26,
+    "text": "Który dokument powinien sporządzić sprzedawca, aby udokumentować zwrot sprzedanych towarów do magazynu po uznaniu reklamacji odbiorcy?",
+    "answers": [
+      "RW – rozchód wewnętrzny.",
+      "PW – przyjęcie wewnętrzne.",
+      "WZ – wydanie zewnętrze.",
+      "PZ – przyjęcie zewnętrze."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 27,
+    "text": "Cena brutto towaru wynosi 756,00 zł, w tym podatek VAT 8%. Ile wyniesie cena brutto tego towaru, jeżeli stawka podatku VAT zostanie podwyższona do 23%?",
+    "answers": [
+      "855,49 zł",
+      "929,88 zł",
+      "869,40 zł",
+      "861,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 28,
+    "text": "W przedsiębiorstwie zwolniono w ubiegłym roku 675 pracowników, a przyjęto do pracy 540 osób. Ile wynosi wskaźnik zwolnień, jeśli średni roczny stan zatrudnienia wynosił 5400 osób?",
+    "answers": [
+      "2,5%",
+      "12,5%",
+      "22,5%",
+      "10,0%"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 29,
+    "text": "Na podstawie fragmentu JPK -V7M części deklaracyjnej, oblicz kwotę zobowiązania podatkowego za maj, wiedząc, że wartość podatku należnego wyniosła 9 200,00 zł.",
+    "answers": [
+      "6 095,00 zł",
+      "4 623,00 zł",
+      "10 700,00 zł",
+      "7 728,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_jpk.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 30,
+    "text": "Z zamieszczonego planu urlopów wynika, że",
+    "answers": [
+      "Markowi Bąkowi i Iwonie Skorek zostanie jeszcze do wykorzystania po 10 dni urlopu.",
+      "Iwonie Skorek i Renacie Rusin zostaną jeszcze do wykorzystania po 4 dni urlopu.",
+      "Jan Pasek i Marek Bąk mają zaplanowane terminy wykorzystania całego urlopu.",
+      "Renata Rusin i Jan Pasek mają zaplanowane terminy wykorzystania całego urlopu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_plan.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 31,
+    "text": "Wynagrodzenie pracownika zatrudnionego w hurtowni w systemie czasowo-prowizyjnym składa się z wynagrodzenia zasadniczego w kwocie 4 600,00 zł oraz prowizji od wartości sprzedaży. Ile wyniesie wynagrodzenie brutto pracownika, jeżeli miesięczny przychód ze sprzedaży wyniósł 18 500,00 zł?",
+    "answers": [
+      "7 375,00 zł",
+      "4 600,00 zł",
+      "6 450,00 zł",
+      "8 300,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela153.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 32,
+    "text": "Przedsiębiorca rozlicza się z urzędem skarbowym z tytułu podatku dochodowego na zasadzie ryczałtu od przychodów ewidencjonowanych. Korzystając z ewidencji przychodów, oblicz kwotę, którą podatnik powinien wpisać w pozycji 27. zeznania PIT-28.",
+    "answers": [
+      "6 550,00 zł",
+      "2 500,00 zł",
+      "4 050,00 zł",
+      "1 550,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabele3.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 33,
+    "text": "Ze względu na częstotliwość dokonywania analizy ekonomicznej wyróżnia się analizę",
+    "answers": [
+      "doraźną, okresową, ciągłą.",
+      "funkcjonalną, kompleksową, decyzyjną.",
+      "okresową, ogólną, funkcjonalną.",
+      "ogólną, szczegółową, kompleksową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 34,
+    "text": "Jeżeli w ciągu miesiąca (30 dni) hurtownia sprzedaje 2400 sztuk towaru, a dostawy odbywają się co 6 dni, to wielkość zapasu minimalnego powinna wynosić",
+    "answers": [
+      "480 sztuk.",
+      "400 sztuk.",
+      "80 sztuk.",
+      "13 sztuk."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 35,
+    "text": "Wnioski o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej (CEIDG) składają osoby fizyczne zakładające spółkę",
+    "answers": [
+      "cywilną.",
+      "komandytową.",
+      "jawną.",
+      "partnerską."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 36,
+    "text": "Przytoczony fragment opisu dotyczy Fragment ……………………….. „…jest dokumentem zawierającym ocenę opłacalności przedsięwzięcia gospodarczego, sporządzanym na potrzeby wewnętrzne oraz zewnętrzne przedsiębiorstwa. Bardzo często stanowi narzędzie komunikacji zewnętrznej w celu pozyskania źródeł finansowania inwestycji…”",
+    "answers": [
+      "macierzy BCG.",
+      "planu marketingowego.",
+      "biznesplanu.",
+      "analizy SWOT."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 37,
+    "text": "Właściciel Sklepu PUCHATEK (płatnik podatku VAT) stosuje przy sprzedaży towarów marżę wysokości 50% ceny sprzedaży netto. Na podstawie załączonej faktury zakupu towaru, oblicz jednostkową cenę sprzedaży brutto gry planszowej dla klienta sklepu.",
+    "answers": [
+      "92,25 zł",
+      "75,00 zł",
+      "100,00 zł",
+      "123,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_faktura9.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 38,
+    "text": "Udział produkcji wadliwej w wielkości produkcji ogółem jest najmniejszy",
+    "answers": [
+      "w Zakładzie 3.",
+      "w Zakładzie 4.",
+      "w Zakładzie 2.",
+      "w Zakładzie 1."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela156.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 39,
+    "text": "W celu uniknięcia problemów prawnych, przedsiębiorca, który planuje rozpocząć współpracę z zagranicznym kontrahentem, powinien w pierwszej kolejności sprawdzić",
+    "answers": [
+      "liczbę kontaktów gospodarczych kontrahenta z innymi przedsiębiorcami.",
+      "infrastrukturę, którą dysponuje kontrahent oraz możliwości jej rozwoju.",
+      "wysokość kapitału początkowego spółki kontrahenta.",
+      "wpis kontrahenta do rejestru przedsiębiorców w jego kraju."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 40,
+    "text": "Kwotę miesięcznej amortyzacji środka trwałego należy ująć w podatkowej księdze przychodów i rozchodów w kolumnie",
+    "answers": [
+      "8.",
+      "10.",
+      "13.",
+      "11."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_ksiega6.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 41,
+    "text": "Opodatkowaniu podatkiem dochodowym od osób prawnych w Polsce podlegają dochody spółki",
+    "answers": [
+      "partnerskiej.",
+      "akcyjnej.",
+      "jawnej.",
+      "komandytowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 42,
+    "text": "Na podstawie zamieszczonego fragmentu zeznania podatkowego PIT-37 za rok 2018 ustal kwotę dochodu.",
+    "answers": [
+      "66 849,70 zł",
+      "96 084,70 zł",
+      "76 150,00 zł",
+      "85 449,70 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_zeznanie.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 43,
+    "text": "Na podstawie zamieszczonego fragmentu biznesplanu wskaż, jakiego rodzaju działalność gospodarczą prowadzi przedsiębiorstwo.",
+    "answers": [
+      "Restauracja.",
+      "Kawiarnia.",
+      "Usługi cateringowe.",
+      "Usługi hotelowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_ramka2.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 44,
+    "text": "Na podstawie przedstawionego fragmentu faktury korygującej ustal wartość brutto torby na laptopa, po uwzględnieniu rabatu w wysokości 10%.",
+    "answers": [
+      "132,84 zł",
+      "132,00 zł",
+      "108,00 zł",
+      "147,60 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_faktura.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 45,
+    "text": "Na podstawie zamieszczonego fragmentu podatkowej księgi przychodów i rozchodów ustal kwotę dochodu.",
+    "answers": [
+      "11 000,00 zł",
+      "13 000,00 zł",
+      "14 000,00 zł",
+      "12 000,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_tabela6.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 46,
+    "text": "Producent wprowadził na rynek innowacyjny produkt, który w doskonały sposób zaspokaja potrzeby klientów. Oferuje go w wysokiej cenie, adresując do nabywców o wysokich dochodach. Którą strategię ustalania cen wybrał producent?",
+    "answers": [
+      "Penetracji.",
+      "Cen neutralnych.",
+      "Zbierania śmietanki.",
+      "Cen minimalnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 47,
+    "text": "Korzystając z zamieszczonego fragmentu przepisów ustawy o podatku dochodowym od osób fizycznych, wskaż maksymalną kwotę, którą można przekazać na rzecz organizacji pożytku publicznego, jeżeli podatek należny wyliczony w rocznym zeznaniu podatkowym PIT-37 wynosi 14 488,00 zł.",
+    "answers": [
+      "144,80 zł",
+      "144,00 zł",
+      "144,90 zł",
+      "145,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_ustawa.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 48,
+    "text": "Na podstawie informacji zawartych w tabeli ustal, który z agentów ubezpieczeniowych wynagradzanych w systemie czasowo-prowizyjnym otrzyma najwyższe wynagrodzenie brutto za grudzień, jeżeli prowizja dla każdego z nich wynosi 5% wartości podpisanych umów.",
+    "answers": [
+      "Krzysztof Bieniek.",
+      "Maria Głowacka.",
+      "Adam Grzywacz.",
+      "Dorota Zawadzka."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_tabela7.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 49,
+    "text": "Na podstawie danych zawartych w tabeli oblicz kwotę zobowiązania z tytułu podatku VAT podlegającą wpłacie do urzędu skarbowego za grudzień.",
+    "answers": [
+      "1 350,00 zł",
+      "3 630,00 zł",
+      "2 070,00 zł",
+      "2 790,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_tabela5.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 50,
+    "text": "Zarząd to organ wykonawczy, który jest powoływany w spółkach",
+    "answers": [
+      "komandytowej i cywilnej.",
+      "z ograniczoną odpowiedzialnością i jawnej.",
+      "partnerskiej i komandytowej.",
+      "akcyjnej i z ograniczoną odpowiedzialnością."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 51,
+    "text": "Ile wyniesie podatek VAT należny od sprzedaży 50 szt. towaru, jeżeli cena sprzedaży netto wynosi 20,00 zł/szt., a stawka podatku VAT 8%?",
+    "answers": [
+      "1 080,00 zł",
+      "74,00 zł",
+      "1 000,00 zł",
+      "80,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 52,
+    "text": "Na podstawie zamieszczonych danych z listy płac oblicz kwotę dobrowolnych potrąceń z wynagrodzenia pracownika.",
+    "answers": [
+      "543,64 zł",
+      "315,00 zł",
+      "233,00 zł",
+      "858,64 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_tabela9.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 53,
+    "text": "Podczas sporządzania analizy SWOT za słabą stronę przedsięwzięcia można uznać",
+    "answers": [
+      "brak wykwalifikowanej kadry.",
+      "spadek popytu na rynku.",
+      "niekorzystne prawo podatkowe.",
+      "obecność monopolisty na rynku."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 54,
+    "text": "Osoby pozostające przez cały rok podatkowy w związku małżeńskim, między którymi przez cały ten czas istniała wspólność majątkowa, mogą złożyć wspólne zeznanie podatkowe na formularzu",
+    "answers": [
+      "PIT-16/PIT-16S",
+      "PIT-37",
+      "PIT-28/PIT-28S",
+      "PIT-11"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 55,
+    "text": "Formularz ZUS ZUA jest przeznaczony do",
+    "answers": [
+      "rozliczenia miesięcznych składek na ubezpieczenia społeczne i zdrowotne pracowników.",
+      "zgłoszenia osób do ubezpieczeń społecznych i ubezpieczenia zdrowotnego.",
+      "rozliczenia miesięcznych składek na ubezpieczenie zdrowotne.",
+      "zgłoszenia osób tylko do ubezpieczenia zdrowotnego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_formularz.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 56,
+    "text": "W której części biznesplanu można znaleźć odpowiedzi na zamieszczone w ramce pytania?",
+    "answers": [
+      "Harmonogram realizacji.",
+      "Charakterystyka przedsięwzięcia.",
+      "Analiza rynku.",
+      "Opis konkurencji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_ramka.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 57,
+    "text": "Składki na ubezpieczenie zdrowotne pracownika nalicza się w wysokości",
+    "answers": [
+      "9,76% podstawy wymiaru.",
+      "6,50% podstawy wymiaru.",
+      "2,45% podstawy wymiaru.",
+      "9,00% podstawy wymiaru."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 58,
+    "text": "Producent planuje wyprodukować w miesiącu 10 000 sztuk palet drewnianych. Norma techniczna zużycia drewna na jedną paletę została ustalona na poziomie 0,035 m3. Zapas początkowy drewna wynosi 70 m3, a planowany zapas końcowy 100 m3. Ile metrów sześciennych drewna należy zakupić?",
+    "answers": [
+      "380 m3",
+      "280 m3",
+      "250 m3",
+      "180 m3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 59,
+    "text": "Na podstawie przedstawionego dowodu Pz nr 8/12/2019 ustal brakujące ceny jednostkowe towarów przyjętych do magazynu.",
+    "answers": [
+      "Filiżanka 16,15 zł, cukiernica 24,00 zł",
+      "Filiżanka 17,00 zł, cukiernica 19,20 zł",
+      "Filiżanka 17,00 zł, cukiernica 24,00 zł",
+      "Filiżanka 16,15 zł, cukiernica 19,20 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_dowod.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 60,
+    "text": "Który dokument pracodawca przechowuje w części A akt osobowych pracownika?",
+    "answers": [
+      "Kopię świadectwa pracy z poprzedniego miejsca zatrudnienia.",
+      "Oświadczenie o wypowiedzeniu lub rozwiązaniu umowy o pracę.",
+      "Zaświadczenie o ukończeniu wymaganego szkolenia w zakresie BHP.",
+      "Oświadczenie dla celów stosowania podwyższonych kosztów uzyskania przychodów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 61,
+    "text": "Dywidenda jest wypłacana posiadaczom",
+    "answers": [
+      "akcji.",
+      "weksli.",
+      "bonów skarbowych.",
+      "kart kredytowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 62,
+    "text": "Które dokumenty potwierdzają przyjęcie materiałów do magazynu?",
+    "answers": [
+      "Rw i Pz",
+      "Pz i Pw",
+      "Pw i Wz",
+      "Wz i Zw"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 63,
+    "text": "Płatnik składek, który przekazał do ZUS w grudniu 2019 roku pierwszą korektę deklaracji rozliczeniowej ZUS DRA za październik 2019 roku, powinien oznaczyć ją w polu 02 identyfikatorem",
+    "answers": [
+      "02 12 2019",
+      "01 10 2019",
+      "02 10 2019",
+      "03 10 2019"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_deklaracja.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 64,
+    "text": "Do obliczenia wskaźnika przyjęć pracowników potrzebne są następujące informacje:",
+    "answers": [
+      "liczba pracowników zwolnionych i liczba pracowników przyjętych oraz okresy ich zatrudnienia.",
+      "wartość uzyskanych przychodów ze sprzedaży i liczba nowozatrudnionych pracowników.",
+      "wartość osiągniętego zysku i wartość średniego stanu zatrudnienia w badanym okresie.",
+      "liczba nowozatrudnionych pracowników i średni stan zatrudnienia w badanym okresie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 65,
+    "text": "Jednym z zadań Ministra Finansów jest",
+    "answers": [
+      "opracowywanie, wykonywanie i kontrolowanie realizacji budżetu państwa.",
+      "analizowanie prawidłowości wykorzystywania dotacji dla przedsiębiorców.",
+      "wykrywanie i zwalczanie przestępstw skarbowych.",
+      "badanie sprawozdań finansowych podmiotów gospodarczych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 66,
+    "text": "Zgodnie z zamieszczonym fragmentem przepisów Kodeksu cywilnego pełną zdolność do czynności prawnych ma",
+    "answers": [
+      "Anna, która ukończyła lat siedemnaście i za zgodą sądu zawarła związek małżeński.",
+      "Ewa, która ukończyła lat trzynaście i nie została ubezwłasnowolniona.",
+      "Mateusz, który ukończył lat dwanaście.",
+      "Karol, który ukończył lat osiemnaście i został ubezwłasnowolniony całkowicie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_ustawa2.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 67,
+    "text": "Na podstawie danych zamieszczonych w tabeli ustal, w którym magazynie zapas towarów był odnawiany najczęściej.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_tabela4.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 68,
+    "text": "Kontrahenci podpisali umowę handlową, w której sprzedający zobowiązał się dostarczyć towar na własny koszt do magazynu odbiorcy. W umowie zapisano dostawę na warunkach",
+    "answers": [
+      "loco magazyn dostawcy.",
+      "franco magazyn odbiorcy.",
+      "loco miejsce przeznaczenia.",
+      "franco miejsce załadowania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 69,
+    "text": "Korzystając z zamieszczonej tabeli kursów walut obcych, oblicz, jaką kwotę w złotych polskich stanowi po wymianie w kantorze 100 dolarów amerykańskich i 1 000 euro.",
+    "answers": [
+      "4 617,03 zł",
+      "4 624,93 zł",
+      "4 702,43 zł",
+      "4 710,33 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_tabela2.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 70,
+    "text": "W grudniu hurtownia zakupiła i przyjęła do magazynu ręczniki bawełniane zgodnie z zestawieniem przedstawionym w tabeli. Oblicz metodą średniej ważonej przeciętną cenę zakupu jednego ręcznika bawełnianego.",
+    "answers": [
+      "11,17 zł/szt.",
+      "10,00 zł/szt.",
+      "11,50 zł/szt.",
+      "12,00 zł/szt."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_tabela3.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 71,
+    "text": "Do zadań banków komercyjnych należy między innymi",
+    "answers": [
+      "prowadzenie bieżących rachunków państwowych jednostek budżetowych.",
+      "ewidencjonowanie i obsługa długu publicznego.",
+      "udzielanie kredytów osobom fizycznym i prawnym.",
+      "emitowanie znaków pieniężnych w państwie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 72,
+    "text": "Ze względu na częstotliwość przeprowadzania analizy ekonomicznej rozróżnia się analizę",
+    "answers": [
+      "ciągłą, okresową i doraźną.",
+      "strategiczną, taktyczną i operacyjną.",
+      "funkcjonalną, kompleksową i decyzyjną.",
+      "retrospektywną, bieżącą i prospektywną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 73,
+    "text": "Obowiązkiem osoby fizycznej prowadzącej działalność gospodarczą opodatkowaną w formie karty podatkowej jest złożenie w urzędzie skarbowym deklaracji o wysokości składki na ubezpieczenie zdrowotne, zapłaconej i odliczonej od karty podatkowej w poszczególnych miesiącach roku podatkowego na formularzu",
+    "answers": [
+      "PIT-36/PIT-36S",
+      "PIT-28/PIT-28S",
+      "PIT-19A",
+      "PIT-16A"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 74,
+    "text": "Na podstawie rachunku nr 10/2019 do umowy o dzieło ustal kwotę podatku dochodowego, którą należy przekazać na rachunek urzędu skarbowego.",
+    "answers": [
+      "243,00 zł",
+      "486,00 zł",
+      "243,10 zł",
+      "486,20 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_tabela8.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 75,
+    "text": "Wielkość efektów pracy przypadających na jednostkę czasu określa wskaźnik",
+    "answers": [
+      "płynności kadr.",
+      "rotacji zapasów.",
+      "wydajności pracy.",
+      "struktury wynagrodzeń."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 76,
+    "text": "Prawo do urlopu na żądanie ma osoba zatrudniona na podstawie umowy",
+    "answers": [
+      "zlecenia.",
+      "agencyjnej.",
+      "o dzieło.",
+      "o pracę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 77,
+    "text": "Na podstawie zamieszczonego fragmentu indywidualnej listy płac nr 12/2019 ustal podstawę wymiaru składek na ubezpieczenia społeczne.",
+    "answers": [
+      "3 250,00 zł",
+      "3 600,00 zł",
+      "3 900,00 zł",
+      "3 000,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_tabela10.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 78,
+    "text": "Zasada planowania, która zakłada łączenie określonych zadań i czynności oraz skupianie się na tych zadaniach, które pozwolą najszybciej osiągnąć spodziewane efekty, to zasada",
+    "answers": [
+      "koncentracji.",
+      "elastyczności planowania.",
+      "gospodarności.",
+      "wariantowych rozwiązań."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 79,
+    "text": "Zamieszczony dokument sporządzono w sprawie",
+    "answers": [
+      "czasowego powierzenia pracownikowi wykonywania innej pracy.",
+      "oświadczenia pracownika o zapoznaniu się z regulaminem wynagradzania.",
+      "zawarcia umowy o pracę na okres próbny.",
+      "czasowego skierowania pracownika na staż do Londynu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_dokument.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 80,
+    "text": "Piekarnia, której produkty są oferowane we wszystkich możliwie dostępnych punktach sprzedaży detalicznej, stosuje strategię dystrybucji",
+    "answers": [
+      "ekskluzywnej.",
+      "intensywnej.",
+      "selektywnej.",
+      "wyłącznej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 81,
+    "text": "W styczniu 2024 r. przedsiębiorstwo handlowe, będące czynnym podatnikiem VAT i wykonujące czynności wyłącznie opodatkowane, dokonało zakupu i sprzedaży towarów zgodnie z danymi przedstawionymi w tabeli. Ile wyniesie kwota zobowiązania z tytułu podatku VAT za styczeń 2024 r.?",
+    "answers": [
+      "4 100,00 zł",
+      "8 200,00 zł",
+      "1 196,00 zł",
+      "1 436,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela144.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 82,
+    "text": "Ilość materiału, która powinna stale znajdować się w magazynie na wypadek opóźnienia dostaw lub innych nieprzewidzianych okoliczności, to zapas",
+    "answers": [
+      "przeciętny.",
+      "maksymalny.",
+      "obrotowy.",
+      "rezerwowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 83,
+    "text": "Jakiego rodzaju działalność gospodarcza wymaga uzyskania koncesji?",
+    "answers": [
+      "Działalność ubezpieczeniowa.",
+      "Transport drogowy w zakresie przewozu osób taksówką.",
+      "Pośrednictwo w obrocie nieruchomościami.",
+      "Przewozy lotnicze."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 84,
+    "text": "Hurtownia sprzedała w poszczególnych miesiącach I kwartału br. następujące ilości towaru X: − 180 sztuk w styczniu, − 200 sztuk w lutym, − 220 sztuk w marcu. W kwietniu planuje się sprzedaż towaru X na poziomie średniej sprzedaży z I kwartału br. Ile towaru X powinna zakupić hurtowania w kwietniu, jeżeli zapas w magazynie na początek miesiąca wynosi 120 sztuk, a na koniec miesiąca w magazynie powinno pozostać 65 sztuk?",
+    "answers": [
+      "145 sztuk.",
+      "275 sztuk.",
+      "15 sztuk.",
+      "255 sztuk."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 85,
+    "text": "Właściciel przedsiębiorstwa zamierza zlecić osobie niebędącej jego pracownikiem zaprojektowanie logo firmy. Którą umowę powinien podpisać z wykonawcą logo?",
+    "answers": [
+      "Umowę agencyjną.",
+      "Umowę o dzieło.",
+      "Umowę o pracę.",
+      "Umowę-zlecenie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 86,
+    "text": "Hurtownia zakupiła 50 sztuk towarów w cenie netto 60,00 zł/szt., a następnie sprzedała 30 sztuk w cenie netto 80,00 zł/szt. Ustal kwotę marży osiągniętą na sprzedaży towarów.",
+    "answers": [
+      "3 000,00 zł",
+      "1 000,00 zł",
+      "2 400,00 zł",
+      "600,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 87,
+    "text": "Kiedy, zgodnie z przepisami Kodeksu pracy, pracodawca ma obowiązek uznać za niebyłą karę porządkową nałożoną na pracownika i usunąć z jego akt osobowych odpis zawiadomienia o ukaraniu?",
+    "answers": [
+      "Z dniem 1 stycznia następnego roku po nałożeniu kary.",
+      "Po dwóch latach od daty udzielenia nagany.",
+      "Z dniem rozwiązania stosunku pracy.",
+      "Po roku nienagannej pracy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 88,
+    "text": "Obowiązkowym dodatkiem do wynagrodzenia przysługującym pracownikowi na podstawie przepisów Kodeksu pracy jest",
+    "answers": [
+      "deputat.",
+      "premia.",
+      "dodatek za pracę w porze nocnej.",
+      "dodatek funkcyjny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 89,
+    "text": "Z danych zamieszczonych w tabeli wynika, że liczba zatrudnionych w przeliczeniu na pełne etaty wynosi",
+    "answers": [
+      "56 pracowników.",
+      "84 pracowników.",
+      "21 pracowników.",
+      "30 pracowników."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela147.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 90,
+    "text": "Nabywca otrzymał zamówiony towar wraz z fakturą. Podczas odbioru towaru stwierdził jego uszkodzenie i w związku z tym złożył reklamację. Sprzedawca uznał reklamację i wystawił",
+    "answers": [
+      "duplikat faktury.",
+      "fakturę korygującą.",
+      "notę korygującą.",
+      "rachunek."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 91,
+    "text": "Która metoda planowania zakłada, że dotychczasowy stosunek między dwiema wielkościami planistycznymi nie ulegnie zmianie, co jest wykorzystywane w obliczeniach dla okresu planowego?",
+    "answers": [
+      "Metoda simpleks.",
+      "Metoda bilansowa.",
+      "Metoda proporcji stałych.",
+      "Metoda kolejnych przybliżeń."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 92,
+    "text": "Na którym formularzu pracodawca powinien zgłosić do Zakładu Ubezpieczeń Społecznych każdą nowo zatrudnioną osobę, która podlega obowiązkowo ubezpieczeniom społecznym i ubezpieczeniu zdrowotnemu?",
+    "answers": [
+      "ZUS ZUA",
+      "ZUS ZZA",
+      "ZUS ZCNA",
+      "ZUS ZIUA"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 93,
+    "text": "Na podstawie danych zamieszczonych w tabeli oblicz miesięczne wynagrodzenie brutto pracownika zatrudnionego na podstawie umowy o pracę.",
+    "answers": [
+      "5 011,77 zł",
+      "5 026,77 zł",
+      "4 487,40 zł",
+      "4 711,77 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela145.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 94,
+    "text": "Wskaźnik rentowności wynagrodzeń obliczony na podstawie zamieszczonego wzoru i wynoszący 2,0 informuje o tym, że",
+    "answers": [
+      "na jednego pracownika przypada przeciętnie 2,00 zł przychodu brutto.",
+      "na jednego pracownika przypada przeciętnie 2,00 zł zysku brutto.",
+      "każda złotówka wydana na wynagrodzenia przyniosła pracodawcy 2,00 zł zysku brutto.",
+      "każda złotówka wydana na wynagrodzenia przyniosła pracodawcy 2,00 zł przychodu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_ramka8.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 95,
+    "text": "Przedsiębiorca, który jest czynnym podatnikiem VAT i prowadzi sprzedaż wyłącznie opodatkowaną, zakupił towary na podstawie faktury. W której kolumnie i jaką wartość z faktury powinien zaksięgować w podatkowej księdze przychodów i rozchodów?",
+    "answers": [
+      "W kolumnie 10. Zakup towarów handlowych i materiałów według cen zakupu – wartość brutto.",
+      "W kolumnie 13. Pozostałe wydatki – wartość netto.",
+      "W kolumnie 13. Pozostałe wydatki – wartość brutto.",
+      "W kolumnie 10. Zakup towarów handlowych i materiałów według cen zakupu – wartość netto."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 96,
+    "text": "Ze względu na przedmiot opodatkowania podatek od nieruchomości należy zaliczyć do podatków",
+    "answers": [
+      "konsumpcyjnych.",
+      "majątkowych.",
+      "przychodowych.",
+      "dochodowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 97,
+    "text": "W tabeli przedstawiono charakterystykę planu",
+    "answers": [
+      "operacyjnego.",
+      "taktycznego.",
+      "finansowego.",
+      "strategicznego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela148.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 98,
+    "text": "Z tabeli wynika, że towarami, dla których procent wykonania planu sprzedaży jest najwyższy, są",
+    "answers": [
+      "poduszki.",
+      "pościele.",
+      "prześcieradła.",
+      "kołdry."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela151.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 99,
+    "text": "W której części biznesplanu przedsiębiorca umieści porównanie swojej firmy z firmami konkurencyjnymi?",
+    "answers": [
+      "W planie inwestycyjnym.",
+      "W analizie SWOT.",
+      "W analizie rynku.",
+      "W planie finansowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 100,
+    "text": "Ilość materiału wchodzącego w skład gotowej jednostki wyrobu określa norma",
+    "answers": [
+      "procesu.",
+      "teoretyczna.",
+      "wydajności.",
+      "techniczna."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 101,
+    "text": "Na podstawie danych dotyczących wartości sprzedaży i liczby zatrudnionych w czterech hurtowniach ustal, która hurtownia osiągnęła najwyższą wydajność pracy.",
+    "answers": [
+      "BAG",
+      "ALA",
+      "SAT",
+      "RET"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela150.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 102,
+    "text": "Spółki komandytowe zalicza się do spółek",
+    "answers": [
+      "kapitałowych prawa handlowego.",
+      "osobowych prawa handlowego.",
+      "osobowych prawa cywilnego.",
+      "kapitałowych prawa cywilnego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 103,
+    "text": "Hurtownia sprzedaje towar w cenie brutto 2 592,00 zł, w tym podatek VAT 8%. Ile wynosi cena zakupu netto tego towaru, jeżeli marża hurtowa wynosi 20% ceny zakupu netto?",
+    "answers": [
+      "2 400,00 zł",
+      "1 920,00 zł",
+      "2 160,00 zł",
+      "2 000,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 104,
+    "text": "Strategia marketingowa polegająca na stosowaniu w krótkim okresie zawyżonych cen dla produktów innowacyjnych, wprowadzanych na rynek, to strategia",
+    "answers": [
+      "prewencyjnego kształtowania cen.",
+      "zbierania śmietanki.",
+      "ekspansywnego kształtowania cen.",
+      "penetracji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 105,
+    "text": "Jeżeli pracodawca rozwiązuje umowę o pracę zawartą na czas nieokreślony z pracownikiem, z którym nie zamierza nawiązać kolejnego stosunku pracy, ma obowiązek wydać świadectwo pracy",
+    "answers": [
+      "w ciągu 30 dni od dnia rozwiązania umowy o pracę.",
+      "na prośbę pracownika.",
+      "w dniu rozwiązania umowy o pracę.",
+      "po rozliczeniu się pracownika z pracodawcą."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 106,
+    "text": "W części B akt osobowych pracownika należy przechowywać",
+    "answers": [
+      "zaświadczenie o niekaralności wymagane do zatrudnienia.",
+      "świadectwo pracy z poprzedniego miejsca zatrudnienia.",
+      "orzeczenie lekarskie wydane w związku z przeprowadzonymi badaniami okresowymi po rozwiązaniu stosunku pracy.",
+      "dokumenty związane z podnoszeniem przez pracownika kwalifikacji zawodowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 107,
+    "text": "Która spółka nie podlega wpisowi do Krajowego Rejestru Sądowego?",
+    "answers": [
+      "Spółka partnerska.",
+      "Spółka cywilna.",
+      "Spółka jawna.",
+      "Spółka komandytowa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 108,
+    "text": "Osobie fizycznej, która rozpoczyna prowadzenie działalności gospodarczej, numer NIP nadaje",
+    "answers": [
+      "Prezes Głównego Urzędu Statystycznego.",
+      "Zakład Ubezpieczeń Społecznych.",
+      "Urząd Miasta i/lub Gminy.",
+      "Naczelnik Urzędu Skarbowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 109,
+    "text": "Na podstawie danych zamieszczonych w tabeli oblicz efektywny czas pracy maszyny produkcyjnej przy założeniu, że pracuje ona również w soboty, niedziele i święta.",
+    "answers": [
+      "2760 godzin",
+      "5840 godzin",
+      "2920 godzin",
+      "5520 godzin"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela149.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 110,
+    "text": "Który opis charakteryzuje negocjacje twarde?",
+    "answers": [
+      "Opis III",
+      "Opis I",
+      "Opis II",
+      "Opis IV"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_opisy2.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 111,
+    "text": "Wydając z magazynu towary na potrzeby własne przedsiębiorstwa, należy sporządzić dowód o symbolu",
+    "answers": [
+      "Pw",
+      "Wz",
+      "Zw",
+      "Rw"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 112,
+    "text": "Którą strategię promocji stosuje producent wyrobów powszechnego użytku, jeżeli informacja o produkcie i intensywna promocja kierowana jest kolejno do poszczególnych uczestników kanału dystrybucji zgodnie z zamieszczonym schematem?",
+    "answers": [
+      "Strategię push.",
+      "Strategię dywersyfikacji.",
+      "Strategię pull.",
+      "Strategię wizerunkową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_schemat2.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 113,
+    "text": "Hurtownia osiągnęła w II kwartale br. przychody ze sprzedaży towarów w wysokości 96 000,00 zł. Na podstawie danych zamieszczonych w tabeli ustal, ile razy w II kwartale br. odnawiano zapasy.",
+    "answers": [
+      "8 razy.",
+      "6 razy.",
+      "15 razy.",
+      "12 razy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela143.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 114,
+    "text": "Przeciętny stan zatrudnienia w hurtowni na koniec kwietnia wynosił 42 osoby. W kwietniu przyjęto 4 osoby i zwolniono 9 osób. Ile wyniósł współczynnik przyjęć?",
+    "answers": [
+      "9,52%",
+      "11,90%",
+      "21,43%",
+      "30,95%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 115,
+    "text": "Na podstawie danych z listy płac nr 5 oblicz kwotę do wypłaty dla pracownika.",
+    "answers": [
+      "2 347,89 zł",
+      "2 661,86 zł",
+      "2 361,78 zł",
+      "2 647,81 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_lista20.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 116,
+    "text": "Marek Szpak, który ukończył 4-letnie technikum ekonomiczne i przepracował jeden rok na podstawie umowy o pracę na pełny etat, uzyskał prawo do urlopu wypoczynkowego w wymiarze rocznym",
+    "answers": [
+      "26 dni.",
+      "20 dni.",
+      "12 dni.",
+      "18 dni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 117,
+    "text": "Jednolity Plik Kontrolny – JPK-V7M za marzec 2024 r. należy przesłać najpóźniej do",
+    "answers": [
+      "25 kwietnia 2024 r.",
+      "7 kwietnia 2024 r.",
+      "20 kwietnia 2024 r.",
+      "30 kwietnia 2024 r."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 118,
+    "text": "W analizie ekonomicznej pierwszym etapem prac analitycznych jest",
+    "answers": [
+      "opracowanie wniosków.",
+      "określenie problematyki, zakresu i celu badania.",
+      "przeprowadzenie badania szczegółowego.",
+      "ustalenie metodyki badania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 119,
+    "text": "Pracownik wynagradzany w systemie akordu progresywnego wykonał w bieżącym miesiącu 160 sztuk wyrobów gotowych zgodnie z normą jakościową. Korzystając z tabeli stawek akordowych, oblicz wynagrodzenie brutto pracownika.",
+    "answers": [
+      "7 200,00 zł",
+      "5 700,00 zł",
+      "4 700,00 zł",
+      "4 610,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela146.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 120,
+    "text": "Przedsiębiorca podpisał z osobą fizyczną, niebędącą jego pracownikiem, umowę o dzieło na kwotę 6 000,00 zł z zastosowaniem 50% kosztów uzyskania przychodu. Oblicz podatek dochodowy do przekazania na rachunek urzędu skarbowego.",
+    "answers": [
+      "570,00 zł",
+      "360,00 zł",
+      "1 080,00 zł",
+      "1 140,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 121,
+    "text": "Podczas negocjowania ceny uczestnicy negocjacji byli względem siebie przeciwnikami i stanowczo obstawali przy swoich stanowiskach. Jedna ze stron negocjacji zrealizowała własne cele kosztem interesów drugiej strony, posługując się groźbami i naciskiem. Jaki to styl prowadzenia negocjacji?",
+    "answers": [
+      "Dostosowanie się.",
+      "Izolacja.",
+      "Kompromis.",
+      "Dominacja."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 122,
+    "text": "Pracownik jest wynagradzany według stałej miesięcznej stawki w wysokości 3 800,00 zł. W styczniu br. otrzymał on dodatkowo premię motywacyjną w wysokości 950,00 zł. Ile wyniesie składka na ubezpieczenie rentowe finansowana przez pracownika od wynagrodzenia za styczeń?",
+    "answers": [
+      "308,75 zł",
+      "71,25 zł",
+      "57,00 zł",
+      "247,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 123,
+    "text": "Umowy zlecenia są zawierane na podstawie przepisów",
+    "answers": [
+      "Kodeksu postępowania administracyjnego.",
+      "Kodeksu pracy.",
+      "Kodeksu cywilnego.",
+      "Kodeksu spółek handlowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 124,
+    "text": "Na podstawie fragmentu Rachunku do umowy zlecenia nr 1 oblicz kwotę podatku dochodowego do wpłaty na rachunek bankowy Urzędu Skarbowego.",
+    "answers": [
+      "315,00 zł",
+      "14,76 zł",
+      "15,00 zł",
+      "314,76 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_rachunek13.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 125,
+    "text": "Zamieszczony formularz służy do sporządzania",
+    "answers": [
+      "miesięcznej ewidencji czasu pracy.",
+      "imiennej karty wynagrodzeń pracownika.",
+      "indywidualnej listy płac.",
+      "imiennej ewidencji zajęć komorniczych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_formularz2.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 126,
+    "text": "Przedsiębiorca otrzymał od kontrahenta zagranicznego fakturę za zakupione towary na kwotę 6000 euro. Zobowiązanie zostało spłacone z rachunku bankowego przedsiębiorcy, prowadzonego w PLN, po przeliczeniu według odpowiedniego kursu waluty. Na podstawie fragmentu tabeli kursów walut banku przedsiębiorcy oblicz wartość transakcji w walucie polskiej.",
+    "answers": [
+      "24 954,00 zł",
+      "1 442,65 zł",
+      "24 459,60 zł",
+      "1 471,81 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela138.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 127,
+    "text": "Pracodawca rozwiązuje z pracownikiem stosunek pracy zawarty na podstawie umowy o pracę na czas nieokreślony i nie zamierza nawiązać z nim kolejnego stosunku pracy. W tej sytuacji pracodawca powinien wydać pracownikowi świadectwo pracy",
+    "answers": [
+      "w dowolnym terminie uzgodnionym z pracownikiem.",
+      "niezwłocznie, w dniu rozwiązania stosunku pracy.",
+      "po uprzednim rozliczeniu się pracownika z pracodawcą.",
+      "po złożeniu pisemnego wniosku przez pracownika."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 128,
+    "text": "W której części biznesplanu można zamieścić analizę SWOT – opis silnych i słabych stron przedsiębiorstwa oraz szans i zagrożeń?",
+    "answers": [
+      "W planie finansowym.",
+      "W strukturze organizacyjnej.",
+      "W analizie strategicznej.",
+      "W planie organizacyjnym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 129,
+    "text": "Umowa przeniesienia własności nieruchomości powinna być zawarta w formie",
+    "answers": [
+      "zwykłej pisemnej.",
+      "aktu notarialnego.",
+      "pisemnej z urzędowym poświadczeniem podpisu.",
+      "pisemnej z urzędowym poświadczeniem daty."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 130,
+    "text": "Pracownik powołany na stanowisko kierownicze otrzymał dodatkowy składnik wynagrodzenia, który ma rekompensować szerszy zakres jego odpowiedzialności. Jaki dodatek przyznano pracownikowi?",
+    "answers": [
+      "Zmianowy.",
+      "Za wysługę lat.",
+      "Stażowy.",
+      "Funkcyjny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 131,
+    "text": "Na rysunku przedstawiono fragment formularza przeznaczonego do sporządzenia",
+    "answers": [
+      "PIT-16 Wniosek o zastosowanie opodatkowania w formie karty podatkowej.",
+      "PIT-11 Informacja o dochodach oraz o pobranych zaliczkach na podatek dochodowy.",
+      "PIT-28 Zeznanie o wysokości uzyskanego przychodu, wysokości dokonanych odliczeń i należnego ryczałtu od przychodów ewidencjonowanych.",
+      "PIT-36 Zeznanie o wysokości osiągniętego dochodu (poniesionej straty) w roku podatkowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_formularz.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 132,
+    "text": "Który z podmiotów podlega wpisowi do rejestru przedsiębiorców w Centralnej Ewidencji i Informacji o Działalności Gospodarczej?",
+    "answers": [
+      "Hurtownia PROFIL Marek Skrzypek.",
+      "Hurtownia ART-CAR S.A.",
+      "JEDYNKA sp. z o.o.",
+      "MASTER Ignaszak spółka jawna."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 133,
+    "text": "Jan Kowalski prowadzi jednoosobową działalność gospodarczą i rozlicza się z podatku dochodowego na zasadach ogólnych w okresach miesięcznych. Do kiedy najpóźniej przedsiębiorca ma obowiązek wpłacać miesięczną zaliczkę na podatek dochodowy na rachunek bankowy urzędu skarbowego?",
+    "answers": [
+      "Do 25 dnia następnego miesiąca za miesiąc poprzedni.",
+      "Do 20 dnia następnego miesiąca za miesiąc poprzedni.",
+      "Do 10 dnia każdego miesiąca za miesiąc poprzedni.",
+      "Do 7 dnia każdego miesiąca za miesiąc poprzedni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 134,
+    "text": "Na podstawie danych zawartych w tabeli oblicz wartość przeciętnego zapasu towaru Y metodą średniej arytmetycznej.",
+    "answers": [
+      "24 000,00 zł",
+      "75 000,00 zł",
+      "25 000,00 zł",
+      "30 000,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela139.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 135,
+    "text": "Na podstawie danych zawartych w tabeli wskaż, w którym miesiącu plan produkcji wykonano w 120%.",
+    "answers": [
+      "W marcu.",
+      "W lutym.",
+      "W styczniu.",
+      "W kwietniu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela142.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 136,
+    "text": "Jan Nowak ma 30 lat i jest zatrudniony na podstawie umowy o pracę. Od 1.10.br do 5.11.br. przebywał na pierwszym w bieżącym roku zwolnieniu lekarskim z tytułu niezdolności do pracy spowodowanej chorobą. Od którego dnia niezdolności do pracy pracownik otrzyma zasiłek chorobowy finansowany ze środków ZUS?",
+    "answers": [
+      "Od 36 dnia niezdolności do pracy.",
+      "Od 34 dnia niezdolności do pracy.",
+      "Od 10 dnia niezdolności do pracy.",
+      "Od 15 dnia niezdolności do pracy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 137,
+    "text": "Cementownia zużywa 3 kg gliny na wyprodukowanie jednej cegły. Zapas gliny na początek miesiąca wynosi 5 000 kg, a planowany zapas końcowy wynosi 10 000 kg. Ile kilogramów gliny należy zakupić, jeżeli w ciągu miesiąca planuje się wytworzyć 10 000 sztuk cegieł?",
+    "answers": [
+      "10 000 kg",
+      "35 000 kg",
+      "45 000 kg",
+      "40 000 kg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 138,
+    "text": "Osoba fizyczna, prowadząca działalność gospodarczą opodatkowaną na zasadach ogólnych z zastosowaniem stawki podatku liniowego – 19%, sporządza roczne zeznanie podatkowe na formularzu",
+    "answers": [
+      "PIT-36",
+      "PIT-16A",
+      "PIT-37",
+      "PIT-36L"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 139,
+    "text": "Zbiór długofalowych celów i kierunków działania przedsiębiorstwa jest zawarty w planie",
+    "answers": [
+      "strategicznym.",
+      "taktycznym.",
+      "krótkoterminowym.",
+      "średnioterminowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 140,
+    "text": "Jeżeli wskaźnik wykorzystania zdolności produkcyjnej wyniósł 94%, oznacza to, że",
+    "answers": [
+      "jednostka posiada rezerwy produkcyjne na poziomie 6%.",
+      "jednostka posiada rezerwy produkcyjne na poziomie 94%.",
+      "produkcja planowana była niższa od produkcji wykonanej o 6%.",
+      "produkcja planowana stanowiła 94% produkcji wykonanej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 141,
+    "text": "Pracownik jest wynagradzany według systemu czasowego z premią. Stawka godzinowa wynikająca z jego osobistego zaszeregowania wynosi 20,00 zł, a premia regulaminowa 16%. Oblicz wynagrodzenie brutto pracownika za kwiecień, jeżeli przepracował on 160 godzin zgodnie z wymiarem czasu pracy.",
+    "answers": [
+      "2 688,00 zł",
+      "3 200,00 zł",
+      "512,00 zł",
+      "3 712,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 142,
+    "text": "Który dokument należy sporządzić, przyjmując do magazynu zakupione u dostawcy towary?",
+    "answers": [
+      "Pw",
+      "Zw",
+      "Pz",
+      "Wz"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 143,
+    "text": "W części B akt osobowych pracownika umieszcza się między innymi",
+    "answers": [
+      "umowę o pracę zawartą z pracownikiem.",
+      "świadectwo pracy wystawione przez poprzedniego pracodawcę.",
+      "oświadczenie o wypowiedzeniu umowy o pracę.",
+      "kopię wydanego pracownikowi świadectwa pracy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 144,
+    "text": "Osoba fizyczna, która prowadzi działalność gospodarczą i zatrudnia pracowników na podstawie umów o pracę, ma obowiązek przesłać do ZUS dokumenty rozliczeniowe i opłacić składki za kwiecień br. najpóźniej",
+    "answers": [
+      "20 maja br.",
+      "6 maja br.",
+      "10 maja br.",
+      "15 maja br."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_kalendarz4.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 145,
+    "text": "Na podstawie danych przedstawionych w tabeli wskaż przedsiębiorstwo, które osiągnęło najwyższą wydajność pracy.",
+    "answers": [
+      "DEKOR",
+      "BIOART",
+      "CZAK",
+      "AURORA"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela141.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 146,
+    "text": "Właściciel sklepu zakupił w hurtowni płaszcze po cenie netto 350,00 zł/szt. Marża detaliczna wynosi 20% ceny zakupu netto, a stawka podatku VAT 23%. Oblicz cenę detaliczną brutto płaszcza.",
+    "answers": [
+      "538,13 zł/szt.",
+      "420,00 zł/szt.",
+      "437,50 zł/szt.",
+      "516,60 zł/szt."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 147,
+    "text": "Jan Kowalski od stycznia do lutego poprzedniego roku podatkowego nigdzie nie pracował i nie osiągał żadnych dochodów. Przez pozostałe 10 miesięcy poprzedniego roku podatkowego był zatrudniony na podstawie umowy o pracę u jednego pracodawcy, którego siedziba znajduje się w jego miejscu zamieszkania. Którą kwotę kosztów uzyskania przychodów powinien wykazać pracodawca w PIT-11 dla Jana Kowalskiego za poprzedni rok podatkowy?",
+    "answers": [
+      "2 500,00 zł",
+      "4 500,00 zł",
+      "3 750,00 zł",
+      "3 000,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_ustawa2.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 148,
+    "text": "Przedsiębiorstwo, które wprowadza nowy lub zmodernizowany produkt na dotychczasowy rynek, stosuje strategię",
+    "answers": [
+      "penetracji rynku.",
+      "rozwoju rynku.",
+      "rozwoju produktu.",
+      "dywersyfikacji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 149,
+    "text": "Jeżeli slogan reklamowy zastosowany w reklamie produktu zwróci uwagę klienta, wzbudzi jego zainteresowanie, wywoła pragnienie posiadania i zmotywuje go do zakupu, to znaczy, że spełnia funkcje zgodne z etapami oddziaływania reklamy w modelu",
+    "answers": [
+      "HOSSA",
+      "AIDA",
+      "BATNA",
+      "BESSA"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 150,
+    "text": "Która zasada planowania polega na dążeniu do osiągnięcia najlepszych w danych warunkach wyników działalności przy określonych nakładach poniesionych w celu ich osiągnięcia?",
+    "answers": [
+      "Zasada realności planu.",
+      "Zasada elastyczności.",
+      "Zasada gospodarności.",
+      "Zasada koncentracji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 151,
+    "text": "Pracodawca jest zobowiązany przekazać pracownikom PIT-11 Informację o dochodach oraz o pobranych zaliczkach na podatek dochodowy w formie papierowej lub elektronicznej w terminie do",
+    "answers": [
+      "końca lutego roku następującego po roku podatkowym.",
+      "końca marca roku następującego po roku podatkowym.",
+      "30 kwietnia.",
+      "25 dnia każdego miesiąca."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 152,
+    "text": "W pierwszym kwartale br. przedsiębiorstwo utrzymywało przeciętny zapas towarów na poziomie 50 000,00 zł i osiągnęło przychód ze sprzedaży towarów w wysokości 450 000,00 zł. Ile razy nastąpił obrót zapasami w I kwartale br.?",
+    "answers": [
+      "3 razy",
+      "9 razy",
+      "10 razy",
+      "30 razy"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 153,
+    "text": "Zamieszczony dokument to",
+    "answers": [
+      "zamówienie.",
+      "pismo przewodnie.",
+      "oferta handlowa.",
+      "zapytanie o ofertę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_dokument9.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 154,
+    "text": "Pracownik jest zatrudniony w Hurtowni OWOC sp. z o.o. na podstawie umowy o pracę na czas nieokreślony. W dniu 25 lipca br. pracownik złożył pracodawcy wypowiedzenie umowy o pracę. W którym dniu nastąpi rozwiązanie umowy o pracę, jeżeli staż pracy pracownika w tej hurtowni wynosi cztery miesiące?",
+    "answers": [
+      "8 sierpnia br.",
+      "31 sierpnia br.",
+      "12 sierpnia br.",
+      "9 sierpnia br."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_kodeks10.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 155,
+    "text": "Marża hurtowa ustalona dla towaru X wynosi 1 950,00 zł, co stanowi 30% ceny hurtowej netto tego towaru. Oblicz cenę hurtową netto towaru X.",
+    "answers": [
+      "4 550,00 zł",
+      "2 535,00 zł",
+      "6 500,00 zł",
+      "8 450,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 156,
+    "text": "Dodatnie różnice kursowe wynikające z dokonanych transakcji kupna-sprzedaży powinny zostać zaewidencjonowane w podatkowej księdze przychodów i rozchodów w kolumnie",
+    "answers": [
+      "Koszty uboczne zakupu.",
+      "Pozostałe przychody.",
+      "Wartość sprzedanych towarów i usług.",
+      "Pozostałe wydatki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 157,
+    "text": "Grzegorz Rak od 2020 r. prowadzi w Gdańsku jednoosobową działalność gospodarczą w zakresie świadczenia usług fryzjerskich dla mężczyzn i chłopców. Zatrudnia jednego pracownika. Do rozliczania się z podatku dochodowego wybrał kartę podatkową. Na podstawie fragmentu tabeli stawek podatku dochodowego w formie karty podatkowej, wskaż kwotę, która będzie określona w decyzji naczelnika urzędu skarbowego o wymiarze podatku.",
+    "answers": [
+      "389,00 zł",
+      "152,00 zł",
+      "439,00 zł",
+      "179,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela140.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 158,
+    "text": "Do kompetencji zarządu spółki z ograniczoną odpowiedzialnością należy",
+    "answers": [
+      "udzielanie absolutorium członkom organów spółki.",
+      "prowadzenie spraw spółki i reprezentowanie jej na zewnątrz.",
+      "badanie sprawozdań finansowych spółki.",
+      "sprawowanie stałego nadzoru nad działalnością spółki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 159,
+    "text": "Na podstawie fragmentu listy płac nr 5 oblicz podstawę naliczenia podatku dochodowego.",
+    "answers": [
+      "3 400,00 zł",
+      "3 100,00 zł",
+      "2 934,00 zł",
+      "2 634,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_lista19.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 160,
+    "text": "Hurtownia zakupiła towar po cenie brutto 1 033,20 zł (w tym podatek VAT 23%), a sprzedaje go po cenie netto 1092,00 zł. Marża hurtowa liczona od ceny zakupu netto wynosi",
+    "answers": [
+      "23%",
+      "30%",
+      "25%",
+      "53%"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 161,
+    "text": "Udzielenie, przeniesienie lub odwołanie prokury jest regulowane przez przepisy",
+    "answers": [
+      "Ustawy prawo przedsiębiorców.",
+      "Kodeksu spółek handlowych.",
+      "Kodeksu cywilnego.",
+      "Ustawy o ochronie danych osobowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 162,
+    "text": "Do zadań Rady Polityki Pieniężnej nie należy",
+    "answers": [
+      "ustalanie zasad operacji otwartego rynku.",
+      "kontrolowanie realizacji budżetu państwa.",
+      "ustalanie wysokości stóp procentowych NBP.",
+      "przyjmowanie rocznego sprawozdania finansowego NBP."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 163,
+    "text": "Notę korygującą do faktury zakupu nabywca może wystawić w przypadku",
+    "answers": [
+      "dokonanego zwrotu towarów.",
+      "wpisanego błędnie numeru NIP odbiorcy.",
+      "stwierdzonej pomyłki w cenie.",
+      "udzielonego przez sprzedawcę rabatu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 164,
+    "text": "Instruktaż stanowiskowy należy przeprowadzić",
+    "answers": [
+      "przed dopuszczeniem pracownika do wykonywania pracy na określonym stanowisku.",
+      "przed przyjęciem pracownika do pracy.",
+      "w ciągu 7 dni od daty złożenia wniosku o przeprowadzenie instruktażu.",
+      "w ciągu 3 dni od rozpoczęcia pracy przez pracownika na określonym stanowisku."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 165,
+    "text": "Pracownik zatrudniony w systemie akordowym w grudniu przepracował obowiązujące go normy czasu pracy i wykonał 360 sztuk elementów. Ustalona norma czasu wynosi 0,5 godz./szt., a stawka godzinowa 24,00 zł/godz. Ile wyniosło wynagrodzenie pracownika za grudzień, jeśli tylko 340 sztuk elementów wykonanych przez pracownika spełniało normę jakościową?",
+    "answers": [
+      "4 032,00 zł",
+      "8 160,00 zł",
+      "4 080,00 zł",
+      "4 320,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 166,
+    "text": "Wykonywanie przez przedsiębiorców działalności gospodarczej w zakresie ochrony osób i mienia wymaga uzyskania",
+    "answers": [
+      "zgody.",
+      "licencji.",
+      "koncesji.",
+      "pozwolenia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 167,
+    "text": "Do obowiązkowych ubezpieczeń społecznych finansowanych przez pracodawcę należą składki:",
+    "answers": [
+      "emerytalne – 9,76%, chorobowe – 2,45% i zdrowotne.",
+      "emerytalne – 9,76%, rentowe – 1,5% i zdrowotne.",
+      "emerytalne – 9,76%, rentowe – 8% i chorobowe.",
+      "emerytalne – 9,76%, rentowe – 6,5% i wypadkowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 168,
+    "text": "Prawo do korzystania przez pracownika z bezpłatnej opieki lekarskiej wynika z opłacania przez niego składki na ubezpieczenie",
+    "answers": [
+      "chorobowe.",
+      "zdrowotne.",
+      "emerytalne.",
+      "rentowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 169,
+    "text": "Zgodnie z obowiązującym u pracodawcy regulaminem wynagradzania pracownik otrzymuje stałe miesięczne wynagrodzenie, na które składa się: − płaca zasadnicza – 4 000,00 zł, − dodatek funkcyjny – 700,00 zł, − premia motywacyjna – 5% wynagrodzenia zasadniczego. Oblicz miesięczne wynagrodzenie brutto pracownika.",
+    "answers": [
+      "4 350,00 zł",
+      "4 700,00 zł",
+      "4 935,00 zł",
+      "4 900,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 170,
+    "text": "Podatkiem pośrednim jest podatek",
+    "answers": [
+      "od towarów i usług.",
+      "od nieruchomości.",
+      "od spadków i darowizn.",
+      "od czynności cywilnoprawnych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 171,
+    "text": "Na podstawie danych przedstawionych w tabeli wynika, że w badanym przedsiębiorstwie przeciętne wynagrodzenie brutto w roku 2022 w stosunku do roku poprzedniego",
+    "answers": [
+      "zmniejszyło się o 10%.",
+      "zmniejszyło się o 15%.",
+      "wzrosło o 10%.",
+      "wzrosło o 15%."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_tabela22.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 172,
+    "text": "Przedsiębiorca w dniu 7 grudnia 2022 r. otrzymał decyzję administracyjną z pouczeniem o możliwości odwołania się od niej w terminie 14 dni od dnia doręczenia decyzji. Ostatnim dniem złożenia odwołania przez przedsiębiorcę był",
+    "answers": [
+      "22 grudnia 2022 r.",
+      "19 grudnia 2022 r.",
+      "20 grudnia 2022 r.",
+      "21 grudnia 2022 r."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_kalendarz2.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 173,
+    "text": "W zakładzie produkcyjnym 39 pracowników w ciągu 8 godzin pracy wytworzyło 1 755 sztuk wyrobów gotowych. Z informacji tych wynika, że",
+    "answers": [
+      "dzienna wydajność pracy wyniosła 45 sztuk wyrobów gotowych na jednego pracownika.",
+      "efektywność produkcji wyniosła 68 445 sztuk wyrobów gotowych na dzień.",
+      "wskaźnik pracochłonności produkcji wyniósł 312 godzin.",
+      "czas potrzebny na wykonanie 1 sztuki wyrobu gotowego wyniósł około 5 minut."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 174,
+    "text": "Do umów jednostronnie zobowiązujących zalicza się umowę",
+    "answers": [
+      "najmu.",
+      "zlecenia.",
+      "darowizny.",
+      "sprzedaży."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 175,
+    "text": "Przepisy Kodeksu pracy wskazują, że za pracę w godzinach nadliczbowych przypadających w niedzielę i święta niebędące dla pracownika dniami pracy, zgodnie z obowiązującym go rozkładem czasu pracy, pracownikowi przysługuje, oprócz normalnego wynagrodzenia, dodatek w wysokości",
+    "answers": [
+      "80% wynagrodzenia.",
+      "70% wynagrodzenia.",
+      "50% wynagrodzenia.",
+      "100% wynagrodzenia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 176,
+    "text": "Przemieszczenie materiałów pomiędzy własnymi magazynami potwierdza dokument magazynowy o symbolu",
+    "answers": [
+      "Mm",
+      "Pz",
+      "Rw",
+      "Wz"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 177,
+    "text": "Koszt wytworzenia 24 000 sztuk wyrobów gotowych wynosi 72 000,00 zł. Ile wyniesie cena sprzedaży netto za jednostkę wyrobu, jeżeli na sprzedaży wyrobów przedsiębiorstwo realizuje zysk w wysokości 40% jednostkowego kosztu wytworzenia?",
+    "answers": [
+      "3,00 zł/szt.",
+      "1,20 zł/szt.",
+      "5,00 zł/szt.",
+      "4,20 zł/szt."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 178,
+    "text": "Kodeks spółek handlowych reguluje działalność",
+    "answers": [
+      "stowarzyszenia.",
+      "osoby fizycznej prowadzącej działalność gospodarczą.",
+      "spółki cywilnej.",
+      "spółki z ograniczoną odpowiedzialnością."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 179,
+    "text": "Pracodawca otrzymał tytuł wykonawczy dotyczący zobowiązań alimentacyjnych pracownika. Jaka maksymalna kwota wynagrodzenia zostanie potrącona, jeżeli wynagrodzenie netto pracownika za grudzień, będące podstawą obliczeń potrąceń, wyniosło 4 200,00 zł?",
+    "answers": [
+      "2 520,00 zł",
+      "2 100,00 zł",
+      "3 150,00 zł",
+      "7 000,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_ramka6.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 180,
+    "text": "Hurtownia zakupiła w październiku 2022 r. i przyjęła do magazynu paprykę na podstawie dowodów Pz – przyjęcie zewnętrzne zgodnie z zamieszczonym fragmentem kartoteki magazynowej. Ile wynosi średnia cena jednego kilograma papryki przyjętej do magazynu w październiku 2022 r. obliczona metodą średniej ważonej?",
+    "answers": [
+      "14,40 zł",
+      "14,80 zł",
+      "14,20 zł",
+      "14,50 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_kartoteka2.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 181,
+    "text": "Strategia zbierania śmietanki to jedna ze strategii",
+    "answers": [
+      "promocji.",
+      "cenowych.",
+      "dystrybucji.",
+      "produktu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 182,
+    "text": "Dostawca luksusowego towaru, który preferuje tylko jeden wybrany punkt sprzedaży na danym obszarze, zastosował dystrybucję",
+    "answers": [
+      "selektywną.",
+      "intensywną.",
+      "wyłączną.",
+      "wybiórczą."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 183,
+    "text": "Zapas, który gromadzony jest w celu osiągnięcia zysku wynikającego ze zmiany cen, to zapas",
+    "answers": [
+      "bieżący.",
+      "cykliczny.",
+      "spekulacyjny.",
+      "minimalny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 184,
+    "text": "Na podstawie zestawienia ustal liczbę dni urlopu do przeniesienia na rok 2023 Adama Nowickiego.",
+    "answers": [
+      "24 dni.",
+      "2 dni.",
+      "3 dni.",
+      "21 dni."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_tabela21.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 185,
+    "text": "Wypowiedzenie umowy o pracę przez pracodawcę jest uzasadnione, jeżeli pracownik",
+    "answers": [
+      "jest osobą niepełnosprawną.",
+      "odmówił udziału w szkoleniu BHP.",
+      "odmówił wstąpienia do związków zawodowych.",
+      "jest innego wyznania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 186,
+    "text": "W części C akt osobowych pracownika znajdują się dokumenty",
+    "answers": [
+      "dotyczące przebiegu zatrudnienia.",
+      "związane z ubieganiem się o zatrudnienie.",
+      "związane z ustaniem zatrudnienia.",
+      "dotyczące nawiązania stosunku pracy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 187,
+    "text": "W podatkowej księdze przychodów i rozchodów w kolumnie 8 – Pozostałe przychody ewidencjonuje się",
+    "answers": [
+      "otrzymane odsetki od środków pieniężnych na rachunku bankowym.",
+      "kwotę dziennego przychodu ze sprzedaży towarów.",
+      "wartość zakupionych materiałów pomocniczych.",
+      "wartość netto z faktury zakupu za energię elektryczną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 188,
+    "text": "Pierwszym etapem analizy ekonomicznej jest",
+    "answers": [
+      "postawienie wstępnej diagnozy.",
+      "ustalenie działań naprawczych.",
+      "wybór kryterium oceny.",
+      "zdefiniowanie przedmiotu badawczego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 189,
+    "text": "Rejestrowaniem osób bezrobotnych i poszukujących pracy zajmuje się",
+    "answers": [
+      "Wojewódzki Urząd Pracy.",
+      "Powiatowy Urząd Pracy.",
+      "Wojewódzka Rada Zatrudnienia.",
+      "Powiatowa Rada Zatrudnienia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 190,
+    "text": "Pracodawca może rozwiązać umowę o pracę bez wypowiedzenia z pracownikiem, który",
+    "answers": [
+      "korzystał w ciągu jednego miesiąca trzykrotnie ze zwolnień lekarskich.",
+      "wykorzystał w ciągu jednego tygodnia 4 dni urlopu na żądanie zgłoszone najpóźniej w dniu rozpoczęcia urlopu.",
+      "jest zatrudniony na stanowisku kierowcy i utracił prawo jazdy ze swojej winy.",
+      "został skazany nieprawomocnym wyrokiem sądu za nieoczywiste przestępstwo umyślne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 191,
+    "text": "Przedsiębiorstwo w 2022 roku zatrudniało 65 pracowników. W 2023 roku planuje produkcję 36 000 sztuk wyrobów oraz roczny wskaźnik wydajności pracy wynoszący 500 sztuk na jednego pracownika. Ilu nowych pracowników powinno zatrudnić przedsiębiorstwo?",
+    "answers": [
+      "6 pracowników.",
+      "7 pracowników.",
+      "5 pracowników.",
+      "8 pracowników."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 192,
+    "text": "Klient kupił towar z 5% rabatem, płacąc za niego 855,00 zł. Cena towaru przed udzieleniem rabatu wynosiła",
+    "answers": [
+      "940,50 zł",
+      "900,00 zł",
+      "769,50 zł",
+      "812,25 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 193,
+    "text": "Średni stan zatrudnienia w przedsiębiorstwie w IV kwartale ubiegłego roku wynosił 300 pracowników. W badanym okresie przyjęto do pracy 6 pracowników, a z 9 pracownikami rozwiązano stosunek pracy. Wskaźnik zwolnień w badanym okresie wyniósł",
+    "answers": [
+      "2,00%",
+      "1,00%",
+      "5,00%",
+      "3,00%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 194,
+    "text": "W grudniu pracownik przepracował 168 godzin zgodnie z obowiązującym go wymiarem czasu pracy przy stawce 28,00 zł/godz. oraz 10 godzin nadliczbowych w niedzielę z dodatkiem w wysokości 100% wynagrodzenia. Ile wyniesie wynagrodzenie brutto pracownika za grudzień?",
+    "answers": [
+      "4 844,00 zł",
+      "4 984,00 zł",
+      "5 264,00 zł",
+      "4 704,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 195,
+    "text": "Na wynagrodzenie brutto pracownika składa się płaca zasadnicza w kwocie 4 000,00 zł oraz prowizja w wysokości 2% przychodów ze sprzedaży. Oblicz, o ile wzrosło wynagrodzenie brutto pracownika w grudniu w stosunku do listopada, jeżeli osiągnięty przychód ze sprzedaży w listopadzie wyniósł 80 000,00 zł, a w grudniu 100 000,00 zł.",
+    "answers": [
+      "1 600,00 zł",
+      "2 000,00 zł",
+      "400,00 zł",
+      "40,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 196,
+    "text": "Który plan opracowuje się na okres krótszy niż jeden rok?",
+    "answers": [
+      "Średniookresowy.",
+      "Długookresowy.",
+      "Taktyczny.",
+      "Operacyjny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 197,
+    "text": "Przedsiębiorstwo zawarło umowę o dzieło z 40-letnim wykonawcą, z którym nie pozostaje w stosunku pracy. Jaka będzie kwota podstawy opodatkowania podatkiem dochodowym od osób fizycznych z tytułu umowy o dzieło, jeżeli wynagrodzenie brutto wynosi 5 000 zł, a koszty uzyskania przychodu 50%?",
+    "answers": [
+      "2 500,00 zł",
+      "5 000,00 zł",
+      "300,00 zł",
+      "7 500,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 198,
+    "text": "Z fragmentu listy płac wynika, że podstawa wymiaru składek na ubezpieczenie zdrowotne wynosi",
+    "answers": [
+      "4 314,50 zł",
+      "5 000,00 zł",
+      "4 750,00 zł",
+      "4 065,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_lista18.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 199,
+    "text": "Strategia marketingowa nastawiona na przetrwanie przedsiębiorstwa, polegająca między innymi na stopniowym wycofywaniu się z rynku, zmniejszeniu zdolności produkcyjnych, szukaniu szans na innych rynkach produktowych, to strategia",
+    "answers": [
+      "konserwatywna.",
+      "agresywna.",
+      "konkurencyjna.",
+      "defensywna."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 200,
+    "text": "Cena brutto za usługę wynosi 2 160,00 zł. Ile wynosi kwota podatku VAT, jeżeli usługa jest opodatkowana stawką VAT 8%?",
+    "answers": [
+      "1 987,20 zł",
+      "2 000,00 zł",
+      "160,00 zł",
+      "172,80 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 201,
+    "text": "Na podstawie zamieszczonego fragmentu listy płac nr 1/05/2022 ustal podstawę wymiaru składek na ubezpieczenia społeczne.",
+    "answers": [
+      "4 500,00 zł",
+      "5 000,00 zł",
+      "3 600,00 zł",
+      "4 000,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_lista17.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 202,
+    "text": "Na podstawie danych zamieszczonych w tabeli oblicz dla pracownika wynagrodzenie za pracę w godzinach nadliczbowych wraz z należnym dodatkiem.",
+    "answers": [
+      "180,00 zł",
+      "175,62 zł",
+      "234,16 zł",
+      "240,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela132.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 203,
+    "text": "Do produkcji 1 litra dżemu wiśniowego zużywa się, zgodnie z normą, 0,8 kg wiśni i 0,4 kg cukru. Ile kilogramów wiśni i cukru potrzeba do wyprodukowania 600 litrów dżemu wiśniowego?",
+    "answers": [
+      "480 kg wiśni i 120 kg cukru.",
+      "720 kg wiśni i 720 kg cukru.",
+      "750 kg wiśni i 1 500 kg cukru.",
+      "480 kg wiśni i 240 kg cukru."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 204,
+    "text": "W celu ustalenia przeciętnej liczby dni potrzebnych przedsiębiorstwu na odnowienie zapasu materiałów w magazynie, należy obliczyć wskaźnik",
+    "answers": [
+      "kompletności dostaw.",
+      "terminowości dostaw.",
+      "rotacji zapasów w dniach.",
+      "rotacji zapasów w razach."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 205,
+    "text": "Zadaniem banku komercyjnego jest między innymi",
+    "answers": [
+      "świadczenie usług finansowych dla jednostek gospodarczych.",
+      "prowadzenie gospodarki rezerwami dewizowymi.",
+      "regulowanie podaży pieniądza w obiegu.",
+      "prowadzenie rachunków bankowych rządu i centralnych instytucji państwowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 206,
+    "text": "Wartość zapasów w magazynach przedsiębiorstwa wynosi 24 000,00 zł. Na podstawie danych przedstawionych w tabeli oblicz wartość produktów gotowych.",
+    "answers": [
+      "9 600,00 zł",
+      "3 600,00 zł",
+      "6 000,00 zł",
+      "4 800,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela135.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 207,
+    "text": "Farba używana do barwienia tkanin w przedsiębiorstwie produkującym kolorowe tkaniny jest zaliczana do",
+    "answers": [
+      "wyrobów gotowych.",
+      "półproduktów.",
+      "towarów.",
+      "materiałów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 208,
+    "text": "Miesięczny plan zaopatrzenia materiałowego dla działu produkcji to plan",
+    "answers": [
+      "zmianowy.",
+      "strategiczny.",
+      "taktyczny.",
+      "operacyjny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 209,
+    "text": "Zatrudniony pracownik otrzymuje wynagrodzenie w systemie czasowo-premiowym, w maju przepracował 168 godzin zgodnie z obowiązującym go wymiarem czasu pracy. Na podstawie danych zapisanych w tabeli oblicz wynagrodzenie brutto pracownika.",
+    "answers": [
+      "5 250,00 zł",
+      "4 200,00 zł",
+      "3 570,00 zł",
+      "4 830,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela133.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 210,
+    "text": "Pismo, które wierzyciel kieruje do dłużnika w celu przypomnienia o nieuregulowanej należności w ustalonym terminie to",
+    "answers": [
+      "prośba o przedłużenie terminu płatności.",
+      "wezwanie do zapłaty.",
+      "nota odsetkowa.",
+      "oświadczenie dłużnika o poddaniu się egzekucji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 211,
+    "text": "Zarząd, Rada Nadzorcza i Walne Zgromadzenie to organy spółki",
+    "answers": [
+      "cywilnej.",
+      "akcyjnej.",
+      "partnerskiej.",
+      "jawnej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 212,
+    "text": "Który dodatek do wynagrodzenia jest dobrowolnie przyznawany przez pracodawcę pracownikowi na podstawie przepisów wewnątrzzakładowych?",
+    "answers": [
+      "Dodatek za znajomość języków obcych.",
+      "Dodatek za pracę w godzinach nadliczbowych.",
+      "Dodatek wyrównawczy.",
+      "Dodatek za pracę w porze nocnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 213,
+    "text": "Oblicz dzienną wydajność pracy jednego pracownika obsługującego kasę fiskalną w jednostce handlowej, jeśli dzienny utarg zrealizowany na 4 kasach fiskalnych w ciągu 2 zmian wyniósł 120 000,00 zł?",
+    "answers": [
+      "15 000,00 zł",
+      "30 000,00 zł",
+      "60 000,00 zł",
+      "20 000,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 214,
+    "text": "Zgodnie z Kodeksem pracy tygodniowy czas pracy łącznie z godzinami nadliczbowymi nie może przekraczać, w przyjętym okresie rozliczeniowym, przeciętnie",
+    "answers": [
+      "40 godzin.",
+      "150 godzin.",
+      "8 godzin.",
+      "48 godzin."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 215,
+    "text": "Które postępowanie przedsiębiorcy należy uznać za etyczne?",
+    "answers": [
+      "Celowe hamowanie rozwoju przedsiębiorstwa.",
+      "Informowanie inwestorów o problemach przedsiębiorstwa.",
+      "Ukrywanie realnych dochodów.",
+      "Niedotrzymywanie terminów spłaty zobowiązań."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 216,
+    "text": "Które zestawienie zawiera podatki zasilające tylko budżet państwa?",
+    "answers": [
+      "Zestawienie 1.",
+      "Zestawienie 2.",
+      "Zestawienie 4.",
+      "Zestawienie 3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela130.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 217,
+    "text": "Komandytariusz odpowiada za zobowiązania spółki wobec jej wierzycieli do wysokości",
+    "answers": [
+      "kwoty zobowiązania.",
+      "swojego majątku.",
+      "sumy komandytowej.",
+      "posiadanych akcji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 218,
+    "text": "Pracownik, który jest wynagradzany w systemie akordu progresywnego, przepracował w miesiącu godziny zgodnie z obowiązującym go wymiarem czasu pracy i wykonał 3 800 sztuk wyrobów spełniających normę jakościową. Na podstawie danych zamieszczonych w tabeli oblicz miesięczne wynagrodzenie brutto pracownika.",
+    "answers": [
+      "3 310,00 zł",
+      "3 610,00 zł",
+      "3 230,00 zł",
+      "3 530,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela131.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 219,
+    "text": "Na podstawie danych przedstawionych w tabeli ustal kwotę podatku VAT do rozliczenia z urzędem skarbowym za maj 2022 r.",
+    "answers": [
+      "2 350,00 zł – kwota podatku podlegającego wpłacie do urzędu skarbowego.",
+      "2 350,00 zł – kwota należna od urzędu skarbowego.",
+      "4 550,00 zł – kwota podatku podlegającego wpłacie do urzędu skarbowego.",
+      "4 550,00 zł – kwota należna od urzędu skarbowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela129.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 220,
+    "text": "Na podstawie fragmentu rachunku do umowy o dzieło nr 31/2022 ustal kwotę do wypłaty.",
+    "answers": [
+      "2 745,00 zł",
+      "2 490,00 zł",
+      "1 500,00 zł",
+      "1 245,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_rachunek12.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 221,
+    "text": "Na podstawie danych zamieszczonych w tabeli wskaż przedsiębiorstwo o najwyższym udziale majątku trwałego w aktywach ogółem.",
+    "answers": [
+      "COSINUS",
+      "COTANGENS",
+      "SINUS",
+      "TANGENS"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela134.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 222,
+    "text": "Które zasoby majątkowe przedsiębiorstwa należy utrzymywać w magazynie, aby zapewnić ciągłość produkcji i sprzedaży produktów?",
+    "answers": [
+      "Środki pieniężne.",
+      "Zapasy.",
+      "Środki trwałe.",
+      "Należności."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 223,
+    "text": "Którego elementu brakuje w zamieszczonej umowie o pracę, aby spełniała wymogi formalne określone w Kodeksie pracy?",
+    "answers": [
+      "Wymiaru czasu pracy.",
+      "Wymiaru urlopu wypoczynkowego.",
+      "Okresu wypowiedzenia umowy.",
+      "Harmonogramu czasu pracy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_umowa12.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 224,
+    "text": "Uczeń technikum (lat 18) zatrudniony na umowę zlecenia otrzymuje wynagrodzenie w wysokości 2 000,00 zł. Ile wyniesie potrącona od jego wynagrodzenia zaliczka na podatek dochodowy od osób fizycznych?",
+    "answers": [
+      "0,00 zł",
+      "272,00 zł",
+      "298,00 zł",
+      "340,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 225,
+    "text": "Przedsiębiorca prowadzący działalność gospodarczą w Gdańsku posiada lokal handlowy o powierzchni 1 000 m2 oraz grunt o powierzchni 200 m2. Jaką kwotę powinien wpłacić przedsiębiorca na rachunek Urzędu Miasta z tytułu podatku od nieruchomości?",
+    "answers": [
+      "6 178,00 zł",
+      "5 688,00 zł",
+      "25 946,00 zł",
+      "30 880,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela128.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 226,
+    "text": "Ile wynosi norma zużycia materiału, jeżeli przedsiębiorstwo produkcyjne w ciągu roku zużyło 150 000 kg materiału i wykonało 6 000 szt. wyrobów gotowych?",
+    "answers": [
+      "30 kg/szt.",
+      "0,04 szt./kg",
+      "25 szt./kg",
+      "25 kg/szt."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 227,
+    "text": "Na podstawie przedstawionego rachunku kosztów podróży pracownikowi przysługuje zwrot poniesionych wydatków w kwocie",
+    "answers": [
+      "360,00 zł",
+      "835,00 zł",
+      "80,00 zł",
+      "475,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_rachunek11.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 228,
+    "text": "Na podstawie danych zamieszczonych w tabeli ustal, w którym regionie spółka osiągnęła najwyższą wartość sprzedaży w stosunku do planowanej wartości sprzedaży.",
+    "answers": [
+      "W regionie I.",
+      "W regionie II.",
+      "W regionie III.",
+      "W regionie IV."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela137.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 229,
+    "text": "Przedsiębiorca prowadzący działalność handlową otrzymał fakturę za usługi informatyczne. W podatkowej księdze przychodów i rozchodów faktura zostanie zaksięgowana w kolumnie",
+    "answers": [
+      "koszty uboczne zakupu.",
+      "zakup towarów handlowych i materiałów.",
+      "wartość sprzedanych towarów i usług.",
+      "pozostałe wydatki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 230,
+    "text": "Która strategia cenowa została opisana we fragmencie zamieszczonym w ramce?",
+    "answers": [
+      "Strategia cen prestiżowych.",
+      "Strategia zbierania śmietanki.",
+      "Strategia cen neutralnych.",
+      "Strategia penetracji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_ramka7.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 231,
+    "text": "Hurtownia zakupiła towar po cenie netto 30,00 zł/szt. Oblicz wartość brutto za sprzedane 100 sztuk towarów, jeżeli marża hurtowa wynosi 40% ceny zakupu netto, a stawka podatku VAT 23%.",
+    "answers": [
+      "5 000,00 zł",
+      "4 200,00 zł",
+      "5 166,00 zł",
+      "6 150,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 232,
+    "text": "Pracownik jest zatrudniony na podstawie umowy o pracę z wynagrodzeniem brutto 4 500,00 zł. Stawka na ubezpieczenie wypadkowe wynosi 1,67%. Wskaż, który fragment ZUS RCA Imiennego raportu miesięcznego o należnych składkach i wypłaconych świadczeniach został poprawnie wypełniony przez płatnika składek.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_raporty.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 233,
+    "text": "Na podstawie danych zamieszczonych w tabeli można stwierdzić, że największy przyrost przychodów w stosunku do poprzedniego kwartału wystąpił w kwartale",
+    "answers": [
+      "II i wyniósł 200,00 zł.",
+      "III i wyniósł 600,00 zł.",
+      "III i wyniósł 400,00 zł.",
+      "IV i wyniósł 850,00 zł."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela136.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 234,
+    "text": "Wydanie z magazynu towarów sprzedanych odbiorcy potwierdza dokument",
+    "answers": [
+      "RW – Rozchód wewnętrzny.",
+      "PW – Przychód wewnętrzny.",
+      "ZW – Zwrot wewnętrzny.",
+      "WZ – Wydanie zewnętrzne."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 235,
+    "text": "Wyrejestrowania zleceniobiorcy z ubezpieczenia zdrowotnego należy dokonać na formularzu",
+    "answers": [
+      "ZUS ZZA",
+      "ZUS ZIUA",
+      "ZUS ZWUA",
+      "ZUS ZUA"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 236,
+    "text": "Maszyna produkcyjna w ciągu 100 godzin wykonała 1 200 sztuk wyrobów. Norma czasu pracy na wykonanie 1 sztuki wynosi 0,1 godziny. W ilu procentach została wykonana norma?",
+    "answers": [
+      "W 120%",
+      "W 100%",
+      "W 150%",
+      "W 20%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 237,
+    "text": "W przedsiębiorstwie w I kwartale średni stan zatrudnienia wynosił 60 pracowników. W ciągu tego okresu przyjęto 6 pracowników a zwolniono 3. Wskaźnik przyjęć wyniósł 10%, co oznacza, że",
+    "answers": [
+      "pracownicy zwolnieni z pracy stanowią 5% średniego stanu zatrudnienia.",
+      "60 pracowników pracuje w przedsiębiorstwie.",
+      "pracownicy nowoprzyjęci stanowią 10% średniego stanu zatrudnienia.",
+      "10 pracowników przyjęto do pracy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 238,
+    "text": "Nowo założoną spółkę z ograniczoną odpowiedzialnością należy zarejestrować",
+    "answers": [
+      "w Krajowym Rejestrze Sądowym.",
+      "w Centralnej Ewidencji i Informacji o Działalności Gospodarczej.",
+      "w Ministerstwie Przedsiębiorczości i Technologii.",
+      "w Urzędzie Ochrony Konkurencji i Konsumentów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 239,
+    "text": "Pracownik, który jest absolwentem studiów licencjackich i przepracował 3 lata na podstawie umowy o pracę, zgodnie z Kodeksem pracy, ma prawo do urlopu wypoczynkowego w wymiarze rocznym",
+    "answers": [
+      "20 dni.",
+      "28 dni.",
+      "18 dni.",
+      "26 dni."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_kodeks9.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 240,
+    "text": "Jeśli na poszczególnych szczeblach kanału dystrybucji określonego towaru występuje niewielka liczba podmiotów odpowiedzialnych za jego dystrybucję, to jest to kanał",
+    "answers": [
+      "szeroki.",
+      "bezpośredni.",
+      "krótki.",
+      "wąski."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 241,
+    "text": "Maria Nowak nie ma ustalonego prawa do emerytury ani renty, a z tytułu zawartej umowy zlecenia podlega obowiązkowo wyłącznie ubezpieczeniu zdrowotnemu. Wskaż kod tytułu ubezpieczenia, który przedsiębiorca wpisze na formularzu zgłoszeniowym do ZUS, wiedząc, że Maria Nowak przedłożyła mu orzeczenie o lekkim stopniu niepełnosprawności.",
+    "answers": [
+      "01 11 0 1",
+      "05 11 1 0",
+      "01 10 1 0",
+      "04 11 0 1"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabele2.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 242,
+    "text": "Wysokość wskaźnika rentowności kapitałów własnych na poziomie 0,15 oznacza, że",
+    "answers": [
+      "na każdą złotówkę przychodów ze sprzedaży przypada 15 groszy zysku netto.",
+      "przedsiębiorstwo wypracowało 15 złotych zysku netto.",
+      "przedsiębiorstwo powinno zapłacić 15 groszy podatku z każdej złotówki zysku brutto.",
+      "na każdą złotówkę zaangażowanego w działalność kapitału własnego przypada 15 groszy zysku netto."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 243,
+    "text": "Na podstawie zamieszczonych danych, wskaż ile procent ogółu zatrudnionych stanowią osoby zatrudnione na podstawie umów cywilnoprawnych?",
+    "answers": [
+      "20%",
+      "12%",
+      "80%",
+      "36%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela125.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 244,
+    "text": "Przedsiębiorstwo stosuje akordowy system wynagradzania pracowników. Stawka podstawowa wynosi 20 zł/godz., a norma czasu pracy wynosi 5 min/szt. Pracownik wykonał w miesiącu 2 400 szt. wyrobów. Wynagrodzenie brutto tego pracownika wyniesie",
+    "answers": [
+      "2 400,00 zł",
+      "24 000,00 zł",
+      "4 800,00 zł",
+      "4 000,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 245,
+    "text": "Na podstawie danych zamieszczonych w tabeli wskaż wysokość całkowitych przychodów i całkowitych kosztów, przy których przedsiębiorstwo osiąga próg rentowności.",
+    "answers": [
+      "Przychody całkowite na poziomie 16 000 zł, koszty całkowite na poziomie 18 000 zł.",
+      "Przychody całkowite na poziomie 14 000 zł, koszty całkowite na poziomie 16 000 zł.",
+      "Przychody całkowite na poziomie 24 000 zł, koszty całkowite na poziomie 22 000 zł.",
+      "Przychody całkowite na poziomie 19 000 zł, koszty całkowite na poziomie 19 000 zł."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela126.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 246,
+    "text": "Przedsiębiorstwo handlowe zakupiło u producenta lodówki w jednostkowej cenie zakupu 2 400,00 zł/szt. Marża handlowa wynosi 20% ceny sprzedaży netto. Kwota marży handlowej zawarta w cenie sprzedaży netto wynosi",
+    "answers": [
+      "600,00 zł",
+      "400,00 zł",
+      "480,00 zł",
+      "500,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 247,
+    "text": "Świadectwo pracy powinno zawierać między innymi informację",
+    "answers": [
+      "o karach porządkowych nałożonych na pracownika.",
+      "o sposobie rozwiązania umowy.",
+      "o przynależności do związków zawodowych.",
+      "o chorobie zawodowej pracownika."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 248,
+    "text": "Przedsiębiorca z tytułu prowadzonej działalności gospodarczej podlega obowiązkowo tylko ubezpieczeniu zdrowotnemu. Który formularz ZUS powinien wypełnić, aby zgłosić siebie do tego ubezpieczenia?",
+    "answers": [
+      "ZUS ZAA",
+      "ZUS ZFA",
+      "ZUS ZZA",
+      "ZUS ZUA"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 249,
+    "text": "Pracownikowi, który rozpoczyna pracę o godzinie 22:00 i pracuje 8 godzin do godziny 6:00 następnego dnia, przysługuje zgodnie z Kodeksem pracy dodatek do wynagrodzenia w wysokości",
+    "answers": [
+      "100% stawki godzinowej wynikającej z minimalnego wynagrodzenia za pracę.",
+      "50% stawki godzinowej wynikającej z minimalnego wynagrodzenia za pracę.",
+      "60% stawki godzinowej wynikającej z minimalnego wynagrodzenia za pracę.",
+      "20% stawki godzinowej wynikającej z minimalnego wynagrodzenia za pracę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 250,
+    "text": "W badanym roku wskaźnik rotacji zapasów materiałów wyniósł 20 dni. Oznacza to, że",
+    "answers": [
+      "w ciągu jednego roku zbędne zapasy materiałów sprzedawane były 20 razy.",
+      "w ciągu roku średni czas przechowywania zapasów materiałów w magazynach wynosił 20 dni.",
+      "częstotliwość obrotów zapasami wynosiła 20 razy.",
+      "w ciągu jednego miesiąca jeden cykl obrotu zapasami trwał 20 dni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 251,
+    "text": "Sporządzony w przedsiębiorstwie biznesplan może być wykorzystany w celu",
+    "answers": [
+      "zestawienia wydatków związanych z realizacją bieżących zadań.",
+      "pozyskania środków finansowych z banku na działalność inwestycyjną.",
+      "oceny doświadczenia i kompetencji grupy docelowej.",
+      "podpisania umowy handlowej z dostawcą."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 252,
+    "text": "Przeciętna dzienna sprzedaż towarów wynosi 300 sztuk a dostawy towarów następują średnio co 15 dni. W celu zachowania ciągłości sprzedaży od jednej dostawy do drugiej dostawy, w magazynie zapas towarów powinien wynosić",
+    "answers": [
+      "4 500 szt.",
+      "5 000 szt.",
+      "300 szt.",
+      "200 szt."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 253,
+    "text": "Pracownikowi przysługuje wynagrodzenie zasadnicze w kwocie 3 500,00 zł brutto oraz prowizja w wysokości 3% od wartości sprzedaży zawartych umów. W bieżącym miesiącu pracownik podpisał 6 umów na łączną kwotę 6 000,00 zł. Jego wynagrodzenie brutto za bieżący miesiąc wyniesie",
+    "answers": [
+      "5 300,00 zł",
+      "3 500,00 zł",
+      "3 680,00 zł",
+      "3 518,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 254,
+    "text": "Na podstawie przedstawionego fragmentu rachunku do umowy o dzieło nr 18/2021 ustal kwotę podatku dochodowego.",
+    "answers": [
+      "255,00 zł",
+      "2 745,00 zł",
+      "1 500,00 zł",
+      "510,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela123.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 255,
+    "text": "Nadzór i kontrolę przestrzegania przepisów prawa pracy oraz BHP sprawuje",
+    "answers": [
+      "Inspekcja Handlowa.",
+      "Państwowa Inspekcja Pracy.",
+      "Inspekcja Ochrony Środowiska.",
+      "Państwowa Inspekcja Sanitarna."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 256,
+    "text": "W bieżącym miesiącu przedsiębiorstwo planuje wyprodukować 2 000 sztuk wyrobów gotowych. Norma techniczna zużycia materiału na 1 sztukę wyrobu gotowego wynosi 0,7 kg. Zapas początkowy materiału wynosi 300 kg, a planowany zapas końcowy 250 kg. Ile kilogramów materiału należy zakupić, aby zrealizować miesięczny plan produkcji?",
+    "answers": [
+      "1 950 kg",
+      "850 kg",
+      "1 350 kg",
+      "1 450 kg"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 257,
+    "text": "Na podstawie fragmentu listy płac nr 12/2021 ustal kwotę należnej zaliczki na podatek dochodowy.",
+    "answers": [
+      "403,00 zł",
+      "162,00 zł",
+      "442,00 zł",
+      "201,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_lista16.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 258,
+    "text": "Którego dokumentu nie przechowuje się w części A akt osobowych pracownika?",
+    "answers": [
+      "Kwestionariusza osobowego pracownika ubiegającego się o pracę.",
+      "Orzeczenia lekarskiego, które potwierdza brak przeciwwskazań do pracy na danym stanowisku.",
+      "Zaświadczenia o ukończeniu okresowego szkolenia w zakresie BHP.",
+      "Świadectwa pracy z poprzednich miejsc pracy lub innych dokumentów, które potwierdzają okresy zatrudnienia pracownika."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 259,
+    "text": "Ustal, której informacji brakuje w przedstawionej treści umowy o pracę na czas określony.",
+    "answers": [
+      "Rodzaju pracy.",
+      "Wymiaru czasu pracy.",
+      "Terminu rozpoczęcia pracy.",
+      "Miejsca wykonywania pracy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_umowa11.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 260,
+    "text": "Jeżeli cena sprzedaży brutto towaru opodatkowanego według podstawowej stawki VAT wynosi 4 920,00 zł, to kwota podatku należnego VAT wynosi",
+    "answers": [
+      "464,00 zł",
+      "4 000,00 zł",
+      "365,00 zł",
+      "920,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 261,
+    "text": "Stosowany przez firmę instrument marketingu mix, określający sposób rozmieszczenia gotowych produktów na rynku i oferowania ich do sprzedaży konsumentom lub odbiorcom przemysłowym to",
+    "answers": [
+      "cena.",
+      "produkt.",
+      "promocja.",
+      "dystrybucja."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 262,
+    "text": "Wskaźnik efektywności wynagrodzeń wynosi 6, co oznacza, że",
+    "answers": [
+      "przychody ze sprzedaży usług stanowią 0,6% wynagrodzeń.",
+      "każda złotówka przychodów ze sprzedaży usług wymagała nakładu 6,00 zł na wynagrodzenia.",
+      "każda złotówka wydana na wynagrodzenia wygenerowała 6,00 zł przychodów ze sprzedaży usług.",
+      "wynagrodzenia stanowią 6% przychodów ze sprzedaży usług."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_wzor.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 263,
+    "text": "Wspólnicy nie ponoszą odpowiedzialności za zobowiązania spółki powstałe w związku z wykonywaniem wolnego zawodu przez pozostałych wspólników w spółce",
+    "answers": [
+      "partnerskiej.",
+      "jawnej.",
+      "komandytowej.",
+      "cywilnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 264,
+    "text": "Przedsiębiorca, który prowadzi działalność handlową w zakresie sprzedaży owoców i warzyw, opłaca podatek dochodowy w formie ryczałtu od przychodów ewidencjonowanych. W grudniu z tytułu prowadzonej działalności jego przychody po odliczeniach wyniosły 50 000,00 zł. Kwota ryczałtu od przychodów ewidencjonowanych przedsiębiorcy w grudniu wyniosła",
+    "answers": [
+      "2 750,00 zł",
+      "8 500,00 zł",
+      "1 500,00 zł",
+      "4 250,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela122.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 265,
+    "text": "Planowanie działalności polegającej na ustaleniu zmian w majątku przedsiębiorstwa, źródeł jego finansowania, przychodów i wydatków oraz wyniku finansowego dotyczy planowania",
+    "answers": [
+      "ekonomicznego.",
+      "technicznego.",
+      "finansowego.",
+      "rzeczowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 266,
+    "text": "Na podstawie przedstawionego dowodu Rw nr 1/12/2021 ustal łączną wartość rozchodu materiałów z magazynu.",
+    "answers": [
+      "1 270,00 zł",
+      "1 300,00 zł",
+      "1 230,00 zł",
+      "1 260,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_rw2.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 267,
+    "text": "Na podstawie danych zawartych w tabeli ustal podstawę naliczenia podatku dochodowego z tytułu umowy zlecenia zawartej z własnym pracownikiem.",
+    "answers": [
+      "1 655,00 zł",
+      "2 000,00 zł",
+      "1 381,00 zł",
+      "1 726,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela124.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 268,
+    "text": "Zapas odpowiadający bieżącym potrzebom w przedsiębiorstwie, utrzymywany w celu zaspokojenia zaplanowanego zużycia przy znanym czasie dostaw, to zapas",
+    "answers": [
+      "sezonowy.",
+      "nadmierny.",
+      "rezerwowy.",
+      "produkcyjny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 269,
+    "text": "Z wynagrodzenia za pracę pracodawca może bez zgody pracownika potrącić",
+    "answers": [
+      "wkład pieniężny z tytułu przynależności do pracowniczej kasy zapomogowo-pożyczkowej.",
+      "składkę na związek zawodowy, do którego przynależność pracownika nie jest obowiązkowa.",
+      "świadczenie alimentacyjne egzekwowane od pracownika na mocy tytułów wykonawczych.",
+      "składkę na dobrowolne ubezpieczenie na życie z tytułu zawartej przez pracownika polisy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 270,
+    "text": "Mikrootoczenie przedsiębiorstwa to otoczenie",
+    "answers": [
+      "socjokulturowe.",
+      "konkurencyjne.",
+      "polityczno-prawne.",
+      "demograficzne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 271,
+    "text": "W czwartym kwartale 2021 r. przedsiębiorstwo otrzymało dostawy materiałów w następujących odstępach czasowych: 14 dni, 16 dni, 14 dni, 18 dni, 15 dni, 13 dni. Oblicz średni cykl dostaw metodą średniej arytmetycznej w IV kwartale 2021 r.",
+    "answers": [
+      "8 dni.",
+      "30 dni.",
+      "15 dni.",
+      "6 dni."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 272,
+    "text": "Sprzedawca stwierdził pomyłkę w cenie sprzedanego towaru, w celu poprawy błędu powinien wystawić odbiorcy fakturę",
+    "answers": [
+      "zaliczkową.",
+      "korygującą.",
+      "proforma.",
+      "wewnętrzną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 273,
+    "text": "W grudniu 2021 roku pracownik przebywał na zwolnieniu lekarskim przez 5 dni z powodu przeziębienia. Była to jego pierwsza absencja chorobowa w tym roku. Podstawa wymiaru naliczenia wynagrodzenia chorobowego wynosiła 3 000,00 zł. Ile wyniosło wynagrodzenie chorobowe za czas niezdolności pracownika do pracy płatne 80%?",
+    "answers": [
+      "500,00 zł",
+      "400,00 zł",
+      "100,00 zł",
+      "2 400,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 274,
+    "text": "Jeżeli przedsiębiorca prowadzący działalność gospodarczą w zakresie gastronomii planuje zakup nowej witryny chłodniczej o wartości 15 000,00 zł, to powinien ubiegać się o kredyt",
+    "answers": [
+      "konsolidacyjny.",
+      "lombardowy.",
+      "hipoteczny.",
+      "inwestycyjny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 275,
+    "text": "Na podstawie zamieszczonych danych oblicz, ile wynosi koszt zużycia materiałów przypadający na wyprodukowanie 10 sztuk bluzek damskich i 10 sztuk spódnic.",
+    "answers": [
+      "220,00 zł",
+      "430,00 zł",
+      "210,00 zł",
+      "340,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela121.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 276,
+    "text": "Na podstawie zamieszczonego fragmentu listy płac nr 1/12/2020 ustal podstawę wymiaru składek na ubezpieczenia społeczne.",
+    "answers": [
+      "5 000,00 zł",
+      "3 600,00 zł",
+      "4 500,00 zł",
+      "4 000,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_lista12.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 277,
+    "text": "Na podstawie dowodu Rw nr 1/12/2020 ustal łączną wartość rozchodu materiałów z magazynu.",
+    "answers": [
+      "1 230,00 zł",
+      "1 270,00 zł",
+      "1 260,00 zł",
+      "1 300,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_rw.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 278,
+    "text": "Na wynagrodzenie brutto pracownika składa się – płaca zasadnicza 3 500,00 zł, – dodatek funkcyjny 400,00 zł, – premia motywacyjna 700,00 zł. O ile zwiększy się wynagrodzenie brutto pracownika, jeżeli płaca zasadnicza wzrośnie o 10%?",
+    "answers": [
+      "110,00 zł",
+      "390,00 zł",
+      "350,00 zł",
+      "420,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 279,
+    "text": "W czwartym kwartale 2020 r. przedsiębiorstwo otrzymało dostawy materiałów w następujących odstępach czasowych: 14 dni, 16 dni, 14 dni, 18 dni, 15 dni, 13 dni. Oblicz średni cykl dostaw metodą średniej arytmetycznej w IV kwartale 2020 r.",
+    "answers": [
+      "15 dni.",
+      "8 dni.",
+      "30 dni.",
+      "6 dni."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 280,
+    "text": "Podatnik może pomniejszyć wyliczoną kwotę ryczałtu od przychodów ewidencjonowanych o wartość",
+    "answers": [
+      "darowizny przekazanej na cele kultu religijnego.",
+      "opłaconej składki na ubezpieczenie zdrowotne właściciela (7,75% podstawy jej wymiaru).",
+      "opłaconych składek na ubezpieczenia społeczne właściciela (29,19% podstawy ich wymiaru).",
+      "wpłaty na indywidualne konto zabezpieczenia emerytalnego właściciela."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 281,
+    "text": "Przedsiębiorstwo planuje wyprodukować w miesiącu 2 000 sztuk wyrobów gotowych. Norma techniczna zużycia materiału na 1 sztukę wyrobu gotowego wynosi 0,7 kg. Zapas początkowy materiału wynosi 300 kg, a planowany zapas końcowy 250 kg. Ile kilogramów materiału należy zakupić, aby zrealizować miesięczny plan produkcji?",
+    "answers": [
+      "1 450 kg",
+      "850 kg",
+      "1 950 kg",
+      "1 350 kg"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 282,
+    "text": "Którego elementu brakuje w umowie o pracę, aby spełniała wymogi formalne określone w Kodeksie pracy?",
+    "answers": [
+      "Harmonogramu czasu pracy.",
+      "Wymiaru czasu pracy.",
+      "Okresu wypowiedzenia umowy.",
+      "Wymiaru urlopu wypoczynkowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_umowa8.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 283,
+    "text": "Cena brutto za usługę wynosi 2 160,00 zł. Jaka będzie kwota podatku VAT, jeżeli usługa jest opodatkowana stawką VAT 8%?",
+    "answers": [
+      "1 987,20 zł",
+      "2 000,00 zł",
+      "160,00 zł",
+      "172,80 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 284,
+    "text": "Do produkcji 1 litra dżemu truskawkowego zużywa się, zgodnie z normą, 0,8 kg truskawek i 0,4 kg cukru. Ile kilogramów truskawek i cukru potrzeba do wyprodukowania 600 litrów dżemu truskawkowego?",
+    "answers": [
+      "480 kg truskawek i 240 kg cukru.",
+      "750 kg truskawek i 1 500 kg cukru.",
+      "480 kg truskawek i 120 kg cukru.",
+      "720 kg truskawek i 720 kg cukru."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 285,
+    "text": "Na podstawie danych z listy płac z 31.12.2020 r. oblicz kwotę należnej zaliczki na podatek dochodowy.",
+    "answers": [
+      "201,00 zł",
+      "442,00 zł",
+      "162,00 zł",
+      "403,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_lista13.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 286,
+    "text": "Przedsiębiorca, który prowadzi działalność handlową w zakresie sprzedaży owoców i warzyw, opłaca podatek dochodowy w formie ryczałtu od przychodów ewidencjonowanych. W styczniu z tytułu prowadzonej działalności jego przychody po odliczeniach wyniosły 50 000,00 zł. Oblicz kwotę ryczałtu od przychodów ewidencjonowanych.",
+    "answers": [
+      "1 500,00 zł",
+      "8 500,00 zł",
+      "4 250,00 zł",
+      "2 750,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela98.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 287,
+    "text": "Na podstawie danych zamieszczonych w tabeli ustal, w którym regionie przedsiębiorstwo DAMA osiągnęło najwyższą wartość sprzedaży w stosunku do planowanej wartości sprzedaży.",
+    "answers": [
+      "W regionie II.",
+      "W regionie III.",
+      "W regionie IV.",
+      "W regionie I."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela102.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 288,
+    "text": "Przedsiębiorca, który rozlicza się z podatku dochodowego w formie karty podatkowej, ma obowiązek złożyć w urzędzie skarbowym PIT-16A Deklarację o wysokości składki na ubezpieczenie zdrowotne, zapłaconej i odliczonej od karty podatkowej w poszczególnych miesiącach roku podatkowego najpóźniej do",
+    "answers": [
+      "31 stycznia roku następującego po roku podatkowym.",
+      "31 marca roku następującego po roku podatkowym.",
+      "końca lutego roku następującego po roku podatkowym.",
+      "końca kwietnia roku następującego po roku podatkowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 289,
+    "text": "Spółkę z ograniczoną odpowiedzialnością należy zarejestrować",
+    "answers": [
+      "w Centralnej Ewidencji i Informacji o Działalności Gospodarczej.",
+      "w Ministerstwie Przedsiębiorczości i Technologii.",
+      "w Krajowym Rejestrze Sądowym.",
+      "w Urzędzie Ochrony Konkurencji i Konsumentów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 290,
+    "text": "Stawka podatku dochodowego od osób fizycznych od dochodu z tytułu zawartej umowy o dzieło wynosi",
+    "answers": [
+      "20%",
+      "18%",
+      "19%",
+      "17%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_tabela16.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 291,
+    "text": "Oblicz wartość przeciętnego zapasu towarów w I kwartale 2020 r. metodą średniej arytmetycznej wartości zapasu początkowego i końcowego.",
+    "answers": [
+      "180 000,00 zł",
+      "285 000,00 zł",
+      "257 500,00 zł",
+      "270 000,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_tabela12.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 292,
+    "text": "Które informacje powinny zostać zamieszczone w streszczeniu biznesplanu?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_tabele2.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 293,
+    "text": "W związku ze zmianą procesu produkcyjnego zrezygnowano z wykorzystywania niektórych surowców i materiałów znajdujących się w magazynie przedsiębiorstwa, co spowodowało powstanie zapasów",
+    "answers": [
+      "cyklicznych.",
+      "zbędnych.",
+      "spekulacyjnych.",
+      "rezerwowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 294,
+    "text": "Stan rachunku walutowego w dniu 27.12.2019 r. wynosił 1 600,00 euro. W dniu 30.12.2019 r. uregulowano wobec kontrahenta zagranicznego zobowiązanie, które po przeliczeniu według kursu 4,3110 PLN/1 EUR wyniosło 2 802,15 zł. Ile euro pozostało na rachunku walutowym po dokonaniu transakcji?",
+    "answers": [
+      "278,86 euro",
+      "650,00 euro",
+      "950,00 euro",
+      "371,14 euro"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 295,
+    "text": "Który akt prawny zawiera przepisy zacytowane w ramce?",
+    "answers": [
+      "Kodeks cywilny.",
+      "Ustawa o podatku dochodowym od osób fizycznych.",
+      "Kodeks spółek handlowych.",
+      "Ustawa o podatku dochodowym od osób prawnych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_ramka3.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 296,
+    "text": "Na podstawie zamieszczonego fragmentu listy płac oblicz łączną kwotę fakultatywnych potrąceń z wynagrodzenia pracownika.",
+    "answers": [
+      "107,00 zł",
+      "330,00 zł",
+      "307,00 zł",
+      "372,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_tabela19.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 297,
+    "text": "Wszystkie spółki, które w nazwach stosują skróty sp.j., sp.k. i sp. z o.o., należą do spółek",
+    "answers": [
+      "działających na podstawie kodeksu cywilnego.",
+      "działających na podstawie kodeksu spółek handlowych.",
+      "wyłącznie osobowych.",
+      "wyłącznie kapitałowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 298,
+    "text": "Która z zasad planowania zakłada, że zadania zawarte w planie powinny być możliwe do wykonania przez jednostkę gospodarczą w istniejących warunkach?",
+    "answers": [
+      "Zasada realności planu.",
+      "Zasada podstawowego ogniwa.",
+      "Zasada elastyczności.",
+      "Zasada wariantowych rozwiązań."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 299,
+    "text": "Na diagramie przedstawiono wielkości zapasów towarów znajdujących się w magazynie hurtowni oraz ich ceny sprzedaży netto. Ile wyniesie podatek VAT należny, jeżeli hurtownia sprzeda 50% zapasów każdego z towarów, a towary te są objęte stawką VAT – 5%?",
+    "answers": [
+      "189,05 zł",
+      "99,25 zł",
+      "22,50 zł",
+      "198,50 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_diagram.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 300,
+    "text": "Na podstawie zamieszczonego rachunku kosztów podróży służbowej ustal kwotę do wypłaty dla pracownika.",
+    "answers": [
+      "26,00 zł",
+      "126,00 zł",
+      "132,00 zł",
+      "32,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_rachunek2.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 301,
+    "text": "Na podstawie fragmentu ZUS RZA Imienny raport miesięczny o należnych składkach na ubezpieczenie zdrowotne oblicz kwotę należnej składki na ubezpieczenie zdrowotne zleceniobiorcy, którą należy wpisać w polu 05.",
+    "answers": [
+      "211,25 zł",
+      "251,88 zł",
+      "292,50 zł",
+      "317,20 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_formularz2.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 302,
+    "text": "Ze względu na przedmiot planowania wyróżnia się następujące plany:",
+    "answers": [
+      "produkcyjne, marketingowe, finansowe.",
+      "operatywne, strategiczne, perspektywiczne.",
+      "jednorazowe, okresowe, ciągłe.",
+      "bieżące, taktyczne, długookresowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 303,
+    "text": "Na podstawie zamieszczonego fragmentu listy płac ustal kwotę dodatku funkcyjnego.",
+    "answers": [
+      "850,00 zł",
+      "1 000,00 zł",
+      "550,00 zł",
+      "250,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_tabela18.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 304,
+    "text": "Przepisy Kodeksu pracy wskazują, że za pracę w godzinach nadliczbowych przypadających w niedziele i święta niebędące dla pracownika dniami pracy, zgodnie z obowiązującym go rozkładem czasu pracy, pracownikowi przysługuje, oprócz normalnego wynagrodzenia, dodatek w wysokości",
+    "answers": [
+      "50% wynagrodzenia.",
+      "70% wynagrodzenia.",
+      "100% wynagrodzenia.",
+      "80% wynagrodzenia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 305,
+    "text": "Z przedstawionej oferty pracy wynika, że firma REMIX sp. z o.o. poszukuje kandydata na stanowisko",
+    "answers": [
+      "specjalisty ds. negocjacji.",
+      "specjalisty ds. komunikacji wewnętrznej.",
+      "analityka finansowego.",
+      "przedstawiciela handlowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_ramka5.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 306,
+    "text": "Przedstawiony druk jest wykorzystywany do udokumentowania",
+    "answers": [
+      "wydania materiałów z magazynu do produkcji.",
+      "przemieszczania towarów pomiędzy dwoma magazynami tej samej firmy.",
+      "wydania kontrahentowi sprzedanych towarów z magazynu.",
+      "przekazania wyrobów gotowych na cele własne przedsiębiorstwa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_druk.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 307,
+    "text": "Pracownik w ciągu 8 godzin pracy wykorzystał przysługującą mu 15 minutową przerwę wliczaną do czasu pracy oraz trzy przerwy 20 minutowe na załatwienie spraw osobistych. W ilu procentach pracownik efektywnie wykorzystał czas przeznaczony na wykonanie zadań zawodowych?",
+    "answers": [
+      "84%",
+      "89%",
+      "97%",
+      "93%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 308,
+    "text": "Na podstawie fragmentu deklaracji rozliczeniowej ZUS DRA ustal kwotę, którą należy wpisać w części VIII w polu 03.",
+    "answers": [
+      "464,22 zł",
+      "105,75 zł",
+      "114,75 zł",
+      "349,47 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_formularz3.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 309,
+    "text": "Które stawki podatku VAT zastosowano do poszczególnych towarów ujętych na fakturze?",
+    "answers": [
+      "Cytryny i brzoskwinie – 8%, kakao – 23%",
+      "Cytryny – 8%, kakao – 23%, brzoskwinie – 5%",
+      "Cytryny – 5%, kakao – 23%, brzoskwinie – 8%",
+      "Cytryny i brzoskwinie – 5%, kakao – 23%"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_faktura2.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 310,
+    "text": "Które działanie pracodawcy ma cechy nepotyzmu?",
+    "answers": [
+      "Zatrudnianie pracowników bez wymaganych kwalifikacji.",
+      "Ingerowanie w życie prywatne i rodzinne pracownika.",
+      "Przeznaczanie znacznych środków finansowych na nagrody dla pracowników.",
+      "Faworyzowanie przy obsadzaniu stanowisk pracowników spokrewnionych z pracodawcą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 311,
+    "text": "Ze względu na stopień szczegółowości badań analitycznych wyróżnia się analizę ekonomiczną",
+    "answers": [
+      "ogólną i szczegółową.",
+      "okresową i odcinkową.",
+      "szczegółową i okresową.",
+      "odcinkową i funkcjonalną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 312,
+    "text": "Jak zmieni się w bieżącym roku wartość wskaźnika rotacji zapasów w dniach, jeżeli przeciętny stan zapasu towarów obniży się o 20% w stosunku do roku ubiegłego?",
+    "answers": [
+      "Obniży się o 8 dni.",
+      "Wzrośnie o 8 dni.",
+      "Wzrośnie o 2 dni.",
+      "Obniży się o 2 dni."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_tabela13.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 313,
+    "text": "Na podstawie informacji dotyczących wielkości produkcji i zamówień na miksery w poszczególnych kwartałach ubiegłego roku można stwierdzić, że",
+    "answers": [
+      "w III kwartale popyt na miksery był większy od podaży.",
+      "w IV kwartale podaż mikserów była większa od popytu.",
+      "w I i III kwartale podaż mikserów przewyższała popyt.",
+      "w II i IV kwartale podaż mikserów przewyższała popyt."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_tabela11.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 314,
+    "text": "Ustawa Ordynacja podatkowa normuje między innymi",
+    "answers": [
+      "tworzenie, organizację, funkcjonowanie i przekształcanie spółek handlowych.",
+      "zasady podejmowania i wykonywania działalności gospodarczej.",
+      "zasady ustalania składek na ubezpieczenia społeczne oraz podstawę ich wymiaru.",
+      "zobowiązania podatkowe, informacje podatkowe i tajemnicę skarbową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 315,
+    "text": "Która operacja gospodarcza została błędnie zaewidencjonowana w podatkowej księdze przychodów i rozchodów?",
+    "answers": [
+      "Operacja 1.",
+      "Operacja 4.",
+      "Operacja 3.",
+      "Operacja 2."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_tabela15.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 316,
+    "text": "Osoba ubiegająca się o zatrudnienie powinna złożyć u przyszłego pracodawcy następujące dokumenty:",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_tabele.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 317,
+    "text": "Na podstawie danych zamieszczonych w tabeli ustal wielkość wpływów budżetowych z tytułu podatków bezpośrednich.",
+    "answers": [
+      "226 702 700 tys. zł",
+      "135 703 532 tys. zł",
+      "156 801 211 tys. zł",
+      "292 504 743 tys. zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_tabela14.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 318,
+    "text": "Z danych zamieszczonych w tabeli wynika, że w przedsiębiorstwie ADELA SA przeciętne wynagrodzenie brutto w roku 2018 w stosunku do roku poprzedniego",
+    "answers": [
+      "wzrosło o 8%",
+      "wzrosło o 10%",
+      "zmalało o 8%",
+      "zmalało o 10%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_tabela20.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 319,
+    "text": "Pracownik zatrudniony na umowę o pracę na 1/2 etatu wykonuje pracę w podstawowym systemie czasu pracy od poniedziałku do piątku w liczbie godzin ustalonych proporcjonalnie do wymiaru zatrudnienia. Ile wyniesie jego wynagrodzenie brutto za kwiecień 2020 r., jeżeli stawka godzinowa wynosi 20,00 zł?",
+    "answers": [
+      "3 360,00 zł",
+      "1 680,00 zł",
+      "4 800,00 zł",
+      "2 400,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_kalendarz.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 320,
+    "text": "Do zadań naczelnika urzędu celno-skarbowego należy między innymi",
+    "answers": [
+      "wymiar należności celnych i podatkowych związanych z przywozem i wywozem towarów.",
+      "obsługa zobowiązań Skarbu Państwa z tytułu wyemitowanych papierów wartościowych.",
+      "kontrola zamówień publicznych jednostek samorządu terytorialnego.",
+      "opracowywanie, wykonywanie i kontrolowanie realizacji budżetu państwa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 321,
+    "text": "Na podstawie wybranych danych z listy płac oblicz kwotę należnej zaliczki na podatek dochodowy.",
+    "answers": [
+      "272,91 zł",
+      "273,00 zł",
+      "224,38 zł",
+      "224,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_tabela17.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 322,
+    "text": "Pracownicy w czasie pracy na I zmianie wyprodukowali 130 sztuk wyrobów gotowych, na II zmianie 120 sztuk, a na III zmianie 100 sztuk. Kontrola jakości wykazała, że 6% dobowej produkcji nie spełnia wymagań jakościowych. Oznacza to, że",
+    "answers": [
+      "tylko 15 sztuk wyrobów gotowych jest wysokiej jakości.",
+      "329 sztuk wyrobów gotowych nie spełnia wymagań jakościowych.",
+      "tylko 150 sztuk wyrobów gotowych jest wysokiej jakości.",
+      "21 sztuk wyrobów gotowych nie spełnia wymagań jakościowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 323,
+    "text": "Analiza finansowa nie obejmuje analizy",
+    "answers": [
+      "przychodów i kosztów.",
+      "gospodarki materiałowej.",
+      "sytuacji majątkowej.",
+      "wyniku finansowego i rentowności."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 324,
+    "text": "Który z czynników wymienionych w analizie SWOT przedsiębiorstwa produkcyjnego jest dla niego szansą?",
+    "answers": [
+      "Stosowanie tradycyjnych receptur i posiadanie własnej marki produktów.",
+      "Spokojna i przyjacielska atmosfera w pracy przy jednoczesnej presji na realizację zadań.",
+      "Wysoki poziom wiedzy pracowników w zakresie wykorzystywanych technologii.",
+      "Pojawienie się nowych rynków zbytu w związku z integracją gospodarczą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 325,
+    "text": "W ramce zamieszczono fragment umowy",
+    "answers": [
+      "przedwstępnej na sprzedaż towarów.",
+      "o zakazie konkurencji po zakończeniu współpracy.",
+      "o zachowaniu poufności między kontrahentami.",
+      "partnerskiej na wyłączność."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/au35_ramka4.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 326,
+    "text": "Która spółka ma obowiązek prowadzenia ksiąg rachunkowych bez względu na osiągnięte przychody?",
+    "answers": [
+      "Spółka partnerska.",
+      "Spółka cywilna.",
+      "Spółka jawna.",
+      "Spółka akcyjna."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 327,
+    "text": "Rytmiczność produkcji oznacza, że na danym stanowisku pracy",
+    "answers": [
+      "w równych odstępach czasu wytwarza się różną wielkość produkcji.",
+      "w każdym momencie okresu powtarzalności wytwarza się taką samą wielkość produkcji.",
+      "w różnych odstępach czasu wytwarza się taką samą wielkość produkcji.",
+      "w każdym momencie okresu powtarzalności wytwarza się różną wielkość produkcji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 328,
+    "text": "Wypowiedzenie umowy o dzieło jest regulowane przez przepisy kodeksu",
+    "answers": [
+      "cywilnego.",
+      "pracy.",
+      "postępowania cywilnego.",
+      "spółek handlowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 329,
+    "text": "Maszyna produkcyjna w ciągu 100 godzin wykonała 1 600 sztuk wyrobów. Norma czasu pracy na wykonanie 1 sztuki wynosi 0,1 godziny. W ilu procentach została wykonana norma?",
+    "answers": [
+      "W 180%",
+      "W 140%",
+      "W 60%",
+      "W 160%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 330,
+    "text": "Przedsiębiorca posiada lokal użytkowy o powierzchni 1 000 m2 oraz 200 m2 gruntu. Stawka podatku od nieruchomości dla budynków i ich części wynosi 21,94 zł za 1 m2, a dla gruntów związanych z prowadzeniem działalności gospodarczej 0,84 zł za 1 m2. Jaką kwotę powinien wpłacić przedsiębiorca na rachunek Urzędu Miasta z tytułu podatku od nieruchomości?",
+    "answers": [
+      "22 000,00 zł",
+      "22 108,00 zł",
+      "16 800,00 zł",
+      "21 940,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 331,
+    "text": "Na podstawie zamieszczonych danych, oblicz przeciętny stan zatrudnienia pracowników w przedsiębiorstwie usługowym w 2020 r.",
+    "answers": [
+      "22 pracowników.",
+      "19 pracowników.",
+      "21 pracowników.",
+      "20 pracowników."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela108.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 332,
+    "text": "Ile wynosi statystyczna norma zużycia materiałów w roku 2020, jeśli w ciągu roku zużyto 150 000 kg materiałów i wykonano 6 000 szt. wyrobów?",
+    "answers": [
+      "25 kg/szt.",
+      "0,04 szt./kg",
+      "30 kg/szt.",
+      "25 szt./kg"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 333,
+    "text": "Na podstawie danych przedstawionych w tabeli ustal kwotę podatku VAT do rozliczenia z urzędem skarbowym za maj 2021 r.",
+    "answers": [
+      "4 550,00 zł – kwota należna od urzędu skarbowego.",
+      "2 350,00 zł – kwota należna od urzędu skarbowego.",
+      "4 550,00 zł – kwota podatku podlegającego wpłacie do urzędu skarbowego.",
+      "2 350,00 zł – kwota podatku podlegającego wpłacie do urzędu skarbowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela107.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 334,
+    "text": "Na podstawie danych zamieszczonych w tabeli oblicz dla pracownika zatrudnionego w dziale kadr wynagrodzenie za pracę w godzinach nadliczbowych wraz z należnym 50% dodatkiem.",
+    "answers": [
+      "240,00 zł",
+      "180,00 zł",
+      "175,62 zł",
+      "234,16 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela105.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 335,
+    "text": "Jeżeli przedsiębiorca prowadzi działalność gospodarczą w zakresie gastronomii i nie posiada wolnych środków finansowych, a planuje zakup nowej witryny chłodniczej o wartości 15 000,00 zł, to może ubiegać się o kredyt",
+    "answers": [
+      "lombardowy.",
+      "konsolidacyjny.",
+      "hipoteczny.",
+      "inwestycyjny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 336,
+    "text": "Przeciętna dzienna sprzedaż towarów wynosi 300 szt. a dostawy towarów następują średnio co 15 dni. W celu zachowania ciągłości sprzedaży od jednej dostawy do drugiej dostawy, w magazynie zapas towarów powinien wynosić",
+    "answers": [
+      "300 szt.",
+      "200 szt.",
+      "4 500 szt.",
+      "5 000 szt."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 337,
+    "text": "Przedsiębiorca prowadzący działalność handlową otrzymał fakturę za usługi informatyczne. W podatkowej księdze przychodów i rozchodów faktura zostanie zaksięgowana w pozycji",
+    "answers": [
+      "wartość sprzedanych towarów i usług.",
+      "koszty uboczne zakupu.",
+      "zakup towarów handlowych i materiałów.",
+      "pozostałe wydatki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 338,
+    "text": "Na podstawie danych zawartych w tabeli oblicz wynagrodzenie za kwiecień dla pracownika zatrudnionego w systemie akordu progresywnego.",
+    "answers": [
+      "2 880,00 zł",
+      "3 340,00 zł",
+      "3 225,00 zł",
+      "4 300,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela104.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 339,
+    "text": "Na podstawie fragmentu rachunku do umowy o dzieło nr 1/2021 ustal kwotę do wypłaty.",
+    "answers": [
+      "510,00 zł",
+      "2 745,00 zł",
+      "255,00 zł",
+      "2 490,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_rachunek8.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 340,
+    "text": "Ile będzie wynosiła kwota podatku należnego VAT, jeśli sprzedaż opodatkowana jest według podstawowej stawki, a cena sprzedaży brutto towaru wynosi 4 920,00 zł?",
+    "answers": [
+      "4 000,00 zł",
+      "920,00 zł",
+      "365,00 zł",
+      "464,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 341,
+    "text": "Na podstawie zamieszczonego fragmentu listy płac nr 5/2021 ustal kwotę wynagrodzenia, jaką należy przelać na rachunek bankowy pracownika.",
+    "answers": [
+      "5 737,91 zł",
+      "5 637,91 zł",
+      "5 203,16 zł",
+      "5 824,45 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_lista14.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 342,
+    "text": "Na podstawie zamieszczonych danych oblicz, ile wynosi koszt zużycia materiałów przypadający na wyprodukowanie 10 par spodni męskich i 10 par spodni damskich.",
+    "answers": [
+      "210,00 zł",
+      "430,00 zł",
+      "340,00 zł",
+      "220,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela103.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 343,
+    "text": "Zarząd, Rada Nadzorcza i Walne Zgromadzenie Akcjonariuszy to organy spółki",
+    "answers": [
+      "jawnej.",
+      "cywilnej.",
+      "z ograniczoną odpowiedzialnością.",
+      "akcyjnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 344,
+    "text": "Przedsiębiorstwo handlowe zakupiło u producenta lodówki w cenie zakupu 2 400,00 zł/szt. i naliczyło marżę handlową w wysokości 20% ceny sprzedaży netto. Kwota marży handlowej zawarta w cenie sprzedaży wynosi",
+    "answers": [
+      "480,00 zł",
+      "500,00 zł",
+      "600,00 zł",
+      "400,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 345,
+    "text": "Przedsiębiorca prowadzi działalność gospodarczą w zakresie sprzątania wnętrz w miejscowości o liczbie mieszkańców 58 000 i zatrudnia 2 pracowników. Podatnik rozlicza się z tytułu podatku dochodowego od osób fizycznych w formie karty podatkowej. Opłacona składka na ubezpieczenie zdrowotne 7,75% wynosi 312,00 zł. Oblicz miesięczną kwotę podatku dochodowego podlegającą wpłacie do urzędu skarbowego.",
+    "answers": [
+      "308,00 zł",
+      "367,00 zł",
+      "425,00 zł",
+      "737,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "eka04/a35_tabela106.png"
+    },
+    "category": "EKA.04"
+  },
+  {
+    "id": 346,
+    "text": "Które zasoby majątkowe przedsiębiorstwa należy utrzymywać w magazynie, aby zapewnić ciągłość produkcji i sprzedaży wyrobów gotowych?",
+    "answers": [
+      "Środki pieniężne.",
+      "Należności.",
+      "Zapasy.",
+      "Środki trwałe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "EKA.04"
+  },
+  {
+    "id": 347,
+    "text": "W marcu bieżącego roku pracownik przebywał na zwolnieniu lekarskim z powodu przeziębienia przez 5 dni. Była to jego pierwsza absencja chorobowa w tym roku. Podstawa wymiaru naliczenia wynagrodzenia chorobowego wynosi 3 000,00 zł. Ile wyniesie wynagrodzenie chorobowe za czas niezdolności pracownika do pracy?",
+    "answers": [
+      "500,00 zł",
+      "400,00 zł",
+      "100,00 zł",
+      "2 400,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "EKA.04"
+  }
+]
