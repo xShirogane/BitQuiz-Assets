@@ -1,0 +1,5261 @@
+[
+  {
+    "id": 1,
+    "text": "Niezbędnym wyposażeniem ogrodów edukacyjnych są",
+    "answers": [
+      "zestawy zabawowe.",
+      "panele informacyjne.",
+      "lekkie zadaszenia.",
+      "bujane ławki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 2,
+    "text": "W jaki sposób należy zamocować drewniany słup pergoli w gruncie z zastosowaniem przedstawionej na ilustracji stalowej kotwy?",
+    "answers": [
+      "Wbić kotwę w grunt, następnie zamocować słup w kotwie.",
+      "Zamocować słup w kotwie, następnie wbić kotwę w grunt.",
+      "Osadzić kotwę w betonowym fundamencie, następnie zamocować słup w kotwie.",
+      "Zamocować słup w kotwie, następnie zabetonować kotwę w fundamencie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_kotwa.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 3,
+    "text": "Na podstawie przedstawionego koła barw określ, które zestawienie można polecić do uzyskania efektu dopełnienia barw.",
+    "answers": [
+      "Zielony i żółty.",
+      "Żółty i czerwony.",
+      "Czerwony i niebieski.",
+      "Niebieski i pomarańczowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_kolo2.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 4,
+    "text": "Przedstawiony na ilustracji fragment Starego Miasta w Krakowie stanowi układ",
+    "answers": [
+      "urbanistyczny współczesny.",
+      "ruralistyczny zabytkowy.",
+      "urbanistyczny zabytkowy.",
+      "ruralistyczny współczesny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_ilustracja4.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 5,
+    "text": "Wskaż prawidłowy sposób zabezpieczenia warstwy urodzajnej gleby na czas prowadzenia robót ziemnych.",
+    "answers": [
+      "Przykrycie gleby folią w miejscach, w których będą prowadzone roboty.",
+      "Zdjęcie warstwy urodzajnej gleby i zmagazynowanie jej w pryzmach.",
+      "Zdjęcie warstwy urodzajnej gleby i zmagazynowane jej w kontenerach budowlanych.",
+      "Przykrycie gleby warstwą piasku w miejscach, w których będą prowadzone roboty."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 6,
+    "text": "Który etap budowy instalacji automatycznego nawadniania terenu wykonywany jest jako ostatni?",
+    "answers": [
+      "Wykonanie wykopów.",
+      "Zasypanie wykopów.",
+      "Montaż rur.",
+      "Sprawdzenie szczelności instalacji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 7,
+    "text": "Które kruszywo należy wybrać do wykonania warstwy podbudowy ścieżki pieszej na gruncie przepuszczalnym o nawierzchni ścieralnej z kostki brukowej betonowej?",
+    "answers": [
+      "Kliniec.",
+      "Tłuczeń.",
+      "Gruz.",
+      "Piasek."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 8,
+    "text": "Z przedstawionego fragmentu kalkulacji kosztorysowej wynika, że koszty bezpośrednie materiałów związanych z wykonaniem ławek parkowych z kamienia łamanego wynoszą",
+    "answers": [
+      "862,65 zł",
+      "1 170,15 zł",
+      "307,50 zł",
+      "127,50 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_kalkulacja2.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 9,
+    "text": "Przedstawiony na ilustracji element małej architektury jest typowy dla ogrodów urządzanych w stylu",
+    "answers": [
+      "średniowiecznym.",
+      "rustykalnym.",
+      "modernistycznym.",
+      "barokowym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_element10.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 10,
+    "text": "Ile wynosi grubość warstwy podsypki z piasku w nawierzchni przedstawionej na przekroju?",
+    "answers": [
+      "4 cm",
+      "6 cm",
+      "8 cm",
+      "10 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_przekroj12.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 11,
+    "text": "Na której ilustracji przedstawiono kielnię do fugowania spoin?",
+    "answers": [
+      "Na ilustracji 1.",
+      "Na ilustracji 4.",
+      "Na ilustracji 3.",
+      "Na ilustracji 2."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_kielnie.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 12,
+    "text": "Który zestaw materiałów i sprzętu jest potrzebny do przeprowadzenia odnowienia i zabezpieczenia przed korozją biologiczną kamiennej okładziny murka oporowego?",
+    "answers": [
+      "Impregnat na bazie żywicy i myjka ciśnieniowa.",
+      "Lakierobejca i gąbka ścierna.",
+      "Farba antykorozyjna i szczotka druciana.",
+      "Bejca i szczotka z tworzywa sztucznego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 13,
+    "text": "Na której ilustracji przedstawiono deskę kompozytową stosowaną do budowy nawierzchni tarasu ogrodowego?",
+    "answers": [
+      "Na ilustracji 3.",
+      "Na ilustracji 4.",
+      "Na ilustracji 2.",
+      "Na ilustracji 1."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_deski3.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 14,
+    "text": "Na zamieszczonym planie zagospodarowania terenu cyfrą 1 oznaczono",
+    "answers": [
+      "pergolę.",
+      "schody terenowe.",
+      "pochylnię.",
+      "murek oporowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_plan11.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 15,
+    "text": "Wskaż prawidłową kolejność prac realizowanych podczas budowy zbiornika wodnego z folii, jeżeli wykonano już dół pod zbiornik i wyłożono go warstwą piasku.",
+    "answers": [
+      "Umieszczenie kamieni i żwiru na dnie, rozłożenie folii, unieruchomienie brzegów folii, nalanie wody.",
+      "Rozłożenie folii, unieruchomienie brzegów folii, nalanie wody, umieszczenie kamieni i żwiru na dnie.",
+      "Rozłożenie folii, unieruchomienie brzegów folii, umieszczenie kamieni i żwiru na dnie, nalanie wody.",
+      "Rozłożenie folii, umieszczenie kamieni i żwiru na dnie, nalanie wody, unieruchomienie brzegów folii."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 16,
+    "text": "Który materiał należy wybrać do zabezpieczenia skarpy przydrożnej, aby jednocześnie zapewnić możliwie największy udział powierzchni biologicznie czynnej?",
+    "answers": [
+      "Ażurowe płyty betonowe.",
+      "Trylinkę.",
+      "Kostkę brukową.",
+      "Geokratę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 17,
+    "text": "Czyja zgoda jest wymagana przy podejmowaniu działań budowlanych w zakresie rewaloryzacji ogrodu historycznego?",
+    "answers": [
+      "Inwestora budowy.",
+      "Konserwatora przyrody.",
+      "Architekta krajobrazu.",
+      "Konserwatora zabytków."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 18,
+    "text": "Przedstawiony na ilustracji obiekt jest typowym elementem wyposażenia ogrodu",
+    "answers": [
+      "włoskiego.",
+      "chińskiego.",
+      "angielskiego.",
+      "francuskiego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_obiekt5.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 19,
+    "text": "Na ilustracji przedstawiono przykład kompozycji",
+    "answers": [
+      "otwartej.",
+      "zamkniętej.",
+      "dysharmonijnej.",
+      "wertykalnej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_kompozycja8.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 20,
+    "text": "Do gospodarczych urządzeń osiedlowych należy",
+    "answers": [
+      "trzepak.",
+      "latarnia.",
+      "huśtawka.",
+      "ławka."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 21,
+    "text": "Przedstawiony na ilustracji młotek ze stalowym obuchem i gumową nakładką będzie przydatny do wykonania",
+    "answers": [
+      "nawierzchni z kostki brukowej.",
+      "drewnianej konstrukcji pergoli.",
+      "metalowej konstrukcji ławki.",
+      "szalunku z drewnianych desek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_mlotek3.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 22,
+    "text": "Przedstawiony na rysunku symbol graficzny, zgodnie z normą PN-B-01030, stosowany jest do oznaczania na rysunkach budowlanych",
+    "answers": [
+      "tworzywa sztucznego.",
+      "betonu zbrojonego.",
+      "izolacji termicznej.",
+      "betonu lekkiego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_symbol15.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 23,
+    "text": "Z przedstawionego w tabeli planu prac wynika, że roboty dotyczą wykonania murka",
+    "answers": [
+      "murowanego z cegły na zaprawie cementowej.",
+      "murowanego z kamienia na zaprawie cementowej.",
+      "monolitycznego z betonu zbrojonego.",
+      "kamiennego suchego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_plan14.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 24,
+    "text": "Którym symbolem literowym należy oznaczyć przekrój przedstawiony na fragmencie projektu koncepcyjnego?",
+    "answers": [
+      "A-A",
+      "D-D",
+      "C-C",
+      "B-B"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_projekt8.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 25,
+    "text": "Na ilustracji przedstawiono pergolę. Cyfrą 1 oznaczono",
+    "answers": [
+      "zastrzał.",
+      "oczep.",
+      "słup.",
+      "poprzeczkę."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_pergola2.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 26,
+    "text": "Najtrwalsze umocnienie brzegów naturalnego zbiornika wodnego o zmiennym poziomie lustra wody można uzyskać za pomocą",
+    "answers": [
+      "narzutu kamiennego.",
+      "cegieł budowlanych.",
+      "kiszek faszynowych.",
+      "drewnianej palisady."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 27,
+    "text": "Element zwieńczenia słupka ogrodzeniowego wskazany na rysunku strzałką, to",
+    "answers": [
+      "kapinos.",
+      "dylatacja.",
+      "fuga.",
+      "kalenica."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_slupek4.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 28,
+    "text": "Na podstawie wyciągu z rozporządzenia określ maksymalne nachylenie projektowanej w parku niezadaszonej pochylni o wysokości 0,6 m przeznaczonej dla osób niepełnosprawnych.",
+    "answers": [
+      "8%",
+      "6%",
+      "15%",
+      "10%"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_wyciag.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 29,
+    "text": "Układ warstw podbudowy schodów terenowych można odczytać na podstawie",
+    "answers": [
+      "przekroju podłużnego.",
+      "wizualizacji fotorealistycznej.",
+      "widoku z boku.",
+      "planu wysokościowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 30,
+    "text": "Którą nawierzchnię najlepiej polecić do zastosowania pod bujakiem na placu zabaw dla dzieci?",
+    "answers": [
+      "Żwirową.",
+      "Betonową.",
+      "Poliuretanową.",
+      "Asfaltową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 31,
+    "text": "Narzędzie przedstawione na ilustracji to",
+    "answers": [
+      "paca do rozprowadzania zapraw klejowych.",
+      "kielnia do nakładania zapraw murarskich.",
+      "paca do zacierania tynku na mokro.",
+      "kielnia do murowania na cienką spoinę."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_narzedzie19.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 32,
+    "text": "Do wykonania połączenia przedstawionego na rysunku należy użyć",
+    "answers": [
+      "nitów.",
+      "wkrętów.",
+      "gwoździ.",
+      "śrub."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_polaczenie5.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 33,
+    "text": "Podczas budowy nawierzchni drogowej, formowanie spadków poprzecznych należy rozpocząć na etapie",
+    "answers": [
+      "układania warstwy ścieralnej.",
+      "niwelacji koryta drogi.",
+      "równania warstwy podbudowy.",
+      "zagęszczania warstwy wiążącej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 34,
+    "text": "Do budowy oczka wodnego, które ma być elementem krótkotrwałej ekspozycji i ma być łatwe do szybkiej rozbiórki, należy zastosować",
+    "answers": [
+      "bentonit.",
+      "folię.",
+      "beton.",
+      "kamień."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 35,
+    "text": "Na podstawie planu zagospodarowania ogrodu określ, ile wynosi różnica wysokości pomiędzy poziomem tarasu o nawierzchni z betonowej kostki brukowej a poziomem trawnika.",
+    "answers": [
+      "0,7 m",
+      "0,6 m",
+      "0,5 m",
+      "0,1 m"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_plan12.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 36,
+    "text": "Wirydarz to element charakterystyczny dla założeń",
+    "answers": [
+      "pałacowych.",
+      "dworskich.",
+      "klasztornych.",
+      "zamkowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 37,
+    "text": "Jakie wymiary będzie miał plac przedstawiony na mapie w skali 1:500, jeżeli wiadomo, że rzeczywiste wymiary placu wynoszą 250 × 500 cm?",
+    "answers": [
+      "25,0 × 50,0 cm",
+      "2,5 × 5,0 cm",
+      "5,0 × 10,0 cm",
+      "0,5 × 1,0 cm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 38,
+    "text": "Początek linii osnowy pomiarowej na sporządzanym szkicu pomiarów terenowych należy oznaczyć strzałką wskazującą kierunek pomiarów oraz symbolem",
+    "answers": [
+      "P",
+      "O",
+      "1,00",
+      "0,00"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 39,
+    "text": "Z zamieszczonej na planie zagospodarowania terenu osiedla analizy stanu wyposażenia wynika, że konieczna jest wymiana między innymi",
+    "answers": [
+      "pięciu słupków drogowych.",
+      "dwóch latarni.",
+      "czterech koszy na śmieci.",
+      "trzech ławek."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_plan7.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 40,
+    "text": "Na podstawie danych zawartych w tablicy z KNR 2-21 oblicz koszt robocizny związanej z budową prostokątnych ścian piaskownicy, wykonanych z krawężników drogowych betonowych, jeżeli konstrukcja piaskownicy będzie miała wymiary 2,5 × 2,5 m, a stawka za jedną roboczogodzinę wynosi 40,00 zł.",
+    "answers": [
+      "232,50 zł",
+      "186,00 zł",
+      "372,00 zł",
+      "37,20 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_tablica17.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 41,
+    "text": "Który łącznik należy zastosować do zamocowania deski szalówki do drewnianej konstrukcji nośnej altany?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_laczniki3.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 42,
+    "text": "W analizie kompozycyjnej krajobrazu przedstawionego na fotografii przydrożny krzyż stanowi element",
+    "answers": [
+      "liniowy.",
+      "powierzchniowy.",
+      "bryłowy.",
+      "punktowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_krzyz.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 43,
+    "text": "Przedstawiony na rysunku element wyposażenia ogrodu jest typowy dla ogrodów urządzanych w stylu",
+    "answers": [
+      "modernistycznym.",
+      "barokowym.",
+      "rustykalnym.",
+      "średniowiecznym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_element6.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 44,
+    "text": "Jakie wymiary będzie miał plac przedstawiony na mapie w skali 1:500, jeżeli wiadomo, że rzeczywiste wymiary placu wynoszą 250 × 400 cm?",
+    "answers": [
+      "1,0 × 2,2 cm",
+      "2,0 × 1,2 cm",
+      "0,5 × 0,8 cm",
+      "5,0 × 8,0 cm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 45,
+    "text": "Detal pokazujący połączenie deski sosnowej ze stalową konstrukcją ławki za pomocą śruby zamkowej, nakrętki i podkładki należy narysować w skali",
+    "answers": [
+      "1:5",
+      "1:25",
+      "1:250",
+      "1:50"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 46,
+    "text": "Które prace należy wykonać jako pierwsze podczas realizacji projektu rewaloryzacji historycznego założenia pałacowo-ogrodowego?",
+    "answers": [
+      "Analizę stopnia zachowania substancji zabytkowej.",
+      "Wytyczenie geodezyjne elementów projektu w terenie.",
+      "Opracowanie wytycznych konserwatorskich.",
+      "Badania archeologiczne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 47,
+    "text": "Zgodnie z normą PN-B-01030:2000 „Oznaczenia graficzne materiałów budowlanych na powierzchniach przekrojowych” element słupka ogrodzeniowego, wskazany na rysunku strzałką, należy wykonać",
+    "answers": [
+      "z betonu lekkiego.",
+      "z betonu zbrojonego.",
+      "z drewna.",
+      "z kamienia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_slupek3.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 48,
+    "text": "Na zamieszczonym fragmencie mapy zasadniczej, przeznaczonej do celów projektowych, strzałką wskazano odcinek sieci",
+    "answers": [
+      "wodociągowej.",
+      "ciepłowniczej.",
+      "elektroenergetycznej.",
+      "kanalizacyjnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_mapa5.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 49,
+    "text": "Zgodnie z Rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 2 listopada 2015 r. w sprawie bazy danych obiektów topograficznych oraz mapy zasadniczej przedstawiony na rysunku symbol oznacza",
+    "answers": [
+      "studnię głębinową.",
+      "przydrożną kapliczkę.",
+      "fontannę.",
+      "pomnik."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_symbol9.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 50,
+    "text": "Który materiał budowlany należy wybrać do wykonania trwałej, bezpiecznej i estetycznej krawędzi paleniska ogniska znajdującego się przy ścieżce przyrodniczej na polanie leśnej?",
+    "answers": [
+      "Obrzeże betonowe.",
+      "Kamień polny.",
+      "Dwuteownik stalowy.",
+      "Belkę sosnową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 51,
+    "text": "Do budowy zabezpieczenia przeciwerozyjnego przewidziano zastosowanie koszy gabionowych wypełnionych kruszywem. Parametry koszy zamieszczono w specyfikacji technicznej. Które kruszywo należy wybrać do ich wypełnienia?",
+    "answers": [
+      "Kamień polny łamany o frakcji 120÷200 mm",
+      "Tłuczeń granitowy o frakcji 31,5÷63 mm",
+      "Grys szklany o frakcji 2÷16 mm",
+      "Korę gnejsową o frakcji 11÷32 mm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_ramka.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 52,
+    "text": "Którego narzędzia należy użyć do kruszenia nawierzchni asfaltowej?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_narzedzia5.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 53,
+    "text": "Do wykonania pionowej izolacji przeciwwilgociowej fundamentu murku ogrodzeniowego należy zastosować",
+    "answers": [
+      "papę asfaltową.",
+      "wełnę mineralną.",
+      "agrowłókninę.",
+      "styropian."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 54,
+    "text": "Który obiekt wyposażenia parku miejskiego, umieszczony z boku alei parkowej, będzie przydatny do podkreślenia jej linearnego charakteru?",
+    "answers": [
+      "Postument z popiersiem.",
+      "Tablica pamiątkowa.",
+      "Okrągła fontanna.",
+      "Kanał wodny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 55,
+    "text": "W celu pokazania na jednym rysunku konstrukcji altany ogrodowej wraz z fundamentami należy zastosować",
+    "answers": [
+      "widok aksonometryczny.",
+      "przekrój.",
+      "widok z boku.",
+      "rzut."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 56,
+    "text": "W celu uzyskania efektu optycznego poszerzenia wąskiego placu w ogrodzie należy zaprojektować wzór nawierzchni placu w postaci",
+    "answers": [
+      "podłużnych pasów.",
+      "szachownicy.",
+      "nieregularnych figur geometrycznych.",
+      "poprzecznych pasów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 57,
+    "text": "Zgodnie z normą PN-B-01027:2002 r. „Rysunek budowlany. Oznaczenia graficzne stosowane w projektach zagospodarowania działki lub terenu” przedstawiony symbol graficzny stosowany jest na projektach wykonawczych do oznaczania spadku",
+    "answers": [
+      "instalacji odwadniającej.",
+      "dachu budynku.",
+      "podłużnego nawierzchni.",
+      "poprzecznego nawierzchni."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_symbol10.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 58,
+    "text": "W której strefie ogrodu przydomowego należy umieścić pokazany na rysunku obiekt?",
+    "answers": [
+      "Wypoczynkowej.",
+      "Reprezentacyjnej.",
+      "Ozdobnej.",
+      "Gospodarczej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_obiekt2.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 59,
+    "text": "Która informacja o terenie ma istotne znaczenie dla projektanta wykonującego projekt wykonawczy ogrodzenia, jeżeli wiadomo, że elementami konstrukcyjnymi tego ogrodzenia mają być murowane słupki i cokoły oraz betonowe fundamenty?",
+    "answers": [
+      "Głębokość przemarzania gruntu.",
+      "Dominujący kierunek wiatrów.",
+      "Nasłonecznienie.",
+      "Roczna suma opadów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 60,
+    "text": "Przedstawiona na rysunku drewniana skrzynia obsadzona warzywami to typowy element wyposażenia",
+    "answers": [
+      "ogrodu wertykalnego.",
+      "nadrzecznych bulwarów.",
+      "ogrodu społecznego.",
+      "parku leśnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_skrzynia.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 61,
+    "text": "Krajobraz, który utracił swą wartość biologiczną na skutek niekorzystnych zmian wprowadzonych w nim przez człowieka, nazywany jest krajobrazem",
+    "answers": [
+      "kulturowym harmonijnym.",
+      "kulturowym dysharmonijnym.",
+      "pierwotnym.",
+      "naturalnym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 62,
+    "text": "W celu zachowania naturalnego rysunku słojów i koloru drewna, z którego wykonane jest siedzisko ławki, podczas wykonywania prac renowacyjnych należy je pomalować",
+    "answers": [
+      "lakierem bezbarwnym.",
+      "bejcą wodną.",
+      "farbą lateksową.",
+      "farbą olejną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 63,
+    "text": "Na podstawie zamieszczonego rysunku określ, jakiej głębokości wykop należy wykonać pod najniżej zaprojektowany fundament?",
+    "answers": [
+      "40 cm",
+      "65 cm",
+      "30 cm",
+      "55 cm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_przekroj9.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 64,
+    "text": "Którą z prac należy wykonać jako ostatnią podczas wykonywania ogrodzenia miejskiego ze słupków przedstawionych na rysunku?",
+    "answers": [
+      "Wykonanie fundamentów betonowych.",
+      "Wykonanie podsypki piaskowej.",
+      "Montaż łańcuchów żeliwnych.",
+      "Osadzenie słupków żeliwnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_przekroj10.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 65,
+    "text": "Ile tarcicy potrzeba do wybudowania bramki, której widoki przedstawiono rysunkach?",
+    "answers": [
+      "44 000 cm3",
+      "20 000 cm3",
+      "22 000 cm3",
+      "40 000 cm3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_bramka.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 66,
+    "text": "Zgodnie z danymi zawartymi w podsumowaniu kosztorysu budowy altany ogrodowej, suma kosztów pośrednich z wykonania inwestycji wyniesie",
+    "answers": [
+      "648,84 zł",
+      "7 892,33 zł",
+      "5 794,79 zł",
+      "444,40 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_tabela12.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 67,
+    "text": "Na podstawie tablicy 0601 z KNR 2-21 określ, ile roboczogodzin potrzeba do wykonania 20 m3 ukwieconego murka ogrodowego z kamienia łamanego układanego na zaprawie cementowej.",
+    "answers": [
+      "6,20 r-g",
+      "170,60 r-g",
+      "34,40 r-g",
+      "211,20 r-g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_tablica12.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 68,
+    "text": "Objętość urobku pochodzącego z prostopadłościennego wykopu o wymiarach 2,0 × 3,0 × 1,5 m wynosi",
+    "answers": [
+      "6,5 m3",
+      "9,0 m3",
+      "4,5 m3",
+      "3,0 m3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 69,
+    "text": "Główną oś kompozycyjną przedstawionego na rysunku założenia pałacowo-parkowego oznaczono",
+    "answers": [
+      "II - II",
+      "I - I",
+      "III - III",
+      "IV - IV"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_plan5.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 70,
+    "text": "Ile wynosi objętość piasku potrzebnego do budowy studni chłonnej przedstawionej na rysunkach?",
+    "answers": [
+      "3,75 m3",
+      "0,75 m3",
+      "1,50 m3",
+      "2,50 m3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_studnia.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 71,
+    "text": "Do wypełniania szczelin w przepuszczalnej nawierzchni pieszej wykonanej z kostki granitowej należy zastosować",
+    "answers": [
+      "mieszankę grysu z cementem.",
+      "mieszankę tłucznia z piaskiem.",
+      "tylko piasek.",
+      "tylko cement."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 72,
+    "text": "Część graficzną inwentaryzacji wyposażenia parku miejskiego należy wykonać na mapie sporządzonej w skali",
+    "answers": [
+      "1 : 2 500",
+      "1 : 250",
+      "1 : 5 000",
+      "1 : 50 000"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 73,
+    "text": "Studnia umieszczona we wnętrzu wirydarza, którego rzut i przekrój przedstawiono na rysunku, stanowi",
+    "answers": [
+      "punkt charakterystyczny o znaczeniu symbolicznym.",
+      "dominantę wysokościową o znaczeniu symbolicznym.",
+      "punkt charakterystyczny o znaczeniu rekreacyjnym.",
+      "dominantę wysokościową o znaczeniu rekreacyjnym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_rzut.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 74,
+    "text": "Przedstawione na rysunku narzędzie przeznaczone jest do cięcia",
+    "answers": [
+      "drewnianych belek.",
+      "kostki brukowej.",
+      "płytek gresowych.",
+      "blachy stalowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_narzedzie15.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 75,
+    "text": "Na rysunku przedstawiono schemat budowy zbiornika wodnego wraz z instalacją doprowadzającą i odprowadzającą wodę. Którym numerem oznaczono na rysunku rurę przeznaczoną do odprowadzania nadmiaru wody ze zbiornika?",
+    "answers": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_schemat4.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 76,
+    "text": "Pole powierzchni przekroju wykopu przedstawionego na rysunku wynosi",
+    "answers": [
+      "1,500 m2",
+      "0,750 m2",
+      "0,375 m2",
+      "3,000 m2"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_przekroj11.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 77,
+    "text": "Przedstawiony na rysunku układ elementów małej architektury charakteryzuje",
+    "answers": [
+      "rytm.",
+      "symetria.",
+      "asymetria.",
+      "akcent."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_uklad2.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 78,
+    "text": "Zgodnie z zamieszczonym planem sytuacyjnym długość ogrodzenia wykonanego z siatki ogrodzeniowej wynosi",
+    "answers": [
+      "60,0 m",
+      "55,0 m",
+      "52,5 m",
+      "54,0 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_plan6.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 79,
+    "text": "Na podstawie zamieszczonego wzoru oblicz długość stopnicy stopnia schodów o wysokości podstopnicy 12 cm, przy założeniu, że średnia długość kroku wynosi 62 cm. 2h + b = k gdzie: h – wysokość podstopnicy b – długość stopnicy k – średnia długość kroku",
+    "answers": [
+      "50 cm",
+      "38 cm",
+      "40 cm",
+      "74 cm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 80,
+    "text": "Długość murka ogrodowego na planie sporządzanym w skali 1:200 wynosi 5 cm. Ile wyniesie długość tego murka w rzeczywistości?",
+    "answers": [
+      "5,0 m",
+      "0,5 m",
+      "1,0 m",
+      "10,0 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 81,
+    "text": "Którego materiału nie należy stosować jako izolacji cieplnej?",
+    "answers": [
+      "Wełny mineralnej.",
+      "Poliuretanu.",
+      "Papy asfaltowej.",
+      "Styropianu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 82,
+    "text": "Wyposażenie zabytkowego pałacu i otaczającego go parku w nowoczesne urządzenia sanitarne jest przykładem działań",
+    "answers": [
+      "modernizacyjnych.",
+      "restauracyjnych.",
+      "rekonstrukcyjnych.",
+      "konserwatorskich."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 83,
+    "text": "Jakiego koloru kostkę brukową należy dobrać do wykonania ścieżki zaprojektowanej pod pergolą pomalowaną na czarno, aby uzyskać harmonijne, monochromatyczne zestawienie barw pergoli i ścieżki?",
+    "answers": [
+      "Pomarańczowego.",
+      "Szarego.",
+      "Żółtego.",
+      "Brązowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 84,
+    "text": "Georuszty stosowane są do budowy dróg w celu",
+    "answers": [
+      "zapobiegania erozji warstwy ścieralnej nawierzchni.",
+      "uformowania spadków poprzecznych nawierzchni.",
+      "szybkiego odprowadzenia wody z gruntu.",
+      "zwiększenia wytrzymałości gruntu na ściskanie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 85,
+    "text": "Do dokręcenia przedstawionego na rysunku metalowego łącznika należy użyć",
+    "answers": [
+      "śrubokręta krzyżakowego.",
+      "klucza płaskiego.",
+      "młotka ślusarskiego.",
+      "nitownicy ręcznej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_lacznik.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 86,
+    "text": "Do budowy nawierzchni amortyzującej upadek na placu zabaw należy zastosować",
+    "answers": [
+      "tłuczeń.",
+      "pospółkę.",
+      "asfalt.",
+      "piasek."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 87,
+    "text": "Do szczegółowego przedstawienia na projekcie wykonawczym detalu łączenia siedziska ławki z betonowym cokołem należy użyć skali",
+    "answers": [
+      "1:100",
+      "1:50",
+      "1:5",
+      "1:200"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 88,
+    "text": "Na rysunku przedstawiono układ elementów w rytmie",
+    "answers": [
+      "naprzemiennym.",
+      "jednostajnym.",
+      "rosnącym.",
+      "malejącym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_uklad.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 89,
+    "text": "Przedstawione na rysunku oznaczenie graficzne materiału budowlanego zgodnie z normą PN-B-01030:2000, oznacza",
+    "answers": [
+      "beton lekki.",
+      "izolację termiczną.",
+      "beton zbrojony.",
+      "tworzywo sztuczne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_oznaczenie6.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 90,
+    "text": "Odchylenie od pionu w kierunku skarpy płaszczyzny czołowej prawidłowo skonstruowanego ceglanego murka oporowego o wysokości 1 m powinno mieścić się w zakresie",
+    "answers": [
+      "1 ÷ 2%",
+      "5 ÷ 7%",
+      "20 ÷ 30%",
+      "10 ÷ 15%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 91,
+    "text": "Zagospodarowanie dawnych terenów poprzemysłowych na współczesne potrzeby społeczne to",
+    "answers": [
+      "remediacja.",
+      "restauracja.",
+      "renaturalizacja.",
+      "rewitalizacja."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 92,
+    "text": "Aby zapobiec pękaniu konstrukcji betonowego murka oporowego długości 6 m, należy przewidzieć wykonanie",
+    "answers": [
+      "fundamentów punktowych.",
+      "rynny stokowej.",
+      "izolacji pionowej.",
+      "szczelin dylatacyjnych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 93,
+    "text": "Którego zabiegu nie wymaga konserwacja nawierzchni żwirowej?",
+    "answers": [
+      "Wyrównywania.",
+      "Betonowania.",
+      "Odchwaszczania.",
+      "Wałowania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 94,
+    "text": "Na rysunku przedstawiono przekroje poprzeczne podstawowych sortymentów tarcicy. Który rodzaj sortymentu należy wybrać do wykonania słupów nośnych w konstrukcji pergoli?",
+    "answers": [
+      "Deskę.",
+      "Łatę.",
+      "Krawędziak.",
+      "Listwę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_przekroje.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 95,
+    "text": "Długość rzeczywista ścieżki wynosi 20 m. Ile wyniesie długość ścieżki na planie sporządzonym w skali 1:500?",
+    "answers": [
+      "0,4 cm",
+      "4,0 cm",
+      "0,2 cm",
+      "2,0 cm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 96,
+    "text": "W celu ochrony drzew rosnących na terenie budowy przed uszkodzeniami mechanicznymi, pnie drzew należy osłonić matą słomianą oraz zabezpieczyć",
+    "answers": [
+      "folią poliuretanową i sznurkiem.",
+      "tkaniną jutową i sznurkiem.",
+      "deskowaniem i drutem.",
+      "papierem i drutem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 97,
+    "text": "W ogrodach przeznaczonych dla dzieci nie wolno stosować",
+    "answers": [
+      "szlifowanych desek drewnianych.",
+      "wikliny.",
+      "używanych podkładów kolejowych.",
+      "obrabianych bali."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 98,
+    "text": "Który rodzaj kamienia naturalnego jest najmniej przydatny do budowy stopni schodów terenowych, ze względu na małą odporność na ścieranie?",
+    "answers": [
+      "Wapień.",
+      "Bazalt.",
+      "Granit.",
+      "Sjenit."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 99,
+    "text": "Na rysunku przedstawiono kompozycję",
+    "answers": [
+      "statyczną otwartą.",
+      "statyczną zamkniętą.",
+      "dynamiczną otwartą.",
+      "dynamiczną zamkniętą."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_kompozycja4.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 100,
+    "text": "Z jakim spadkiem poprzecznym należy zaprojektować nawierzchnię drogi pieszej z betonowych kostek brukowych, aby zapewnić optymalne odprowadzanie wody opadowej z nawierzchni i bezpieczne poruszanie się po niej?",
+    "answers": [
+      "5,0%",
+      "0,5%",
+      "7,0%",
+      "2,0%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 101,
+    "text": "Który sposób zamocowania drewnianych słupów pergoli zapewni największą trwałość i stabilność konstrukcji?",
+    "answers": [
+      "Osadzenie słupów w kotwach wbitych w grunt.",
+      "Umieszczenie słupów w gruncie i ustabilizowanie ich za pomocą drewnianych klinów.",
+      "Wbicie słupów bezpośrednio w grunt.",
+      "Zamocowanie słupów w metalowych elementach zakotwionych w fundamentach betonowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 102,
+    "text": "Grubość warstwy ścieralnej nawierzchni pokazanej na przekroju konstrukcyjnym wynosi",
+    "answers": [
+      "10 cm",
+      "12 cm",
+      "22 cm",
+      "15 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_przekroj8.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 103,
+    "text": "Do zabezpieczania brzegów naturalnego zbiornika wodnego nie jest zalecane stosowanie",
+    "answers": [
+      "narzutu kamiennego.",
+      "sadzonek zdrewniałych.",
+      "żywic epoksydowych.",
+      "kiszek faszynowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 104,
+    "text": "Który łącznik należy zastosować do zamocowania blachodachówki do drewnianej konstrukcji dachowej?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_laczniki.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 105,
+    "text": "Zgodnie z wykazem znaków kartograficznych dla obiektów stanowiących treść mapy zasadniczej, zamieszczonym w rozporządzeniu Ministra Administracji i Cyfryzacji z dnia 2 listopada 2015 r. w sprawie bazy danych obiektów topograficznych oraz mapy zasadniczej, przedstawiony na rysunku symbol graficzny oznacza",
+    "answers": [
+      "latarnię.",
+      "fontannę.",
+      "słup.",
+      "studnię."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_symbol6.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 106,
+    "text": "Który element budowy schodów wskazano na rysunku strzałką?",
+    "answers": [
+      "Policzek.",
+      "Podstopnicę.",
+      "Stopnicę.",
+      "Nosek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_schody2.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 107,
+    "text": "Ile wyniesie nachylenie projektowanej skarpy o wysokości 5 m i długości podstawy 50 m?",
+    "answers": [
+      "25%",
+      "5%",
+      "10%",
+      "15%"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 108,
+    "text": "Narzędzie przedstawione na rysunku przeznaczone jest do",
+    "answers": [
+      "zaciągania i wygładzania tynku.",
+      "wygładzania i szlifowania powierzchni gipsowych.",
+      "wyrównywania i poziomowania wylewki betonowej.",
+      "nakładania i rozprowadzania zaprawy murarskiej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_narzedzie14.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 109,
+    "text": "Przedstawiony na rysunku element przeznaczony jest do budowy",
+    "answers": [
+      "ekranów dźwiękochłonnych.",
+      "liniowych odwodnień nawierzchni.",
+      "ogrodzeń placów zabaw.",
+      "przepustów drogowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_element5.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 110,
+    "text": "Który element wyposażenia placu zabaw przedstawiono na rysunku?",
+    "answers": [
+      "Ślizg.",
+      "Ważkę.",
+      "Huśtawkę.",
+      "Karuzelę."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_element4.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 111,
+    "text": "Ile wyniesie, zgodnie z danymi zawartymi w tablicy KNR, wartość kosztorysowa robocizny za wykonanie okładziny słupów pergoli z płytek terakotowych o łącznej powierzchni 32 m2, jeżeli stawka za jedną roboczogodzinę wynosi 12,00 zł?",
+    "answers": [
+      "1987,62 zł",
+      "1262,63 zł",
+      "1330,83 zł",
+      "1183,76 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_tablica10.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 112,
+    "text": "Ile kamienia łamanego niesortowanego, zgodnie z danymi zawartymi w tablicy KNR, potrzeba do wykonania układanego na sucho ukwieconego murka ogrodowego o objętości 16 m3?",
+    "answers": [
+      "27,60 m3",
+      "9,20 m3",
+      "18,40 m3",
+      "36,80 m3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_tablica11.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 113,
+    "text": "Linka stalowa oznaczona na rysunku cyfrą 1 przeznaczona jest do",
+    "answers": [
+      "montażu słupków ogrodzenia.",
+      "montażu furtek i bram ogrodzenia.",
+      "napinania siatki ogrodzenia.",
+      "ochrony przed kradzieżą ogrodzenia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_rysunek12.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 114,
+    "text": "Cechy charakterystyczne nawierzchni żywiczno-mineralnych to m.in.",
+    "answers": [
+      "wodoszczelność i nieprzepuszczalność dla powietrza.",
+      "przepuszczalność dla wody i nieprzepuszczalność dla powietrza.",
+      "wodoszczelność i przepuszczalność dla powietrza.",
+      "przepuszczalność dla wody i dla powietrza."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 115,
+    "text": "Który element przestrzenny jest charakterystyczny dla klasztornych założeń ogrodowych powstałych w średniowieczu?",
+    "answers": [
+      "Grota.",
+      "Kopiec.",
+      "Wirydarz.",
+      "Wgłębnik."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 116,
+    "text": "Wskaż materiał budowlany, który należy wybrać do budowy nawierzchni parkingu, aby zachować możliwie największy udział powierzchni biologicznie czynnej.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_materialy.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 117,
+    "text": "Który z podanych etapów budowy słupa ogrodzeniowego z cegły klinkierowej następuje najpóźniej?",
+    "answers": [
+      "Wylanie fundamentów.",
+      "Ułożenie ceramicznych daszków.",
+      "Fugowanie.",
+      "Ułożenie cegieł klinkierowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 118,
+    "text": "Zgodnie z normą PN-B-01027 symbol pokazany na ilustracji należy stosować na rysunkach budowlanych w celu oznaczenia",
+    "answers": [
+      "wysokości elementu projektowanego.",
+      "spadku poprzecznego jednostronnego.",
+      "spadku poprzecznego dwustronnego.",
+      "wysokości elementu istniejącego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_symbol5.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 119,
+    "text": "Na planie zaznaczono numerami miejsca lokalizacji elementów wyposażenia. Które miejsce jest optymalne do usytuowania pojemnika na odpady komunalne?",
+    "answers": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_plan2.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 120,
+    "text": "Na rysunku pokazano przekrój przez skarpę przeznaczoną pod budowę schodów jednobiegowych. Stopnica stopni ma mieć głębokość 42 cm a podstopnica wysokość 10 cm. Ile stopni należy zaprojektować?",
+    "answers": [
+      "5 stopni",
+      "6 stopni",
+      "7 stopni",
+      "8 stopni"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_przekroj6.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 121,
+    "text": "Widoczny na ilustracji element należy zakwalifikować podczas inwentaryzacji jako",
+    "answers": [
+      "lampę najazdową.",
+      "reflektor ogrodowy.",
+      "latarnię uliczną.",
+      "słupek oświetleniowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_element3.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 122,
+    "text": "Wskaż, która cecha będzie istotna podczas inwentaryzacji nawierzchni w celu wskazania obszaru do remontu.",
+    "answers": [
+      "Rodzaj materiału.",
+      "Procent powierzchni z ubytkami.",
+      "Kolor warstwy ścieralnej.",
+      "Typ podbudowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 123,
+    "text": "Które narzędzie specjalistyczne przeznaczone jest do wykonania fugi?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_narzedzia3.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 124,
+    "text": "W celu zabezpieczenia betonowego murka ogrodowego długości 8 m przed pękaniem związanym z tworzącymi się naprężeniami zależy zastosować",
+    "answers": [
+      "kapinos.",
+      "izolację pionową.",
+      "dylatację.",
+      "izolację poziomą."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 125,
+    "text": "Zgodnie z instrukcją techniczną K-1 podany symbol oznacza",
+    "answers": [
+      "fontannę.",
+      "latarnię.",
+      "punkt widokowy.",
+      "przydrożną kapliczkę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_symbol4.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 126,
+    "text": "Którą nawierzchnię należy polecić do zastosowania pod bujakiem na placu zabaw dla dzieci?",
+    "answers": [
+      "Asfaltową.",
+      "Poliuretanową.",
+      "Żwirową.",
+      "Betonową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 127,
+    "text": "W celu zabezpieczenia rzeźb z piaskowca przed wnikaniem wody należy zastosować",
+    "answers": [
+      "farbę lateksową.",
+      "farbę olejną.",
+      "preparat hydrofobowy.",
+      "środek higroskopijny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 128,
+    "text": "Do montażu papy do drewnianej konstrukcji dachu altany należy użyć młotka",
+    "answers": [
+      "ślusarskiego.",
+      "brukarskiego.",
+      "dekarskiego.",
+      "ciesielskiego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 129,
+    "text": "Który materiał należy polecić do wykonania ogrodzenia na placu zabaw o charakterze naturalistycznym?",
+    "answers": [
+      "Cegły klinkierowe.",
+      "Wiklinę.",
+      "Moduły betonowe.",
+      "Siatkę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 130,
+    "text": "Obserwator postrzega wnętrze pokazane na zamieszczonym schemacie jako",
+    "answers": [
+      "wydłużone.",
+      "złożone.",
+      "szerokie.",
+      "centralne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_schemat3.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 131,
+    "text": "Na ilustracji pokazano otwarcie widokowe",
+    "answers": [
+      "szerokie bez zamknięcia widoku.",
+      "szczelinowe bez zamknięcia widoku.",
+      "szczelinowe zamknięte dominantą.",
+      "szerokie zamknięte dominantą."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_ilustracja.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 132,
+    "text": "Na rysunku pokazano krawężnik osadzony w fundamencie z betonu",
+    "answers": [
+      "zbrojonego na podsypce piaskowej.",
+      "zbrojonego na warstwie tłucznia.",
+      "niezbrojonego na podsypce piaskowej.",
+      "niezbrojonego na warstwie tłucznia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_rysunek11.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 133,
+    "text": "Zgodnie z pokazanym planem pomiędzy rzeźbami po północnej i południowej stronie ścieżki występuje kontrast",
+    "answers": [
+      "jakościowy.",
+      "kształtu.",
+      "barw.",
+      "ilościowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_plan3.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 134,
+    "text": "Zgodnie z danymi zawartymi w zamieszczonym podsumowaniu kosztorysu zysk z zastosowania sprzętu podczas budowy nawierzchni ogrodowej wyniesie",
+    "answers": [
+      "3 183,90 zł",
+      "3 491,02 zł",
+      "307,12 zł",
+      "1 842,72 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_tabela9.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 135,
+    "text": "Do wykonania wykopu o objętości 0,5 m3 w podłożu gliniastym należy użyć",
+    "answers": [
+      "spycharki.",
+      "szufli.",
+      "szpadla.",
+      "łopaty."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 136,
+    "text": "Brzegi stawu znajdującego się w założeniu pałacowo-ogrodowym w stylu angielskim należy zabezpieczyć",
+    "answers": [
+      "faszyną.",
+      "betonowym murem.",
+      "betonowymi ażurowymi kratami.",
+      "gabionami wypełnionymi szkłem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 137,
+    "text": "Którą czynność budowy murka oporowego pokazanego na rysunku należy wykonać najpóźniej?",
+    "answers": [
+      "Wykonanie zbrojenia.",
+      "Montaż szalunku.",
+      "Wykonanie wykopu.",
+      "Wykonanie odwodnienia z żwiru."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_murek4.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 138,
+    "text": "Którego z wymienionych materiałów naturalnych należy użyć do uszczelnienia dna oczka wodnego?",
+    "answers": [
+      "Gliny.",
+      "Żwiru.",
+      "Piasku.",
+      "Grysu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 139,
+    "text": "Objętość masy ziemi pochodzącej z wykopu pokazanego na rysunkach wynosi",
+    "answers": [
+      "2,5 m3",
+      "21,0 m3",
+      "2,1 m3",
+      "25,0 m3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_wykop3.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 140,
+    "text": "Zgodnie z danymi zamieszczonymi na przekroju nawierzchni kortowej sztucznej grubość warstwy betonu wynosi",
+    "answers": [
+      "5,0 cm",
+      "3,0 cm",
+      "10,0 cm",
+      "16,7 cm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_przekroj7.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 141,
+    "text": "Którą czynność należy wykonać w pierwszej kolejności przy renowacji skorodowanego ogrodzenia panelowego?",
+    "answers": [
+      "Wyczyszczenie papierem drobnoziarnistym.",
+      "Nałożenie farby.",
+      "Wyczyszczenie papierem gruboziarnistym.",
+      "Nałożenie podkładu antykorozyjnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 142,
+    "text": "Który rodzaj prętów należy dobrać do wykonania żelbetowego murka oporowego?",
+    "answers": [
+      "Gładkie.",
+      "Żebrowane.",
+      "Gwintowane.",
+      "Sześciokątne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 143,
+    "text": "Ile wynosi rzeczywista szerokość nawierzchni, której szerokość na rzucie w skali 1:250 wynosi 1,5 cm?",
+    "answers": [
+      "3,75 m",
+      "4,00 m",
+      "0,60 m",
+      "2,50 m"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 144,
+    "text": "Do wykonania połączenia widocznego na rysunku należy użyć",
+    "answers": [
+      "śrub.",
+      "gwoździ.",
+      "wkrętów.",
+      "kołków."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_polaczenie2.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 145,
+    "text": "Która kolejność jest typowa dla budowy metalowego ogrodzenia panelowego?",
+    "answers": [
+      "Wykonanie wykopu, ustawienie słupków, zalanie wykopu mieszanką betonową, mocowanie paneli ogrodzeniowych.",
+      "Wykonanie wykopu, wylanie fundamentu, ustawienie słupków, mocowanie paneli ogrodzeniowych.",
+      "Wykonanie wykopu, zalanie wykopu mieszanką betonową, mocowanie paneli ogrodzeniowych, ustawienie słupków.",
+      "Wykonanie wykopu, ustawienie słupków, mocowanie paneli ogrodzeniowych, zalanie wykopu mieszanką betonową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 146,
+    "text": "Na którym dokumencie kartograficznym można sprawdzić lokalizację instalacji wodociągowej?",
+    "answers": [
+      "Ortofotomapie.",
+      "Mapie zasadniczej.",
+      "Mapie topograficznej.",
+      "Zdjęciu lotniczym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 147,
+    "text": "Na której ilustracji pokazano narzędzie przeznaczone do cięcia płyt wiórowych?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_narzedzia4.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 148,
+    "text": "Do wybudowania pełnej ściany przepuszczającej światło należy wybrać",
+    "answers": [
+      "cegły silikatowe.",
+      "gabiony.",
+      "luksfery.",
+      "bloczki betonowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 149,
+    "text": "W przestrzeni placu widocznego na ilustracji dominuje funkcja",
+    "answers": [
+      "sportowa.",
+      "rekreacyjna.",
+      "gastronomiczna.",
+      "kulturowa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_plac2.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 150,
+    "text": "Szczegółowy sposób łączenia belek altany przy pomocy śrub należy pokazać na rysunku wykonawczym w skali",
+    "answers": [
+      "1 : 25",
+      "1 : 50",
+      "1 : 5",
+      "1 : 100"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 151,
+    "text": "Do wykonania nawierzchni z tzw. kocich łbów należy użyć",
+    "answers": [
+      "betonowej kostki brukowej.",
+      "płyt betonowych.",
+      "kamieni polnych.",
+      "cegły klinkierowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 152,
+    "text": "Do określenia kierunku spadku nawierzchni należy użyć",
+    "answers": [
+      "łaty mierniczej.",
+      "poziomnicy.",
+      "taśmy mierniczej.",
+      "pionu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 153,
+    "text": "Dobrą podstawą do założenia osnowy pomiarów geodezyjnych jest",
+    "answers": [
+      "krawędź drogi nieutwardzonej.",
+      "ogrodzenie działki.",
+      "brzeg rzeki.",
+      "podziemna linia energetyczna."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 154,
+    "text": "Zgodnie z wykazem znaków kartograficznych dla obiektów stanowiących treść mapy zasadniczej zamieszczonym w rozporządzeniu Ministra Administracji i Cyfryzacji z dnia 2 listopada 2015 r. w sprawie bazy danych obiektów topograficznych oraz mapy zasadniczej pokazany na rysunku symbol oznacza",
+    "answers": [
+      "plac gier i zabaw.",
+      "grupę drzew liściastych.",
+      "grupę drzew iglastych.",
+      "plac sportowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_symbol7.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 155,
+    "text": "W której strefie ogrodu należy usytuować kompostownik?",
+    "answers": [
+      "Placu zabaw.",
+      "Ogrodu warzywnego.",
+      "Rekreacyjnej.",
+      "Reprezentacyjnej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_plan4.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 156,
+    "text": "Który układ dróg jest charakterystyczny dla ogrodu w stylu angielskim?",
+    "answers": [
+      "Płynny.",
+      "Wachlarzowy.",
+      "Promienisty.",
+      "Prostokątny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 157,
+    "text": "Ile wyniesie wartość kosztorysowa ułożenia 300 m2 kostki brukowej betonowej przy założeniu, że do ułożenia 100 m2 tej kostki potrzeba 119,57 r-g, a stawka za 1 jedną r-g wynosi 10,00 zł?",
+    "answers": [
+      "358,71 zł",
+      "1 195,70 zł",
+      "11 957,00 zł",
+      "3 587,10 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 158,
+    "text": "Wykonania którego zabiegu nie wymaga konserwacja nawierzchni żwirowej?",
+    "answers": [
+      "Odchwaszczania.",
+      "Betonowania.",
+      "Wałowania.",
+      "Wyrównywania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 159,
+    "text": "Wzór układania nawierzchni z klinkierowych cegieł drogowych zaprezentowany na rysunku nazywany jest",
+    "answers": [
+      "piłowym.",
+      "wężowym.",
+      "parkietowym.",
+      "krzyżowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_rysunek15.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 160,
+    "text": "Który element wyposażenia jest polecany do ogrodu dydaktycznego?",
+    "answers": [
+      "Dendrofon.",
+      "Huśtawka wahadłowa.",
+      "Bujak.",
+      "Ślizg podwójny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 161,
+    "text": "Którą czynność należy wykonać bezpośrednio przed zimą w przypadku zbiornika wodnego o głębokości 1,5 m wyposażonego w pełną instalację doprowadzającą i odprowadzającą wodę?",
+    "answers": [
+      "Wymienić wodę w zbiorniku.",
+      "Usunąć wodę wyłącznie z rury odprowadzającej wodę.",
+      "Usunąć wodę z całej instalacji doprowadzającej i odprowadzającej wodę.",
+      "Dodać do wody w zbiorniku preparat przeciwko glonom."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 162,
+    "text": "Ile wyniesie szerokość ścieżki na planie w skali 1:50, jeżeli jej szerokość w rzeczywistości równa jest 100 cm?",
+    "answers": [
+      "0,2 cm",
+      "20 cm",
+      "200 cm",
+      "2 cm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 163,
+    "text": "Jaki jest stosunek wysokości skarpy do jej podstawy przy jej 4% nachyleniu?",
+    "answers": [
+      "1:20",
+      "1:10",
+      "1:25",
+      "1:50"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 164,
+    "text": "Który rodzaj łączników służy do mocowania kompozytowych desek tarasowych do legarów?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_laczniki2.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 165,
+    "text": "Nowoczesna fontanna w kształcie szklanej kuli będzie harmonizować",
+    "answers": [
+      "z nowoczesną rzeźbą stalową.",
+      "z wiklinowym wigwamem.",
+      "z ogrodzeniem z drewnianych sztachet.",
+      "z rustykalnymi ceramicznymi donicami."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 166,
+    "text": "Który przyrząd jest przeznaczony do pomiaru wysokości drzew?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_przyrzady.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 167,
+    "text": "Zgodnie z danymi zawartymi w przedstawionym podsumowaniu kosztorysu zysk z wykonania inwestycji wyniesie",
+    "answers": [
+      "13 571,46 zł",
+      "158 583,65 zł",
+      "11 512,92 zł",
+      "195 057,89 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_tabela11.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 168,
+    "text": "Pierwszą czynnością przy wykonaniu schodów o konstrukcji drewnianej, wykonanych z palisad i żwiru według zamieszczonego rysunku, jest",
+    "answers": [
+      "uformowanie skarpy w formę schodkową.",
+      "ułożenie warstwy żwiru.",
+      "wysypanie podsypki z piasku.",
+      "wbicie elementów palisady na głębokość 2/3 ich wysokości w grunt."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_schody3.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 169,
+    "text": "Element wskazany na rysunku strzałką, znajdujący się w zwieńczeniu słupka ogrodzeniowego murowanego z cegieł klinkierowych, to",
+    "answers": [
+      "zbrojenie.",
+      "kapinos.",
+      "fuga.",
+      "dylatacja."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_slupek2.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 170,
+    "text": "Którego młotka należy użyć do przełamania cegły budowlanej?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_mlotki.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 171,
+    "text": "Który materiał należy dobrać do wykonania nawierzchni pod huśtawką na placu zabaw?",
+    "answers": [
+      "Wióry drzewne.",
+      "Cegłę klinkierową.",
+      "Płyty kamienne.",
+      "Kostkę brukową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 172,
+    "text": "Po wykonaniu wykopu pod budowę zbiornika wodnego, którego dno i brzegi mają być uszczelnione folią PVC, należy wykonać wyściółkę zabezpieczeniową",
+    "answers": [
+      "z desek.",
+      "z warstwy piasku.",
+      "z agrowłókniny.",
+      "z warstwy klińca."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 173,
+    "text": "Który zestaw przyrządów jest przydatny do wykonania pomiaru szczegółów terenowych metodą domiarów prostokątnych?",
+    "answers": [
+      "Węgielnica, jedna taśma miernicza, poziomica, niwelator.",
+      "Węgielnica, pion, dwie taśmy miernicze, trzy tyczki miernicze.",
+      "Jedna taśma miernicza, dwie tyczki miernicze, poziomica, pion.",
+      "Dwie taśmy miernicze, niwelator, jedna tyczka miernicza, pion."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 174,
+    "text": "Do przycięcia w równej linii zamontowanych desek tarasowych wystających nierówno poza legary należy użyć",
+    "answers": [
+      "uciosarki przesuwnej.",
+      "wyrzynarki.",
+      "piły tarczowej stołowej z odkurzaczem.",
+      "pilarki tarczowej z szyną prowadzącą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 175,
+    "text": "Formą ochrony zabytków nie jest",
+    "answers": [
+      "utworzenie parku kulturowego.",
+      "wpis do ewidencji zabytków.",
+      "wpis do rejestru zabytków.",
+      "uznanie za pomnik historii."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 176,
+    "text": "Do oznaczania którego materiału na rysunkach przekrojowych służy symbol graficzny pokazany na rysunku?",
+    "answers": [
+      "Szkła.",
+      "Powierzchni gruntu.",
+      "Betonu niezbrojonego.",
+      "Metalu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_symbol8.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 177,
+    "text": "Które narzędzie będzie przydatne do wykucia otworu w ścianie wykonanej z cegły budowlanej?",
+    "answers": [
+      "Przecinak.",
+      "Świder ręczny.",
+      "Śrubokręt płaski.",
+      "Dłuto."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 178,
+    "text": "Widoczny na schemacie plac jest postrzegany przez obserwatora usytuowanego w punkcie A jako wnętrze",
+    "answers": [
+      "szerokie.",
+      "centralne.",
+      "wydłużone.",
+      "złożone."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_plac3.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 179,
+    "text": "Przedstawiony na rysunku fragment Starego Miasta w Warszawie stanowi układ",
+    "answers": [
+      "urbanistyczny zabytkowy.",
+      "urbanistyczny współczesny.",
+      "ruralistyczny zabytkowy.",
+      "ruralistyczny współczesny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_rysunek13.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 180,
+    "text": "Pochylenie podłużne ciągu pieszego nie powinno przekraczać",
+    "answers": [
+      "4%",
+      "6%",
+      "3%",
+      "5%"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 181,
+    "text": "Zgodnie z zamieszczonym rysunkiem, w miejscu wskazanym strzałką, pomiędzy betonowym fundamentem a legarem drewnianym, do którego zostaną przymocowane deski tarasowe, należy umieścić",
+    "answers": [
+      "matę grzejną.",
+      "papę asfaltową.",
+      "styropian.",
+      "styrodur."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_rysunek14.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 182,
+    "text": "Które rodzaje rysunków stosowane są w projektach wykonawczych do pokazania sposobu wykonania projektowanego elementu?",
+    "answers": [
+      "Dimetria ukośna i widoki izometryczne.",
+      "Perspektywa powietrzna i widoki aksonometryczne.",
+      "Rzut z góry i przekroje konstrukcyjne.",
+      "Perspektywa rysunkowa i widoki z boku."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 183,
+    "text": "Najtrwalsze umocnienie brzegów naturalnego zbiornika wodnego o zmiennym poziomie lustra wodnego można uzyskać za pomocą",
+    "answers": [
+      "cegieł budowlanych.",
+      "drewnianej palisady.",
+      "narzutu kamiennego.",
+      "kiszek faszynowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 184,
+    "text": "Zgodnie z normą PN-B-01030:2000 dla oznaczenia na rysunku technicznym fundamentu z betonu wzmocnionego prętami zbrojeniowymi należy zastosować symbol graficzny",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_symbole3.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 185,
+    "text": "Pokazany na rysunku sprzęt to",
+    "answers": [
+      "zagęszczarka płytowa.",
+      "dobijak z uchwytem.",
+      "zagęszczarka stopowa.",
+      "szlifierka oscylacyjna."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_sprzet2.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 186,
+    "text": "Nawierzchnię ścieralną z betonowej kostki brukowej o wymiarach 179 x 119 x 40 mm, układaną na podsypce piaskowej na gruncie przepuszczalnym, można polecić do budowy",
+    "answers": [
+      "jezdni.",
+      "podjazdu do garażu.",
+      "parkingu.",
+      "ścieżki w ogrodzie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 187,
+    "text": "W celu ustalenia przebiegu podziemnego uzbrojenia terenu należy posłużyć się mapą",
+    "answers": [
+      "zasadniczą.",
+      "sozologiczną.",
+      "topograficzną.",
+      "fizjograficzną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 188,
+    "text": "Pokazane na rysunku łączenie desek tarasowych z legarami należy wykonać",
+    "answers": [
+      "wiertarką.",
+      "takerem.",
+      "gwoździarką.",
+      "wkrętarką."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_laczenie.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 189,
+    "text": "Zgodnie z danymi zawartymi w zestawieniu kosztów bezpośrednich dotyczącym obrzeży betonowych, koszty bezpośrednie materiałów (w pozycji razem) wynoszą",
+    "answers": [
+      "147,91 zł",
+      "25,50 zł",
+      "122,41 zł",
+      "120,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_tabela10.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 190,
+    "text": "Na rysunku pokazany jest przykład kompozycji",
+    "answers": [
+      "otwartej.",
+      "zamkniętej.",
+      "dysharmonijnej.",
+      "wertykalnej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_kompozycja5.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 191,
+    "text": "W celu wykonania ścieżki ogrodowej planowane jest wykonanie korytowania terenu o długości 5 m, szerokości 1 m i głębokości 30 cm. Ile wyniesie objętość ziemi pochodząca z korytowania?",
+    "answers": [
+      "150 m3",
+      "0,15 m3",
+      "1,5 m3",
+      "15 m3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 192,
+    "text": "Od której czynności należy rozpocząć osadzanie kosza na odpadki pokazanego na rysunku?",
+    "answers": [
+      "Zamocowania szalunku.",
+      "Wykonania wykopu pod fundament.",
+      "Wykonania uzbrojenia.",
+      "Wylania mieszanki betonowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_kosz.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 193,
+    "text": "Którym numerem na przedstawionym planie została oznaczona strefa reprezentacyjna ratusza?",
+    "answers": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_plan13.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 194,
+    "text": "Na ilustracji przedstawiono wnętrze krajobrazowe, które należy sklasyfikować jako",
+    "answers": [
+      "złożone konkretne.",
+      "centralne konkretne.",
+      "centralne subiektywne.",
+      "złożone subiektywne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_wnetrze4.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 195,
+    "text": "Na której ilustracji przedstawiono narzędzie do rozprowadzania zaprawy klejowej?",
+    "answers": [
+      "Na ilustracji 3.",
+      "Na ilustracji 2.",
+      "Na ilustracji 4.",
+      "Na ilustracji 1."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_narzedzia7.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 196,
+    "text": "Która technika rysunkowa nie będzie przydatna do sporządzenia wizualizacji zmienności kolorystycznej ogrodu w ciągu roku?",
+    "answers": [
+      "Technika kredek świecowych.",
+      "Technika pasteli.",
+      "Technika kredek akwarelowych.",
+      "Technika ołówka."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 197,
+    "text": "Przedstawiony na rysunku symbol graficzny, zgodnie z normą PN-EN ISO 11091, stosowany jest do oznaczania w projektach zagospodarowania terenu",
+    "answers": [
+      "muru oporowego.",
+      "granicy działki.",
+      "bramy w ogrodzeniu.",
+      "punktu świetlnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_symbol14.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 198,
+    "text": "Podczas budowy studni chłonnej jako pierwszą należy wykonać warstwę",
+    "answers": [
+      "otoczaków.",
+      "drobnego żwiru.",
+      "grubego żwiru.",
+      "ziemi urodzajnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 199,
+    "text": "Który materiał należy zastosować do wykonania wierzchniej warstwy nawierzchni kortu tenisowego?",
+    "answers": [
+      "Cegłę klinkierową.",
+      "Płyty betonowe.",
+      "Mączkę ceglaną.",
+      "Kamienie polne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 200,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR 2-21 oblicz ilość zaprawy cementowej potrzebnej do wykonania 10 m3 ławek parkowych murowanych z kamienia łamanego.",
+    "answers": [
+      "3,40 m3",
+      "1,20 m3",
+      "0,34 m3",
+      "0,07 m3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_tablica16.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 201,
+    "text": "Aby zapobiec pękaniu konstrukcji betonowego murka oporowego długości 8 m, należy przewidzieć wykonanie",
+    "answers": [
+      "fundamentów punktowych.",
+      "rynny stokowej.",
+      "szczelin dylatacyjnych.",
+      "izolacji pionowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 202,
+    "text": "Aby poddać renowacji siedzisko przedstawionej na ilustracji ławki w pierwszej kolejności należy",
+    "answers": [
+      "zaimpregnować deski.",
+      "wymienić śruby mocujące.",
+      "odkręcić deski.",
+      "polakierować deski."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_lawka4.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 203,
+    "text": "Zgodnie z przedstawionym rysunkiem wykonawczym, do mocowania słupa pergoli należy użyć śruby",
+    "answers": [
+      "fundamentowej.",
+      "rzymskiej.",
+      "rozporowej.",
+      "zamkowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_rysunek16.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 204,
+    "text": "Do wykonania w gruncie piaszczystym wykopu pod oczko wodne z formy przedstawionej na ilustracji należy użyć",
+    "answers": [
+      "koparki.",
+      "szpadla.",
+      "wiertnicy.",
+      "kilofa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_forma.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 205,
+    "text": "Zgodnie z przedstawionym fragmentem kosztorysu całkowity koszt usunięcia warstwy ziemi urodzajnej o grubości 15 cm za pomocą spycharki wynosi",
+    "answers": [
+      "125,70 zł",
+      "46,92 zł",
+      "144,94 zł",
+      "191,86 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_kosztorys.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 206,
+    "text": "Zgodnie z przedstawionym rysunkiem, w miejscu wskazanym strzałką, pomiędzy fundamentem a legarem, należy umieścić izolację",
+    "answers": [
+      "z papy asfaltowej.",
+      "z maty szklanej.",
+      "ze styropianu.",
+      "z wełny mineralnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_rysunek17.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 207,
+    "text": "Podstawowym elementem kompozycji jest",
+    "answers": [
+      "dominanta.",
+      "linia.",
+      "rytm.",
+      "symetria."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 208,
+    "text": "Którego narzędzia należy użyć do wypełnienia piaskiem spoin między kostką brukową podczas budowy nawierzchni?",
+    "answers": [
+      "Drewnianej łaty.",
+      "Szczotki.",
+      "Poziomicy.",
+      "Młotka brukarskiego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 209,
+    "text": "Na ilustracji przedstawiono krajobraz",
+    "answers": [
+      "kulturowy harmonijny.",
+      "naturalny.",
+      "kulturowy dysharmonijny.",
+      "pierwotny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_krajobraz4.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 210,
+    "text": "Zespół działań podejmowanych w celu przywrócenia zabytkowemu ogrodowi walorów artystycznych i historycznych to",
+    "answers": [
+      "rewaloryzacja.",
+      "modernizacja.",
+      "rekultywacja.",
+      "adaptacja."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 211,
+    "text": "Który element wyposażenia parku powinien być usytuowany przy jego wejściu?",
+    "answers": [
+      "Pergola.",
+      "Tablica z regulaminem.",
+      "Altana.",
+      "Poidełko dla ptaków."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 212,
+    "text": "Głównym celem budowy ogrodów deszczowych na obszarach zurbanizowanych jest",
+    "answers": [
+      "zmniejszenie powierzchni utwardzonych.",
+      "zmniejszenie monotonii krajobrazu.",
+      "zwiększenie liczby siedlisk ptaków śpiewających.",
+      "zwiększenie retencji i infiltracji wód opadowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 213,
+    "text": "Od której czynności należy rozpocząć realizację projektu oczka wodnego?",
+    "answers": [
+      "Wyznaczenia obrysu zbiornika w terenie.",
+      "Wykonania przegrody kapilarnej.",
+      "Wykonania wykopu.",
+      "Wyznaczenia głębokości zbiornika w terenie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 214,
+    "text": "Na schemacie przedstawiono sposób inwentaryzowania szczegółów terenowych z zastosowaniem metody",
+    "answers": [
+      "wcięć liniowych.",
+      "niwelacji geometrycznej.",
+      "domiarów prostokątnych.",
+      "niwelacji trygonometrycznej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_schemat5.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 215,
+    "text": "Na podstawie przedstawionego przekroju przez huśtawkę ogrodową wskaż czynność, którą należy wykonać bezpośrednio po wykonaniu wykopów.",
+    "answers": [
+      "Osadzenie płaskowników.",
+      "Wykonanie warstw odsączających z piasku.",
+      "Osadzenie ramy huśtawki.",
+      "Wykonanie fundamentu betonowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_przekroj21.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 216,
+    "text": "Na przekroju przez oczko wodne znakiem zapytania oznaczono warstwę kruszywa, która ma zabezpieczać układaną na niej folię PVC przed uszkodzeniami mechanicznymi. Które kruszywo należy wybrać do wykonania tej warstwy?",
+    "answers": [
+      "Tłuczeń.",
+      "Piasek.",
+      "Grys.",
+      "Kliniec."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_przekroj19.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 217,
+    "text": "Który rodzaj nawierzchni należy polecić do budowy ścieżki rowerowej w Parku Narodowym w celu jej zharmonizowania z otaczającym krajobrazem?",
+    "answers": [
+      "Betonową.",
+      "Żwirową.",
+      "Poliuretanową.",
+      "Asfaltową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 218,
+    "text": "Do budowy powierzchni antypoślizgowej tarasu należy wybrać deski",
+    "answers": [
+      "heblowane.",
+      "polerowane.",
+      "przecierane.",
+      "ryflowane."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 219,
+    "text": "O której czynności należy pamiętać przy zabezpieczaniu na okres zimy zbiornika wodnego o powierzchni 15 m2 i głębokości 1,5 m jeżeli wiadomo, że zbiornik jest zasiedlony przez ryby?",
+    "answers": [
+      "Wyjęciu koszy z roślinami ze zbiornika.",
+      "Zapewnieniu dostępu tlenu do zbiornika.",
+      "Obniżeniu poziomu wody do 0,5 m.",
+      "Przykryciu zbiornika folią."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 220,
+    "text": "W celu przywrócenia funkcji i formy przedstawionego na ilustracji chodnika należy",
+    "answers": [
+      "uzupełnić braki nowymi płytami.",
+      "zalać popękane płyty betonem.",
+      "tylko uzupełnić spoiny piaskiem.",
+      "wymienić całą nawierzchnię."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_chodnik.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 221,
+    "text": "Ile wynosi powierzchnia deskowania bocznego wykopu o długości 5 m i przekroju poprzecznym przedstawionym na rysunku?",
+    "answers": [
+      "10 m2",
+      "12 m2",
+      "24 m2",
+      "20 m2"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_przekroj22.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 222,
+    "text": "Na podstawie wyciągu z rozporządzenia określ maksymalne nachylenie projektowanej w parku niezadaszonej pochylni o wysokości 0,4 m przeznaczonej dla osób niepełnosprawnych.",
+    "answers": [
+      "10%",
+      "6%",
+      "8%",
+      "15%"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_rozporzadzenie.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 223,
+    "text": "Zgodnie z normą PN-B-01030, element ogrodzenia wskazany na przekroju strzałką, należy wykonać",
+    "answers": [
+      "z pustaków szklanych.",
+      "z cegły klinkierowej.",
+      "z betonu lekkiego.",
+      "z betonu zbrojonego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_przekroj20.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 224,
+    "text": "Do wykonania przedstawionego na rysunku połączenia należy użyć",
+    "answers": [
+      "wkrętów.",
+      "gwoździ.",
+      "nitów.",
+      "kołków."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_polaczenie5.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 225,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR 2-21 oblicz ilość zaprawy cementowej potrzebnej do wykonania 30 m3 ławek parkowych murowanych z kamienia łamanego.",
+    "answers": [
+      "1,50 m3",
+      "10,20 m3",
+      "2,10 m3",
+      "30,06 m3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_tablica16.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 226,
+    "text": "Na podstawie planu zagospodarowania ogrodu określ, ile wynosi różnica wysokości pomiędzy poziomem tarasu o nawierzchni z betonowej kostki brukowej, a poziomem trawnika.",
+    "answers": [
+      "0,1 m",
+      "0,5 m",
+      "0,7 m",
+      "0,6 m"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_plan12.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 227,
+    "text": "Do wykonania nawierzchni tarasu w ogrodzie zaprojektowanym w stylu rustykalnym należy polecić",
+    "answers": [
+      "płyty granitowe szlifowane.",
+      "płyty betonowe chodnikowe.",
+      "kostki betonowe brukowe.",
+      "deski dębowe heblowane."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 228,
+    "text": "Którą skalę należy zastosować przy wykonaniu rzutu z góry piaskownicy o wymiarach 2,0×3,8 m, aby rysunek zajął większość powierzchni arkusza formatu A4?",
+    "answers": [
+      "1 : 5",
+      "1 : 20",
+      "1 : 100",
+      "1 : 50"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 229,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR 2-21 oblicz, ile zaprawy cementowej potrzeba do wykonania ścian piaskownicy z krawężników drogowych betonowych, jeżeli projektowana piaskownica ma kształt prostokąta o wymiarach 1,8 × 2,2 m.",
+    "answers": [
+      "0,24 m3",
+      "1,18 m3",
+      "3,96 m3",
+      "0,03 m3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_tablica15.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 230,
+    "text": "Na podstawie przedstawionego przekroju poprzecznego przez teren oblicz, ile wynosi pole powierzchni przekroju wykopu.",
+    "answers": [
+      "37,0 m2",
+      "24,0 m2",
+      "12,0 m2",
+      "18,5 m2"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_wykop6.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 231,
+    "text": "Na ilustracji przedstawiono narzędzie przeznaczone do ręcznego",
+    "answers": [
+      "kruszenia betonu i asfaltu.",
+      "wiercenia otworów w drewnie.",
+      "wiercenia otworów w ziemi.",
+      "mieszania zapraw i klejów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_narzedzie18.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 232,
+    "text": "Dominującą funkcją ogrodu etnograficznego jest funkcja",
+    "answers": [
+      "estetyczna.",
+      "terapeutyczna.",
+      "dydaktyczna.",
+      "użytkowa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 233,
+    "text": "Na przedstawionym planie zagospodarowania terenu cyfrą 1 oznaczono",
+    "answers": [
+      "schody terenowe.",
+      "pergolę.",
+      "pochylnię.",
+      "murek oporowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_plan11.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 234,
+    "text": "Który element wyposażenia jest typowy dla ogrodu kalwaryjnego?",
+    "answers": [
+      "Glorieta.",
+      "Kapliczka.",
+      "Pagoda.",
+      "Oranżeria."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 235,
+    "text": "Do wykonania warstwy podbudowy nawierzchni ścieżki długości 10 m i przekroju poprzecznym przedstawionym na rysunku potrzeba",
+    "answers": [
+      "0,225 m3 pospółki.",
+      "0,300 m3 pospółki.",
+      "3,000 m3 pospółki.",
+      "2,250 m3 pospółki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_przekroj18.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 236,
+    "text": "Na rysunku przedstawiono widok trejażu drewnianego. Cyfrą 1 oznaczono",
+    "answers": [
+      "słup.",
+      "zastrzał.",
+      "poprzeczkę.",
+      "oczep."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_trejaz2.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 237,
+    "text": "Którą domieszkę należy zastosować do mieszanki betonowej, aby uzyskać wodoszczelny beton przeznaczony do budowy oczka wodnego?",
+    "answers": [
+      "Przyspieszającą wiązanie.",
+      "Uszczelniającą.",
+      "Barwiącą.",
+      "Opóźniającą wiązanie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 238,
+    "text": "Który zestaw sprzętu i materiałów jest potrzebny do odnowienia i zabezpieczenia przed korozją biologiczną kamiennej okładziny murka oporowego?",
+    "answers": [
+      "Szczotka druciana i farba antykorozyjna.",
+      "Gąbka szlifierska i lakierobejca.",
+      "Myjka ciśnieniowa i impregnat na bazie żywicy.",
+      "Szczotka z tworzywa sztucznego i bejca."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 239,
+    "text": "Wskaż czynności (w kolejności technologicznej) związane z wykonaniem nawierzchni z kostki brukowej na gruncie przepuszczalnym, przeznaczonej do celów pieszych.",
+    "answers": [
+      "Osadzenie obrzeży, korytowanie i zagęszczenie podłoża, wykonanie dwóch warstw podbudowy z tłucznia, zagęszczenie warstw podbudowy, ułożenie kostki brukowej.",
+      "Korytowanie i zagęszczenie podłoża, osadzenie obrzeży, wykonanie warstwy podbudowy z piasku, zagęszczenie podbudowy, ułożenie kostki brukowej.",
+      "Korytowanie i zagęszczenie podłoża, wykonanie wylewki betonowej, wykonanie warstwy podbudowy z piasku, osadzenie obrzeży, ułożenie kostki brukowej.",
+      "Osadzenie obrzeży, korytowanie i zagęszczenie podłoża, wykonanie dwóch warstw podbudowy z klińca, zagęszczenie warstw podbudowy, ułożenie kostki brukowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 240,
+    "text": "Przęsło ogrodzenia typowego dla ogrodów zaprojektowanych w stylu modernistycznym przedstawiono na",
+    "answers": [
+      "ilustracji 1.",
+      "ilustracji 3.",
+      "ilustracji 4.",
+      "ilustracji 2."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_przesla.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 241,
+    "text": "Na której ilustracji przedstawiono pacę do rozprowadzania zapraw klejowych?",
+    "answers": [
+      "Na ilustracji 4.",
+      "Na ilustracji 2.",
+      "Na ilustracji 1.",
+      "Na ilustracji 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_pace.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 242,
+    "text": "W ogrodzie przedszkolnym nie należy umieszczać",
+    "answers": [
+      "ślizgu pojedynczego.",
+      "nawierzchni trawiastej.",
+      "ważki podwójnej.",
+      "oczka wodnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 243,
+    "text": "Zgodnie z normą PN-B-01027:2002 przedstawione na rysunku oznaczenie graficzne stosowane jest w projektach zagospodarowania terenu do oznaczania",
+    "answers": [
+      "nawierzchni z dużych elementów.",
+      "miejsc postojowych na parkingu.",
+      "ściany oporowej.",
+      "projektowanej skarpy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_oznaczenie7.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 244,
+    "text": "Która maszyna nie jest przeznaczona do płaskiego odspajania gruntu?",
+    "answers": [
+      "Równiarka.",
+      "Koparka.",
+      "Spycharka.",
+      "Zgarniarka."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 245,
+    "text": "Oblicz objętość wykopu, którego szkic przedstawiono na rysunku.",
+    "answers": [
+      "25,0 m3",
+      "10,5 m3",
+      "12,5 m3",
+      "15,0 m3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_wykop5.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 246,
+    "text": "Na podstawie zamieszczonego fragmentu kalkulacji kosztorysowej oblicz koszty bezpośrednie materiałów związanych z wykonaniem ławek parkowych.",
+    "answers": [
+      "390,05 zł",
+      "102,50 zł",
+      "160,00 zł",
+      "380,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_kalkulacja.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 247,
+    "text": "Które materiały są niezbędne do wykonania gabionowego murka oporowego?",
+    "answers": [
+      "Cegły, zaprawa cementowa.",
+      "Otoczaki, kosze z metalowej siatki.",
+      "Żwir, palisada drewniania.",
+      "Kamień łamany, mieszanka piasku i torfu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 248,
+    "text": "W której strefie funkcjonalno-przestrzennej ogrodu przydomowego powinna znaleźć się szopa na narzędzia?",
+    "answers": [
+      "Użytkowej.",
+      "Reprezentacyjnej.",
+      "Wypoczynkowej.",
+      "Rekreacyjnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 249,
+    "text": "Zakładając ogród na dachu garażu, począwszy od stropu, należy ułożyć kolejno następujące warstwy:",
+    "answers": [
+      "izolację przeciwwilgociową, agrowłókninę, drenaż z keramzytu, ziemię żyzną.",
+      "drenaż z keramzytu, agrowłókninę, izolację przeciwwilgociową, ziemię żyzną.",
+      "drenaż z keramzytu, izolację przeciwwilgociową, agrowłókninę, ziemię żyzną.",
+      "izolację przeciwwilgociową, drenaż z keramzytu, agrowłókninę, ziemię żyzną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 250,
+    "text": "Ślizg, huśtawka, ważka, przeplotnia to typowe elementy wyposażenia ogrodu",
+    "answers": [
+      "jordanowskiego.",
+      "etnograficznego.",
+      "zoologicznego.",
+      "botanicznego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 251,
+    "text": "Na ilustracji przedstawiono kompozycję",
+    "answers": [
+      "otwartą dynamiczną.",
+      "zamkniętą dynamiczną.",
+      "otwartą statyczną.",
+      "zamkniętą statyczną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_kompozycja7.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 252,
+    "text": "W celu przywrócenia terenowi utraconych wartości biologicznych należy go poddać",
+    "answers": [
+      "rewaloryzacji.",
+      "modernizacji.",
+      "adaptacji.",
+      "rekultywacji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 253,
+    "text": "W jaki sposób należy zamocować drewniany słup pergoli w gruncie z wykorzystaniem przedstawionej na ilustracji stalowej kotwy?",
+    "answers": [
+      "Wbić kotwę w grunt, następnie zamocować słup w kotwie.",
+      "Osadzić kotwę w betonowym fundamencie, następnie zamocować słup w kotwie.",
+      "Zamocować słup w kotwie, następnie wbić kotwę w grunt.",
+      "Zamocować słup w kotwie, następnie zabetonować kotwę w fundamencie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_kotwa.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 254,
+    "text": "Który rodzaj płytek nie ma zastosowania jako okładzina betonowego murka oporowego?",
+    "answers": [
+      "Gipsowe.",
+      "Klinkierowe.",
+      "Kamienne.",
+      "Gresowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 255,
+    "text": "W celu uzyskania subiektywnego wnętrza ogrodowego należy je tak zaprojektować, aby ilość otwarć w ścianach",
+    "answers": [
+      "nie przekraczała 30%.",
+      "wynosiła od 30 do 40%.",
+      "wynosiła od 50 do 60%.",
+      "przekraczała 60%."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 256,
+    "text": "Brama księżycowa jest typowym elementem wyposażenia ogrodu",
+    "answers": [
+      "chińskiego.",
+      "francuskiego.",
+      "włoskiego.",
+      "angielskiego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 257,
+    "text": "Który przyrząd przeznaczony jest do pomiaru kątów poziomych i pionowych w terenie?",
+    "answers": [
+      "Niwelator.",
+      "Węgielnica.",
+      "Teodolit.",
+      "Poziomica."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 258,
+    "text": "Na którym rysunku, zgodnie z normą PN-B-01030:2000, przedstawiono oznaczenie graficzne stosowane w projektach wykonawczych do oznaczania elementów z cegły?",
+    "answers": [
+      "Na rysunku 2.",
+      "Na rysunku 3.",
+      "Na rysunku 1.",
+      "Na rysunku 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_oznaczenia4.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 259,
+    "text": "Którym symbolem literowym należy oznaczyć przekrój wykonany na podstawie przedstawionego fragmentu projektu koncepcyjnego?",
+    "answers": [
+      "A-A",
+      "D-D",
+      "B-B",
+      "C-C"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_projekt7.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 260,
+    "text": "Ile wynosi grubość warstwy podsypki z piasku nawierzchni przedstawionej na przekroju?",
+    "answers": [
+      "4 cm",
+      "6 cm",
+      "8 cm",
+      "10 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_przekroj17.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 261,
+    "text": "Na rysunku trejażu numerem 1 oznaczono",
+    "answers": [
+      "zastrzał.",
+      "oczep.",
+      "poprzeczkę.",
+      "słup."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_trejaz.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 262,
+    "text": "Na przedstawionym planie ogrodu przydomowego literą A oznaczono strefę",
+    "answers": [
+      "ogrodu ziołowego.",
+      "ogrodu wejściowego.",
+      "salonu ogrodowego.",
+      "dzikiego ogrodu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_plan10.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 263,
+    "text": "Przedstawiony na ilustracji element przeznaczony jest do",
+    "answers": [
+      "budowy liniowych odwodnień nawierzchni.",
+      "wykonywania przegród kapilarnych.",
+      "budowy przepustów drogowych.",
+      "wykonywania dylatacji w murkach."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_element8.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 264,
+    "text": "Którą z metod stosuje się, aby określić czystość powietrza lub wody za pomocą tzw. organizmów wskaźnikowych?",
+    "answers": [
+      "Metodę jednostek architektoniczno-krajobrazowych.",
+      "Waloryzację przyrodniczą.",
+      "Fitoindykację gatunkową i fitocenotyczną.",
+      "Bioindykację."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 265,
+    "text": "W projekcie wykonawczym przewidziano budowę ścieżki ogrodowej szerokości 1,5 m i długości 8,0 m z płyt chodnikowych betonowych układanych na warstwie podsypki piaskowej grubości 15 cm. Ile wynosi objętość warstwy podsypki piaskowej w projektowanej nawierzchni?",
+    "answers": [
+      "1,8 m3",
+      "1,2 m3",
+      "22,5 m3",
+      "12,0 m3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 266,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR 2-21 oblicz wartość kosztorysową robocizny za wykonanie spoinowania słupów pergoli o łącznej powierzchni 32 m2, jeżeli stawka za 1 roboczogodzinę wynosi 30,00 zł.",
+    "answers": [
+      "2 035,20 zł",
+      "1 908,00 zł",
+      "610,56 zł",
+      "636,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_tablica14.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 267,
+    "text": "Przedstawiony na ilustracji wzór układania nawierzchni z klinkierowych cegieł drogowych nazywany jest",
+    "answers": [
+      "parkietowym.",
+      "piłowym.",
+      "wężowym.",
+      "krzyżowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_wzor.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 268,
+    "text": "W projekcie wykonawczym terenu parku miejskiego przewidziano między innymi wykonanie ścieżek i sadzawki, montaż mostka oraz sadzenie roślin. Która czynność powinna zostać wykonywana w ostatnim etapie realizacji tego projektu?",
+    "answers": [
+      "Wykonanie ścieżek.",
+      "Wykonanie sadzawki.",
+      "Sadzenie roślin wokół sadzawki.",
+      "Montaż mostka nad sadzawką."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 269,
+    "text": "Przedstawiona na ilustracji piła przeznaczona jest do cięcia",
+    "answers": [
+      "kamienia.",
+      "drewna.",
+      "metalu.",
+      "betonu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_pila3.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 270,
+    "text": "W celu pokazania na jednym rysunku konstrukcji murka oporowego wraz z fundamentem należy zastosować",
+    "answers": [
+      "widok aksonometryczny.",
+      "przekrój poprzeczny.",
+      "widok z przodu.",
+      "rzut z góry."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 271,
+    "text": "Właściciel ogrodu zamówił wykonanie nawierzchni tarasu ogrodowego z desek kompozytowych. Do realizacji zamówienia należy wybrać element przedstawiony",
+    "answers": [
+      "na ilustracji 4.",
+      "na ilustracji 1.",
+      "na ilustracji 2.",
+      "na ilustracji 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_deski2.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 272,
+    "text": "Ile roboczogodzin potrzeba do montażu 30 ławek parkowych o długości 1,50 m każda, jeśli norma robocizny wynosi 3,15 r-g/1 m długości ławki?",
+    "answers": [
+      "94,50 r-g",
+      "141,75 r-g",
+      "1 417,50 r-g",
+      "47,25 r-g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 273,
+    "text": "Przedstawione na rysunku oznaczenie graficzne, zgodnie z normą PN-B-01027:2002, stosowane jest na rysunkach budowlanych do oznaczania",
+    "answers": [
+      "spadku poprzecznego dwustronnego.",
+      "spadku poprzecznego jednostronnego.",
+      "wysokości elementu projektowanego.",
+      "wysokości elementu istniejącego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_symbol12.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 274,
+    "text": "Na rysunku przestawiono mocowanie słupa pergoli do fundamentu betonowego za pomocą śruby",
+    "answers": [
+      "rozporowej.",
+      "kotwiącej młoteczkowej.",
+      "rzymskiej.",
+      "kotwiącej fajkowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_rysunek16.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 275,
+    "text": "Na której ilustracji przedstawiono materiał budowlany, który należy wybrać do budowy nawierzchni parkingu, aby zachować możliwie największy udział powierzchni biologicznie czynnej?",
+    "answers": [
+      "Na ilustracji 1.",
+      "Na ilustracji 2.",
+      "Na ilustracji 3.",
+      "Na ilustracji 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_materialy3.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 276,
+    "text": "Na rysunku przedstawiono schemat układu kompozycyjnego ogrodu",
+    "answers": [
+      "romantycznego.",
+      "średniowiecznego.",
+      "antycznego.",
+      "barokowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_schemat.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 277,
+    "text": "Rewaloryzacji podlegają",
+    "answers": [
+      "ogrody zabytkowe.",
+      "pomniki przyrody.",
+      "budowle habitatowe.",
+      "rezerwaty przyrody."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 278,
+    "text": "Na którym rysunku przedstawiono oznaczenie graficzne granicy obszaru objętego opracowaniem, zgodne z normą PN-B-01027:2002?",
+    "answers": [
+      "Na rysunku 1.",
+      "Na rysunku 4.",
+      "Na rysunku 2.",
+      "Na rysunku 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_oznaczenia3.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 279,
+    "text": "Ścieżka parkowa o nawierzchni gruntowej nieulepszonej wymaga częstego",
+    "answers": [
+      "odchwaszczania.",
+      "szczotkowania.",
+      "ubijania.",
+      "zamulania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 280,
+    "text": "Warstwę podbudowy ścieżki pieszej o szerokości 1 m należy ubić",
+    "answers": [
+      "młotem pneumatycznym.",
+      "wałem Campbella.",
+      "wałem strunowym.",
+      "zagęszczarką płytową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 281,
+    "text": "Na ilustracji pokazany jest przykład kompozycji",
+    "answers": [
+      "wertykalnej.",
+      "otwartej.",
+      "dysharmonijnej.",
+      "zamkniętej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_kompozycja6.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 282,
+    "text": "Ile wynosi rzeczywista powierzchnia piaskownicy, której wymiary w skali 1:250 wynoszą 0,8×1,2 cm?",
+    "answers": [
+      "2,4 m2",
+      "0,6 m2",
+      "6,0 m2",
+      "9,6 m2"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 283,
+    "text": "Ile wyniesie długość murka ogrodowego na planie sporządzonym w skali 1:75, jeżeli rzeczywista długość tego murka wynosi 15,00 m?",
+    "answers": [
+      "20,00 cm",
+      "7,50 cm",
+      "11,25 cm",
+      "22,50 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 284,
+    "text": "Narzędzie przedstawione na ilustracji przeznaczone jest do",
+    "answers": [
+      "wyrównywania i poziomowania wylewki betonowej.",
+      "zaciągania i wygładzania zaprawy tynkarskiej.",
+      "nakładania i rozprowadzania zaprawy murarskiej.",
+      "wygładzania i szlifowania powierzchni gipsowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_narzedzie17.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 285,
+    "text": "Na którym rysunku przedstawiono oznaczenie graficzne betonu lekkiego zbrojonego, zgodne z normą PN-B-01030:2000?",
+    "answers": [
+      "Na rysunku 1.",
+      "Na rysunku 2.",
+      "Na rysunku 4.",
+      "Na rysunku 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_oznaczenia2.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 286,
+    "text": "Początek linii osnowy pomiarowej na sporządzanym szkicu pomiarów terenowych należy oznaczyć strzałką wskazującą kierunek pomiarów oraz za pomocą oznaczenia",
+    "answers": [
+      "O",
+      "0,00",
+      "P",
+      "1,00"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 287,
+    "text": "Nawierzchnię twardą nieulepszoną ścieżki ogrodowej, zaprojektowanej na gruncie przepuszczalnym, można wykonać",
+    "answers": [
+      "z drobnego żwiru na podbudowie z mieszanki tłucznia i klińca.",
+      "z asfaltu lanego na podbudowie z tłucznia.",
+      "z betonowej kostki brukowej na podsypce piaskowej.",
+      "z masy poliuretanowej na podłożu betonowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 288,
+    "text": "Elementy nośne przedstawionej na rysunku ławki należy trwale montować w fundamencie poprzez",
+    "answers": [
+      "klinowanie klińcem.",
+      "betonowanie kotew.",
+      "mocowanie zaprawą.",
+      "przykręcenie śrubami."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_lawka3.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 289,
+    "text": "Na której ilustracji przedstawiono ławkę, którą można polecić do zastosowania w parku o charakterze nowoczesnym?",
+    "answers": [
+      "Na ilustracji 3.",
+      "Na ilustracji 4.",
+      "Na ilustracji 1.",
+      "Na ilustracji 2."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_lawki3.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 290,
+    "text": "Na podstawie danych zawartych w tablicy z KNR 2-21 oblicz wartość robocizny związanej z budową prostokątnych ścian piaskownicy, wykonanych z krawężników drogowych betonowych, jeśli piaskownica będzie miała wymiary 9,0×9,0 m, a stawka za jedną roboczogodzinę wynosi 15,00 zł.",
+    "answers": [
+      "502,20 zł",
+      "5 022,00 zł",
+      "50,20 zł",
+      "5 020,20 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_tablica13.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 291,
+    "text": "Na rysunku pergoli cyfrą 1 oznaczono",
+    "answers": [
+      "poprzeczkę.",
+      "oczep.",
+      "słup.",
+      "zastrzał."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_pergola.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 292,
+    "text": "Na której ilustracji przedstawiono specjalistyczne narzędzie przeznaczone do wykonywania fug?",
+    "answers": [
+      "Na ilustracji 4.",
+      "Na ilustracji 1.",
+      "Na ilustracji 2.",
+      "Na ilustracji 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_narzedzia6.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 293,
+    "text": "Zgodnie z normą PN-B-01030:2000 na rysunku przedstawiono przekrój krawężnika osadzonego w fundamencie z betonu",
+    "answers": [
+      "zbrojonego na podsypce piaskowej.",
+      "niezbrojonego na warstwie tłucznia.",
+      "niezbrojonego na podsypce piaskowej.",
+      "zbrojonego na warstwie tłucznia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_rysunek11.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 294,
+    "text": "Do wykonania w gruncie dołków pod słupy ogrodzenia z siatki należy użyć",
+    "answers": [
+      "wiertnicy spalinowej.",
+      "minikoparki gąsienicowej.",
+      "wertykulatora spalinowego.",
+      "aeratora elektrycznego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 295,
+    "text": "Na planie oznaczono cyframi od 1 do 4 miejsca lokalizacji elementów wyposażenia. Którą cyfrą oznaczono optymalne miejsce do usytuowania pojemnika na odpady komunalne?",
+    "answers": [
+      "Cyfrą 1.",
+      "Cyfrą 2.",
+      "Cyfrą 4.",
+      "Cyfrą 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_plan8.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 296,
+    "text": "Jakie wymiary będzie miał plac przedstawiony na mapie w skali 1:500, jeżeli wiadomo, że rzeczywiste wymiary tego placu wynoszą 250 × 400 cm?",
+    "answers": [
+      "1,0 × 2,2 cm",
+      "5,0 × 8,0 cm",
+      "2,0 × 1,2 cm",
+      "0,5 × 0,8 cm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 297,
+    "text": "Ile wynosi rzeczywista szerokość drogi, której szerokość na mapie zasadniczej do celów projektowych w skali 1:500 wynosi 2 cm?",
+    "answers": [
+      "5,0 m",
+      "1,0 m",
+      "10,0 m",
+      "0,5 m"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 298,
+    "text": "Nawierzchnię ścieralną z betonowej kostki brukowej o wymiarach 179×119×40 mm, układaną na podsypce piaskowej na gruncie przepuszczalnym, można polecić do budowy",
+    "answers": [
+      "ścieżki w ogrodzie.",
+      "podjazdu do garażu.",
+      "parkingu.",
+      "jezdni."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 299,
+    "text": "Ile wynosi objętość wykopu, którego długość wynosi 5 m, a dwa skrajne przekroje mają powierzchnię 2 m2 i 4 m2?",
+    "answers": [
+      "15 m3",
+      "40 m3",
+      "11 m3",
+      "30 m3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_wykop2.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 300,
+    "text": "Na podstawie przedstawionego podsumowania kosztorysu oblicz wartość zysku, którą należy wpisać w miejscu oznaczonym ?.",
+    "answers": [
+      "3 183,90 zł",
+      "307,12 zł",
+      "3 491,02 zł",
+      "1 842,72 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_tabela13.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 301,
+    "text": "Zgodnie z zamieszczonym rysunkiem głębokość posadowienia fundamentu projektowanego pojemnika na odpady powinna wynosić",
+    "answers": [
+      "20 cm",
+      "15 cm",
+      "35 cm",
+      "55 cm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_pojemnik3.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 302,
+    "text": "Grubość warstwy ścieralnej nawierzchni przedstawionej na przekroju konstrukcyjnym wynosi",
+    "answers": [
+      "10 cm",
+      "12 cm",
+      "15 cm",
+      "22 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_przekroj8.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 303,
+    "text": "Który element przestrzenny jest charakterystyczny dla ogrodów barokowych?",
+    "answers": [
+      "Parter haftowy.",
+      "Ogród sekretny.",
+      "Kobierzec kwiatowy.",
+      "Ława darniowa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 304,
+    "text": "Zgodnie z przedstawionym rysunkiem, w miejscu wskazanym strzałką, pomiędzy betonowym fundamentem a legarem drewnianym, do którego zostaną przymocowane deski tarasowe, należy umieścić",
+    "answers": [
+      "styropian.",
+      "styrodur.",
+      "papę asfaltową.",
+      "matę grzejną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_rysunek14.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 305,
+    "text": "Piła przedstawiona na rysunku przeznaczona jest do cięcia materiałów",
+    "answers": [
+      "z drewna.",
+      "ze szkła hartowanego.",
+      "z kamienia naturalnego.",
+      "z metalu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_pila2.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 306,
+    "text": "Który rodzaj cegły budowlanej można polecić do wykonania schodów ogrodowych?",
+    "answers": [
+      "Sylikatową pełną.",
+      "Klinkierową.",
+      "Budowlaną pełną.",
+      "Szamotową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 307,
+    "text": "Ile wyniesie, na planie w skali 1:50, długość projektowanego murka ogrodowego jeżeli wiadomo, że ma ona wynieść w rzeczywistości 4 m?",
+    "answers": [
+      "0,4 cm",
+      "8,0 cm",
+      "0,8 cm",
+      "4,0 cm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 308,
+    "text": "Tereny górskich hal należy klasyfikować jako krajobraz",
+    "answers": [
+      "kulturowy harmonijny.",
+      "naturalny.",
+      "pierwotny.",
+      "kulturowy dysharmonijny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 309,
+    "text": "Właściciel ogrodu zamówił wykonanie tarasu ogrodowego z desek kompozytowych. Do wykonania zamówienia należy wybrać wyrób przedstawiony na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_deski.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 310,
+    "text": "Aby wykonać słup drewniany na fundamencie betonowym zgodnie z zamieszczonym rysunkiem, w pierwszej kolejności należy",
+    "answers": [
+      "wykonać wykop pod fundament.",
+      "wlać do wykopu mieszankę betonową.",
+      "osadzić kotwę w betonie.",
+      "zamocować słup na kotwie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_slup4.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 311,
+    "text": "Sprzęt przedstawiony na rysunku będzie przydatny do",
+    "answers": [
+      "wiercenia otworów w gruncie.",
+      "zagęszczania mieszanki betonowej.",
+      "wiercenia otworów w drewnie.",
+      "pomiaru poziomu wody gruntowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_sprzet3.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 312,
+    "text": "Przedstawiony na ilustracji obiekt jest elementem charakterystycznym dla ogrodów",
+    "answers": [
+      "naturalistycznych.",
+      "sensorycznych.",
+      "retencyjnych.",
+      "multimedialnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_obiekt3.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 313,
+    "text": "Która metoda waloryzacji krajobrazu jest potrzebna do opracowania mapy zasobów krajobrazowych danego terenu?",
+    "answers": [
+      "Dendrochronologiczna.",
+      "Fitoindykacji gatunkowej.",
+      "Jednostek architektoniczno-krajobrazowych.",
+      "Fitoindykacji fitocenotycznej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 314,
+    "text": "Pokazany na ilustracji efekt kompozycyjny uzyskano poprzez zastosowanie rytmu",
+    "answers": [
+      "naprzemiennego rosnącego.",
+      "złożonego.",
+      "naprzemiennego malejącego.",
+      "jednostajnego prostego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_ilustracja2.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 315,
+    "text": "Ile wynosi pole powierzchni przekroju nasypu przedstawionego na rysunku?",
+    "answers": [
+      "6,5 m2",
+      "12,0 m2",
+      "30,5 m2",
+      "18,5 m2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_nasyp2.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 316,
+    "text": "Układ komunikacyjny i rozmieszczenie punktów świetlnych skweru miejskiego należy przedstawić na planszy w skali",
+    "answers": [
+      "1:50",
+      "1:10",
+      "1:500",
+      "1:100"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 317,
+    "text": "Przedstawione na rysunku narzędzie przeznaczone jest do",
+    "answers": [
+      "mieszania suchych składników zaprawy z wodą.",
+      "wygładzania powierzchni tynku.",
+      "wyrównywania warstwy podsypki.",
+      "zagęszczania warstwy podbudowy nawierzchni."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_narzedzie16.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 318,
+    "text": "Ile wynosi szerokość stopnicy schodów przedstawionych na rzucie z góry?",
+    "answers": [
+      "84 cm",
+      "42 cm",
+      "6 cm",
+      "11 cm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_schody5.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 319,
+    "text": "Którą czynność należy wykonać w pierwszej kolejności przy renowacji skorodowanego metalowego ogrodzenia?",
+    "answers": [
+      "Nałożenie farby podkładowej.",
+      "Oczyszczenie powierzchni papierem gruboziarnistym.",
+      "Odtłuszczenie powierzchni.",
+      "Nałożenie preparatu antykorozyjnego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 320,
+    "text": "W projekcie przewidziano wykonanie nawierzchni placu w postaci monolitycznej płyty betonowej. Po ułożeniu i zagęszczeniu mieszanki betonowej, powstałą warstwę świeżego betonu należy pielęgnować przez",
+    "answers": [
+      "2-4 dni.",
+      "15-23 dni.",
+      "5-6 dni.",
+      "7-14 dni."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 321,
+    "text": "W którym etapie prac rekultywacyjnych terenu wysypiska śmieci wykonywane są prace z zakresu kształtowania warunków wodnych?",
+    "answers": [
+      "Rekultywacji biologicznej.",
+      "Przygotowań do rekultywacji.",
+      "Zagospodarowania biologicznego.",
+      "Rekultywacji technicznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 322,
+    "text": "Przedstawiony na rysunku przyrząd przydatny jest do wyznaczania",
+    "answers": [
+      "kątów poziomych.",
+      "linii pionowych.",
+      "linii poziomych.",
+      "kątów pionowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_przyrzad.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 323,
+    "text": "Zgodnie z Rozporządzeniem Ministra Administracji i Cyfryzacji z dnia 2 listopada 2015 r. w sprawie bazy danych obiektów topograficznych oraz mapy zasadniczej pokazany na ilustracji symbol graficzny służy do oznaczania",
+    "answers": [
+      "studni.",
+      "źródła.",
+      "fontanny.",
+      "hydrantu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_symbol11.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 324,
+    "text": "Na rysunku przedstawiono zasadę wykonywania pomiarów wysokościowych metodą",
+    "answers": [
+      "geometryczną.",
+      "hydrostatyczną.",
+      "schodkową.",
+      "trygonometryczną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_pomiar.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 325,
+    "text": "Aby zapobiec pękaniu konstrukcji betonowego murka oporowego długości 10 m, należy przewidzieć wykonanie",
+    "answers": [
+      "rynny stokowej.",
+      "fundamentów punktowych.",
+      "izolacji pionowej.",
+      "szczelin dylatacyjnych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 326,
+    "text": "Na rysunku przedstawiono przekrój poprzeczny murka wolnostojącego wykonanego z cegieł. Ile wynosi objętość fundamentu betonowego, jeżeli długości murka wynosi 15 m?",
+    "answers": [
+      "3,413 m3",
+      "2,940 m3",
+      "2,625 m3",
+      "0,788 m3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_murek5.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 327,
+    "text": "Do wykonania warstwy ścieralnej ścieżki ogrodowej, w ogrodzie przeznaczonym dla osób poruszających się na wózkach inwalidzkich, należy zastosować",
+    "answers": [
+      "ażurowe płyty betonowe.",
+      "żwir sortowany.",
+      "beton wylewany na miejscu.",
+      "kostkę brukową granitową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 328,
+    "text": "Zgodnie z zamieszczonym podsumowaniem kosztorysu wartość zysku, którą należy wpisać w polu oznaczonym ? wynosi",
+    "answers": [
+      "1 379,88 zł",
+      "1 279,88 zł",
+      "3 080,08 zł",
+      "1 971,80 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_tabela14.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 329,
+    "text": "Na której ilustracji przedstawiono element wyposażenia ogrodów przeznaczony na potrzeby owadów zapylających?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_elementy3.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 330,
+    "text": "Ile wynosi grubość warstwy ścieralnej nawierzchni przedstawionej na przekroju?",
+    "answers": [
+      "4 cm",
+      "8 cm",
+      "6 cm",
+      "10 cm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_przekroj12.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 331,
+    "text": "Norma nakładów na robociznę związaną z wykonaniem 1 m3 słupów pergoli wykonanych z kamienia łamanego wynosi 42,75 r-g. Ile wyniesie koszt wykonania 6 słupów o wymiarach 250×40×40 cm, jeżeli cena 1 roboczogodziny wynosi 20,00 zł?",
+    "answers": [
+      "2 400,00 zł",
+      "2 052,00 zł",
+      "4 275,00 zł",
+      "1 026,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 332,
+    "text": "Który zestaw przyrządów jest przydatny do wykonania pomiarów metodą domiarów prostokątnych?",
+    "answers": [
+      "3 tyczki miernicze, niwelator, pochylnik.",
+      "2 tyczki miernicze, dalmierz, pochylnik.",
+      "2 tyczki miernicze, teodolit, taśma pomiarowa, ruletka.",
+      "3 tyczki miernicze, węgielnica, taśma pomiarowa, ruletka."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 333,
+    "text": "Założenia ogrodowe miejskie o bogatym programie rekreacyjnym, stanowiące jednocześnie zielone korytarze łączące zieleń miasta w większe systemy, to",
+    "answers": [
+      "parki kieszonkowe.",
+      "parki osiedlowe.",
+      "parki linearne.",
+      "skwery osiedlowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 334,
+    "text": "Na którym schemacie zestawiono elementy z uwzględnieniem zasady złotej proporcji?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_schematy.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 335,
+    "text": "Na rysunku przedstawiono przekrój połączenia elementów metalowych za pomocą",
+    "answers": [
+      "wkrętu.",
+      "gwoździa.",
+      "nitu.",
+      "śruby."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_polaczenie3.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 336,
+    "text": "Podstopnice schodów pokazanych na rysunku mają być wykonane ze słupków betonowych tworzących palisady. Ile sztuk słupków potrzeba do wykonania schodów, jeżeli szerokość podstopnicy wynosi 1 m?",
+    "answers": [
+      "20 szt.",
+      "30 szt.",
+      "10 szt.",
+      "15 szt."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_schody4.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 337,
+    "text": "W projekcie wykonawczym przewidziano budowę ścieżki ogrodowej szerokości 1,5 m i długości 4 m z płyt chodnikowych betonowych układanych na warstwie podsypki piaskowej grubości 10 cm. Ile wynosi objętość warstwy podsypki piaskowej w projektowanej nawierzchni?",
+    "answers": [
+      "0,4 m3",
+      "6,0 m3",
+      "4,0 m3",
+      "0,6 m3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 338,
+    "text": "Do budowy ogrodzenia pastwiska znajdującego się w terenie wiejskim, w celu uzyskania efektu harmonii kompozycyjnej z otoczeniem, należy zastosować",
+    "answers": [
+      "żerdzie drewniane.",
+      "siatkę ogrodzeniową metalową.",
+      "elementy prefabrykowane betonowe.",
+      "pustaki szklane."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 339,
+    "text": "Na przedstawionym rysunku wykonawczym przedstawiono mocowanie słupa pergoli do betonowego fundamentu za pomocą śruby",
+    "answers": [
+      "kotwiącej fajkowej.",
+      "rzymskiej.",
+      "rozporowej.",
+      "kotwiącej młoteczkowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_rysunek16.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 340,
+    "text": "Którego materiału nie należy używać do wykonywania izolacji cieplnej?",
+    "answers": [
+      "Papy asfaltowej.",
+      "Pianki poliuretanowej.",
+      "Płyt styropianowych.",
+      "Wełny mineralnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 341,
+    "text": "Przedstawiony na ilustracji fragment Starego Miasta w Warszawie stanowi układ",
+    "answers": [
+      "ruralistyczny zabytkowy.",
+      "ruralistyczny współczesny.",
+      "urbanistyczny współczesny.",
+      "urbanistyczny zabytkowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_ilustracja3.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 342,
+    "text": "Na rysunku sporządzonym w skali 1:20 szerokość nawierzchni drogi wynosi 13 cm. Ile wynosi rzeczywista szerokość tej nawierzchni?",
+    "answers": [
+      "1,3 m",
+      "2,6 m",
+      "6,5 m",
+      "13,0 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 343,
+    "text": "Z przedstawionego fragmentu kosztorysu wynika, że razem koszty bezpośrednie związane z ułożeniem obrzeży betonowych na podsypce piaskowej wynoszą",
+    "answers": [
+      "263,14 zł",
+      "19,75 zł",
+      "45,01 zł",
+      "308,15 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_tabela15.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 344,
+    "text": "Który materiał izolacyjny można polecić do budowy oczka wodnego, ze względu na dużą wytrzymałość, elastyczność oraz trwałość w granicach 40-50 lat?",
+    "answers": [
+      "Matę bitumiczną.",
+      "Folię polietylenową.",
+      "Folię z PVC.",
+      "Matę butylową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 345,
+    "text": "Długość murka ogrodowego wynosi 6,50 m. Ile wyniesie długość tego murka na planie sporządzonym w skali 1:50?",
+    "answers": [
+      "6,5 cm",
+      "32,5 cm",
+      "13,0 cm",
+      "1,3 cm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 346,
+    "text": "Które materiały należy polecić do wykonania ogrodzenia na placu zabaw o charakterze naturalistycznym?",
+    "answers": [
+      "Cegły klinkierowe.",
+      "Moduły betonowe.",
+      "Maty wiklinowe.",
+      "Siatki ocynkowane."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 347,
+    "text": "Murowany murek oporowy wysokości 1,0 m powinien być odchylony od pionu w kierunku skarpy o około",
+    "answers": [
+      "4÷8%",
+      "30÷35%",
+      "1÷3%",
+      "10÷15%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 348,
+    "text": "Po wykonaniu wykopu pod budowę oczka wodnego, którego dno i brzegi będą uszczelnione folią PVC, należy wypoziomować dno, następnie ułożyć warstwę wyściółki zabezpieczającej",
+    "answers": [
+      "z papy.",
+      "z klińca.",
+      "z desek.",
+      "z piasku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 349,
+    "text": "Na rysunku przedstawiono przekrój przez skarpę przeznaczoną pod budowę jednobiegowych schodów terenowych. Przyjęto następujące wymiary stopni: wysokość – 10 cm, głębokość – 42 cm. Ile stopni w biegu należy zaprojektować?",
+    "answers": [
+      "3 stopnie.",
+      "4 stopnie.",
+      "7 stopni.",
+      "8 stopni."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_przekroj13.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 350,
+    "text": "Na ilustracji przedstawiono etap pośredni budowy parkingu o nawierzchni trawiastej zbrojonej eko-kratą. Którą czynność należy wykonać bezpośrednio po położeniu eko-kraty?",
+    "answers": [
+      "Stabilizację eko-kraty zaprawą.",
+      "Wypełnienie eko-kraty podłożem.",
+      "Stabilizację eko-kraty klińcem.",
+      "Wypełnienie eko-kraty piaskiem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_parking.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 351,
+    "text": "Na którym rysunku przedstawiono zgodnie z normą PN-B-01030:2000 oznaczenie graficzne stosowane na rysunkach wykonawczych do oznaczania betonu zbrojonego?",
+    "answers": [
+      "Na rysunku 4.",
+      "Na rysunku 2.",
+      "Na rysunku 1.",
+      "Na rysunku 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_oznaczenia2.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 352,
+    "text": "Do zagęszczenia warstwy podbudowy z tłucznia ścieżki pieszej szerokości 1 m i długości 10 m należy użyć",
+    "answers": [
+      "wału strunowego.",
+      "wału Campbella.",
+      "zagęszczarki płytowej.",
+      "wibratora pogrążalnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 353,
+    "text": "Ile wynosi objętość wykopu długości 5,0 m o ścianach pionowych i przekroju poprzecznym przedstawionym na rysunku?",
+    "answers": [
+      "3,50 m3",
+      "0,35 m3",
+      "0,70 m3",
+      "7,00 m3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_przekroj15.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 354,
+    "text": "Którą lampę można polecić do punktowego podświetlenia roślin w ogrodzie?",
+    "answers": [
+      "Lampę 2.",
+      "Lampę 4.",
+      "Lampę 3.",
+      "Lampę 1."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_lampy2.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 355,
+    "text": "Ile wyniesie wartość robocizny związanej z montażem 25 ławek parkowych o długości 2,0 m każda, jeżeli nakłady robocizny na wykonanie 1,0 m długości ławki wynoszą 3,15 r-g, a stawka wynagrodzenia wynosi 16,00 zł/r-g?",
+    "answers": [
+      "1 260,00 zł",
+      "126,00 zł",
+      "2 520,00 zł",
+      "25 200,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 356,
+    "text": "Przedstawione na ilustracji elektronarzędzie stosowane jest do prac",
+    "answers": [
+      "dekarskich.",
+      "stolarskich.",
+      "brukarskich.",
+      "blacharskich."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_elektronarzedzie.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 357,
+    "text": "Którą formą ochrony środowiska przyrodniczego obejmowany jest obszar w celu zachowania występujących na nim określonych typów siedlisk przyrodniczych oraz gatunków uważanych za cenne i zagrożone w skali Europy?",
+    "answers": [
+      "Park krajobrazowy.",
+      "Rezerwat przyrody.",
+      "Obszar Natura 2000.",
+      "Pomnik przyrody."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 358,
+    "text": "Początek linii osnowy pomiarowej na sporządzanym szkicu pomiarów terenowych należy oznaczyć strzałką wskazującą kierunek prowadzonych pomiarów oraz symbolem",
+    "answers": [
+      "1,00",
+      "0,00",
+      "O",
+      "P"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "OGR.04"
+  },
+  {
+    "id": 359,
+    "text": "Przedstawiony na rysunku obiekt jest typowym elementem wyposażenia ogrodu",
+    "answers": [
+      "angielskiego.",
+      "włoskiego.",
+      "chińskiego.",
+      "francuskiego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_obiekt.png"
+    },
+    "category": "OGR.04"
+  },
+  {
+    "id": 360,
+    "text": "Ile wynosi stosunek wysokości skarpy do jej podstawy, jeżeli nachylenie skłonu skarpy wynosi 4%?",
+    "answers": [
+      "1:50",
+      "1:10",
+      "1:25",
+      "1:20"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ogr04/r22_przekroj16.png"
+    },
+    "category": "OGR.04"
+  }
+]
