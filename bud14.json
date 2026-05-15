@@ -1,0 +1,5103 @@
+[
+  {
+    "id": 1,
+    "text": "Na ilustracji przedstawiono fragment ścianki szczelnej wykonanej z winylowych grodzic. Konstrukcja ta zachowuje szczelność dzięki zastosowaniu połączeń",
+    "answers": [
+      "nitowanych.",
+      "zamkowych.",
+      "spawanych.",
+      "skręcanych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_scianka.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 2,
+    "text": "Na zawilgoconych i zasolonych ścianach, po usunięciu źródła zawilgocenia i przygotowaniu powierzchni, zalecane jest wykonanie tynku",
+    "answers": [
+      "wypalanego.",
+      "cementowego.",
+      "wapiennego.",
+      "renowacyjnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 3,
+    "text": "Wysokość ławy fundamentowej, której przekrój przedstawiono na rysunku wynosi",
+    "answers": [
+      "60 cm",
+      "50 cm",
+      "40 cm",
+      "80 cm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_lawa.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 4,
+    "text": "Który środek transportu należy zastosować do przywiezienia na teren budowy mieszanki betonowej o konsystencji półciekłej z wytwórni oddalonej o 10 km od budowy?",
+    "answers": [
+      "Wózek samowyładowczy.",
+      "Samojezdną pompę samochodową.",
+      "Betonomieszarkę na podwoziu samochodowym.",
+      "Samochód samowyładowczy z nadwoziem wannowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 5,
+    "text": "Zgodnie z KNR 4-01 norma czasu pracy robotników na rozebranie ścian z cegieł na zaprawie cementowo-wapiennej wynosi 7,30 r-g/m3. Ilu robotników należy zatrudnić do rozebrania ściany o grubości 1 cegły, długości 6,5 m i wysokości 3,0 m, jeżeli zgodnie z harmonogramem robót prace te będą wykonane w ciągu dwóch 8-godzinnych dni roboczych?",
+    "answers": [
+      "2 robotników.",
+      "3 robotników.",
+      "9 robotników.",
+      "8 robotników."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 6,
+    "text": "Przedstawiony na rysunku sprzęt indywidualnej ochrony pracowników pracujących na wysokościach, to",
+    "answers": [
+      "linka bezpieczeństwa.",
+      "urządzenie samoblokujące.",
+      "amortyzator spadania.",
+      "szelki bezpieczeństwa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_sprzet3.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 7,
+    "text": "Przedstawione na rysunku deskowanie systemowe tunelowe przeznaczone jest do",
+    "answers": [
+      "jednoczesnego betonowania stóp fundamentowych i słupów.",
+      "betonowania ław fundamentowych.",
+      "jednoczesnego betonowania ścian i płyty stropowej.",
+      "betonowania słupów o przekroju prostokątnym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_rysunek4.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 8,
+    "text": "Z przedstawionego zestawienia stali zbrojeniowej wynika, że łączna długość prętów o średnicy 6 mm wynosi",
+    "answers": [
+      "113,6 m",
+      "25,0 m",
+      "77,0 m",
+      "190,6 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela66.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 9,
+    "text": "Zgodnie z dokumentacją projektową rozstaw prętów głównych w płycie żelbetowej powinien wynosić 160 mm. Który z wymienionych wymiarów rozstawu prętów głównych nie spełnia warunku określonego w specyfikacji technicznej?",
+    "answers": [
+      "172 mm",
+      "158 mm",
+      "168 mm",
+      "162 mm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_specyfikacja5.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 10,
+    "text": "Kosztorys zamienny sporządza się na podstawie",
+    "answers": [
+      "protokołu konieczności wykonania robót zamiennych.",
+      "harmonogramu ogólnego budowy.",
+      "protokołu typowania robót i inwentaryzacji.",
+      "dokumentacji projektowej budowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 11,
+    "text": "Który sprzęt pomiarowy należy zastosować do wyznaczania różnic wysokości punktów w terenie, podczas wykonywania robót ziemnych?",
+    "answers": [
+      "Węgielnicę i dalmierz laserowy.",
+      "Niwelator i łaty niwelacyjne.",
+      "Dalmierz kreskowy i łaty niwelacyjne.",
+      "Kółko pomiarowe i węgielnicę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 12,
+    "text": "W założeniach szczegółowych, zamieszczonych w części opisowej katalogu nakładów rzeczowych, zawarte są między innymi",
+    "answers": [
+      "ceny jednostkowe poszczególnych materiałów.",
+      "zasady przedmiarowania poszczególnych robót.",
+      "wyszczególnione roboty w kolejności technologicznej.",
+      "stawki wynagrodzeń za roboczogodzinę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 13,
+    "text": "Na rysunku przedstawiono połączenie śrubowe",
+    "answers": [
+      "kotwowe.",
+      "dociskowe.",
+      "doczołowe.",
+      "zakładkowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_polaczenie2.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 14,
+    "text": "Na podstawie danych zawartych w tablicy z KNR 2-01 oblicz czas pracy żurawia samochodowego przy układaniu tymczasowej drogi o szerokości 3 m i długości 450 m z płyt żelbetowych pełnych o wymiarach 3,0×1,5×0,15 m.",
+    "answers": [
+      "18,90 m-g",
+      "14,94 m-g",
+      "44,82 m-g",
+      "56,70 m-g"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tablica.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 15,
+    "text": "Na podstawie przedstawionego szkicu inwentaryzacyjnego określ wymiary pomieszczenia biurowego nr 1.",
+    "answers": [
+      "502,0×597,0 cm",
+      "512,8×590,0 cm",
+      "502,0×590,0 cm",
+      "512,8×830,0 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_szkic2.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 16,
+    "text": "Remont modernizacyjny wykonywany jest w celu",
+    "answers": [
+      "przywrócenia pierwotnego stanu obiektu budowlanego.",
+      "zabezpieczenia elementów obiektu przed niszczeniem.",
+      "podwyższenia standardu obiektu budowlanego.",
+      "usunięcia niewielkich uszkodzeń powstałych podczas eksploatacji obiektu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 17,
+    "text": "Na którym rysunku przedstawiono stosowane w projektach budowlanych (na rzutach), oznaczenie graficzne wykopu o jednakowym nachyleniu skarp?",
+    "answers": [
+      "Na rysunku 4.",
+      "Na rysunku 1.",
+      "Na rysunku 2.",
+      "Na rysunku 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_oznaczenia5.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 18,
+    "text": "Z przedstawionej części graficznej harmonogramu ogólnego budowy wynika, że",
+    "answers": [
+      "drobne prace wykończeniowe rozpoczną się po montażu stolarki okiennej.",
+      "strop pierwszej kondygnacji będzie wykonywany równolegle ze ścianami poddasza.",
+      "najdłużej będzie trwało wykonywanie ścian poddasza.",
+      "ściany zewnętrzne i wewnętrzne piwnic będą wykonywane równolegle."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_harmonogram5.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 19,
+    "text": "W kosztorysach inwestorskich koszty pośrednie oblicza się jako procentowy wskaźnik od wartości kosztów bezpośrednich",
+    "answers": [
+      "materiałów i kosztów ich zakupu.",
+      "robocizny i materiałów.",
+      "materiałów i pracy sprzętu.",
+      "robocizny i pracy sprzętu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 20,
+    "text": "Na podstawie zestawienia norm materiałowych na wykonanie docieplenia 100 m2 ściany betonowej oblicz, ile potrzeba płyt styropianowych oraz wyprawy elewacyjnej do termomodernizacji 155 m2 ściany.",
+    "answers": [
+      "Płyt styropianowych – 5,002 m3, wyprawy elewacyjnej – 904,50 kg",
+      "Płyt styropianowych – 5,022 m3, wyprawy elewacyjnej – 934,65 kg",
+      "Płyt styropianowych – 5,220 m3, wyprawy elewacyjnej -  964,80 kg",
+      "Płyt styropianowych – 5,222 m3, wyprawy elewacyjnej -  994,95 kg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela67.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 21,
+    "text": "Okresową kontrolę polegającą na sprawdzeniu stanu technicznego i przydatności do użytkowania całego budynku, ze szczególnym uwzględnieniem elementów konstrukcyjnych, ocenie jego estetyki oraz wyglądu otoczenia przeprowadza się co najmniej",
+    "answers": [
+      "jeden raz w roku.",
+      "raz na 5 lat.",
+      "raz na 3 lata.",
+      "dwa razy w roku."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 22,
+    "text": "Który etap wykonywania stropu Teriva przedstawiono na ilustracji?",
+    "answers": [
+      "Wykonywanie płyty nadbetonu.",
+      "Układanie pustaków stropowych.",
+      "Układanie belek stropowych.",
+      "Betonowanie żeber rozdzielnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_strop5.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 23,
+    "text": "Ile mieszanki betonowej należy zamówić do zabetonowania trzech belek żelbetowych o wymiarach przekroju 0,25×0,50 m i długości 4,00 m każda, jeżeli norma zużycia mieszanki wynosi 1,02 m3/m3?",
+    "answers": [
+      "1,47 m3",
+      "1,53 m3",
+      "1,50 m3",
+      "1,56 m3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 24,
+    "text": "Na ilustracji przedstawiono urządzenie przeznaczone do",
+    "answers": [
+      "mieszania składników zaprawy budowlanej.",
+      "zagęszczania mieszanki betonowej.",
+      "dozowania składników zaprawy budowlanej.",
+      "transportu mieszanki betonowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_urzadzenie2.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 25,
+    "text": "Na podstawie danych zawartych w tablicy z KNR 4-01 oblicz, ile wynosi norma wydajności dziennej dekarza (przy założeniu 8-godzinnego dnia pracy) wykonującego dwuwarstwową izolację poziomą z papy asfaltowej na lepiku, na warstwie wyrównawczej z zaprawy.",
+    "answers": [
+      "42,11 r-g",
+      "57,14 m2",
+      "42,11 m2",
+      "57,14 r-g"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tablica2.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 26,
+    "text": "Z zamieszczonego fragmentu podsumowania kosztorysu, sporządzonego w programie do kosztorysowania, odczytaj wartość kosztów bezpośrednich pracy sprzętu.",
+    "answers": [
+      "32 875,04 zł",
+      "63 338,91 zł",
+      "23 177,07 zł",
+      "56 052,11 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_kosztorys.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 27,
+    "text": "Wielkość powierzchni tymczasowych budynków socjalnych na terenie budowy zależy przede wszystkim od",
+    "answers": [
+      "powierzchni placu budowy.",
+      "liczby pracowników zatrudnionych na budowie.",
+      "powierzchni użytkowej wznoszonych obiektów.",
+      "czasu trwania budowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 28,
+    "text": "Ściany z bloczków silikatowych z profilowanymi powierzchniami czołowymi (pióra i wpusty), jeżeli nie ma dodatkowych wytycznych projektowych, muruje się",
+    "answers": [
+      "na spoiny poziome i pionowe, tylko z zastosowaniem zaprawy murarskiej klejowej.",
+      "tylko na spoiny pionowe, z zastosowaniem zaprawy murarskiej zwykłej lub klejowej.",
+      "na spoiny poziome i pionowe, tylko z zastosowaniem zaprawy murarskiej zwykłej.",
+      "tylko na spoiny poziome, z zastosowaniem zaprawy murarskiej zwykłej lub klejowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 29,
+    "text": "Na podstawie zamieszczonego zestawienia wyników pomiaru z natury wykopu liniowego oblicz wartość obmiaru robót związanych z wykonaniem tego wykopu.",
+    "answers": [
+      "120,00 m3",
+      "180,00 m3",
+      "240,00 m3",
+      "60,00 m3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela68.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 30,
+    "text": "Wykonując roboty związane z zagospodarowaniem terenu budowy, w pierwszej kolejności należy",
+    "answers": [
+      "wykonać na terenie budowy pomieszczenia zaplecza socjalnego.",
+      "ogrodzić teren budowy i zamocować tablicę informacyjną.",
+      "doprowadzić na teren budowy niezbędne media.",
+      "wybudować tymczasowe drogi na terenie budowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 31,
+    "text": "Do wykonania żelbetowych ław fundamentowych w deskowaniu tradycyjnym należy przydzielić brygadę w składzie:",
+    "answers": [
+      "monter, zbrojarz, betoniarz.",
+      "betoniarz, cieśla.",
+      "zbrojarz, betoniarz.",
+      "cieśla, zbrojarz, betoniarz."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 32,
+    "text": "Na którym schemacie przedstawiono obwodowy układ dróg tymczasowych na terenie budowy?",
+    "answers": [
+      "Na schemacie 1.",
+      "Na schemacie 3.",
+      "Na schemacie 2.",
+      "Na schemacie 4."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_schematy3.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 33,
+    "text": "Demontaż stropu drewnianego z podłogą opartą na legarach, ze ślepym pułapem oraz podsufitką należy rozpocząć od usunięcia",
+    "answers": [
+      "podsufitki.",
+      "ślepego pułapu.",
+      "belek stropowych.",
+      "legarów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 34,
+    "text": "Sporządzenie informacji dotyczącej bezpieczeństwa i ochrony zdrowia ze względu na specyfikę projektowanego obiektu budowlanego, niezbędnej do opracowania planu BIOZ, jest obowiązkiem",
+    "answers": [
+      "inwestora.",
+      "projektanta.",
+      "inspektora nadzoru inwestorskiego.",
+      "kierownika budowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 35,
+    "text": "W centrum miasta wokół fontanny na całej szerokości jezdni przewiduje się wykonanie nowej warstwy ścieralnej z asfaltu lanego. Na podstawie zamieszczonego rysunku oblicz powierzchnię, na której zostanie ułożona nawierzchnia asfaltowa. Do obliczeń należy przyjąć wartość π = 3,14.",
+    "answers": [
+      "38,47 m2",
+      "28,26 m2",
+      "25,12 m2",
+      "35,33 m2"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_fontanna.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 36,
+    "text": "Przedstawiona na ilustracji maszyna budowlana wyposażona jest w dwa rodzaje osprzętu:",
+    "answers": [
+      "lemiesz i łyżkę podsiębierną.",
+      "skrzynię roboczą i zbierak.",
+      "skrzynię roboczą i chwytak.",
+      "lemiesz i łyżkę przedsiębierną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_maszyna2.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 37,
+    "text": "Norma czasu pracy na ręczne usunięcie warstwy ziemi urodzajnej (humusu) wynosi 21,90 r-g/100 m2. Ile 8-godzinnych dni roboczych należy przewidzieć w harmonogramie robót na odspojenie humusu z działki o powierzchni 300 m2, jeżeli roboty będą wykonywane przez 3 robotników?",
+    "answers": [
+      "2 dni robocze.",
+      "3 dni robocze.",
+      "8 dni roboczych.",
+      "9 dni roboczych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 38,
+    "text": "Przedstawiony fragment Specyfikacji Warunków Zamówienia, to opis",
+    "answers": [
+      "przedmiotu zamówienia.",
+      "trybu udzielenia zamówienia.",
+      "sposobu przygotowania oferty.",
+      "warunków udziału w postępowaniu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_ramka23.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 39,
+    "text": "Na podstawie przedstawionej charakterystyki eksploatacyjnej żurawia wieżowego określ, ile wynosi jego maksymalny udźwig przy wysięgu wynoszącym 22 m.",
+    "answers": [
+      "3,5 tony",
+      "3,0 tony",
+      "4,5 tony",
+      "4,0 tony"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_wykres2.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 40,
+    "text": "Na rysunku przedstawiono złącze",
+    "answers": [
+      "poziome płyt stropowych na ścianie wewnętrznej.",
+      "pionowe ściany osłonowej ze ścianą wewnętrzną.",
+      "pionowe ściany wewnętrznej z płytą stropową.",
+      "poziome płyty stropowej ze ścianą osłonową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_zlacze2.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 41,
+    "text": "W ramach prowadzonych robót rozbiórkowych wykonawca zatrudnił 4 pracowników. Na podstawie danych zawartych w tablicy z KNR, oblicz ile 8-godzinnych zmian roboczych będą realizowane roboty związane z rozebraniem podłóg drewnianych ślepych o powierzchni 710 m2.",
+    "answers": [
+      "2 zmiany robocze.",
+      "5 zmian roboczych.",
+      "4 zmiany robocze.",
+      "3 zmiany robocze."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela7.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 42,
+    "text": "Minimalna wysokość ogrodzenia terenu budowy wynosi",
+    "answers": [
+      "2,0 m",
+      "1,0 m",
+      "1,5 m",
+      "2,5 m"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 43,
+    "text": "Rozbiórkę budynku wykonanego z prefabrykatów żelbetowych należy rozpocząć od",
+    "answers": [
+      "stropodachu.",
+      "stropów.",
+      "ścian zewnętrznych.",
+      "schodów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 44,
+    "text": "W jakim terminie od dnia doręczenia zgłoszenia dotyczącego rozbiórki obiektu budowlanego, organ administracji architektoniczno-budowlanej może wnieść sprzeciw?",
+    "answers": [
+      "W terminie do 14 dni.",
+      "W terminie do 21 dni.",
+      "W terminie do 7 dni.",
+      "W terminie do 3 dni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 45,
+    "text": "Na budowie zatrudnionych jest 60 pracowników, dla których należy przygotować pomieszczenie przeznaczone na kuchnię. Na podstawie danych zawartych w tabeli oblicz wymaganą powierzchnię tego pomieszczenia.",
+    "answers": [
+      "33,00 m2",
+      "12,00 m2",
+      "15,00 m2",
+      "42,00 m2"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela2.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 46,
+    "text": "Na podstawie zamieszczonego wykresu określ maksymalny wysięg żurawia podczas przemieszczania elementów prefabrykowanych o masie 3 ton.",
+    "answers": [
+      "16 m",
+      "22 m",
+      "29 m",
+      "24 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_wykres.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 47,
+    "text": "Oblicz, z dokładnością do trzeciego miejsca po przecinku, objętość przedstawionej na rysunku belki żelbetowej.",
+    "answers": [
+      "0,450 m3",
+      "2 625 m3",
+      "0,263 m3",
+      "4 500 m3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_belka.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 48,
+    "text": "Ile wynosi nachylenie skarp wykopu, którego przekrój poprzeczny przedstawiono na rysunku?",
+    "answers": [
+      "2:1",
+      "1:0,5",
+      "1:1",
+      "1:2"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_wykop.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 49,
+    "text": "Na rysunku przedstawiono",
+    "answers": [
+      "żuraw chwytakowy.",
+      "żuraw wyburzeniowy.",
+      "koparkę wyburzeniową.",
+      "koparkę przedsiębierną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_rysunek.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 50,
+    "text": "Na podstawie zamieszczonego harmonogramu ogólnego ustal liczbę dni pracy zespołu cieśli.",
+    "answers": [
+      "9 dni.",
+      "10 dni.",
+      "6 dni.",
+      "7 dni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_harmonogram.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 51,
+    "text": "Na podstawie danych zawartych w tablicy z KNR oblicz czas pracy spycharki przy odspajaniu warstwy humusu grubości 20 cm z terenu o powierzchni 10 250 m2. Wynik zaokrąglij do całkowitej liczby maszyno-godzin.",
+    "answers": [
+      "34 m-g",
+      "55 m-g",
+      "26 m-g",
+      "19 m-g"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela4.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 52,
+    "text": "Specyfikację istotnych warunków zamówienia (SIWZ) opracowuje",
+    "answers": [
+      "oferent.",
+      "podwykonawca.",
+      "wykonawca.",
+      "zamawiający."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 53,
+    "text": "Na podstawie fragmentu części graficznej harmonogramu ogólnego budowy określ, którą metodą pracy będą wykonywane zaplanowane roboty.",
+    "answers": [
+      "Pracy równomiernej.",
+      "Kolejnego wykonywania.",
+      "Równoczesnego wykonywania.",
+      "Pracy naprzemiennej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_harmonogram2.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 54,
+    "text": "Na podstawie danych zawartych w tablicy z KNR oraz wyciągu z cennika, oblicz koszt materiałów potrzebnych do wykonania 35 m2 ścianki działowej grubości 15 cm. W obliczeniach ilość bloczków należy zaokrąglić do pełnych sztuk.",
+    "answers": [
+      "1 693,93 zł",
+      "1 561,10 zł",
+      "1 554,80 zł",
+      "1 661,38 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela8.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 55,
+    "text": "Podkładki dystansowe stosowane pomiędzy zbrojeniem a deskowaniem zapewniają odpowiednią",
+    "answers": [
+      "nośność zbrojenia.",
+      "otulinę zbrojenia.",
+      "sztywność zbrojenia.",
+      "przyczepność zbrojenia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 56,
+    "text": "Oblicz objętość nasypu o przekroju poprzecznym przedstawionym na rysunku i długości 450 m.",
+    "answers": [
+      "90 000 m3",
+      "135 000 m3",
+      "45 000 m3",
+      "180 000 m3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_nasyp.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 57,
+    "text": "Na podstawie danych zawartych w tablicy z KNR oblicz, ile dachówek karpiówek układanych na zaprawie podwójnie w koronkę należy przygotować w celu przełożenia pokrycia dachu o powierzchni 245 m2.",
+    "answers": [
+      "12 005 szt.",
+      "11 074 szt.",
+      "6 738 szt.",
+      "4 337 szt."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela6.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 58,
+    "text": "Wibratory wgłębne stosowane są do zagęszczania mieszanki betonowej podczas betonowania",
+    "answers": [
+      "płyt i nawierzchni drogowych.",
+      "słupów i wysokich belek.",
+      "elementów drobnowymiarowych.",
+      "elementów prefabrykowanych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 59,
+    "text": "Zgodnie z harmonogramem na rozebranie 21 żelbetowych płyt balkonowych, każda o wymiarach 2,0×1,3 m, przewidziano 7 ośmiogodzinnych dni roboczych. Oblicz liczbę robotników potrzebną do wykonania rozbiórki w przewidzianym czasie, jeżeli jednostkowe nakłady robocizny wynoszą 2,85 r-g/m2.",
+    "answers": [
+      "7 robotników.",
+      "5 robotników.",
+      "3 robotników.",
+      "2 robotników."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 60,
+    "text": "Za sporządzenie planu BIOZ (bezpieczeństwa i ochrony zdrowia) odpowiada",
+    "answers": [
+      "projektant inwestycji.",
+      "inwestor budowy.",
+      "inspektor nadzoru budowlanego.",
+      "kierownik budowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 61,
+    "text": "Kosztorys ofertowy sporządza",
+    "answers": [
+      "wykonawca robót.",
+      "zamawiający roboty.",
+      "inspektor nadzoru.",
+      "inwestor robót."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 62,
+    "text": "Których informacji nie podaje się na tablicy informacyjnej placu budowy?",
+    "answers": [
+      "Imię, nazwisko, adres i numer telefonu inwestora.",
+      "Numery telefonów alarmowych policji, straży pożarnej, pogotowia ratunkowego.",
+      "Numer telefonu, adres wojewódzkiego inspektora sanitarnego.",
+      "Imię, nazwisko, adres i numer telefonu kierownika budowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 63,
+    "text": "W części graficznej harmonogramu ogólnego robót rozbiórkowych przebieg robót w czasie przedstawiany jest w kolejności",
+    "answers": [
+      "alfabetycznej.",
+      "rosnących norm wydajności dziennej.",
+      "technologicznej.",
+      "malejących pracochłonności robót."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 64,
+    "text": "Na podstawie danych zawartych w tabeli, określ jakie nachylenie skarp należy zastosować podczas wykonywania wykopu czasowego o szerokości dna 3,5 m i głębokości 4,0 m w gruncie kategorii II, jeżeli skarpy wykopu będą obciążone.",
+    "answers": [
+      "1:1,5",
+      "1:1,25",
+      "1:1",
+      "1:0,75"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 65,
+    "text": "Zgodnie z Rozporządzeniem Ministra Infrastruktury z dnia 3 lipca 2003 r. w sprawie rozbiórek obiektów budowlanych wykonywanych metodą wybuchową, za organizowanie i kierowanie robotami strzałowymi odpowiada",
+    "answers": [
+      "przeszkolony pracownik inwestora.",
+      "uprawniony starszy stopniem strażak.",
+      "inspektor zadań strzałowych.",
+      "kierownik robót strzałowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 66,
+    "text": "Oblicz liczbę bloczków betonowych, o wymiarach przedstawionych na rysunku, niezbędnych do wymurowania ściany konstrukcyjnej grubości 0,24 m, długości 10,00 m i wysokości 3,50 m. W obliczeniach należy pominąć grubość spoin, a liczbę bloczków zaokrąglić do pełnych sztuk.",
+    "answers": [
+      "384 szt.",
+      "709 szt.",
+      "1 536 szt.",
+      "768 szt."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_bloczek.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 67,
+    "text": "Z którego harmonogramu wynika że roboty remontowe dachu będą prowadzone metodą równoległego wykonywania?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_harmonogramy.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 68,
+    "text": "Która z wymienionych robót remontowych, zgodnie z przepisami ustawy Prawo Budowlane, wymaga uzyskania pozwolenia na budowę?",
+    "answers": [
+      "Uzupełnienie tynku wapiennego na klatce schodowej.",
+      "Wymiana drewnianych stopni i spoczników schodowych.",
+      "Wymiana muszli ustępowej, zlewu oraz kabiny prysznicowej.",
+      "Wykonanie otworu drzwiowego w ścianie konstrukcyjnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 69,
+    "text": "Zgodnie z fragmentem specyfikacji bezpośrednio po zakończeniu betonowania, w temperaturze otoczenia od +5 do +7°C, zaleca się przykrycie powierzchni betonu lekkimi wodoszczelnymi osłonami zapobiegającymi odparowaniu wody oraz",
+    "answers": [
+      "polewanie powierzchni betonu co 3 godziny w dzień i 1 raz w nocy, przez co najmniej 7 dni.",
+      "zaniechanie pielęgnacji wilgotnościowej przez co najmniej 3 dni.",
+      "zaniechanie pielęgnacji wilgotnościowej przez co najmniej 7 dni.",
+      "polewanie powierzchni betonu co najmniej 3 razy na dobę przez co najmniej 7 dni."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_specyfikacja.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 70,
+    "text": "Na podstawie danych zawartych w tablicy z KNR oblicz liczbę maszyno-godzin pracy koparki podsiębiernej o pojemności łyżki 0,25 m3, potrzebnej do odspojenia 257 m3 gruntu kat. II.",
+    "answers": [
+      "24,90 m-g",
+      "20,56 m-g",
+      "8,00 m-g",
+      "25,29 m-g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela3.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 71,
+    "text": "Podczas prowadzenia robót rozbiórkowych uzyskano 117 m3 gruzu ceglanego. Oblicz ile kontenerów o pojemności 8 m3 należy wynająć do gromadzenia odpadów.",
+    "answers": [
+      "15 kontenerów.",
+      "10 kontenerów.",
+      "14 kontenerów.",
+      "20 kontenerów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 72,
+    "text": "W ramach układania nowej sieci wodociągowej, przewidziano roboty ziemne na odcinku 500 m. Do wykonania wykopu wąskoprzestrzennego pod rurociąg należy zastosować koparkę",
+    "answers": [
+      "przedsiębierną.",
+      "zbierakową.",
+      "podsiębierną.",
+      "chwytakową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 73,
+    "text": "Na rysunku przedstawiono rzut budynku parterowego niepodpiwniczonego przeznaczonego do rozbiórki. Oblicz objętość ścian (bez odliczania otworów okiennych i drzwiowych), jeżeli wysokość kondygnacji wynosi 3,00 m.",
+    "answers": [
+      "40,50 m3",
+      "83,70 m3",
+      "37,35 m3",
+      "38,85 m3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_rzut.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 74,
+    "text": "Na podstawie fragmentu dokumentacji z przeprowadzonej inwentaryzacji budynku, określ szerokość okna oznaczonego cyfrą 1.",
+    "answers": [
+      "240 cm",
+      "360 cm",
+      "330 cm",
+      "120 cm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_dokumentacja.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 75,
+    "text": "Podczas odbioru czterech otworów okiennych o projektowanej szerokości w świetle równej 1200 mm w murze spoinowanym, wykonano pomiary otworów okiennych i otrzymano następujące wyniki: otwór nr I – 1190 mm, otwór nr II – 1195 mm, otwór nr III – 1200 mm, otwór nr IV – 1210 mm. Na podstawie zamieszczonej tabeli określ, dla którego otworu nie została zachowana dopuszczalna odchyłka wymiaru.",
+    "answers": [
+      "Otwór nr II",
+      "Otwór nr I",
+      "Otwór nr III",
+      "Otwór nr IV"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela5.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 76,
+    "text": "Do wykonania izolacji termicznej ścian zewnętrznych remontowanych budynków nie należy stosować",
+    "answers": [
+      "styropianu.",
+      "styroduru.",
+      "mat PVC.",
+      "pianki PIR."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 77,
+    "text": "Obmiar robót zawiera",
+    "answers": [
+      "opis i wyliczenia ilości zrealizowanych robót.",
+      "koszt jednostkowy i wartość podatku VAT.",
+      "wartość kosztów bezpośrednich i narzutów.",
+      "jednostkowe nakłady rzeczowe dla robocizny, materiałów i sprzętu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 78,
+    "text": "Narzędzie przedstawione na rysunku przeznaczone jest do",
+    "answers": [
+      "badania betonu.",
+      "odspajania tynku.",
+      "gięcia prętów.",
+      "wiązania zbrojenia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_narzedzie.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 79,
+    "text": "Zgodnie z ustawą Prawo Budowlane prowadzenie książki obiektu budowlanego należy do obowiązków",
+    "answers": [
+      "najemcy lokalu w obiekcie.",
+      "właściciela lub zarządcy obiektu.",
+      "inspektora nadzoru budowlanego.",
+      "kierownika budowy lub robót."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 80,
+    "text": "Na rysunku przedstawiono deskowanie",
+    "answers": [
+      "nadproża żelbetowego.",
+      "słupa betonowego.",
+      "stropu żelbetowego.",
+      "ściany betonowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_deskowanie.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 81,
+    "text": "Przedstawiony na ilustracji sprzęt przeznaczony jest do",
+    "answers": [
+      "badania konsystencji zaprawy budowlanej.",
+      "dozowania domieszek do betonu.",
+      "pomiaru wilgotności kruszywa.",
+      "zagęszczania mieszanki betonowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_sprzet2.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 82,
+    "text": "Podczas remontu konstrukcji dachu należy wymienić 15 m kleszczy. Na podstawie danych zawartych w tablicy z KNR 4-01, oblicz zapotrzebowanie na krawędziaki, bale oraz deski iglaste. Do obliczeń należy przyjąć jednokrotne zużycie materiałów.",
+    "answers": [
+      "Krawędziaki iglaste – 0,240 m3, bale iglaste – 0,195 m3, deski iglaste – 0,105 m3",
+      "Krawędziaki iglaste – 0,240 m3, bale iglaste – 0,870 m3, deski iglaste – 0,510 m3",
+      "Krawędziaki iglaste – 0,240 m3, bale iglaste – 0,075 m3, deski iglaste – 0,045 m3",
+      "Krawędziaki iglaste – 0,240 m3, bale iglaste – 0,360 m3, deski iglaste – 0,225 m3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela63.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 83,
+    "text": "Grubość płyty spocznikowej w budynku, którego przekrój przedstawiono na rysunku wynosi",
+    "answers": [
+      "36 cm",
+      "30 cm",
+      "22 cm",
+      "10 cm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_przekroj2.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 84,
+    "text": "Na każdej zmianie zatrudnionych jest 14 pracowników mających kontakt ze szkodliwymi środkami chemicznymi. Na podstawie przedstawionych wymagań określ minimalną powierzchnię jadalni typu I, jeżeli jednocześnie posiłek będzie spożywać 7 pracowników.",
+    "answers": [
+      "8,0 m2",
+      "16,0 m2",
+      "15,4 m2",
+      "7,7 m2"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_rozporzadzenie2.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 85,
+    "text": "Przed przystąpieniem do naprawy hydroizolacji ścian fundamentowych budynku, po odkopaniu fragmentu fundamentów, należy w pierwszej kolejności dokładnie",
+    "answers": [
+      "zagruntować ściany.",
+      "osuszyć ściany.",
+      "zaimpregnować ściany.",
+      "wyrównać ściany zaprawą."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 86,
+    "text": "Tablica informacyjna budowy powinna zawierać między innymi następujące informacje:",
+    "answers": [
+      "imię i nazwisko kierownika budowy oraz numery telefonów dostawców materiałów budowlanych.",
+      "adres prowadzenia robót budowlanych oraz liczbę pracowników zatrudnionych na budowie.",
+      "imię i nazwisko projektanta oraz rodzaj nawierzchni dróg tymczasowych na budowie.",
+      "numer pozwolenia na budowę oraz numery telefonów inwestora i wykonawcy robót budowlanych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 87,
+    "text": "Za przygotowanie Specyfikacji Warunków Zamówienia w zamówieniach publicznych odpowiada",
+    "answers": [
+      "zamawiający.",
+      "wykonawca.",
+      "kierownik budowy.",
+      "inspektor nadzoru."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 88,
+    "text": "Na podstawie danych z tabeli elementów scalonych określ, ile wynosi procentowa stawka podatku VAT.",
+    "answers": [
+      "18%",
+      "5%",
+      "8%",
+      "23%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela65.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 89,
+    "text": "Ilość materiałów pochodzących z rozbiórki, przeznaczonych do dalszego wykorzystania, ustala się na podstawie",
+    "answers": [
+      "inwentaryzacji przeprowadzonej przed rozbiórką.",
+      "projektu architektonicznego.",
+      "projektu robót rozbiórkowych.",
+      "pomiarów z natury przeprowadzonych po rozbiórce."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 90,
+    "text": "Osobą odpowiedzialną za opracowanie planu bezpieczeństwa i ochrony zdrowia jest",
+    "answers": [
+      "inwestor.",
+      "projektant.",
+      "inspektor nadzoru inwestorskiego.",
+      "kierownik budowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 91,
+    "text": "Na podstawie zamieszczonego fragmentu przedmiaru robót, sporządzonego w programie do kosztorysowania, odczytaj ilość robót związanych z wykonaniem izolacji przeciwwilgociowych powłokowych pionowych wykonywanych na zimno z roztworu asfaltowego.",
+    "answers": [
+      "51,48 m2",
+      "212,64 m2",
+      "107,22 m2",
+      "141,08 m2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_przedmiar.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 92,
+    "text": "Na podstawie zamieszczonego planu zagospodarowania terenu budowy wskaż, który z obiektów będzie montowany przy użyciu żurawia szynowego.",
+    "answers": [
+      "Warsztat zbrojarski.",
+      "Budynek nr 124.",
+      "Budynek nr 121.",
+      "Warsztat ciesielski."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_plan.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 93,
+    "text": "Na ilustracji strzałą wskazano połączenie krokwi",
+    "answers": [
+      "z murłatą na zacios.",
+      "z płatwią na jaskółczy ogon.",
+      "z belką stropową na zwidłowanie.",
+      "ze ścianką kolankową na zamek ukośny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_ilustracja.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 94,
+    "text": "W jaki sposób należy przygotować do montażu pręty zbrojeniowe pokryte łuszczącą się rdzą lub zgorzeliną?",
+    "answers": [
+      "Oczyścić preparatem odtłuszczającym i osuszyć.",
+      "Oczyścić szczotką drucianą ręcznie lub mechanicznie.",
+      "Oczyścić ciepłym strumieniem powietrza z nagrzewnicy.",
+      "Oczyścić silnym strumieniem wody i osuszyć."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 95,
+    "text": "Prowadzenie książki obiektu budowlanego jest obowiązkiem",
+    "answers": [
+      "właściciela lub zarządcy obiektu.",
+      "inspektora nadzoru budowlanego.",
+      "inspektora nadzoru inwestorskiego.",
+      "kierownika budowy obiektu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 96,
+    "text": "Zgodnie z KNR 2-01 norma czasu pracy robotników na oczyszczenie terenu z pozostałości po wykarczowaniu z wywiezieniem wynosi 3,06 r-g/100 m2. Ilu robotników należy zatrudnić do oczyszczenia terenu o powierzchni 1600 m2, jeżeli zgodnie z harmonogramem robót prace te powinny być wykonane w ciągu dwóch 8-godzinnych dni roboczych?",
+    "answers": [
+      "3 robotników.",
+      "4 robotników.",
+      "6 robotników.",
+      "7 robotników."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 97,
+    "text": "Oblicz objętość nasypu liniowego o długości 350 m i przekroju poprzecznym, jak na rysunku.",
+    "answers": [
+      "105 000 m3",
+      "140 000 m3",
+      "35 000 m3",
+      "70 000 m3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_nasyp3.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 98,
+    "text": "Na podstawie zamieszczonego harmonogramu określ, ile tygodni będą trwały roboty związane z wymianą instalacji elektrycznej.",
+    "answers": [
+      "6 tygodni.",
+      "12 tygodni.",
+      "16 tygodni.",
+      "9 tygodni."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_harmonogram8.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 99,
+    "text": "Na podstawie danych zamieszczonych w tabeli określ, ile wynosi maksymalne dopuszczalne odchylenie od pionu na całej wysokości murowanej ściany niespoinowanej w czterokondygnacyjnym budynku.",
+    "answers": [
+      "24 mm",
+      "20 mm",
+      "30 mm",
+      "40 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela62.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 100,
+    "text": "Na podstawie zamieszczonego fragmentu specyfikacji technicznej, określ dopuszczalną maksymalną różnicę długości przekątnych wbudowanej ościeżnicy o szerokości 100 cm i wysokości100 cm.",
+    "answers": [
+      "3 mm",
+      "1 mm",
+      "2 mm",
+      "4 mm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_specyfikacja4.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 101,
+    "text": "Na której ilustracji przedstawiono maszynę budowlaną stosowaną do prowadzenia robót rozbiórkowych?",
+    "answers": [
+      "Na ilustracji 2.",
+      "Na ilustracji 4.",
+      "Na ilustracji 3.",
+      "Na ilustracji 1."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_maszyny3.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 102,
+    "text": "Rozbiórkę budynków murowanych należy prowadzić stopniowo, rozpoczynając od demontażu",
+    "answers": [
+      "podłóg i konstrukcji stropu najwyższej kondygnacji.",
+      "pokrycia dachowego i konstrukcji dachu.",
+      "ścianek działowych najwyższej kondygnacji.",
+      "urządzeń i elementów instalacji elektrycznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 103,
+    "text": "W którym z wymienionych stropów gęstożebrowych wykonuje się żebra jako monolityczne na terenie budowy?",
+    "answers": [
+      "W stropie Akermana.",
+      "W stropie Fert.",
+      "W stropie DZ.",
+      "W stropie Teriva."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 104,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR 2-02 dobierz skład zespołu roboczego do wykonania żelbetowej płyty stropowej płaskiej o powierzchni 140 m2 i grubości 10 cm, jeżeli prace mają być wykonane w czasie dwóch 8-godzinnych dni roboczych.",
+    "answers": [
+      "1 betoniarz, 8 cieśli, 5 robotników.",
+      "1 betoniarz, 8 cieśli, 6 robotników.",
+      "2 betoniarzy, 11 cieśli, 7 robotników.",
+      "2 betoniarzy, 11 cieśli, 8 robotników."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela61.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 105,
+    "text": "Na rysunku przedstawiono prefabrykowaną płytę żelbetową typu MON przeznaczoną do budowy",
+    "answers": [
+      "tymczasowych nawierzchni dróg na terenie budowy.",
+      "zabezpieczeń pionowych ścian wykopów przed osuwaniem.",
+      "tymczasowych ogrodzeń terenu budowy.",
+      "zabezpieczeń wykopów przed wodą opadową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_plyta.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 106,
+    "text": "Przedstawione na ilustracji deskowanie przeznaczone jest do",
+    "answers": [
+      "betonowania ław fundamentowych.",
+      "jednoczesnego betonowania stóp fundamentowych i słupów.",
+      "betonowania ścian.",
+      "jednoczesnego betonowania ścian i stropów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_deskowanie2.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 107,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR 2-02, oblicz zapotrzebowanie na pustaki betonowe potrzebne do wykonania dwóch kanałów wentylacyjnych długości 12 m każdy.",
+    "answers": [
+      "45 szt.",
+      "92 szt.",
+      "91 szt.",
+      "46 szt."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela60.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 108,
+    "text": "Oblicz objętość żelbetowej stopy fundamentowej schodkowej, której wymiary przedstawiono na rysunku.",
+    "answers": [
+      "1,28 m3",
+      "0,80 m3",
+      "2,56 m3",
+      "1,68 m3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_stopa.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 109,
+    "text": "Na którym rysunku przedstawiono wykonywanie wykopu liniowego koparką podsiębierną metodą czołową?",
+    "answers": [
+      "Na rysunku 3.",
+      "Na rysunku 1.",
+      "Na rysunku 4.",
+      "Na rysunku 2."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_wykopy.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 110,
+    "text": "Na podstawie danych zamieszczonych w tabeli określ, ile wynosi zalecane nachylenie obciążonych skarp wykopu szerokości 8,5 m i głębokości 3,5 m, wykonywanego w gruncie kategorii III.",
+    "answers": [
+      "1 : 0,60",
+      "1 : 1,00",
+      "1 : 0,43",
+      "1 : 0,71"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela59.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 111,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR 2-01 oblicz czas pracy spycharki gąsienicowej niezbędny do usunięcia warstwy humusu o grubości 25 cm z działki o powierzchni 1800 m2.",
+    "answers": [
+      "5,94 m-g",
+      "4,50 m-g",
+      "7,38 m-g",
+      "8,82 m-g"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela58.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 112,
+    "text": "Na którym rysunku przedstawiono połączenie śrubowe nakładkowe?",
+    "answers": [
+      "Na rysunku 2.",
+      "Na rysunku 3.",
+      "Na rysunku 1.",
+      "Na rysunku 4."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_polaczenia.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 113,
+    "text": "Na podstawie fragmentu instrukcji montażu stropu Teriva określ minimalną liczbę podpór, którą należy zastosować przy rozpiętości modularnej stropu wynoszącej 6,0 m.",
+    "answers": [
+      "2 podpory.",
+      "4 podpory.",
+      "3 podpory.",
+      "1 podporę."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_ramka22.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 114,
+    "text": "Ile 8-godzinnych dni roboczych należy przewidzieć na wykonanie belek żelbetowych o łącznej objętości 15 m3, jeżeli jednostkowe nakłady robocizny wynoszą 20,41 r-g/m3, a roboty będą wykonywane przez 3 robotników?",
+    "answers": [
+      "12 dni roboczych.",
+      "13 dni roboczych.",
+      "38 dni roboczych.",
+      "39 dni roboczych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 115,
+    "text": "Na podstawie zamieszczonych informacji producenta stalowych grodzic określ, ile profili typu GU 22N potrzeba do wykonania ścianki szczelnej długości 72 m.",
+    "answers": [
+      "60 szt.",
+      "80 szt.",
+      "160 szt.",
+      "120 szt."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_ramka21.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 116,
+    "text": "Na podstawie danych zawartych w tablicy z KNR 4-01 oblicz, ile wynosi norma wydajności dziennej pracy dekarza (przy założeniu 8-godzinnego dnia pracy) wykonującego roboty związane z rozbiórką pokrycia dachowego z dachówki karpiówki pojedynczej.",
+    "answers": [
+      "29,63 m2",
+      "22,22 m2",
+      "29,63 r-g",
+      "22,22 r-g"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela64.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 117,
+    "text": "Zagospodarowanie terenu budowy należy zaplanować w następującej kolejności:",
+    "answers": [
+      "tymczasowe drogi → zaplecze produkcyjno-usługowe → ogrodzenie i tablica informacyjna → zaplecze administracyjno-socjalne.",
+      "ogrodzenie i tablica informacyjna → zaplecze produkcyjno-usługowe → tymczasowe drogi → zaplecze administracyjno-socjalne.",
+      "ogrodzenie i tablica informacyjna → zaplecze administracyjno-socjalne → tymczasowe drogi → zaplecze produkcyjno-usługowe.",
+      "tymczasowe drogi → zaplecze administracyjno-socjalne → ogrodzenie i tablica informacyjna → zaplecze produkcyjno-usługowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 118,
+    "text": "Na rysunku przestawiono przekrój złącza",
+    "answers": [
+      "poziomego dwóch płyt stropowych na ścianie wewnętrznej.",
+      "pionowego płyty stropowej ze ścianą wewnętrzną.",
+      "poziomego płyty stropowej ze ścianą osłonową.",
+      "pionowego ściany osłonowej ze ścianą wewnętrzną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_przekroj5.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 119,
+    "text": "Na podstawie zamieszczonego harmonogramu postępu robót remontowych i zatrudnienia zasobów ludzkich określ, w którym okresie zatrudnienie ustabilizuje się na poziomie 35 pracowników.",
+    "answers": [
+      "Od 1 do 4 tygodnia.",
+      "Od 7 do 10 tygodnia.",
+      "Od 3 do 7 tygodnia.",
+      "Od 5 do 6 tygodnia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_harmonogram4.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 120,
+    "text": "W jaki sposób należy przygotować do montażu pręty zbrojeniowe zanieczyszczone błotem?",
+    "answers": [
+      "Oczyścić piaskarką lub silnym strumieniem powietrza.",
+      "Oczyścić piaskarką lub opalić lampą benzynową.",
+      "Oczyścić szczotką stalową lub oszlifować szlifierką taśmową.",
+      "Oczyścić szczotką stalową lub silnym strumieniem wody."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 121,
+    "text": "Na podstawie zamieszczonego zestawienia narzutów oraz kosztów bezpośrednich oblicz wartość kosztorysową netto robót ziemnych.",
+    "answers": [
+      "2 295,00 zł",
+      "2 160,00 zł",
+      "2 376,00 zł",
+      "1 485,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela56.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 122,
+    "text": "Ile jednakowych samochodów samowyładowczych należy zapewnić, aby zachować ciągłość pracy koparki i samochodów, jeżeli czas załadunku jednego samochodu wynosi 10 minut, a czas pełnego cyklu przewozowego 60 minut?",
+    "answers": [
+      "3 samochody samowyładowcze.",
+      "2 samochody samowyładowcze.",
+      "5 samochodów samowyładowczych.",
+      "6 samochodów samowyładowczych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 123,
+    "text": "Ile wynosi norma wydajności dziennej robotników pracujących przy rozbiórce ścianki z cegieł o grubości ½ cegły na zaprawie cementowo-wapiennej, jeżeli norma czasu pracy przyjęta z KNR wynosi 0,95 r-g/m2. Roboty rozbiórkowe będą prowadzone 8 godzin dziennie.",
+    "answers": [
+      "7,60 m2",
+      "8,42 r-g",
+      "7,60 r-g",
+      "8,42 m2"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 124,
+    "text": "W murowanej spoinowanej ścianie budynku wykonano cztery otwory okienne o projektowanej szerokości w świetle równej 900 mm. Podczas odbioru robót murarskich dokonano pomiarów szerokości tych otworów i otrzymano następujące wyniki: otwór nr I – 894 mm, otwór nr II – 898 mm, otwór nr III – 902 mm, otwór nr IV – 906 mm. Na podstawie danych zawartych w tabeli określ, dla którego otworu nie została zachowana dopuszczalna odchyłka wymiaru.",
+    "answers": [
+      "Dla otworu nr IV",
+      "Dla otworu nr II",
+      "Dla otworu nr I",
+      "Dla otworu nr III"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela52.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 125,
+    "text": "Z przedstawionego podsumowania kosztorysu ofertowego wynika, że wartość materiałów wraz z kosztami zakupu wynosi",
+    "answers": [
+      "34 501,47 zł",
+      "7 935,34 zł",
+      "2 644,16 zł",
+      "31 857,31 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela57.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 126,
+    "text": "Narzędzie przedstawione na ilustracji przeznaczone jest do",
+    "answers": [
+      "gięcia prętów zbrojenia.",
+      "wiązania prętów zbrojenia.",
+      "cięcia prętów zbrojenia.",
+      "czyszczenia prętów zbrojenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_narzedzie3.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 127,
+    "text": "Na podstawie zamieszczonego harmonogramu ogólnego, ustal liczbę dni pracy samochodów wywrotek przy wykonywaniu robót ziemnych.",
+    "answers": [
+      "57 dni.",
+      "42 dni.",
+      "14 dni.",
+      "24 dni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_harmonogram7.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 128,
+    "text": "Naprawa murowanej ściany z cegły, w której wzdłuż spoin występują pojedyncze rysy szerokości do 4 mm i pęknięcia niezagrażające stateczności konstrukcji, polegać będzie na",
+    "answers": [
+      "torkretowaniu spękanej ściany mieszanką betonową.",
+      "oczyszczeniu powierzchni ściany, poszerzeniu pęknięć, wypełnieniu ich zaprawą cementową.",
+      "rozebraniu spękanej ściany i ponownym jej wymurowaniu.",
+      "wykuciu w ścianie bruzd prostopadle do kierunku rys, umieszczeniu stalowych prętów i zabetonowaniu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 129,
+    "text": "W części opisowej planu BIOZ zawarte są między innymi",
+    "answers": [
+      "informacje dotyczące uzyskania pozwolenia na budowę.",
+      "uzgodnienia z organem administracji architektoniczno-budowlanej.",
+      "dane do zawarcia umowy z podwykonawcą robót budowlanych.",
+      "przyczyny zagrożeń i sposoby zapobiegania im na budowie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 130,
+    "text": "Obmiar robót sporządza się na podstawie",
+    "answers": [
+      "projektu wykonawczego oraz specyfikacji technicznych.",
+      "wyników pomiaru z natury zapisanych w książce obmiarów.",
+      "cen jednostkowych robót podstawowych.",
+      "projektu architektoniczno-budowlanego oraz katalogów nakładów rzeczowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 131,
+    "text": "Na którym rysunku przedstawiono oznaczenie graficzne istniejącej ściany przeznaczonej do wyburzenia?",
+    "answers": [
+      "Na rysunku 4.",
+      "Na rysunku 3.",
+      "Na rysunku 2.",
+      "Na rysunku 1."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_oznaczenia4.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 132,
+    "text": "Ile mieszanki betonowej należy zamówić do zabetonowania płyty fundamentowej o wymiarach 15,0×12,0×0,5 m w systemowym deskowaniu drobnowymiarowym, jeżeli norma zużycia mieszanki wynosi 102 m3/100 m3?",
+    "answers": [
+      "88,2 m3",
+      "90,0 m3",
+      "91,0 m3",
+      "91,8 m3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 133,
+    "text": "Norma czasu pracy zbrojarzy na przygotowanie i montaż zbrojenia stóp fundamentowych wynosi 42,88 r-g/1 t zbrojenia. Ile 8-godzinnych dni roboczych należy przewidzieć na wykonanie zbrojenia o masie całkowitej 0,852 t, jeżeli zatrudnionych będzie 2 zbrojarzy.",
+    "answers": [
+      "2 dni robocze.",
+      "3 dni robocze.",
+      "5 dni roboczych.",
+      "4 dni robocze."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 134,
+    "text": "Na podstawie przedstawionych wymagań określ minimalną liczbę umywalek indywidualnych w umywalni, jeżeli na każdej zmianie zatrudnionych jest od 60 do 80 pracowników mających kontakt z substancjami szkodliwymi.",
+    "answers": [
+      "8",
+      "16",
+      "6",
+      "12"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_ramka18.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 135,
+    "text": "Na którym schemacie przedstawiono prawidłowo rozmieszczone elementy zagospodarowania terenu budowy?",
+    "answers": [
+      "Na schemacie 2.",
+      "Na schemacie 1.",
+      "Na schemacie 4.",
+      "Na schemacie 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_schematy2.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 136,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR 2-01, oblicz koszt pracy żurawia samochodowego przy wykonywaniu placu o łącznej powierzchni 750 m2 z płyt żelbetowych pełnych o wymiarach 3,0×1,5 m, jeżeli stawka pracy żurawia wynosi 145,00 zł/m-g.",
+    "answers": [
+      "3 369,80 zł",
+      "4 567,50 zł",
+      "4 811,10 zł",
+      "3 610,50 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela55.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 137,
+    "text": "Na podstawie rzutu pomieszczenia określ wysokość otworu okiennego.",
+    "answers": [
+      "80 cm",
+      "205 cm",
+      "90 cm",
+      "120 cm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_rzut8.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 138,
+    "text": "Roboty rozbiórkowe budynku jednorodzinnego murowanego z dachem o konstrukcji drewnianej, należy rozpocząć od demontażu",
+    "answers": [
+      "urządzeń oraz instalacji sanitarnych, gazowych i elektrycznych.",
+      "stolarki okiennej i drzwiowej oraz wbudowanych mebli.",
+      "ścianek działowych, okładzin ścian i podłóg.",
+      "rur spustowych, rynien, obróbek blacharskich i drewnianej konstrukcji dachu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 139,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR 4-01 oblicz, ile dachówek ceramicznych należy zamówić w celu przełożenia pokrycia dachu o powierzchni 185 m2 z dachówki karpiówki układanej podwójnie w koronkę na zaprawie.",
+    "answers": [
+      "10 175 szt.",
+      "5 088 szt.",
+      "3 275 szt.",
+      "9 065 szt."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela54.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 140,
+    "text": "Na podstawie informacji zawartych w specyfikacji technicznej określ maksymalną grubość warstwy układanego gruntu, jeżeli do jego zgęszczania będą zastosowane małogabarytowe ubijaki obrotowo-udarowe.",
+    "answers": [
+      "3 cm",
+      "2 cm",
+      "30 cm",
+      "20 cm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_ramka17.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 141,
+    "text": "Na podstawie szkicu inwentaryzacyjnego określ szerokość filara międzyokiennego.",
+    "answers": [
+      "310 cm",
+      "260 cm",
+      "440 cm",
+      "180 cm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_szkic3.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 142,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR 2-01 określ, ile koparek gąsienicowych o pojemności łyżki 0,40 m3 należy zaplanować do odspojenia i załadownia 600 m3 gruntu kategorii III w ciągu dwóch 8-godzinnych zmian.",
+    "answers": [
+      "2 koparki.",
+      "3 koparki.",
+      "4 koparki.",
+      "6 koparek."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela50.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 143,
+    "text": "Tablica informacyjna umieszczona przy wjeździe na teren rozbiórki budynku powinna zawierać między innymi informację dotyczącą",
+    "answers": [
+      "rodzaju prowadzonych robót.",
+      "metody prowadzenia robót.",
+      "kolejności prowadzenia robót.",
+      "liczby zatrudnionych pracowników."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 144,
+    "text": "Oblicz objętość betonowej belki długości 200 cm, której wymiary przekroju poprzecznego przedstawiono na rysunku.",
+    "answers": [
+      "99,5000 m3",
+      "0,9950 m3",
+      "9,9500 m3",
+      "0,0995 m3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_przekroj6.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 145,
+    "text": "Zgodnie z KNR 2-01 norma czasu pracy robotników na ścinanie piłą mechaniczną drzew o średnicy 46-55 cm wynosi 308 r-g/100 szt. Ilu robotników należy zatrudnić do ścięcia 15 drzew o średnicy 50 cm, jeżeli zgodnie z harmonogramem robót prace te powinny być wykonane w ciągu jednego 8-godzinnego dnia roboczego?",
+    "answers": [
+      "47 robotników.",
+      "5 robotników.",
+      "6 robotników.",
+      "46 robotników."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 146,
+    "text": "Na podstawie zestawienia stali zbrojeniowej określ, ile stali należy zamówić do wykonania zbrojenia nośnego ławy fundamentowej.",
+    "answers": [
+      "23,1 kg",
+      "72,5 kg",
+      "95,6 kg",
+      "81,6 kg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela51.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 147,
+    "text": "Na podstawie danych zamieszczonych w tabeli oszacuj stopień zużycia technicznego wybudowanego 15 lat temu, nigdy nie remontowanego, murowanego domu letniskowego.",
+    "answers": [
+      "10%",
+      "25%",
+      "30%",
+      "15%"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela53.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 148,
+    "text": "Książkę obiektu budowlanego należy założyć i prowadzić systematycznie od dnia",
+    "answers": [
+      "przekazania obiektu budowlanego do użytkowania.",
+      "rozpoczęcia budowy.",
+      "rozpoczęcia organizacji terenu budowy.",
+      "uzyskania pozwolenia na budowę."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 149,
+    "text": "Na podstawie informacji zamieszczonych w specyfikacji określ poziom, do którego można wykonać wykop metodą mechaniczną, jeżeli projektowany poziom posadowienia fundamentu wynosi 1,05 m.",
+    "answers": [
+      "-0,95 m",
+      "-0,85 m",
+      "-1,25 m",
+      "-1,15 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_ramka19.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 150,
+    "text": "Na rysunku przedstawiono kolejne etapy wykonywania pali",
+    "answers": [
+      "Straussa.",
+      "CFA.",
+      "Wolfsholza.",
+      "Franki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_pale.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 151,
+    "text": "Zapis KNR 2-02 0201-03 oznacza, że nakłady rzeczowe należy przyjmować z Katalogu Nakładów Rzeczowych 2-02 oraz",
+    "answers": [
+      "rozdziału 0201, tablicy 03",
+      "tablicy 0201, kolumny 03",
+      "tablicy 0201, rozdziału 03",
+      "rozdziału 0201, kolumny 03"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 152,
+    "text": "Na podstawie przedstawionego rysunku określ poziom posadowienia ław fundamentowych.",
+    "answers": [
+      "- 3,000 m",
+      "- 2,900 m",
+      "- 2,700 m",
+      "- 2,800 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_rysunek3.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 153,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR 2-02 dobierz skład zespołu roboczego do wykonania 10 filarów prostokątnych o wymiarach 0,25×0,38 m i wysokości 3,0 m, jeżeli prace mają być wykonane w czasie dwóch 8-godzinnych dni roboczych.",
+    "answers": [
+      "3 murarzy, 1 cieśla, 2 robotników.",
+      "2 murarzy, 2 cieśli, 2 robotników.",
+      "3 murarzy, 2 cieśli, 3 robotników.",
+      "4 murarzy, 1 cieśla, 1 robotnik."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela45.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 154,
+    "text": "Zgodnie z KNR 2-01 norma czasu pracy koparki przedsiębiernej przy odspajaniu 100 m3 gruntu na odkład wynosi 3,64 m-g. Ile koparek należy zaplanować do odspojenia 1150 m3 gruntu w ciągu dwóch 8-godzinnych zmian?",
+    "answers": [
+      "6 koparek.",
+      "3 koparki.",
+      "5 koparek.",
+      "2 koparki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 155,
+    "text": "Do wykonania warstwy wykończeniowej podczas docieplania ściany zewnętrznej budynku metodą lekką-mokrą należy zastosować",
+    "answers": [
+      "panele z PVC.",
+      "blachy fałdowe.",
+      "płyty styropianowe.",
+      "tynk cienkowarstwowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 156,
+    "text": "Kontrola odchylenia powierzchni muru od płaszczyzny polega na",
+    "answers": [
+      "przyłożeniu 2-metrowej łaty kontrolnej w dowolnym miejscu powierzchni muru i pomiarze z dokładnością do 1 mm prześwitu między łatą a powierzchnią muru.",
+      "pomiarze grubości 5 spoin w dowolnym miejscu muru z dokładnością do 1 mm, uśrednieniu wyniku pomiaru i porównaniu z wartością nominalną.",
+      "przyłożeniu kątownika murarskiego do krawędzi muru i pomiarze odchylenia krawędzi od kąta prostego z dokładnością do 1°.",
+      "pomiarze długości i wysokości muru z dokładnością do 10 mm i porównaniu wymiarów z dokumentacją projektową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 157,
+    "text": "Na podstawie przedstawionego fragmentu specyfikacji technicznej, określ dopuszczalne maksymalne odchylenie od pionu wbudowanej ościeżnicy o wysokości 2025 mm.",
+    "answers": [
+      "2 mm",
+      "3 mm",
+      "1 mm",
+      "4 mm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_specyfikacja2.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 158,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNNR 2 oraz w cenniku oblicz koszt pracy sprzętu niezbędnego do wykonania pojedynczych ścianek działowych z płyt gipsowych Pro-Monta o łącznej powierzchni 250 m2.",
+    "answers": [
+      "830,50 zł",
+      "223,88 zł",
+      "418,25 zł",
+      "434,25 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabele3.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 159,
+    "text": "Przygotowanie Specyfikacji Warunków Zamówienia w zamówieniach publicznych jest zadaniem",
+    "answers": [
+      "biura projektowego sporządzającego projekt techniczny obiektu.",
+      "osoby sporządzającej kosztorys powykonawczy.",
+      "wykonawcy starającego się o uzyskanie zamówienia.",
+      "organu samorządu terytorialnego będącego zamawiającym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 160,
+    "text": "Oblicz objętość betonowej belki nadprożowej długości 210 cm, której wymiary przekroju poprzecznego przedstawiono na rysunku.",
+    "answers": [
+      "0,3150 m3",
+      "0,0315 m3",
+      "3,1500 m3",
+      "31,5000 m3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_belka4.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 161,
+    "text": "Na podstawie przedstawionego fragmentu rzutu kondygnacji określ, ile wynoszą rozstawy ścian nośnych w osiach modularnych.",
+    "answers": [
+      "2,70 m i 3,44 m",
+      "6,00 m i 3,60 m",
+      "6,58 m i 3,60 m",
+      "2,79 m i 3,30 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_rzut7.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 162,
+    "text": "Ile wynosi wartość kosztorysowa robót brutto, jeżeli wartość kosztorysowa netto wynosi 7 899,85 zł, a stawka podatku VAT – 23%?",
+    "answers": [
+      "6 422,64 zł",
+      "9 716,82 zł",
+      "6 082,88 zł",
+      "8 081,55 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 163,
+    "text": "Na podstawie przedstawionych wymagań określ minimalną liczbę miejsc do siedzenia w szatni wieszakowej pracowników stosujących własną odzież roboczą, jeżeli na każdej zmianie zatrudnionych jest od 80 do 120 pracowników.",
+    "answers": [
+      "36",
+      "120",
+      "80",
+      "24"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_rozporzadzenie.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 164,
+    "text": "Na ilustracji przedstawiono montaż stropu",
+    "answers": [
+      "zespolonego z płyt typu filigran.",
+      "prefabrykowanego z płyt kanałowych.",
+      "prefabrykowanego z płyt pełnych.",
+      "zespolonego z blach trapezowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_strop4.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 165,
+    "text": "Przygotowanie na terenie budowy mieszanki betonowej o składzie określonym proporcją 1 : 2 : 4 oznacza, że należy użyć",
+    "answers": [
+      "1 części cementu, 2 części wody i 4 części kruszywa.",
+      "1 części cementu, 2 części żwiru i 4 części piasku.",
+      "1 części cementu, 2 części kruszywa i 4 części wody.",
+      "1 części cementu, 2 części piasku i 4 części żwiru."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 166,
+    "text": "Który układ dróg tymczasowych na terenie budowy przedstawiono na schemacie?",
+    "answers": [
+      "Promienisty z ruchem dwukierunkowym.",
+      "Przelotowy z ruchem jednokierunkowym.",
+      "Promienisty z ruchem jednokierunkowym.",
+      "Obwodowy z ruchem jednokierunkowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_uklad2.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 167,
+    "text": "Licowanie ściany murowanej polega na",
+    "answers": [
+      "wykonaniu w ścianie dylatacji poziomej umieszczonej pod otworami okiennymi.",
+      "wypełnieniu widocznych spoin pionowych oraz poziomych zaprawą mrozoodporną.",
+      "wykonaniu na powierzchni ściany warstwy okładzinowej np. z cegły klinkierowej.",
+      "wypełnieniu widocznych spoin pionowych oraz poziomych zaprawą zabarwioną pigmentem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 168,
+    "text": "Kosztorys sporządzany na zamówienie inwestora, w celu ustalenia przewidywanego kosztu inwestycji, nazywany jest kosztorysem",
+    "answers": [
+      "ofertowym.",
+      "powykonawczym.",
+      "zamiennym.",
+      "inwestorskim."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 169,
+    "text": "Na podstawie przedstawionego fragmentu harmonogramu robót ziemnych określ, którą metodą pracy będą wykonywane zaplanowane roboty.",
+    "answers": [
+      "Metodą równoczesnego wykonania.",
+      "Metodą kolejnego wykonania.",
+      "Metodą pracy równomiernej.",
+      "Metodą pracy potokowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_harmonogram3.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 170,
+    "text": "Do odspojenia 15 cm warstwy ziemi urodzajnej (humusu) za pomocą lemiesza oraz przemieszczenia urobku w obrębie budowy na odległość 60 m należy użyć",
+    "answers": [
+      "spycharki gąsienicowej.",
+      "ładowarki samojezdnej.",
+      "zgarniarki samojezdnej.",
+      "koparki podsiębiernej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 171,
+    "text": "Na rysunku przedstawiono przekrój połączenia spawanego z zastosowaniem spoiny",
+    "answers": [
+      "czołowej typu I.",
+      "pachwinowej jednostronnej.",
+      "czołowej typu V.",
+      "pachwinowej dwustronnej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_polaczenie3.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 172,
+    "text": "Na podstawie zamieszczonego w tabeli zestawienia wyników pomiaru z natury wykopu liniowego oblicz wartość obmiaru robót związanych z wykonaniem tego wykopu.",
+    "answers": [
+      "210,00 m3",
+      "200,00 m3",
+      "280,00 m3",
+      "240,00 m3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela47.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 173,
+    "text": "Na podstawie informacji zamieszczonych w tabeli określ minimalną szerokość wygrodzonej na terenie rozbiórki strefy niebezpiecznej, liczoną od płaszczyzny obiektu budowlanego, jeżeli maksymalna wysokość, z której mogą spadać materiały wynosi 5 m.",
+    "answers": [
+      "2,40 m",
+      "0,50 m",
+      "5,00 m",
+      "6,00 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_ramka16.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 174,
+    "text": "Na ilustracji przedstawiono konstrukcję do zabezpieczania pionowych ścian wykopów",
+    "answers": [
+      "szerokoprzestrzennych, w postaci deskowania segmentowego składającego się z płyt i klinów.",
+      "wąskoprzestrzennych, w postaci ścianki szczelnej składającej się z profili typu U.",
+      "szerokoprzestrzennych, w postaci ścianki szczelnej składającej się ze stalowych grodzic.",
+      "wąskoprzestrzennych, w postaci deskowania segmentowego składającego się z płyt i rozpór."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_konstrukcja.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 175,
+    "text": "Których informacji nie musi zawierać tablica informacyjna budowy?",
+    "answers": [
+      "Imienia i nazwiska oraz numeru telefonu kierownika budowy.",
+      "Adresu i numeru telefonu właściwego organu nadzoru budowlanego.",
+      "Określenia rodzaju robót budowlanych oraz adresu prowadzenia tych robót.",
+      "Adresu i numeru telefonu wojewódzkiego inspektora sanitarnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 176,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNNR 2 oblicz, ile cegieł dziurawek oraz zaprawy cementowo-wapiennej potrzeba do wymurowania ściany działowej o wymiarach 4,0×3,0×0,12 m. Liczbę cegieł należy zaokrąglić w górę do liczby całkowitej, ilość zaprawy podać z dokładnością do dwóch miejsc po przecinku.",
+    "answers": [
+      "Cegieł - 542 szt., zaprawy - 0,50 m3",
+      "Cegieł - 541 szt., zaprawy - 0,49 m3",
+      "Cegieł - 538 szt., zaprawy - 0,49 m3",
+      "Cegieł - 537 szt., zaprawy - 0,50 m3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela43.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 177,
+    "text": "Na podstawie przedstawionego fragmentu przedmiaru robót murowych, sporządzonego w programie do kosztorysowania, odczytaj ilość robót związanych z wymurowaniem ścian grubości 25 cm z cegieł budowlanych pełnych na zaprawie cementowo-wapiennej.",
+    "answers": [
+      "28,80 m2",
+      "74,40 m2",
+      "31,20 m2",
+      "73,50 m2"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela49.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 178,
+    "text": "Z przedstawionego podsumowania kosztorysu wynika, że koszty bezpośrednie pracy sprzętu wynoszą",
+    "answers": [
+      "406,63 zł",
+      "616,11 zł",
+      "1 022,74 zł",
+      "1 131,15 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela48.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 179,
+    "text": "Przedstawiona na ilustracji trawersa przeznaczona jest do podnoszenia i transportu",
+    "answers": [
+      "prefabrykowanych słupów.",
+      "cementu w workach.",
+      "prętów w wiązkach.",
+      "prefabrykowanych płyt ściennych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_trawersa.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 180,
+    "text": "Norma czasu pracy betoniarzy na wykonanie betonowych ław fundamentowych wynosi 0,72 r-g/1 m3. Ile 8-godzinnych dni roboczych należy przewidzieć na wykonanie ław o łącznej objętości 63 m3, jeżeli zatrudnionych będzie 2 betoniarzy?",
+    "answers": [
+      "2 dni.",
+      "3 dni.",
+      "6 dni.",
+      "5 dni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 181,
+    "text": "Z przedstawionego harmonogramu robót remontowych wynika, że czas trwania przerwy pomiędzy robotami tynkarskimi a malarskimi wynosi",
+    "answers": [
+      "3 tygodnie.",
+      "4 tygodnie.",
+      "3 dni.",
+      "4 dni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_harmonogram6.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 182,
+    "text": "Na podstawie przedstawionego fragmentu zestawienia stali zbrojeniowej oblicz masę całkowitą prętów w tonach.",
+    "answers": [
+      "2,379 t",
+      "0,238 t",
+      "0,237 t",
+      "2,378 t"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela44.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 183,
+    "text": "Narzędzie przedstawione na ilustracji przeznaczone jest do ręcznego",
+    "answers": [
+      "czyszczenia prętów zbrojenia.",
+      "cięcia prętów zbrojenia.",
+      "gięcia prętów zbrojenia.",
+      "wiązania prętów zbrojenia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_narzedzie2.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 184,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR 4-01 wskaż materiały i sprzęt niezbędne do naprawy pękniętych podokienników.",
+    "answers": [
+      "Cement portlandzki, piasek do betonów zwykłych, woda, żuraw okienny przenośny.",
+      "Cement portlandzki, piasek do zapraw, woda, betoniarka wolnospadowa.",
+      "Cement portlandzki, piasek do betonów zwykłych, woda, betoniarka wolnospadowa.",
+      "Cement portlandzki, piasek do zapraw, woda, żuraw okienny przenośny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela46.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 185,
+    "text": "Na podstawie przedstawionych wytycznych określ minimalną powierzchnię użytkową szatni odzieży brudnej, jeżeli na budowie jest zatrudnionych 36 pracowników.",
+    "answers": [
+      "18,00 m2",
+      "14,40 m2",
+      "25,20 m2",
+      "23,40 m2"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_ramka12.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 186,
+    "text": "W którym gruncie można zastosować ażurowe deskowanie do zabezpieczenia ścian wykopu wąskoprzestrzennego o głębokości 3 m?",
+    "answers": [
+      "Plastycznym.",
+      "Płynnym.",
+      "Zwartym.",
+      "Miękkoplastycznym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 187,
+    "text": "Na podstawie przedstawionego harmonogramu postępu robót remontowych i zatrudnienia zasobów ludzkich określ, w którym okresie przewiduje się równomierny wzrost zatrudnienia.",
+    "answers": [
+      "2 ÷ 7 tydzień.",
+      "5 ÷ 6 tydzień.",
+      "7 ÷ 10 tydzień.",
+      "1 ÷ 4 tydzień."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_harmonogram4.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 188,
+    "text": "Na podstawie przedstawionego przekroju poziomego klatki schodowej określ wysokość stopni – h oraz szerokość stopni – s.",
+    "answers": [
+      "h - 9 cm, s - 27 cm",
+      "h - 9 cm, s - 17 cm",
+      "h - 17 cm, s - 27 cm",
+      "h - 27 cm, s - 17 cm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_przekroj3.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 189,
+    "text": "Na podstawie rzutu i przekroju wykopu szerokoprzestrzennego określ wymiary tego wykopu na poziomie terenu, jeżeli nachylenie wszystkich skarp wynosi 1:1,5.",
+    "answers": [
+      "a = 20,0 m; b = 18,0 m",
+      "a = 25,0 m; b = 23,0 m",
+      "a = 18,0 m; b = 20,0 m",
+      "a = 23,0 m; b = 25,0 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_rzut6.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 190,
+    "text": "Na ilustracji przedstawiono montaż stropu prefabrykowanego",
+    "answers": [
+      "gęstożebrowego.",
+      "belkowo-pustakowego.",
+      "płytowo-żebrowego.",
+      "płytowego płaskiego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_strop3.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 191,
+    "text": "Na podstawie przedstawionego szkicu inwentaryzacyjnego określ szerokość otworu drzwiowego w pomieszczeniu biurowym nr 1.",
+    "answers": [
+      "110 cm",
+      "80 cm",
+      "90 cm",
+      "100 cm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_szkic.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 192,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR K-56 oblicz, ile agregatów tynkarskich należy zamówić do wykonania 350 m2 obrzutki cementowej na ścianach betonowych, jeżeli wykonanie prac przewidziano w ciągu jednej 8-godzinnej zmiany roboczej.",
+    "answers": [
+      "3 agregaty.",
+      "2 agregaty.",
+      "4 agregaty.",
+      "1 agregat."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela38.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 193,
+    "text": "W trakcie remontu budynku wielorodzinnego okazało się, że należy wykonać dodatkowo nieprzewidziane w projekcie roboty. Konsekwencją tego jest zwiększenie zakresu robót wykonywanych przez wykonawcę. Inwestor i wykonawca uzgodnili rozliczenie inwestycji na podstawie obmiaru. Na podstawie którego kosztorysu będą rozliczone roboty dodatkowe?",
+    "answers": [
+      "Ofertowego.",
+      "Inwestorskiego.",
+      "Powykonawczego.",
+      "Rzeczowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 194,
+    "text": "Na podstawie przedstawionego fragmentu przedmiaru robót murowych, sporządzonego w programie do kosztorysowania, odczytaj ilość robót związanych z wymurowaniem ścian z cegieł budowlanych pełnych grubości 38 cm na zaprawie cementowej.",
+    "answers": [
+      "74,4 m2",
+      "28,8 m2",
+      "73,5 m2",
+      "31,2 m2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela42.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 195,
+    "text": "Z przedstawionego zestawienia stali zbrojeniowej wynika, że długość ogółem prętów Nr 6 wynosi",
+    "answers": [
+      "113,6 m",
+      "77,0 m",
+      "190,0 m",
+      "25,0 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela36.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 196,
+    "text": "Na podstawie przedstawionego zestawienia wyników pomiaru z natury wykopu liniowego oblicz wartość obmiaru robót związanych z wykonaniem tego wykopu.",
+    "answers": [
+      "75,00 m3",
+      "25,00 m3",
+      "50,00 m3",
+      "100,00 m3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela40.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 197,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR-W 2-02 oblicz, ile bloczków oraz zaprawy potrzeba do wymurowania ściany w systemie YTONG o wymiarach 5,0×3,0 m i grubości 30 cm.",
+    "answers": [
+      "Bloczków - 128 szt., zaprawy - 76,50 kg",
+      "Bloczków - 128 szt., zaprawy - 93,15 kg",
+      "Bloczków - 127 szt., zaprawy - 51,00 kg",
+      "Bloczków - 127 szt., zaprawy - 61,20 kg"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela21.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 198,
+    "text": "Beton zwykły z kruszywa naturalnego klasy C8/10 stosowany jest do wykonywania",
+    "answers": [
+      "warstw wyrównawczo-podkładowych pod fundamenty.",
+      "prefabrykowanych drobnowymiarowych elementów ściennych.",
+      "ścian zewnętrznych jednowarstwowych.",
+      "żelbetowych stóp i ław fundamentowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 199,
+    "text": "Transport mieszanki betonowej z użyciem przedstawionego na ilustracji zasobnika z lejem spustowym wymaga zastosowania",
+    "answers": [
+      "przenośnika taśmowego.",
+      "pompy do betonu.",
+      "żurawia budowlanego.",
+      "wyciągu budowlanego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_zasobnik.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 200,
+    "text": "Kto opracowuje specyfikację istotnych warunków zamówienia (SIWZ)?",
+    "answers": [
+      "Przedstawiciel wykonawcy.",
+      "Oferent.",
+      "Komisja przetargowa.",
+      "Zamawiający."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 201,
+    "text": "Na podstawie informacji zamieszczonych w tabeli określ, ile powinna wynosić wygrodzona strefa niebezpieczna w swoim najmniejszym wymiarze liniowym liczonym od płaszczyzny obiektu budowlanego, jeżeli maksymalna wysokość, z której podczas prac rozbiórkowych będą spadać materiały budowlane wynosi 32 m.",
+    "answers": [
+      "1,50 m",
+      "3,20 m",
+      "6,00 m",
+      "2,40 m"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_ramka14.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 202,
+    "text": "Na podstawie przedstawionej informacji producenta stalowych grodzic określ, ile profili typu AU14 potrzeba do wykonania ścianki szczelnej długości 78 m.",
+    "answers": [
+      "52 szt.",
+      "98 szt.",
+      "195 szt.",
+      "104 szt."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_ramka13.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 203,
+    "text": "Z przedstawionego podsumowania kosztorysu wynika, że koszty bezpośrednie robocizny wynoszą",
+    "answers": [
+      "11 650,59 zł",
+      "6 345,78 zł",
+      "14 330,23 zł",
+      "4 188,21 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela41.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 204,
+    "text": "Ile wynosi wartość kosztorysowa robót brutto, jeżeli wartość kosztorysowa netto wynosi 6 820,50 zł, a stawka podatku VAT – 23%?",
+    "answers": [
+      "2 965,43 zł",
+      "8 389,22 zł",
+      "1 586,72 zł",
+      "5 545,12 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 205,
+    "text": "Które materiały należy zapewnić do ocieplenia ścian zewnętrznych budynku metodą lekką-suchą?",
+    "answers": [
+      "Płyty styropianowe, zaprawę klejącą, siatkę z prętów stalowych, tynk cementowo-wapienny.",
+      "Płyty z wełny mineralnej, profile ze stali ocynkowanej, łączniki, blachę fałdową.",
+      "Płyty styropianowe, zaprawę klejącą, siatkę z włókna szklanego, tynk cienkowarstwowy.",
+      "Papę asfaltową na tekturze, gwoździe papowe, geosiatkę, farbę silikatową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 206,
+    "text": "Które roboty związane z zagospodarowaniem terenu budowy, należy zaplanować w pierwszej kolejności?",
+    "answers": [
+      "Wykonanie oświetlenia terenu budowy.",
+      "Ustawienie na terenie budowy tymczasowych obiektów biurowych i socjalnych.",
+      "Wybudowanie tymczasowych dróg na terenie budowy.",
+      "Ogrodzenie terenu budowy i zamocowanie tablicy informacyjnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 207,
+    "text": "W której sytuacji kierownik budowy będzie zwolniony z obowiązku sporządzenia planu bezpieczeństwa i ochrony zdrowia?",
+    "answers": [
+      "Czas trwania budowy - 45 dni roboczych, liczba zatrudnionych pracowników - 30.",
+      "Czas trwania budowy - 35 dni roboczych, liczba zatrudnionych pracowników - 20.",
+      "Czas trwania budowy - 30 dni roboczych, liczba zatrudnionych pracowników - 10.",
+      "Czas trwania budowy - 40 dni roboczych, liczba zatrudnionych pracowników - 25."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 208,
+    "text": "Przygotowanie na terenie budowy zaprawy cementowo-wapiennej w stosunku objętościowym 1:1:6 polega na odmierzeniu i następnie zmieszaniu odpowiednio",
+    "answers": [
+      "1 części wapna, 1 części piasku i 6 części cementu.",
+      "1 części cementu, 1 części wapna i 6 części wody.",
+      "1 części wapna, 1 części wody i 6 części cementu.",
+      "1 części cementu, 1 części wapna i 6 części piasku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 209,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR 2-02 dobierz skład zespołu roboczego do wykonania 18 słupków o wymiarach 2×2 cegły i wysokości 3,0 m, jeżeli prace mają być wykonane w czasie trzech 8-godzinnych dni roboczych.",
+    "answers": [
+      "3 murarzy, 1 cieśla, 2 robotników.",
+      "4 murarzy, 1 cieśla, 4 robotników.",
+      "5 murarzy, 2 cieśli, 6 robotników.",
+      "3 murarzy, 2 cieśli, 3 robotników."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela37.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 210,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR 2-02 oblicz odzysk desek iglastych obrzynanych grubości 38 mm po rozebraniu deskowania prostokątnej podstawy ściany oporowej o stopie płaskiej, jeżeli wartość przedmiaru wynosi 25 m3.",
+    "answers": [
+      "0,60 m3",
+      "3,75 m3",
+      "0,40 m3",
+      "3,50 m3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela39.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 211,
+    "text": "Nakłady robocizny na wykonanie stropu gęstożebrowego wynoszą 168,00 r-g/100 m2. Ile 8-godzinnych dni roboczych będzie pracowało sześciu robotników, jeżeli zgodnie z przedmiarem należy wykonać 170 m2 takiego stropu?",
+    "answers": [
+      "36 dni.",
+      "6 dni.",
+      "35 dni.",
+      "5 dni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 212,
+    "text": "Przedstawiony fragment specyfikacji istotnych warunków zamówienia, to opis",
+    "answers": [
+      "przedmiotu zamówienia.",
+      "warunków udziału w postępowaniu.",
+      "trybu udzielenia zamówienia.",
+      "sposobu przygotowania oferty."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_ramka15.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 213,
+    "text": "Ile wynosi objętość ściany oporowej (części pionowej i poziomej) długości 10 m, której wymiary przekroju poprzecznego przedstawiono na rysunku?",
+    "answers": [
+      "1,51 m3",
+      "13,20 m3",
+      "15,10 m3",
+      "1,32 m3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_przekroj4.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 214,
+    "text": "Na rysunku przedstawiono fragment stropu",
+    "answers": [
+      "prefabrykowanego kasetonowego.",
+      "monolitycznego grzybkowego.",
+      "prefabrykowanego płytowo-żebrowego.",
+      "monolitycznego płytowo-żebrowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_strop2.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 215,
+    "text": "Na podstawie danych z zamieszczonych w tablicy KNR 2-01 ustal, ile 8-godzinnych dni pracy potrzeba do ręcznego usunięcia 10 cm warstwy humusu bez darni z działki o wymiarach 10×15 m, przez 4 robotników, jeżeli ziemia będzie przewożona taczkami.",
+    "answers": [
+      "2 dni.",
+      "4 dni.",
+      "1 dzień.",
+      "3 dni."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela20.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 216,
+    "text": "Na podstawie zamieszczonego harmonogramu postępu robót remontowych i zatrudnienia zasobów ludzkich określ, w którym okresie wystąpi równomierny spadek zatrudnienia.",
+    "answers": [
+      "Od 1 do 4 tygodnia.",
+      "Od 7 do 10 tygodnia.",
+      "Od 5 do 6 tygodnia.",
+      "Od 3 do 7 tygodnia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_harmonogram4.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 217,
+    "text": "Która wartość pochylenia skarpy, wyrażona tangensem kąta, spełnia warunki określone w specyfikacji, jeżeli zgodnie z projektem wymagane pochylenie skarpy wynosi 1: 1,25?",
+    "answers": [
+      "0,85",
+      "1,00",
+      "0,70",
+      "0,89"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_ramka9.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 218,
+    "text": "Na którym rysunku przedstawiono schemat bezpiecznego ustawienia pracowników przebywających równocześnie na różnych poziomach rusztowania?",
+    "answers": [
+      "Na rysunku 3.",
+      "Na rysunku 2.",
+      "Na rysunku 4.",
+      "Na rysunku 1."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_rysunki.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 219,
+    "text": "Podczas prowadzenia robót rozbiórkowych przewiduje się uzyskanie 145 m3 gruzu ceglanego. Odbiorca odpadów oferuje kontenery o pojemności 4 m3 oraz 7 m3. Który zestaw kontenerów będzie wystarczający do zgromadzenia uzyskanego gruzu?",
+    "answers": [
+      "20 kontenerów o pojemności 7 m3",
+      "36 kontenerów o pojemności 4 m3",
+      "16 kontenerów o pojemności 7 m3 i 7 kontenerów o pojemności 4 m3",
+      "18 kontenerów o pojemności 7 m3  i 5 kontenerów o pojemności 4 m3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 220,
+    "text": "Stanowisko składowania wielkowymiarowych elementów prefabrykowanych na terenie budowy powinno być usytuowane",
+    "answers": [
+      "bezpośrednio w zasięgu maszyn montażowych.",
+      "w pobliżu biura budowy i budynków socjalnych.",
+      "jak najbliżej wznoszonego obiektu budowlanego.",
+      "w pobliżu węzła betoniarskiego i wytwórni zapraw."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 221,
+    "text": "Wskaż zasadę przedmiarowania schodów żelbetowych.",
+    "answers": [
+      "Schody należy obliczać w m2, jako powierzchnię wszystkich stopnic i podstopnic, bez uwzględniania powierzchni spoczników.",
+      "Schody należy obliczać w m2, jako powierzchnię rzutu biegów na płaszczyznę poziomą, bez uwzględniania powierzchni spoczników.",
+      "Schody należy obliczać w m2, jako powierzchnię wszystkich stopnic i podstopnic, z uwzględnieniem powierzchni spoczników.",
+      "Schody należy obliczać w m2, jako powierzchnię rzutu biegów na płaszczyznę poziomą, z uwzględnieniem powierzchni spoczników."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 222,
+    "text": "Protokół wprowadzenia na budowę, dotyczy przekazania terenu budowy",
+    "answers": [
+      "inwestorowi przez inspektora nadzoru inwestorskiego.",
+      "kierownikowi budowy przez projektanta.",
+      "inwestorowi przez kierownika budowy.",
+      "kierownikowi budowy przez inwestora."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 223,
+    "text": "Na podstawie fragmentu formularza dziennika budowy wskaż osobę upoważnioną do wpisu w punkcie 7.",
+    "answers": [
+      "Kierownik budowy.",
+      "Inspektor nadzoru inwestorskiego.",
+      "Geodeta.",
+      "Inwestor."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_ramka10.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 224,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR-W 2-02 oblicz, ile bloczków oraz zaprawy YTONG potrzeba do wymurowania ściany o wymiarach 4,0×3,0 m i grubości 24 cm.",
+    "answers": [
+      "Bloczków - 102 szt., zaprawy - 40,80 kg",
+      "Bloczków - 25 szt., zaprawy - 9,79 kg",
+      "Bloczków - 102 szt., zaprawy - 48,96 kg",
+      "Bloczków - 25 szt., zaprawy - 11,75 kg"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela21.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 225,
+    "text": "Na podstawie zamieszczonego fragmentu kosztorysu robót związanych z rozebraniem ściany żelbetowej grubości 20 cm oblicz, ilu robotników należy przewidzieć do wykonania robót rozbiórkowych w ciągu 15 dni roboczych, jeżeli zaplanowano pracę na jedną zmianę po 8 godzin.",
+    "answers": [
+      "20 robotników.",
+      "9 robotników.",
+      "3 robotników.",
+      "10 robotników."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela24.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 226,
+    "text": "Na ilustracji przedstawiono nawierzchnię tymczasowej drogi dojazdowej wykonaną z prefabrykowanych",
+    "answers": [
+      "żelbetowych płyt drogowych typu MON.",
+      "betonowych płyt trapezowych.",
+      "żelbetowych płyt wielootworowych typu IOMB.",
+      "betonowych płyt ażurowych typu krata."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_nawierzchnia.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 227,
+    "text": "Na rysunku przedstawiono rzut budynku parterowego niepodpiwniczonego przeznaczonego do rozbiórki. Oblicz objętość ścian (bez odliczania otworów okiennych i drzwiowych), jeżeli wysokość kondygnacji wynosi 3,50 m.",
+    "answers": [
+      "45,325 m3",
+      "47,075 m3",
+      "44,450 m3",
+      "46,200 m3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_rzut.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 228,
+    "text": "Oblicz objętość nasypu liniowego o długości 100 m i przekroju poprzecznym, jak na rysunku.",
+    "answers": [
+      "3 500 m3",
+      "2 600 m3",
+      "2 500 m3",
+      "4 600 m3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_nasyp2.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 229,
+    "text": "Z zamieszczonego fragmentu podsumowania kosztorysu, sporządzonego w programie do kosztorysowania, odczytaj wartość kosztów bezpośrednich robocizny.",
+    "answers": [
+      "74 879,36 zł",
+      "30 962,55 zł",
+      "9 734,54 zł",
+      "43 916,81 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela27.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 230,
+    "text": "Na podstawie charakterystyki eksploatacyjnej żurawia samochodowego określ, ile wynosi jego maksymalny udźwig przy długości wysięgnika 25,2 m.",
+    "answers": [
+      "17,5 tony",
+      "15,1 tony",
+      "19,7 tony",
+      "10,7 tony"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_charakterystyka.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 231,
+    "text": "Na ilustracji strzałką wskazano połączenie krokwi",
+    "answers": [
+      "ze ścianką kolankową na zamek ukośny.",
+      "z belką stropową na zwidłowanie.",
+      "z murłatą na zacios.",
+      "z płatwią na jaskółczy ogon."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_ilustracja.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 232,
+    "text": "Na podstawie zamieszczonego fragmentu podsumowania kosztorysu ofertowego oblicz całkowite koszty bezpośrednie.",
+    "answers": [
+      "749,91 zł",
+      "595,73 zł",
+      "872,24 zł",
+      "601,65 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela26.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 233,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR 2-25 oraz cennika oblicz łączny koszt rozebrania dwóch zbiorników na cement o pojemności 30 m3.",
+    "answers": [
+      "235,81 zł",
+      "126,50 zł",
+      "253,00 zł",
+      "471,62 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabele.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 234,
+    "text": "Do kosztów pośrednich budowy nie zalicza się kosztów",
+    "answers": [
+      "zużycia narzędzi i lekkiego sprzętu budowlanego.",
+      "związanych z organizacją placu budowy.",
+      "wynagrodzenia robotników zatrudnionych na budowie.",
+      "wynagrodzenia pracowników zarządu i pracowników biurowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 235,
+    "text": "Na podstawie zestawienia norm materiałowych na wykonanie docieplenia 100 m2 ściany betonowej oblicz, ile potrzeba płyt styropianowych oraz siatki z włókna szklanego do termomodernizacji 125 m2 ściany.",
+    "answers": [
+      "Płyt styropianowych - 4,550 m3, siatki z włókna szklanego - 142,150 m2",
+      "Płyt styropianowych - 4,050 m3, siatki z włókna szklanego - 142,125 m2",
+      "Płyt styropianowych - 4,500 m3, siatki z włókna szklanego - 142,250 m2",
+      "Płyt styropianowych - 4,005 m3, siatki z włókna szklanego - 142,015 m2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela23.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 236,
+    "text": "Ile wynosi wartość kosztorysowa robót netto, jeżeli wartość kosztorysowa brutto (cena kosztorysowa) wynosi 10 701,00 zł, a stawka podatku VAT – 23%?",
+    "answers": [
+      "8 700,00 zł",
+      "10 724,00 zł",
+      "13 162,23 zł",
+      "8 239,77 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 237,
+    "text": "Na podstawie zestawienia wyników pomiaru z natury wykopu liniowego oblicz wartość obmiaru robót związanych z wykonaniem tego wykopu.",
+    "answers": [
+      "60,00 m<sup>3</sup>",
+      "96,00 m<sup>3</sup>",
+      "84,00 m<sup>3</sup>",
+      "108,00 m<sup>3</sup>"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela25.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 238,
+    "text": "Na podstawie zamieszonego przekroju poziomego klatki schodowej określ wysokość stopni – h oraz szerokość stopni – s.",
+    "answers": [
+      "h - 9 cm, s - 28 cm",
+      "h - 16 cm, s - 28 cm",
+      "h - 9 cm, s - 16 cm",
+      "h - 16 cm, s - 144 cm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_przekroj.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 239,
+    "text": "Nakłady robocizny na wykonanie stropu Teriva wynoszą 142,00 r-g/100 m2. Ile 8-godzinnych dni roboczych będzie pracowało trzech robotników przy wykonaniu 120 m2 takiego stropu?",
+    "answers": [
+      "21 dni.",
+      "24 dni.",
+      "8 dni.",
+      "7 dni."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 240,
+    "text": "Na podstawie zestawienia stali zbrojeniowej określ, ile stali należy zamówić do wykonania wszystkich strzemion ław fundamentowych.",
+    "answers": [
+      "72,5 kg",
+      "23,1 kg",
+      "104,0 kg",
+      "95,6 kg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela22.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 241,
+    "text": "Ile wynosi norma wydajności dziennej robotników pracujących przy rozbiórce pokrycia dachowego z dachówki ceramicznej, jeżeli norma czasu pracy przyjęta z KNR wynosi 0,45 r-g/m2? Roboty rozbiórkowe będą prowadzone 8 godzin dziennie.",
+    "answers": [
+      "17,78 m2",
+      "3,60 m2",
+      "3,60 r-g",
+      "17,78 r-g"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 242,
+    "text": "Na podstawie szkicu inwentaryzacyjnego określ wymiary pomieszczenia biurowego nr 1. * zdający otrzymuje jeden punkt niezależnie od udzielonej odpowiedzi.",
+    "answers": [
+      "31,60 × 44,00 cm \nB. 50,20 × 59,70 cm \nC. 51,28 × 83,00 cm \nD. 78,00 × 78,02 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_szkic.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 243,
+    "text": "Ile wynosi objętość stopy fundamentowej schodkowej, której wymiary przedstawiono na rysunku?",
+    "answers": [
+      "2,56 m3",
+      "1,28 m3",
+      "1,68 m3",
+      "0,80 m3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_stopa.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 244,
+    "text": "Na podstawie zamieszczonego harmonogramu robót określ, którą metodą pracy będą wykonywane zaplanowane roboty ziemne.",
+    "answers": [
+      "Metodą równoczesnego wykonania.",
+      "Metodą pracy równomiernej.",
+      "Metodą kolejnego wykonania.",
+      "Metodą pracy potokowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_harmonogram3.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 245,
+    "text": "Przedstawiona na rysunku maszyna budowlana to",
+    "answers": [
+      "walec drogowy jednobębnowy.",
+      "koparka gąsienicowa.",
+      "spycharka gąsienicowa.",
+      "walec drogowy dwubębnowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_maszyna.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 246,
+    "text": "Przedstawiony na rysunku element konstrukcyjny nadproża to",
+    "answers": [
+      "monolityczna belka typu U.",
+      "monolityczna belka zespolona.",
+      "prefabrykowana belka typu L.",
+      "prefabrykowana belka zespolona."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_element.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 247,
+    "text": "Zgodnie z harmonogramem robót, na mechaniczną rozbiórkę nawierzchni bitumicznej grubości 10 cm i powierzchni 1000 m2, przewidziano pięć 8-godzinnych dni roboczych. Oblicz liczbę robotników potrzebnych do wykonania rozbiórki w przewidzianym czasie, jeżeli jednostkowe nakłady robocizny wynoszą 0,06 r-g/m2.",
+    "answers": [
+      "8 robotników.",
+      "3 robotników.",
+      "2 robotników.",
+      "15 robotników."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 248,
+    "text": "Na rysunku przedstawiono przyrząd pomiarowy stosowany między innymi do kontrolowania",
+    "answers": [
+      "przyczepności tynku do podłoża.",
+      "odchylenia przecinających się otynkowanych płaszczyzn od kąta prostego.",
+      "grubości warstwy tynku.",
+      "odchylenia otynkowanej powierzchni od płaszczyzny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_przyrzad.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 249,
+    "text": "Transport mieszanki betonowej z użyciem przedstawionego na rysunku zasobnika z lejem spustowym wymaga zastosowania",
+    "answers": [
+      "przenośnika taśmowego.",
+      "żurawia budowlanego.",
+      "wyciągu budowlanego.",
+      "pompy do betonu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_zasobnik.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 250,
+    "text": "Na podstawie fragmentu rzutu kondygnacji określ szerokość otworu okiennego w świetle węgarków w pokoju o powierzchni 24,8 m2.",
+    "answers": [
+      "195 cm",
+      "200 cm",
+      "240 cm",
+      "135 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_rzut3.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 251,
+    "text": "W projekcie modernizacji obiektu budowlanego, na rzucie kondygnacji, ścianę przeznaczoną do wyburzenia należy oznaczyć",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_oznaczenia.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 252,
+    "text": "W planie BIOZ (Bezpieczeństwa i Ochrony Zdrowia) zawarte są między innymi informacje dotyczące",
+    "answers": [
+      "nowo wprowadzanych metod i technologii wykonywania robót.",
+      "uzyskania pozwolenia na budowę lub rozbiórkę.",
+      "rozmieszczenia urządzeń przeciwpożarowych i punktów czerpalnych.",
+      "nieprawidłowości, które wystąpiły w toku wykonywania robót."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 253,
+    "text": "Wskaż prawidłową, zgodną z technologią, kolejność wykonania monolitycznej żelbetowej stopy fundamentowej.",
+    "answers": [
+      "Ustawienie deskowania → wykonanie wykopu → ułożenie zbrojenia → betonowanie.",
+      "Wykonanie wykopu → ułożenie zbrojenia → betonowanie → ustawienie deskowania.",
+      "Wykonanie wykopu → ustawienie deskowania → ułożenie zbrojenia → betonowanie.",
+      "Ustawienie deskowania → wykonanie wykopu → betonowanie → ułożenie zbrojenia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 254,
+    "text": "Do zagęszczania mieszanki betonowej w płytach stropowych wykonywanych w warunkach budowy należy użyć",
+    "answers": [
+      "walców prasujących.",
+      "wibratora powierzchniowego.",
+      "stołu wibracyjnego.",
+      "wibratora przyczepnego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 255,
+    "text": "Z którego harmonogramu wynika, że roboty remontowe dachu będą prowadzone metodą równoległego wykonywania?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_harmonogramy2.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 256,
+    "text": "Na podstawie zamieszczonego fragmentu rozporządzenia określ, który wykop o ścianach pionowych może być wykonany bez umocnień, jeżeli grunt jest zwarty, teren przy wykopie w pasie o szerokości równej jego głębokości nie jest obciążony, a wyniki badań gruntu i dokumentacja geologiczno-inżynierska nie pozwalają na zwiększenie bezpiecznej głębokości.",
+    "answers": [
+      "Wykop o głębokości 1,50 m",
+      "Wykop o głębokości 0,75 m",
+      "Wykop o głębokości 2,00 m",
+      "Wykop o głębokości 3,00 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_ramka.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 257,
+    "text": "Na podstawie fragmentu rysunku inwentaryzacyjnego budynku przeznaczonego do remontu określ szerokość otworu okiennego nr 2.",
+    "answers": [
+      "2358 mm",
+      "950 mm",
+      "1250 mm",
+      "1978 mm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_rzut4.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 258,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR oblicz łączny koszt robocizny przy wykonaniu ocieplenia ściany o powierzchni 200 m2 płytami ze styropianu EPS grubości 20 cm. Ściana nie posiada otworów okiennych i drzwiowych. Stawka robocizny wynosi 21,30 zł za jedną roboczogodzinę.",
+    "answers": [
+      "17 721,60 zł",
+      "9 286,80 zł",
+      "9 712,80 zł",
+      "18 147,60 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela14.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 259,
+    "text": "Wszystkie informacje niezbędne do prawidłowego sporządzenia oferty przez wykonawców starających się o udzielenie zamówienia publicznego znajdują się",
+    "answers": [
+      "w ogłoszeniu o zamówieniu.",
+      "w protokole postępowania.",
+      "w specyfikacji istotnych warunków zamówienia.",
+      "w szczegółowym opisie przedmiotu zamówienia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 260,
+    "text": "Które materiały należy zapewnić do ocieplenia ścian zewnętrznych budynku metodą lekką-mokrą?",
+    "answers": [
+      "Płyty styropianowe, zaprawę klejącą, siatkę z włókna szklanego, tynk cienkowarstwowy.",
+      "Papę asfaltową na tekturze, gwoździe papowe, geosiatkę, farbę silikatową.",
+      "Płyty z wełny mineralnej, profile ze stali ocynkowanej, łączniki, blachę fałdową.",
+      "Płyty styropianowe, zaprawa klejąca, siatka z prętów stalowych, tynk cementowo-wapienny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 261,
+    "text": "Zgodnie z harmonogramem robót zaplanowano wykonanie 100 m2 stropu DZ-3 w ciągu dwóch 8-godzinnych dni roboczych. Oblicz, ilu cieśli należy skierować do pracy, jeżeli zgodnie z KNR 2-02 norma pracy cieśli przy wykonywaniu tego stropu wynosi 0,3359 r-g/m2.",
+    "answers": [
+      "5 cieśli.",
+      "3 cieśli.",
+      "2 cieśli.",
+      "4 cieśli."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 262,
+    "text": "Rozbiórkę budynku wykonanego z prefabrykatów żelbetowych należy rozpocząć od demontażu",
+    "answers": [
+      "ścian zewnętrznych.",
+      "schodów.",
+      "stropów.",
+      "stropodachu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 263,
+    "text": "Informacje dotyczące miejsca składowania materiałów budowlanych na terenie budowy zawarte są",
+    "answers": [
+      "w miejscowym planie zagospodarowania terenu.",
+      "w warunkach technicznych wykonania i odbioru robót budowlanych.",
+      "w planie zagospodarowania terenu budowy.",
+      "w decyzji o warunkach zabudowy i zagospodarowania terenu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 264,
+    "text": "Planowane jest wyburzenie budynku wielorodzinnego trójkondygnacyjnego wykonanego w technologii tradycyjnej udoskonalonej. Którą pozycję należy oznaczyć X we wniosku o pozwolenie na budowę lub rozbiórkę?",
+    "answers": [
+      "Pozycję A",
+      "Pozycję C",
+      "Pozycję B",
+      "Pozycję D"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_wniosek.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 265,
+    "text": "Na podstawie rzutu i przekroju wykopu szerokoprzestrzennego określ, wymiary tego wykopu na poziomie terenu, jeżeli nachylenie wszystkich skarp wynosi 1:1,5.",
+    "answers": [
+      "a = 11,0 m; b = 13,0 m",
+      "a = 16,0 m; b = 18,0 m",
+      "a = 26,0 m; b = 28,0 m",
+      "a = 21,0 m; b = 23,0 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_rzut2.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 266,
+    "text": "Podczas inwentaryzacji obiektu budowlanego przeznaczonego do remontu nie sporządza się",
+    "answers": [
+      "harmonogramu robót remontowych.",
+      "zestawienia powierzchni użytkowej.",
+      "opisu technicznego tego obiektu.",
+      "rzutów poszczególnych kondygnacji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 267,
+    "text": "Na podstawie danych zawartych we fragmencie tablicy z KNR określ, ile koparek gąsienicowych o pojemności łyżki 0,25 m3 potrzeba do odspojenia i załadownia 500 m3 gruntu kategorii III w ciągu dwóch 8-godzinnych zmian.",
+    "answers": [
+      "3 koparki.",
+      "1 koparka.",
+      "5 koparek.",
+      "7 koparek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela9.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 268,
+    "text": "Planowana jest rozbiórka budynku wielorodzinnego czterokondygnacyjnego podłączonego do sieci gazowej, cieplnej, elektroenergetycznej, teletechnicznej, wodociągowej i kanalizacyjnej. Przed rozpoczęciem robót rozbiórkowych należy odłączyć obiekt",
+    "answers": [
+      "od wszystkich sieci z wyjątkiem teletechnicznej.",
+      "tylko od sieci gazowej.",
+      "tylko od sieci gazowej i elektroenergetycznej.",
+      "od wszystkich sieci."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 269,
+    "text": "Na rysunku przedstawiono połączenie",
+    "answers": [
+      "nitowane nakładkowe.",
+      "śrubowe doczołowe.",
+      "nitowane zakładkowe.",
+      "śrubowe nakładkowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_polaczenie.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 270,
+    "text": "Przedstawione na rysunku urządzenie, umożliwiające pomiar różnicy wysokości pomiędzy punktami terenowymi, to",
+    "answers": [
+      "tachimetr.",
+      "teodolit.",
+      "niwelator.",
+      "dalmierz."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_urzadzenie.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 271,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR oblicz, ile agregatów tynkarskich należy zamówić oraz ilu robotników należy zatrudnić do wykonania 100 m2 obrzutki cementowej stropu na podłożu betonowym, jeżeli wykonanie prac przewidziano w ciągu jednej 8-godzinnej zmiany roboczej.",
+    "answers": [
+      "4 agregaty i 22 robotników.",
+      "1 agregat i 2 robotników.",
+      "4 agregaty i 16 robotników.",
+      "1 agregat i 3 robotników."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela12.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 272,
+    "text": "Koszty pośrednie oblicza się w kosztorysach inwestorskich jako procentowy wskaźnik od wartości kosztów bezpośrednich",
+    "answers": [
+      "robocizny i materiałów.",
+      "robocizny i pracy sprzętu.",
+      "materiałów i pracy sprzętu.",
+      "materiałów i kosztów ich zakupu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 273,
+    "text": "Podczas prowadzenia robót rozbiórkowych uzyskano 166,5 tony gruzu ceglanego. Przyjęto, że 1 m3 gruzu waży 1,5 tony. Na podstawie zamieszczonego cennika oblicz koszt wywozu i utylizacji gruzu, jeżeli wynajęto kontenery o pojemności 3,7 m3.",
+    "answers": [
+      "9 660,00 zł",
+      "13 050,00 zł",
+      "8 700,00 zł",
+      "10 260,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela13.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 274,
+    "text": "Maszyna budowlana przeznaczona do wyrównywania terenu metodą skrawania gruntu i przesuwania urobku w miejsca wymagające uzupełnienia to",
+    "answers": [
+      "koparka.",
+      "równiarka.",
+      "ładowarka.",
+      "zrywarka."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 275,
+    "text": "Na podstawie danych zawartych we fragmencie tablicy z KNR oblicz, ile pustaków Porotherm 44 EKO+ należy zakupić do wymurowania ściany o powierzchni 146 m2 i grubości 44 cm w budynku czterokondygnacyjnym. Liczbę pustaków należy zaokrąglić do pełnych sztuk.",
+    "answers": [
+      "2383 szt.",
+      "2382 szt.",
+      "1048 szt.",
+      "1049 szt."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela10.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 276,
+    "text": "Na podstawie danych zamieszczonych w tabeli oszacuj stopień zużycia technicznego wybudowanej 20 lat temu, nigdy nie remontowanej, murowanej kotłowni.",
+    "answers": [
+      "20%",
+      "30%",
+      "40%",
+      "50%"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela11.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 277,
+    "text": "Która z przedstawionych maszyn budowlanych stosowana jest do prowadzenia robót rozbiórkowych?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_maszyny.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 278,
+    "text": "Ławy drutowe wykonane na terenie budowy przeznaczone są do",
+    "answers": [
+      "kontrolowania głębokości wykonywanych wykopów pod fundamenty.",
+      "zabezpieczania skarp wykopu przed osuwaniem.",
+      "wytyczania położenia krawędzi fundamentów i osi ścian budynku.",
+      "przygotowania zbrojenia podłużnego fundamentów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 279,
+    "text": "Na podstawie zamieszczonych informacji producenta stalowych grodzic określ, ile profili typu AU14 potrzeba do wykonania ścianki szczelnej długości 189 m.",
+    "answers": [
+      "126 szt.",
+      "142 szt.",
+      "252 szt.",
+      "464 szt."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_ramka4.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 280,
+    "text": "Ile wynosi powierzchnia (w zaokrągleniu do liczby całkowitej) dachu jednospadowego o pochyleniu połaci dachowej równym 100% (α = 45°), jeżeli wymiary płaszczyzny rzutu z góry dachu wynoszą 10×10 m?",
+    "answers": [
+      "141 m2",
+      "143 m2",
+      "100 m2",
+      "101 m2"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 281,
+    "text": "Który rodzaj ogrodzenia terenu budowy przedstawiono na fotografii?",
+    "answers": [
+      "Pełne, wykonane z blach trapezowych.",
+      "Ażurowe, wykonane z płyt karbowanych z PVC.",
+      "Ażurowe, wykonane z blach perforowanych.",
+      "Pełne, wykonane z płyt falistych z PVC."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_ogrodzenie.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 282,
+    "text": "Obmiar robót wykonuje się w celu sporządzenia kosztorysu",
+    "answers": [
+      "ślepego.",
+      "inwestorskiego.",
+      "powykonawczego.",
+      "ofertowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 283,
+    "text": "Na podstawie zamieszczonej instrukcji montażu określ maksymalną wartość odwrotnej strzałki ugięcia, którą można nadać elementom stropu typu Filigran o rozpiętości L = 7 m.",
+    "answers": [
+      "7 mm",
+      "15 mm",
+      "10 mm",
+      "28 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_ramka7.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 284,
+    "text": "Na podstawie danych zawartych w tablicy z KNR oblicz, ile gwoździ należy zamówić do wykonania deskowania dla żeber płyty fundamentowej szerokości 50 cm, jeżeli z przedmiaru robót wynika, że objętość betonowanego elementu wynosi 1,3 m3.",
+    "answers": [
+      "0,325 kg",
+      "0,327 kg",
+      "0,247 kg",
+      "0,143 kg"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela18.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 285,
+    "text": "Zgodnie z przepisami ustawy Prawo budowlane właściciel lub zarządca budynku mieszkalnego jest zobowiązany do przeprowadzania okresowej kontroli stanu technicznego instalacji gazowej oraz przewodów kominowych",
+    "answers": [
+      "dokładnie dwa razy na 5 lat.",
+      "dokładnie dwa razy w roku.",
+      "co najmniej jeden raz w roku.",
+      "co najmniej jeden raz na 5 lat."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 286,
+    "text": "Przedstawiony na fotografii pojazd przeznaczony do transportu mas ziemnych na terenie budowy to",
+    "answers": [
+      "ciągnik siodłowy z naczepą.",
+      "samochód samowyładowczy.",
+      "wozidło technologiczne.",
+      "wózek widłowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_pojazd.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 287,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR oblicz, ilu robotników należy zatrudnić do ręcznego podgarnięcia warstwy humusu grubości 15 cm, usuniętego z terenu o powierzchni 10 000 m2, jeżeli wykonanie prac przewidziano w ciągu czterech 8-godzinnych dni roboczych.",
+    "answers": [
+      "2 robotników.",
+      "3 robotników.",
+      "4 robotników.",
+      "5 robotników."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela17.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 288,
+    "text": "Zgodnie z przepisami ustawy Prawo budowlane projekt prac remontowych należy sporządzić, jeżeli",
+    "answers": [
+      "podczas remontu zostaną wprowadzone nowe rozwiązania materiałowe.",
+      "zażąda tego wykonawca robót remontowo-budowlanych.",
+      "do wykonania prac remontowych konieczne jest uzyskanie pozwolenia na budowę.",
+      "prace remontowe mają znaczny zakres, obejmują 50% powierzchni budynku."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 289,
+    "text": "Jeżeli z kosztorysu wynika, że na wykonanie robót rozbiórkowych przewidziano 1 400 r-g, to ilu robotników należy zatrudnić, aby prace zostały wykonane w ciągu 30 ośmiogodzinnych dni roboczych?",
+    "answers": [
+      "6 robotników.",
+      "5 robotników.",
+      "7 robotników.",
+      "8 robotników."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 290,
+    "text": "Z zamieszczonych wytycznych wynika, że minimalna powierzchnia użytkowa szatni odzieży czystej na budowie, na której jest zatrudnionych 25 pracowników, wynosi",
+    "answers": [
+      "14,25 m2",
+      "13,25 m2",
+      "12,25 m2",
+      "16,25 m2"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_ramka3.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 291,
+    "text": "Która maszyna przeznaczona jest do nabierania urobku odspojonego wcześniej przez inne maszyny i ładowania go na środki transportowe lub przenoszenia na niewielkie odległości na terenie budowy?",
+    "answers": [
+      "Równiarka.",
+      "Ładowarka.",
+      "Koparka.",
+      "Zgarniarka."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 292,
+    "text": "Zgodnie z podsumowaniem kosztorysu inwestorskiego koszty bezpośrednie wynoszą odpowiednio: – koszty robocizny R = 5 500,00 zł – koszty materiałów M = 8 500,00 zł – koszty pracy sprzętu S = 2 500,00 zł Ile wynoszą koszty pośrednie, jeżeli Kp = 70% (R, S)?",
+    "answers": [
+      "9 800,00 zł",
+      "7 700,00 zł",
+      "5 600,00 zł",
+      "11 550,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 293,
+    "text": "Pręty zbrojeniowe o średnicy powyżej 40 mm należy ciąć przy użyciu",
+    "answers": [
+      "ręcznych nożyc dźwigniowych.",
+      "młotka i przecinaka.",
+      "palnika acetylenowego.",
+      "nożyc mechanicznych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 294,
+    "text": "Na podstawie danych zawartych w tablicy z KNR oblicz czas pracy środka transportowego, niezbędny do wykonania słupów żelbetowych monolitycznych okrągłych wysokości 3 m i średnicy 40 cm, jeżeli objętość słupów na podstawie przedmiaru wynosi 3 m3.",
+    "answers": [
+      "0,48 m-g",
+      "0,81 m-g",
+      "0,27 m-g",
+      "0,36 m-g"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela19.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 295,
+    "text": "Norma pracy spycharki wg KNR 2-01 wynosi 1,4 m-g na 100 m3 odspojonego gruntu. Ile spycharek powinno pracować na terenie budowy, aby przemieścić 2250 m3 odspojonego gruntu w ciągu jednej 8-godzinnej zmiany?",
+    "answers": [
+      "3 spycharki.",
+      "4 spycharki.",
+      "6 spycharek.",
+      "2 spycharki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 296,
+    "text": "Podczas opracowywania projektu zagospodarowania terenu budowy w pierwszej kolejności należy określić lokalizację",
+    "answers": [
+      "tymczasowych dróg dojazdowych do placu budowy.",
+      "magazynu i składowisk materiałów budowlanych.",
+      "obiektów produkcyjnych i wytwórni pomocniczych.",
+      "budynków socjalno-bytowych dla pracowników budowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 297,
+    "text": "Przed przystąpieniem do przetargu na roboty budowlane wykonawca sporządza i przedkłada zamawiającemu kosztorys",
+    "answers": [
+      "ofertowy.",
+      "inwestorski.",
+      "zamienny.",
+      "powykonawczy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 298,
+    "text": "Rozbiórkę budynku należy rozpocząć od demontażu",
+    "answers": [
+      "stolarki okiennej i drzwiowej.",
+      "okładzin ścian i ścianek działowych.",
+      "elementów wystających ponad połać dachową.",
+      "instalacji, po odłączeniu ich od sieci zewnętrznych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 299,
+    "text": "W którym przypadku, zgodnie z zamieszczonym wyciągiem z ustawy Prawo budowlane, kierownik budowy zobowiązany jest do sporządzenia planu BIOZ?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_ramka2.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 300,
+    "text": "Program funkcjonalno-użytkowy sporządza się, jeżeli przedmiotem zamówienia jest",
+    "answers": [
+      "wykonanie robót rozbiórkowych.",
+      "wykonanie robót budowlanych.",
+      "wykonanie dokumentacji projektowej.",
+      "zaprojektowanie i wykonanie robót budowlanych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 301,
+    "text": "Na podstawie zamieszczonej mapy określ, który poziom posadowienia ław fundamentowych budynku niepodpiwniczonego wznoszonego w Krośnie w gruncie wysadzinowym jest odpowiedni ze względu na przemarzanie gruntu.",
+    "answers": [
+      "0,9 m",
+      "1,1 m",
+      "1,0 m",
+      "1,3 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_mapa.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 302,
+    "text": "Na podstawie zamieszczonych informacji oblicz minimalną ilość wody potrzebną do przygotowania 2 m3 mieszanki betonowej i 4 m3 zaprawy cementowo-wapiennej.",
+    "answers": [
+      "2 100 dm3",
+      "2 700 dm3",
+      "1 800 dm3",
+      "1 400 dm3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_ramka5.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 303,
+    "text": "Na podstawie zamieszczonego rysunku inwentaryzacyjnego określ szerokość otworu niezabudowanego stolarką budowlaną.",
+    "answers": [
+      "240 cm",
+      "146 cm",
+      "90 cm",
+      "120 cm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_rysunek2.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 304,
+    "text": "Informacje o terenie budowy, zawierające dane istotne ze względu na organizację robót budowlanych, zabezpieczenie interesów osób trzecich, ochronę środowiska, warunki bezpieczeństwa pracy, zaplecze dla potrzeb wykonawcy, warunki dotyczące organizacji ruchu, ogrodzenie, zabezpieczenie chodników i jezdni, zawarte są",
+    "answers": [
+      "w specyfikacji technicznej wykonania i odbioru robót budowlanych.",
+      "w warunkach technicznych wykonania i odbioru robót budowlanych.",
+      "w projekcie budowlanym.",
+      "w dokumentacji projektowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 305,
+    "text": "Przedstawiony na fotografii sprzęt stosowany podczas rozbiórki budynku, to",
+    "answers": [
+      "zsyp budowlany.",
+      "pompa do gruzu.",
+      "przenośnik taśmowy.",
+      "kruszarka do gruzu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_sprzet.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 306,
+    "text": "Na fotografii przedstawiono jeden z etapów wykonania stropu",
+    "answers": [
+      "Ackermana.",
+      "Porotherm.",
+      "Filigran.",
+      "Teriva."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_strop.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 307,
+    "text": "Nakłady robocizny na wykonanie 100 m2 stropu Teriva wynoszą 142,00 r-g. Ile 8-godzinnych dni roboczych będzie pracowało trzech robotników przy wykonaniu 150 m2 takiego stropu?",
+    "answers": [
+      "7 dni.",
+      "8 dni.",
+      "9 dni.",
+      "6 dni."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 308,
+    "text": "Zgodnie z danymi zawartymi w tabeli nawierzchnia drogi o intensywności ruchu około 800 pojazdów na dobę może być wykonana",
+    "answers": [
+      "z dywaników bitumicznych na podłożu brukowym.",
+      "z płyt żelbetowych prefabrykowanych.",
+      "z tłucznia z lepiszczem bitumicznym.",
+      "z kamienia polnego lub łamanego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela16.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 309,
+    "text": "Na podstawie informacji zamieszczonych w tabeli określ, ile powinna wynosić strefa niebezpieczna w swoim najmniejszym wymiarze liniowym liczonym od płaszczyzny obiektu budowlanego, jeżeli maksymalna wysokość, z której podczas prac mogą spadać materiały budowlane lub narzędzia, to 42 m.",
+    "answers": [
+      "1,50 m",
+      "6,00 m",
+      "2,40 m",
+      "4,20 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_ramka8.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 310,
+    "text": "Na podstawie informacji zamieszczonych w specyfikacji określ poziom, do którego można wykonać wykop metodą mechaniczną, jeżeli projektowany poziom posadowienia fundamentu wynosi -1,15 m.",
+    "answers": [
+      "-1,00 m",
+      "-1,35 m",
+      "-1,15 m",
+      "-0,95 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_ramka6.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 311,
+    "text": "Który etap budowy budynku przedstawiono na fotografii?",
+    "answers": [
+      "Stan surowy zamknięty.",
+      "Stan surowy otwarty.",
+      "Stan zerowy.",
+      "Stan wykończeniowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_budynek.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 312,
+    "text": "Do czyszczenia stali zbrojeniowej zanieczyszczonej błotem należy użyć",
+    "answers": [
+      "piaskarki.",
+      "ciepłego powietrza.",
+      "opalarki.",
+      "strumienia wody."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 313,
+    "text": "Na której fotografii przedstawiono wykonywanie ceramicznej ściany jednowarstwowej?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_fotografie.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 314,
+    "text": "Na podstawie danych zawartych w tabeli dobierz wielkość pochylenia obciążonej skarpy wykopu o głębokości 4,0 m i szerokości dna 4,5 m, wykonanego w gruncie kategorii III.",
+    "answers": [
+      "1:1,25",
+      "1:0,5",
+      "1:0,75",
+      "1:0,67"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela15.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 315,
+    "text": "Który rodzaj spoiny oraz jej oznaczenie przedstawiono na rysunku?",
+    "answers": [
+      "Spoinę pachwinową jednostronną.",
+      "Spoinę czołową dwustronną.",
+      "Spoinę czołową jednostronną.",
+      "Spoinę pachwinową dwustronną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_spoina.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 316,
+    "text": "Strzępia stosowane w konstrukcjach murowych umożliwiają",
+    "answers": [
+      "wykonanie gzymsów.",
+      "wykonanie przewodów wentylacyjnych.",
+      "połączenie murów wznoszonych w różnym czasie.",
+      "połączenie nadproża ze stropem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 317,
+    "text": "Z zamieszczonego podsumowania kosztorysu, sporządzonego w programie do kosztorysowania, odczytaj wartość całkowitego kosztu netto.",
+    "answers": [
+      "4 460,18 zł",
+      "2 910,26 zł",
+      "6 085,43 zł",
+      "4 947,50 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_zrzut.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 318,
+    "text": "Książka obiektu budowlanego to dokument, w którym wnosi się zapisy dotyczące między innymi",
+    "answers": [
+      "odbytych szkoleń pracowników budowy w zakresie przepisów bhp i ppoż.",
+      "danych o zastosowanych materiałach budowlanych w kolejnych etapach budowy.",
+      "przeprowadzonych remontów w okresie użytkowania obiektu budowlanego.",
+      "wyników odbiorów częściowych i odbioru końcowego obiektu budowlanego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 319,
+    "text": "Na podstawie danych zawartych w tablicy z KNR oblicz czas pracy spycharki gąsienicowej niezbędny do usunięcia warstwy humusu o grubości 25 cm z terenu o wymiarach 20,0×30,0 m.",
+    "answers": [
+      "1,50 m-g",
+      "2,16 m-g",
+      "3,66 m-g",
+      "1,08 m-g"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela28.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 320,
+    "text": "Umacnianie skarp wykopów o głębokości do 3 m za pomocą deskowania ażurowego stosowane jest tylko w gruntach",
+    "answers": [
+      "zwartych.",
+      "sypkich.",
+      "nawodnionych.",
+      "niespoistych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 321,
+    "text": "Na podstawie zamieszczonego rysunku inwentaryzacyjnego określ szerokość filara międzyokiennego.",
+    "answers": [
+      "37,4 cm",
+      "32,0 cm",
+      "26,6 cm",
+      "54,0 cm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_rysunek2.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 322,
+    "text": "Na podstawie informacji zamieszczonych w specyfikacji określ poziom, do którego można wykonać wykop metodą mechaniczną, jeżeli projektowany poziom posadowienia fundamentu wynosi -0,95 m.",
+    "answers": [
+      "0,85 m",
+      "0,75 m",
+      "0,90 m",
+      "0,80 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_ramka11.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 323,
+    "text": "Na podstawie zamieszczonego przedmiaru robót, sporządzonego w programie do kosztorysowania odczytaj ilość robót związanych z wyburzeniem ścianek działowych.",
+    "answers": [
+      "7,5 m2",
+      "10,5 m2",
+      "2,5 m2",
+      "21,0 m2"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela35.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 324,
+    "text": "Na podstawie tablicy z KNR-W 2-02 wskaż nakłady, które należy zastosować do obliczenia ilości robocizny związanej z wykonaniem ścianek działowych z bloczków YTONG 60×40×11,5 cm o powierzchni czołowej gładkiej, z przycinaniem bloczków za pomocą piły taśmowej elektrycznej. UWAGA. Nakłady podane w Lp. 02 (Robotnicy) stosuje się w przypadku ręcznego przycinania bloczków. Nie mają wówczas zastosowania nakłady wyszczególnione w Lp. 71 (Piła taśmowa elektryczna)",
+    "answers": [
+      "0,54 r-g",
+      "0,79 r-g",
+      "0,42 r-g",
+      "0,70 r-g"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela33.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 325,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR oblicz, ile należy zamówić żwiru wielofrakcyjnego do wykonania mieszanki betonowej niezbędnej do zabetonowania w stropie 5 otworów o powierzchni 0,15 m2 i głębokości 15 cm każdy.",
+    "answers": [
+      "0,014 m3",
+      "0,024 m3",
+      "0,160 m3",
+      "0,095 m3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela32.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 326,
+    "text": "Na podstawie zamieszczonego zestawienia narzutów oraz kosztów bezpośrednich oblicz koszty pośrednie.",
+    "answers": [
+      "4 050,00 zł",
+      "5 400,00 zł",
+      "6 000,00 zł",
+      "10 050,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela34.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 327,
+    "text": "W którym katalogu nakładów rzeczowych znajdują się normy nakładów przeznaczone do obliczania kosztów robót ziemnych wykonywanych koparkami z transportem urobku samochodami samowyładowczymi?",
+    "answers": [
+      "KNR 2-02",
+      "KNR 4-01",
+      "KNR 2-01",
+      "KNR 2-25"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 328,
+    "text": "Na fotografii przedstawiono montaż stropu prefabrykowanego",
+    "answers": [
+      "płytowo-żebrowego.",
+      "płytowego płaskiego.",
+      "gęstożebrowego.",
+      "belkowo-pustakowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_strop3.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 329,
+    "text": "Na podstawie danych zawartych w tabeli dobierz typ nadproża, które należy zamontować nad otworami okiennymi w pomieszczeniu, którego rzut zamieszczono na rysunku.",
+    "answers": [
+      "N/210",
+      "N/270",
+      "N/240",
+      "N/180"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_rzut5.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 330,
+    "text": "Na którym schemacie prawidłowo rozmieszczono elementy zagospodarowania terenu budowy?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_schematy.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 331,
+    "text": "Na podstawie zamieszczonej części graficznej harmonogramu ogólnego budowy można stwierdzić, że",
+    "answers": [
+      "strop pierwszej kondygnacji będzie wykonywany równolegle ze ścianami poddasza.",
+      "najdłużej będzie trwało wykonywanie ścian poddasza.",
+      "drobne prace wykończeniowe rozpoczną się po montażu stolarki okiennej.",
+      "ściany zewnętrzne i wewnętrzne piwnic będą wykonywane równolegle."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_harmonogram5.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 332,
+    "text": "Oblicz objętość 3 belek betonowych o przekroju poprzecznym przedstawionym na rysunku i długości 3 m. Wynik obliczeń podaj z dokładnością do trzech miejsc po przecinku.",
+    "answers": [
+      "4,140 m3",
+      "1,538 m3",
+      "1,380 m3",
+      "4,613 m3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_belka3.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 333,
+    "text": "Zagospodarowanie terenu budowy należy wykonywać w następującej kolejności:",
+    "answers": [
+      "1. tymczasowe drogi na terenie budowy, \n2. tablica informacyjna, \n3. place składowe, \n4. ogrodzenie terenu budowy.",
+      "1. ogrodzenie terenu budowy, \n2. tablica informacyjna, \n3. place składowe, \n4. tymczasowe drogi na terenie budowy.",
+      "1. tymczasowe drogi na terenie budowy, \n2. ogrodzenie terenu budowy, \n3. place składowe, \n4. tablica informacyjna.",
+      "1. ogrodzenie terenu budowy, \n2. tablica informacyjna, \n3. tymczasowe drogi na terenie budowy, \n4. place składowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 334,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR oblicz, ile cegieł budowlanych pełnych potrzeba do wymurowania na zaprawie cementowo-wapiennej 4 prostokątnych filarków o wymiarach 2×2 cegły i wysokości 3,0 m.",
+    "answers": [
+      "1262 szt.",
+      "316 szt.",
+      "1576 szt.",
+      "394 szt."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela30.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 335,
+    "text": "Pozwolenia na budowę wymagają roboty remontowe polegające na",
+    "answers": [
+      "wykonaniu otworu drzwiowego w ścianie nośnej.",
+      "wymianie posadzki w łazience.",
+      "rozbiórce ścianek działowych w budynku.",
+      "wymianie parapetów wewnętrznych w budynku."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 336,
+    "text": "Wskaż, stosowane w projektach budowlanych (na rzutach), oznaczenie graficzne nasypu o jednakowym nachyleniu skarp.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_oznaczenia2.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 337,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR oblicz, ilu robotników należy zatrudnić do ręcznego podgarnięcia warstwy humusu grubości 10 cm, usuniętego z terenu o powierzchni 5 500 m2, jeżeli zgodnie z harmonogramem robót prace te powinny być wykonane w ciągu dwóch 8-godzinnych dni roboczych.",
+    "answers": [
+      "2 robotników.",
+      "3 robotników.",
+      "4 robotników.",
+      "1 robotnik."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela28.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 338,
+    "text": "W którym przypadku nie jest wymagane pozwolenie na rozbiórkę?",
+    "answers": [
+      "Rozbiórka budynku wielorodzinnego 3-kondygnacyjnego zlokalizowanego 3 m od granicy działki.",
+      "Rozbiórka zabytkowej altany zlokalizowanej 8 m od granicy działki.",
+      "Rozbiórka wolno stojącego parterowego budynku gospodarczego o powierzchni zabudowy 20,0 m2.",
+      "Rozbiórka wolno stojącego garażu wielostanowiskowego o powierzchni zabudowy 100,0 m2."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 339,
+    "text": "Na podstawie danych zamieszczonych w tabeli, określ dla której ściany nie zostały zachowane",
+    "answers": [
+      "Dla ściany nr I",
+      "Dla ściany nr IV",
+      "Dla ściany nr II",
+      "Dla ściany nr III"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabele2.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 340,
+    "text": "Do odspajania gruntu warstwami za pomocą lemiesza oraz przemieszczania urobku na odległość do 100 m, przeznaczone są",
+    "answers": [
+      "zgarniarki.",
+      "równiarki.",
+      "ładowarki.",
+      "spycharki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 341,
+    "text": "W jaki sposób należy oznaczyć w projekcie robót remontowych ścianę przeznaczoną do usunięcia",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_oznaczenia3.png"
+    },
+    "category": "BUD.14"
+  },
+  {
+    "id": 342,
+    "text": "Ilość materiałów pochodzących z rozbiórki przeznaczonych do dalszego wykorzystania ustala się na podstawie",
+    "answers": [
+      "projektu robót rozbiórkowych.",
+      "projektu architektonicznego.",
+      "pomiarów z natury przeprowadzonych po rozbiórce.",
+      "inwentaryzacji przeprowadzonej przed rozbiórką."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.14"
+  },
+  {
+    "id": 343,
+    "text": "Na podstawie danych zamieszczonych w tablicy z KNR dobierz skład zespołu roboczego do wykonania na zaprawie cementowo-wapiennej 24 słupków o wymiarach 1×1½ cegły i wysokości 2,5 m, jeżeli prace mają być wykonane w czasie dwóch 8-godzinnych dni.",
+    "answers": [
+      "4 murarzy, 1 cieśla, 2 robotników.",
+      "5 murarzy, 2 cieśli, 1 robotnik.",
+      "5 murarzy, 1 cieśla, 3 robotników.",
+      "4 murarzy, 2 cieśli, 1 robotnik."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud14/bd30_tabela31.png"
+    },
+    "category": "BUD.14"
+  }
+]
