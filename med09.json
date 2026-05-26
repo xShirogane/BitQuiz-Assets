@@ -1,0 +1,4160 @@
+[
+  {
+    "id": 1,
+    "text": "Częstym działaniem niepożądanym omeprazolu jest",
+    "answers": [
+      "drżenie mięśniowe.",
+      "szum uszny.",
+      "zaburzenie rytmu serca.",
+      "ból brzucha."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 2,
+    "text": "W jakim celu w procesie wytwarzania tabletek dodaje się substancje rozsadzające?",
+    "answers": [
+      "Zapobiegania zbrylaniu się masy tabletkowej.",
+      "Przedłużenia uwalniania składników leku.",
+      "Jak najszybszego uwolnienia substancji leczniczej.",
+      "Uzyskania powtarzalnej masy nasypowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 3,
+    "text": "Do mierzenia współczynnika załamania światła służy",
+    "answers": [
+      "refraktometr.",
+      "osmometr.",
+      "pehametr.",
+      "spektrofotometr."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 4,
+    "text": "Bisfosfoniany wskazane są do leczenia",
+    "answers": [
+      "osteoporozy.",
+      "hipercholesterolemii.",
+      "nadciśnienia tętniczego.",
+      "dny moczanowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 5,
+    "text": "Puder płynny to synonimowa nazwa",
+    "answers": [
+      "zawiesiny do użytku zewnętrznego.",
+      "emulsji do użytku zewnętrznego.",
+      "zawiesiny do użytku wewnętrznego.",
+      "emulsji do użytku wewnętrznego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 6,
+    "text": "W jaki sposób otrzymuje się ichtiol?",
+    "answers": [
+      "Ze świeżych wątrób wątłusza.",
+      "Z nacinanych na gorąco pni Myroxylon balsamum.",
+      "Przez nacięcie pnia i gałęzi Acacia senegal.",
+      "Przez destylację łupków bitumicznych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 7,
+    "text": "Podczas sporządzania leku zgodnie z podaną receptą występuje niezgodność",
+    "answers": [
+      "chemiczna, której można zapobiec, zastępując luminal luminalem sodowym (uwzględniając różnicę w masach cząsteczkowych kwasu i soli sodowej).",
+      "fizyczna, której można zapobiec, zastępując luminal luminalem sodowym (uwzględniając różnicę w masach cząsteczkowych kwasu i soli sodowej).",
+      "chemiczna, której można zapobiec, zastępując wodę miętową wodą oczyszczoną.",
+      "fizyczna, której można zapobiec, zastępując wodę miętową wodą oczyszczoną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta139.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 8,
+    "text": "Lekiem w postaci emulsji jest",
+    "answers": [
+      "Species sedativae.",
+      "Sulfuri unguentum.",
+      "Mixtura nervina.",
+      "Linimentum Calcareum."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 9,
+    "text": "Lek sporządzony według podanej recepty to",
+    "answers": [
+      "emulsja do użytku zewnętrznego.",
+      "maść wielofazowa.",
+      "maść zawiesina.",
+      "zawiesina do użytku zewnętrznego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta138.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 10,
+    "text": "Lekiem przeciwhistaminowym II generacji jest",
+    "answers": [
+      "prometazyna.",
+      "dimetynden.",
+      "klemastyna.",
+      "loratadyna."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 11,
+    "text": "Jaką ilość jodu należy użyć do sporządzenia 250,0 g płynu Lugola zgodnie z podanym przepisem farmakopealnym?",
+    "answers": [
+      "2,58 g",
+      "0,97 g",
+      "2,50 g",
+      "1,00 g"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_przepis9.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 12,
+    "text": "Sertralina należy do grupy leków o działaniu",
+    "answers": [
+      "przeciwrobaczym.",
+      "hipotensyjnym.",
+      "przeciwdepresyjnym.",
+      "moczopędnym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 13,
+    "text": "W celu sporządzenia lege artis maści, zgodnie z zamieszczoną receptą, należy",
+    "answers": [
+      "zamienić wazelinę białą na eucerynę.",
+      "wprowadzić niewielką ilość oleju rycynowego do wazeliny białej.",
+      "tlenek cynku zawiesić w niewielkiej ilości etanolu 96% v/v.",
+      "zamienić wazelinę białą na wazelinę żółtą."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta137.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 14,
+    "text": "W celu wprowadzenia mocznika do podłoża maściowego złożonego z wazeliny białej i lanoliny należy rozpuścić go",
+    "answers": [
+      "w wodzie.",
+      "w wazelinie.",
+      "w oleju rzepakowym.",
+      "w etanolu 96%v/v."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 15,
+    "text": "Zjawisko adsorpcji przez substancje o dużej powierzchni właściwej występuje w przypadku łączenia",
+    "answers": [
+      "węgla leczniczego z chlorowodorkiem papaweryny.",
+      "proteinianu srebra z chlorkiem sodu.",
+      "kwasu acetylosalicylowego z metenaminą.",
+      "targezyny z siarczanem cynku."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 16,
+    "text": "Do sporządzenia leku według podanej recepty potrzebny jest następujący zestaw utensyliów aptecznych:",
+    "answers": [
+      "moździerz, pistel, karta celuloidowa.",
+      "moździerz, bagietka, łaźnia wodna.",
+      "parownica, bagietka, łaźnia wodna.",
+      "parownica, pistel, karta celuloidowa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta144.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 17,
+    "text": "Wymóg apirogenności stawia się",
+    "answers": [
+      "roztworom doustnym.",
+      "preparatom na rany.",
+      "płynom do wlewów.",
+      "kroplom do uszu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 18,
+    "text": "Do czego przeznaczony jest lejek z warstwą ze szkła spiekanego (Schotta)?",
+    "answers": [
+      "Do klarowania.",
+      "Do przesiewania.",
+      "Do sączenia.",
+      "Do dekantacji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 19,
+    "text": "Który z podanych terminów oznacza podwyższenie stężenia potasu we krwi?",
+    "answers": [
+      "Hiperchloremia.",
+      "Hiperkaliemia.",
+      "Hipernatremia.",
+      "Hiperkalcemia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 20,
+    "text": "Maksymalna dawka jednorazowa doustna efedryny chlorowodorku dla dziecka o masie 28 kg wynosi",
+    "answers": [
+      "0,06 g",
+      "0,06 mg",
+      "0,02 mg",
+      "0,02 g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_tabela16.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 21,
+    "text": "Mechanizm działania chemioterapeutyków z grupy fluorochinolonów polega na hamowaniu",
+    "answers": [
+      "syntezy ściany komórkowej bakterii.",
+      "aktywności topoizomerazy.",
+      "wewnątrzkomórkowej biosyntezy białek.",
+      "reduktazy kwasu dihydrofoliowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 22,
+    "text": "Oblicz zawartość kwasu salicylowego (m. cz. – 138,12 g/mol) w próbce, jeżeli na jej zmiareczkowanie zużyto 10 mL roztworu wodorotlenku sodu (0,1 mol/L), używając jako wskaźnika roztworu czerwieni fenolowej. (Zgodnie FP 1 mL roztworu wodorotlenku sodu (0,1 mol/L) odpowiada 13,81 mg kwasu salicylowego.)",
+    "answers": [
+      "1381 mg",
+      "13,8 mg",
+      "138,1 mg",
+      "1,38 mg"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 23,
+    "text": "Fragment Farmakopei Polskiej Które badanie należy wykonać w celu przeprowadzenia standaryzacji Anisi fructus?",
+    "answers": [
+      "Zawartości olejku eterycznego.",
+      "Zawartości garbników.",
+      "Wskaźnika goryczy.",
+      "Wskaźnika pęcznienia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_ramka8.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 24,
+    "text": "Którą etykietę apteczną i naklejkę należy dołączyć do opakowania leku sporządzonego według podanej recepty?",
+    "answers": [
+      "Etykietę w kolorze pomarańczowym i naklejkę z napisem: przed użyciem zmieszać.",
+      "Etykietę w kolorze pomarańczowym i naklejkę z napisem: lek oczny.",
+      "Etykietę w kolorze białym i naklejkę z napisem: trucizna.",
+      "Etykietę w kolorze białym i naklejkę z napisem: przed użyciem zmieszać."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta145.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 25,
+    "text": "Oblicz ilość gumy arabskiej, której należy użyć do sporządzenia emulsji stężonej, stosując w odpowiedniej proporcji 2 części oleju : 1 część gumy arabskiej : 1,5 części wody.",
+    "answers": [
+      "5,0 g",
+      "10,0 g",
+      "2,0 g",
+      "1,0 g"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta143.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 26,
+    "text": "Oblicz masę oleju kakaowego (nie uwzględniając strat technologicznych) potrzebną do sporządzenia leku według podanej recepty, jeżeli współczynnik wyparcia dla papaweryny chlorowodorku wynosi 0,7, a rzeczywista pojemność formy czopkowej wynosi 2,05 g.",
+    "answers": [
+      "16,11 g",
+      "15,30 g",
+      "17,82 g",
+      "15,75 g"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta142.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 27,
+    "text": "Oblicz stężenie kwasu salicylowego w leku recepturowym sporządzonym według zamieszczonej recepty, jeżeli spirytus salicylowy jest 2,0% etanolowo-wodnym roztworem kwasu salicylowego.",
+    "answers": [
+      "0,50%",
+      "1,02%",
+      "0,48%",
+      "0,96%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta141.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 28,
+    "text": "Depirogenizację sprzętu z porcelany i szkła należy przeprowadzić suchym, gorącym powietrzem",
+    "answers": [
+      "w temperaturze 170°C przez 60 minut.",
+      "w temperaturze 100°C przez 30 minut.",
+      "w temperaturze 250°C przez 30 minut.",
+      "w temperaturze 121°C przez 20 minut."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 29,
+    "text": "W sterylizatorze powietrznym należy wyjaławiać",
+    "answers": [
+      "wodę w butelkach.",
+      "gentamycyny siarczan.",
+      "kwas borowy.",
+      "plastikowe utensylia apteczne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 30,
+    "text": "Które urządzenie jest przeznaczone do badania lepkości maści?",
+    "answers": [
+      "Penetrometr.",
+      "Piknometr.",
+      "Wiskozymetr.",
+      "Polarymetr."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 31,
+    "text": "W celu sporządzenia na ciepło maści zawierającej sulfobituminian amonu, należy tę substancję odważyć",
+    "answers": [
+      "bezpośrednio na podłożu w parownicy.",
+      "w moździerzu.",
+      "w zlewce.",
+      "na krążku pergaminowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 32,
+    "text": "Z wysuszonych liści naparstnicy purpurowej sporządza się",
+    "answers": [
+      "napar.",
+      "macerat.",
+      "alkoholaturę.",
+      "odwar."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 33,
+    "text": "Które krople wymagają sporządzania w warunkach aseptycznych?",
+    "answers": [
+      "Krople do nosa z protargolem.",
+      "Krople do ucha z hydrokortyzonem.",
+      "Krople do nosa z efedryny chlorowodorkiem.",
+      "Krople do ucha z gentamycyną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 34,
+    "text": "Neomycyna w postaci tabletek doustnych jest wskazana do",
+    "answers": [
+      "wyjałowienia przewodu pokarmowego w obrębie jelit.",
+      "leczenia zapalenia błony śluzowej gardła.",
+      "zapobiegania zakażeniu po ekstrakcji zęba.",
+      "leczenia śródmiąższowego zapalenia płuc."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 35,
+    "text": "Nazwa łacińska flos oznacza",
+    "answers": [
+      "korzeń.",
+      "kwiatostan.",
+      "koszyczek.",
+      "kwiat."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 36,
+    "text": "Podczas sporządzania czopków dopochwowych dla osoby dorosłej przyjmuje się, że średnia masa globulki wynosi",
+    "answers": [
+      "2,0 g",
+      "4,0 g",
+      "3,0 g",
+      "1,0 g"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 37,
+    "text": "Co oznacza skrót trit. w tłumaczeniu na język polski?",
+    "answers": [
+      "Trzy.",
+      "Nalewka.",
+      "Nalewka.",
+      "Roztarty."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 38,
+    "text": "Oblicz dawkę jednorazową jodku potasu, którą przyjmie pacjent zażywając miksturę zgodnie z zaleceniem zamieszczonym w podanej recepcie, przy założeniu, że masa jednej łyżki wynosi 17,0 g.",
+    "answers": [
+      "0,68 g",
+      "0,30 g",
+      "0,60 g",
+      "0,34 g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta140.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 39,
+    "text": "Który surowiec jest składnikiem maści tranowej?",
+    "answers": [
+      "Kamfora.",
+      "Olbrot.",
+      "Olej rycynowy.",
+      "Olej wątłuszowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 40,
+    "text": "Która substancja jest przeciwwskazana do stosowania u kobiet w ciąży, ze względu na możliwość szkodliwego działania na płód?",
+    "answers": [
+      "Ryboflawina.",
+      "Kwas pantotenowy.",
+      "Kwas foliowy.",
+      "Retinol."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 41,
+    "text": "Warunki aseptyczne nie są konieczne do sporządzenia",
+    "answers": [
+      "maści z hydrokortyzonem.",
+      "roztworu do płukania pęcherza moczowego.",
+      "płynu na rany skóry.",
+      "kropli do ucha z gentamycyny siarczanem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 42,
+    "text": "Hibitan to",
+    "answers": [
+      "glukonian chlorheksydyny.",
+      "siarczan (VI) cynku.",
+      "manganian (VII) potasu.",
+      "chlorek benzalkoniowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 43,
+    "text": "Termin realizacji recepty na antybiotyki w postaci preparatów do stosowania wewnętrznego i parenteralnego, od daty jej wystawienia albo naniesionej na recepcie daty realizacji od dnia, nie może przekroczyć",
+    "answers": [
+      "120 dni.",
+      "365 dni.",
+      "7 dni.",
+      "30 dni."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 44,
+    "text": "Organ surowca roślinnego o łacińskiej nazwie bulbus to",
+    "answers": [
+      "cebula.",
+      "kłącze.",
+      "korzeń.",
+      "bulwa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 45,
+    "text": "Głównym składnikiem działającym (basis, remedium cardinale) leku recepturowego, sporządzonego zgodnie z zamieszczoną receptą, jest",
+    "answers": [
+      "woda.",
+      "magnezu tlenek.",
+      "syrop z owocni pomarańczy gorzkiej.",
+      "roztwór metylocelulozy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta108.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 46,
+    "text": "Skrót trit. w tłumaczeniu na język polski oznacza",
+    "answers": [
+      "nalewka.",
+      "trzy.",
+      "roztarty.",
+      "tabletka."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 47,
+    "text": "Które urządzenie służy do mierzenia współczynnika załamania światła?",
+    "answers": [
+      "Pehametr.",
+      "Osmometr.",
+      "Refraktometr.",
+      "Spektrofotometr."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 48,
+    "text": "Zjawisko adsorpcji występuje w przypadku łączenia",
+    "answers": [
+      "proteinianu srebra z chlorkiem sodu.",
+      "papaweryny chlorowodorku z węglem leczniczym.",
+      "targezyny z siarczanem cynku.",
+      "kwasu acetylosalicylowego z metenaminą."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 49,
+    "text": "Przedstawiony opis farmakopealny dotyczy",
+    "answers": [
+      "Vaselinum flavum.",
+      "Propylenoglycolum.",
+      "Paraffinum solidum.",
+      "Paraffinum liquidum."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_opis6.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 50,
+    "text": "Podczas sporządzania czopków dopochwowych przyjmuje się, że średnia masa globulki wynosi",
+    "answers": [
+      "2,0 g",
+      "4,0 g",
+      "1,0 g",
+      "3,0 g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 51,
+    "text": "Oblicz dawkę jednorazową jodku potasu w leku recepturowym stosowanym zgodnie z zaleceniem zamieszczonym w przedstawionej recepcie, przy założeniu, że masa jednej łyżki wynosi 17,0 g.",
+    "answers": [
+      "0,68 g",
+      "0,34 g",
+      "0,30 g",
+      "0,60 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta113.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 52,
+    "text": "Lek Brilique (tikagrelor), w skojarzeniu z kwasem salicylowym (ASA), jest wskazany w celu zapobiegania",
+    "answers": [
+      "złamaniom osteoporotycznym.",
+      "ciężkiej niewydolności nerek.",
+      "zdarzeniom sercowo-naczyniowym.",
+      "atakom kolki nerkowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 53,
+    "text": "Która substancja jest przeciwwskazana do stosowania u kobiet w ciąży, ze względu na możliwość szkodliwego działania na dziecko?",
+    "answers": [
+      "Retinol.",
+      "Alantoina.",
+      "Olej z wiesiołka.",
+      "Kwas hialuronowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 54,
+    "text": "W butelce z szeroką szyjką (słoiku aptecznym) należy umieścić",
+    "answers": [
+      "zawiesinę do użytku zewnętrznego.",
+      "roztwór etanolowo-wodny.",
+      "mieszankę.",
+      "roztwór glicerolowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 55,
+    "text": "Określenie ogólne zimne lub chłodne miejsce według FP oznacza temperaturę",
+    "answers": [
+      "poniżej -15°C.",
+      "od 2°C do 8°C.",
+      "od 15°C do 25°C.",
+      "od 8°C do 15°C."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 56,
+    "text": "W procesie wytwarzania tabletek substancje rozsadzające dodaje się w celu",
+    "answers": [
+      "zapobiegania zbrylaniu się masy tabletkowej.",
+      "przedłużenia uwalniania składników leku.",
+      "jak najszybszego uwolnienia substancji leczniczej.",
+      "uzyskania powtarzalnej masy nasypowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 57,
+    "text": "Oblicz ilość moli HCl, która przereaguje z 30 mL roztworu KOH o stężeniu 0,1 mol/L.",
+    "answers": [
+      "0,003 mola",
+      "0,004 mola",
+      "0,002 mola",
+      "0,001 mola"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 58,
+    "text": "Etykiety Zmieszać przed użyciem nie należy dołączać do opakowania zawierającego",
+    "answers": [
+      "zawiesinę.",
+      "roztwór wodny.",
+      "emulsję.",
+      "mieszankę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 59,
+    "text": "Kwetiapina jest lekiem",
+    "answers": [
+      "hipotensyjnym.",
+      "przeciwbakteryjnym.",
+      "przeciwpsychotycznym.",
+      "moczopędnym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 60,
+    "text": "Podczas sporządzania maści według zamieszczonej recepty, składniki należy połączyć w następującej kolejności:",
+    "answers": [
+      "talk zawiesić w części podłoża, stopić resztę podłoża i rozpuścić w nim tlenek cynku, połączyć obie części i wprowadzić roztwór kwasu borowego.",
+      "tlenek cynku i talk zawiesić w roztworze kwasu borowego i wprowadzić do podłoża.",
+      "stopić podłoże i rozpuścić w nim tlenek cynku, następnie wprowadzić talk zawieszony w roztworze kwasu borowego.",
+      "tlenek cynku i talk zawiesić w eucerynie, następnie w powstałą maść wemulgować roztwór kwasu borowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta116.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 61,
+    "text": "Z wysuszonych liści naparstnicy purpurowej należy sporządzić",
+    "answers": [
+      "macerat.",
+      "odwar.",
+      "alkoholaturę.",
+      "napar."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 62,
+    "text": "Oblicz ilość gumy arabskiej, którą należy użyć do sporządzenia emulsji stężonej, stosując w odpowiedniej proporcji 2 części oleju : 1 część gumy arabskiej : 1,5 części wody.",
+    "answers": [
+      "2,0 g",
+      "1,0 g",
+      "10,0 g",
+      "5,0 g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta114.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 63,
+    "text": "Maksymalna dawka jednorazowa efedryny chlorowodorku dla dziecka o masie 28 kg wynosi",
+    "answers": [
+      "0,06 mg",
+      "0,02 g",
+      "0,02 mg",
+      "0,06 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_tabela14.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 64,
+    "text": "W celu potwierdzenia tożsamości Collargolu według FP, należy wykonać badania jakościowe dotyczące obecności",
+    "answers": [
+      "garbników.",
+      "jonów srebra Ag+.",
+      "kwasów fenolowych.",
+      "jonów chlorkowych Cl-."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 65,
+    "text": "Który z podanych terminów oznacza podwyższenie stężenia wapnia we krwi?",
+    "answers": [
+      "Hiperchloremia.",
+      "Hipernatremia.",
+      "Hiperkalcemia.",
+      "Hiperkaliemia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 66,
+    "text": "Dextrosum to synonim",
+    "answers": [
+      "skrobi.",
+      "sacharozy.",
+      "laktozy.",
+      "glukozy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 67,
+    "text": "Lek recepturowy sporządzony według zamieszczonej recepty to",
+    "answers": [
+      "mazidło.",
+      "emulsja.",
+      "roztwór.",
+      "pasta."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta111.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 68,
+    "text": "Lejek z warstwą ze szkła spiekanego (Schotta) jest przeznaczony do",
+    "answers": [
+      "przesiewania.",
+      "sączenia.",
+      "klarowania.",
+      "dekantacji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 69,
+    "text": "Do badania lepkości maści służy",
+    "answers": [
+      "polarymetr.",
+      "penetrometr.",
+      "piknometr.",
+      "wiskozymetr."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 70,
+    "text": "Za zwiększenie twardości podłoża maściowego w leku recepturowym sporządzonym zgodnie z zamieszczoną receptą odpowiada",
+    "answers": [
+      "mentol.",
+      "parafina stała.",
+      "cynku tlenek.",
+      "parafina ciekła."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta110.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 71,
+    "text": "W celu przeprowadzenia standaryzacji Anisi fructus należy wykonać badanie",
+    "answers": [
+      "zawartości olejku eterycznego.",
+      "wskaźnika pęcznienia.",
+      "wskaźnika goryczy.",
+      "zawartości garbników."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 72,
+    "text": "W leczeniu objawów związanych z przewlekłą niewydolnością krążenia żylnego kończyn dolnych wskazane jest zastosowanie",
+    "answers": [
+      "dimetikonu.",
+      "diosminy.",
+      "dorzolamidu.",
+      "ditranolu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 73,
+    "text": "Farmakopealną substancją roślinną jest",
+    "answers": [
+      "Menthae piperitae herba.",
+      "Menthae piperitae flos.",
+      "Menthae piperitae radix.",
+      "Menthae piperitae folium."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 74,
+    "text": "Oblicz, wykorzystując dane z tabeli, ilość etanolu o stężeniu 96% v/v, której należy użyć do sporządzenia leku zgodnie z zamieszczoną receptą.",
+    "answers": [
+      "36,14",
+      "31,64",
+      "35,42",
+      "34,51"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_tabela13.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 75,
+    "text": "Pix liquida Pini to nazwa łacińska",
+    "answers": [
+      "syropu sosnowego złożonego.",
+      "mydła potasowego.",
+      "ichtamolu.",
+      "dziegciu sosnowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 76,
+    "text": "Hipokalcemia jest to",
+    "answers": [
+      "podwyższone stężenie jonów wapnia w surowicy krwi.",
+      "obniżone stężenie jonów wapnia w surowicy krwi.",
+      "podwyższone stężenie jonów potasu w surowicy krwi.",
+      "obniżone stężenie jonów potasu w surowicy krwi."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 77,
+    "text": "Substancją pomocniczą dodawaną do maści w celu zwiększenia liczby wodnej jest",
+    "answers": [
+      "parafina ciekła.",
+      "tokoferol.",
+      "wazelina żółta.",
+      "cholesterol."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 78,
+    "text": "Korzystając z zamieszczonego fragmentu wykazu leków refundowanych, podaj koszt realizacji recepty. Dawka Dobowa Definiowana (DDD, ang. Daily Defined Dose) dla substancji Nebivololum wynosi 5 mg",
+    "answers": [
+      "10,64 zł",
+      "3,40 zł",
+      "6,60 zł",
+      "3,20 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_wykaz2.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 79,
+    "text": "Koszt wykonania leku recepturowego (tzw. taksa laborum), zgodnie z obowiązującymi przepisami zależy od",
+    "answers": [
+      "użytych opakowań.",
+      "ilości sporządzanego leku.",
+      "tego, czy lek został sporządzony w warunkach aseptycznych.",
+      "wartości użytych surowców farmaceutycznych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 80,
+    "text": "Metodą perkolacji otrzymuje się",
+    "answers": [
+      "syrop prawoślazowy.",
+      "nalewkę z kory chinowej.",
+      "krople anyżowe.",
+      "wodę miętową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 81,
+    "text": "Ile gramów podłoża należy dodać do 75,0 g maści 5,0%, aby otrzymać maść 3,0%?",
+    "answers": [
+      "125,0 g",
+      "112,5 g",
+      "45,0 g",
+      "50,0 g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 82,
+    "text": "Substancją roślinną zawierającą antocyjany, wpływającą na poprawę mikrokrążenia w gałce ocznej, jest",
+    "answers": [
+      "Frangulae cortex.",
+      "Aloe barbadensis.",
+      "Gentianae radix.",
+      "Myrtilli fructus."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 83,
+    "text": "W roztworze wodnym odczyn zasadowy (pH>7) wykazuje",
+    "answers": [
+      "papaweryny chlorowodorek.",
+      "fenobarbital sodowy.",
+      "amonowy bromek.",
+      "witamina C."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 84,
+    "text": "Pacjent w warunkach domowych może samodzielnie wykonać wstrzyknięcie",
+    "answers": [
+      "podskórne.",
+      "domięśniowe.",
+      "dotętnicze.",
+      "dożylne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 85,
+    "text": "Postać leku zawierająca w swoim składzie między innymi syropy i nalewki to",
+    "answers": [
+      "mixturae.",
+      "emplastra.",
+      "species.",
+      "unguenta."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 86,
+    "text": "Roztwór koloidalny powstaje po rozpuszczeniu w wodzie",
+    "answers": [
+      "targezyny.",
+      "glukozy.",
+      "rywanolu.",
+      "mocznika."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 87,
+    "text": "Oblicz całkowitą dawkę leku, którą przyjmie dziecko o masie 20 kg w trakcie leczenia zakażenia górnych dróg oddechowych, przy założeniu, że leczenie będzie prowadzone zgodnie z ulotką.",
+    "answers": [
+      "900 mg",
+      "1800 mg",
+      "300 mg",
+      "600 mg"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_ulotka4.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 88,
+    "text": "W skład preparatów stosowanych w leczeniu guzków krwawniczych (hemoroidów) wchodzi",
+    "answers": [
+      "zawiesina składników komórkowych i produktów przemiany materii zabitych bakterii Escherichia coli.",
+      "nalewka z pieprzu tureckiego.",
+      "zawiesina antygenu powierzchniowego Vaccinum hepatitidis B.",
+      "sproszkowany korzeń rzewienia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 89,
+    "text": "Loratadyna i cetyryzyna to antagoniści",
+    "answers": [
+      "receptorów D2",
+      "receptorów H1",
+      "receptorów 5-HT3",
+      "receptorów NMDA"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 90,
+    "text": "Refundacji nie podlegają leki wydawane na podstawie recept wystawionych przez",
+    "answers": [
+      "lekarza dentystę.",
+      "położną.",
+      "pielęgniarkę.",
+      "lekarza weterynarii."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 91,
+    "text": "Zgodę na import docelowy wydaje",
+    "answers": [
+      "Minister Zdrowia.",
+      "Główny Inspektor Farmaceutyczny.",
+      "kierownik apteki.",
+      "Wojewódzki Inspektor Farmaceutyczny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 92,
+    "text": "Masa leku sporządzonego według zamieszczonej recepty wynosi",
+    "answers": [
+      "100,0 g",
+      "110,02 g",
+      "210,02 g",
+      "206,02 g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta104.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 93,
+    "text": "Podłożem amfifilowym jest",
+    "answers": [
+      "maść miękka.",
+      "maść cholesterolowa.",
+      "euceryna.",
+      "lekobaza."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 94,
+    "text": "Ze względu na możliwość inaktywacji pepsyny w środowisku kwaśnym dopuszczalne stężenie kwasu solnego w leku recepturowym z pepsyną wynosi 0,5%. Na podstawie analizy załączonej recepty zaznacz wnioski dotyczące dopuszczalnego stężenia kwasu solnego w leku recepturowym oraz sposobu wykonania leku recepturowego.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta106.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 95,
+    "text": "Łacińskie słowo Recipe oznacza",
+    "answers": [
+      "przepis.",
+      "skład.",
+      "odważ.",
+      "weź."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 96,
+    "text": "Na podstawie fragmentu Farmakopei XI oblicz ilość wazeliny białej potrzebną do sporządzenia 15,0 g maści majerankowej.",
+    "answers": [
+      "10,0 g",
+      "12,5 g",
+      "11,5 g",
+      "15,0 g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_ramka6.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 97,
+    "text": "Typ niezgodności chemicznej, która wystąpi podczas sporządzania leku według zamieszczonej recepty, to",
+    "answers": [
+      "tworzenie kompleksów.",
+      "reakcja podwójnej wymiany.",
+      "wytrącanie słabych zasad.",
+      "wytrącanie słabych kwasów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta105.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 98,
+    "text": "Pregabalina jest pochodną kwasu gamma-aminomasłowego stosowaną w skojarzonym leczeniu napadów padaczkowych częściowych u dorosłych. Inne wskazanie do jej stosowania to",
+    "answers": [
+      "zastoinowa niewydolność serca.",
+      "zaparcia.",
+      "nadmierna senność.",
+      "uogólnione zaburzenia lękowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 99,
+    "text": "Wskazaniem do zastosowania terapii potrójnej: pantoprazolem oraz metronidazolem i amoksycyliną jest",
+    "answers": [
+      "rzekomobłoniaste zapalenie jelita grubego.",
+      "angina.",
+      "kiła.",
+      "zakażenie Helicobacter pylori."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 100,
+    "text": "Solubilizatorem hydrotropowym zwiększającym rozpuszczalność kofeiny w wodzie jest",
+    "answers": [
+      "sodu benzoesan.",
+      "sacharoza.",
+      "glukoza.",
+      "etylenodiamina."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 101,
+    "text": "Mechanizm działania leków z grupy antacida polega na",
+    "answers": [
+      "blokowaniu receptora H2 w komórkach okładzinowych żołądka.",
+      "hamowaniu pompy protonowej w żołądku.",
+      "zobojętnieniu kwasu solnego w treści żołądkowej.",
+      "tworzeniu warstwy ochronnej w miejscu uszkodzenia śluzówki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 102,
+    "text": "Lipodystrofia oznacza",
+    "answers": [
+      "zanik tkanki mięśniowej.",
+      "zanik tkanki tłuszczowej.",
+      "przerost tkanki mięśniowej.",
+      "przerost tkanki tłuszczowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 103,
+    "text": "Podczas stosowania produktu leczniczego ALAX zawierającego w składzie Frangulae corticis extractum siccum mogą wystąpić",
+    "answers": [
+      "skurczowe bóle brzucha.",
+      "kołatania serca.",
+      "zaburzenia widzenia.",
+      "zaburzenia mowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 104,
+    "text": "W ramach leczenia początkowego reumatoidalnego zapalenia stawów wskazane jest zastosowanie w małej dawce",
+    "answers": [
+      "fibratów.",
+      "diuretyków.",
+      "antybiotyków.",
+      "glikokortykosteroidów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 105,
+    "text": "Syrop zawierający w swoim składzie wyciąg z liści bluszczu stosowany jest w celu",
+    "answers": [
+      "poprawienia trawienia.",
+      "leczenia biegunki.",
+      "łagodzenia objawów alergii.",
+      "ułatwienia odkrztuszania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 106,
+    "text": "Określenie w nazwie produktu leczniczego: Co, Comb, Combo (np. Co-Valsacor, Tritace 5 comb, Poltram Combo) oznacza",
+    "answers": [
+      "prolek.",
+      "lek o najwyższej stosowanej dawce.",
+      "lek wieloskładnikowy.",
+      "lek o przedłużonym uwalnianiu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 107,
+    "text": "Zawartość glukozy w próbce oznaczano metodą spektrofotometryczną. Określ na podstawie krzywej wzorcowej ilość glukozy w próbce, jeżeli wartość absorbancji próbki wyniosła 0,6.",
+    "answers": [
+      "12,5 mg/100 ml",
+      "15,0 mg/100 ml",
+      "6,0 mg/100 ml",
+      "10,0 mg/100 ml"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_wykres2.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 108,
+    "text": "Który z leków recepturowych to maść roztwór?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_leki6.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 109,
+    "text": "Którego zapisu, zgodnie z Rozporządzeniem Ministra Zdrowia w sprawie recept lekarskich, brakuje w Praescriptio (Ordinatio) i Signatura zamieszczonej recepty?",
+    "answers": [
+      "Sposobu przechowywania.",
+      "Odpłatności.",
+      "Zapisu Sto miligramów diazepamu.",
+      "Dawkowania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta107.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 110,
+    "text": "Stężenie procentowe kwasu borowego w leku recepturowym wynosi",
+    "answers": [
+      "19,73%",
+      "0,30%",
+      "0,45%",
+      "0,59%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_ramka7.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 111,
+    "text": "Oblicz ilość bromku amonu, której należy użyć do sporządzenia 200,0 g roztworu soli Erlenmayera o stężeniu 10,0%.",
+    "answers": [
+      "2,0 g",
+      "1,0 g",
+      "4,0 g",
+      "6,0 g"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_ramka13.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 112,
+    "text": "W wyniku ekstrakcji wysuszonej substancji roślinnej roztworem etanolowo-wodnym w temperaturze pokojowej otrzymuje się",
+    "answers": [
+      "odwar.",
+      "napar.",
+      "nalewkę.",
+      "intrakt."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 113,
+    "text": "Brak substancji gorączkotwórczych wymagany jest w przypadku",
+    "answers": [
+      "maści z detreomycyną.",
+      "0,1% roztworu etakrydyny mleczanu do przemywania ran.",
+      "kropli do oczu z gentamycyną.",
+      "5,0% roztworu glukozy do infuzji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 114,
+    "text": "Acetaminofen to nazwa synonimowa",
+    "answers": [
+      "paracetamolu.",
+      "metamizolu sodowego.",
+      "diklofenaku.",
+      "kwasu acetylosalicylowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 115,
+    "text": "Opóźnionym uwalnianiem po podaniu doustnym charakteryzują się tabletki",
+    "answers": [
+      "podpoliczkowe.",
+      "dojelitowe.",
+      "niepowlekane.",
+      "musujące."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 116,
+    "text": "Oblicz maksymalną dawkę dobową amoksycyliny dla pacjenta o masie ciała 14 kg.",
+    "answers": [
+      "3,50 g",
+      "0,60 g",
+      "1,75 g",
+      "1,20 g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_tabela17.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 117,
+    "text": "Metamizol sodowy stosowany jest w postaci",
+    "answers": [
+      "maści, nanokapsułek.",
+      "tabletek, roztworu do wstrzykiwań.",
+      "aerozolu wziewnego, czopków.",
+      "insertów, kapsułek."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 118,
+    "text": "W celu sporządzenia leku według zamieszczonej recepty balsam peruwiański należy",
+    "answers": [
+      "rozetrzeć z olejem rycynowym w stosunku 1:1.",
+      "rozpuścić w stopionej wazelinie białej.",
+      "rozetrzeć z wazeliną białą.",
+      "rozpuścić w parafinie ciekłej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta156.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 119,
+    "text": "Postać leku, z której uwalnianie substancji leczniczej zachodzi ze stałą szybkością w ustalonym czasie, to",
+    "answers": [
+      "krople do oczu.",
+      "roztwór doustny.",
+      "system terapeutyczny.",
+      "pręcik docewkowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 120,
+    "text": "W celu uzyskania jałowości kropli do oczu roztwór targezyny należy",
+    "answers": [
+      "sterylizować suchym gorącym powietrzem.",
+      "sporządzić z użyciem jałowych składników w warunkach aseptycznych.",
+      "przesączyć przez sączek membranowy o średnicy porów 0,22 µm.",
+      "wyjaławiać termicznie w nasyconej parze wodnej (121°C, 20 minut)."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 121,
+    "text": "Oblicz ilość jodu, której należy użyć do sporządzenia 250,0 g Płynu Lugola zgodnie z FP XI.",
+    "answers": [
+      "2,50 g",
+      "0,97 g",
+      "1,00 g",
+      "2,58 g"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_ramka12.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 122,
+    "text": "Sporządzając czopki, należy pamiętać, aby olej kakaowy",
+    "answers": [
+      "upłynnić do uzyskania przezroczystej cieczy o złotym zabarwieniu.",
+      "ogrzewać w temperaturze powyżej 40°C.",
+      "schłodzić w lodówce.",
+      "stopić nie przekraczając temperatury 34°C."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 123,
+    "text": "Który z wymienionych leków może wywołać niepożądane działanie, objawiające się nadmiernym uspokojeniem, sennością, zaburzeniami koordynacji ruchowej, zaburzeniami koncentracji, niewyraźnym widzeniem?",
+    "answers": [
+      "Klemastyna.",
+      "Salbutamol.",
+      "Flutikazon.",
+      "Fenoterol."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 124,
+    "text": "Działanie przeciwgrzybicze wykazuje",
+    "answers": [
+      "bacytracyna.",
+      "terbinafina.",
+      "klindamycyna.",
+      "wankomycyna."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 125,
+    "text": "Oblicz ilość papaweryny chlorowodorku, którą zażyje pacjent w ciągu doby, jeżeli przyjmuje lek sporządzony według recepty, zgodnie z zaleceniami lekarza. Masa jednej łyżki stołowej wynosi 17,5 g.",
+    "answers": [
+      "0,110 g",
+      "0,336 g",
+      "0,112 g",
+      "0,331 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta157.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 126,
+    "text": "Składnikiem podłoża maściowego pochodzenia zwierzęcego jest",
+    "answers": [
+      "wosk Carnauba.",
+      "wosk żółty.",
+      "parafina stała.",
+      "parafina płynna."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 127,
+    "text": "Olej wątłuszowy powinien być stosowany w stanach niedoboru",
+    "answers": [
+      "witamin A i D3.",
+      "witaminy B12.",
+      "witaminy B1.",
+      "witamin E i K."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 128,
+    "text": "Oblicz stężenie procentowe roztworu wodorotlenku sodu, jeżeli do 200 mL roztworu NaOH o stężeniu 5,0% dodano 0,8 L wody. Należy przyjąć, że gęstość 5,0% roztworu NaOH wynosi 1 g/mL.",
+    "answers": [
+      "0,5%",
+      "1,0%",
+      "0,1%",
+      "2,0%"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 129,
+    "text": "Do odkażania nieuszkodzonej skóry powinien być stosowany alkohol etylowy o stężeniu",
+    "answers": [
+      "50% v/v",
+      "96% v/v",
+      "40% v/v",
+      "70% v/v"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 130,
+    "text": "Przyspieszenie czynności serca powyżej 100 uderzeń na minutę to",
+    "answers": [
+      "anafilaksja.",
+      "tachyfilaksja.",
+      "tachykardia.",
+      "bradykardia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 131,
+    "text": "Ile gramów 3,0% roztworu kwasu borowego należy użyć do sporządzenia leku według podanej recepty?",
+    "answers": [
+      "13,33 g",
+      "6,67 g",
+      "3,33 g",
+      "12,37 g"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta154.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 132,
+    "text": "Interakcja leków polegająca na współzawodniczeniu o dostęp do tego samego receptora określana jest jako antagonizm",
+    "answers": [
+      "chemiczny.",
+      "kompetycyjny.",
+      "czynnościowy.",
+      "fizjologiczny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 133,
+    "text": "Oblicz ilość wody, której należy użyć do sporządzenia leku według podanej recepty.",
+    "answers": [
+      "94,0 g",
+      "100,6 g",
+      "99,4 g",
+      "100,0 g"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta152.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 134,
+    "text": "Oblicz dawkę dobową prometazyny chlorowodorku w leku sporządzonym według zamieszczonej recepty.",
+    "answers": [
+      "0,08 g",
+      "8,00 g",
+      "0,04 g",
+      "4,00 g"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta153.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 135,
+    "text": "Do produkcji tabletek musujących stosuje się mieszaninę kwasu organicznego i węglanu lub wodorowęglanu jako pomocnicze substancje",
+    "answers": [
+      "rozsadzające.",
+      "wypełniające.",
+      "wiążące.",
+      "powlekające."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 136,
+    "text": "Według Farmakopei Polskiej XI zawartość garbników oznacza się dla",
+    "answers": [
+      "Salicis cortex.",
+      "Sennae folium.",
+      "Quercus cortex.",
+      "Ipecacuanhae radix."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 137,
+    "text": "Silybi mariani fructus – owoc ostropestu zawiera związki działające zaliczane do",
+    "answers": [
+      "antrachinonów.",
+      "saponin.",
+      "flawonoglikanów.",
+      "irydoidów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 138,
+    "text": "Konsystencję maści bada się za pomocą",
+    "answers": [
+      "penetrometru.",
+      "polarymetru.",
+      "piknometru.",
+      "wiskozymetru."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 139,
+    "text": "Leki recepturowe 1, 2, 3, 4 powinny być sporządzone odpowiednio w postaci:",
+    "answers": [
+      "1 – Linimentum, 2 – Suspensio, 3 – Solutio, 4 – Emulsio",
+      "1 – Solutio, 2 – Suspensio, 3 – Guttae, 4 – Emulsio",
+      "1 – Linimentum, 2 – Suppositoria, 3 – Guttae, 4 – Suspensio",
+      "1 – Suspensio, 2 – Suppositoria, 3 – Emulsio, 4 – Solutio"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepty4.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 140,
+    "text": "Fenoloftaleina stosowana jako wskaźnik alkacymetryczny w roztworze zasadowym jest",
+    "answers": [
+      "żółta.",
+      "bezbarwna.",
+      "malinowa.",
+      "pomarańczowa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 141,
+    "text": "Furazydynę (preparat Furaginum) należy stosować",
+    "answers": [
+      "w zakażeniu górnych dróg oddechowych.",
+      "w zapaleniu przewodu pokarmowego.",
+      "w zapaleniu dróg żółciowych.",
+      "w zakażeniu dolnych dróg moczowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 142,
+    "text": "Odpowiednik leku przepisanego przez lekarza może różnić się",
+    "answers": [
+      "nazwą międzynarodową.",
+      "zawartością substancji pomocniczych.",
+      "dawką i postacią farmaceutyczną.",
+      "wskazaniami terapeutycznymi."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 143,
+    "text": "Prawidłowe zestawienie zwrotu łacińskiego i jego znaczenia w języku polskim to",
+    "answers": [
+      "divide in partes aequales – podziel na równe części.",
+      "ad usum externum – do użytku wewnętrznego.",
+      "recipe – recepta.",
+      "ana partes aequales – w równych częściach do."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 144,
+    "text": "Działaniem niepożądanym, które może pojawić się podczas stosowania gentamycyny, jest",
+    "answers": [
+      "suchy kaszel.",
+      "zapalenie nerwu wzrokowego.",
+      "zatrzymanie krążenia.",
+      "uszkodzenie słuchu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 145,
+    "text": "Oblicz, korzystając z informacji o preparacie Vitaminum A, liczbę kropli roztworu witaminy A, której należy użyć do sporządzenia leku według recepty. Vitaminum A 50 000 j.m./ml, krople doustne, roztwór Substancją czynną leku jest witamina A w postaci retynolu palmitynianu 1 ml = 30 kropli",
+    "answers": [
+      "10 kropli.",
+      "25 kropli.",
+      "30 kropli.",
+      "15 kropli."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta155.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 146,
+    "text": "Sulfuri unguentum przeznaczona jest do leczenia",
+    "answers": [
+      "odmrożeń.",
+      "świerzbu.",
+      "oparzeń słonecznych.",
+      "alergii kontaktowej skóry."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 147,
+    "text": "W celu sporządzenia 3,0% Sol. Acidi borici należy odważony w odpowiedniej ilości kwas borowy rozpuścić",
+    "answers": [
+      "we wrzącej wodzie.",
+      "w etanolu 96% v/v.",
+      "w glicerolu 85%.",
+      "w oleju rzepakowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 148,
+    "text": "Oblicz maksymalną dawkę jednorazową metronidazolu dla pacjenta w wieku 10 lat, jeżeli według FP XI maksymalna dawka jednorazowa tej substancji to 1,0 g, a maksymalna dawka dobowa – 2,0 g. Wzór Younga – dla dzieci w wieku od 2 do 12 lat",
+    "answers": [
+      "0,142 g",
+      "0,454 g",
+      "0,416 g",
+      "0,250 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_wzor.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 149,
+    "text": "W postaci TTS stosowane są",
+    "answers": [
+      "heparyna i fentanyl.",
+      "estradiol i metformina.",
+      "fentanyl i hydrokortyzon.",
+      "fentanyl i estradiol."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 150,
+    "text": "Substancją roślinną zawierającą najwięcej związków krzemu jest",
+    "answers": [
+      "Lini semen - nasienie lnu.",
+      "Equiseti herba - ziele skrzypu.",
+      "Ginseng radix - korzeń żeń-szenia.",
+      "Salviae folium - liść szałwii."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 151,
+    "text": "Zamieszczony opis dotyczy surowca otrzymywanego Surowiec roślinny, którego jednym z głównych składników aktywnych jest chelidonina, wykazuje działanie spazmolityczne i żółciopędne. Jego wydzielina w medycynie ludowej była stosowana do usuwania brodawek.",
+    "answers": [
+      "z glistnika jaskółcze ziele.",
+      "z karczocha zwyczajnego.",
+      "z goryczki żółtej.",
+      "z cykorii podróżnik."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 152,
+    "text": "Oblicz ilość klarytromycyny, którą przyjmie 6-letnie dziecko zgodnie z zamieszczoną receptą.",
+    "answers": [
+      "1250 mg",
+      "2625 mg",
+      "1750 mg",
+      "3000 mg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta103.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 153,
+    "text": "Pod którym składem leku recepturowego należy umieścić informację Misce fiat emulsio?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepty3.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 154,
+    "text": "Narząd odpowiedzialny za efekt pierwszego przejścia leków stosowanych doustnie to",
+    "answers": [
+      "nerki.",
+      "płuca.",
+      "wątroba.",
+      "serce."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 155,
+    "text": "Jako corrigens smaku w preparatach dla diabetyków stosowany jest",
+    "answers": [
+      "syrop glukozowo-fruktozowy.",
+      "sorbitol.",
+      "glukoza.",
+      "sacharoza."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 156,
+    "text": "Bizmutu zasadowy galusan to",
+    "answers": [
+      "dermatol.",
+      "gencjana.",
+      "sól gorzka.",
+      "sól emska."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 157,
+    "text": "Silne działanie fotouczulające wykazuje",
+    "answers": [
+      "dziurawiec zwyczajny.",
+      "mięta pieprzowa.",
+      "szałwia lekarska.",
+      "melisa lekarska."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 158,
+    "text": "W leczeniu choroby Parkinsona stosuje się preparaty zawierające lewodopę. Połączenie lewodopy z benserazydem (np. preparat Madopar) ma na celu",
+    "answers": [
+      "zwiększenie wchłaniania lewodopy z przewodu pokarmowego.",
+      "zahamowanie receptorów dopaminergicznych.",
+      "redukcję obwodowego metabolizmu lewodopy do dopaminy.",
+      "poprawę trwałości mikrobiologicznej preparatu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 159,
+    "text": "W nazwie mieszanek insulin: Humalog Mix 25, Novomix 30 Penfill liczby oznaczają",
+    "answers": [
+      "procentowy udział insuliny szybko działającej.",
+      "czas, który upływa do momentu zadziałania preparatu.",
+      "dawkę leku wyrażoną w jednostkach międzynarodowych.",
+      "maksymalną ilość dni przechowywania preparatu poza lodówką."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 160,
+    "text": "Działanie synergistyczne wykazują",
+    "answers": [
+      "morfina i nalokson.",
+      "pilokarpina i atropina.",
+      "paracetamol i tramadol.",
+      "dekstrometorfan i bromheksyna."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 161,
+    "text": "W trakcie leczenia infekcji wirusowych u dzieci istnieje ryzyko wystąpienia zespołu Reye’a. W związku z tym, u dzieci nie należy stosować preparatów zawierających",
+    "answers": [
+      "kwas acetylosalicylowy.",
+      "ibuprofen.",
+      "kwas askorbinowy.",
+      "paracetamol."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 162,
+    "text": "Aby zapobiec powstaniu niezgodności podczas sporządzania leku według recepty, należy",
+    "answers": [
+      "zastosować odpowiednią kolejność łączenia składników.",
+      "zwiększyć ilość wody.",
+      "wprowadzić potrzebną ilość etanolu 96% v/v.",
+      "zamienić amonowy bromek na równoważną ilość sodu bromku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta99.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 163,
+    "text": "W prewencji niedokrwiennego udaru mózgu jako lek z grupy OTC stosuje się",
+    "answers": [
+      "klopidogrel.",
+      "kwas acetylosalicylowy.",
+      "warfarynę.",
+      "rywaroksaban."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 164,
+    "text": "Oblicz ilość kodeiny fosforanu, którą przyjmuje pacjent dobowo, zażywając lek sporządzony zgodnie z zamieszczoną receptą.",
+    "answers": [
+      "0,025 g",
+      "0,075 g",
+      "0,500 g",
+      "0,042 g"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta100.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 165,
+    "text": "Wskazaniem do stosowania nifuroksazydu jest",
+    "answers": [
+      "zapalenie dróg żółciowych.",
+      "zakażenie dróg oddechowych.",
+      "biegunka bakteryjna przewodu pokarmowego.",
+      "zakażenie bakteryjne dróg moczowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 166,
+    "text": "Garbniki są głównym składnikiem czynnym nalewki",
+    "answers": [
+      "z kłącza pięciornika.",
+      "z korzenia kozłka.",
+      "z owoców pieprzowca.",
+      "z ziela konwalii majowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 167,
+    "text": "Do sporządzenia leku recepturowego zgodnie z podaną receptą należy użyć",
+    "answers": [
+      "0,1 g rozcierki 1+1 z suchego wyciągu z pokrzyku.",
+      "0,05 g rozcierki 1+1 z suchego wyciągu z pokrzyku.",
+      "5,0 g liścia pokrzyku.",
+      "0,05 g nalewki z pokrzyku."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta101.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 168,
+    "text": "Do przygotowania mianowanego roztworu azotanu (V) srebra z naważki należy użyć",
+    "answers": [
+      "cylindra miarowego.",
+      "zlewki.",
+      "erlenmajerki.",
+      "kolby miarowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 169,
+    "text": "W celu rozpuszczenia 2,5 g substancji określonej zgodnie z FP XI jako rozpuszczalna, należy użyć rozpuszczalnika w ilości",
+    "answers": [
+      "75 – 100 mL",
+      "2,5 – 25 mL",
+      "25 – 75 mL",
+      "1 – 2,5 mL"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_tabela11.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 170,
+    "text": "W roztworze wodnym odczyn zasadowy wykazuje",
+    "answers": [
+      "fenobarbital sodowy.",
+      "amonowy bromek.",
+      "kodeiny fosforan.",
+      "sodu chlorek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 171,
+    "text": "Której postaci leku stawia się wymóg apirogenności?",
+    "answers": [
+      "Kroplom do uszu.",
+      "Płynom do wlewów.",
+      "Roztworom doustnym.",
+      "Preparatom na rany."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 172,
+    "text": "Monografie szczegółowe w FP XI ułożone są alfabetycznie według nazw",
+    "answers": [
+      "polskich.",
+      "łacińskich.",
+      "angielskich.",
+      "handlowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 173,
+    "text": "Skróty oraz zwroty: SR, XL, retard, long umieszczane są na opakowaniach",
+    "answers": [
+      "tabletek o dużych rozmiarach.",
+      "leków uwalniających się w jamie ustnej.",
+      "tabletek, z których przygotowuje się roztwory.",
+      "leków o przedłużonym uwalnianiu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 174,
+    "text": "Wydając z apteki Glibenese GITS (glipizyd) tabletki o przedłużonym uwalnianiu, należy zawsze poinformować pacjenta",
+    "answers": [
+      "o konieczności połknięcia tabletki w całości.",
+      "o możliwości rozgryzienia i przeżucia tabletki.",
+      "o możliwości rozpuszczenia tabletki przed zażyciem.",
+      "o konieczności podzielenia tabletki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 175,
+    "text": "Pochodne celulozy w recepturze aptecznej znajdują zastosowanie jako",
+    "answers": [
+      "środki konserwujące.",
+      "przeciwutleniacze.",
+      "substancje zwiększające lepkość.",
+      "substancje poprawiające smak."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 176,
+    "text": "Właściwości higroskopijne wykazuje",
+    "answers": [
+      "Absinthi tinctura.",
+      "Camphorae spiritus.",
+      "Pini sirupus compositus.",
+      "Belladonnae extractum siccum."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 177,
+    "text": "Oblicz ilość efedryny chlorowodorku, którą należy odważyć do sporządzenia leku według zamieszczonej recepty.",
+    "answers": [
+      "1,0 g",
+      "2,25 g",
+      "0,745 g",
+      "1,5 g"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta102.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 178,
+    "text": "Związkiem organicznym jonów magnezu jest",
+    "answers": [
+      "magnezu mleczan.",
+      "magnezu tlenek.",
+      "magnezu chlorek.",
+      "magnezu węglan."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 179,
+    "text": "Zawartość jonów Ca2+ w próbce oznaczono metodą miareczkowania kompleksometrycznego mianowanym roztworem EDTA. Na zmiareczkowanie próbki o objętości 20 mL zużyto 15 mL roztworu EDTA o stężeniu 0,020 mol/L. Oblicz stężenie jonów Ca2+ w próbce, jeżeli substraty reagują w stosunku równomolowym.",
+    "answers": [
+      "0,015 mol/L",
+      "0,030 mol/L",
+      "0,020 mol/L",
+      "0,200 mol/L"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 180,
+    "text": "Korzystając z zamieszczonego fragmentu FP XI, oblicz ilość etanolu 96% (v/v) potrzebną do sporządzenia leku zgodnie z podaną receptą.",
+    "answers": [
+      "38,07 g",
+      "34,45 g",
+      "39,15 g",
+      "33,50 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta98.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 181,
+    "text": "Leczenie owsicy jest wskazaniem do stosowania",
+    "answers": [
+      "paklitakselu.",
+      "pyrantelu.",
+      "perazyny.",
+      "petydyny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 182,
+    "text": "II faza metabolizmu leków prowadzi do",
+    "answers": [
+      "powstania związków farmakologicznie nieaktywnych, głównie hydrofilowych.",
+      "powstania związków farmakologicznie nieaktywnych, głównie lipofilowych.",
+      "przekształcenia proleków w substancje aktywne farmakologicznie.",
+      "rozkładu substancji leczniczej najczęściej na drodze utleniania, hydrolizy, redukcji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 183,
+    "text": "Na recepcie dla Zasłużonego Honorowego Dawcy Przeszczepu lekarz wpisuje symbol",
+    "answers": [
+      "PO",
+      "IW",
+      "IB",
+      "ZK"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 184,
+    "text": "Oblicz ilość ziela skrzypu, którą należy użyć w celu sporządzenia 250,0 g ziół moczopędnych zgodnie z FP XI.",
+    "answers": [
+      "10,0 g",
+      "30,0 g",
+      "75,0 g",
+      "25,0 g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_ramka5.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 185,
+    "text": "Promotory wchłaniania to substancje pomocnicze stosowane przy produkcji",
+    "answers": [
+      "tabletek.",
+      "maści.",
+      "granulatów.",
+      "kapsułek."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 186,
+    "text": "Jednorazowy sprzęt medyczny wykonany z tworzywa sztucznego wyjaławia się",
+    "answers": [
+      "metodą wyżarzania.",
+      "nasyconą parą wodną pod ciśnieniem.",
+      "tlenkiem etylenu.",
+      "suchym gorącym powietrzem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 187,
+    "text": "Ile naciśnięć pompki dozującej należy wykonać, aby przyjąć doustnie 62,5 mg tramadolu chlorowodorku? Tramal, 100 mg/ml, krople doustne z pompką dozującą, roztwór Substancją czynną leku jest tramadolu chlorowodorek. 1 ml leku zawiera 100 mg tramadolu chlorowodorku. Jedno naciśnięcie pompki dozującej uwalnia roztwór do stosowania doustnego zawierający 12,5 mg tramadolu chlorowodorku.",
+    "answers": [
+      "5",
+      "4",
+      "3",
+      "2"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 188,
+    "text": "Hipokaliemia może pojawić się podczas stosowania środków przeczyszczających wraz",
+    "answers": [
+      "z fenobarbitalem.",
+      "z hydrochlorotiazydem.",
+      "z paracetamolem.",
+      "z metoprololem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 189,
+    "text": "Oblicz koszt, jaki poniesie pacjent za lek X przepisany przez lekarza z odpłatnością 50%, jeżeli cena urzędowa leku wynosi 9,87 zł, a limit dofinansowania 6,64 zł.",
+    "answers": [
+      "4,94 zł",
+      "3,22 zł",
+      "6,65 zł",
+      "6,55 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 190,
+    "text": "Którą z wymienionych substancji można zastosować jako podłoże maści o działaniu powierzchniowym?",
+    "answers": [
+      "Smalec wierprzowy.",
+      "Eucerynę.",
+      "Lanolinę.",
+      "Wazelinę białą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 191,
+    "text": "Jak często należy przecierać środkiem dezynfekującym wewnętrzną powierzchnię loży laminarnej do pracy w warunkach aseptycznych?",
+    "answers": [
+      "Każdorazowo przed rozpoczęciem pracy.",
+      "Raz w miesiącu.",
+      "Raz na tydzień.",
+      "Dwa razy w tygodniu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 192,
+    "text": "Przeciwwskazaniem do stosowania kwasu acetylosalicylowego jest",
+    "answers": [
+      "trombocytoza.",
+      "stan zapalny gardła.",
+      "choroba wieńcowa.",
+      "stan spastyczny oskrzeli."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 193,
+    "text": "W Urzędowym Wykazie Produktów Leczniczych dopuszczonych na terenie Rzeczypospolitej Polskiej odnaleźć można informację na temat",
+    "answers": [
+      "kategorii dostępności.",
+      "działań niepożądanych.",
+      "ceny detalicznej.",
+      "wielkości refundacji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 194,
+    "text": "Którą postać leku otrzymuje się przez wytrawianie rozdrobnionego wysuszonego surowca wodą o temperaturze 90°C w czasie 30 minut?",
+    "answers": [
+      "Intrakt (intractum).",
+      "Napar (infusum).",
+      "Macerat (maceratio).",
+      "Odwar (decoctum)."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 195,
+    "text": "Która z wymienionych substancji leczniczych wymaga przechowywania w lodówce?",
+    "answers": [
+      "Nateglinid.",
+      "Sitagliptyna.",
+      "Kanagliflozyna.",
+      "Eksenatyd."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 196,
+    "text": "Do czego jest przeznaczony lejek z warstwą ze szkła spiekanego (Schotta)?",
+    "answers": [
+      "Do sączenia.",
+      "Do dekantacji.",
+      "Do przesiewania.",
+      "Do klarowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 197,
+    "text": "Wskaźnik pęcznienia wyznacza się dla",
+    "answers": [
+      "Psylli semen.",
+      "Thymi herba.",
+      "Valerianae radix.",
+      "Gentianae radix."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 198,
+    "text": "O ile nie zaznaczono inaczej, zapis solutio spirituosa oznacza, że do sporządzenia roztworu należy użyć alkoholu etylowego w stężeniu wyjściowym",
+    "answers": [
+      "70% v/v",
+      "96% v/v",
+      "50% v/v",
+      "40% v/v"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 199,
+    "text": "Wydając z apteki lek w postaci tabletek o modyfikowanym uwalnianiu, należy zawsze poinformować pacjenta",
+    "answers": [
+      "o możliwości rozpuszczenia tabletki przed zażyciem.",
+      "o konieczności podzielenia tabletki.",
+      "o możliwości rozgryzienia i przeżucia tabletki.",
+      "o konieczności połknięcia tabletki w całości."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 200,
+    "text": "Które urządzenie służy do badania lepkości maści?",
+    "answers": [
+      "Wiskozymetr.",
+      "Polarymetr.",
+      "Piknometr.",
+      "Penetrometr."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 201,
+    "text": "Ile gramów 3% roztworu kwasu borowego należy użyć do sporządzenia leku według zamieszczonej recepty?",
+    "answers": [
+      "6,67 g",
+      "13,33 g",
+      "3,33 g",
+      "12,37 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta170.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 202,
+    "text": "Wydając krople do nosa zawierające ksylometazoliny chlorowodorek należy poinformować pacjenta, że lek należy stosować najdłużej przez",
+    "answers": [
+      "2 miesiące.",
+      "5 dni.",
+      "3 miesiące.",
+      "14 dni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 203,
+    "text": "Określenie ogólne zimne lub chłodne miejsce zgodnie z Farmakopeą Polską, oznacza zakres temperatur",
+    "answers": [
+      "od 2°C do 8°C.",
+      "od 0°C do 2°C.",
+      "od 15°C do 25°C.",
+      "od 8°C do 15°C."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 204,
+    "text": "Do antybiotyków bakteriobójczych należą",
+    "answers": [
+      "gentamycyna i amoksycylina.",
+      "doksycyklina i amikacyna.",
+      "amoksycylina i doksycyklina.",
+      "gentamycyna i chloramfenikol."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 205,
+    "text": "Które opakowanie należy zastosować do leku sporządzonego według zamieszczonej recepty?",
+    "answers": [
+      "Słoik apteczny.",
+      "Jałowe pudełko apteczne z pokrywką.",
+      "Butelkę z zakraplaczem.",
+      "Jałową tubę z aplikatorem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta173.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 206,
+    "text": "Białą etykietę należy dołączyć do opakowania zawierającego",
+    "answers": [
+      "krople do płukania gardła.",
+      "płyn do pędzlowania jamy ustnej.",
+      "płyn do inhalacji.",
+      "wodny roztwór jodu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 207,
+    "text": "Oblicz ilość trituracji Extr. Belladonnae sicc., którą należy odważyć w celu sporządzenia leku według zamieszczonej recepty.",
+    "answers": [
+      "0,025 g",
+      "1,000 g",
+      "0,500 g",
+      "0,050 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta171.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 208,
+    "text": "Który z podanych leków należy przechowywać w szafce oznaczonej Wykaz A?",
+    "answers": [
+      "Methotrexatum.",
+      "Chloramphenicolum.",
+      "Chlordiazepoxidum.",
+      "Diazepamum."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 209,
+    "text": "Przykładem maści typu roztwór jest",
+    "answers": [
+      "maść borowa (Acidi borici unguentum).",
+      "maść cynkowa (Zinci oxidi unguentum).",
+      "maść kamforowa (Camphorae unguentum).",
+      "maść siarkowa (Sulfuri unguentum)."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 210,
+    "text": "Do sporządzania odwaru z korzenia kozłka lekarskiego nadaje się",
+    "answers": [
+      "autoklaw.",
+      "czopkarka.",
+      "infuzorka.",
+      "kapsułkarka."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 211,
+    "text": "Określenie substancja jest rozpuszczalna we wrzącej wodzie, trudno rozpuszczalna w wodzie i etanolu 96% v/v oznacza, że aby wykonać 100,0 g 1,0% wodnego roztworu tej substancji, należy ją rozpuścić",
+    "answers": [
+      "we wrzącej wodzie i po ostudzeniu dopełnić wodą do 100,0 g.",
+      "w 99,0 g wody o temperaturze pokojowej.",
+      "w mieszaninie wody i etanolu 96% v/v (1:1) w temperaturze pokojowej.",
+      "w niewielkiej ilości etanolu 96% v/v i dopełnić do 100,0 g wodą."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 212,
+    "text": "Oblicz procentową zawartość substancji czynnej w materiale roślinnym, jeżeli w odważce 0,5000 g oznaczono 2,5 mg tej substancji.",
+    "answers": [
+      "0,05%",
+      "0,25%",
+      "0,15%",
+      "0,50%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 213,
+    "text": "Ile wynosi stężenie etakrydyny mleczanu w leku recepturowym zgodnie z zamieszczoną receptą?",
+    "answers": [
+      "0,1‰",
+      "0,5‰",
+      "0,8‰",
+      "0,2‰"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta174.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 214,
+    "text": "Który rodzaj niezgodności wystąpi w leku sporządzonym według zamieszczonej recepty?",
+    "answers": [
+      "Reakcja podwójnej wymiany.",
+      "Wytrącanie słabych zasad.",
+      "Reakcja utleniania i redukcji.",
+      "Wytrącanie słabych kwasów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta169.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 215,
+    "text": "Który z wymienionych leków nie jest lekiem aptecznym?",
+    "answers": [
+      "Spirytus salicylowy.",
+      "Maść cholesterolowa.",
+      "Syrop sosnowy.",
+      "Woda wapienna."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 216,
+    "text": "Jednym z częstych działań niepożądanych enalaprylu jest",
+    "answers": [
+      "rozszerzenie źrenic.",
+      "wysypka skórna.",
+      "suchy kaszel.",
+      "nasilona senność."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 217,
+    "text": "Ile wynosi stężenie procentowe roztworu zawierającego 0,56 g substancji w 140,0 g roztworu?",
+    "answers": [
+      "0,2%",
+      "0,4%",
+      "0,56%",
+      "0,784%"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 218,
+    "text": "Lekiem mukolitycznym jest",
+    "answers": [
+      "acetylocysteina.",
+      "acebutolol.",
+      "acetazolamid.",
+      "acenokumarol."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 219,
+    "text": "Kartę celuloidową wykorzystuje się do zbierania substancji ze ścianek naczynia podczas sporządzania",
+    "answers": [
+      "zawiesin i roztworów.",
+      "czopków i nalewek.",
+      "maści i mieszanek.",
+      "past i proszków."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 220,
+    "text": "Wskaźnik goryczy oznacza się dla",
+    "answers": [
+      "kory dębu.",
+      "liścia prawoślazu.",
+      "liścia bobrka.",
+      "kory kruszyny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 221,
+    "text": "Za pomocą którego czynnika można zniszczyć drobnoustroje w procesie wyjaławiania lanoliny?",
+    "answers": [
+      "Pary wodnej pod ciśnieniem normalnym.",
+      "Pary wodnej pod ciśnieniem zwiększonym.",
+      "Wilgotnego gorącego powietrza.",
+      "Suchego gorącego powietrza."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 222,
+    "text": "Która nazwa jest synonimem Kalii guaiacolosulfonas?",
+    "answers": [
+      "Silolum.",
+      "Ichtammolum.",
+      "Thiocolum.",
+      "Thymolum."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 223,
+    "text": "Które z działań niepożądanych może wystąpić w ciągu kilku godzin od przyjęcia doustnie chloropromazyny?",
+    "answers": [
+      "Nowotworzenie.",
+      "Ślinotok.",
+      "Nadkwaśność.",
+      "Parkinsonizm."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 224,
+    "text": "W których monografiach znajduje się opis Belladonnae folii extractum siccum normatum?",
+    "answers": [
+      "Szczegółowych substancji i przetworów roślinnych.",
+      "Ogólnych postaci leku.",
+      "Narodowych.",
+      "Ogólnych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 225,
+    "text": "Który symbol powinien być wpisany na recepcie, w rubryce uprawnienia dodatkowe, dla pacjenta legitymującego się książeczką inwalidy wojennego?",
+    "answers": [
+      "ZK",
+      "IB",
+      "IW",
+      "WP"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 226,
+    "text": "Ile wynosi stężenie kwasu salicylowego w maści sporządzonej według zamieszczonej recepty?",
+    "answers": [
+      "10,0 %",
+      "2,5 %",
+      "5,0 %",
+      "7,5 %"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta163.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 227,
+    "text": "Jaka temperatura wody i jaki czas wytrawiania są wymagane podczas sporządzania maceratu z korzenia prawoślazu?",
+    "answers": [
+      "40–50°C; 30 minut.",
+      "15–25°C; 30 minut.",
+      "40–50°C; 45 minut.",
+      "10–15°C; 45 minut."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 228,
+    "text": "Wiskozymetr służy do pomiaru",
+    "answers": [
+      "wytrzymałości mechanicznej nici chirurgicznych.",
+      "odporności tabletek na ścieranie.",
+      "gęstości ciał stałych.",
+      "lepkości cieczy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 229,
+    "text": "Które z wymienionych substancji leczniczych mają zastosowanie w przeciwdziałaniu nudnościom podczas chemioterapii przeciwnowotworowej?",
+    "answers": [
+      "Lansoprazol, famotydyna i pirenzepina.",
+      "Aliskiren, chinapryl i kandesartan.",
+      "Mianseryna, escitalopram i amitryptylina.",
+      "Ondansetron, tietylperazyna i metoklopramid."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 230,
+    "text": "Który z wymienionych leków recepturowych należy sporządzić w warunkach aseptycznych?",
+    "answers": [
+      "Krople do ucha z hydrokortyzonem.",
+      "Roztwór z chlorheksydyną do płukania gardła.",
+      "Maść z siarczanem neomycyny.",
+      "Czopki doodbytnicze z benzokainą."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 231,
+    "text": "Na rysunku przedstawiono",
+    "answers": [
+      "pipetę Pasteura.",
+      "titrator.",
+      "biuretę.",
+      "pipetę automatyczną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_rysunek.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 232,
+    "text": "W języku łacińskim fiolet krystaliczny określany jest jako",
+    "answers": [
+      "Eserini salicylas.",
+      "Ethacridini lactas.",
+      "Pyoctaninum coeruleum.",
+      "Methylenum coeruleum."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 233,
+    "text": "Surowcami pochodzenia mineralnego są:",
+    "answers": [
+      "olbrot, ichtiol, parafina ciekła.",
+      "parafina stała, ichtiol, wazelina.",
+      "parafina stała, olbrot, wazelina żółta.",
+      "ichtiol, balsam peruwiański, wosk żółty."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 234,
+    "text": "Którą postać leku otrzyma się z korzenia wymiotnicy (Ipecacuanhae radix), jeżeli surowiec zostanie zalany wodą o temperaturze pokojowej, z dodatkiem kwasu cytrynowego, a następnie ogrzany do temperatury wyższej niż 90°C i utrzymywany w tej temperaturze przez 30 minut?",
+    "answers": [
+      "Odwaru.",
+      "Maceratu.",
+      "Nalewki.",
+      "Naparu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 235,
+    "text": "Monostearynian glicerolu w trakcie sporządzania maści dodaje się w celu",
+    "answers": [
+      "zwiększenia granicy płynięcia gotowej maści.",
+      "zmniejszenia lepkości podłoża maściowego.",
+      "przeciwdziałania utlenianiu składników maści.",
+      "umożliwienia powstania układu emulsyjnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 236,
+    "text": "Ile gramów sacharozy należy użyć do sporządzenia 75,0 g syropu prostego na podstawie zamieszczonego składu?",
+    "answers": [
+      "32,0 g",
+      "16,0 g",
+      "64,0 g",
+      "48,0 g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_ramka15.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 237,
+    "text": "Który z surowców farmaceutycznych to Adeps lanae?",
+    "answers": [
+      "Smalec wieprzowy.",
+      "Lanolina.",
+      "Wosk pszczeli.",
+      "Olbrot."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 238,
+    "text": "Zgodnie z Farmakopeą Polską Iecoris aselli oleum otrzymywany jest",
+    "answers": [
+      "z wątroby dorsza.",
+      "z tłuszczu łososia.",
+      "z tłuszczu wieloryba.",
+      "z wątroby rekina."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 239,
+    "text": "Ile gramów bromku amonu należy użyć do sporządzenia 200,0 g 10% roztworu soli Erlenmeyera?",
+    "answers": [
+      "10,0 g",
+      "4,0 g",
+      "8,0 g",
+      "2,0 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_ramka14.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 240,
+    "text": "Sporządzając syrop prosty, po rozpuszczeniu sacharozy w wodzie, doprowadzeniu roztworu do wrzenia i uzupełnieniu gorącą wodą, powstały roztwór należy",
+    "answers": [
+      "odwirować.",
+      "przecedzić.",
+      "przesączyć.",
+      "zdekantować."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 241,
+    "text": "Oblicz ilość jodu, której należy użyć do sporządzenia 250,0 g płynu Lugola zgodnie z FP XII.",
+    "answers": [
+      "0,97 g",
+      "2,50 g",
+      "1,00 g",
+      "2,58 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_ramka10.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 242,
+    "text": "Silybi mariani fructus – owoc ostropestu swoje działanie zawdzięcza związkom zaliczanym do",
+    "answers": [
+      "irydoidów.",
+      "flawonoglikanów.",
+      "saponin.",
+      "antrachinonów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 243,
+    "text": "Oblicz, korzystając z informacji o preparacie Vitaminum A, liczbę kropli roztworu witaminy A, której należy użyć do sporządzenia leku według recepty.",
+    "answers": [
+      "15 kropli.",
+      "25 kropli.",
+      "10 kropli.",
+      "30 kropli."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_ramka11.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 244,
+    "text": "Według Farmakopei Polskiej XII zawartość garbników oznacza się dla",
+    "answers": [
+      "Quercus cortex.",
+      "Ipecacuanhae radix.",
+      "Salicis cortex.",
+      "Sennae folium."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 245,
+    "text": "Niewielka ilość etanolu 96% v/v jest niezbędna podczas rozdrabniania w moździerzu",
+    "answers": [
+      "mocznika.",
+      "kwasu borowego.",
+      "mentolu.",
+      "siarczanu miedzi."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 246,
+    "text": "Informacji zmieszać przed użyciem nie umieszcza się na opakowaniu zawierającym",
+    "answers": [
+      "emulsję O/W.",
+      "mieszankę.",
+      "roztwór rzeczywisty.",
+      "puder płynny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 247,
+    "text": "Do dezynfekcji dłoni podczas sporządzania leków do oczu stosuje się",
+    "answers": [
+      "wodę utlenioną.",
+      "kwas nadoctowy.",
+      "glukonian chlorheksydyny.",
+      "aldehyd glutarowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 248,
+    "text": "Emulsją typu W/O jest",
+    "answers": [
+      "pasta cynkowa.",
+      "puder płynny.",
+      "mydło potasowe.",
+      "lanolina uwodniona."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 249,
+    "text": "Opis sporządzania roztworu zasadowego octanu glinu w Farmakopei Polskiej znajduje się w dziale monografii",
+    "answers": [
+      "ogólnych postaci leku.",
+      "szczegółowych produktów specjalistycznych.",
+      "ogólnych.",
+      "narodowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 250,
+    "text": "Podczas sporządzania wody miętowej olejek eteryczny należy",
+    "answers": [
+      "rozproszyć za pośrednictwem talku.",
+      "rozpuścić w etanolu 96% v/v.",
+      "zemulgować przy udziale oleju rycynowego.",
+      "zawiesić w glicerolu 85% m/m."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 251,
+    "text": "Valerianae rad. decoct. należy sporządzić",
+    "answers": [
+      "w aparacie Soxhleta.",
+      "w infuzorce.",
+      "w maceratorze.",
+      "w aparacie Derynga."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 252,
+    "text": "Zamiana fenobarbitalu na fenobarbital sodowy jest konieczna przy sporządzaniu",
+    "answers": [
+      "roztworu wodnego.",
+      "kropli na bazie etanolu.",
+      "proszków dzielonych.",
+      "czopków doodbytniczych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 253,
+    "text": "Lekiem aptecznym jest",
+    "answers": [
+      "zawiesina do użytku zewnętrznego z benzokainą.",
+      "1% roztwór chlorowodorku papaweryny.",
+      "maść siarkowa.",
+      "mikstura z metamizolem sodowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 254,
+    "text": "Oblicz maksymalną dawkę jednorazową potasu jodku (stosowanego doustnie jako środek wykrztuśny) dla pacjenta o masie 16 kg.",
+    "answers": [
+      "1,371 g",
+      "0,457 g",
+      "0,914 g",
+      "1,333 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_tabela15.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 255,
+    "text": "Który z wymienionych leków nie może być sporządzony przez technika farmaceutycznego?",
+    "answers": [
+      "Maść z hydrokortyzonem.",
+      "Spirytusowy roztwór jodu.",
+      "Krople do oczu z gentamycyną.",
+      "Roztwór z fosforanem kodeiny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 256,
+    "text": "Krople do oczu nie mogą zawierać substancji konserwujących, gdy są stosowane",
+    "answers": [
+      "w uszkodzeniu rogówki.",
+      "w jaskrze.",
+      "w tzw. zespole suchego oka.",
+      "w wirusowym zapaleniu spojówek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 257,
+    "text": "Aminofilina jest preparatem stanowiącym połączenie",
+    "answers": [
+      "kofeiny i benzoesanu sodu.",
+      "kofeiny i salicylanu sodu.",
+      "teofiliny i etylenodiaminy.",
+      "teofiliny i propyloaminy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 258,
+    "text": "Oblicz ilość etanolu 96% v/v, którą należy użyć do sporządzenia leku według zamieszczonej recepty.",
+    "answers": [
+      "37,29 g",
+      "23,49 g",
+      "22,95 g",
+      "38,31 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta133.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 259,
+    "text": "Stężenie kwasu borowego w leku sporządzonym według zamieszczonej recepty wynosi",
+    "answers": [
+      "0,96%",
+      "0,72%",
+      "1,50%",
+      "2,00%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta132.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 260,
+    "text": "Który lek wymaga sporządzania w warunkach aseptycznych?",
+    "answers": [
+      "Krople do ucha z hydrokortyzonem.",
+      "Krople do nosa z protargolem.",
+      "Krople do nosa z efedryny chlorowodorkiem.",
+      "Krople do ucha z gentamycyną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 261,
+    "text": "Koszt wykonania leku recepturowego zawierającego antybiotyk (tzw. taksa laborum), zgodnie z obowiązującymi przepisami zależy od",
+    "answers": [
+      "tego, czy lek został sporządzony w warunkach aseptycznych.",
+      "ilości sporządzanego leku.",
+      "użytych opakowań.",
+      "wartości użytych surowców farmaceutycznych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 262,
+    "text": "Etanol jest składnikiem",
+    "answers": [
+      "Linimentum saponato-camphoratum.",
+      "Bismuthi subgallatis unguentum.",
+      "Iodi solutio aquosa.",
+      "Aluminii subacetatis solutio."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 263,
+    "text": "Ile moli NaOH przereaguje z 20 mL roztworu HCl o stężeniu 0,1 mol/L?",
+    "answers": [
+      "0,001",
+      "0,004",
+      "0,002",
+      "0,006"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 264,
+    "text": "Friabilator jest aparatem przeznaczonym do badania",
+    "answers": [
+      "lepkości cieczy.",
+      "temperatury topnienia.",
+      "zawartości olejków eterycznych.",
+      "kruchości i ścieralności tabletek."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 265,
+    "text": "Zgodnie z zapisem fragmentu rozporządzenia próbki archiwalne",
+    "answers": [
+      "składa w archiwum kierownik apteki.",
+      "pobiera wytwórca w ilości niezbędnej do trzykrotnego przeprowadzenia wymaganych badań laboratoryjnych.",
+      "składa w archiwum technik farmaceutyczny.",
+      "pobiera wytwórca dla co dziesiątej serii wyprodukowanego środka farmaceutycznego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_rozporzadzenie4.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 266,
+    "text": "Który z podanych surowców farmaceutycznych jest produktem rafinacji ropy naftowej?",
+    "answers": [
+      "Olej wątłuszowy.",
+      "Olbrot.",
+      "Ichtiol.",
+      "Parafina stała."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 267,
+    "text": "Impaktor to aparat służący do badania",
+    "answers": [
+      "peletek.",
+      "czopków.",
+      "aerozoli inhalacyjnych.",
+      "tabletek dojelitowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 268,
+    "text": "W leczeniu hipercholesterolemii, jako leki podstawowe, należy zastosować",
+    "answers": [
+      "pochodne benzodiazepiny.",
+      "statyny.",
+      "betablokery.",
+      "pochodne tioksantenu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 269,
+    "text": "Symbol T4 w terminologii medycznej oznacza",
+    "answers": [
+      "tryptaminę.",
+      "tromboksan.",
+      "tyroksynę.",
+      "tetracyklinę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 270,
+    "text": "Skrót POChP oznacza chorobę",
+    "answers": [
+      "prostaty.",
+      "pleców.",
+      "płuc.",
+      "przytarczyc."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 271,
+    "text": "Odwar z korzenia kozłka należy sporządzić",
+    "answers": [
+      "w infuzorce.",
+      "w maceratorze.",
+      "w aparacie Derynga.",
+      "w aparacie Soxhleta."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 272,
+    "text": "Higrometr to przyrząd do mierzenia",
+    "answers": [
+      "ciśnienia gazu.",
+      "temperatury wody.",
+      "lepkości cieczy.",
+      "wilgotności powietrza."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 273,
+    "text": "Dawka dobowa efedryny chlorowodorku według zamieszczonej recepty wynosi",
+    "answers": [
+      "42 mg",
+      "70 mg",
+      "126 mg",
+      "14 mg"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta118.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 274,
+    "text": "Sposób przygotowania syropu prostego znajduje się w Farmakopei Polskiej XI w dziale",
+    "answers": [
+      "monografii narodowych.",
+      "tekstów podstawowych.",
+      "monografii ogólnych.",
+      "monografii szczegółowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 275,
+    "text": "Neosine (Inosinum pranobexum) jest lekiem o działaniu",
+    "answers": [
+      "przeciwdepresyjnym.",
+      "przeciwbólowym i przeciwzapalnym.",
+      "immunostymulującym i przeciwwirusowym.",
+      "nasennym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 276,
+    "text": "Która substancja występuje w postaci gęstej cieczy?",
+    "answers": [
+      "Cerezinum.",
+      "Ichtammolum.",
+      "Cetaceum.",
+      "Cholesterolum."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 277,
+    "text": "Składnikiem o działaniu przeczyszczającym w Species laxantes jest",
+    "answers": [
+      "Cichorii radix.",
+      "Graminis rhizoma.",
+      "Urticae folium.",
+      "Frangulae cortex."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 278,
+    "text": "Fenoloftaleina, stosowana jako wskaźnik alkacymetryczny, w roztworze zasadowym przybiera barwę",
+    "answers": [
+      "malinową.",
+      "żółtą.",
+      "pomarańczową.",
+      "niebieską."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 279,
+    "text": "Informacji Przed użyciem zmieszać nie należy umieszczać na opakowaniu zawierającym",
+    "answers": [
+      "unguentum.",
+      "emulsio.",
+      "mixtura.",
+      "suspensio."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 280,
+    "text": "Substancją pomocniczą jest",
+    "answers": [
+      "gummi arabicum.",
+      "jecoris aselli oleum.",
+      "acidum boricum.",
+      "acidum salicylicum."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 281,
+    "text": "Farmakopealna nazwa maści przeciw odmrożeniom w języku łacińskim to",
+    "answers": [
+      "Ammonii bituminosulfonatis unguentum.",
+      "Unguentum Methyli salicylici.",
+      "Unguentum contra congelationem.",
+      "Bismuthi subgallatis unguentum."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 282,
+    "text": "Oblicz ilość etakrydyny mleczanu potrzebną do sporządzenia leku recepturowego zgodnie z zamieszczoną receptą.",
+    "answers": [
+      "5,0 mg",
+      "10,0 mg",
+      "0,10 g",
+      "0,05 g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta120.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 283,
+    "text": "Oblicz dawkę dobową papaweryny chlorowodorku w leku sporządzonym zgodnie z zamieszczoną receptą.",
+    "answers": [
+      "0,07 g",
+      "0,42 g",
+      "0,28 g",
+      "0,14 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta117.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 284,
+    "text": "Oznaczanie zawartości garbników jest elementem standaryzacji surowca",
+    "answers": [
+      "Thymi herba.",
+      "Menyanthidis folium.",
+      "Valerianae radix.",
+      "Agrimoniae herba."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 285,
+    "text": "Sporządzając lek zgodnie z zamieszczoną receptą, wyciąg suchy standaryzowany z liścia pokrzyku należy",
+    "answers": [
+      "rozetrzeć w moździerzu z niewielką ilością wody i przelać do wytarowanej butelki z roztworem efedryny chlorowodorku i papaweryny chlorowodorku.",
+      "rozpuścić w wodzie i przelać w dowolnej kolejności do wytarowanej butelki.",
+      "rozpuścić w wodzie i przelać w pierwszej kolejności do wytarowanej butelki.",
+      "rozetrzeć w moździerzu z niewielką ilością wody i przelać w pierwszej kolejności do wytarowanej butelki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta121.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 286,
+    "text": "Lekiem przeczyszczającym działającym osmotycznie jest",
+    "answers": [
+      "bisakodyl.",
+      "makrogol.",
+      "dokuzynian sodu.",
+      "olej rycynowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 287,
+    "text": "Preparaty zawierające metforminy chlorowodorek, ze względu na możliwość wystąpienia zaburzeń żołądkowo-jelitowych, należy przyjmować",
+    "answers": [
+      "pół godziny przed posiłkiem.",
+      "nie wcześniej niż 3 godziny po posiłku.",
+      "bezpośrednio przed snem.",
+      "podczas lub bezpośrednio po posiłku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 288,
+    "text": "Źródłem informacji o przynależności substancji do wykazu A, B lub N jest",
+    "answers": [
+      "Urzędowy Wykaz Produktów Leczniczych.",
+      "Farmakopea Polska.",
+      "Charakterystyka Produktu Leczniczego.",
+      "Ustawa Prawo Farmaceutyczne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 289,
+    "text": "Które zjawisko, powodujące niezgodność recepturową, występuje w proszkach zawierających mentol i kamforę?",
+    "answers": [
+      "Adsporpcja.",
+      "Higroskopijność.",
+      "Euteksja.",
+      "Wilgotnienie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 290,
+    "text": "W magazynie aptecznym mleko Bebilon Pepti należy umieścić w miejscu przeznaczonym dla",
+    "answers": [
+      "suplementów diety.",
+      "wyrobów medycznych.",
+      "produktów leczniczych.",
+      "dietetycznych środków spożywczych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 291,
+    "text": "Ile tabletek leku Zyrtec 10 mg należy użyć do sporządzenia leku recepturowego zgodnie z zamieszczoną receptą?",
+    "answers": [
+      "20 sztuk.",
+      "40 sztuk.",
+      "200 sztuk.",
+      "800 sztuk."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta119.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 292,
+    "text": "Sporządzoną postać leku o nazwie linimentum należy umieścić",
+    "answers": [
+      "w butelce z ciemnego szkła.",
+      "w pudełku polipropylenowym.",
+      "w kapsułce skrobiowej.",
+      "w papierowej torebce."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 293,
+    "text": "Na recepcie, dla Zasłużonego Dawcy Przeszczepu, w miejscu oznaczonym uprawnienia dodatkowe, wpisany jest symbol",
+    "answers": [
+      "ZK",
+      "PO",
+      "IB",
+      "IW"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 294,
+    "text": "W przypadku zapisania na recepcie kodeiny, będącej składnikiem płynnego leku recepturowego, należy dokonać zamiany na równoważną ilość kodeiny",
+    "answers": [
+      "bromowodorku.",
+      "glukuronidu.",
+      "siarczanu.",
+      "fosforanu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 295,
+    "text": "Ile wynosi stężenie kwasu borowego w leku recepturowym sporządzonym zgodnie z zamieszczoną receptą?",
+    "answers": [
+      "3,0%",
+      "1,0%",
+      "2,0%",
+      "1,5%"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_recepta122.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 296,
+    "text": "Do rozcierania zawartości w moździerzu należy użyć",
+    "answers": [
+      "łyżeczki.",
+      "szpatułki.",
+      "pistla.",
+      "bagietki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 297,
+    "text": "Sapo viridis to",
+    "answers": [
+      "spirytus kamforowy.",
+      "mydło lecznicze.",
+      "spirytus mydlany.",
+      "mydło potasowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 298,
+    "text": "Spiritus formicicus to spirytus",
+    "answers": [
+      "gorczyczny.",
+      "mrówczany.",
+      "salicylowy.",
+      "kamforowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 299,
+    "text": "Która z podanych substancji występuje w postaci gęstej cieczy?",
+    "answers": [
+      "Cetaceum.",
+      "Cerezinum.",
+      "Ichthammolum.",
+      "Cholesterolum."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 300,
+    "text": "Zapis Sapo viridis oznacza",
+    "answers": [
+      "spirytus mydlany.",
+      "spirytus kamforowy.",
+      "mydło lecznicze.",
+      "mydło potasowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 301,
+    "text": "Na recepcie, dla Zasłużonego Dawcy Przeszczepu, w miejscu oznaczonym uprawnienia dodatkowe wpisany jest symbol",
+    "answers": [
+      "ZK",
+      "IB",
+      "PO",
+      "IW"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  },
+  {
+    "id": 302,
+    "text": "Oblicz ilość jodu, której należy użyć do sporządzenia 250,0 g Płynu Lugola zgodnie z przepisem farmakopealnym.",
+    "answers": [
+      "2,50 g",
+      "1,00 g",
+      "2,58 g",
+      "0,97 g"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med09/z19_przepis8.png"
+    },
+    "category": "MED.09"
+  },
+  {
+    "id": 303,
+    "text": "W leczeniu hipercholesterolemii, jako leki podstawowe należy zastosować",
+    "answers": [
+      "statyny.",
+      "betablokery.",
+      "pochodne benzodiazepiny.",
+      "pochodne tioksantenu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.09"
+  }
+]
