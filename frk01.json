@@ -1,0 +1,4802 @@
+[
+  {
+    "id": 1,
+    "text": "Skrócenie włosów na potylicy w strzyżeniu męskim klasycznym wymaga zastosowania techniki",
+    "answers": [
+      "cieniowania.",
+      "palcowania.",
+      "efilowania.",
+      "degażowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 2,
+    "text": "Podczas koloryzacji włosów farbami półtrwałymi, cząsteczki barwnika sytuują się",
+    "answers": [
+      "w macierzy włosa i warstwie korowej włosa.",
+      "pomiędzy warstwami łuski włosowej.",
+      "w rdzeniu włosa.",
+      "pomiędzy melanocytami w warstwie korowej włosa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 3,
+    "text": "Podział porostu na sekcje krzyżowe do strzyżenia jest przedstawiony",
+    "answers": [
+      "na rysunku 2.",
+      "na rysunku 1.",
+      "na rysunku 4.",
+      "na rysunku 3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_podzialy.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 4,
+    "text": "Zbyt intensywny czerwony odcień włosów należy zmatowić, stosując toner o spektrum",
+    "answers": [
+      "perłowym.",
+      "zielonym.",
+      "niebieskim.",
+      "fioletowym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 5,
+    "text": "Zmiany w łodydze włosa, powstałe w wyniku nieprawidłowego nawijania lub mocowania wałków do ondulacji wodnej, to uszkodzenia",
+    "answers": [
+      "mechaniczne.",
+      "fizyczne.",
+      "chemiczne.",
+      "naturalne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 6,
+    "text": "Na którym rysunku schematycznym przedstawiono wysuniętą brodę?",
+    "answers": [
+      "Na rysunku 4.",
+      "Na rysunku 1.",
+      "Na rysunku 3.",
+      "Na rysunku 2."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_rysunki4.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 7,
+    "text": "Wykonanie strzyżenia zaprezentowanego na rysunku wymaga w partiach bocznych separowania włosów",
+    "answers": [
+      "poziomo.",
+      "pionowo.",
+      "ukośnie do tyłu.",
+      "ukośnie do przodu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_strzyzenie5.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 8,
+    "text": "Zabiegu przedłużania i zagęszczania włosów techniką mikro ring nie należy wykonywać, gdy",
+    "answers": [
+      "włosy farbowane są preparatami roślinnymi.",
+      "klientka ma włosy o długości około 15 cm.",
+      "końcówki włosów są rozdwojone.",
+      "klientka w wywiadzie wykazuje alergię na nikiel."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 9,
+    "text": "Na którym rysunku przedstawiony jest grzebień, który należy przygotować na stanowisku do wykonania plisowania włosów?",
+    "answers": [
+      "Na rysunku 1.",
+      "Na rysunku 3.",
+      "Na rysunku 4.",
+      "Na rysunku 2."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_grzebienie.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 10,
+    "text": "Diagnozę fryzjerską, mającą na celu ustalenie kondycji i stanu włosów, należy przeprowadzić na włosach",
+    "answers": [
+      "świeżo umytych i mokrych.",
+      "suchych, umytych i wyprostowanych.",
+      "suchych i nieumytych.",
+      "nieumytych, lekko zwilżonych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 11,
+    "text": "Wyznaczenie kształtu i długości baków w strzyżeniu męskim wymaga wykonania",
+    "answers": [
+      "personalizacji porostu.",
+      "konturowania porostu.",
+      "skalowania włosów.",
+      "teksturowania włosów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 12,
+    "text": "Zabieg rekonstrukcji włosów, zgodnie z technologią, jest przeznaczony dla włosów",
+    "answers": [
+      "z uszkodzoną łuską włosa i warstwą korową, dla poprawy ich kondycji.",
+      "normalnych, w celu zabezpieczenia łodygi przed uszkodzeniami.",
+      "przetłuszczających się, w celu zmniejszenia łojotoku.",
+      "elektryzujących się, dla regulacji ładunków elektrycznych na ich powierzchni."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 13,
+    "text": "Zwiększenie objętości włosów cienkich i delikatnych, bez efektu puszenia się i skręcenia w loki, jest możliwe przy zastosowaniu",
+    "answers": [
+      "keratynowego prostowania włosów z wykorzystaniem prostownicy.",
+      "trwałej stylizacji z zastosowaniem grubych papilotów.",
+      "trwałej klasycznej, z zastosowaniem płaskiego nawijania na cienkie wałki.",
+      "keratynowego wygładzania włosów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 14,
+    "text": "Przeciwwskazaniem do wykonania trwałej ondulacji jest wykonanie bezpośrednio przed zabiegiem",
+    "answers": [
+      "kuracji preparatami zabezpieczającymi i wyrównującymi poziom wilgotności włosów.",
+      "mycia włosów szamponem głęboko oczyszczającym.",
+      "spłukania szamponu ciepłą wodą.",
+      "mycia włosów szamponami zawierającymi płynne silikony."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 15,
+    "text": "Przedstawioną na rysunku deformacją głowy jest",
+    "answers": [
+      "cofnięte czoło.",
+      "zapadłość potyliczna.",
+      "spłaszczenie ciemieniowe.",
+      "wybrzuszenie wierzchołka."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_deformacja5.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 16,
+    "text": "Do strzyżenia męskiego sportowego, wykonywanego techniką podstawową cieniowania, należy zastosować",
+    "answers": [
+      "nożyczki modelujące.",
+      "trymer do konturowania.",
+      "maszynkę do strzyżenia włosów.",
+      "narzędzie brzytwopodobne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 17,
+    "text": "Strzyżenie damskie do formy koła, zgodnie z technologią należy wykonać techniką",
+    "answers": [
+      "palcowania po wewnętrznej stronie dłoni.",
+      "palcowania po zewnętrznej stronie dłoni.",
+      "skalowania i cieniowania nożyczkami klasycznymi.",
+      "cieniowania maszynką lub nożyczkami na grzebieniu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 18,
+    "text": "Szampony do mycia włosów, zawierające jako substancję aktywną w swym składzie cynk",
+    "answers": [
+      "uelastyczniają włosy.",
+      "zmniejszają łojotok.",
+      "działają nawilżająco.",
+      "poprawiają ukrwienie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 19,
+    "text": "Włosy silnie rozjaśnione, w celu ochrony łuski włosowej, należy pielęgnować, stosując preparaty zawierające wyciąg",
+    "answers": [
+      "z lnu.",
+      "z indygo.",
+      "z lawsoni.",
+      "z macierzanki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 20,
+    "text": "Do strzyżenia włosów z tendencją do rozdwajania się końcówek należy zastosować nożyczki",
+    "answers": [
+      "degażówki.",
+      "ergonomiczne.",
+      "termiczne.",
+      "klasyczne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 21,
+    "text": "Gwarancją otrzymania równomiernego koloru włosów opisanych w karcie diagnozy jest wykonanie przed koloryzacją",
+    "answers": [
+      "dekoloryzacji włosów siwych.",
+      "demakijażu ciemnych włosów na poroście.",
+      "malaksacji porostu.",
+      "prepigmentacji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_karta.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 22,
+    "text": "Przed wykonaniem ondulacji żelazkowej, włosy zgodnie z technologią wykonania zabiegu należy zabezpieczyć",
+    "answers": [
+      "jedwabiem w płynie.",
+      "olejkiem arganowym.",
+      "preparatem termoochronnym.",
+      "środkiem nabłyszczającym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 23,
+    "text": "Pojaśnienie włosów naturalnych z jednoczesnym nadaniem beżowego odcienia, należy wykonać za pomocą",
+    "answers": [
+      "farby rozjaśniającej.",
+      "dekoloryzatora redukcyjnego.",
+      "mieszanki stosowanej do mycia rozjaśniającego.",
+      "rozjaśniacza z 12% utleniaczem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 24,
+    "text": "Włosy węzłowate charakteryzują się",
+    "answers": [
+      "tworzeniem się pętli z jednego lub większej ilości włosów.",
+      "zgrubieniami łodyg, powodującymi pędzelkowate złamanie końcówek.",
+      "nierównomiernie zabarwioną łodygą włosa, na której występują jasne i ciemne ogniwa.",
+      "nierówną powierzchnią włosa, na której występują zgrubienia i przewężenia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 25,
+    "text": "Zgodnie z instrukcją, farbę należy przygotować w proporcjach 1:1,5. Wskaż proporcje niezbędne do przygotowania 50 g mieszanki barwiącej.",
+    "answers": [
+      "25 g farby + 25 g oksydantu",
+      "20 g farby + 30 g oksydantu",
+      "35 g farby + 15 g oksydantu",
+      "30 g farby + 20 g oksydantu"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 26,
+    "text": "Uzyskanie równomiernego skrętu włosów o długości poniżej linii ramion, z zastosowaniem płaskiego sposobu nawijania włosów, jest możliwe podczas wykonania ondulacji chemicznej techniką",
+    "answers": [
+      "klasyczną.",
+      "kierunkową.",
+      "bliźniaczą.",
+      "cegiełkową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 27,
+    "text": "Podczas zabiegu trwałej ondulacji, utrwalenie skrętu wykonywane jest na etapie czynności",
+    "answers": [
+      "końcowych.",
+      "wstępnych.",
+      "właściwych.",
+      "pielęgnacyjnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 28,
+    "text": "Do wykonania zabiegu regeneracji włosów, na konsoli należy przygotować ręcznik jednorazowy, sanityzator, klipsy sekcyjne, miseczkę z podziałką, pędzelek, a także:",
+    "answers": [
+      "grzebień z szeroko rozstawionymi zębami, odżywkę do włosów i pielęgnicę.",
+      "pelerynkę, odżywkę pielęgnacyjną i sterylizator.",
+      "maskę pielęgnacyjną, szeroki grzebień i suszarkę ręczną.",
+      "płukankę pielęgnacyjną, szampon do włosów i grzebień ze szpikulcem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 29,
+    "text": "Ombre charakteryzuje się",
+    "answers": [
+      "rozjaśnianiem dużej ilości pasemek na koronie głowy.",
+      "diagonalnym farbowaniem włosów w kolorach kontrastowych.",
+      "niesymetrycznym odbarwianiem części środkowej i końców włosów.",
+      "pionową gradacją koloru, stwarzającą efekt przenikania się kolorów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 30,
+    "text": "Bezpośrednio po wykonaniu trwałej ondulacji, do pielęgnacji włosów należy użyć",
+    "answers": [
+      "szamponu zasadowego.",
+      "maski regenerującej.",
+      "balsamu nawilżającego.",
+      "odżywki neutralizującej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 31,
+    "text": "W celu podkreślenia złotego koloru włosów, podczas mycia należy zastosować szampon z zawartością",
+    "answers": [
+      "rumianku pospolitego.",
+      "czarnej rzepy.",
+      "kory dębu.",
+      "chmielu zwyczajnego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 32,
+    "text": "Asymetryczną grzywkę, krótszą z prawej i wydłużoną z lewej strony twarzy należy ostrzyc, wydzielając w sekcji grzywki separacje",
+    "answers": [
+      "poziome, w kierunku nasady nosa.",
+      "ukośne, w kierunku prawego łuku brwiowego.",
+      "ukośne, w kierunku lewego łuku brwiowego.",
+      "trójkątne, w kierunku nasady nosa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 33,
+    "text": "Klientce o typie kolorystycznym lato należy polecić koloryzację w odcieniach",
+    "answers": [
+      "chłodnych pastelowych.",
+      "intensywnych rudości.",
+      "ciepłych pastelowych.",
+      "matowych czerwieni."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 34,
+    "text": "Które zabiegi pielęgnacyjne należy zalecić klientce mającej problem z przetłuszczaniem się włosów?",
+    "answers": [
+      "Nawilżanie włosów maskami z zastosowaniem sauny.",
+      "Zabiegi regenerujące z użyciem pielęgnicy.",
+      "Mycie włosów szamponami w pudrze lub proszku.",
+      "Masaże za pomocą prądów d’Arsonwala."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 35,
+    "text": "Wykonując koloryzację globalną na włosach naturalnych z widoczną siwizną, umiejscowioną tylko na skroniach, preparat koloryzujący należy nakładać od",
+    "answers": [
+      "partii bocznych, następnie na część potyliczną i sekcję ciemieniową.",
+      "partii grzywki, przez część ciemieniową, partie boczne i potyliczną.",
+      "sekcji ciemieniowej, przez potyliczną i partie boczne.",
+      "sekcji na potylicy, następnie na partie boczne, część ciemieniową i partię grzywki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 36,
+    "text": "Proszek rozjaśniający przygotowany z oksydantem 12%, przetrzymywany na włosach zbyt długo oraz podgrzewany promiennikiem spowoduje",
+    "answers": [
+      "odpadanie włosów przy nasadzie.",
+      "zbyt intensywne rozjaśnienie włosów.",
+      "nierównomierne odbarwienie włosów.",
+      "elektryzowanie się włosów na całej długości."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 37,
+    "text": "Korektę zbyt ciemnego koloru włosów, otrzymanego w wyniku źle dobranej farby, należy wykonać",
+    "answers": [
+      "za pomocą mycia rozjaśniającego.",
+      "nakładając farbę o jaśniejszym odcieniu.",
+      "dekoloryzując włosy płukankami ziołowymi.",
+      "farbując włosy odsiwiaczami."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 38,
+    "text": "Pianka do modelowania włosów stosowana jest w celu",
+    "answers": [
+      "utrwalenia przekształcenia.",
+      "nawilżenia włosów.",
+      "usztywnienia porostu.",
+      "wygładzenia łodygi włosa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 39,
+    "text": "Chemicznego prostowania włosów nie należy wykonywać w przypadku",
+    "answers": [
+      "wrodzonej łamliwości włosów.",
+      "wypukłych znamion występujących na skórze głowy.",
+      "naturalnie mocno skręconych włosów.",
+      "skóry łojotokowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 40,
+    "text": "Nierównomierne przejścia, tak zwane schody, powstałe w wyniku nieprawidłowego cieniowania włosów maszynką nad grzebieniem o długości około 2 cm, należy skorygować wykonując",
+    "answers": [
+      "dredowanie włosów narzędziem brzytwopodobnym od nasady po końcówki.",
+      "teksturowanie włosów pazurami fryzjerskimi bezpośrednio przy nasadzie włosów.",
+      "ponownie cieniowanie porostu z jednoczesnym skracaniem włosów.",
+      "palcowanie włosów pod kątem 45º ze zmianą projekcji chwytanych pasm."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 41,
+    "text": "Klientka ma włosy w kolorze kasztanowym, brzoskwiniową cerę z licznymi piegami w odcieniu rudo-miedzianym oraz zielononiebieskie oczy. Który typ kolorystyczny urody reprezentuje klientka?",
+    "answers": [
+      "Lato.",
+      "Zima.",
+      "Wiosna.",
+      "Jesień."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 42,
+    "text": "Który z zabiegów pielęgnacyjnych należy wykonać w celu zabezpieczenia struktury włosów przed wykonaniem zabiegów chemicznych?",
+    "answers": [
+      "Strzyżenie pielęgnacyjne.",
+      "Regeneracyjny.",
+      "Stymulację mieszków włosowych.",
+      "Ochronny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 43,
+    "text": "Który zestaw sprzętu fryzjerskiego jest niezbędny do wykonania ondulacji fenowej?",
+    "answers": [
+      "Grzebień z rączką, szczotka tunelowa, klimazon.",
+      "Grzebień z rączką, szczotka płaska, lokówka.",
+      "Grzebień ze szpikulcem, wałki, szpilki, suszarka hełmowa.",
+      "Grzebień ze szpikulcem, szczotka okrągła, suszarka ręczna."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 44,
+    "text": "W celu przyciemnienia włosów, które przez wiele lat były rozjaśniane, należy jako zabieg wstępny wykonać",
+    "answers": [
+      "prekoloryzację.",
+      "repigmentację.",
+      "tonowanie.",
+      "kondycjonowanie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 45,
+    "text": "W celu optycznego powiększenia drobnej twarzy klientki należy zaproponować koloryzację włosów w kolorze",
+    "answers": [
+      "średniego brązu z ciemnymi pasemkami.",
+      "ciemnego brązu z jasnymi refleksami.",
+      "jasnego blondu z jasnymi refleksami.",
+      "średniego blondu z ciemnymi pasemkami."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 46,
+    "text": "Do wykonania opisanego strzyżenia zastosowano technikę Opis strzyżenia Pasma włosów są skręcane wokół własnej osi, a następnie nacinane na różnych wysokościach. Nacięcia są wykonywane od nasady włosów w kierunku końcówek.",
+    "answers": [
+      "skalowania.",
+      "degażowania.",
+      "pikowania.",
+      "konturowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 47,
+    "text": "Do wykonania zabiegu kondycjonowania włosów należy na stanowisku myjącym przygotować minimum ręcznik, szampon oraz grzebień",
+    "answers": [
+      "ze szpikulcem plastikowym i olejek arganowy.",
+      "z szeroko rozstawionymi zębami i odżywkę stabilizującą kolor.",
+      "do rozczesywania i odżywkę nawilżającą.",
+      "ze szpikulcem metalowym i neutralizator."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 48,
+    "text": "W celu pojaśnienia tylko końcówek włosów krótkich należy zastosować technikę",
+    "answers": [
+      "sombre.",
+      "lukrowania.",
+      "szydełkowania.",
+      "tricoloru."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 49,
+    "text": "W trakcie etapu właściwego zabiegu prostowania chemicznego włosów przekształcaniu ulegają mostki",
+    "answers": [
+      "wodorowe.",
+      "jonowe.",
+      "solne.",
+      "dwusiarczkowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 50,
+    "text": "Włosy przedłużono i zagęszczono wklejając pasma włosów pomiędzy transparentne taśmy, na których znajdują się włosy. Która metoda została zastosowana do wykonania zabiegu?",
+    "answers": [
+      "Keratynowa.",
+      "Warkoczykowa.",
+      "Ultradźwiękowa.",
+      "Kanapkowa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 51,
+    "text": "Który kolor włosów zgodnie z zasadami kolorometrii należy zastosować w celu podkreślenia urody klientki o typie kolorystycznym wiosna?",
+    "answers": [
+      "Popielaty brąz.",
+      "Złoty blond.",
+      "Miedziany blond.",
+      "Mahoniowy brąz."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 52,
+    "text": "W celu uzyskania fryzury w formie koła należy podczas zabiegu strzyżenia unieść pasmo włosów w stosunku do krzywizny głowy pod kątem",
+    "answers": [
+      "120 stopni.",
+      "90 stopni.",
+      "30 stopni.",
+      "60 stopni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 53,
+    "text": "Opis dotyczy wykonania koloryzacji techniką Opis techniki koloryzacji Koloryzacja w co najmniej dwóch kolorach. W części ciemieniowej wydzielony trójkąt, zafarbowany na kolor intensywniejszy od koloru pozostałych włosów na głowie.",
+    "answers": [
+      "globalną.",
+      "diagonalną.",
+      "blokową.",
+      "sekcyjną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 54,
+    "text": "Mieszaninę do demakijażu włosów należy przygotować z szamponu do włosów oraz",
+    "answers": [
+      "wody gorącej i preparatu rozjaśniającego.",
+      "utleniacza 9% i farby rozjaśniającej.",
+      "utleniacza 3% i pasty rozjaśniającej.",
+      "wody destylowanej i kremu rozjaśniającego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 55,
+    "text": "Przedstawione na rysunku schematycznym separacje wykorzystywane są podczas strzyżenia linii fryzury",
+    "answers": [
+      "kwadratu.",
+      "chłopczycy stopniowanej.",
+      "pazia.",
+      "boba modyfikowanego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk01/au21_rysunek.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 56,
+    "text": "W jaki sposób działają na skórę i włosy preparaty zawierające w swoim składzie wyciąg z migdałów?",
+    "answers": [
+      "Nawilżająco.",
+      "Rozpulchniająco.",
+      "Odtłuszczająco.",
+      "Ściągająco."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 57,
+    "text": "Zabiegu zagęszczania włosów nie należy proponować klientce o włosach",
+    "answers": [
+      "delikatnych jasnych.",
+      "nadmiernie wypadających.",
+      "rozjaśnionych farbami utleniającymi.",
+      "farbowanych farbami półtrwałymi."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 58,
+    "text": "Skorygowanie niepożądanego czerwonego refleksu włosów wymaga użycia tonera w kolorze",
+    "answers": [
+      "zielonym.",
+      "żółtym.",
+      "niebieskim.",
+      "fioletowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 59,
+    "text": "Do pielęgnacji włosów w kolorze brązu w celu podkreślenia koloru należy używać preparatu zawierającego w swoim składzie",
+    "answers": [
+      "odwar z rabarbaru.",
+      "napar z tataraku.",
+      "wywar z miodu.",
+      "wyciąg z orzecha."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 60,
+    "text": "Która kolejność nakładania farby na łodygę włosa powinna zostać zastosowana podczas koloryzacji z utleniaczem 9% włosów naturalnych i długich?",
+    "answers": [
+      "Środek, końce, nasada.",
+      "Końce, nasada, środek.",
+      "Nasada, końce, środek.",
+      "Nasada, środek, końce."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 61,
+    "text": "Występujące na skórze głowy krosty przebite włosami są charakterystycznymi zmianami",
+    "answers": [
+      "liszajca.",
+      "grzybicy woszczynowej.",
+      "figówki gronkowcowej skóry.",
+      "ropnego zapalenia mieszków włosowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 62,
+    "text": "Przeciwwskazaniem do wykonania zabiegu koloryzacji włosów jest",
+    "answers": [
+      "mała gęstość i grubość włosów na całym poroście.",
+      "skłonność do występowania reakcji alergicznych.",
+      "siwizna rozproszona na całym poroście włosów.",
+      "łupież suchy rozproszony na skórze głowy i poroście."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 63,
+    "text": "W jaki sposób działają na włosy szampony zawierające w swoim składzie wyciąg z łopianu?",
+    "answers": [
+      "Ułatwiają układanie włosów.",
+      "Rozpulchniają łuski włosowe.",
+      "Nadają odcień włosom.",
+      "Zmniejszają przetłuszczanie się włosów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 64,
+    "text": "Których włosów nie można poddawać trwałemu przekształceniu ich struktury?",
+    "answers": [
+      "Koloryzowanych preparatami metalicznymi.",
+      "Koloryzowanych preparatami półtrwałymi.",
+      "Koloryzowanych preparatami permanentnymi.",
+      "Koloryzowanych preparatami tonującymi."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 65,
+    "text": "Do przygotowania 90 ml preparatu do koloryzacji półtrwałej w proporcjach 1:2 należy odmierzyć",
+    "answers": [
+      "40 ml farby + 50 ml utleniacza.",
+      "30 ml farby + 60 ml utleniacza.",
+      "50 ml farby + 40 ml utleniacza.",
+      "60 ml farby + 30 ml utleniacza."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 66,
+    "text": "Do wykonania koloryzacji rozjaśniającej o 4-5 poziomów kolorystycznych należy użyć utleniacza o stężeniu",
+    "answers": [
+      "5 vol.",
+      "40 vol.",
+      "20 vol.",
+      "10 vol."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 67,
+    "text": "Dla którego rodzaju włosów charakterystyczne są zgrubienia i przewężenia łodyg włosowych oraz chropowata skóra głowy przy ujściu mieszków włosowych?",
+    "answers": [
+      "Skręconych.",
+      "Paciorkowatych.",
+      "Splątanych.",
+      "Obrączkowatych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 68,
+    "text": "Podczas wykonywania strzyżenia męskiego techniką cieniowania nożyczkami nad grzebieniem, powstały nierównomierne przejścia w części potylicznej. W jaki sposób należy skorygować nieoczekiwany efekt strzyżenia?",
+    "answers": [
+      "Przepalcować włosy na całym poroście.",
+      "Skalować końce włosów.",
+      "Przedegażować końce włosów.",
+      "Wycieniować włosy w partii ciemieniowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 69,
+    "text": "Który wyciąg zawarty w szamponie działa na włosy wzmacniająco i hamuje ich wypadanie?",
+    "answers": [
+      "Wyciąg z kory dębu.",
+      "Wyciąg z hibiskusa.",
+      "Wyciąg z rumianku.",
+      "Wyciąg z czarnej rzodkwi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 70,
+    "text": "W celu usunięcia sztucznego barwnika z włosów wcześniej poddawanych zabiegom koloryzacji należy wykonać",
+    "answers": [
+      "pojaśnianie.",
+      "farbowanie rozjaśniające.",
+      "dekoloryzację.",
+      "rozjaśnianie właściwe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 71,
+    "text": "Której deformacji głowy klientki dotyczy opis? Opis deformacji głowy klientki Kość czaszki jest odchylona od tylnej części kości ciemieniowej przez całą długość kości potylicznej aż do karku.",
+    "answers": [
+      "Wybrzuszenia ciemieniowego i zapadłości potylicznej.",
+      "Zapadłości ciemieniowej i wybrzuszenia potylicznego.",
+      "Wybrzuszenia ciemieniowo-potylicznego.",
+      "Wybrzuszenia ciemieniowego i zapadłości śródgłowia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 72,
+    "text": "Zamieszczony opis dotyczy wykonania zabiegu koloryzacji włosów techniką Opis techniki koloryzacji włosów Charakterystyczna koloryzacja dająca efekty kolorystyczne na włosach długich. Koloryzacja włosów na wierzchniej warstwie włosów. Wyreparowane pasma ukośne od krzywizny głowy, a następnie koloryzowane naprzemiennie na co drugie wydzielone pasma.",
+    "answers": [
+      "aury.",
+      "strzały.",
+      "tęczy.",
+      "rombu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 73,
+    "text": "W wyniku częstego nietrwałego prostowania włosów dochodzi do uszkodzeń",
+    "answers": [
+      "chemicznych.",
+      "naturalnych",
+      "mechanicznych.",
+      "genetycznych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 74,
+    "text": "W wyniku rozjaśniania włosów powstał zbyt jaskrawy odcień włosów. W celu skorygowania niepożądanego efektu kolorystycznego należy wykonać zabieg",
+    "answers": [
+      "tonowania komplementarnego.",
+      "koloryzacji rozjaśniającej.",
+      "pigmentacji włosów.",
+      "korodowania włosów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 75,
+    "text": "W celu koloryzacji włosów naturalnych na poziomie kolorystycznym 5/0 na kolor 8/3 należy wykonać",
+    "answers": [
+      "koloryzację trwałą z użyciem 9% utleniacza.",
+      "podkład rozjaśniający z użyciem 3% utleniacza.",
+      "dekoloryzację z użyciem 9% utleniacza.",
+      "mycie rozjaśniające z użyciem 3% utleniacza."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 76,
+    "text": "Na rysunku przedstawiono schematycznie technikę koloryzacji",
+    "answers": [
+      "przedziałkową.",
+      "mostkową.",
+      "łańcuszkową.",
+      "jodełkową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk01/au21_rysunek2.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 77,
+    "text": "Zamieszczony opis dotyczy twarzy klientki o kształcie Opis kształtu twarzy klientki Najwęższą część twarzy stanowi czoło. Kości policzkowe rozszerzają się w kierunku najszerszej części twarzy, którą stanowią żuchwa i szczęka.",
+    "answers": [
+      "koła.",
+      "kwadratu.",
+      "rombu.",
+      "trapezu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 78,
+    "text": "Zamieszczony opis dotyczy profilu twarzy klientki o kształcie Opis proflu twarzy klientki Czoło i broda są lekko wysunięte do przodu, a nos jest cofnięty do wnętrza twarzy.",
+    "answers": [
+      "okrągłym.",
+      "wklęsłym.",
+      "wypukłym.",
+      "ukośnym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 79,
+    "text": "Technikę przedstawioną na rysunku schematycznym należy zastosować podczas koloryzacji włosów",
+    "answers": [
+      "długich i falistych.",
+      "bardzo krótkich i prostych.",
+      "bardzo krótkich i kręconych.",
+      "krótkich i prostych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk01/au21_rysunek3.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 80,
+    "text": "Podczas zabiegu trwałej ondulacji, ponowne połączenie zerwanych mostków dwusiarczkowych wymaga zaaplikowania na włosy preparatu",
+    "answers": [
+      "ochronnego.",
+      "utrwalającego.",
+      "neutralizującego.",
+      "ondulującego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 81,
+    "text": "Przedstawiony opis dotyczy klienta o twarzy w kształcie Opis kształtu twarzy klienta Klient ma podłużną i wąską twarz, płaskie policzki, kanciaste czoło i kości dolnej szczęki.",
+    "answers": [
+      "trapezoidalnym.",
+      "owalnym.",
+      "prostokątnym.",
+      "kwadratowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 82,
+    "text": "Która ilustracja przedstawia odbarwienie będące efektem rozjaśniania włosów techniką ombre?",
+    "answers": [
+      "Ilustracja 2.",
+      "Ilustracja 4.",
+      "Ilustracja 3.",
+      "Ilustracja 1."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_odbarwienia2.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 83,
+    "text": "Preparat pielęgnacyjny zawierający wyciąg z kasztanowca powoduje wzmocnienie",
+    "answers": [
+      "popielatego koloru włosów.",
+      "fioletowego odcienia włosów.",
+      "miedzianego odcienia włosów.",
+      "perłowego koloru włosów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 84,
+    "text": "Do przywrócenia naturalnego pH włosom po zabiegu rozjaśniania należy użyć",
+    "answers": [
+      "odżywki zakwaszającej.",
+      "płukanki nawilżającej.",
+      "odżywki natłuszczającej.",
+      "płukanki tonującej"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 85,
+    "text": "Którą metodę koloryzacji włosów przedstawiono na rysunku instruktażowym?",
+    "answers": [
+      "Globalną.",
+      "Sekcyjną.",
+      "Pasemkową.",
+      "Całościową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_rysunek3.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 86,
+    "text": "Przedstawiony rysunek instruktażowy należy wykorzystać podczas strzyżenia grzywki o kształcie",
+    "answers": [
+      "poziomym.",
+      "wydłużonym z prawej strony twarzy.",
+      "wydłużonym z lewej strony twarzy.",
+      "wklęsłym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_rysunek5.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 87,
+    "text": "W celu optycznego powiększenia drobnej twarzy, należy zaproponować klientce koloryzację włosów na poziomie",
+    "answers": [
+      "bardzo jasnego blondu.",
+      "jasnego brązu.",
+      "czerni.",
+      "średniego brązu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 88,
+    "text": "Uzyskanie maksymalnego wystopniowania włosów wymaga wykonania strzyżenia w stosunku do krzywizny głowy pod kątem",
+    "answers": [
+      "90 stopni.",
+      "0 stopni.",
+      "45 stopni.",
+      "60 stopni."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 89,
+    "text": "Na rysunku przedstawione jest strzyżenie techniką podstawową",
+    "answers": [
+      "degażowania sposobem na pióro.",
+      "konturowania sposobem na pióro.",
+      "efilowania sposobem na tępo.",
+      "palcowania sposobem na tępo."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_strzyzenie3.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 90,
+    "text": "Do czynności etapu wstępnego ondulacji chemicznej należą:",
+    "answers": [
+      "diagnoza włosów, mycie włosów, aplikacja płynu ochronnego.",
+      "diagnoza włosów, założenie peleryny, nawinięcie włosów na wałki.",
+      "założenie peleryny, mycie włosów, aplikacja płynu utrwalającego.",
+      "mycie włosów, nawinięcie włosów na wałki, aplikacja płynu ondulującego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 91,
+    "text": "Który kształt profilu twarzy klienta przedstawiono na rysunku?",
+    "answers": [
+      "Wypukły.",
+      "Regularny.",
+      "Okrągły.",
+      "Wklęsły."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_profil5.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 92,
+    "text": "Do pielęgnacji włosów farbowanych z jednoczesnym wzmocnieniem koloru włosów należy użyć",
+    "answers": [
+      "maski koloryzującej.",
+      "płukanki zakwaszającej.",
+      "farby utleniającej.",
+      "odżywki wzmacniającej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 93,
+    "text": "Ścięty ukośnie pędzelek służy do aplikowania na włosy preparatu podczas rozjaśniania",
+    "answers": [
+      "pasemek z wolnej ręki.",
+      "całego porostu.",
+      "odrostów włosów.",
+      "pasemek na folii aluminiowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 94,
+    "text": "Który poziom kolorystyczny zastosowany podczas koloryzacji włosów długich spowoduje optyczne zmniejszenie objętości fryzury?",
+    "answers": [
+      "3",
+      "10",
+      "5",
+      "8"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 95,
+    "text": "Do wykonania zabiegu pigmentacji włosów należy użyć",
+    "answers": [
+      "farby utleniającej.",
+      "utleniacza.",
+      "rozjaśniacza.",
+      "farby roślinnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 96,
+    "text": "Producent preparatu do koloryzacji zaleca proporcje farby i aktywatora 1:3. Jaką ilość aktywatora należy odmierzyć do przygotowania preparatu do koloryzacji z 30 ml farby?",
+    "answers": [
+      "60 ml",
+      "30 ml",
+      "10 ml",
+      "90 ml"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 97,
+    "text": "Odbarwione, nieestetyczne plamy przy nasadzie włosów po zabiegu rozjaśniania pasemek z użyciem folii aluminiowej są wynikiem",
+    "answers": [
+      "aplikowania mieszaniny rozjaśniającej przy nasadzie pasm włosów.",
+      "wydłużonego czasu działania mieszaniny rozjaśniającej na pasemka włosów.",
+      "użycia wysokiego stężenia oksydantu.",
+      "gęstej konsystencji mieszaniny rozjaśniającej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 98,
+    "text": "Który rodzaj szamponu użyty do wykonania zabiegu pielęgnacyjnego zapewni powstanie na włosach warstwy ochronnej?",
+    "answers": [
+      "Pudrowy.",
+      "Oleisty.",
+      "Leczniczy.",
+      "Oczyszczający."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 99,
+    "text": "Separowanie pasemek włosów pionowo i poziomo jest stosowane podczas zabiegu rozjaśniania wykonywanego techniką",
+    "answers": [
+      "diagonalno-wertykalną.",
+      "diagonalną.",
+      "horyzontalną.",
+      "wertykalno-horyzontalną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 100,
+    "text": "Który typ kolorystyczny urody reprezentuje opisana klientka? Opis klientki Klientka ma bladoróżową cerę w błękitnym odcieniu, oczy niebieskoszare. Włosy są w naturalnym kolorze jasnego popielatego blondu.",
+    "answers": [
+      "Zima.",
+      "Lato.",
+      "Jesień.",
+      "Wiosna."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 101,
+    "text": "Uszkodzenia warstwy korowej włosów usunie zabieg pielęgnacyjny",
+    "answers": [
+      "masażu.",
+      "szczotkowania.",
+      "kondycjonowania.",
+      "regeneracji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 102,
+    "text": "Które aparaty i przybory należy przygotować na stanowisku do wykonania ondulacji fenowej i loczkowania żelazkowego włosów?",
+    "answers": [
+      "Wałki spiralne, falownicę, suszarkę ręczną, klipsy separacyjne.",
+      "Szczotkę płaską, prostownicę, suszarkę hełmową, grzebień szpikulec.",
+      "Wałki okrągłe, lokówkę okrągłą, suszarkę hełmową, siateczkę.",
+      "Szczotkę okrągłą, lokówkę okrągłą, suszarkę ręczną, klipsy sekcyjne."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 103,
+    "text": "Przedstawiony rysunek instruktażowy strzyżenia męskiego należy wykorzystać podczas strzyżenia",
+    "answers": [
+      "jeża karo.",
+      "jeża półokrągłego.",
+      "klasycznego pełnego.",
+      "klasycznego półdługiego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_strzyzenie4.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 104,
+    "text": "Uzyskanie efektu formy spójnej strzyżenia damskiego wymaga zastosowania dystrybucji",
+    "answers": [
+      "przeniesionej.",
+      "naturalnej.",
+      "kierunkowej.",
+      "przesuniętej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 105,
+    "text": "Niepożądany pomarańczowy odcień pasemek po zabiegu ich odbarwiania należy skorygować preparatem o odcieniu",
+    "answers": [
+      "zielonym.",
+      "żółtym.",
+      "czerwonym.",
+      "niebieskim."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 106,
+    "text": "Przekształcenie keratyny alfa w keratynę beta podczas zabiegu ondulacji chemicznej następuje na etapie",
+    "answers": [
+      "wstępnym.",
+      "przygotowawczym.",
+      "końcowym.",
+      "właściwym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 107,
+    "text": "Przedstawiony opis dotyczy zmian na skórze głowy, charakterystycznych dla Opis zmian na skórze głowy Na głowie występują duże, żółte i mocno przylegające do skóry łuski o nieprzyjemnym zapachu.",
+    "answers": [
+      "bielactwa wrodzonego.",
+      "łupieżu suchego.",
+      "bielactwa nabytego.",
+      "łupieżu łojotokowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 108,
+    "text": "Do rozjaśniania ciemnych włosów o 7 poziomów techniką pasemek na czepku kauczukowym, bez użycia dodatkowego źródła ciepła, należy użyć oksydantu o stężeniu",
+    "answers": [
+      "15%",
+      "6%",
+      "3%",
+      "12%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 109,
+    "text": "Przeciwwskazaniem do wykonania zabiegu zagęszczania i przedłużania jest posiadanie przez klientkę włosów",
+    "answers": [
+      "rzadkich, delikatnych, uszkodzonych przy nasadzie.",
+      "normalnych, zdrowych, prostych.",
+      "rzadkich, sztywnych, lekko falistych.",
+      "normalnych, gęstych, silnie skręconych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 110,
+    "text": "Strzyżenie damskie do formy spójnej należy wykonać techniką",
+    "answers": [
+      "cieniowania maszynką elektryczną.",
+      "palcowania po wewnętrznej stronie dłoni.",
+      "cieniowania nożyczkami klasycznymi.",
+      "palcowania po zewnętrznej stronie dłoni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 111,
+    "text": "Podczas zabiegu chemicznego prostowania włosów nie należy używać rękawiczek ochronnych wykonanych",
+    "answers": [
+      "z silikonu.",
+      "z bawełny.",
+      "z winylu.",
+      "z lateksu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 112,
+    "text": "Mała puszystość, nadmierna połyskliwość i zlepianie się ze sobą, to cechy charakterystyczne",
+    "answers": [
+      "włosów uszkodzonych.",
+      "skóry z niedoczynnością łojotokową.",
+      "włosów normalnych.",
+      "skóry z nadczynnością łojotokową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 113,
+    "text": "Do pielęgnacji włosów po zabiegu koloryzacji należy zastosować odżywkę o działaniu",
+    "answers": [
+      "zakwaszającym.",
+      "alkalizującym.",
+      "odtłuszczającym.",
+      "rozpulchniającym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 114,
+    "text": "Trwałego prostowania nie należy wykonywać w przypadku włosów po wykonanym zabiegu",
+    "answers": [
+      "prostowania żelazkowego.",
+      "ondulowania termicznego.",
+      "prostowania wodnego.",
+      "ondulowania chemicznego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 115,
+    "text": "Klientce o kolorystycznym typie urody zima nie należy proponować koloryzacji włosów w tonacji",
+    "answers": [
+      "ciemnego brązu.",
+      "jasnego złota.",
+      "ciemnego fioletu.",
+      "jasnego popielu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 116,
+    "text": "W celu zabezpieczenia włosów przed szkodliwym działaniem żelazka fryzjerskiego należy bezpośrednio przed ondulowaniem aplikować na włosy preparat",
+    "answers": [
+      "rozpulchniający.",
+      "odtłuszczający.",
+      "natłuszczający.",
+      "neutralizujący."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 117,
+    "text": "Przerzedzenie na różnych wysokościach skręconego pasma włosów nożyczkami klasycznymi wymaga zastosowania techniki",
+    "answers": [
+      "ślizgu.",
+      "punktowania.",
+      "skalowania.",
+      "degażowania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 118,
+    "text": "Podczas wykonywania ondulacji chemicznej, w celu rozerwania mostków siarczkowych należy użyć preparatu",
+    "answers": [
+      "ondulującego.",
+      "neutralizującego.",
+      "ochronnego.",
+      "utrwalającego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 119,
+    "text": "Zmniejszenie objętości grubych i gęstych włosów klientki poprzez wykonanie zabiegu strzyżenia wymaga przygotowania zestawu narzędzi zawierającego",
+    "answers": [
+      "grzebień szpikulec, nożyczki klasyczne, nóż chiński.",
+      "grzebień wygięty, nożyczki degażówki, nóż chiński.",
+      "grzebień do strzyżenia, poziomicę, nożyczki punktujące.",
+      "grzebień do strzyżenia, nożyczki klasyczne, temperę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 120,
+    "text": "Podczas zabiegu rozjaśniania właściwego następuje we włosach",
+    "answers": [
+      "przekształcenie struktury keratynowej.",
+      "osadzenie barwnika sztucznego.",
+      "utlenianie barwnika naturalnego.",
+      "rozerwanie wiązań siarczkowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 121,
+    "text": "Klientka ma włosy lśniące z nienaturalnym połyskiem, które myje do sześciu razy w tygodniu. W karcie diagnozy stanu skóry głowy należy zapisać, że skóra klientki jest",
+    "answers": [
+      "sucha.",
+      "łuszcząca się.",
+      "z oznakami łupieżu.",
+      "z oznakami łojotoku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 122,
+    "text": "Intensywnej pielęgnacji z użyciem maski regeneracyjnej wymagają włosy",
+    "answers": [
+      "lśniące.",
+      "połyskliwe.",
+      "gładkie.",
+      "szorstkie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 123,
+    "text": "Przedstawiony rysunek schematyczny strzyżenia męskiego należy wykorzystać podczas strzyżenia",
+    "answers": [
+      "jeża półokrągłego.",
+      "klasycznego półdługiego.",
+      "klasycznego pełnego.",
+      "jeża karo."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_rysunek4.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 124,
+    "text": "Na którym rysunku przedstawiony jest podział porostu na separacje pionowe?",
+    "answers": [
+      "Na rysunku 2.",
+      "Na rysunku 1.",
+      "Na rysunku 4.",
+      "Na rysunku 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_separacje3.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 125,
+    "text": "Wykonane zgodnie z zamieszczonym opisem strzyżenie damskie włosów przyjmuje formę Opis strzyżenia damskiego włosów Strzyżenie jest wykonane z zastosowaniem projekcji 0°, linia bazowa na tym samym poziomie. Efektem strzyżenia jest przyrastająca długość włosów od karku do wierzchołka głowy, która tworzy formę prostokąta.",
+    "answers": [
+      "spójną.",
+      "jednolitą warstwowo.",
+      "przyrastającą warstwowo.",
+      "stopniowaną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 126,
+    "text": "Przyczyną nadmiernego rozjaśnienia włosów jest",
+    "answers": [
+      "niedostateczne pokrycie pasm mieszaniną.",
+      "użycie mocnego stężenia oksydantu.",
+      "użycie słabego stężenia oksydantu.",
+      "nałożenie zbyt dużej ilości mieszaniny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 127,
+    "text": "Zabieg dekoloryzacji polega na",
+    "answers": [
+      "zmianie odcienia włosów siwych.",
+      "zmianie koloru włosów szpakowatych.",
+      "usunięciu z włosów barwnika naturalnego.",
+      "usunięciu z włosów barwnika wcześniej wprowadzonego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 128,
+    "text": "Techniką uzupełniającą strzyżenia, polegającą na skręcaniu pasm włosów i nacinaniu ich nożycami, jest",
+    "answers": [
+      "skalowanie.",
+      "palcowanie.",
+      "degażowanie.",
+      "cieniowanie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 129,
+    "text": "Prowadzenie rozmowy konsultacyjnej z klientem przed zabiegiem strzyżenia ma na celu ustalenie",
+    "answers": [
+      "rodzaju włosów.",
+      "kształtu i rysów twarzy.",
+      "sekcji i separacji włosów.",
+      "upodobań i oczekiwań klienta."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 130,
+    "text": "W którym etapie strzyżenia wykonuje się czynność mycia włosów?",
+    "answers": [
+      "Wstępnym.",
+      "Końcowym.",
+      "Wykonywania.",
+      "Personalizacji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 131,
+    "text": "W celu uzyskania wzmocnienia intensywności odcienia włosów farbowanych, do pielęgnacji należy użyć",
+    "answers": [
+      "maski koloryzującej.",
+      "odżywki keratynowej.",
+      "odżywki neutralizującej.",
+      "płukanki komplementarnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 132,
+    "text": "Klientce z zaburzeniami kierunku wzrostu włosów na całym poroście nie należy proponować fryzury",
+    "answers": [
+      "krótkiej z symetryczną krótką grzywką.",
+      "o mieszanej fakturze z symetryczną długą grzywką.",
+      "asymetrycznej ze zróżnicowaną grzywką.",
+      "o reliefowej fakturze z asymetryczną grzywką."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 133,
+    "text": "Do farbowania rozjaśniającego o 2-3 poziomy od wyjściowego koloru włosów, zgodnie z przeznaczeniem technologicznym należy użyć oksydantu",
+    "answers": [
+      "9%",
+      "4%",
+      "6%",
+      "3%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 134,
+    "text": "Technikę szydełkową należy zastosować podczas koloryzacji",
+    "answers": [
+      "panelowej na poroście.",
+      "całościowej na poroście.",
+      "pasemek na czepku foliowym.",
+      "pasemek na folii aluminiowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 135,
+    "text": "Kremu do chemicznego prostowania włosów należy użyć zgodnie z technologią do zmiany struktury włosów",
+    "answers": [
+      "naturalnie kręconych.",
+      "meszkowych.",
+      "kręconych po zabiegu trwałej ondulacji.",
+      "szczeciniastych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 136,
+    "text": "Do mycia włosów metodą na mokro przed zabiegiem strzyżenia należy zastosować szampon",
+    "answers": [
+      "pudrowy.",
+      "oleisty.",
+      "aerozolowy.",
+      "detergentowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 137,
+    "text": "Diagnoza organoleptyczna we fryzjerstwie polega na zastosowaniu",
+    "answers": [
+      "trichogramu.",
+      "zmysłów powonienia i smaku.",
+      "mikrokamery.",
+      "zmysłów dotyku i wzroku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 138,
+    "text": "Niedostateczne pokrycie siwych włosów podczas zabiegu koloryzacji należy skorygować poprzez wykonanie",
+    "answers": [
+      "demakijażu.",
+      "pojaśnienia włosów.",
+      "ponownej koloryzacji.",
+      "farbowania rozjaśniającego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 139,
+    "text": "Celem stosowania zabiegów regulujących procesy fizjologiczne na skórze głowy jest",
+    "answers": [
+      "zmiana kształtu włosów.",
+      "opóźnienie wzrostu włosów.",
+      "przyspieszenie wzrostu włosów.",
+      "odbudowa zewnętrznej warstwy włosa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 140,
+    "text": "W celu zabezpieczenia włosów przed szkodliwym działaniem promieni UV należy wykonać zabieg",
+    "answers": [
+      "kondycjonujący.",
+      "regenerujący.",
+      "nawilżający.",
+      "ochronny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 141,
+    "text": "Który z kątów należy zastosować podczas ondulacji fenowej, aby uzyskać maksymalne odbicie włosów od nasady?",
+    "answers": [
+      "120°",
+      "60°",
+      "30°",
+      "90°"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 142,
+    "text": "Do regeneracji włosów zniszczonych w kolorze ciemnego brązu należy użyć preparatów, które zawierają w swoim składzie wyciąg",
+    "answers": [
+      "z łopianu.",
+      "z kory dębu.",
+      "z aloesu.",
+      "z chmielu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 143,
+    "text": "Fryzura, która poszerza głowę i twarz w obrębie linii żuchwy ma kształt",
+    "answers": [
+      "koła.",
+      "owalu.",
+      "trapezu.",
+      "prostokąta."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 144,
+    "text": "W celu uzyskania fryzury o jednakowej długości włosów na całej głowie, należy podczas strzyżenia zastosować kąt projekcji 90° i dystrybucję",
+    "answers": [
+      "naturalną.",
+      "przesuniętą.",
+      "kierunkową.",
+      "prostopadłą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 145,
+    "text": "Do zabiegu regeneracji włosów przesuszonych, na stanowisku fryzjerskim należy przygotować między innymi:",
+    "answers": [
+      "czepek kauczukowy, płukankę, szampon zakwaszający, suszarkę hełmową.",
+      "szczotkę okrągłą, odżywkę, szampon natłuszczający, saunę fryzjerską.",
+      "szczotkę płaską, olejek, szampon uniwersalny, suszarkę ręczną.",
+      "maskę, szampon nawilżający, saunę fryzjerską."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 146,
+    "text": "Wykonując zabieg chemicznego prostowania włosów, krem prostujący należy aplikować od linii",
+    "answers": [
+      "czoła.",
+      "ucha.",
+      "karku.",
+      "skroni."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 147,
+    "text": "Kok dzienny charakteryzuje się",
+    "answers": [
+      "prostą konstrukcją i fantazyjną formą.",
+      "różnorodną konstrukcją, od prostej do bardzo skomplikowanej.",
+      "trwałą konstrukcją, posiadającą dekoracje i kontrasty.",
+      "prostą konstrukcją i klasyczną formą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 148,
+    "text": "W którym etapie zabiegu trwałej ondulacji przeprowadzana jest kontrola uzyskanego skrętu włosów?",
+    "answers": [
+      "Końcowym.",
+      "Wstępnym.",
+      "Właściwym.",
+      "Przygotowawczym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 149,
+    "text": "Który rodzaj włosów może zostać poddany zabiegowi ondulacji chemicznej alkalicznej o pH 9,8?",
+    "answers": [
+      "Rozjaśniane.",
+      "Porowate.",
+      "Siwe.",
+      "Farbowane."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 150,
+    "text": "Który rysunek przedstawia szczotkę do pielęgnacji włosów przedłużanych?",
+    "answers": [
+      "Rysunek 4.",
+      "Rysunek 1.",
+      "Rysunek 2.",
+      "Rysunek 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_szczotki.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 151,
+    "text": "Zabiegu przedłużania i zagęszczania włosów nie należy wykonywać na włosach",
+    "answers": [
+      "farbowanych farbą utleniającą.",
+      "z załamaniami na końcówkach.",
+      "z załamaniami przy nasadzie.",
+      "farbowanych farbą trwałą."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 152,
+    "text": "Fryzurę męską na jeża wykonuje się podczas strzyżenia",
+    "answers": [
+      "klasycznego.",
+      "specjalnego.",
+      "awangardowego.",
+      "kreatywnego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 153,
+    "text": "Plisowanie włosów polega na",
+    "answers": [
+      "nawijaniu pasm na wałki.",
+      "loczkowaniu włosów.",
+      "modelowaniu włosów.",
+      "wyciskaniu fal palcami."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 154,
+    "text": "Wykonanie rozjaśniania na włosach krótkich, tapirowanych, w celu wyeksponowania końcówek, wymaga zastosowania techniki",
+    "answers": [
+      "szydełkowej.",
+      "lukrowania.",
+      "jodełkowej.",
+      "rombu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 155,
+    "text": "U klientki ze zniszczonymi włosami po zabiegach chemicznych, która oczekuje jednoczesnego skrócenia i pielęgnacji uszkodzonych włosów, należy zastosować strzyżenie nożyczkami",
+    "answers": [
+      "punktującymi.",
+      "ślizgowymi.",
+      "termicznymi.",
+      "klasycznymi."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 156,
+    "text": "Zabiegu chemicznego prostowania nie należy wykonywać na włosach",
+    "answers": [
+      "farbowanych farbą trwałą.",
+      "pojaśnionych słońcem.",
+      "mocno rozjaśnionych.",
+      "farbowanych farbą półtrwałą."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 157,
+    "text": "Podczas zabiegu chemicznego prostowania włosów, test węzełkowy wykonuje się w celu kontroli",
+    "answers": [
+      "stopnia odkształcenia włosów.",
+      "sposobu wykonania chemicznego prostowania.",
+      "działania preparatu wyrównującego strukturę włosów.",
+      "równomierności pokrycia włosów preparatem do chemicznego prostowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 158,
+    "text": "Szampon w pudrze po zaaplikowaniu na włosy powoduje",
+    "answers": [
+      "regulację funkcji wydzielniczych skóry.",
+      "stymulację mieszków włosowych.",
+      "częściowe usunięcie zanieczyszczeń z włosów.",
+      "całkowite usunięcie zanieczyszczeń ze skóry głowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 159,
+    "text": "Do sporządzenia mieszaniny koloryzującej w proporcjach 1:2 należy użyć",
+    "answers": [
+      "15 ml farby + 20 ml oksydantu",
+      "10 ml farby + 20 ml oksydantu",
+      "20 ml farby + 10 ml oksydantu",
+      "10 ml farby + 10 ml oksydantu"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 160,
+    "text": "Który kolor włosów należy zaproponować klientce, w celu podkreślenia jej kolorystycznego typu urody jesień?",
+    "answers": [
+      "Czarno - granatowy.",
+      "Platynowy blond.",
+      "Popielaty brąz.",
+      "Miedziano - brązowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 161,
+    "text": "Jeżeli do wykonania zabiegu koloryzacji globalnej należy zastosować utleniacz o stężeniu 6%, to do przygotowania mieszaniny koloryzującej należy użyć preparatu oznaczonego na opakowaniu",
+    "answers": [
+      "20 vol.",
+      "10 vol.",
+      "40 vol.",
+      "30 vol."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 162,
+    "text": "Na rysunku przedstawione jest strzyżenie włosów w projekcji",
+    "answers": [
+      "0 stopni.",
+      "90 stopni.",
+      "30 stopni.",
+      "60 stopni."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_strzyzenie8.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 163,
+    "text": "Którą technikę należy zastosować do nawijania włosów na wałki, w celu uzyskania równomiernego skrętu włosów długich o zróżnicowanej strukturze?",
+    "answers": [
+      "Diagonalną.",
+      "Cegiełkową.",
+      "Klasyczną.",
+      "Bliźniaczą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 164,
+    "text": "W trakcie zabiegu ondulacji chemicznej, bezpośrednio po wypłukaniu płynu utrwalającego, należy do pielęgnacji włosów użyć",
+    "answers": [
+      "szamponu oczyszczającego.",
+      "balsamu nawilżającego.",
+      "odżywki neutralizującej.",
+      "szamponu dwufunkcyjnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 165,
+    "text": "Podstawowy zabieg pielęgnacyjny, wykonywany w warunkach domowych dla uelastycznienia i natłuszczenia włosów, polega na ich",
+    "answers": [
+      "strzyżeniu.",
+      "farbowaniu.",
+      "szczotkowaniu.",
+      "układaniu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 166,
+    "text": "Klientka z mocno wysuniętą częścią środkową twarzy oraz cofniętym czołem i brodą ma twarz o profilu",
+    "answers": [
+      "wypukłym.",
+      "ukośnym.",
+      "okrągłym.",
+      "wklęsłym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 167,
+    "text": "Paletki fryzjerskiej należy zgodnie z przeznaczeniem użyć podczas wykonania zabiegu",
+    "answers": [
+      "prostowania termicznego.",
+      "strzyżenia formy jeża.",
+      "koloryzacji pasemek.",
+      "ondulowania trwałego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 168,
+    "text": "Poprawę stanu skóry głowy z nadczynnością łojotokową wspomaga wykonanie zabiegu przy zastosowaniu",
+    "answers": [
+      "mezoterapii.",
+      "darsonwalizacji.",
+      "epilacji.",
+      "mikrodermabrazji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 169,
+    "text": "W celu wykonania strzyżenia przedstawionego na rysunku, w partii potylicznej należy separować włosy",
+    "answers": [
+      "poziomo.",
+      "ukośnie do tyłu.",
+      "pionowo.",
+      "ukośnie do przodu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_strzyzenie7.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 170,
+    "text": "Klientce o kolorystycznym typie urody lato należy polecić koloryzację w odcieniach",
+    "answers": [
+      "intensywnych rudości.",
+      "złoto-rudych.",
+      "chłodnych pastelowych.",
+      "ciepłych pastelowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 171,
+    "text": "W celu uzyskania skrętu na włosach siwych należy zastosować preparat do ondulacji o pH",
+    "answers": [
+      "3,8",
+      "5,2",
+      "8,2",
+      "6,8"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 172,
+    "text": "Wskaż rysunek przedstawiający podział włosów, który należy zastosować zgodnie z technologią do strzyżenia w formie kwadratu bez grzywki.",
+    "answers": [
+      "Rysunek 2.",
+      "Rysunek 4.",
+      "Rysunek 1.",
+      "Rysunek 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_rysunki5.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 173,
+    "text": "W jaki sposób działają na skórę głowy preparaty pielęgnacyjne zawierające wyciąg z pokrzywy?",
+    "answers": [
+      "Zwiększają rozwój grzybów.",
+      "Wzmacniają płaszcz lipidowy.",
+      "Ograniczają przetłuszczanie.",
+      "Regulują nadmierną potliwość."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 174,
+    "text": "Strzyżenie damskie long bob należy wykonać techniką",
+    "answers": [
+      "cieniowania maszynką na grzebieniu.",
+      "efilowania brzytwą na grzebieniu.",
+      "dredowania nożycami modelującymi.",
+      "palcowania nożyczkami klasycznymi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 175,
+    "text": "Klientkę będącą reprezentantką typu kolorystycznego jesień cechują:",
+    "answers": [
+      "jasne włosy w zimnym odcieniu kolorystycznym, niebieskie oczy, śniada cera.",
+      "ciemne włosy w zimnym odcieniu kolorystycznym, szare oczy, jasna cera.",
+      "jasne włosy w ciepłym odcieniu kolorystycznym, czarne oczy, śniada cera.",
+      "ciemne włosy w ciepłym odcieniu kolorystycznym, zielone oczy, jasna cera."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 176,
+    "text": "Klientka ma wąskie czoło i podbródek. Jej twarz jest najszersza na wysokości kości policzkowych. Który kształt twarzy ma klientka?",
+    "answers": [
+      "Trójkątny.",
+      "Owalny.",
+      "Trapezoidalny.",
+      "Romboidalny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 177,
+    "text": "Zgrubienie łodygi włosa powodujące pędzelkowate złamanie końcówki jest cechą charakterystyczną włosów",
+    "answers": [
+      "paciorkowatych.",
+      "obrączkowatych.",
+      "węzłowatych.",
+      "skręconych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 178,
+    "text": "Konturowania w strzyżeniu męskim nie należy wykonywać",
+    "answers": [
+      "degażówkami jednostronnymi.",
+      "nożyczkami klasycznymi.",
+      "trymerem.",
+      "maszynką."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 179,
+    "text": "Wskaż kolejność zmian zachodzących w strukturze włosów podczas zabiegu rozjaśniania.",
+    "answers": [
+      "Oksydacja wiązań jonowych, a następnie rozproszenie melanin.",
+      "Oksydacja melanin, a następnie ich rozproszenie.",
+      "Rozproszenie melanin, a następnie ich oksydacja.",
+      "Rozproszenie wiązań wodorowych, a następnie oksydacja melanin."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 180,
+    "text": "Do mycia włosów uwrażliwionych należy użyć szamponu zawierającego w swoim składzie",
+    "answers": [
+      "siarkę.",
+      "cynk.",
+      "krzem.",
+      "lanolinę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 181,
+    "text": "Zabiegu przedłużania i zagęszczania włosów nie należy wykonywać, gdy",
+    "answers": [
+      "włosy farbowane są preparatami roślinnymi.",
+      "końcówki włosów są rozdwojone.",
+      "długość porostu wynosi około 3 cm.",
+      "na łodydze występują zmiany kolorystyczne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 182,
+    "text": "Zgodnie z instrukcją farbę należy przygotować w proporcjach 1:1,5. Wskaż proporcje niezbędne do przygotowania 60 g mieszaniny koloryzującej.",
+    "answers": [
+      "36 g farby + 24 g oksydantu",
+      "25 g farby + 35 g oksydantu",
+      "35 g farby + 32 g oksydantu",
+      "24 g farby + 36 g oksydantu"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 183,
+    "text": "W wyniku wykonania zabiegu plisowania włosów palcami uzyskano zbyt delikatny zarys fal. W celu poprawy efektu falowania włosów należy wykonać",
+    "answers": [
+      "loczkowanie prawo i lewoskrętne włosów.",
+      "modelowanie włosów szczotką okrągłą.",
+      "karbowanie żelazkowe włosów.",
+      "nawijanie włosów na wałki spiralne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 184,
+    "text": "W celu uzyskania maksymalnego odbicia włosów od nasady należy pasma włosów nawijać pod kątem",
+    "answers": [
+      "30 stopni.",
+      "120 stopni.",
+      "60 stopni.",
+      "90 stopni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 185,
+    "text": "Przed zabiegiem ondulacji trwałej włosów porowatych należy ich strukturę zabezpieczyć preparatem",
+    "answers": [
+      "rozchylającym.",
+      "oblepiającym.",
+      "nawilżającym.",
+      "wyrównującym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 186,
+    "text": "Do mycia włosów silnie rozjaśnionych należy użyć szamponu",
+    "answers": [
+      "z krzemem i pigmentami pośrednimi.",
+      "z lanoliną i pigmentami bezpośrednimi.",
+      "z siarką i pigmentami bezpośrednimi.",
+      "z cynkiem i pigmentami pośrednimi."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 187,
+    "text": "Podczas strzyżenia włosów długich, zmniejszenie objętości pasm włosów na całej ich długości wymaga zastosowania techniki uzupełniającej",
+    "answers": [
+      "ząbkowania.",
+      "cieniowania.",
+      "palcowania.",
+      "ślizgu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 188,
+    "text": "Do wykonania zabiegu koloryzacji półtrwałej należy użyć utleniacza o maksymalnym stężeniu",
+    "answers": [
+      "12%",
+      "6%",
+      "3%",
+      "9%"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 189,
+    "text": "Podczas procesu ondulacji wodnej rozerwaniu ulegają mostki",
+    "answers": [
+      "siarkowe.",
+      "solne.",
+      "wodorowe.",
+      "niejonowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 190,
+    "text": "Lukrowanie włosów jest techniką rozjaśniania, polegającą na",
+    "answers": [
+      "aplikowaniu rozjaśniacza na pasma włosów na paskach folii przezroczystej.",
+      "aplikowaniu rozjaśniacza na pasma włosów zgodnie z kierunkiem opadania włosów.",
+      "tapirowaniu włosów i aplikowaniu rozjaśniacza na nasadę włosów.",
+      "tapirowaniu włosów i aplikowaniu rozjaśniacza na końcówki włosów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 191,
+    "text": "W celu uzyskania skrętu na włosach należy do ondulacji chemicznej użyć preparatu ondulującego z zawartością kwasu tioglikolowego, który w preparacie ondulującym pełni rolę",
+    "answers": [
+      "oksydantu.",
+      "katalizatora.",
+      "reduktora.",
+      "koenzymu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 192,
+    "text": "Zgodnie z instrukcją producenta, wzmocnienie odcienia koloru wymaga połączenia farby w wybranym kolorze z korektorem w ilości 25% objętości wybranej farby. Jaką objętość korektora koloru należy odmierzyć do wzmocnienia odcienia 60 ml wybranej farby?",
+    "answers": [
+      "30 ml",
+      "10 ml",
+      "15 ml",
+      "25 ml"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 193,
+    "text": "Do zamieszczonego na rysunku strzyżenia męskiego należy zastosować",
+    "answers": [
+      "nożyczki modelujące.",
+      "nożyczki efilacyjne.",
+      "grzebień szpikulec.",
+      "grzebień poziomicę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_strzyzenie6.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 194,
+    "text": "W celu wykonania zabiegu mycia i regeneracji włosów, na stanowisku do mycia należy przygotować:",
+    "answers": [
+      "pelerynkę, odżywkę pielęgnacyjną, szampon koloryzujący, grzebień wąski.",
+      "pelerynkę, płukankę tonującą, szampon koloryzujący, grzebień szpikulec.",
+      "ręczniki, maskę pielęgnacyjną, szampon do włosów, grzebień szeroki.",
+      "ręczniki, płukankę pielęgnacyjną, szampon do włosów, grzebień z rączką."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 195,
+    "text": "Grzebienia z szeroko rozstawionymi zębami należy użyć podczas zabiegu",
+    "answers": [
+      "karbowania.",
+      "wyczesywania.",
+      "plisowania.",
+      "rozczesywania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 196,
+    "text": "Efektem stosowania do pielęgnacji włosów preparatów z zawartością indygo jest",
+    "answers": [
+      "wzmocnienie miedzianego odcienia włosów.",
+      "tonowanie czerwonego odcienia włosów.",
+      "wzmocnienie czarnego odcienia włosów.",
+      "tonowanie niebieskiego odcienia włosów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 197,
+    "text": "Technikę mycia włosów od nasady należy zastosować na włosach",
+    "answers": [
+      "o suchej nasadzie i przetłuszczonych końcach.",
+      "o suchej nasadzie i suchych końcach.",
+      "o przetłuszczonej nasadzie i suchych końcach.",
+      "o przetłuszczonej nasadzie i przetłuszczonych końcach."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 198,
+    "text": "Zgodnie z technologią wykonania zabiegu karbowania włosów, należy zabezpieczyć włosy",
+    "answers": [
+      "preparatem nabyszczającym.",
+      "pianką nawilżającą.",
+      "preparatem termoochronnym.",
+      "pianką usztywniającą."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 199,
+    "text": "W celu uzyskania fryzury o kompozycji dynamicznej z włosów krótkich, należy do stylizacji fryzury zastosować",
+    "answers": [
+      "gumę.",
+      "wosk.",
+      "piankę.",
+      "nabłyszczacz."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 200,
+    "text": "Powstały podczas koloryzacji zbyt czerwony kolor włosów należy skorygować odcieniem",
+    "answers": [
+      "złotym.",
+      "zielonym.",
+      "niebieskim.",
+      "czerwonym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 201,
+    "text": "Klientka ma włosy w kolorze miedzianego blondu, jasną karnację i liczne piegi na policzkach, czole i nosie. Który typ kolorystyczny urody reprezentuje klientka?",
+    "answers": [
+      "Lata.",
+      "Wiosny.",
+      "Zimy.",
+      "Jesieni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 202,
+    "text": "Podczas strzyżenia, efektem wyczesywania w sekcji grzywki ukośnych separacji włosów w kierunku lewego łuku brwiowego jest grzywka o kształcie",
+    "answers": [
+      "wypukłym.",
+      "wydłużonym z prawej strony twarzy.",
+      "prostym.",
+      "wydłużonym z lewej strony twarzy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 203,
+    "text": "Podczas wykonywania zabiegu ondulacji chemicznej alkalicznej, do zmiany struktury włosów opornych na skręcanie należy użyć preparatu o pH",
+    "answers": [
+      "mocno kwaśnym.",
+      "lekko kwaśnym.",
+      "neutralnym.",
+      "zasadowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 204,
+    "text": "Którą deformację głowy klientki przedstawiono na rysunku schematycznym kolorem czerwonym?",
+    "answers": [
+      "Spłaszczenie wierzchołka głowy.",
+      "Zapadłość ciemieniową.",
+      "Wybrzuszenie wierzchołka głowy.",
+      "Zapadłość czołową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_deformacja6.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 205,
+    "text": "Zgodnie z instrukcją preparatu do koloryzacji włosów, należy farbę z oksydantem połączyć w proporcji 1:2. Przygotowanie 120 ml mieszaniny do koloryzacji wymaga połączenia",
+    "answers": [
+      "30 ml farby i 90 ml utleniacza.",
+      "20 ml farby i 100 ml utleniacza.",
+      "40 ml farby i 80 ml utleniacza.",
+      "60 ml farby i 60 ml utleniacza."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 206,
+    "text": "Klientce o kolorystycznym typie urody lato należy zaproponować kolorystykę włosów w tonacji",
+    "answers": [
+      "popielaty jasny brąz.",
+      "kasztanowy ciemny brąz.",
+      "mahoniowy jasny brąz.",
+      "miedziany ciemny blond."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 207,
+    "text": "Organoleptyczną ocenę stanu włosów i skóry głowy klienta należy przeprowadzić na włosach",
+    "answers": [
+      "umytych i wysuszonych.",
+      "umytych i mokrych.",
+      "brudnych i zwilżonych.",
+      "brudnych i suchych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 208,
+    "text": "W wyniku rozjaśnia włosów uzyskano niedostateczny poziom rozjaśnienia odrostów. W celu skorygowania niepożądanego efektu, należy",
+    "answers": [
+      "przyciemnić włosy na całej długości.",
+      "rozjaśnić włosy na całej długości.",
+      "rozjaśnić włosy przy nasadzie.",
+      "przyciemnić włosy w części środkowej i na końcach."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 209,
+    "text": "Rękawiczki ochronne wykonane z którego materiału nie mogą być stosowane podczas zabiegu chemicznego prostowania włosów?",
+    "answers": [
+      "Z silikonu.",
+      "Z poliuretanu.",
+      "Z bawełny.",
+      "Z winylu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 210,
+    "text": "Przedstawiony opis dotyczy twarzy klienta o kształcie Opis kształtu twarzy klienta Klient ma szeroką i krótką twarz. Jego policzki są płaskie, czoło niskie, kości dolnej szczęki są kanciaste.",
+    "answers": [
+      "prostokątnym.",
+      "owalnym.",
+      "kwadratowym.",
+      "trapezoidalnym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 211,
+    "text": "W celu wykonania strzyżenia oraz zmniejszenia objętości grubych i gęstych włosów klientki, należy do wykonania zabiegu przygotować zestaw narzędzi:",
+    "answers": [
+      "grzebień płaski, nożyczki klasyczne, temperę.",
+      "grzebień typu widelec, nożyczki punktujące, pazury fryzjerskie.",
+      "grzebień wygięty, nożyczki degażówki, nóż chiński.",
+      "grzebień szpikulec, nożyczki termiczne, pen razor."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 212,
+    "text": "Do pielęgnacji włosów koloryzowanych nie należy proponować klientce używania roztworu kwasu",
+    "answers": [
+      "cytrynowego.",
+      "winowego.",
+      "tioglikolowego.",
+      "octowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 213,
+    "text": "W celu zlikwidowania uszkodzeń warstwy korowej włosów i ubytków w osłonce włosa, należy przeprowadzić zabieg pielęgnacji metodą",
+    "answers": [
+      "szczotkowania.",
+      "masażu.",
+      "regeneracji.",
+      "kondycjonowania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 214,
+    "text": "Uzyskanie prostej linii strzyżenia bez stopniowania porostu włosów wymaga wykonania strzyżenia pod kątem",
+    "answers": [
+      "0 stopni.",
+      "45 stopni.",
+      "60 stopni.",
+      "90 stopni."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 215,
+    "text": "W celu usunięcia sztucznego barwnika z włosów wcześniej poddawanych zabiegom koloryzacji, należy wykonać",
+    "answers": [
+      "farbowanie rozjaśniające.",
+      "dekoloryzację.",
+      "pojaśnianie.",
+      "rozjaśnianie właściwe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 216,
+    "text": "Do zabiegu strzyżenia z jednoczesnym stapianiem końcówek włosów, należy przygotować nożyczki",
+    "answers": [
+      "modelujące.",
+      "efilacyjne.",
+      "ergonomiczne.",
+      "termiczne."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 217,
+    "text": "Rysunek przedstawia technikę stosowaną podczas koloryzacji",
+    "answers": [
+      "globalnej.",
+      "panelowej.",
+      "sekcyjnej.",
+      "pasemek."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_technika8.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 218,
+    "text": "Przedstawionego na ilustracji grzebienia należy użyć do aplikowania na włosy preparatu podczas wykonywania zabiegu",
+    "answers": [
+      "balejażu panelowego w formie rombu na szczycie głowy.",
+      "balejażu rozświetlającego fryzurę na szczycie głowy.",
+      "rozjaśniania globalnego odrostów włosów.",
+      "przyciemniania globalnego odrostów włosów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_grzebien.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 219,
+    "text": "W celu pojaśnienia tylko końcówek włosów krótkich, należy zastosować technikę",
+    "answers": [
+      "szydełkowania.",
+      "tricolor.",
+      "repigmentacji.",
+      "lukrowania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 220,
+    "text": "Strzyżenie włosów damskich bezpośrednio po ich umyciu nożyczkami klasycznymi i maszynką do strzyżenia, wymaga zastosowania metod strzyżenia",
+    "answers": [
+      "na mokro i na gorąco.",
+      "na sucho i na zimno.",
+      "na sucho i na gorąco.",
+      "na mokro i na zimno."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 221,
+    "text": "Do pielęgnacji włosów koloryzowanych w tonacji złotego blondu, w celu poprawy jakości koloru należy użyć preparatu zawierającego ekstrakt",
+    "answers": [
+      "z szałwii.",
+      "z rumianku.",
+      "z indygo.",
+      "z pokrzywy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 222,
+    "text": "W celu uzyskania na włosach warstwy ochronnej, należy do wykonania zabiegu pielęgnacyjnego użyć szamponu",
+    "answers": [
+      "oczyszczającego.",
+      "oleistego.",
+      "pudrowego.",
+      "detergentowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 223,
+    "text": "W celu przygotowania do rozjaśniania włosów, które są sztywne, szkliste i oporne na działanie preparatów chemicznych, należy jako zabieg wstępny wykonać",
+    "answers": [
+      "repigmentację.",
+      "tonowanie.",
+      "korodowanie.",
+      "prekoloryzację."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 224,
+    "text": "Do rozjaśniania włosów w ciemnym kolorze o 1-3 poziomów, techniką pasemek na czepku kauczukowym, bez użycia dodatkowego źródła ciepła, należy użyć oksydantu o stężeniu",
+    "answers": [
+      "6%",
+      "12%",
+      "3%",
+      "15%"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 225,
+    "text": "Przedstawiony opis dotyczy zmian na skórze głowy, charakterystycznych dla Opis zmian na skórze głowy Na skórze głowy występują duże, żółte i mocno przylegające do naskórka łuski o nieprzyjemnym zapachu.",
+    "answers": [
+      "bielactwa nabytego.",
+      "łupieżu łojotokowego.",
+      "łysienia plackowatego.",
+      "opryszczki zwykłej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 226,
+    "text": "Podczas wykonywanego strzyżenia męskiego, uzyskanie efektu zminimalizowania długości włosów nad karkiem wymaga zastosowania techniki podstawowej",
+    "answers": [
+      "dredowania włosów.",
+      "efilowania włosów.",
+      "cieniowania włosów.",
+      "stopniowania włosów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 227,
+    "text": "Zamieszczony opis dotyczy włosów Opis włosów Włosy lśniące, gładkie na długości i końcówkach, pozlepiane w pasma.",
+    "answers": [
+      "paciorkowatych.",
+      "uszkodzonych.",
+      "przetłuszczających się.",
+      "normalnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 228,
+    "text": "W celu wzmocnienia mahoniowego odcienia farby do włosów, należy ją połączyć z mikstonem w kolorze",
+    "answers": [
+      "czerwonym.",
+      "żółtym.",
+      "fioletowym.",
+      "zielonym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 229,
+    "text": "W celu uzyskania efektu koloru włosów mocno kontrastującego z jasną karnacją klientki o typie kolorystycznym zimy, należy zaproponować koloryzację przyciemniającą włosów w kolorze",
+    "answers": [
+      "granatowej czerni.",
+      "miedzianego blondu.",
+      "mahoniowego blondu.",
+      "złotego jasnego brązu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 230,
+    "text": "Podczas wykonywania ondulacji chemicznej, w celu odbudowy mostków siarczkowych należy użyć preparatu",
+    "answers": [
+      "neutralizującego.",
+      "ondulującego.",
+      "ochronnego.",
+      "utrwalającego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 231,
+    "text": "Podczas zabiegu ondulacji chemicznej, neutralizacja odczynu zasadowego następuje w etapie",
+    "answers": [
+      "przygotowawczym.",
+      "właściwym.",
+      "wstępnym.",
+      "końcowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 232,
+    "text": "Przedstawiony rysunek schematyczny strzyżenia męskiego należy wykorzystać podczas strzyżenia jeża",
+    "answers": [
+      "okrągłego.",
+      "wklęsłego.",
+      "karo.",
+      "wypukłego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_jez.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 233,
+    "text": "Preparatem koloryzującym, przenikającym do warstwy korowej jest",
+    "answers": [
+      "farba koloryzująca do włosów.",
+      "toner koloryzujący do włosów.",
+      "pianka koloryzująca do włosów.",
+      "maska koloryzująca do włosów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 234,
+    "text": "Aplikowanie preparatu zabezpieczającego strukturę włosów przed działaniem płynu ondulującego wykonywane jest w etapie",
+    "answers": [
+      "ostatecznym.",
+      "końcowym.",
+      "wstępnym.",
+      "właściwym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 235,
+    "text": "Przeciwwskazaniem do zabiegu przedłużania i zagęszczania jest stwierdzenie w wyniku diagnozy, że włosy są",
+    "answers": [
+      "przyciemniane na całej długości.",
+      "załamane na końcówkach.",
+      "załamane przy nasadzie.",
+      "rozjaśniane na całej długości."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 236,
+    "text": "Preparatem do koloryzacji, osadzającym się na powierzchni włosów lub wnikającym tylko w jej zewnętrzne warstwy, jest farba",
+    "answers": [
+      "rozjaśniająca.",
+      "roślinna.",
+      "półtrwała utleniająca.",
+      "trwała utleniająca."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 237,
+    "text": "Włosy silnie rozjaśnione, w celu wyrównania łuski włosowej, należy pielęgnować stosując preparaty zawierające wyciąg",
+    "answers": [
+      "z lnu.",
+      "z lawsoni.",
+      "z indygo.",
+      "z macierzanki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 238,
+    "text": "Podczas zabiegu ondulacji chemicznej rozluźnienie mostków dwusiarczkowych następuje na etapie",
+    "answers": [
+      "przygotowawczym.",
+      "wstępnym.",
+      "właściwym.",
+      "końcowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 239,
+    "text": "W jaki sposób działają na włosy szampony zawierające składniki, których bazą są mydła sodowe i potasowe?",
+    "answers": [
+      "Nadają włosom wysoki odczyn zasadowy.",
+      "Natłuszczają strukturę włosów.",
+      "Odbudowują strukturę keratyny.",
+      "Neutralizują odczyn zasadowy włosów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 240,
+    "text": "W celu uzyskania formy fryzury przedstawionej na rysunku poglądowym, należy podczas strzyżenia włosów zastosować separacje",
+    "answers": [
+      "pionowe.",
+      "mieszane.",
+      "poziome.",
+      "ukośne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_fryzura3.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 241,
+    "text": "W celu uzyskania efektu zestawienia włosów prostych i falujących, należy podczas ondulacji włosów średniej długości nawijać pasma włosów na wałki techniką",
+    "answers": [
+      "naprzemienną.",
+      "diagonalną.",
+      "pionową.",
+      "spiralną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 242,
+    "text": "Klientka ma włosy w kolorze na poziomie 7, niefarbowane. Oczekuje delikatnej zmiany tonu kolorystycznego włosów podkreślającego linię strzyżenia. Uzyskanie oczekiwanego efektu kolorystycznego wymaga zastosowania podczas zabiegu techniki",
+    "answers": [
+      "rozjaśniania właściwego włosów.",
+      "pojaśniania włosów.",
+      "odbarwiania włosów.",
+      "farbowania rozjaśniającego włosów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 243,
+    "text": "Efektem zabiegu koloryzacji na kolor popielaty blond jest niepożądany zielony odcień włosów, którego skorygowanie wymaga użycia tonera w kolorze",
+    "answers": [
+      "żółtym.",
+      "czerwonym.",
+      "fioletowym.",
+      "zielonym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 244,
+    "text": "Włosy spłaszczone i zwinięte wzdłuż własnej osi podłużnej, to charakterystyczna cecha włosów",
+    "answers": [
+      "paciorkowatych.",
+      "skręconych.",
+      "splątanych.",
+      "obrączkowatych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 245,
+    "text": "Uzyskanie efektu długotrwałego uzupełnienia ubytków wewnętrznej warstwy włosa wymaga wykonania zabiegu",
+    "answers": [
+      "nawilżającego.",
+      "kondycjonującego.",
+      "ochronnego.",
+      "regeneracyjnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 246,
+    "text": "Uszkodzenia chemiczne włosów powstają na skutek",
+    "answers": [
+      "stosowania suszarek o nadmiernie ciepłym strumieniu powietrza.",
+      "zbyt mocnego nawijania włosów na wałki.",
+      "stosowania niewłaściwej szczotki do rozczesywania.",
+      "niedostatecznego zabezpieczenia włosów przed zabiegiem ondulacji trwałej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 247,
+    "text": "Który kolor włosów podkreśli urodę klientki reprezentującej typ kolorystyczny lato?",
+    "answers": [
+      "Złoty blond.",
+      "Mahoniowy blond.",
+      "Popielaty blond.",
+      "Miedziany blond."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 248,
+    "text": "Po zabiegu dekoloryzacji włosy klientki są zniszczone. W celu poprawienia ich kondycji, należy polecić klientce używanie do pielęgnowania włosów odżywki",
+    "answers": [
+      "nawilżającej.",
+      "przeciwłupieżowej.",
+      "stymulującej.",
+      "odtłuszczającej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 249,
+    "text": "Opis dotyczy zastosowania podczas wykonywania strzyżenia włosów techniki Opis strzyżenia włosów Podczas strzyżenia wykonywane są szybkie ruchy czubkami klasycznych nożyczek lub środkową częścią obydwu ostrzy degażówki. Wybierane i skręcone pasma włosów są nacinane na różnych wysokościach. Efektem strzyżenia jest dynamiczna objętość włosów na szczycie głowy.",
+    "answers": [
+      "degażowania.",
+      "ząbkowania.",
+      "palcowania.",
+      "dredowania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 250,
+    "text": "Na rysunku przedstawiono reprezentantkę kolorystycznego typu urody",
+    "answers": [
+      "lato.",
+      "wiosna.",
+      "zima.",
+      "jesień."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_typ.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 251,
+    "text": "W celu przerzedzenia włosów suchych lub mokrych na jednej długości należy po strzyżeniu podstawowym zastosować technikę",
+    "answers": [
+      "konturowania.",
+      "palcowania.",
+      "pikowania.",
+      "degażowania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 252,
+    "text": "W celu uzyskania formy spójnej strzyżenia damskiego, należy zastosować kąt projekcji pasm włosów wynoszący",
+    "answers": [
+      "90°",
+      "0°",
+      "120°",
+      "45°"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 253,
+    "text": "Procesem chemicznym zachodzącym we wnętrzu włosów podczas zabiegu rozjaśniania właściwego jest",
+    "answers": [
+      "częściowe zniszczenie naturalnego pigmentu z jednoczesnym zabarwieniem na inny kolor.",
+      "częściowe zniszczenie sztucznie nadanego zabarwienia.",
+      "zniszczenie sztucznie nadanego zabarwienia z jednoczesnym zabarwieniem na inny kolor.",
+      "zniszczenie naturalnego pigmentu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 254,
+    "text": "W celu przygotowania mieszaniny do wykonania zabiegu półtrwałej koloryzacji włosów, należy użyć utleniacza o stężeniu",
+    "answers": [
+      "12%",
+      "9%",
+      "6%",
+      "3%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 255,
+    "text": "Podczas strzyżenia włosów w etapie konturowania wykonywane jest",
+    "answers": [
+      "wyznaczanie długości włosów porostu.",
+      "formowanie wierzchniej warstwy i struktury fryzury.",
+      "wyznaczanie długości włosów w partiach głowy.",
+      "formowanie linii wewnętrznych i zewnętrznych  fryzury."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 256,
+    "text": "Do skorygowania którego niepożądanego odcienia włosów należy użyć pigmentu w kolorze fioletowym?",
+    "answers": [
+      "Żółtego.",
+      "Zielonego.",
+      "Pomarańczowego.",
+      "Czerwonego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 257,
+    "text": "Na rysunku przedstawiono twarz o profilu",
+    "answers": [
+      "wypukłym.",
+      "spłaszczonym.",
+      "ukośnym.",
+      "wklęsłym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_twarz2.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 258,
+    "text": "Zamieszczony opis dotyczy kształtu twarzy Opis kształtu twarzy klientki Klientka ma szeroką twarz z mocno zarysowanymi kośćmi szczękowymi. Boczne partie twarzy klientki nie mają zaokrągleń, a podbródek jest wyraźnie kanciasty. Czoło, kości policzkowe i szczęki tworzą jedną linię.",
+    "answers": [
+      "okrągłego.",
+      "kwadratowego.",
+      "prostokątnego.",
+      "romboidalnego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 259,
+    "text": "Efektem koloryzacji włosów naturalnych z poziomu średniego blondu na poziom ciemnego blondu jest",
+    "answers": [
+      "przyciemnienie naturalnego koloru włosów o 2 tony.",
+      "pojaśnienie naturalnego koloru włosów o 2 tony.",
+      "pojaśnienie naturalnego koloru włosów o 1 ton.",
+      "przyciemnienie naturalnego koloru włosów o 1 ton."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 260,
+    "text": "Na rysunku przedstawiono twarz o kształcie",
+    "answers": [
+      "trapezoidalnym.",
+      "romboidalnym.",
+      "owalnym.",
+      "kwadratowym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_twarz.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 261,
+    "text": "Którą technikę balejażu przedstawiono na rysunku instruktażowym?",
+    "answers": [
+      "Strzały.",
+      "Łańcuszkową.",
+      "Tęczy.",
+      "Jodełkową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_technika.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 262,
+    "text": "W celu całkowitego usunięcia z włosów sztucznych barwników należy wykonać zabieg",
+    "answers": [
+      "koloryzacji rozjaśniającej.",
+      "pojaśniania włosów.",
+      "dekoloryzacji włosów.",
+      "rozjaśniania właściwego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 263,
+    "text": "Którą technikę nawijania włosów na wałki przedstawiono na rysunku?",
+    "answers": [
+      "Cegiełkową.",
+      "Diagonalną.",
+      "Kierunkową.",
+      "Równoległą."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_rysunek2.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 264,
+    "text": "Którego rodzaju włosów nie należy poddawać zabiegowi trwałej ondulacji?",
+    "answers": [
+      "Suchych i sztywnych.",
+      "Suchych i gąbczastych.",
+      "Naturalnych i grubych.",
+      "Naturalnych i delikatnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 265,
+    "text": "Do strzyżenia formy fryzury przedstawionej na rysunku należy w dolnej partii fryzury użyć",
+    "answers": [
+      "pazurów fryzjerskich.",
+      "tempery fryzjerskiej.",
+      "nożyc klasycznych.",
+      "nożyc punktujących."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_fryzura.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 266,
+    "text": "Klientka ma włosy blond z odcieniem popielatym, cerę jasną i bladoróżową. Oczy klientki są szaroniebieskie, a białka oczu są w odcieniu mlecznym. Który typ kolorystyczny urody reprezentuje klientka?",
+    "answers": [
+      "Lata.",
+      "Zimy.",
+      "Jesieni.",
+      "Wiosny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 267,
+    "text": "Do pielęgnacji włosów po zabiegu trwałej ondulacji należy zastosować odżywkę o działaniu",
+    "answers": [
+      "odtłuszczającym.",
+      "zakwaszającym.",
+      "rozpulchniającym.",
+      "alkalizującym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 268,
+    "text": "Wykonanie fryzury przedstawionej na rysunku należy zaproponować klientce, która oczekuje fryzury",
+    "answers": [
+      "wieczorowej.",
+      "klasycznej.",
+      "sportowej.",
+      "awangardowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_fryzura5.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 269,
+    "text": "W celu usunięcia do 50% włosów uchwyconych w paśmie, należy podczas strzyżenia użyć",
+    "answers": [
+      "degażówek jednostronnych.",
+      "razora fryzjerskiego.",
+      "nożyc klasycznych.",
+      "maszynki do strzyżenia włosów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 270,
+    "text": "W przypadku, gdy na skórze głowy w okolicach czoła widoczne są wykwity o charakterystycznych białych łuskach, przypominających stearynę, w karcie diagnozy należy wpisać zmiany",
+    "answers": [
+      "łuszczycowe.",
+      "grzybicze.",
+      "uczuleniowe.",
+      "naczyniowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 271,
+    "text": "Efektem zastosowania której techniki ondulowania włosów jest fryzura przedstawiona na rysunku poglądowym?",
+    "answers": [
+      "Plisowania włosów.",
+      "Nawijania włosów na wałki.",
+      "Loczkowania włosów.",
+      "Ondulacji fenowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_fryzura4.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 272,
+    "text": "Szamponu zawierającego mieszaniny olejów oraz wosków należy użyć do pielęgnacji włosów",
+    "answers": [
+      "suchych.",
+      "normalnych.",
+      "farbowanych.",
+      "przetłuszczających się."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 273,
+    "text": "Wykonywana podczas strzyżenia włosów podstawowa technika cieniowania polega na",
+    "answers": [
+      "strzyżeniu włosów nad grzebieniem.",
+      "skręcaniu pasm włosów i strzępieniu ich końcówek.",
+      "skręcaniu pasm włosów i nacinaniu każdego w kilku miejscach.",
+      "nacinaniu łukowatymi ruchami wydzielonego pasma włosów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 274,
+    "text": "Fryzurę z włosów o falistej strukturze podpiętych z boku głowy oraz dodanym czerwonym kwiatem, należy zaproponować klientce, która oczekuje wykonania fryzury w stylu",
+    "answers": [
+      "klasycznym.",
+      "romantycznym.",
+      "etnicznym.",
+      "awangardowym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 275,
+    "text": "Papilotowanie jest techniką ondulowania żelazkowego włosów polegającą na",
+    "answers": [
+      "prasowaniu pasm włosów zawiniętych w folię aluminiową.",
+      "nawijaniu pasm włosów na wałki.",
+      "skręcaniu pasm włosów palcami.",
+      "formowaniu z włosów fal grzebieniem i palcami."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 276,
+    "text": "Efektem strzyżenia włosów zgodnego z rysunkiem instruktażowym jest kontur zewnętrzny strzyżenia w formie",
+    "answers": [
+      "owalu.",
+      "kwadratu.",
+      "koła.",
+      "trójkąta."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_rysunek.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 277,
+    "text": "W celu uzyskania formy zgodnej z rysunkiem poglądowym fryzury należy podczas modelowania włosów w partiach bocznych i partii czołowej głowy zastosować separacje",
+    "answers": [
+      "ukośne do przodu.",
+      "poziome.",
+      "pionowe.",
+      "ukośne do tyłu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_fryzura2.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 278,
+    "text": "Technika stopniowania jest stosowana podczas strzyżenia włosów w celu uzyskania efektu",
+    "answers": [
+      "zwiększenia długości włosów na szczycie głowy.",
+      "zmniejszenia ciężaru włosów na linii strzyżenia.",
+      "nierównomiernego przejścia od włosów długich do włosów krótkich.",
+      "równomiernego przejścia od włosów krótkich do włosów długich."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 279,
+    "text": "Opis dotyczy cech charakterystycznych łysienia",
+    "answers": [
+      "poporodowego.",
+      "plackowatego.",
+      "androgenowego.",
+      "bliznowaciejącego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "frk01/au21_ramka.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 280,
+    "text": "Opis dotyczy zmian skórnych charakterystycznych dla",
+    "answers": [
+      "grzybicy.",
+      "świerzbowca.",
+      "drożdżycy.",
+      "łuszczycy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk01/au21_ramka2.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 281,
+    "text": "W celu całkowitego usunięcia sztucznego barwnika z włosów farbowanych należy wykonać",
+    "answers": [
+      "dekoloryzację.",
+      "lukrowanie.",
+      "pigmentację.",
+      "pojaśnianie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 282,
+    "text": "Klientka ma włosy w kolorze czarnym i ciemnoniebieskie oczy z wyraźnym kontrastem pomiędzy ich tęczówkami a białkiem. Cera klientki jest jasna z rumieńcami na policzkach. Który typ kolorystyczny urody reprezentuje klientka?",
+    "answers": [
+      "Zima.",
+      "Jesień.",
+      "Wiosna.",
+      "Lato."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 283,
+    "text": "W celu zwiększenia objętości włosów cienkich, miękkich i delikatnych nie należy podczas strzyżenia damskiego stosować techniki",
+    "answers": [
+      "cieniowania.",
+      "konturowania.",
+      "skalowania.",
+      "palcowania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 284,
+    "text": "Klientka ma włosy naturalne o długości nieprzekraczającej 30 cm i życzy sobie ich rozjaśnienia o 3 tony na całym poroście. Zgodnie z którym rysunkiem schematycznym techniki nakładania preparatu na łodygę włosa, należy wykonać zabieg rozjaśniania?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk01/au21_rysunki.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 285,
+    "text": "Podczas etapu właściwego zabiegu prostowania termiczno-chemicznego włosów kolejno wykonywane są czynności:",
+    "answers": [
+      "redukcja, prostowanie, suszenie, stabilizowanie.",
+      "prostowanie, suszenie, redukcja, stabilizowanie.",
+      "redukcja, suszenie, prostowanie, stabilizowanie.",
+      "prostowanie, redukcja, suszenie, stabilizowanie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 286,
+    "text": "W wyniku zabiegu dekoloryzacji powstał niepożądany pomarańczowożółty odcień włosów. W celu skorygowania niepożądanego efektu kolorystycznego należy wykonać zabieg koloryzacji",
+    "answers": [
+      "rozjaśniającej.",
+      "komplementarnej.",
+      "farbami roślinnymi.",
+      "farbami permanentnymi."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 287,
+    "text": "W celu uzyskania fryzury typu afro należy podczas zabiegu trwałej ondulacji zastosować cienkie wałki i nawijać na nie włosy techniką",
+    "answers": [
+      "kierunkową.",
+      "cegiełkową.",
+      "spiralną.",
+      "klasyczną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 288,
+    "text": "Do wykonania zabiegu ondulacji żelazkowej techniką lokowania należy na konsoli fryzjerskiej przygotować: lakier, peniuar krótki oraz grzebień",
+    "answers": [
+      "do rozczesywania, karbownicę.",
+      "do rozczesywania, prostownicę.",
+      "ze szpikulcem plastikowym, falownicę.",
+      "ze szpikulcem metalowym, lokówkę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 289,
+    "text": "W celu uzyskania równomiernego skrętu włosów długich należy przed zabiegiem trwałej ondulacji zaaplikować na włosy preparat",
+    "answers": [
+      "wyrównujący wilgotność.",
+      "natłuszczający.",
+      "nawilżający łuskę.",
+      "odbudowujący rdzeń."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 290,
+    "text": "Fryzura z zarostem twarzy połączona jest",
+    "answers": [
+      "bokobrodami.",
+      "szczęką.",
+      "brodą.",
+      "wąsami."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 291,
+    "text": "Która metoda wykonywania zabiegu przedłużenia włosów polega na doszywaniu pasm włosów do włosów naturalnych zaplecionych w poziomy warkocz?",
+    "answers": [
+      "Pętelkowa.",
+      "Kanapkowa.",
+      "Tissage.",
+      "Japońska."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 292,
+    "text": "W jaki sposób działają na włosy szampony zawierające w swoim składzie pochodne lanoliny?",
+    "answers": [
+      "Wysuszająco.",
+      "Ochronnie.",
+      "Neutralizująco.",
+      "Ściągająco."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 293,
+    "text": "Przeciwwskazaniem do wykonania zabiegu przedłużania metodą keratynową jest stwierdzenie w wyniku diagnozy, że włosy są",
+    "answers": [
+      "prostowane chemicznie.",
+      "rozjaśnione.",
+      "krótsze niż 5 cm.",
+      "falujące."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 294,
+    "text": "Technologicznie dopuszczalne jest wykonanie zabiegu prostowania chemicznego w przypadku stwierdzenia podczas diagnozy przed zabiegiem objawów",
+    "answers": [
+      "drożdżycy.",
+      "bielactwa.",
+      "świerzbu.",
+      "grzybicy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 295,
+    "text": "Która czynność wykonywana jest podczas etapu końcowego zabiegu trwałej ondulacji włosów?",
+    "answers": [
+      "Neutralizacja odczynu zasadowego włosów.",
+      "Redukcja mostków siarkowych.",
+      "Wyrównanie wilgotności włosów.",
+      "Utrwalenie skrętu włosów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 296,
+    "text": "Klientka reprezentująca typ urody zima ma grube i sztywne włosy. Jaki kolor włosów należy zaproponować klientce w celu podkreślenia typu kolorystycznego urody?",
+    "answers": [
+      "Jednolity złoty blond.",
+      "Jednolity bursztynowy brąz.",
+      "Naturalny ciemny blond z opalizującymi refleksami na koronie głowy.",
+      "Naturalnie ciemny brąz z rozjaśnionymi końcówkami w kolorze popielatym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 297,
+    "text": "W celu uzyskania efektu lewostronnie wydłużonej linii grzywki należy podczas strzyżenia damskiego zastosować dystrybucję",
+    "answers": [
+      "kierunkową ze stabilnym pasmem pamięci.",
+      "naturalną ze stacjonarnym pasmem pamięci.",
+      "prostopadłą z mobilnym pasmem pamięci.",
+      "równoległą ze stacjonarnym pasmem pamięci."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 298,
+    "text": "Opis dotyczy profilu twarzy o kształcie",
+    "answers": [
+      "ukośnym.",
+      "okrągłym.",
+      "regularnym.",
+      "wklęsłym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk01/au21_ramka3.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 299,
+    "text": "Który kształt twarzy przedstawiony jest na zamieszczonym rysunku?",
+    "answers": [
+      "Trapezoidalny.",
+      "Trójkątny.",
+      "Owalny.",
+      "Kwadratowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk01/au21_twarz.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 300,
+    "text": "Zabiegu prostowania chemicznego ze względów estetycznych i pielęgnacyjnych nie należy wykonywać na włosach",
+    "answers": [
+      "naturalnie jasnych.",
+      "farbowanych na ciemne kolory.",
+      "cienkich i jedwabistych.",
+      "grubych i sztywnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 301,
+    "text": "Do wykonania zabiegu prostowania chemicznego włosów należy przygotować grzebień do rozczesywania, grzebień z plastikowym szpikulcem oraz",
+    "answers": [
+      "aplikator i rynienkę.",
+      "szydełko i pędzelek.",
+      "miseczkę i pędzelek.",
+      "miseczkę i rynienkę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 302,
+    "text": "W jaki sposób działa na włosy odżywka zawierająca w swoim składzie olej z nasion jojoby?",
+    "answers": [
+      "Wygładza i zwiększa porowatość.",
+      "Poprawia połysk i ułatwia oksydację.",
+      "Zmiękcza i odżywia.",
+      "Wysusza i ogranicza elektryzowanie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 303,
+    "text": "W celu wygładzenia łusek włosowych do kolejnego mycia oraz zabezpieczenia włosów przed utratą wilgoci należy wykonać zabieg",
+    "answers": [
+      "rekonstrukcji struktury.",
+      "kondycjonowania łodygi.",
+      "spajania końcówek.",
+      "stymulacji wzrostu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 304,
+    "text": "Wykonane zgodnie z opisem damskie strzyżenie włosów przyjmuje formę",
+    "answers": [
+      "koła.",
+      "owalu.",
+      "kwadratu.",
+      "trójkąta."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk01/au21_ramka5.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 305,
+    "text": "Którą technikę nawijania włosów na wałki przedstawiono na rysunku schematycznym?",
+    "answers": [
+      "Wałek na wałek.",
+      "Równoległą.",
+      "Piramidalną.",
+      "Kierunkową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "frk01/au21_technika.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 306,
+    "text": "W celu wyeliminowania nadmiernej ilości sebum bez użycia wody oraz optycznego odświeżenia wyglądu włosów należy wykonać zabieg pielęgnacyjny z użyciem szamponu",
+    "answers": [
+      "ziołowego.",
+      "mydlanego.",
+      "pudrowego.",
+      "detergentowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 307,
+    "text": "Zawarty w maskach i odżywkach do włosów olej rycynowy ma właściwości",
+    "answers": [
+      "redukcyjne i natłuszczające.",
+      "utleniające i stymulujące.",
+      "regenerujące i odpęczniające.",
+      "regenerujące i wzmacniające."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 308,
+    "text": "Klientce o złotej karnacji, bursztynowych oczach i włosach w naturalnym kolorze średniego brązu należy zaproponować koloryzację w tonacji",
+    "answers": [
+      "opalu.",
+      "koralu.",
+      "lawendy.",
+      "lnu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 309,
+    "text": "W jaki sposób na wygląd włosów długich wpływa wielokrotne aplikowanie na całą długość włosów farb permanentnych przyciemniających?",
+    "answers": [
+      "Przy nasadzie włosów są plamy.",
+      "Na środkowej części łodygi włosów są plamy.",
+      "Końcówki włosów są ciemniejsze od części środkowej.",
+      "Końcówki włosów są jaśniejsze od części środkowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 310,
+    "text": "Który rodzaj męskiego strzyżenia klasycznego należy wykonać w celu optycznego skorygowania wyraźnie zapadniętej części ciemieniowej głowy oraz ukrycia znamienia na części potylicznej?",
+    "answers": [
+      "Krótkie.",
+      "Półdługie.",
+      "Półkrótkie.",
+      "Całkowite."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 311,
+    "text": "Która deformacja głowy klientki przedstawiona jest na rysunku?",
+    "answers": [
+      "Płaskość boczna potylicy.",
+      "Wybrzuszenie ciemieniowe.",
+      "Zapadłość ciemieniowa.",
+      "Wklęsłość skroniowa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk01/au21_deformacja.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 312,
+    "text": "Klientka oczekuje koloryzacji odrostów oraz odświeżenia koloru włosów na całym poroście. W celu uzyskania oczekiwanego efektu należy, po upływie określonego przez producenta czasu koloryzacji odrostów, wykonać",
+    "answers": [
+      "prekoloryzację.",
+      "emulgację.",
+      "dekoloryzację.",
+      "pigmentację."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 313,
+    "text": "Który rodzaj grzywki jest efektem wykonania strzyżenia zgodnego z opisem?",
+    "answers": [
+      "Długa wklęsła.",
+      "Długa prosta.",
+      "Krótka wypukła.",
+      "Krótka prawostronna."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk01/au21_ramka4.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 314,
+    "text": "Który rodzaj brody należy zaproponować w celu skorygowania nadmiernie rozbudowanej żuchwy i szczęki klienta?",
+    "answers": [
+      "Muchę.",
+      "Klasyczną pełną.",
+      "Krótką pełną.",
+      "Hiszpankę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 315,
+    "text": "W celu trwałej koloryzacji włosów ze 100% udziałem siwizny do wykonania zabiegu należy użyć",
+    "answers": [
+      "maski koloryzującej.",
+      "płukanki roślinnej.",
+      "tonera żelowego.",
+      "farby permanentnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 316,
+    "text": "Którego preparatu należy użyć w celu przywrócenia witalności włosom przesuszonym po zabiegu trwałej ondulacji?",
+    "answers": [
+      "Spray´u nabłyszczającego.",
+      "Maski odżywczej.",
+      "Płynnych kryształków.",
+      "Szamponu pudru."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 317,
+    "text": "Którego szamponu nie należy używać do pielęgnacji włosów po zabiegu trwałego prostowania chemicznego?",
+    "answers": [
+      "Keratynowego.",
+      "Pokrzywowego.",
+      "Pudrowego.",
+      "Technicznego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 318,
+    "text": "Która z technik nawijania włosów na wałki umożliwi uformowanie fryzury zgodnej z przedstawioną ilustracją?",
+    "answers": [
+      "Klasyczna.",
+      "Kierunkowa.",
+      "Spiralna.",
+      "Cegiełkowa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_fryzura11.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 319,
+    "text": "Bezpośrednio po zabiegu rozjaśniania należy przywrócić naturalne pH włosów, stosując szampon",
+    "answers": [
+      "zakwaszający.",
+      "leczniczy.",
+      "ziołowy.",
+      "zasadowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 320,
+    "text": "Zielony odcień powstały w wyniku farbowania włosów, należy zneutralizować, stosując toner w kolorze",
+    "answers": [
+      "żółtym.",
+      "fioletowym.",
+      "niebieskim.",
+      "czerwonym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 321,
+    "text": "Przeciwwskazaniem do wykonania trwałej ondulacji jest uczulenie na",
+    "answers": [
+      "lotion.",
+      "emulsję utleniającą.",
+      "płyn do trwałej.",
+      "szampon nawilżający."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 322,
+    "text": "Którą ze zmian owłosionej skóry głowy przedstawia ilustracja?",
+    "answers": [
+      "Łupież suchy.",
+      "Łojotok.",
+      "Łojotokowe zapalenie skóry.",
+      "Grzybicę woszczynową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_ilustracja.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 323,
+    "text": "Ostatnią czynnością w etapie końcowym trwałej ondulacji jest",
+    "answers": [
+      "wyrównanie struktury i poziomu wilgotności włosów.",
+      "rozkręcenie włosów nawiniętych na wałki.",
+      "neutralizacja.",
+      "odpęcznienie włosów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 324,
+    "text": "Przeciwwskazaniem do wykonania zabiegu przedłużania włosów jest",
+    "answers": [
+      "łamliwość włosów.",
+      "obrączkowatość włosów.",
+      "rozszczep podłużny włosów.",
+      "pętlicowatość włosów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 325,
+    "text": "Na której ilustracji przedstawiono rozszczep podłużny włosów?",
+    "answers": [
+      "Na ilustracji 1.",
+      "Na ilustracji 3.",
+      "Na ilustracji 4.",
+      "Na ilustracji 2."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_ilustracje.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 326,
+    "text": "Zgodnie z instrukcją, farbę należy przygotować w proporcjach 1:1. W przypadku powyżej 75% siwych włosów, należy połączyć 3/4 pożądanego odcienia i 1/4 naturalnego odcienia. Wskaż proporcje niezbędne do przygotowania mieszanki barwiącej dla włosów z 80% siwizną.",
+    "answers": [
+      "25 ml żądanego odcienia + 15 ml naturalnego odcienia + 40 ml oksydantu.",
+      "30 ml żądanego odcienia + 10 ml naturalnego odcienia + 40 ml oksydantu.",
+      "40 ml żądanego odcienia + 10 ml naturalnego odcienia + 50 ml oksydantu.",
+      "30 ml żądanego odcienia + 30 ml naturalnego odcienia + 60 ml oksydantu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 327,
+    "text": "Do wykonania trwałej ondulacji na włosach mało elastycznych, średniej grubości, rozjaśnionych farbą o 3-4 poziomy od koloru wyjściowego, należy zastosować płyn do włosów",
+    "answers": [
+      "trudno skręcających się.",
+      "normalnych.",
+      "farbowanych.",
+      "rozjaśnionych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 328,
+    "text": "W celu poprawy kondycji włosów z rozszczepem podłużnym i zapobiegania dalszym uszkodzeniom, należy wykonać strzyżenie",
+    "answers": [
+      "pazurami fryzjerskimi.",
+      "nożyczkami efilującymi.",
+      "narzędziem brzytwopodobnym.",
+      "nożyczkami termicznymi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 329,
+    "text": "Włosy cienkie i mocno przerzedzone, w celu optycznego zwiększenia objętości, należy strzyc sposobem",
+    "answers": [
+      "na pióro, temperą.",
+      "na pióro, pazurami fryzjerskimi.",
+      "na tępo, nożyczkami klasycznymi.",
+      "na tępo, degażówkami."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 330,
+    "text": "Którą z farb należy zastosować u klientki z kolorem włosów na poziomie 8, aby uzyskać odcień naturalny o dwa poziomy ciemniejszy od jej koloru wyjściowego?",
+    "answers": [
+      "10/3",
+      "10/0",
+      "6/0",
+      "6/3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 331,
+    "text": "Przedstawiona na ilustracji twarz klienta jest w kształcie",
+    "answers": [
+      "okręgu.",
+      "owalu.",
+      "trapezu.",
+      "rombu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_twarz3.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 332,
+    "text": "Koloryzacja włosów za pomocą farb zawierających barwniki bezpośrednie polega na",
+    "answers": [
+      "przekształceniu naturalnego barwnika w sztuczny pigment pod wpływem oksydantu.",
+      "wprowadzeniu we włosy podstawników barwnika w środowisku zasadowym.",
+      "utlenieniu naturalnego barwnika, a następnie wywoływaniu sztucznego pigmentu.",
+      "wprowadzeniu we włosy anionowych barwników w środowisku kwaśnym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 333,
+    "text": "Która dysproporcja w budowie twarzy jest przedstawiona na rysunku?",
+    "answers": [
+      "Mały nos.",
+      "Cofnięta broda.",
+      "Duże oczy.",
+      "Niskie czoło."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_twarz2.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 334,
+    "text": "Klientce o typie kolorystycznym lata należy polecić farbę w odcieniu",
+    "answers": [
+      "miedzianym.",
+      "złotym.",
+      "brązowym.",
+      "perłowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 335,
+    "text": "Nierównomierne przejścia w strzyżeniu męskim, powstałe w wyniku nieprawidłowo wykonanego cieniowania włosów, należy skorygować",
+    "answers": [
+      "delikatnie degażując końce włosów.",
+      "teksturując włosy pazurami fryzjerskimi.",
+      "skracając włosy sposobem na pióro.",
+      "stosując dystrybucję przesuniętą podczas strzyżenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 336,
+    "text": "Strzyżenie damskie do formy koła należy wykonać techniką",
+    "answers": [
+      "cieniowania, maszynką elektryczną na grzebieniu.",
+      "cieniowania, degażówkami obustronnymi na grzebieniu.",
+      "palcowania po zewnętrznej stronie dłoni, nożyczkami klasycznymi.",
+      "palcowania po wewnętrznej stronie dłoni, degażówkami jednostronnymi."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 337,
+    "text": "W jaki sposób szampon rumiankowy działa na skórę głowy?",
+    "answers": [
+      "Ściągająco.",
+      "Przeciwzapalnie.",
+      "Natłuszczająco.",
+      "Dezynfekująco."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 338,
+    "text": "Do przygotowania preparatu półtrwale koloryzującego należy użyć oksydantu",
+    "answers": [
+      "30 vol.",
+      "40 vol.",
+      "10 vol.",
+      "20 vol."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 339,
+    "text": "Pierwszym etapem wykonawczym podczas pracy nad strzyżeniem męskim klasycznym jest",
+    "answers": [
+      "teksturowanie.",
+      "ocyrklowanie konturu.",
+      "personalizacja.",
+      "nadanie kształtu fryzurze."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 340,
+    "text": "Chemicznego prostowania włosów nie należy wykonywać, jeśli",
+    "answers": [
+      "włosy są uszkodzone i łamliwe.",
+      "na skórze występują znamiona barwnikowe.",
+      "włosy są kędzierzawe.",
+      "na skórze występują kaszaki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 341,
+    "text": "Po wykonaniu trwałej ondulacji, w celu otrzymania loków i fryzury zgodnej z przedstawioną ilustracją, włosy należy nawinąć",
+    "answers": [
+      "kierunkowo na grube wałki rzepowe.",
+      "klasycznie na cienkie wałki.",
+      "spiralnie na papiloty.",
+      "płasko na grube wałki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_fryzura10.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 342,
+    "text": "Opisany sposób koloryzacji włosów jest nazywany techniką Opis techniki koloryzacji włosów Koloryzacja polega na nakładaniu mieszanki barwiącej w co najmniej dwóch kolorach, na przemian, na wydzielone poziome sekcje włosów. W ten sposób uzyskuje się trójwymiarowy efekt przenikania się kolorów.",
+    "answers": [
+      "ombre.",
+      "balejażu.",
+      "diagonalną.",
+      "panelową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 343,
+    "text": "Deformacją głowy przedstawioną na rysunku jest",
+    "answers": [
+      "zapadłość czołowa.",
+      "wybrzuszenie czołowo-ciemieniowe.",
+      "spłaszczenie czołowe.",
+      "wybrzuszenie nasady nosa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk01/a19_twarz.png"
+    },
+    "category": "FRK.01"
+  },
+  {
+    "id": 344,
+    "text": "Strzyżenie do formy przyrastającej warstwowo z wykorzystaniem podziału diagonalnego oznacza, że włosy na całej głowie należy separować, wydzielając pasma",
+    "answers": [
+      "poziome.",
+      "ukośne.",
+      "pionowe.",
+      "trójkątne."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 345,
+    "text": "Nadanie podstawowej formy podczas strzyżenia angielskiego w kancik wymaga zastosowania",
+    "answers": [
+      "nożyczek klasycznych.",
+      "degażówek.",
+      "tempery.",
+      "pazurów fryzjerskich."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 346,
+    "text": "Który z procesów zachodzi podczas wykonywania podkładu rozjaśniającego?",
+    "answers": [
+      "Sztuczny barwnik włosa ulega utlenieniu.",
+      "Odbarwiane są sztuczne pigmenty bez naruszenia eumelaniny.",
+      "Naturalny kolor włosów zostaje odbarwiony.",
+      "Włosy farbowane rozjaśniają się w wyniku redukcji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 347,
+    "text": "Przerzedzenie porostu poprzez wycięcie około 50% włosów z uchwyconego pasma, należy wykonać nożyczkami",
+    "answers": [
+      "punktującymi.",
+      "modelującymi.",
+      "efilującymi.",
+      "ergonomicznymi."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 348,
+    "text": "Do wykonania zabiegu trwałej ondulacji łagodnie alkaicznej, na konsoli fryzjerskiej należy zgromadzić: grzebień do rozczesywania włosów, plastikowy szpikulec, zestaw wałków, klamerki, plastikowe podkładki pod gumki, płyn do trwałej w aplikatorze, pelerynę foliową oraz preparat do",
+    "answers": [
+      "stylizacji i utrwalenia fryzury.",
+      "zabezpieczenia włosów przed wykonaniem trwałej ondulacji.",
+      "pielęgnacji włosów w aplikatorze.",
+      "utrwalenia i podkreślenia skrętu po odkształceniu włosów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 349,
+    "text": "W celu nadania włosom lekkości i efektu wypiórkowania, przy strzyżeniu do formy jednolitej warstwowo, włosy należy",
+    "answers": [
+      "wydegażować w części środkowej i na końcach.",
+      "strzyc na tępo nożyczkami klasycznymi.",
+      "mocno wycieniować nożyczkami na grzebieniu.",
+      "skrócić, wykonując płytkie ząbkowanie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 350,
+    "text": "Podczas strzyżenia męskiego klasycznego, włosy należy separować",
+    "answers": [
+      "grzebieniem z szeroko rozstawionymi zębami.",
+      "metalowym szpikulcem.",
+      "grzebieniem wąskim o zróżnicowanym rozstawie zębów.",
+      "plastikowym szpikulcem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 351,
+    "text": "Do przyciemnienia i pogłębienia ciemnej barwy włosów należy zastosować szampon z zawartością",
+    "answers": [
+      "czarnej rzepy.",
+      "kory dębu.",
+      "rozmarynu.",
+      "rumianku."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 352,
+    "text": "Które zabiegi pielęgnacyjne należy zalecić klientce w celu likwidacji problemu z elektryzowaniem się włosów?",
+    "answers": [
+      "Mycie włosów wyłącznie szamponem pudrem i szczotkowanie.",
+      "Masowanie i wcieranie alkoholowych wyciągów roślinnych w skórę głowy.",
+      "Nawilżanie i suszenie włosów chłodnym powietrzem, suszarką z funkcją jonizacji.",
+      "Dezynfekcję skóry z zastosowaniem aparatu d’Arsonvala i modelowanie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 353,
+    "text": "W celu trwałego przekształcenia włosów cienkich i delikatnych, należy zastosować płyn do trwałej o pH",
+    "answers": [
+      "8,2 - 8,6",
+      "4,2 - 4,6",
+      "5,3 - 5,8",
+      "7,4 - 7,8"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 354,
+    "text": "Włosy suche i zniszczone z tendencją do łamania się należy myć",
+    "answers": [
+      "wykonując intensywny masaż.",
+      "delikatnymi ruchami, szamponem zawierającym wyciąg z migdałów.",
+      "na mokro, szamponem z zawartością łopianu.",
+      "tylko na sucho, z zastosowaniem szamponów pudrowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 355,
+    "text": "Preparaty pielęgnacyjne zawierające kazeinę działają",
+    "answers": [
+      "ochronnie i nawilżająco na włosy i skórę głowy.",
+      "drażniąco na skórę głowy, przez co dotleniają cebulki włosowe.",
+      "przeciwłupieżowo i zapobiegają wypadaniu włosów.",
+      "bakteriobójczo i dezynfekująco, przez co zmniejszają łojotok."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 356,
+    "text": "W celu usunięcia z włosów niepożądanego spektrum kolorystycznego bez naruszania poziomu ciemności, należy wykonać zabieg",
+    "answers": [
+      "dekoloryzacji.",
+      "pojaśniania.",
+      "rozjaśniania.",
+      "demakijażu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  },
+  {
+    "id": 357,
+    "text": "Zgodnie z instrukcją, farbę rozjaśniającą należy przygotować z oksydantem w proporcji 1:2. Oznacza to, że do 30 g farby należy dodać oksydant w ilości",
+    "answers": [
+      "20 g",
+      "15 g",
+      "90 g",
+      "60 g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.01"
+  }
+]
