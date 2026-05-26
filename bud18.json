@@ -1,0 +1,4722 @@
+[
+  {
+    "id": 1,
+    "text": "Na podstawie odczytu z łaty niwelacyjnej oraz zamieszczonego wzoru oblicz odległość D pomiędzy stanowiskiem pomiarowym a szczegółem sytuacyjnym.",
+    "answers": [
+      "15,0 m",
+      "150,0 m",
+      "150,0 cm",
+      "15,0 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_odczyt2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 2,
+    "text": "Na podstawie przedstawionych na rysunkach odczytów z łaty niwelacyjnej (w punktach K1 i K2), uzyskanych podczas pomiaru wysokościowego sieci kanalizacyjnej, oblicz różnicę wysokości ∆HK1K2 pomiędzy dnami studzienek 1 i 2.",
+    "answers": [
+      "∆HK1K2 = -0,020 m",
+      "∆HK1K2 = -0,200 m",
+      "∆HK1K2 =   0,020 m",
+      "∆HK1K2 =   0,200 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_odczyty.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 3,
+    "text": "Na podstawie wyników pomiaru niwelacji przekroju trasy zamieszczonych w przedstawionym dzienniku, ustal kilometraż sporządzonego przekroju poprzecznego.",
+    "answers": [
+      "0/0+30",
+      "0/0+40",
+      "0/0+20",
+      "0/0+10"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_dziennik16.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 4,
+    "text": "Którą metodę przenoszenia osi konstrukcyjnych przedstawiono na zamieszczonym rysunku?",
+    "answers": [
+      "Pionowania.",
+      "Stałej prostej.",
+      "Przecięć kierunków.",
+      "Rzutowania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_metoda3.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 5,
+    "text": "Który z obiektów przedstawiono na ortofotomapie?",
+    "answers": [
+      "Molo.",
+      "Most.",
+      "Estakadę.",
+      "Kładkę."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_obiekt8.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 6,
+    "text": "Który instrument geodezyjny przedstawiono na ilustracji?",
+    "answers": [
+      "Skaner laserowy.",
+      "Niwelator cyfrowy.",
+      "Teodolit optyczny.",
+      "Tachimetr elektroniczny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_instrument.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 7,
+    "text": "Na podstawie zamieszczonych w tabeli współrzędnych punktów kontrolowanych, wyznaczonych w wyniku pomiarów, oblicz liniowe przemieszczenie punktu nr 21.",
+    "answers": [
+      "p = 10 mm",
+      "p = 3 mm",
+      "p = 9 mm",
+      "p = 5 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_tabela13.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 8,
+    "text": "Na podstawie widoku okna z bazy danych GESUT przedstawiającego atrybuty przewodu elektroenergetycznego oraz danych z tabeli, wskaż kod tego obiektu na trzecim poziomie szczegółowości.",
+    "answers": [
+      "SUPC02",
+      "SUPE01",
+      "SUPB01",
+      "SUPE02"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_tabela16.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 9,
+    "text": "Na rysunku przedstawiono wyniki pomiaru przemieszczeń komina metodą rzutowania bezpośredniego. Ile wynosi wychylenie szczytu komina względem poziomu odniesienia (poziomu 0)?",
+    "answers": [
+      "5 mm",
+      "20 mm",
+      "30 mm",
+      "10 mm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_komin.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 10,
+    "text": "Który błąd jest miarą dokładności tyczenia?",
+    "answers": [
+      "Błąd średni tyczenia.",
+      "Błąd przypadkowy tyczenia.",
+      "Błąd graniczny tyczenia.",
+      "Błąd względny tyczenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 11,
+    "text": "Na podstawie przedstawionego opisu topograficznego punktu szczegółowej poziomej osnowy geodezyjnej określ, w jakiej odległości od kratki ściekowej należy szukać punktu nr 1360.",
+    "answers": [
+      "5,58 m",
+      "2,20 m",
+      "10,22 m",
+      "13,96 m"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_opis2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 12,
+    "text": "W jakiej skali układu PL-2000 sporządzony jest arkusz mapy zasadniczej o godle 7.125.30.10.3.4?",
+    "answers": [
+      "1:1000",
+      "1:500",
+      "1:2000",
+      "1:5000"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 13,
+    "text": "Na fundamencie, zgodnie z zamieszczonym rysunkiem, założono pięć reperów do badania przemieszczeń pionowych. Na podstawie zamieszczonych w tabeli wyników pomiaru określ, dla którego reperu wartość przemieszczenia pionowego jest największa.",
+    "answers": [
+      "Dla reperu nr 5.",
+      "Dla reperu nr 4.",
+      "Dla reperu nr 1.",
+      "Dla reperu nr 2."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_rysunek20.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 14,
+    "text": "Na której ilustracji przedstawiono znak, którego należy użyć do stabilizacji punktu pomiarowej osnowy poziomej, znajdującego się na kostce brukowej?",
+    "answers": [
+      "Na ilustracji 2.",
+      "Na ilustracji 4.",
+      "Na ilustracji 3.",
+      "Na ilustracji 1."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_znaki5.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 15,
+    "text": "Pomiarową osnowę wysokościową wyznacza się metodą niwelacji",
+    "answers": [
+      "siatkowej.",
+      "punktów rozproszonych.",
+      "trygonometrycznej.",
+      "hydrostatycznej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 16,
+    "text": "Na którym rysunku przedstawiono prawidłowo wykonany szkic tyczenia łuku kołowego metodą biegunową?",
+    "answers": [
+      "Na rysunku 4.",
+      "Na rysunku 1.",
+      "Na rysunku 2.",
+      "Na rysunku 3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkice3.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 17,
+    "text": "Na podstawie przedstawionego fragmentu planu zagospodarowania działki określ rzędną podłogi parteru w budynku nr 1.",
+    "answers": [
+      "349,00 m",
+      "350,00 m",
+      "350,10 m",
+      "349,50 m"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_plan3.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 18,
+    "text": "Który z wymienionych obiektów podlega wytyczeniu geodezyjnemu i inwentaryzacji powykonawczej?",
+    "answers": [
+      "Ogrodzenie trwałe.",
+      "Znak drogowy.",
+      "Piaskownica.",
+      "Przyłącze wodociągowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 19,
+    "text": "Którego z wymienionych instrumentów należy użyć do pomiaru przemieszczeń pionowych przęseł mostu?",
+    "answers": [
+      "Niwelatora.",
+      "Tensometru.",
+      "Inklinometru.",
+      "Pionownika."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 20,
+    "text": "Na rysunku przedstawiono rozmieszczenie punktów stałych (odniesienia) oraz punktów kontrolowanych podczas badania przemieszczeń poziomych zapory metodą stałej prostej. Które z wymienionych punktów są punktami kontrolowanymi?",
+    "answers": [
+      "1 i 3",
+      "1 i 2",
+      "3 i 4",
+      "7 i 2"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_rysunek19.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 21,
+    "text": "Na którym rysunku przedstawiono szkic pomiaru sytuacyjnego punktu P (523) metodą wcięcia kątowego w przód?",
+    "answers": [
+      "Na rysunku 4.",
+      "Na rysunku 2.",
+      "Na rysunku 1.",
+      "Na rysunku 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkice2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 22,
+    "text": "Na podstawie danych zamieszczonych na rysunku wskaż zapisy działań prowadzących do obliczenia współrzędnych punktu osnowy pomiarowej nr 1002.",
+    "answers": [
+      "X1002 = X1001 + 58,25 ∙ cos 66,9557g; Y1002 = Y1001 + 58,25 ∙ sin 66,9557g",
+      "X1002 = X1001 – 58,25 ∙ cos 66,9557g; Y1002 = Y1001 – 58,25 ∙ sin 66,9557g",
+      "X1002 = X1001 + 58,25 ∙ cos 91,1607g; Y1002 = Y1001 + 58,25 ∙ sin 91,1607g",
+      "X1002 = X1001 – 58,25 ∙ cos 91,1607g; Y1002 = Y1001 – 58,25 ∙ sin 91,1607g"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_rysunek17.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 23,
+    "text": "Na którym rysunku przedstawiono mapę z inwentaryzacji powykonawczej budynku i przyłączy?",
+    "answers": [
+      "Na rysunku 3.",
+      "Na rysunku 2.",
+      "Na rysunku 4.",
+      "Na rysunku 1."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_rysunki3.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 24,
+    "text": "Na podstawie danych zawartych na szkicu oblicz pochylenie przewodu wodociągowego pomiędzy dnami studzienek W1 i W2, jeżeli odległość pomiędzy studzienkami wynosi 50 m.",
+    "answers": [
+      "iW1-W2 =  1,1%",
+      "iW1-W2 = -3,0%",
+      "iW1-W2 =  3,0%",
+      "iW1-W2 = -1,1%"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic31.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 25,
+    "text": "W tabeli przedstawiono wysokości uzyskane podczas okresowych pomiarów przemieszczeń pionowych trzech reperów założonych na fundamencie. Ile wynosi wartość przemieszczenia reperu nr 2 obliczona po drugim pomiarze?",
+    "answers": [
+      "0,2 mm",
+      "0,5 mm",
+      "0,1 mm",
+      "0,3 mm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_tabela14.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 26,
+    "text": "Na podstawie przedstawionych w tabeli przepisów prawnych wskaż, który z wymienionych szczegółów terenowych powinien mieć wyznaczoną wysokość, względem wysokościowej osnowy pomiarowej, z minimalną dokładnością 10 cm.",
+    "answers": [
+      "Fundament budynku.",
+      "Krawędź kabla elektroenergetycznego.",
+      "Dno wylotu przewodu kanalizacyjnego.",
+      "Górna powierzchnia studni telekomunikacyjnej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_ramka.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 27,
+    "text": "Na podstawie przedstawionego fragmentu dziennika ciągu poligonowego oblicz współrzędne prostokątne punktu 100 osnowy pomiarowej?",
+    "answers": [
+      "X100 = 5396781,76 m;   Y100 = 4584784,45 m",
+      "X100 = 5396968,24 m;   Y100 = 4584935,55 m",
+      "X100 = 5396870,43 m;   Y100 = 4584710,07 m",
+      "X100 = 5396781,78 m;   Y100 = 4584784,47 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_dziennik18.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 28,
+    "text": "Na której mapie w skali 1:500 przedstawiono prawidłowo skartowaną latarnię na słupie o współrzędnych: X = 5463120,00; Y = 7574520,00?",
+    "answers": [
+      "Na mapie 3.",
+      "Na mapie 2.",
+      "Na mapie 4.",
+      "Na mapie 1."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_mapy3.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 29,
+    "text": "Na podstawie przedstawionego planu zagospodarowania działki oblicz współrzędne prostokątne X, Y punktu 102.",
+    "answers": [
+      "X = 510,00 m;  Y = 522,00 m",
+      "X = 522,00 m;  Y = 510,00 m",
+      "X = 510,00 m;  Y = 512,00 m",
+      "X = 512,00 m;  Y = 510,00 m"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_plan4.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 30,
+    "text": "Którego sprzętu należy użyć do pomiaru wysokości punktów osnowy realizacyjnej?",
+    "answers": [
+      "Niwelatora i łaty.",
+      "Taśmy i tyczki.",
+      "Teodolitu i tyczki.",
+      "Dalmierza i łaty."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 31,
+    "text": "Na podstawie przedstawionych w tabeli przepisów prawnych określ, ile wynosi minimalna dokładność określenia położenia pojedynczego drzewa względem poziomej osnowy pomiarowej podczas pomiaru sytuacyjnego?",
+    "answers": [
+      "5 cm",
+      "50 cm",
+      "10 cm",
+      "30 cm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_ramka.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 32,
+    "text": "Na podstawie przedstawionego raportu z wyrównania współrzędnych punktów osnowy realizacyjnej określ, ile wynosi błąd średni położenia punktu 1005.",
+    "answers": [
+      "24,3 mm",
+      "15,8 mm",
+      "18,5 mm",
+      "23,4 mm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_raport2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 33,
+    "text": "Średni błąd pomiaru graficznego odcinka o długości 10 cm wynosi ±0,1 mm. Ile wynosi błąd względny tego pomiaru?",
+    "answers": [
+      "1:1000",
+      "1:200",
+      "1:2000",
+      "1:100"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 34,
+    "text": "Długość odcinka pomierzonego na mapie w skali 1:500 wynosi 7,8 cm. Ile wynosi długość tego odcinka w terenie?",
+    "answers": [
+      "390,00 m",
+      "0,39 m",
+      "39,00 m",
+      "3,90 m"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 35,
+    "text": "Którą metodę tyczenia punktów pośrednich łuku kołowego przedstawiono na zamieszonym szkicu dokumentacyjnym?",
+    "answers": [
+      "Biegunową od cięciwy.",
+      "Ortogonalną od cięciwy.",
+      "Biegunową od stycznej.",
+      "Ortogonalną od stycznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic27.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 36,
+    "text": "Na podstawie przedstawionego fragmentu mapy zasadniczej określ, co oznaczają wartości wpisane do licznika i mianownika ułamka znajdującego się przy znaku studzienki kanalizacyjnej.",
+    "answers": [
+      "207,12 - rzędna terenu, 204,88 - rzędna dna studzienki.",
+      "207,12 - rzędna włazu studzienki, 204,88 - rzędna dna studzienki.",
+      "207,12 - rzędna dna studzienki, 204,88 - rzędna włazu studzienki.",
+      "207,12 - rzędna terenu, 204,88 - rzędna włazu studzienki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_ulamek.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 37,
+    "text": "Jaką długość należy odmierzyć od poziomu porównawczego w celu wykreślenia odcinka zaznaczonego na czerwono na przedstawionym fragmencie profilu podłużnego trasy w skali",
+    "answers": [
+      "1,5 cm",
+      "0,5 cm",
+      "5,0 cm",
+      "15,0 cm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_skala.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 38,
+    "text": "Przedstawione na rysunku oznaczenie graficzne stosowane jest w projektach zagospodarowania działki lub terenu do oznaczania",
+    "answers": [
+      "projektowanego obiektu budowlanego.",
+      "adaptowanego obiektu budowlanego.",
+      "obiektu budowlanego przeznaczonego do likwidacji.",
+      "obiektu nietrwale związanego z gruntem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_oznaczenie.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 39,
+    "text": "Projekt zagospodarowania działki lub terenu należy sporządzić na kopii aktualnej mapy",
+    "answers": [
+      "glebowej.",
+      "zasadniczej.",
+      "topograficznej.",
+      "inwentaryzacyjnej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 40,
+    "text": "Na przedstawionym szkicu tyczenia zmierzoną w terenie miarę kontrolną oznaczono",
+    "answers": [
+      "literą D.",
+      "literą A.",
+      "literą C.",
+      "literą B."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic26.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 41,
+    "text": "We fragmencie dziennika pomiaru wychylenia budynku metodą rzutowania, w pola oznaczone czerwoną ramką należy kolejno wpisać:",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_dziennik9.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 42,
+    "text": "Na podstawie danych zamieszczonych w dzienniku obliczeń ciągu sytuacyjnego otwartego nawiązanego obustronnie, wyznacz wartość współrzędnej Y punktu nr 2, którą należy wpisać w kolumnie 11, w miejscu oznaczonym ?.",
+    "answers": [
+      "369,85",
+      "369,82",
+      "369,83",
+      "369,84"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_dziennik8.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 43,
+    "text": "Zgodnie z Rozporządzeniem w sprawie bazy danych obiektów topograficznych oraz mapy zasadniczej, przedstawiony znak kartograficzny stosowany jest do oznaczania na mapie zasadniczej punktu geodezyjnej osnowy",
+    "answers": [
+      "wysokościowej podstawowej.",
+      "wysokościowej szczegółowej.",
+      "poziomej szczegółowej.",
+      "poziomej podstawowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_znak3.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 44,
+    "text": "Punkty rozmieszczane na powierzchni monitorowanego obiektu, sygnalizujące zmiany położenia elementów obiektu, to punkty",
+    "answers": [
+      "kontrolowane.",
+      "odniesienia.",
+      "wiążące.",
+      "kontrolne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 45,
+    "text": "Pomiar kątów tachimetrem elektronicznym w dwóch położeniach lunety nie eliminuje błędu",
+    "answers": [
+      "indeksu.",
+      "kolimacji.",
+      "inklinacji.",
+      "centrowania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 46,
+    "text": "Położenie punktów wyznaczających osie konstrukcyjne budynku jednorodzinnego geodeta powinien tyczyć na ławach ciesielskich z precyzją do",
+    "answers": [
+      "1 m",
+      "0,1 m",
+      "0,001 m",
+      "0,01 m"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 47,
+    "text": "Zgodnie z prawem geodezyjnym i kartograficznym mapy zasadnicze należy wykonywać w skalach:",
+    "answers": [
+      "1:1000, 1:2000, 1:5000, 1:10 000",
+      "1:25 000, 1:50 000, 1:100 000",
+      "1:500, 1:1000, 1:2000, 1:5000",
+      "1:10 000, 1:25 000, 1:50 000"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 48,
+    "text": "Który błąd nie jest eliminowany poprzez pomiar ze środka w niwelacji geometrycznej?",
+    "answers": [
+      "Osiadania instrumentu.",
+      "Refrakcji pionowej.",
+      "Zakrzywienia powierzchni ziemi.",
+      "Różnego miejsca zera pary łat."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 49,
+    "text": "Punkty pomiarowej osnowy sytuacyjnej podlegają stabilizacji w sposób zapewniający ich jednoznaczne oznaczenie w terenie, podczas",
+    "answers": [
+      "prac w rozpoczętym lub przewidywanym procesie inwestycyjnym.",
+      "inwentaryzacji powykonawczej sieci uzbrojenia terenu.",
+      "inwentaryzacji powykonawczej budynku.",
+      "aktualizacji bazy danych obiektów topograficznych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 50,
+    "text": "Wyniki geodezyjnego opracowania projektu zagospodarowania działki nanosi się na szkic",
+    "answers": [
+      "dokumentacyjny.",
+      "pomiarowy.",
+      "tyczenia.",
+      "polowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 51,
+    "text": "Punkt charakterystyczny określający w terenie przebieg przewodu wodociągowego, którego położenie określone jest w państwowym systemie odniesień przestrzennych przez współrzędne prostokątne płaskie i wysokość, to",
+    "answers": [
+      "pikieta.",
+      "poligon.",
+      "reper.",
+      "bagnet."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 52,
+    "text": "Błąd niepoziomości osi celowej niwelatora należy do grupy błędów",
+    "answers": [
+      "średnich.",
+      "pozornych.",
+      "przypadkowych.",
+      "systematycznych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 53,
+    "text": "Ile wynosi różnica wysokości Δh1-2 pomiędzy punkami 1 i 2, na których ustawiono łaty niwelacyjne w sposób przedstawiony na zamieszczonym rysunku?",
+    "answers": [
+      "4 m",
+      "4 mm",
+      "4 cm",
+      "4 dm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_rysunek5.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 54,
+    "text": "Krajową geodezyjną ewidencję sieci uzbrojenia terenu zakłada i prowadzi",
+    "answers": [
+      "główny geodeta kraju.",
+      "geodeta uprawniony.",
+      "wojewoda.",
+      "starosta."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 55,
+    "text": "Na podstawie zamieszczonego rysunku z pomiaru metodą niwelacji geometrycznej wskaż wartość odczytu na łacie w przód.",
+    "answers": [
+      "1010",
+      "0110",
+      "1011",
+      "1100"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_rysunek7.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 56,
+    "text": "Do badania pionowości komina przemysłowego nie należy stosować metody",
+    "answers": [
+      "wcięć kątowych.",
+      "stałej prostej.",
+      "trygonometrycznej.",
+      "fotogrametrycznej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 57,
+    "text": "Na fragmencie mapy zasadniczej kolorem fioletowym oznaczono przewód",
+    "answers": [
+      "gazowy.",
+      "telekomunikacyjny.",
+      "ciepłowniczy.",
+      "elektroenergetyczny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_mapa6.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 58,
+    "text": "Wyniki pomiarów, przed ich przyjęciem do obliczeń, koryguje się wprowadzając poprawki ze względu na błędy",
+    "answers": [
+      "pozorne.",
+      "średnie.",
+      "grube.",
+      "systematyczne."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 59,
+    "text": "Wyniki pomiaru inwentaryzacyjnego budynku uwidacznia się kolorem czerwonym na kopii mapy",
+    "answers": [
+      "zasadniczej.",
+      "glebowo-rolniczej.",
+      "branżowej.",
+      "topograficznej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 60,
+    "text": "Szkic polowy inwentaryzacji powykonawczej przyłącza kanalizacyjnego do budynku powinien zawierać",
+    "answers": [
+      "wartość średnicy przewodu.",
+      "nazwę materiału z jakiego został wykonany przewód.",
+      "wartość nachylenia przewodu.",
+      "szkic instalacji wewnątrz budynku."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 61,
+    "text": "Długość odcinka pomierzonego na mapie w skali 1:500 wynosi 11,1 cm. Ile wynosi długość tego odcinka w terenie?",
+    "answers": [
+      "2,22 m",
+      "5,55 m",
+      "55,50 m",
+      "22,20 m"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 62,
+    "text": "Która z miar wskazanych strzałką na szkicu tyczenia, oznacza wynik pomiaru kontrolnego tyczonych elementów obiektu?",
+    "answers": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic19.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 63,
+    "text": "Wysokość punktu nr 1, którą należy wpisać w kolumnie 7 dziennika tachimetrii zwykłej, w miejscu oznaczonym ? wynosi",
+    "answers": [
+      "105,38",
+      "108,12",
+      "122,25",
+      "119,51"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_dziennik7.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 64,
+    "text": "Godło mapy 6.115.27.25.3.4 w układzie współrzędnych PL-2000 oznacza mapę w skali",
+    "answers": [
+      "1:1000",
+      "1:5000",
+      "1:500",
+      "1:2000"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 65,
+    "text": "Wartości miar ortogonalnych do wytyczenia punktu P, obliczone na podstawie danych zamieszczonych na rysunku, wynoszą",
+    "answers": [
+      "b = 20,00 m, d = 30,00 m",
+      "b = 20,00 m, d = -30,00 m",
+      "b = 30,00 m, d = -20,00 m",
+      "b = 30,00 m, d = 20,00 m"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_rysunek6.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 66,
+    "text": "Punkty odniesienia przeznaczone do pomiaru przemieszczeń pionowych lokalizowane są",
+    "answers": [
+      "poza strefą oddziaływania monitorowanego obiektu.",
+      "na monitorowanym obiekcie.",
+      "w pobliżu monitorowanego obiektu.",
+      "w strefie oddziaływania monitorowanego obiektu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 67,
+    "text": "Wartość azymutu A2-3 obliczona na podstawie danych zawartych na zamieszczonym szkicu wynosi",
+    "answers": [
+      "A2-3 =  90,6030g",
+      "A2-3 =  290,6030g",
+      "A2-3 =  301,0502g",
+      "A2-3 =  101,0502g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic17.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 68,
+    "text": "Na podstawie wyników pomiaru przemieszczeń punktu kontrolowanego nr 41 oblicz, ile wynosi przemieszczenie liniowe tego punktu w pomiarze 9.",
+    "answers": [
+      "1,2 mm",
+      "1,1 mm",
+      "1,3 mm",
+      "1,4 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_tabela11.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 69,
+    "text": "Którego dziennika pomiarowego należy użyć do zapisu wyników pomiaru niwelacyjnego przedstawionego na rysunku?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_pomiar11.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 70,
+    "text": "Do której grupy szczegółów terenowych, ze względu na wymagania dokładnościowe pomiaru, należą budynki mieszkalne?",
+    "answers": [
+      "II grupy",
+      "III grupy",
+      "IV grupy",
+      "I grupy"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 71,
+    "text": "Pozyskiwanie, ewidencjonowanie, przechowywanie, udostępnianie oraz zabezpieczenie materiałów z państwowego zasobu geodezyjnego i kartograficznego, odbywa się z wykorzystaniem systemu",
+    "answers": [
+      "informacyjnego.",
+      "ewidencyjnego.",
+      "teleinformatycznego.",
+      "komunikacyjnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 72,
+    "text": "Z jaką dokładnością względem najbliżej położonych punktów poziomej osnowy geodezyjnej należy wykonać pomiar inwentaryzacyjny włazu studzienki kanalizacyjnej?",
+    "answers": [
+      "0,50 m",
+      "0,10 m",
+      "0,30 m",
+      "0,20 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 73,
+    "text": "Do stabilizacji punktu osnowy realizacyjnej można użyć",
+    "answers": [
+      "znaku namalowanego.",
+      "znaku z kamienia.",
+      "rurki ceramicznej.",
+      "palika drewnianego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 74,
+    "text": "Który opis, stosowany na mapie zasadniczej, dotyczy przewodu kanalizacyjnego sanitarnego o średnicy 20 cm, pomierzonego na osnowę?",
+    "answers": [
+      "ksP200",
+      "ks200",
+      "ksB20",
+      "ks20"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 75,
+    "text": "Która z podanych wartości odczytu w przód z łaty niwelacyjnej jest prawidłowa, jeżeli punkt szukany znajduje się w odległości 60,00 m od punktu początkowego niwelety drogi o pochyleniu i = -3%, a odczyt wstecz z łaty ustawionej na początku niwelety wyniósł w = 1500 mm?",
+    "answers": [
+      "p = 1800 mm",
+      "p = 3000 mm",
+      "p = 3390 mm",
+      "p = 3300 mm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 76,
+    "text": "Przedstawiony na rysunku fragment szkicu dotyczy",
+    "answers": [
+      "naniesienia elips błędów.",
+      "wstępnego tyczenia osnowy realizacyjnej.",
+      "pomiaru osnowy realizacyjnej.",
+      "naniesienia poprawek trasowania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic18.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 77,
+    "text": "Którą metodę badania pionowości budowli wysmukłej przedstawiono na rysunku?",
+    "answers": [
+      "Bezpośredniego rzutowania.",
+      "Skaningu laserowego.",
+      "Trygonometryczną.",
+      "Stałej prostej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_rysunek8.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 78,
+    "text": "Który znak geodezyjny należy zastosować do oznaczenia punktu sytuacyjnej osnowy pomiarowej na utwardzonej nawierzchni jezdni?",
+    "answers": [
+      "Palik drewniany.",
+      "Słupek marmurowy.",
+      "Słupek betonowy.",
+      "Bolec metalowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 79,
+    "text": "Godło mapy zasadniczej 6.115.27.4 w układzie współrzędnych PL-2000 oznacza mapę wykonaną w skali",
+    "answers": [
+      "1: 1000",
+      "1: 5000",
+      "1: 500",
+      "1: 2000"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 80,
+    "text": "W jakiej odległości od początku trasy znajduje się punkt na tej trasie oznaczony 2/3+57,00 m?",
+    "answers": [
+      "557,00 m",
+      "357,00 m",
+      "2557,00 m",
+      "2357,00 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 81,
+    "text": "Którą skalę zastosowano do odłożenia wysokości punktów od poziomu porównawczego na zamieszczonym fragmencie profilu podłużnego trasy?",
+    "answers": [
+      "1:100",
+      "1:10",
+      "1:1000",
+      "1:10000"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_profil5.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 82,
+    "text": "Na podstawie zamieszczonego szkicu sytuacyjnego określ, którymi metodami wykonano w terenie pomiary szczegółów sytuacyjnych.",
+    "answers": [
+      "Biegunową i wcięć liniowych.",
+      "Biegunową i ortogonalną.",
+      "Ortogonalną i wcięć kątowych.",
+      "Wcięć liniowych i kątowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic20.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 83,
+    "text": "Ile wynosi błąd względny pomiaru odcinka długości 250,00 m, jeżeli odcinek ten został pomierzony z błędem średnim ±5 cm?",
+    "answers": [
+      "1/5000",
+      "1/100",
+      "1/50",
+      "1/500"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 84,
+    "text": "Punkty kontrolowane wykorzystywane podczas badania przemieszczeń obiektu budowlanego należy umieszczać",
+    "answers": [
+      "jak najdalej od badanego obiektu.",
+      "bezpośrednio na badanym obiekcie.",
+      "jak najbliżej punktów odniesienia dla badanego obiektu.",
+      "w bezpośredniej bliskości badanego obiektu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 85,
+    "text": "Które z przedstawionych na rysunku punktów są punktami głównymi łuku kołowego, będącego elementem trasy drogowej?",
+    "answers": [
+      "P, H, K",
+      "P, S, K",
+      "W, H, O",
+      "S, H, O"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_rysunek10.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 86,
+    "text": "Na podstawie danych zamieszczonych we fragmencie dziennika określ wartość azymutu A1024-1025, którą należy wpisać w kolumnie 05.",
+    "answers": [
+      "227g65c16cc",
+      "172g34c84cc",
+      "277g65c16cc",
+      "27g65c16cc"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_dziennik10.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 87,
+    "text": "Do wykonania pomiaru metodą biegunową należy użyć",
+    "answers": [
+      "niwelatora, statywu, żabek geodezyjnych.",
+      "tachimetru, statywu, szpilek geodezyjnych.",
+      "tachimetru, statywu, tyczki z lustrem.",
+      "niwelatora, statywu, tyczki geodezyjnej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 88,
+    "text": "Maksymalny dopuszczalny średni błąd położenia punktów pomiarowej osnowy sytuacyjnej względem najbliższych punktów poziomej osnowy geodezyjnej wynosi",
+    "answers": [
+      "0,20 m",
+      "0,10 m",
+      "0,05 m",
+      "0,15 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 89,
+    "text": "Na podstawie danych zamieszczonych we fragmencie dziennika pomiaru kątów poziomych określ, ile wynosi średnia wartość kąta poziomego pomierzonego w osnowie realizacyjnej, którą należy wpisać w kolumnie 08.",
+    "answers": [
+      "85g54c20cc",
+      "85g54c40cc",
+      "85g54c25cc",
+      "85g54c15cc"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_dziennik14.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 90,
+    "text": "Na podstawie danych zamieszczonych we fragmencie dziennika określ współrzędne punktu 603, które należy wpisać w kolumnach 10 i 11.",
+    "answers": [
+      "X = 515,80 m;  Y = 869,45 m",
+      "X = 515,82 m;  Y = 869,44 m",
+      "X = 483,90 m;  Y = 768,39 m",
+      "X = 515,80 m;  Y = 869,44 m"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_dziennik11.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 91,
+    "text": "Na podstawie danych zamieszczonych we fragmencie dziennika niwelacji reperów określ wysokość reperu roboczego 205, którą należy wpisać w kolumnie 08.",
+    "answers": [
+      "200,411 m",
+      "199,729 m",
+      "200,935 m",
+      "200,414 m"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_dziennik12.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 92,
+    "text": "Którą metodę pomiaru, stosowaną podczas inwentaryzacji elewacji budynku gdy nie ma możliwości bezpośredniego pomiaru odległości poziomych między punktami, zobrazowano na rysunku?",
+    "answers": [
+      "Przedłużeń.",
+      "Rzutowania.",
+      "Trygonometryczną.",
+      "Ortogonalną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_rysunek12.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 93,
+    "text": "Zamieszczony fragment szkicu polowego jest dokumentem sporządzonym z pomiaru",
+    "answers": [
+      "sytuacyjnego metodą ortogonalną.",
+      "tachimetrycznego.",
+      "niwelacji podłużnej.",
+      "sytuacyjnego metodą biegunową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic21.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 94,
+    "text": "Która miara nie jest miarą kontrolną w pomiarze sytuacyjnym wykonanym metodą ortogonalną?",
+    "answers": [
+      "Przekątna.",
+      "Podpórka.",
+      "Czołówka.",
+      "Odcięta."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 95,
+    "text": "Na podstawie danych zamieszczonych we fragmencie dziennika niwelacji powierzchniowej metodą punktów rozproszonych określ wysokość pikiety 12, którą należy wpisać w kolumnie 07.",
+    "answers": [
+      "541,386 m",
+      "539,093 m",
+      "541,688 m",
+      "541,084 m"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_dziennik13.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 96,
+    "text": "Na którym rysunku przedstawiono pionownik laserowo-optyczny?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_rysunki.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 97,
+    "text": "Którym symbolem opisywane są przewody kanalizacyjne sanitarne na mapach zasadniczych?",
+    "answers": [
+      "ko",
+      "ks",
+      "kd",
+      "kp"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 98,
+    "text": "Etapem procesu przetwarzania mapy analogowej na cyfrową nie jest",
+    "answers": [
+      "skanowanie.",
+      "generalizacja.",
+      "kalibracja.",
+      "wektoryzacja."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 99,
+    "text": "Na rysunku przedstawiono wyniki pomiaru przemieszczeń komina metodą rzutowania bezpośredniego. Ile wynosi wychylenie szczytu komina względem poziomu odniesienia (poziom 0)?",
+    "answers": [
+      "20 mm",
+      "5 mm",
+      "30 mm",
+      "10 mm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_komin.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 100,
+    "text": "Na rysunku przedstawiono schemat profilowania",
+    "answers": [
+      "skarpy nasypu.",
+      "skarpy wykopu.",
+      "wykopu w terenie płaskim.",
+      "nasypu w terenie nachylonym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_schemat3.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 101,
+    "text": "Na rysunku przedstawiono schemat wyznaczania punktów pośrednich łuku kołowego metodą",
+    "answers": [
+      "biegunową.",
+      "strzałek.",
+      "ortogonalną.",
+      "siecznych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_schemat2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 102,
+    "text": "System informacyjny zapewniający gromadzenie, aktualizację i udostępnianie informacji o sieciach uzbrojenia terenu GESUT to",
+    "answers": [
+      "geodezyjna ewidencja sieci uzbrojenia terenu.",
+      "geometryczna ewidencja sieci uzbrojenia terenu.",
+      "geodezyjna ewidencja systemu urządzeń technicznych.",
+      "geometryczna ewidencja systemu uzbrojenia terenu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 103,
+    "text": "Których danych nie należy umieszczać w opisie budynku podczas aktualizacji mapy zasadniczej?",
+    "answers": [
+      "Oznaczenia literowego źródła danych o położeniu budynku.",
+      "Liczby kondygnacji nadziemnych budynku.",
+      "Oznaczenia literowego funkcji budynku.",
+      "Numeru porządkowego budynku."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 104,
+    "text": "W jaki sposób należy wpisać na szkicu tyczenia wyniki pomiaru kontrolnego?",
+    "answers": [
+      "Kolorem czerwonym w nawiasie.",
+      "Kolorem czarnym kursywą.",
+      "Kolorem czerwonym kursywą.",
+      "Kolorem czarnym w nawiasie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 105,
+    "text": "Na podstawie danych zamieszczonych na rysunku określ wielkość odchyłki kątowej.",
+    "answers": [
+      "–7cc",
+      "–21cc",
+      "+21cc",
+      "+7cc"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_rysunek9.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 106,
+    "text": "Który dokument geodezyjny jest niezbędny do odszukania w terenie punktu osnowy geodezyjnej?",
+    "answers": [
+      "Dziennik pomiaru boków osnowy.",
+      "Szkic przeglądowy.",
+      "Opis topograficzny punktu.",
+      "Dziennik pomiaru kątów osnowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 107,
+    "text": "Dla którego obiektu uzasadnione jest założenie osnowy realizacyjnej jako sieci dwurzędowej?",
+    "answers": [
+      "Budynku gospodarczego.",
+      "Zakładu przemysłowego.",
+      "Budynku mieszkalnego.",
+      "Domu jednorodzinnego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 108,
+    "text": "Na podstawie zamieszczonego fragmentu mapy topograficznej określ wysokość bezwzględną Szerokiej Góry.",
+    "answers": [
+      "763,7 m n.p.m.",
+      "766,3 m n.p.m.",
+      "765,0 m n.p.m.",
+      "762,7 m n.p.m."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_mapa7.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 109,
+    "text": "Który rodzaj pomiaru wykonywany jest w sposób przedstawiony na rysunku?",
+    "answers": [
+      "Pomiar wysokości repera.",
+      "Przeniesienie wysokości w górę.",
+      "Pomiar odległości między punktami.",
+      "Przeniesienie wysokości w dół."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_rysunek11.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 110,
+    "text": "Założone na badanym obiekcie budowlanym stałe stanowisko odbiornika GNSS jest punktem",
+    "answers": [
+      "nawiązania.",
+      "odniesienia.",
+      "kontrolnym.",
+      "kontrolowanym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 111,
+    "text": "Ile wynosi wartość współrzędnej X1 pomierzonej pikiety 1, jeżeli współrzędna X stanowiska pomiarowego XS = 500,00 m, pomierzona długość dS-1 = 100,00 m, a sin AS-1 = 0,9877 i cos AS-1 = 0,1564?",
+    "answers": [
+      "598,77 m",
+      "98,77 m",
+      "15,64 m",
+      "515,64 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 112,
+    "text": "Pomiar metodą niwelacji geometrycznej wykonuje się na każdym stanowisku dwukrotnie ze zmianą wysokości osi celowej. Maksymalna dopuszczalna różnica między wynikami tych pomiarów wynosi",
+    "answers": [
+      "0,006 m",
+      "0,005 m",
+      "0,007 m",
+      "0,004 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 113,
+    "text": "Wskaż metodę pomiaru, którą należy wyznaczyć wysokość punktu niedostępnego do bezpośredniego pomiaru.",
+    "answers": [
+      "Wcięć liniowych.",
+      "Domiarów prostokątnych.",
+      "Niwelacji trygonometrycznej.",
+      "Biegunową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 114,
+    "text": "Do której grupy szczegółów terenowych zaliczane są elementy sieci uzbrojenia terenu, bezpośrednio dostępne do pomiaru niepodlegające zasypaniu?",
+    "answers": [
+      "III grupy",
+      "II grupy",
+      "I grupy",
+      "IV grupy"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 115,
+    "text": "Południkiem osiowym odwzorowania Gaussa-Krugera w układzie współrzędnych PL-1992 jest południk",
+    "answers": [
+      "15°",
+      "17°",
+      "19°",
+      "21°"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 116,
+    "text": "Którym symbolem literowym oznaczane są tereny zabudowy mieszkaniowej jednorodzinnej w miejscowym planie zagospodarowania przestrzennego?",
+    "answers": [
+      "UC",
+      "MN",
+      "US",
+      "MW"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 117,
+    "text": "Na podstawie danych zamieszczonych w dzienniku oblicz współrzędne X, Y punktu 2, będącego punktem pomiarowej osnowy sytuacyjnej.",
+    "answers": [
+      "X2 = 1908,42; Y2 = 3216,50",
+      "X2 = 1922,35; Y2 = 3616,29",
+      "X2 = 1922,38; Y2 = 3616,32",
+      "X2 = 1908,45; Y2 = 3216,53"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_dziennik3.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 118,
+    "text": "Na podstawie szkicu z pomiaru współrzędnych punktu 200 metodą wcięcia liniowego oblicz współrzędne X, Y tego punktu.",
+    "answers": [
+      "X200 = 150,50 m; Y200 = 227,30 m",
+      "X200 = 234,39 m; Y200 = 105,10 m",
+      "X200 = 227,30 m; Y200 = 150,50 m",
+      "X200 = 105,10 m; Y200 = 234,39 m"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic12.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 119,
+    "text": "Na podstawie danych z pomiaru metodą niwelacji trygonometrycznej punktów 1 i 2, będących punktami krańcowymi wnęki w budynku, wyznacz wysokość tej wnęki.",
+    "answers": [
+      "w = 5,28 m",
+      "w = 10,85 m",
+      "w = 16,13 m",
+      "w = 5,57 m"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_pomiar8.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 120,
+    "text": "Na podstawie danych przedstawionych na rysunku wyznacz wysokość HP punktu P.",
+    "answers": [
+      "HP = 204,094 m",
+      "HP = 205,714 m",
+      "HP = 202,474 m",
+      "HP = 203,874 m"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_rysunek2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 121,
+    "text": "Na podstawie pomierzonych i zapisanych danych w dzienniku niwelacji geometrycznej określ wysokość punktu osnowy realizacyjnej o numerze 2.",
+    "answers": [
+      "182,945 m",
+      "182,946 m",
+      "182,948 m",
+      "182,947 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_dziennik5.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 122,
+    "text": "Na podstawie zamieszczonego planu zagospodarowania działki oblicz odległość osi podłużnej ściany 1-8 od granicy nieruchomości z ulicą Olsztyńską, jeżeli zgodnie z projektem odległość pomiędzy osią ściany a jej licem wynosi 255 mm.",
+    "answers": [
+      "4,255 m",
+      "6,255 m",
+      "6,000 m",
+      "4,000 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_plan2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 123,
+    "text": "Na podstawie podanych informacji z bazy danych GESUT o przewodzie elektroenergetycznym oraz tabeli 1, określ, jaki kod na trzecim poziomie szczegółowości posiada ten obiekt.",
+    "answers": [
+      "SUPB01",
+      "SUPC02",
+      "SUPE01",
+      "SUPE02"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_okno.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 124,
+    "text": "Jak nazywa się punkt oznaczony cyfrą 1 na rysunku przedstawiającym pomiar przemieszczeń?",
+    "answers": [
+      "Kontrolny.",
+      "Odniesienia.",
+      "Kontrolowany.",
+      "Wiążący."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_pomiar10.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 125,
+    "text": "W której z Baz Danych zgromadzone są informacje dotyczące rzędnych studzienek kanalizacyjnych?",
+    "answers": [
+      "Geodezyjnej Ewidencji Sieci Uzbrojenia Terenu.",
+      "Obiektów Topograficznych.",
+      "Ewidencji Gruntów i Budynków.",
+      "Szczegółowych Osnów Geodezyjnych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 126,
+    "text": "Ile wynosi objętość wykopu między przekrojami 0/2 a 0/2 + 40 przedstawionymi na rysunku?",
+    "answers": [
+      "VW = 1138 m3",
+      "VW = 98,9 m3",
+      "VW = 49,4 m3",
+      "VW = 1978 m3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_wykop.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 127,
+    "text": "Ile wynosi kilometraż środka łuku kołowego przedstawionego na szkicu, jeżeli kąt zwrotu stycznych α = 150,0000g, promień łuku R = 200,00 m, ρg = 63,6620g, a kilometraż początku osi trasy wynosi 0/1 + 20?",
+    "answers": [
+      "0/3",
+      "0/3 + 55,62",
+      "0/5",
+      "0/5 + 91,24"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic13.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 128,
+    "text": "Którą osnowę należy założyć do obsługi geodezyjnej dużego zakładu przemysłowego, którego realizacja będzie odbywała się etapami?",
+    "answers": [
+      "Realizacyjną wydłużoną.",
+      "Realizacyjną typu A.",
+      "Realizacyjną dwurzędową.",
+      "Realizacyjną jednorzędową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 129,
+    "text": "Ile wynosi największy dopuszczalny średni błąd położenia punktu pomiarowej osnowy wysokościowej względem najbliższych punktów wysokościowej osnowy geodezyjnej?",
+    "answers": [
+      "0,05 m",
+      "0,07 m",
+      "0,01 m",
+      "0,03 m"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 130,
+    "text": "Którą wartość odległości należy wpisać na profilu podłużnym trasy w miejscu oznaczonym X, jeżeli odległość między punktami 2 i 3, zmierzona na rysunku, wynosi 7 cm?",
+    "answers": [
+      "754,00",
+      "70,00",
+      "700,00",
+      "124,00"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_profil4.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 131,
+    "text": "Którego przyrządu należy użyć do pomiaru punktów P1, P2, P3 i P4 zlokalizowanych na obiekcie w sposób przedstawiony na rysunku?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_obiekt6.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 132,
+    "text": "Kolorem brązowym na mapie zasadniczej oznacza się sieci",
+    "answers": [
+      "kanalizacyjne.",
+      "elektroenergetyczne.",
+      "ciepłownicze.",
+      "gazowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 133,
+    "text": "Ile wynosi błąd wartości wyrównanej, jeżeli kąt poziomy został pomierzony 4 razy, a błąd średni pojedynczego pomiaru kąta wynosi ±10cc?",
+    "answers": [
+      "M = ±5cc",
+      "M = ±3cc",
+      "M = ±4cc",
+      "M = ±2cc"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 134,
+    "text": "Który z obiektów znajduje się w I grupie dokładnościowej szczegółów terenowych?",
+    "answers": [
+      "Słup telekomunikacyjny.",
+      "Boisko sportowe.",
+      "Skarpa nieumocniona.",
+      "Przewód wodociągowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 135,
+    "text": "Przedstawiony znak kartograficzny stosowany na mapach zasadniczych oznacza przewód elektroenergetyczny",
+    "answers": [
+      "wysokiego napięcia.",
+      "niskiego napięcia.",
+      "średniego napięcia.",
+      "najwyższego napięcia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_znak2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 136,
+    "text": "Którą metodę pomiaru kąta poziomego zobrazowano na zamieszczonym szkicu?",
+    "answers": [
+      "Kierunkową.",
+      "Zwykłą.",
+      "Repetycyjną.",
+      "Sektorową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic11.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 137,
+    "text": "Którą metodę wyznaczania punktów pośrednich łuku kołowego przedstawiono na rysunku?",
+    "answers": [
+      "Domiarów prostokątnych.",
+      "Biegunową.",
+      "Wcięć kątowych.",
+      "Strzałek."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_rysunek3.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 138,
+    "text": "W celu wyznaczenia współrzędnych prostokątnych X i Y punktów osnowy realizacyjnej założono ciąg poligonowy przedstawiony na szkicu. Ile wynosi suma poprawek kątowych [v] w tym ciągu, jeżeli suma praktyczna kątów [α]p = 999,9895g?",
+    "answers": [
+      "[v] = +105cc",
+      "[v] = −15cc",
+      "[v] = +10cc",
+      "[v] = −100cc"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic14.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 139,
+    "text": "Oblicz współrzędne X, Y punktu P na podstawie danych zapisanych w formularzu obliczania wcięcia wstecz.",
+    "answers": [
+      "XP = 122,50;  YP = 84,15",
+      "XP = 132,65;  YP = 122,50",
+      "XP = 122,50;  YP = 132,65",
+      "XP = 84,15;  YP = 122,50"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_formularz.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 140,
+    "text": "Którą metodę niwelacji należy zastosować w celu wyznaczenia wysokości punktu C, niedostępnego do bezpośredniego pomiaru, w sposób przedstawiony na rysunku?",
+    "answers": [
+      "Geometryczną ze środka.",
+      "Geometryczną w przód.",
+      "Reperów.",
+      "Trygonometryczną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_pomiar7.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 141,
+    "text": "Tereny sportu i rekreacji w miejscowym planie zagospodarowania przestrzennego powinny być oznaczane symbolem literowym",
+    "answers": [
+      "U",
+      "MW",
+      "US",
+      "ZP"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 142,
+    "text": "Które oznaczenie literowe należy umieścić na szkicu z inwentaryzacji powykonawczej budynku przeznaczonego pod bibliotekę?",
+    "answers": [
+      "k",
+      "e",
+      "f",
+      "b"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 143,
+    "text": "W którym oknie dialogowym programu do obliczeń geodezyjnych przedstawiono dane do obliczenia współrzędnych punktu 10 będącego środkiem skrzyżowania dróg, zgodnie z zamieszczonym schematem?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_schemat.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 144,
+    "text": "Oblicz wychylenie osi komina na poziomie 3 względem poziomu odniesienia na podstawie danych przedstawionych na szkicu.",
+    "answers": [
+      "25 mm",
+      "20 mm",
+      "15 mm",
+      "5 mm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic16.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 145,
+    "text": "Zmiany na mapie z wywiadu terenowego należy zaznaczyć kolorem",
+    "answers": [
+      "żółtym.",
+      "czarnym.",
+      "brązowym.",
+      "czerwonym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 146,
+    "text": "Którą wartość kąta poziomego osnowy realizacyjnej należy wpisać w kolumnie 08 na podstawie danych z pomiaru zapisanych w dzienniku pomiaru kątów?",
+    "answers": [
+      "115g31c97cc",
+      "115g32c11cc",
+      "115g32c35cc",
+      "115g32c25cc"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_dziennik4.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 147,
+    "text": "Który szkic dokumentacyjny łuku kołowego zawiera wszystkie dane do wytyczenia metodą biegunową w terenie punktu środkowego S z punktu W oraz miary kontrolne do tego punktu?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkice.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 148,
+    "text": "W celu zbadania przemieszczeń założono reper i określono jego wysokość H = 3,2840 m. Wykonano pomiary cykliczne repera, uzyskując następujące wyniki:",
+    "answers": [
+      "-0,8 mm",
+      "-3,2 mm",
+      "-2,3 mm",
+      "-1,5 mm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_tabela10.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 149,
+    "text": "Zakładając pomiarową osnowę sytuacyjną, należy zapewnić wykonanie pomiarów liniowych ze średnim błędem pomiaru odległości",
+    "answers": [
+      "md ≤ 0,05 m + 70 mm/km",
+      "md ≤ 0,07 m + 50 mm/km",
+      "md ≤ 0,01 m + 0,02 m/km",
+      "md ≤ 0,01 m + 0,01 m/km"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 150,
+    "text": "Zamieszczony rysunek to",
+    "answers": [
+      "szkic z wstęgami wahań przy wcięciu kątowym.",
+      "wykres przemieszczeń budynku.",
+      "szkic z wstęgami wahań przy wcięciu liniowym.",
+      "wykres wychyleń komina."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_rysunek4.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 151,
+    "text": "Wyznacz wysokość pomiarowej osnowy realizacyjnej HP na podstawie danych z pomiaru metodą niwelacji trygonometrycznej.",
+    "answers": [
+      "HP = 263,055 m",
+      "HP = 251,769 m",
+      "HP = 257,769 m",
+      "HP = 253,469 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_pomiar9.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 152,
+    "text": "Przedstawiona na rysunku rama geodezyjna jest przykładem osnowy realizacyjnej",
+    "answers": [
+      "dowolnego kształtu typu B.",
+      "regularnej.",
+      "dowolnego kształtu typu A.",
+      "wydłużonej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_rama.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 153,
+    "text": "Którą wartość odczytu t na łacie niwelacyjnej należy ustawić, aby przenieść na prostopadłą ścianę budynku zero budowy o poziomie HP = 247,800 m, zgodnie z zamieszczonym szkicem?",
+    "answers": [
+      "3660",
+      "2120",
+      "0580",
+      "1540"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic15.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 154,
+    "text": "Którą grupę błędów, związanych z wpływem na wyniki pomiarów, wyróżnia się w geodezji?",
+    "answers": [
+      "Błędy stałe, omyłki, błędy systematyczne.",
+      "Błędy osobowe, błędy systematyczne, błędy losowe.",
+      "Błędy grube, błędy systematyczne, błędy przypadkowe.",
+      "Błędy grube, omyłki, błędy stałe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 155,
+    "text": "Która z metod pomiaru sytuacyjnego szczegółów terenowych polega na pomiarze kątów i odległości za pomocą tachimetru?",
+    "answers": [
+      "Biegunowa.",
+      "Wcięć kątowych.",
+      "Ortogonalna.",
+      "Domiarów prostokątnych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 156,
+    "text": "Na rysunku przedstawiono rozkład wektorów przemieszczeń pionowych czterech reperów rozmieszczonych na zewnętrznej ścianie obiektu. W której tabeli zamieszczono wartości przemieszczeń odpowiadające rozkładowi wektorów przedstawionemu na rysunku?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_rozklad.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 157,
+    "text": "Współrzędne X i Y punktów osnowy realizacyjnej nanosi się na",
+    "answers": [
+      "mapie ewidencyjnej.",
+      "mapie zasadniczej.",
+      "szkicu inwentaryzacyjnym.",
+      "szkicu dokumentacyjnym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 158,
+    "text": "Na podstawie obrazu pola widzenia lunety określ wartość odczytu z łaty niwelacyjnej.",
+    "answers": [
+      "2200",
+      "2300",
+      "2335",
+      "2265"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_odczyt.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 159,
+    "text": "Która z wymienionych wielkości powinna być ujęta na wykresie pionowości krawędzi budynku?",
+    "answers": [
+      "Odkształcenie.",
+      "Przewyższenie.",
+      "Przemieszczenie pionowe.",
+      "Odchylenie od pionu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 160,
+    "text": "Którą osnowę realizacyjną najlepiej założyć do inwestycji przedstawionej na szkicu?",
+    "answers": [
+      "Wydłużoną w postaci łańcucha trójkątów.",
+      "Nieregularną w postaci układu baz.",
+      "Regularną w postaci siatki prostokątów.",
+      "Nieregularną w postaci siatki trójkątów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic7.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 161,
+    "text": "Wysokość punktu A przedstawionego na szkicu wynosi HA = 105,00 m. Ile wynosi wysokość punktu B leżącego w odległości 10 m od punktu A na osi chodnika o pochyleniu i = 0,5%?",
+    "answers": [
+      "HB = 105,00 m",
+      "HB = 105,05 m",
+      "HB = 105,50 m",
+      "HB = 155,00 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic4.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 162,
+    "text": "Na podstawie tabeli określ dopuszczalną długość domiaru prostokątnego do budynku przy pomiarze sytuacyjnym metodą ortogonalną.",
+    "answers": [
+      "25 m",
+      "0,05 m",
+      "0,10 m",
+      "50 m"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_tabela4.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 163,
+    "text": "Na podstawie zamieszczonego fragmentu projektu zagospodarowania terenu, oblicz przekątną obiektu B-2.",
+    "answers": [
+      "18,03 m",
+      "20,81 m",
+      "39,20 m",
+      "22,36 m"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_projekt2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 164,
+    "text": "Ile wynosi głębokość studzienki kanalizacyjnej na załączonej mapie zasadniczej?",
+    "answers": [
+      "201,02 m",
+      "2,66 m",
+      "202,66 m",
+      "1,64 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_mapa4.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 165,
+    "text": "Na podstawie danych zamieszczonych w tabeli z pomiaru metodą wcięcia liniowego w przód, oblicz współrzędną YP punktu osnowy pomiarowej.",
+    "answers": [
+      "YP = 378,61",
+      "YP = 185,68",
+      "YP = 629,94",
+      "YP = 302,19"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_tabela3.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 166,
+    "text": "Na podstawie zamieszczonego fragmentu szkicu, oblicz współrzędne X i Y punktu B tyczonego obiektu.",
+    "answers": [
+      "XB = 88,00 m; YB = 71,00 m",
+      "XB = 171,00 m; YB = 168,00 m",
+      "XB = 88,00 m; YB = 68,00 m",
+      "XB = 171,00 m; YB = 188,00 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic6.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 167,
+    "text": "Na rysunku przedstawiono przeniesienie wysokości na dno głębokiej studni kanalizacyjnej. Na podstawie danych z pomiarów inwentaryzacyjnych, oblicz wysokość HP punktu P znajdującego się na dnie studni kanalizacyjnej.",
+    "answers": [
+      "HP = 227,989 m",
+      "HP = 227,241 m",
+      "HP = 227,857 m",
+      "HP = 227,353 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_pomiary.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 168,
+    "text": "Aby wygenerować raport z obliczeń przedstawiony w oknie dialogowym programu WinKalk, należy użyć",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_raport.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 169,
+    "text": "Który z podanych obiektów przestrzennych należy do pierwszej grupy szczegółów terenowych?",
+    "answers": [
+      "Boisko sportowe.",
+      "Most.",
+      "Plac zabaw.",
+      "Tama."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 170,
+    "text": "Która wartość odczytana z wyświetlacza tachimetru elektronicznego dotyczy przewyższenia?",
+    "answers": [
+      "5,767 m",
+      "1,842 m",
+      "1",
+      "2/4"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_wyswietlacz.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 171,
+    "text": "Na podstawie danych zamieszczonych na szkicu, oblicz współrzędną Y1 punktu 1.",
+    "answers": [
+      "Y1 = 358,43",
+      "Y1 = 355,81",
+      "Y1 = 363,40",
+      "Y1 = 362,08"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic5.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 172,
+    "text": "Na rysunku przedstawiono szkic niwelacji",
+    "answers": [
+      "trygonometrycznej.",
+      "profilu podłużnego.",
+      "punktów rozproszonych.",
+      "siatkowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic10.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 173,
+    "text": "Na rysunku przedstawiono pomiar wysokości punktu A w osnowie realizacyjnej metodą niwelacji",
+    "answers": [
+      "barometrycznej.",
+      "hydrostatycznej.",
+      "geometrycznej.",
+      "trygonometrycznej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_pomiar6.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 174,
+    "text": "Który rodzaj przewodu sieci uzbrojenia terenu przedstawia szkic z pomiaru inwentaryzacyjnego?",
+    "answers": [
+      "Elektroenergetyczny.",
+      "Ciepłowniczy.",
+      "Kanalizacyjny.",
+      "Wodociągowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic9.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 175,
+    "text": "W ciągu poligonowym otwartym obustronnie nawiązanym o długości 1 250 m geodeta pomierzył 8 kątów. Na podstawie danych zamieszczonych w tabeli określ, ile wynosi dopuszczalna odchyłka kątowa dla tego pomiaru.",
+    "answers": [
+      "2c50cc",
+      "2c20cc",
+      "5c09cc",
+      "1c13cc"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_tabela5.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 176,
+    "text": "Wyniki wywiadu terenowego przeprowadzonego podczas prac geodezyjnych związanych z pomiarami sytuacyjnymi i wysokościowymi należy zaznaczyć na kopii mapy",
+    "answers": [
+      "sozologicznej.",
+      "klasyfikacyjnej.",
+      "topograficznej.",
+      "zasadniczej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 177,
+    "text": "Ile wynosi średni błąd pomiaru graficznego odcinka długości 10 cm, jeśli błąd względny pomiaru wynosi 1:1000?",
+    "answers": [
+      "±10,00 mm",
+      "±1,00 mm",
+      "±0,01 mm",
+      "±0,10 mm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 178,
+    "text": "Którym znakiem kartograficznym należy oznaczyć na szkicu osnowy pomiarowej, punkt osnowy wysokościowej szczegółowej?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_znaki2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 179,
+    "text": "Który z instrumentów nie jest przeznaczony do pomiaru wysokości punktów osnowy realizacyjnej?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_instrumenty2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 180,
+    "text": "Na przedstawionym fragmencie projektu zagospodarowania działki literą A oznaczono obiekt budowlany",
+    "answers": [
+      "przeznaczony do likwidacji.",
+      "nietrwale związany z gruntem.",
+      "projektowany.",
+      "adaptowany."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_projekt.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 181,
+    "text": "Na podstawie zamieszczonych w tabeli wyników pomiarów punktów kontrolowanych, oblicz przemieszczenie pionowe punktu nr 3.",
+    "answers": [
+      "+56 mm",
+      "+5,6 mm",
+      "-56 mm",
+      "-5,6 mm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_tabela7.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 182,
+    "text": "Oblicz wysokość trzeciego poziomu obserwacyjnego komina przemysłowego na podstawie opracowanych wyników pomiaru zestawionych w tabeli.",
+    "answers": [
+      "H3 = 4,57 m",
+      "H3 = 11,01 m",
+      "H3 = 9,84 m",
+      "H3 = 3,40 m"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_tabela6.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 183,
+    "text": "Jak nazywają się konstrukcje drewniane przedstawione na rysunku, służące do utrwalenia wytyczonych osi konstrukcyjnych obiektu budowlanego?",
+    "answers": [
+      "Ławy ciesielskie.",
+      "Krzyże niwelacyjne.",
+      "Trójkąty skarpowe.",
+      "Stopy fundamentowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_konstrukcje.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 184,
+    "text": "Na podstawie rysunku z pomiaru metodą niwelacji geometrycznej oblicz wysokość punktu HRp1 pomiarowej osnowy wysokościowej.",
+    "answers": [
+      "209,103 m",
+      "211,556 m",
+      "211,797 m",
+      "212,903 m"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_pomiar4.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 185,
+    "text": "Całość dokumentacji zawierającej rezultaty geodezyjnych pomiarów sytuacyjnych i wysokościowych oraz wyniki opracowania tych danych kompletuje się i przekazuje do Państwowego Zasobu Geodezyjnego i Kartograficznego w postaci operatu",
+    "answers": [
+      "szacunkowego.",
+      "technicznego.",
+      "pomiarowego.",
+      "katastralnego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 186,
+    "text": "Na podstawie danych zamieszczonych we fragmencie dziennika, oblicz wysokość H4 pikiety 4.",
+    "answers": [
+      "H4 = 201,41 m",
+      "H4 = 204,71 m",
+      "H4 = 203,11 m",
+      "H4 = 201,59 m"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_dziennik2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 187,
+    "text": "Aby sporządzić profil podłużny terenu dla odcinka A-B, przedstawionego na mapie sytuacyjno-wysokościowej, należy przyjąć poziom porównawczy równy",
+    "answers": [
+      "205,0 m",
+      "197,0 m",
+      "193,0 m",
+      "201,0 m"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_mapa5.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 188,
+    "text": "W wyniku wyrównania n = 5 spostrzeżeń jednakowo dokładnych otrzymano średni błąd pojedynczego spostrzeżenia m0 = ±4,5 mm. Na podstawie zamieszczonego wzoru, oblicz średni błąd średniej arytmetycznej.",
+    "answers": [
+      "ms = ±2,0 mm",
+      "ms = ±0,9 mm",
+      "ms = ±2,4 mm",
+      "ms = ±1,1 mm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_wzor3.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 189,
+    "text": "Oblicz błąd średni mP położenia punktu osnowy realizacyjnej, jeżeli błędy współrzędnych X i Y wynoszą odpowiednio: mX = 0,4 cm, mY = 0,6 cm.",
+    "answers": [
+      "mP = ±0,7 cm",
+      "mP = ±1,0 cm",
+      "mP = ±0,4 cm",
+      "mP = ±0,5 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_wzor2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 190,
+    "text": "Na rysunku przedstawiono pomiar punktów obiektu budowlanego metodą wcięć",
+    "answers": [
+      "linowych w przód.",
+      "kątowych wstecz.",
+      "liniowo-kątowych.",
+      "kątowych w przód."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_pomiar5.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 191,
+    "text": "Zamieszczony dokument, opracowany po przetworzeniu wyników pomiarów osnowy pomiarowej, to",
+    "answers": [
+      "dane obserwacyjne.",
+      "szkic polowy.",
+      "wykaz punktów osnowy.",
+      "mapa przeglądowa osnowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_dokument.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 192,
+    "text": "Którą metodę tyczenia punktów pośrednich łuku kołowego przedstawia szkic?",
+    "answers": [
+      "Angielską.",
+      "Przecięć kierunków.",
+      "Biegunową.",
+      "Wcięć liniowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic8.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 193,
+    "text": "Do czego wykorzystywany jest pionownik optyczny w geodezyjnej obsłudze budowy?",
+    "answers": [
+      "Do pomiaru boków tyczonego obiektu.",
+      "Do przenoszenia wysokości na dno wykopu.",
+      "Do tyczenia punktów głównych projektowanego obiektu.",
+      "Do tyczenia wskaźników konstrukcyjnych na wyższych kondygnacjach."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 194,
+    "text": "Na podstawie zamieszczonych w tabeli wyników pomiarów punktów kontrolowanych, oblicz kierunkowe przemieszczenia poziome dla punktu nr 32.",
+    "answers": [
+      "ΔX = -0,066 m;  ΔY = 0,017 m",
+      "ΔX = 66 cm;  ΔY = -44 cm",
+      "ΔX = -66 cm;  ΔY = 44 cm",
+      "ΔX = 0,066 m;  ΔY = -0,017 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_tabela8.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 195,
+    "text": "W tabeli przedstawiono wyniki pomiaru obserwacji jednakowo dokładnych. Wskaż obliczenia wyniku średniego błędu pojedynczego spostrzeżenia tych obserwacji.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_tabela2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 196,
+    "text": "Jeśli bok mierzonego obiektu budowlanego nie jest równoległy do linii pomiarowej, to kontrola rachunkowa miary czołowej obliczana jest ze wzoru",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_obiekt2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 197,
+    "text": "Wskaż jednostkę, w której podaje się wielkość mas ziemnych związanych z wykonaniem nasypu.",
+    "answers": [
+      "metr sześcienny – m3",
+      "hektar – ha",
+      "kilogram na metr sześcienny – kg/m3",
+      "hektometr – hm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 198,
+    "text": "Podstawowymi parametrami rozjazdu kolejowego są",
+    "answers": [
+      "skos i promień.",
+      "zwrot i kierunek.",
+      "współrzędne początku i końca.",
+      "średnica i długość."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_rozjazd.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 199,
+    "text": "Największy średni błąd położenia punktów pomiarowej osnowy wysokościowej względem najbliższych punktów wysokościowej osnowy geodezyjnej nie może być większy niż",
+    "answers": [
+      "0,05 m",
+      "0,01 m",
+      "0,10 m",
+      "0,02 m"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 200,
+    "text": "Długość ciągu poligonowego, jako konstrukcji pomiarowej osnowy sytuacyjnej, nie powinna przekraczać",
+    "answers": [
+      "4 000 m",
+      "3 000 m",
+      "1 000 m",
+      "2 000 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 201,
+    "text": "Wskaż znak kartograficzny którym, zgodnie z BDOT500, należy na mapie zasadniczej przedstawić obiekt pokazany na zdjęciu.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_obiekt.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 202,
+    "text": "Wyznaczając wysokość punktu w terenie o zadanym pochyleniu i = -1%, wskaż, ile wynosi wartość odczytu p na łacie niwelacyjnej w przód.",
+    "answers": [
+      "2 500",
+      "2 000",
+      "1 500",
+      "1 000"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_pomiar3.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 203,
+    "text": "Na rysunku przedstawiono łatę",
+    "answers": [
+      "kodową.",
+      "pomiarową teleskopową.",
+      "wodowskazową.",
+      "inwarową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_lata2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 204,
+    "text": "Którą metodą należy wyznaczyć przemieszczenia poziome obiektu pokazanego na zdjęciu?",
+    "answers": [
+      "Niwelacji geometrycznej.",
+      "Fotogrametryczną.",
+      "Prostej pionowej.",
+      "Stałej prostej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_obiekt5.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 205,
+    "text": "Na podstawie rysunku profilu podłużnego określ odległość pionową, jaką powinna mieć linia wyznaczająca położenie punktu A’, narysowana w podanej na profilu skali.",
+    "answers": [
+      "43,24 cm",
+      "3,24 cm",
+      "343,24 mm",
+      "32,4 cm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_profil2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 206,
+    "text": "Wskaż elementy, które należy pomierzyć w celu obliczenia wysokości w obiektu, bez możliwości bezpośredniego pomiaru odległości: stanowisko – obiekt.",
+    "answers": [
+      "ZA, ZB, ZC, l",
+      "ZA, ZB, d",
+      "ZA, ZB, l",
+      "ZC, d"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_obiekt4.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 207,
+    "text": "W jakiej odległości od punktu 0/0 na osi trasy został wykonany zamieszczony profil poprzeczny?",
+    "answers": [
+      "64 km 25 m",
+      "645,25 m",
+      "6 km 40 m 25 cm",
+      "6 km 425 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_profil3.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 208,
+    "text": "Którym znakiem graficznym należy przedstawić na mapie zasadniczej obiekt (zdrój uliczny), należący do powiatowej bazy GESUT, widoczny na zdjęciu?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_obiekt3.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 209,
+    "text": "Ile powinno być punktów dostosowania położonych na arkuszu mapy objętym kalibracją podczas wpasowywania rastrów map analogowych?",
+    "answers": [
+      "Co najmniej 5 punktów.",
+      "Co najmniej 15 punktów.",
+      "Co najmniej 20 punktów.",
+      "Co najmniej 10 punktów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 210,
+    "text": "Wskaż skalę, w której utworzona jest mapa zasadnicza w układzie PL-2000 o godle 6.172.17.1.",
+    "answers": [
+      "1 : 10 000",
+      "1 : 1 000",
+      "1 : 5 000",
+      "1 : 2 000"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 211,
+    "text": "Do ilu punktów osnowy wysokościowej należy nawiązać osnowę pomiarową w postaci ciągów niwelacyjnych?",
+    "answers": [
+      "Do co najmniej trzech.",
+      "Do co najmniej dwóch.",
+      "Do co najmniej jednego.",
+      "Do co najmniej czterech."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 212,
+    "text": "Wskaż znak, którego należy użyć do stabilizacji punktu szczegółowej wysokościowej osnowy geodezyjnej.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_znaki.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 213,
+    "text": "Wskaż instrument geodezyjny do wykonywania pomiarów wysokości obiektu niedostępnego do bezpośredniego pomiaru, metodą niwelacji trygonometrycznej.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_instrumenty.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 214,
+    "text": "Którym kolorem uwidacznia się na kopii mapy zasadniczej wyniki wywiadu terenowego?",
+    "answers": [
+      "Czarnym.",
+      "Zielonym.",
+      "Czerwonym.",
+      "Niebieskim."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 215,
+    "text": "Ile wynosi odległość stanowiska niwelatora do punktu terenowego, na podstawie wykonanego odczytu z łaty niwelacyjnej (stała mnożna k = 100)?",
+    "answers": [
+      "2,30 m",
+      "8,30 m",
+      "10,05 m",
+      "5,30 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_lata.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 216,
+    "text": "Na podstawie podanego wzoru można obliczyć wartość błędu położenia szczegółu terenowego pomierzonego metodą gdzie: d – oznacza pomierzoną odległość do szczegółu terenowego lub pikiety, md – oznacza wartość błędu średniego pomiaru odległości, mα – oznacza wartość błędu średniego pomiaru kąta.",
+    "answers": [
+      "tachimetryczną.",
+      "biegunową.",
+      "ortogonalną.",
+      "przedłużeń."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_wzor.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 217,
+    "text": "Ile wynosi wysokość pikiety przedstawionej na rysunku, pomierzonej metodą niwelacji geometrycznej w przód?",
+    "answers": [
+      "101,500",
+      "100,005",
+      "100,050",
+      "100,500"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_niwelacja.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 218,
+    "text": "Na podstawie szkicu tyczenia budynku mieszkalnego określ, jakie powinny być współrzędne punktu nr 2.",
+    "answers": [
+      "X = 465,00 m; Y = 130,00 m",
+      "X = 126,00 m; Y = 465,00 m",
+      "X = 130,00 m; Y = 469,00 m",
+      "X = 130,00 m; Y = 465,00 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 219,
+    "text": "Która konstrukcja pomiarowa została przedstawiona na rysunkach?",
+    "answers": [
+      "Wcięcie kątowe w przód.",
+      "Wcięcie kombinowane.",
+      "Wcięcie wstecz.",
+      "Wcięcie liniowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_konstrukcja.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 220,
+    "text": "W trakcie zakładania i prowadzenia BDOT500 należy stosować hierarchię ważności atrybutu źródło. Które elementy są w tej hierarchii najważniejsze?",
+    "answers": [
+      "Fotogrametria i pomiary teledetekcyjne.",
+      "Pomiar na osnowę i obliczenia, w tym pomiary GNSS powiązane z osnową.",
+      "Digitalizacja mapy i wektoryzacja rastra mapy.",
+      "Pomiar na podstawie elementów treści  mapy lub dane projektowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 221,
+    "text": "Na rysunku przedstawiona jest idea pomiaru sytuacyjnego metodą",
+    "answers": [
+      "wcięć liniowych.",
+      "kierunkową.",
+      "biegunową.",
+      "ortogonalną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_pomiar2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 222,
+    "text": "Który obraz, zgodnie z fragmentem rozporządzenia, przedstawia prawidłowy sposób wykreślenia i opisania pomierzonego budynku na mapie zasadniczej w skali 1:500? (budynek mieszkalny, dwie kondygnacje, ulica Malwowa 5, działka budowlana o numerze 49)",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_rozporzadzenie.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 223,
+    "text": "Pokazany na rysunku znak kartograficzny przedstawia",
+    "answers": [
+      "nawis.",
+      "wiatrołap.",
+      "łącznik nadziemny.",
+      "łącznik podziemny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_znak.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 224,
+    "text": "Na rysunku przedstawiona jest mapa",
+    "answers": [
+      "topograficzna.",
+      "multimedialna.",
+      "warstwicowa.",
+      "do celów projektowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_mapa3.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 225,
+    "text": "Ile wynosi wysokość punktu P, przedstawionego na rysunku, pomierzonego metodą niwelacji trygonometrycznej?",
+    "answers": [
+      "122,000 m",
+      "121,500 m",
+      "101,000 m",
+      "101,500 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_niwelacja2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 226,
+    "text": "Która z map jest ortofotomapą?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_mapy2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 227,
+    "text": "Skala map do celów projektowych pojedynczych działek budowlanych nie powinna być mniejsza niż",
+    "answers": [
+      "1 : 2 000",
+      "1 : 500",
+      "1 : 1 000",
+      "1 : 5 000"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 228,
+    "text": "W jakiej odległości poza zasięgiem przemieszczeń podłoża, spowodowanych przez wznoszony obiekt, powinny znajdować się repery wysokościowej osnowy realizacyjnej?",
+    "answers": [
+      "Większej niż 3 m",
+      "Większej niż 5 m",
+      "Większej niż 1 m",
+      "Większej niż 2 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 229,
+    "text": "Punkty główne łuku kołowego to",
+    "answers": [
+      "P W K",
+      "P O K",
+      "P S K",
+      "P S K O W"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_luk.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 230,
+    "text": "Na rysunku przedstawiono opis topograficzny punktu osnowy",
+    "answers": [
+      "wysokościowej.",
+      "realizacyjnej.",
+      "poziomej.",
+      "pionowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_opis.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 231,
+    "text": "Tycząc prostą przez wąską przeszkodę, geodeta zastosował konstrukcję opartą na twierdzeniu Talesa. Na podstawie szkicu określ długość odcinka 11′.",
+    "answers": [
+      "2,50 m",
+      "10,00 m",
+      "15,00 m",
+      "5,00 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic3.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 232,
+    "text": "Błędy, które mają charakter losowy i są niemożliwe do wyznaczenia oraz wyeliminowania ze względu na swoją losową zmienność co do wartości liczbowej oraz znaku, to błędy",
+    "answers": [
+      "przypadkowe.",
+      "środowiskowe.",
+      "grube.",
+      "systematyczne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 233,
+    "text": "Co oznacza element p% na rysunku przedstawiającym rozmieszczenie elementów mierzonych przy wyznaczaniu skurczu mapy?",
+    "answers": [
+      "Skurcz liniowy podłużny.",
+      "Skurcz liniowy w dowolnym kierunku.",
+      "Skurcz liniowy poprzeczny.",
+      "Wymiar rzeczywisty ramki arkusza."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_mapa2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 234,
+    "text": "Wskaż wartość, która powinna znajdować się w okienku tabeli zamiast znaku zapytania.",
+    "answers": [
+      "2 500 m",
+      "250 m",
+      "25 000 m",
+      "25 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_tabela.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 235,
+    "text": "Na przedstawionym fragmencie mapy zasadniczej strzałką wskazano przewód",
+    "answers": [
+      "elektroenergetyczny.",
+      "ciepłowniczy.",
+      "gazowy.",
+      "telekomunikacyjny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_mapa10.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 236,
+    "text": "Którego z przedstawionych na ilustracjach zestawów sprzętu pomiarowego należy użyć do wykonania niwelacji geometrycznej?",
+    "answers": [
+      "Zestawu II.",
+      "Zestawu III.",
+      "Zestawu IV.",
+      "Zestawu I."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_zestawy.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 237,
+    "text": "W jakiej odległości od początku trasy znajduje się punkt na tej trasie oznaczony 0/3+57,00 m?",
+    "answers": [
+      "3057,00 m",
+      "557,00 m",
+      "3557,00 m",
+      "357,00 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 238,
+    "text": "Przedstawiony szkic polowy został sporządzany w trakcie wykonywania pomiaru szczegółów sytuacyjnych metodą",
+    "answers": [
+      "biegunową.",
+      "ortogonalną.",
+      "wcięć liniowych.",
+      "przedłużeń konturów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic23.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 239,
+    "text": "Który z wymienionych obiektów podlega obowiązkowemu wytyczeniu geodezyjnemu i inwentaryzacji powykonawczej?",
+    "answers": [
+      "Znak drogowy.",
+      "Przyłącze wodociągowe.",
+      "Piaskownica.",
+      "Ogrodzenie trwałe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 240,
+    "text": "Na rysunkach przedstawiono wyniki pomiaru wysokościowego den studzienek kanalizacyjnych (punkty K1 i K2) wykonanego metodą niwelacji geometrycznej ze środka. Wskaż wartości odczytów z łat niwelacyjnych ustawionych w punktach K1 i K2.",
+    "answers": [
+      "OK1 = 0900;   OK2 = 1100",
+      "OK1 = 0950;   OK2 = 1120",
+      "OK1 = 0800;   OK2 = 1000",
+      "OK1 = 0850;   OK2 = 1050"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_odczyty2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 241,
+    "text": "Którą metodę pomiaru, stosowaną podczas inwentaryzacji elewacji budynku, gdy nie ma możliwości bezpośredniego pomiaru odległości poziomych między punktami, zobrazowano na rysunku?",
+    "answers": [
+      "Metodę trygonometryczną.",
+      "Metodę ortogonalną.",
+      "Metodę rzutowania.",
+      "Metodę przedłużeń."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_metoda5.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 242,
+    "text": "Na rysunkach przedstawiono odczyty z łaty wykonane podczas badania pionowości czterech kominów. Na którym rysunku przedstawiono komin, dla którego wartość liniowa wychylenia osi od pionu na czwartym poziomie obserwacyjnym jest największa?",
+    "answers": [
+      "Na rysunku 2.",
+      "Na rysunku 1.",
+      "Na rysunku 3.",
+      "Na rysunku 4."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_kominy.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 243,
+    "text": "Które prace geodezyjne zawsze poprzedza się wywiadem terenowym i przygotowaniem mapy porównania z terenem?",
+    "answers": [
+      "Pomiar objętości mas ziemnych.",
+      "Pomiar kontrolny wychylenia komina.",
+      "Aktualizację bazy danych obiektów topograficznych i mapy zasadniczej.",
+      "Obsługę inwestycji budowlanej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 244,
+    "text": "Na podstawie przedstawionego profilu podłużnego oblicz, ile wynosi pochylenie terenu na odcinku od 0/1 do 0/2.",
+    "answers": [
+      "3,1%",
+      "2,0%",
+      "4,0%",
+      "6,2%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_profil8.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 245,
+    "text": "W którym ciągu niwelacyjnym teoretyczna suma różnic wysokości między punktem początkowym i końcowym wynosi 0 mm?",
+    "answers": [
+      "Otwartym.",
+      "Wiszącym.",
+      "Zamkniętym.",
+      "Wyliczeniowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 246,
+    "text": "Na podstawie przedstawionej dokumentacji określ wartość południka osiowego prostokątnego układu współrzędnych prostokątnych płaskich PL-2000, w którym opracowano mapę do celów projektowych.",
+    "answers": [
+      "21°",
+      "18°",
+      "15°",
+      "24°"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_dokumentacja2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 247,
+    "text": "Którym symbolem należy oznaczyć na szkicu polowym pomierzony obiekt przedstawiony na ilustracji?",
+    "answers": [
+      "Symbolem 1.",
+      "Symbolem 2.",
+      "Symbolem 3.",
+      "Symbolem 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_obiekt7.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 248,
+    "text": "Przedstawiony fragment szkicu polowego jest dokumentem sporządzonym z pomiaru",
+    "answers": [
+      "sytuacyjnego metodą ortogonalną.",
+      "tachimetrycznego.",
+      "niwelacji podłużnej.",
+      "sytuacyjnego metodą biegunową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic21.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 249,
+    "text": "Który z wymienionych typów pomiarów należy zastosować do wyznaczenia położenia punktów kolejowej osnowy poziomej podstawowej, wykorzystując globalne systemy nawigacji satelitarnej (GNSS)?",
+    "answers": [
+      "Pomiary w czasie rzeczywistym DGPS.",
+      "Statyczny pomiar GPS.",
+      "\"Stop-and-go\".",
+      "RTK GPS."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 250,
+    "text": "Na przedstawionym fragmencie mapy zasadniczej strzałką wskazano znak kartograficzny oznaczający",
+    "answers": [
+      "werandę.",
+      "budynek projektowany.",
+      "taras.",
+      "budynek w budowie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_mapa9.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 251,
+    "text": "Na rysunku przedstawiającym przekrój terenu strzałką wskazano",
+    "answers": [
+      "punkt załamania terenu.",
+      "punkt początku spadku terenu.",
+      "punkt zerowy robót ziemnych.",
+      "punkt końca spadku terenu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_przekroj.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 252,
+    "text": "W tabeli zamieszczono wyniki badania pionowości komina. Którą wartość należy wpisać na wykresie odchyleń osi komina od pionu w miejscu oznaczonym strzałką?",
+    "answers": [
+      "-10 cm",
+      "-512cc",
+      "477cc",
+      "9 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_komin2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 253,
+    "text": "Do fragmentu dziennika pomiaru wychylenia budynku metodą rzutowania, w pola oznaczone czerwoną ramką należy wpisać kolejno od lewej strony:",
+    "answers": [
+      "-3; -5; -4",
+      "-3; -5; -8",
+      "-6; -10; -8",
+      "-6; -10; -16"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_dziennik21.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 254,
+    "text": "Na podstawie przedstawionych w ramce przepisów prawnych określ, ile wynosi minimalna dokładność określenia położenia pojedynczego drzewa względem poziomej osnowy pomiarowej podczas pomiaru sytuacyjnego?",
+    "answers": [
+      "30 cm",
+      "5 cm",
+      "50 cm",
+      "10 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_ramka2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 255,
+    "text": "W jakiej skali układu PL-2000 sporządzony jest arkusz mapy zasadniczej o godle 7.125.30.10.3?",
+    "answers": [
+      "1:1000",
+      "1:2000",
+      "1:500",
+      "1:5000"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 256,
+    "text": "Wysokość punktu nr 1, którą należy wpisać w kolumnie 07 dziennika tachimetrii zwykłej, w miejscu oznaczonym ? wynosi",
+    "answers": [
+      "105,38",
+      "119,51",
+      "108,12",
+      "122,25"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_dziennik19.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 257,
+    "text": "Do stabilizacji punktu pomiarowej osnowy poziomej znajdującego się na kostce brukowej należy użyć znaku przedstawionego na",
+    "answers": [
+      "ilustracji 2.",
+      "ilustracji 4.",
+      "ilustracji 1.",
+      "ilustracji 3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_znaki4.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 258,
+    "text": "W którym ciągu niwelacyjnym teoretyczna suma różnic wysokości między punktem końcowym a początkowym wynosi 0 mm?",
+    "answers": [
+      "Wiszącym.",
+      "Wyliczeniowym.",
+      "Otwartym.",
+      "Zamkniętym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 259,
+    "text": "Na podstawie przedstawionego planu zagospodarowania działki oblicz współrzędne prostokątne X, Y punktu 103.",
+    "answers": [
+      "X = 527,00 m;  Y = 515,00 m",
+      "X = 505,00 m;  Y = 515,00 m",
+      "X = 510,00 m;  Y = 527,00 m",
+      "X = 505,00 m;  Y = 512,00 m"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_plan4.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 260,
+    "text": "Długość odcinka pomierzonego na mapie w skali 1:2000 wynosi 11,1 cm. Ile wynosi długość tego odcinka w terenie?",
+    "answers": [
+      "5,55 m",
+      "55,50 m",
+      "22,20 m",
+      "2,22 m"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 261,
+    "text": "Na ilustracji przedstawiono schemat przeniesienia wysokości z reperu A na punkt B metodą niwelacji",
+    "answers": [
+      "trygonometrycznej.",
+      "precyzyjnej.",
+      "geometrycznej.",
+      "reperów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_niwelacja3.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 262,
+    "text": "Geodezyjny pomiar sytuacyjny włazu studzienki kanalizacyjnej należy wykonać w sposób zapewniający określenie położenia tego szczegółu terenowego względem punktów poziomej osnowy geodezyjnej z dokładnością nie mniejszą niż",
+    "answers": [
+      "0,10 m",
+      "0,50 m",
+      "0,30 m",
+      "0,20 m"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 263,
+    "text": "Na przedstawionym fragmencie mapy zasadniczej strzałka wskazuje znak kartograficzny oznaczający",
+    "answers": [
+      "budynek w budowie.",
+      "budynek projektowany.",
+      "werandę.",
+      "taras."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_mapa9.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 264,
+    "text": "Przedstawiony szkic polowy został sporządzony w trakcie wykonywania pomiaru szczegółów sytuacyjnych metodą",
+    "answers": [
+      "przedłużeń konturów.",
+      "wcięć liniowych.",
+      "ortogonalną.",
+      "biegunową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic23.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 265,
+    "text": "Na którym rysunku przedstawiono szkic pomiaru sytuacyjnego punktu P (523) metodą wcięcia kątowego wstecz?",
+    "answers": [
+      "Na rysunku 1.",
+      "Na rysunku 4.",
+      "Na rysunku 2.",
+      "Na rysunku 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkice2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 266,
+    "text": "Który punkt bazy danych obiektów topograficznych BDOT500 wskazano strzałką na rysunku działek ewidencyjnych?",
+    "answers": [
+      "Osnowy pomiarowej niestabilizowany.",
+      "Graniczny stabilizowany trwale.",
+      "Graniczny niestabilizowany.",
+      "Osnowy pomiarowej stabilizowany trwale."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_rysunek18.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 267,
+    "text": "Na ilustracji przedstawiającej pomiar przemieszczeń cyfrą 1 oznaczono punkt",
+    "answers": [
+      "kontrolny.",
+      "wiążący.",
+      "kontrolowany.",
+      "odniesienia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_pomiar12.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 268,
+    "text": "Na podstawie przedstawionych na ilustracjach odczytów z łaty niwelacyjnej (w punktach K1 i K2), uzyskanych podczas pomiaru wysokościowego sieci kanalizacyjnej, oblicz różnicę wysokości ∆hK1-K2 pomiędzy dnami studzienek 1 i 2.",
+    "answers": [
+      "∆hK1-K2 = -0,200 m",
+      "∆hK1-K2 = 0,200 m",
+      "∆hK1-K2 = -0,020 m",
+      "∆hK1-K2 = 0,020 m"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_pomiary3.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 269,
+    "text": "Którą metodę pomiaru kąta poziomego zobrazowano na przedstawionym szkicu?",
+    "answers": [
+      "Kierunkową.",
+      "Sektorową.",
+      "Zwykłą.",
+      "Repetycyjną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic29.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 270,
+    "text": "Którego dziennika pomiarowego należy użyć do zapisu wyników pomiaru niwelacyjnego trasy drogowej przedstawionego na rysunku?",
+    "answers": [
+      "Dziennika 1.",
+      "Dziennika 4.",
+      "Dziennika 2.",
+      "Dziennika 3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_pomiar11.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 271,
+    "text": "Jaką dokładność graficzną można uzyskać dla mapy w skali 1:2000, jeżeli błąd średni położenia szczegółu terenowego na tej mapie wynosi ±0,1 mm w skali mapy?",
+    "answers": [
+      "±0,02 m",
+      "±0,2 m",
+      "±0,002 m",
+      "±2 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 272,
+    "text": "W bazie danych obiektów topograficznych BDOT500 opisano sieć kanalizacyjną sanitarną znakami ksX300. Źródło danych o położeniu tej sieci",
+    "answers": [
+      "pochodzi z materiałów nieaktualnych.",
+      "pochodzi z materiałów archiwalnych.",
+      "jest nieokreślone.",
+      "jest trudne do określenia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 273,
+    "text": "Ile wynosi błąd średni mP położenia punktu osnowy realizacyjnej, jeżeli błędy współrzędnych X i Y tego punktu wynoszą odpowiednio: mX = 0,4 cm, mY = 0,3 cm oraz",
+    "answers": [
+      "mP = ±0,9 cm",
+      "mP = ±0,6 cm",
+      "mP = ±0,5 cm",
+      "mP = ±0,4 cm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_wzor2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 274,
+    "text": "Południkiem osiowym odwzorowania Gaussa-Krügera w układzie współrzędnych PL-1992 jest południk",
+    "answers": [
+      "19°",
+      "21°",
+      "17°",
+      "15°"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 275,
+    "text": "Na której ilustracji przedstawiono mapę z inwentaryzacji powykonawczej budynku i przyłączy?",
+    "answers": [
+      "Na ilustracji 1.",
+      "Na ilustracji 3.",
+      "Na ilustracji 2.",
+      "Na ilustracji 4."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_mapy4.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 276,
+    "text": "Do stabilizacji punktu osnowy realizacyjnej o nominalnych współrzędnych, gdy wprowadzane są poprawki trasowania, należy użyć znaku przedstawionego na",
+    "answers": [
+      "rysunku 4.",
+      "rysunku 1.",
+      "rysunku 3.",
+      "rysunku 2."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_rysunki2.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 277,
+    "text": "Na podstawie danych przedstawionych na szkicu oblicz wychylenie osi komina na poziomie 3 względem poziomu odniesienia.",
+    "answers": [
+      "20 mm",
+      "5 mm",
+      "25 mm",
+      "15 mm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic16.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 278,
+    "text": "Na której ilustracji przedstawiono pionownik laserowo-optyczny?",
+    "answers": [
+      "Na ilustracji 2.",
+      "Na ilustracji 1.",
+      "Na ilustracji 3.",
+      "Na ilustracji 4."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_rysunki5.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 279,
+    "text": "Na podstawie danych zamieszczonych we fragmencie dziennika oblicz wartość azymutu A1024-1025, którą należy wpisać w kolumnie 05.",
+    "answers": [
+      "27g 65c 16cc",
+      "227g 65c 16cc",
+      "172g 34c 84cc",
+      "277g 65c 16cc"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_dziennik17.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 280,
+    "text": "Długość odcinka pomierzonego na mapie w skali 1 : 500 wynosi 11,1 cm. Ile wynosi rzeczywista długość tego odcinka w terenie?",
+    "answers": [
+      "5,55 m",
+      "55,5 m",
+      "2,22 m",
+      "22,2 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 281,
+    "text": "Która ze strzałek na szkicu tyczenia wskazuje miarę oznaczającą wynik pomiaru kontrolnego tyczonych elementów obiektu?",
+    "answers": [
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic19.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 282,
+    "text": "Na podstawie przedstawionego profilu podłużnego oblicz, ile wynosi pochylenie terenu na odcinku od 0/0+100 do 0/0+200.",
+    "answers": [
+      "3,1%",
+      "2,0%",
+      "4,0%",
+      "6,2%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_profil6.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 283,
+    "text": "Przedstawiony na rysunku znak kartograficzny stosowany jest do oznaczania przewodów wodociągowych o średnicy większej od 0,75 m na mapie zasadniczej w skali",
+    "answers": [
+      "1 : 500",
+      "1 : 2 000",
+      "1 : 1 000",
+      "1 : 5 000"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_znak4.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 284,
+    "text": "Na podstawie widoku okna z bazy danych GESUT przedstawiającego atrybuty przewodu elektroenergetycznego oraz danych z tabeli nr 1, wskaż kod tego obiektu na trzecim poziomie szczegółowości.",
+    "answers": [
+      "SUPC02",
+      "SUPB01",
+      "SUPE02",
+      "SUPE01"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_tabela12.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 285,
+    "text": "Na podstawie przedstawionych na rysunkach odczytów z łaty niwelacyjnej (w punktach K1 i K2), uzyskanych podczas pomiaru wysokościowego sieci kanalizacyjnej, oblicz różnicę wysokości ∆hK1-K2 pomiędzy dnami studzienek 1 i 2.",
+    "answers": [
+      "∆hK1-K2 = 0,200 m",
+      "∆hK1-K2 = 0,020 m",
+      "∆hK1-K2 = -0,200 m",
+      "∆hK1-K2 = -0,020 m"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_pomiary3.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 286,
+    "text": "Na podstawie danych zawartych na szkicu oblicz pochylenie przewodu wodociągowego pomiędzy dnami studzienek W1 i W2, wiedząc że odległość pomiędzy studzienkami wynosi 50 m.",
+    "answers": [
+      "iW1-W2 = -3,0%",
+      "iW1-W2 = -1,1%",
+      "iW1-W2 =  3,0%",
+      "iW1-W2 =  1,1%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic28.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 287,
+    "text": "Którego z przedstawionych na rysunkach zestawów sprzętu pomiarowego należy użyć do wykonania niwelacji geometrycznej?",
+    "answers": [
+      "Zestawu I.",
+      "Zestawu II.",
+      "Zestawu IV.",
+      "Zestawu III."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_zestawy.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 288,
+    "text": "Na podstawie przedstawionego profilu podłużnego oblicz długość odcinka, który należało odłożyć na profilu wykonanym w określonej skali, w celu przedstawienia wysokości punktu oddalonego od początku trasy o 200,00 m.",
+    "answers": [
+      "75,5 mm",
+      "63,0 mm",
+      "53,0 mm",
+      "68,5 mm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_profil6.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 289,
+    "text": "Sporządzając geodezyjną inwentaryzację powykonawczą, na mapie zasadniczej należy zaznaczyć obrys krawędzi przewodu ciepłowniczego w sposób przedstawiony na rysunku, ponieważ * zdający otrzymuje jeden punkt niezależnie od udzielonej odpowiedzi.",
+    "answers": [
+      "średnica przewodu jest większa od 0,50 m. \nB. średnica przewodu jest mniejsza niż 0,50 m. \nC. jest to przewód ciepłowniczy o wysokim ciśnieniu wody. \nD. jest to przewód ciepłowniczy o wysokiej temperaturze wody."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_rysunek14.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 290,
+    "text": "Na podstawie szkicu z pomiaru sytuacyjnego oraz współrzędnych prostokątnych punktów 6 i 19 oblicz współrzędne punktu 2.",
+    "answers": [
+      "X2 = 121,02 m;   Y2 = 171,15 m",
+      "X2 = 145,32 m;   Y2 = 141,02 m",
+      "X2 = 141,02 m;   Y2 = 191,15 m",
+      "X2 = 171,15 m;   Y2 = 121,02 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic24.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 291,
+    "text": "Na podstawie zamieszczonego rysunku oraz danych oblicz przemieszczenie punktu kontrolowanego wyznaczone metodą prostej odniesienia.",
+    "answers": [
+      "0,0628 m",
+      "-0,0628 m",
+      "0,0157 m",
+      "-0,0157 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_rysunek15.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 292,
+    "text": "Jaki rodzaj robót geodezyjnych wykonał geodeta, który sporządził przedstawione sprawozdanie techniczne?",
+    "answers": [
+      "Wykonanie mapy sytuacyjnej.",
+      "Aktualizację mapy.",
+      "Wykonanie mapy do celów projektowych.",
+      "Wywiad terenowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_sprawozdanie.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 293,
+    "text": "Na rysunku przedstawiono schemat przeniesienia wysokości z reperu A na punkt B metodą niwelacji",
+    "answers": [
+      "precyzyjnej.",
+      "trygonometrycznej.",
+      "geometrycznej.",
+      "reperów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_niwelacja3.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 294,
+    "text": "Podczas inwentaryzacji pośredniej urządzeń podziemnych ustalenie położenia przewodu należy wykonywać za pomocą",
+    "answers": [
+      "lokalizatora.",
+      "tachimetru.",
+      "niwelatora.",
+      "odbiornika GPS."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 295,
+    "text": "Na podstawie szkicu z pomiaru sytuacyjnego oraz współrzędnych prostokątnych punktów 6 i 19 oblicz współczynniki kierunkowe cos A6-19 oraz sin A6-19 dla boku osnowy 6-19.",
+    "answers": [
+      "cos A6-19 = 0,00; sin A6-19 = 1,00",
+      "cos A6-19 = 71,15; sin A6-19 = 0,00",
+      "cos A6-19 = 1,00; sin A6-19 = 0,00",
+      "cos A6-19 = 0,00; sin A6-19 = 71,15"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic24.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 296,
+    "text": "Który z wymienionych instrumentów geodezyjnych nie jest stosowany podczas tyczenia położenia punktów głównych budynku jednorodzinnego?",
+    "answers": [
+      "Tachimetr.",
+      "Niwelator.",
+      "Skaner laserowy.",
+      "Odbiornik GPS."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 297,
+    "text": "Na rysunku przedstawiającym pomiar przemieszczeń cyfrą 1 oznaczono punkt",
+    "answers": [
+      "odniesienia.",
+      "kontrolowany.",
+      "wiążący.",
+      "kontrolny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_pomiar12.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 298,
+    "text": "W celu określenia położenia punktów pomiarowej osnowy poziomej, zakładanej w postaci ciągu poligonowego obustronnie nawiązanego, należy określić między wyznaczanymi punktami",
+    "answers": [
+      "odległości poziome i kąty poziome.",
+      "odległości pionowe i kąty pionowe.",
+      "odległości pionowe i kąty poziome.",
+      "odległości poziome i kąty pionowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 299,
+    "text": "Na podstawie rysunku przedstawiającego przemieszczenie punktu Pi o wektor U w układzie współrzędnych XYZ oblicz długość wektora przemieszczenia U.",
+    "answers": [
+      "8,4 mm",
+      "5,8 mm",
+      "6,7 mm",
+      "7,8 mm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_rysunek16.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 300,
+    "text": "Podczas pomiaru osnowy pomiarowej wysokościowej metodą niwelacji geometrycznej stanowiska instrumentu należy tak zlokalizować tak, aby były położone",
+    "answers": [
+      "w dowolnym położeniu między mierzonymi punktami.",
+      "w połowie odległości między mierzonymi punktami.",
+      "możliwie najbliżej mierzonych punktów.",
+      "centrycznie na mierzonych punktach."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 301,
+    "text": "Opisy pomierzonych pikiet wysokościowych na mapie zasadniczej orientuje się równolegle do osi",
+    "answers": [
+      "pionowej prostokątnego układu współrzędnych.",
+      "poziomej biegunowego układu współrzędnych.",
+      "pionowej biegunowego układu współrzędnych.",
+      "poziomej prostokątnego układu współrzędnych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 302,
+    "text": "Dokonując niwelacji profilów, należy w terenie tak zlokalizować przekroje poprzeczne na obiekcie objętym pomiarem, aby odległość między pikietami na przekroju wynosiła maksymalnie * zdający otrzymuje jeden punkt niezależnie od udzielonej odpowiedzi.",
+    "answers": [
+      "25 m\nB.   50 m\nC.   75 m\nD. 100 m"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 303,
+    "text": "Na podstawie wzoru podanego w ramce oblicz błąd centrowania podczas tyczenia punktu metodą biegunową, jeżeli długość domiaru wynosi 100 m, a długość celowej odniesienia 400 m.",
+    "answers": [
+      "3,50 mm",
+      "0,40 mm",
+      "0,35 mm",
+      "4,00 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_wzor4.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 304,
+    "text": "Do pomiaru przemieszczeń pionowych przęseł mostu należy zastosować",
+    "answers": [
+      "inklinometr.",
+      "niwelator.",
+      "pionownik.",
+      "tensometr."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 305,
+    "text": "Dane są trzy spostrzeżenia niejednakowo dokładne o średnich błędach m1 = ±1 cm, m2 = ±2 cm, m3 = ±3 cm. Ile wynoszą wagi odpowiadające tym spostrzeżeniom?",
+    "answers": [
+      "p1 = 1;   p2 = 0,25;   p3 = 0,11",
+      "p1 = 1;   p2 = 0,20;   p3 = 0,30",
+      "p1 = 1;   p2 = 0,50;   p3 = 0,33",
+      "p1 = 1;   p2 = 0,50;   p3 = 0,25"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 306,
+    "text": "Który warunek nie musi być spełniony przy zakładaniu pomiarowej osnowy sytuacyjnej?",
+    "answers": [
+      "Wielopunktowe nawiązanie do poziomej osnowy geodezyjnej.",
+      "Wykonanie nadliczbowych obserwacji mierzonych elementów.",
+      "Co najmniej dwukrotne wykonanie pomiaru każdego mierzonego elementu.",
+      "Pomiar całego obszaru opracowania z jednego stanowiska pomiarowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 307,
+    "text": "Geodeta wykonał pomiar inwentaryzacyjny budynku mieszkalnego, jednopiętrowego, z mieszkaniami dla dwóch rodzin. Które oznaczenie powinien wpisać w konturze tego budynku na mapie zasadniczej?",
+    "answers": [
+      "md1",
+      "md2",
+      "mj1",
+      "mj2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 308,
+    "text": "Na podstawie szkicu ciągu poligonowego oblicz niewyrównany azymut boku A7-6, jeżeli azymut boku nawiązania A2207-2206 wynosi 145,8822g.",
+    "answers": [
+      "151,1283g",
+      "163,0222g",
+      "363,0222g",
+      "211,8939g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic22.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 309,
+    "text": "W celu wykonania pomiaru szczegółów sytuacyjnych metodą biegunową należy wyznaczyć odległość",
+    "answers": [
+      "skośną między stanowiskiem instrumentu a punktem celowania oraz kierunek pionowy na ten punkt.",
+      "poziomą między stanowiskiem instrumentu a punktem celowania oraz kierunek poziomy na ten punkt.",
+      "skośną między stanowiskiem instrumentu a punktem celowania oraz kierunek poziomy na ten punkt.",
+      "poziomą między stanowiskiem instrumentu a punktem celowania oraz kierunek pionowy na ten punkt."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 310,
+    "text": "Na podstawie szkicu ciągu poligonowego oblicz teoretyczną sumę kątów w ciągu, jeżeli azymuty boków nawiązania wynoszą odpowiednio A2207-2206 = 145,8822g, A1513-2205 = 249,7721g.",
+    "answers": [
+      "1896,1101g",
+      "1693,1101g",
+      "1703,8899g",
+      "1903,8899g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic22.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 311,
+    "text": "Na podstawie przedstawionego szkicu osnowy realizacyjnej wskaż, ile wynoszą poprawki trasowania dla punktu nr 4.",
+    "answers": [
+      "dx = -0,0004 m;  dy = +0,0071 m",
+      "dx = +0,0056 m; dy = -0,0009 m",
+      "dx = +0,0071 m; dy = -0,0004 m",
+      "dx = -0,0009 m;  dy = +0,0056 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic25.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 312,
+    "text": "Na szkicu z pomiaru inwentaryzacyjnego przewodu kanalizacyjnego metodą biegunową nie umieszcza się",
+    "answers": [
+      "pomierzonych odległości poziomych.",
+      "rodzaju przewodu kanalizacyjnego.",
+      "średnicy przewodu.",
+      "danych do tyczenia przewodu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 313,
+    "text": "Zaletą pomiaru osnowy realizacyjnej techniką nawigacji satelitarnej GNSS w porównaniu z pomiarem wykonanym tachimetrem elektronicznym jest",
+    "answers": [
+      "szybkość i dokładność pomiaru długości.",
+      "wyznaczenie współrzędnych X, Y z dokładnością do 1 mm.",
+      "brak konieczności istnienia wizur między punktami.",
+      "brak konieczności dowiązania do osnowy państwowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.18"
+  },
+  {
+    "id": 314,
+    "text": "Która z miar wskazanych strzałką na szkicu tyczenia, oznacza obliczoną miarę kontrolną?",
+    "answers": [
+      "4",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_szkic19.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 315,
+    "text": "Na podstawie wzoru przedstawionego w ramce oblicz błąd centrowania podczas tyczenia punktu metodą biegunową, jeżeli długość domiaru wynosi 100 m, a długość celowej odniesienia 400 m.",
+    "answers": [
+      "0,35 mm",
+      "4,00 mm",
+      "0,40 mm",
+      "3,50 mm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_wzor4-1.png"
+    },
+    "category": "BUD.18"
+  },
+  {
+    "id": 316,
+    "text": "Na przedstawionym fragmencie mapy zasadniczej kolorem fioletowym oznaczono przewód",
+    "answers": [
+      "gazowy.",
+      "ciepłowniczy.",
+      "telekomunikacyjny.",
+      "elektroenergetyczny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud18/bd31_mapa6.png"
+    },
+    "category": "BUD.18"
+  }
+]
