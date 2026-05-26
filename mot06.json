@@ -1,0 +1,3820 @@
+[
+  {
+    "id": 1,
+    "text": "Które z elementów należy poddać utylizacji po wykonaniu naprawy określonej we fragmencie przedstawionego w tabeli zlecenia serwisowego samochodu?",
+    "answers": [
+      "Klocki hamulcowe.",
+      "Linkę hamulca ręcznego.",
+      "Opony.",
+      "Świece zapłonowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot06/mg43_tabela12.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 2,
+    "text": "W tabeli przedstawiono wyciąg z cennika serwisu samochodowego. Zlecenie obejmuje badanie techniczne pojazdu na stacji kontroli pojazdów oraz wymianę przednich amortyzatorów (wraz z ich zakupem). Jaki jest koszt brutto wykonania zlecenia?",
+    "answers": [
+      "442,80 zł",
+      "388,20 zł",
+      "300,00 zł",
+      "302,10 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mot06/mg43_tabela6.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 3,
+    "text": "Na podstawie rysunku przedstawiającego fragment dowodu rejestracyjnego wskaż moc i pojemność silnika tego pojazdu.",
+    "answers": [
+      "10,15 kN; 96 W",
+      "2 kW; 10,15 kN",
+      "96 kW; 1984 cm3",
+      "1984 cm3; 10,15 kN"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot06/mg43_dowod.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 4,
+    "text": "Wskaż element, którego uszkodzenie jest przyczyną problemów z uruchamianiem silnika z zapłonem samoczynnym w niskich temperaturach.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mot06/mg43_elementy.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 5,
+    "text": "W ASO diagnostykę alternatora w samochodzie wykonuje pracownik na stanowisku",
+    "answers": [
+      "elektromechanika samochodowego.",
+      "blacharza samochodowego.",
+      "lakiernika samochodowego.",
+      "mechanika samochodowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 6,
+    "text": "W tabeli przedstawiono wyciąg z cennika serwisu samochodowego. Zlecenie stałego klienta obejmuje wykonanie przeglądu samochodu z przebiegiem 99 500 km oraz wymianę klocków hamulcowych tylnej osi (wraz z ich zakupem). Jaki jest koszt brutto wykonania zlecenia?",
+    "answers": [
+      "480,00 zł",
+      "314,40 zł",
+      "590,40 zł",
+      "609,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot06/mg43_tabela7.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 7,
+    "text": "Których części samochodowych nie wolno ponownie przeznaczyć (są zakazane prawnie) do sprzedaży po rozbiórce samochodu na stacji demontażu?",
+    "answers": [
+      "Klocków hamulcowych.",
+      "Błotników.",
+      "Opon.",
+      "Czujników parkowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 8,
+    "text": "Które narzędzie należy zastosować do zdjęcia izolacji przed wykonaniem połączenia przewodów instalacji elektrycznej samochodu?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot06/mg43_narzedzia.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 9,
+    "text": "W oparciu o zamieszczone zestawienie oblicz czas wymiany wszystkich tarcz hamulcowych oraz przednich zacisków hamulcowych w samochodzie. Czas naprawy Zacisk hamulca Wymiana lewego przedniego zacisku hamulcowego (1,2 godziny) Wymiana prawego przedniego zacisku hamulcowego (1,2 godziny) Wymiana lewego tylnego zacisku hamulcowego (1,2 godziny) Wymiana prawego tylnego zacisku hamulcowego (1,2 godziny) Wymiana obu przednich zacisków hamulcowych (1,4 godziny) Wymiana obu tylnych zacisków hamulcowych (1,6 godziny) Wymiana wszystkich zacisków hamulcowych (2,5 godziny) Tarcza hamulca Wymiana lewej przedniej tarczy hamulcowej (0,6 godziny) Wymiana prawej przedniej tarczy hamulcowej (0,6 godziny) Wymiana obu przednich tarcz hamulcowych (0,9 godziny) Wymiana lewej tylnej tarczy hamulcowej (1,1 godziny) Wymiana prawej tylnej tarczy hamulcowej (1,1 godziny) Wymiana obu tylnych tarcz hamulcowych (1,5godziny) Wymiana wszystkich tarcz hamulcowych (2,4 godziny)",
+    "answers": [
+      "1,6 godziny.",
+      "2,5 godziny.",
+      "3,8 godziny.",
+      "2,4 godziny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 10,
+    "text": "Tabela zawiera dane techniczne silnika. Ile wynosi wymagana wartość ciśnienia oleju (temperatura 80°C) przy prędkości obrotowej silnika 2000 obr/min?",
+    "answers": [
+      "45,00 bar",
+      "0,70 MPa",
+      "2,7-4,5 bar",
+      "70,00 bar"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot06/mg43_tabela3.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 11,
+    "text": "Przyczyną „wypadania zapłonów” w silniku z zapłonem iskrowym jest uszkodzenie",
+    "answers": [
+      "regulatora ciśnienia.",
+      "termostatu.",
+      "cewki zapłonowej.",
+      "świec żarowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 12,
+    "text": "Właściciel wycofanego z eksploatacji pojazdu samochodowego, w celu jego wyrejestrowania jest zobowiązany do okazania we właściwym urzędzie zaświadczenia o",
+    "answers": [
+      "przekazaniu pojazdu do stacji demontażu.",
+      "sprzedaży pojazdu innej osobie.",
+      "przekazaniu pojazdu na składowisko odpadów.",
+      "darowiźnie pojazdu innej osobie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 13,
+    "text": "Urządzenie przedstawione na rysunku należy zastosować do",
+    "answers": [
+      "obsługi technicznej kół.",
+      "naprawy blacharskiej.",
+      "naprawy układu zawieszenia.",
+      "obsługi układu klimatyzacji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mot06/mg43_urzadzenie.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 14,
+    "text": "Urządzeniem pomiarowym na stacji kontroli pojazdów wymagającym przeprowadzenia co pół roku okresowej legalizacji w uprawnionym laboratorium jest",
+    "answers": [
+      "hamulcomierz rolkowy.",
+      "analizator spalin.",
+      "płyta do wstępnej kontroli zbieżności.",
+      "urządzenie do pomiaru świateł."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 15,
+    "text": "Który z rozruszników z tabeli należy zamówić do samochodu Audi A4?",
+    "answers": [
+      "0 986 016 780",
+      "0 986 011 360",
+      "0 986 013 350",
+      "0 986 014 920"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mot06/mg43_tabela10.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 16,
+    "text": "Po wymianie czujnika prędkości obrotowej układu ABS należy sprawdzić",
+    "answers": [
+      "grubość klocków hamulcowych.",
+      "skok jałowy pedału hamulca.",
+      "występowanie kodów błędów.",
+      "drogę hamowania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 17,
+    "text": "W samochodzie, co 110 000 km lub co 4 lata (w zależności, który warunek nastąpi wcześniej), należy wymienić rozrząd oraz pompę wody. Który przypadek zawarty w tabeli spełnia warunki wymiany?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot06/mg43_tabela2.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 18,
+    "text": "Którą czynność powinien wykonać mechanik w pierwszej kolejności po wymianie końcówki drążka kierowniczego w samochodzie?",
+    "answers": [
+      "Sprawdzić zbieżność kół.",
+      "Sprawdzić wyważenie kół.",
+      "Odczytać kody błędów.",
+      "Wykonać jazdę próbną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 19,
+    "text": "W którym dokumencie diagnosta samochodowy na stacji kontroli pojazdów zapisuje wykryte w czasie badania technicznego usterki samochodu?",
+    "answers": [
+      "Zaświadczeniu o przeprowadzonym badaniu.",
+      "Dokumencie identyfikacyjnym pojazdu.",
+      "Karcie gwarancyjnej.",
+      "Zleceniu serwisowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 20,
+    "text": "W tabeli przedstawiono momenty dokręcenia świec zapłonowych. Jakim momentem powinna zostać dokręcona świeca zapłonowa z gwintem o średnicy 14 mm z płaskim gniazdem, w głowicy aluminiowej?",
+    "answers": [
+      "25 Nm",
+      "35 Nm",
+      "30 Nm",
+      "15 Nm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot06/mg43_tabela4.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 21,
+    "text": "Jak należy postąpić w przypadku wystąpienia konieczności wydłużenia czasu naprawy samochodu w ASO, wynikającej z niedostarczenia przez hurtownię właściwej części do naprawy?",
+    "answers": [
+      "Zamontować „starą” część, a klienta powiadomić o tym przy odbiorze samochodu.",
+      "Odstawić samochód do innego serwisu, który dysponuje częścią i powiadomić o tym klienta.",
+      "Zamówić część w innej hurtowni oraz ekspresową dostawę do warsztatu.",
+      "Poinformować klienta o przyczynie konieczności wydłużenia czasu naprawy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 22,
+    "text": "Odstęp elektrod świec zapłonowych, dla silników montowanych w samochodzie do sierpnia 1996 r. powinien wynosić od 0,7 mm do 0,8 mm, zaś dla silników montowanych od września 1996 r. od 0,9 mm do 1,1 mm. Na której świecy odstęp elektrod w samochodzie wyprodukowanym w styczniu 1998 r. nie jest prawidłowy?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot06/mg43_tabela5.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 23,
+    "text": "Przedstawiony fragment dokumentu to",
+    "answers": [
+      "zamówienie magazynowe.",
+      "zlecenie serwisowe.",
+      "faktura naprawy.",
+      "faktura zakupu części."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot06/mg43_tabela.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 24,
+    "text": "Urządzeniem w warsztacie samochodowym podlegającym okresowemu sprawdzeniu przez Urząd Dozoru Technicznego jest",
+    "answers": [
+      "urządzenie rolkowe.",
+      "prasa warsztatowa.",
+      "podnośnik kolumnowy.",
+      "montażownica opon."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 25,
+    "text": "Tabela zawiera fragment wpisów w książce serwisowej. Przeglądy należy wykonywać co 12 miesięcy lub 15 000 km – w zależności, co nastąpi wcześniej. Który z przeglądów został wykonany w terminie niezgodnym z zaleceniami producenta?",
+    "answers": [
+      "Przegląd 3",
+      "Przegląd 2",
+      "Przegląd 4",
+      "Przegląd 5"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot06/mg43_tabela9.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 26,
+    "text": "W tabeli przedstawiono cennik usług blacharskich. Ile zapłaci klient za naprawę nadwozia samochodu, w którym należy usunąć 5 pojedynczych małych wgnieceń oraz wstawić 2 progi oraz nadkole wewnętrzne?",
+    "answers": [
+      "470,00 zł",
+      "750,00 zł",
+      "5 950,00 zł",
+      "1 070,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot06/mg43_tabela8.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 27,
+    "text": "Na rysunku przedstawiono tabliczkę znamionową pojazdu. Numer identyfikacyjny pojazdu samochodowego wskazuje strzałka oznaczona cyfrą",
+    "answers": [
+      "2",
+      "1",
+      "4",
+      "3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot06/mg43_tabliczka.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 28,
+    "text": "W oparciu o przedstawioną kartę wskaż elementy, które należy zamówić w celu wykonania czynności przeglądu okresowego samochodu.",
+    "answers": [
+      "Płyn chłodzący, pasek wielorowkowy, pasek zębaty, bateria.",
+      "Świece zapłonowe, olej przekładniowy, filtr paliwa, płyn hamulcowy.",
+      "Bateria, filtr przeciwpyłkowy, filtr paliwa, świece zapłonowe.",
+      "Świece zapłonowe, bateria, wkład filtra powietrza, filtr paliwa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot06/mg43_karta.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 29,
+    "text": "Elementem którego procesu realizowanego w przedsiębiorstwie usługowym branży motoryzacyjnej jest planowanie działań serwisu i jego rozwój?",
+    "answers": [
+      "Procesu zarządzania.",
+      "Procesu kontrolnego.",
+      "Procesu pomocniczego.",
+      "Procesu podstawowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 30,
+    "text": "Przed przeprowadzeniem analizy spalin pojazdu samochodowego na stacji kontroli pojazdów należy",
+    "answers": [
+      "uzupełnić płyn chłodniczy.",
+      "wymienić świece zapłonowe.",
+      "wymienić filtr powietrza.",
+      "rozgrzać silnik."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 31,
+    "text": "Który dokument określa wymagania w stosunku do wyposażenia stacji kontroli pojazdów?",
+    "answers": [
+      "Obwieszczenie starosty powiatowego.",
+      "Rozporządzenie ministra właściwego ds. transportu.",
+      "Decyzja zrzeszenia stacji kontroli pojazdów.",
+      "Obwieszczenie wojewody."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 32,
+    "text": "Wskaż źródło prawa określające minimalną wartość wskaźnika skuteczności hamowania pojazdu samochodowego.",
+    "answers": [
+      "Rozporządzenie ministra właściwego ds. transportu.",
+      "Wojewódzki dziennik urzędowy.",
+      "Europejska Norma.",
+      "Polska Norma."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 33,
+    "text": "Na podstawie rysunku przedstawiającego elementy tylnego zawieszenia określ parametry dokręcenia piasty koła?",
+    "answers": [
+      "95 Nm",
+      "36 Nm",
+      "200 Nm+180°",
+      "85 Nm+90°"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot06/mg43_rysunek.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 34,
+    "text": "Który z oscylogramów przedstawionych na rysunkach, odczytany z zacisku B+ alternatora wskazuje poprawne jego działanie, bez zmian obciążenia?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot06/mg43_oscylogramy.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 35,
+    "text": "Strategią rynkową opartą na współpracy w branży motoryzacyjnej w celu zwiększenia jakości i efektywności usług nie jest",
+    "answers": [
+      "tworzenie stowarzyszeń.",
+      "budowa dróg komunikacyjnych.",
+      "car fleet management.",
+      "coobranding."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 36,
+    "text": "Wskaż minimalną wartość wskaźnika skuteczności hamowania hamulca roboczego dla samochodu osobowego.",
+    "answers": [
+      "15%",
+      "40%",
+      "25%",
+      "50%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 37,
+    "text": "Którym symbolem na schemacie jest oznaczony miernik masowego przepływu powietrza z czujnikiem temperatury?",
+    "answers": [
+      "V2",
+      "R1",
+      "L3",
+      "E1"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot06/mg43_schemat.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 38,
+    "text": "W tabeli przedstawiono katalog świec żarowych. Którą świecę żarową należy zamówić do wyprodukowanego w roku 1990 samochodu Jetta z silnikiem o pojemności 1,8 l i mocy 95 kW?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot06/mg43_tabela11.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 39,
+    "text": "Który pracownik ASO przekazuje klientowi pojazd samochodowy po naprawie i udziela wyjaśnień dotyczących wykonanych usług?",
+    "answers": [
+      "Mechanik samochodowy.",
+      "Kierownik serwisu.",
+      "Pracownik BOK.",
+      "Specjalista działu części."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 40,
+    "text": "Do stacji kontroli pojazdów przyjechał samochód osobowy z zamontowanym urządzeniem sprzęgającym w celu wykonania badania okresowego. Data produkcji i pierwszej rejestracji pojazdu to 2012 r. Na jaki okres będzie ważne przeprowadzone badanie techniczne tego pojazdu?",
+    "answers": [
+      "Jednego roku od dnia przeprowadzenia badania.",
+      "Dwóch lat od dnia przeprowadzenia badania.",
+      "Trzech lat od dnia przeprowadzenia badania.",
+      "Pół roku od dnia przeprowadzenia badania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 41,
+    "text": "Dokumentem dopuszczającym nowy typ pojazdu do ruchu na terenie Polski jest",
+    "answers": [
+      "świadectwo homologacji.",
+      "karta pojazdu.",
+      "dowód rejestracyjny.",
+      "książka serwisowa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 42,
+    "text": "Aktem prawnym określającym minimalną wysokość bieżnika opon pojazdu samochodowego jest",
+    "answers": [
+      "Europejska Norma.",
+      "Rozporządzenie Ministra Przedsiębiorczości i Technologii.",
+      "Polska Norma.",
+      "rozporządzenie właściwego ministra."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 43,
+    "text": "Przyczyną zbyt małego skoku jałowego pedału hamulca jest",
+    "answers": [
+      "zużycie klocków hamulcowych.",
+      "zapieczenie tłoczków hamulcowych.",
+      "zapowietrzenie obwodu hydraulicznego.",
+      "płyn hamulcowy z nadmierną zawartością wody."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 44,
+    "text": "Numerem identyfikacyjnym pojazdu samochodowego jest",
+    "answers": [
+      "DOT-207 M374 AS1",
+      "AH-6HK 1XYSJ001",
+      "E6 43R-006735",
+      "LA2YZ23J9P4800003"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 45,
+    "text": "Na podstawie przedstawionego rysunku elementów układu hamulcowego pojazdu samochodowego zacisk hamulcowy należy dokręcić momentem wynoszącym",
+    "answers": [
+      "15 Nm",
+      "5 Nm",
+      "30 Nm",
+      "10 Nm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_rysunek8.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 46,
+    "text": "Urządzenie przedstawione na rysunku mechanik powinien zastosować do",
+    "answers": [
+      "obsługi układu klimatyzacji.",
+      "obsługi układu smarowania silnika.",
+      "naprawy układu ABS.",
+      "naprawy układu chłodzenia silnika."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_urzadzenie5.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 47,
+    "text": "Diagnostykę i naprawę magistrali CAN w samochodzie powinien wykonać",
+    "answers": [
+      "lakiernik samochodowy.",
+      "elektromechanik samochodowy.",
+      "blacharz samochodowy.",
+      "mechanik samochodowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 48,
+    "text": "Przed regulacją zbieżności kół przednich nie jest wymagana",
+    "answers": [
+      "regulacja ciśnienia powietrza w ogumieniu.",
+      "kompensacja bicia kół.",
+      "kontrola i regulacja luzu w łożyskach kół tylnych.",
+      "kontrola i usunięcie luzów w układzie kierowniczym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 49,
+    "text": "W pojeździe po przebiegu 120 000 km wykonano obsługę techniczną. Na podstawie danych zawartych w tabeli w książce serwisowej pojazdu należy zapisać, że wymieniono",
+    "answers": [
+      "filtr paliwa, filtr powietrza i świece zapłonowe.",
+      "filtr oleju, filtr paliwa, filtr powietrza, filtr kabinowy, olej silnikowy, pasek rozrządu i świece zapłonowe.",
+      "pasek rozrządu i filtr oleju.",
+      "filtr paliwa, filtr powietrza, filtr kabinowy, pasek rozrządu i świece zapłonowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela36.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 50,
+    "text": "Sposób przeprowadzania działań zapewniających jednolitą i wysoką jakość obsługi klienta w ASO zawarty jest w",
+    "answers": [
+      "księdze jakości.",
+      "deklaracji polityki jakości.",
+      "dokumencie homologacji.",
+      "procedurach."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 51,
+    "text": "Numery pinów silnika regulacji przepustnicy z czujnikiem położenia określają na rysunku cyfry",
+    "answers": [
+      "5, 3",
+      "4, 2",
+      "4, 1",
+      "2, 6"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_schemat5.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 52,
+    "text": "Urządzeniem pomiarowym będącym obowiązkowym wyposażeniem stacji kontroli pojazdów, poddawanym okresowej legalizacji w uprawnionym laboratorium, jest",
+    "answers": [
+      "manometr do kół.",
+      "płyta do wstępnej kontroli zbieżności.",
+      "urządzenie do pomiaru świateł.",
+      "przyrząd do pomiaru sił hamowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 53,
+    "text": "Który wskaźnik wydajności pracy mechanika może sugerować, że usługa odbywa się kosztem jakości naprawy?",
+    "answers": [
+      "80%",
+      "100%",
+      "90%",
+      "120%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 54,
+    "text": "Z rysunku przedstawiającego fragment dowodu rejestracyjnego pojazdu wynika, że moc silnika oraz rodzaj paliwa, jakie należy zapisać w zleceniu serwisowym, to",
+    "answers": [
+      "10,15 kN, benzyna.",
+      "10,15 kN, olej napędowy.",
+      "96 kW, benzyna.",
+      "96 kW, olej napędowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_dowod.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 55,
+    "text": "Na „wypadanie zapłonów” ma wpływ uszkodzenie elementu silnika przedstawionego na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_elementy.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 56,
+    "text": "W samochodzie należy wymienić akumulator o pojemności 50 Ah, prądzie rozruchu 360 A, wymiarach 200 x 175 x 222 i polaryzacji „0”. W oparciu o zamieszczoną tabelę należy wybrać akumulator",
+    "answers": [
+      "CB455",
+      "CB501",
+      "CB504",
+      "CB505"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela38.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 57,
+    "text": "Mechanik w pierwszej kolejności, po wymianie przedniego lewego giętkiego przewodu hamulcowego w samochodzie, powinien",
+    "answers": [
+      "sprawdzić siłę hamowania.",
+      "wykonać jazdę próbną.",
+      "odpowietrzyć układ hamulcowy.",
+      "sprawdzić opóźnienie hamowania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 58,
+    "text": "Przedstawiony na rysunku dokument to",
+    "answers": [
+      "faktura zakupu części.",
+      "zamówienie magazynowe.",
+      "faktura naprawy.",
+      "zlecenie serwisowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_dokument.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 59,
+    "text": "Urządzeniem będącym na wyposażeniu warsztatu samochodowego, które podlega okresowemu sprawdzeniu przez Urząd Dozoru Technicznego, jest",
+    "answers": [
+      "prasa warsztatowa.",
+      "podnośnik samochodowy.",
+      "szarpak.",
+      "wyważarka do kół."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 60,
+    "text": "W tabeli przedstawiono czynności przeglądu technicznego samochodu. W zamówieniu magazynowym należy zapisać następujące części i materiały eksploatacyjne niezbędne do wykonania przeglądu:",
+    "answers": [
+      "opony przednie; klocki hamulcowe przednie, olej silnikowy, filtr oleju.",
+      "tarcze hamulcowe przednie; klocki hamulcowe przednie, olej silnikowy, filtr oleju, filtr przeciwpyłowy.",
+      "tarcze hamulcowe przednie; klocki hamulcowe przednie, olej silnikowy, filtr oleju.",
+      "klocki hamulcowe przednie, olej silnikowy, filtr przeciwpyłowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela37.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 61,
+    "text": "Na podstawie danych zawartych w tabeli, koszt brutto wykonania zlecenia dla stałego klienta obejmującego wykonanie przeglądu samochodu z przebiegiem 119 500 km oraz wymianę klocków hamulcowych przedniej osi wynosi",
+    "answers": [
+      "1414,50 zł",
+      "675,50 zł",
+      "1150,00 zł",
+      "642,68 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela34.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 62,
+    "text": "Na podstawie danych zawartych w tabeli, przy pojemności układu smarowania silnika pojazdu 4,5 litra, koszt brutto wykonania zlecenia obejmującego przegląd techniczny na stacji kontroli pojazdów oraz wymianę oleju i filtra oleju wynosi",
+    "answers": [
+      "369,00 zł",
+      "580,00 zł",
+      "590,40 zł",
+      "713,40 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela33.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 63,
+    "text": "Na podstawie zestawienia czasu naprawy, wymiana tarcz hamulcowych przedniej osi oraz tylnych zacisków hamulcowych w samochodzie będzie trwała",
+    "answers": [
+      "0,9 godziny.",
+      "2,5 godziny.",
+      "1,6 godziny.",
+      "1,2 godziny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_ramka.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 64,
+    "text": "Na podstawie danych zamieszczonych w tabeli określ, w którym z samochodów konieczna jest wymiana paska rozrządu, jeżeli wymianę należy wykonać po przebiegu 150 000 km lub co 6 lat (w zależności, który warunek nastąpi wcześniej).",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela30.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 65,
+    "text": "Na podstawie danych zawartych w tabeli, kwota usługi za naprawę nadwozia samochodu, w którym stwierdzono 5 wgnieceń o średnicy ok. 2 cm oraz 3 o średnicy ok. 0,5 cm, wyniesie",
+    "answers": [
+      "600 zł",
+      "915 zł",
+      "625 zł",
+      "960 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela35.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 66,
+    "text": "Przyczyną problemu z uruchomieniem silnika z zapłonem samoczynnym w niskich temperaturach są uszkodzenia",
+    "answers": [
+      "filtra cząstek stałych.",
+      "regulatora napięcia.",
+      "świec żarowych.",
+      "regulatora ciśnienia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 67,
+    "text": "Elementem, który należy poddać utylizacji po wykonaniu naprawy określonej w zamieszczonym zleceniu serwisowym samochodu, jest",
+    "answers": [
+      "świeca zapłonowa.",
+      "akumulator.",
+      "filtr powietrza.",
+      "linka hamulca ręcznego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela39.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 68,
+    "text": "Za bezpośredni kontakt z klientem w ASO odpowiada",
+    "answers": [
+      "specjalista działu części.",
+      "mechanik samochodowy.",
+      "specjalista działu likwidacji szkód powypadkowych.",
+      "pracownik BOK."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 69,
+    "text": "Badanie techniczne pojazdu wyposażonego w instalację gazową, wyprodukowanego w 2000 roku, powinno być przeprowadzone na stacji kontroli pojazdów w terminie co",
+    "answers": [
+      "jeden rok.",
+      "pół roku.",
+      "trzy lata.",
+      "dwa lata."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 70,
+    "text": "Z jakiego materiału wykonano element samochodu, którego fragment naklejki przedstawiono na rysunku?",
+    "answers": [
+      "Ze stopów aluminium.",
+      "Z blachy stalowej.",
+      "Z blachy stalowej ocynkowanej.",
+      "Z tworzywa sztucznego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_naklejka.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 71,
+    "text": "Do zużytych materiałów samochodowym niebezpiecznych nie zalicza się",
+    "answers": [
+      "metalowych elementów nadwozia.",
+      "płynu hamulcowego.",
+      "filtra oleju.",
+      "oleju silnikowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 72,
+    "text": "Zgłaszane przez klienta usterki występujące w samochodzie będącym na gwarancji pracownik biura obsługi klienta zapisuje w",
+    "answers": [
+      "karcie przeglądu technicznego.",
+      "zleceniu serwisowym.",
+      "dokumencie identyfikacyjnym.",
+      "karcie gwarancyjnej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 73,
+    "text": "W przypadku wystąpienia konieczności rozszerzenia zakresu naprawy samochodu naprawianego w ASO należy",
+    "answers": [
+      "wykonać rozszerzony zakres naprawy, a klienta powiadomić o tym przy odbiorze samochodu.",
+      "przerwać wykonywanie naprawy do chwili przybycia klienta do serwisu, by omówić konieczność rozszerzenia zakresu naprawy.",
+      "wykonać  tylko naprawę zleconą przez klienta, a w zleceniu zapisać konieczność dodatkowej naprawy.",
+      "zadzwonić do klienta w celu omówienia konieczności rozszerzenia zakresu naprawy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 74,
+    "text": "Na podstawie danych przedstawionych w tabeli maksymalny moment dokręcenia świec żarowych z gwintem M10 wynosi",
+    "answers": [
+      "25 Nm",
+      "35 Nm",
+      "18 Nm",
+      "20 Nm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela32.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 75,
+    "text": "Za podstawę budowy systemu jakości i jego dokumentowania w przedsiębiorstwach serwisowych przyjmuje się międzynarodowe normy ISO serii",
+    "answers": [
+      "3000",
+      "5000",
+      "7000",
+      "9000"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 76,
+    "text": "Minimalna wartość współczynnika skuteczności hamowania hamulca awaryjnego samochodu osobowego po naprawie powinna wynosić",
+    "answers": [
+      "20%",
+      "25%",
+      "10%",
+      "15%"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 77,
+    "text": "Na podstawie danych technicznych silnika zawartych w tabeli minimalna wartość ciśnienia sprężania wynosi",
+    "answers": [
+      "10,0 bar",
+      "39,0 bar",
+      "6,0 bar",
+      "7,0 bar"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela31.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 78,
+    "text": "Kontrola pracy sprzęgła ciernego nie obejmuje sprawdzenia",
+    "answers": [
+      "poślizgu.",
+      "hałaśliwości pracy.",
+      "odczytu kodów błędów.",
+      "łatwości przełączania biegów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 79,
+    "text": "Elementem wyposażenia pojazdu, który nie podlega regeneracji, jest",
+    "answers": [
+      "wał korbowy.",
+      "przekładnia kierownicza.",
+      "kompresor układu klimatyzacji.",
+      "pirotechniczny napinacz pasów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 80,
+    "text": "Do zaciśnięcia złącza konektorowego przewodów instalacji elektrycznej samochodu, elektromechanik powinien zastosować narzędzie przedstawione na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_narzedzia.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 81,
+    "text": "Które z oznaczeń nie jest stosowane do silnika o zapłonie samoczynnym z bezpośrednim wtryskiem paliwa?",
+    "answers": [
+      "CDI",
+      "JTD",
+      "SPI",
+      "CDTI"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 82,
+    "text": "Ile wynosi minimalna przepuszczalność światła przedniej szyby bocznej, aby pojazd mógł być dopuszczony do ruchu?",
+    "answers": [
+      "70%",
+      "85%",
+      "75%",
+      "80%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 83,
+    "text": "Na rysunku przedstawiono",
+    "answers": [
+      "montaż pierścienia tłokowego.",
+      "pomiar średnicy tłoka.",
+      "pomiar średnicy pierścienia tłokowego.",
+      "montaż sworznia tłokowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_rysunek7.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 84,
+    "text": "Nowa uszczelka pod głowicę nie powinna być ujęta w zamówieniu na części zamienne w przypadku planowanej",
+    "answers": [
+      "wymiany uszczelniacza prowadnic zaworowych.",
+      "regulacji luzów zaworowych.",
+      "wymiany i docierania zaworów.",
+      "naprawy gniazd zaworowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 85,
+    "text": "Dokumentacja technologiczna naprawy zawiera",
+    "answers": [
+      "warunki techniczne przyjęcia pojazdu do naprawy.",
+      "przykładowe paragony fiskalne za naprawy.",
+      "plany operacyjne montażu i demontażu.",
+      "ceny netto regeneracji naprawianych części."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 86,
+    "text": "W wyniku przeglądu instalacji elektrycznej stwierdzono wartość gęstości elektrolitu – poniżej 1,05 g/cm3. Rezystancja świec żarowych zawiera się w granicach 1 Ω – 1,5 Ω. Napięcie ładowania alternatora wynosi 13,8V. Oblicz całkowity koszt brutto przeglądu i koniecznych wymian.",
+    "answers": [
+      "750,00 zł",
+      "910,00 zł",
+      "590,00 zł",
+      "240,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela28.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 87,
+    "text": "Na stacji kontroli pojazdów nie wykonuje się obowiązkowych",
+    "answers": [
+      "badań technicznych pojazdów zasilanych gazem.",
+      "badań technicznych po zatrzymaniu dowodu rejestracyjnego.",
+      "okresowych badań technicznych przyczep o dmc nieprzekraczającej 750 kg.",
+      "badań technicznych po kolizji lub wypadku drogowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 88,
+    "text": "W celu potwierdzenia prawidłowej diagnozy, po wykonanym pomiarze, który wykazał obniżone wartości ciśnienia sprężania, zalecane jest wykonanie",
+    "answers": [
+      "pomiaru temperatury oleju.",
+      "pomiaru ciśnienia oleju.",
+      "próby olejowej.",
+      "pomiaru średnicy tłoka."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 89,
+    "text": "Który element pojazdu podlega naprawie?",
+    "answers": [
+      "Cewka zapłonowa.",
+      "Pierścień tłokowy.",
+      "Świece żarowe.",
+      "Przekładnia kierownicza."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 90,
+    "text": "Jaką kwotę netto zapłaci klient warsztatu za wymianę oleju silnikowego wraz z filtrem, jeżeli czas wymiany wyniósł 45 minut, koszt zakupu oleju i filtra to 240,00 zł netto, a koszt roboczogodziny 100,00 zł netto?",
+    "answers": [
+      "315,00 zł",
+      "376,20 zł",
+      "285,00 zł",
+      "321,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 91,
+    "text": "Na kartce wymiany oleju silnikowego znajduje się informacja o klasie lepkości oleju według klasyfikacji",
+    "answers": [
+      "ŁT4",
+      "SAE",
+      "ATF",
+      "API GL"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 92,
+    "text": "Wymiany akumulatora należy dokonać jeżeli",
+    "answers": [
+      "minął termin jego gwarancji.",
+      "gęstość elektrolitu zawiera się w przedziale 1,26-1,28 g/cm3.",
+      "wartość spoczynkowa napięcia wynosi 12,4 V.",
+      "wziernik wskazuje kolor czarny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 93,
+    "text": "W przypadku stwierdzenia zużycia opony w postaci ząbkowania w pierwszej kolejności należy przeprowadzić badanie",
+    "answers": [
+      "amortyzatorów.",
+      "półosi napędowych.",
+      "drążków kierowniczych.",
+      "przegubów napędowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 94,
+    "text": "Proces recyklingu pojazdów samochodowych odbywa się w",
+    "answers": [
+      "stacjach kontroli pojazdów.",
+      "autoryzowanych stacjach obsługi.",
+      "punktach skupu surowców wtórnych.",
+      "stacjach demontażu pojazdów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 95,
+    "text": "Które zadanie nie wchodzi w zakres działalności UDT?",
+    "answers": [
+      "Dozór nad urządzeniami technicznymi niestwarzającymi zagrożeń dla pracownika.",
+      "Dozór nad naprawami i modernizacją urządzeń technicznych podlegających dozorowi.",
+      "Badanie urządzeń podlegających dozorowi technicznemu w trakcie ich eksploatacji.",
+      "Uzgadnianie programów szkolenia osób obsługujących i konserwujących urządzenia techniczne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 96,
+    "text": "Na wydruku z oscyloskopu przedstawiono przebieg sygnału pomiarowego czujnika położenia wału korbowego, który wskazuje, że czujnik",
+    "answers": [
+      "jest sprawny.",
+      "ma zwarcie do plusa.",
+      "jest przegrzany.",
+      "ma zwarcie do masy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_wydruk.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 97,
+    "text": "Uprawnienia do przeprowadzania obowiązkowego badania technicznego na stacji kontroli pojazdów posiada każdy",
+    "answers": [
+      "pracownik Biura Obsługi Klienta.",
+      "elektromechanik.",
+      "mechanik.",
+      "diagnosta."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 98,
+    "text": "Po ilu latach, od pierwszej rejestracji nowego samochodu, należy przeprowadzić pierwsze obowiązkowe badanie techniczne?",
+    "answers": [
+      "Po dziesięciu latach.",
+      "Po czterech latach.",
+      "Po trzech latach.",
+      "Po pięciu latach."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 99,
+    "text": "Po prawidłowo wykonanej naprawie układu hamulcowego wartość zmierzonych sił hamowania kół po obu stronach osi pojazdu nie może się różnić, zgodnie z przepisami prawa, więcej niż o",
+    "answers": [
+      "25%",
+      "40%",
+      "30%",
+      "35%"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 100,
+    "text": "W celu polepszenia i przyspieszenia obsługi klienta w warsztacie naprawy samochodów należy w pierwszej kolejności",
+    "answers": [
+      "zmniejszyć liczbę zatrudnionych pracowników.",
+      "wdrożyć elektroniczną bazę danych klientów.",
+      "wprowadzić szczegółowe rozliczanie czasu pracy pracownika.",
+      "skrócić czas pracy BOK."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 101,
+    "text": "W czasie weryfikacji kolumny McPhersona stwierdzono pęknięcie sprężyny. W celu usunięcia usterki należy koniecznie",
+    "answers": [
+      "wymienić sprężynę na nową.",
+      "wykonać naprawę sprężyny metodą spawania.",
+      "wymienić sprężynę i amortyzator na nowe.",
+      "wykonać naprawę sprężyny metodą klejenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 102,
+    "text": "Dokument określający planowany koszt wykonania usługi to",
+    "answers": [
+      "karta normowania czasu pracy.",
+      "faktura VAT.",
+      "paragon fiskalny.",
+      "kosztorys naprawy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 103,
+    "text": "Na stacji kontroli pojazdów wykonano okresowe badania techniczne 4 samochodów osobowych, ciągnika rolniczego i 2 przyczep ciężarowych rolniczych do 1,5 t dmc. Oblicz całkowity koszt badań dla wszystkich pojazdów.",
+    "answers": [
+      "695,00 zł",
+      "439,00 zł",
+      "554,00 zł",
+      "534,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela29.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 104,
+    "text": "Wymiana progu w pojeździe powinna być wykonana przez",
+    "answers": [
+      "elektromechanika.",
+      "lakiernika.",
+      "blacharza.",
+      "mechanika."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 105,
+    "text": "Informacja skierowana do użytkowników określonej serii pojazdów, o konieczności bezpłatnej naprawy usterki to",
+    "answers": [
+      "akcja serwisowa.",
+      "pierwsza obsługa techniczna.",
+      "obsługa sezonowa.",
+      "zerowa obsługa techniczna."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 106,
+    "text": "Którą z metod należy zastosować do oceny stopnia zużycia amortyzatorów?",
+    "answers": [
+      "Hartridge’a.",
+      "Shore’a.",
+      "Vickersa.",
+      "Boge’a."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 107,
+    "text": "Pomiar spalin dymomierzem absorpcyjnym wykonuje się w pojeździe z silnikiem oznaczonym symbolem",
+    "answers": [
+      "FSI",
+      "MPI",
+      "SPI",
+      "DTI"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 108,
+    "text": "Na tabliczce znamionowej pojazdu nie znajduje się",
+    "answers": [
+      "dopuszczalna masa całkowita.",
+      "numer VIN.",
+      "model.",
+      "numer świadectwa homologacji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 109,
+    "text": "Na rysunku przedstawiono urządzenie służące do",
+    "answers": [
+      "wysysania płynu hamulcowego.",
+      "uzupełniania czynnika chłodniczego klimatyzacji.",
+      "odzysku resztek olejów ze zużytych filtrów.",
+      "wysysania płynu chłodniczego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_urzadzenie4.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 110,
+    "text": "Głównym kryterium doboru części zamiennej jest",
+    "answers": [
+      "numer VIN pojazdu.",
+      "producent części.",
+      "numer VIN uszkodzonej części.",
+      "pojemność silnika."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 111,
+    "text": "Część przeznaczona na pierwszy montaż oznaczona jest symbolem",
+    "answers": [
+      "AM",
+      "OEM",
+      "OE",
+      "OEQ"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 112,
+    "text": "Przyczyną wydobywania się czarnego dymu z układu wydechowego pojazdu z silnikiem ZS jest",
+    "answers": [
+      "zużycie uszczelniaczy zaworowych.",
+      "zbyt duża ilość wtryskiwanego paliwa.",
+      "uszkodzenie uszczelki pod głowicą.",
+      "zużycie pierścieni tłokowych podczas jazdy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 113,
+    "text": "Do obowiązków mechanika będącego pracownikiem serwisu nie należy",
+    "answers": [
+      "zatrudnienie nowego pracownika.",
+      "wymiana płynów eksploatacyjnych.",
+      "naprawa uszkodzonych podzespołów.",
+      "ustalenie przyczyny niesprawności pojazdu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 114,
+    "text": "Proces obejmujący naprawę lub wymianę wszystkich zużytych części i zespołów maszyny stosowanej do obsługi pojazdów samochodowych, które na skutek długotrwałej pracy znacznie obniżyły swoją zdatność użytkową, nazywa się",
+    "answers": [
+      "remontem kapitalnym.",
+      "remontem bieżącym.",
+      "obsługą sezonową.",
+      "obsługą codzienną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 115,
+    "text": "Przedstawiony na rysunku przyrząd służy do",
+    "answers": [
+      "ściągania izolacji.",
+      "montażu opasek zaciskowych.",
+      "zaciskania tulejek kablowych.",
+      "zaciskania konektorów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_przyrzad15.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 116,
+    "text": "Po prawidłowo wykonanej naprawie układu wydechowego, w samochodzie osobowym z silnikiem ZI wynik pomiaru poziomu hałasu zewnętrznego nie powinien przekraczać dopuszczonego przepisami prawa poziomu",
+    "answers": [
+      "93 dB",
+      "98 dB",
+      "96 dB",
+      "108 dB"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 117,
+    "text": "W prawidłowo działającym silniku o ZI, w przypadku braku danych producenta, na wolnych obrotach wartość ciśnienia oleju powinna wynosić co najmniej",
+    "answers": [
+      "0,02 MPa",
+      "0,10 MPa",
+      "0,20 MPa",
+      "0,05 MPa"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 118,
+    "text": "Przed przystąpieniem do diagnostyki metodą Eusama w pierwszej kolejności należy sprawdzić",
+    "answers": [
+      "głębokość bieżnika.",
+      "indeks prędkości opon.",
+      "wymiary opon.",
+      "ciśnienie w oponach."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 119,
+    "text": "Weryfikacja elementów układu zawieszenia po przeprowadzonej naprawie nie polega na",
+    "answers": [
+      "badaniu amortyzatorów na stanowisku wibracyjnym.",
+      "badaniu amortyzatorów przy użyciu szarpaków.",
+      "sprawdzeniu zachowania pojazdu podczas próby drogowej.",
+      "organoleptycznej ocenie luzów w układzie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 120,
+    "text": "Pracownik BOK przyjmujący pojazd na przegląd gwarancyjny nie odnotowuje w formularzu zlecenia",
+    "answers": [
+      "numeru rejestracyjnego.",
+      "występowania uszkodzeń nadwozia.",
+      "przebiegu.",
+      "stopnia zużycia klocków hamulcowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 121,
+    "text": "W pojeździe, w którym właściciel zgłasza problem z uruchamianiem zimnego silnika z powodu niskiej prędkości obrotowej rozrusznika, należy w pierwszej kolejności",
+    "answers": [
+      "wymienić akumulator.",
+      "sprawdzić stacyjkę rozruchową.",
+      "wymontować rozrusznik i sprawdzić stan łożysk wirnika.",
+      "sprawdzić stan akumulatora i napięcie ładowania akumulatora."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 122,
+    "text": "Warsztat samochodowy, który nie współpracuje z dystrybutorem pojazdu, to warsztat",
+    "answers": [
+      "sieciowy.",
+      "niezależny.",
+      "specjalistyczny.",
+      "autoryzowany."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 123,
+    "text": "Na rysunku przedstawiono urządzenie służące do wykonania kontroli",
+    "answers": [
+      "kąta wtrysku.",
+      "ciśnienia początku wtrysku.",
+      "objętości wtryskiwanego paliwa.",
+      "liczby cetanowej paliwa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_urzadzenie6.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 124,
+    "text": "Przyczyną drgań koła kierownicy podczas jazdy na wprost po równej i gładkiej drodze, które zwiększają się wraz ze wzrostem prędkości, może być",
+    "answers": [
+      "niewłaściwe ustawienie zbieżności kół osi tylnej pojazdu.",
+      "brak wyważenia dynamicznego jednego z kół pojazdu.",
+      "zbyt małe ciśnienie powietrza w oponie.",
+      "nadmierne zużycie amortyzatorów osi przedniej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 125,
+    "text": "W warsztacie stwierdzono, że hałas słyszany podczas jazdy w okolicy prawego przedniego koła pochodzi z łożyska piasty koła. Na podstawie danych zawartych w tabeli oblicz, ile wynosi koszt naprawy, jeżeli wszystkie części i materiały klient zakupił w tym warsztacie.",
+    "answers": [
+      "191,00 zł",
+      "213,00 zł",
+      "181,00 zł",
+      "153,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela54.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 126,
+    "text": "Do obsługi codziennej samochodu należy",
+    "answers": [
+      "sprawdzenie czy pod samochodem nie ma śladów wycieków płynów eksploatacyjnych.",
+      "kontrola ustawienia świateł.",
+      "sprawdzenie jakości płynu hamulcowego.",
+      "kontrola stanu zabezpieczenia antykorozyjnego podwozia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 127,
+    "text": "Urządzeniem będącym na wyposażeniu Stacji Kontroli Pojazdów, które wymaga okresowej kalibracji jest",
+    "answers": [
+      "czytnik diagnostyczny do układów OBD II/EOBD.",
+      "przyrząd do pomiaru opóźnienia hamowania.",
+      "przyrząd do pomiaru ciśnienia powietrza w ogumieniu pojazdu.",
+      "urządzenie do wymuszenia szarpnięć kołami."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 128,
+    "text": "Do kompetencji pracownika obsługi magazynu nie należy",
+    "answers": [
+      "rozliczanie zużycia energii serwisu.",
+      "sporządzanie dokumentów Wz.",
+      "zamawianie części.",
+      "przygotowanie formularza niezgodności dostawy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 129,
+    "text": "Na liczbę pracowników zatrudnionych w serwisie nie ma wpływu",
+    "answers": [
+      "dostępność narzędzi specjalistycznych.",
+      "poziom techniki i technologii.",
+      "dostępność czynników związanych z realizacją usług.",
+      "forma wynagradzania pracowników."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 130,
+    "text": "Wydając mechanikowi części do naprawy pojazdu, pracownik magazynu powinien sporządzić",
+    "answers": [
+      "dokument rozchodu wewnętrznego części serwisowych.",
+      "arkusz spisowy.",
+      "zlecenie serwisowe.",
+      "dokument rozchodu międzymagazynowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 131,
+    "text": "Klient przekazujący pojazd do naprawy zgłosił usterkę mechanizmu wycieraczek szyby przedniej. W pierwszej kolejności elektromechanik wykonujący naprawę powinien",
+    "answers": [
+      "przeprowadzić kontrolę ciągłości instalacji elektrycznej zasilania mechanizmu wycieraczek.",
+      "sprawdzić bezpiecznik mechanizmu wycieraczek.",
+      "wykonać wymianę silniczka mechanizmu wycieraczek.",
+      "wykonać kontrolę styków włącznika wycieraczek szyby przedniej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 132,
+    "text": "Właściciel pojazdu wycofanego z eksploatacji, w ciągu 30 dni od dnia otrzymania zaświadczenia o demontażu pojazdu, obowiązany jest do",
+    "answers": [
+      "wniesienia opłaty w Powiatowym Zarządzie Dróg.",
+      "dostarczenia do wydziału komunikacji usuniętej z pojazdu tabliczki znamionowej.",
+      "zgłoszenia o demontażu w Centralnej Ewidencji Pojazdów.",
+      "złożenia wniosku o jego wyrejestrowanie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 133,
+    "text": "Protokół rozszerzenia zakresu naprawy pojazdu nie musi zawierać",
+    "answers": [
+      "podpisu klienta w protokole.",
+      "numeru zlecenia naprawy.",
+      "informacji o terminie ostatniego badania technicznego.",
+      "danych identyfikujących pojazd."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 134,
+    "text": "Nieczytelny z powodu korozji numer VIN ponownie nadaje",
+    "answers": [
+      "Minister Transportu.",
+      "Wojewódzka Komenda Policji.",
+      "Wydział Komunikacji Urzędu Miejskiego.",
+      "Inspekcja Transportu Drogowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 135,
+    "text": "Podczas naprawy powypadkowej, stwierdzono zablokowanie zwijacza pasa bezpieczeństwa. Zablokowany zwijacz pasa bezpieczeństwa należy",
+    "answers": [
+      "trwale usunąć z pojazdu.",
+      "wymienić na nowy.",
+      "zregenerować.",
+      "naprawić usuwając blokadę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 136,
+    "text": "W czasie pokonywania przez pojazd ostrych zakrętów zapala się kontrolka ciśnienia w układzie smarowania silnika, która gaśnie podczas jazdy na wprost. Prawdopodobną przyczyną opisanego zdarzenia jest",
+    "answers": [
+      "zbyt niski poziom oleju silnikowego.",
+      "uszkodzenie czujnika ciśnienia oleju.",
+      "uszkodzenie pompy oleju.",
+      "zastosowanie niewłaściwego oleju silnikowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 137,
+    "text": "Urządzeniem, które nie stanowi obowiązkowego wyposażenia Stacji Kontroli Pojazdów jest",
+    "answers": [
+      "tester diagnostyczny.",
+      "dymomierz.",
+      "tester szczelności uszczelki pod głowicą.",
+      "opóźnieniomierz."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 138,
+    "text": "Do recyklingu materiałowego można zaliczyć",
+    "answers": [
+      "przetop w hucie metalowych części pojazdów.",
+      "spalanie zużytych olejów w piecach przemysłowych.",
+      "odzysk części do ponownego użycia.",
+      "poddanie rozkładowi tworzywa sztucznego na substancje prostsze."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 139,
+    "text": "Przyjmując samochód do warsztatu należy sporządzić",
+    "answers": [
+      "zaświadczenie o przeprowadzonym badaniu technicznym.",
+      "dokument WZ.",
+      "raport wzrokowej oceny pojazdu.",
+      "umowę NNW pojazdu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 140,
+    "text": "Na zdolność przerobową serwisu ma wpływ",
+    "answers": [
+      "liczba stanowisk obsługowo-naprawczych.",
+      "miesięczne zużycie energii elektrycznej.",
+      "reklama w lokalnych mediach.",
+      "lokalizacja."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 141,
+    "text": "Na podstawie danych zawartych w tabeli określ, jaki jest koszt usługi polegającej na wymianie dwóch łączników stabilizatora oraz jednej tulei metalowo-gumowej wahacza. Normatywny czas wymiany tych elementów wynosi 1,2 rbh.",
+    "answers": [
+      "185,00 zł",
+      "228,60 zł",
+      "210,20 zł",
+      "204,20 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela53.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 142,
+    "text": "Znajdujący się przy warsztacie wolnostojący zbiornik sprężonego powietrza podlega kontroli przez",
+    "answers": [
+      "Ministerstwo Transportu i Budownictwa.",
+      "Centralną Jednostkę Certyfikacji.",
+      "Urząd Dozoru Technicznego.",
+      "Starostwo Powiatowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 143,
+    "text": "W pojeździe przyprowadzonym do naprawy klient zgłosił problem z nierówną pracą silnika oraz zapalaniem się kontrolki „check engine”. W pierwszej kolejności należy podjąć decyzję o",
+    "answers": [
+      "wymianie zespolonej cewki zapłonowej.",
+      "wymontowaniu i oczyszczeniu świec zapłonowych.",
+      "kontroli ciśnienia paliwa.",
+      "podłączeniu testera diagnostycznego i odczytanie kodów błędów diagnostycznych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 144,
+    "text": "Która informacja dotycząca zaświadczenia o przeprowadzonym badaniu technicznym pojazdu nie jest prawdziwa?",
+    "answers": [
+      "Jest to dokument potwierdzający wykonanie badania technicznego pojazdu.",
+      "Zawiera odczyt licznika przebiegu pojazdu w momencie przeglądu.",
+      "Zawiera dane identyfikujące pojazd.",
+      "Kierujący pojazdem musi zawsze posiadać je przy sobie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 145,
+    "text": "Planowanie działalności magazynowej nie obejmuje",
+    "answers": [
+      "określenia liczby kupowanych części.",
+      "wyboru źródeł zakupu.",
+      "analizy kosztów działalności magazynowej.",
+      "weryfikacji kosztów stałych serwisu (prąd, woda)."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 146,
+    "text": "Karta technologiczna naprawy to dokument",
+    "answers": [
+      "informujący o rzeczywistym czasie pracy mechanika.",
+      "zawierający spis wszystkich operacji naprawczych.",
+      "określający rzeczywiste zużycie części zamiennych podczas naprawy.",
+      "wskazujący pracownikowi ile dana operacja naprawy powinna kosztować."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 147,
+    "text": "Wykonanie badań diagnostycznych alternatora oraz jego ewentualną naprawę powinien przeprowadzić",
+    "answers": [
+      "blacharz.",
+      "elektromechanik.",
+      "diagnosta pojazdów.",
+      "mechanik."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 148,
+    "text": "Zamówienie części zamiennych w hurtowni, która zaopatruje warsztat, należy do obowiązków",
+    "answers": [
+      "mechanika wykonującego naprawę.",
+      "magazyniera.",
+      "pracownika działu księgowego.",
+      "diagnosty."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 149,
+    "text": "Na podstawie danych zawartych w tabeli wskaż częstotliwość wymiany świec zapłonowych w pojeździe Chevrolet Cruz J300 wyposażonym w silnik 1,4 Turbo.",
+    "answers": [
+      "Co 60 000 km / 4 lata.",
+      "Co 30 000 km / 2 lata.",
+      "Co 30 000 km / 4 lata.",
+      "Co 60 000 km / 2 lata."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela52.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 150,
+    "text": "Na ilustracji przedstawiono urządzenie służące do kontroli",
+    "answers": [
+      "grubości powłoki lakierniczej.",
+      "ustawienia świateł.",
+      "geometrii zawieszenia.",
+      "zadymienia spalin."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_urzadzenie7.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 151,
+    "text": "Na zamieszczonym rysunku przedstawiono wynik pomiaru grubości tarczy hamulcowej koła lewego. Dla koła prawego w wyniku przeprowadzonego pomiaru uzyskano wynik 12,6 mm. Na podstawie tych informacji ustal, jakie powinno być dalsze postępowanie warsztatu z pojazdem.",
+    "answers": [
+      "W pojeździe należy wymienić komplet tarcz hamulcowych dla obu osi pojazdu.",
+      "Należy uznać, że jedna z tarcz hamulcowych nie spełnia kryteriów i należy ją wymienić.",
+      "Pojazd można nadal eksploatować, do całkowitego zużycia okładzin ciernych klocków hamulcowych.",
+      "Należy wymienić obie tarcze hamulcowe kontrolowanej osi, gdyż jedna z nich nie spełnia kryterium grubości."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_pomiar5.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 152,
+    "text": "Obsługę układu klimatyzacji pojazdu należy powierzyć",
+    "answers": [
+      "mechanikowi wyposażonemu w maskę przeciwgazową i okulary ochronne.",
+      "pracownikowi posiadającemu aktualne zaświadczenie o przebytym szkoleniu w tym zakresie.",
+      "blacharzowi z uprawnieniami do posługiwania się gazami spawalniczymi.",
+      "diagnoście z uprawnieniami do przeprowadzania badań technicznych pojazdów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 153,
+    "text": "Kalibrację śruby mikrometrycznej przeprowadza się z wykorzystaniem",
+    "answers": [
+      "czujnika zegarowego.",
+      "sprawdzianu dwugranicznego.",
+      "płytki wzorcowej.",
+      "mikroskopu warsztatowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 154,
+    "text": "Urządzenia pirotechniczne pojazdu samochodowego po jego kasacji należy",
+    "answers": [
+      "sprasować, a następnie przetopić.",
+      "dezaktywować.",
+      "poddać recyklingowi energetycznemu.",
+      "zutylizować w kwasie solnym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 155,
+    "text": "Podczas wymiany uszczelki pod głowicą silnika wskazane jest przeprowadzenie",
+    "answers": [
+      "planowania głowicy.",
+      "wymiany popychaczy zaworów.",
+      "docierania zaworów.",
+      "honowania cylindrów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 156,
+    "text": "Dokumentacja konstrukcyjna zawiera",
+    "answers": [
+      "normy czasu pracy.",
+      "warunki techniczne naprawy.",
+      "spis wszystkich operacji procesu technologicznego.",
+      "rysunki złożeniowe podzespołów i zespołów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 157,
+    "text": "Po przeprowadzeniu czyszczenia w myjce ultradźwiękowej wtryskiwaczy układu zasilania silnika ZI dalszą kontrolę ich działania należy określić przez pomiar",
+    "answers": [
+      "oporności cewek wtryskiwaczy.",
+      "wydatku wtryskiwaczy.",
+      "zadymienia spalin.",
+      "wzniosu iglic wtryskiwaczy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 158,
+    "text": "Do wykonania naprawy uszkodzonego podświetlenia kontrolek zestawu wskaźników licznika nie może być wykorzystane stanowisko",
+    "answers": [
+      "z podnośnikiem najazdowym.",
+      "z ramą prostowniczą.",
+      "wyposażone w kanał.",
+      "wyposażone w podnośnik dwukolumnowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 159,
+    "text": "Do dokumentów ewidencji odpadów w serwisie samochodowym nie zalicza się kart",
+    "answers": [
+      "przekazania odpadu.",
+      "naprawy pojazdu.",
+      "ewidencji zużytego sprzętu elektrycznego.",
+      "ewidencji odpadów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 160,
+    "text": "Po przeprowadzonej wymianie skraplacza z osuszaczem powietrza w układzie klimatyzacji pojazdu samochodowego należy",
+    "answers": [
+      "sprawdzić szczelność układu.",
+      "napełnić układ dwutlenkiem węgla.",
+      "przepłukać układ olejem napędowym.",
+      "wydać pojazd klientowi i wprowadzić kolejny pojazd."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 161,
+    "text": "Kalibrowanie klucza dynamometrycznego przeprowadza się z wykorzystaniem",
+    "answers": [
+      "przetwornika momentu siły.",
+      "śruby wzorcowej.",
+      "płytek wzorcowych.",
+      "siłomierza."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 162,
+    "text": "Identyfikacja pojazdu podczas badania technicznego polega na porównaniu",
+    "answers": [
+      "numeru silnika z danymi w dowodzie rejestracyjnym pojazdu.",
+      "danych z karty pojazdu i dowodu rejestracyjnego.",
+      "numeru VIN w dowodzie rejestracyjnym pojazdu z numerem odczytanym na nadwoziu.",
+      "numeru rejestracyjnego umieszczonego na pojeździe z zapisanym w dowodzie rejestracyjnym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 163,
+    "text": "W autoryzowanym serwisie wizualną ocenę stanu pojazdu przed przyjęciem go do naprawy wykonuje",
+    "answers": [
+      "pracownik magazynu.",
+      "blacharz.",
+      "mechanik.",
+      "pracownik BOK."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 164,
+    "text": "Przyczyną „wypadania zapłonów” w silniku z zapłonem iskrowym może być uszkodzenie",
+    "answers": [
+      "termostatu.",
+      "świec żarowych.",
+      "cewki zapłonowej.",
+      "regulatora ciśnienia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 165,
+    "text": "Producent przewidział przeglądy okresowe pojazdu co 20 000±500 km i nie rzadziej niż raz w roku. Do warsztatu zgłosił się klient w celu ustalenia kolejnego terminu przeglądu okresowego, którego pojazd ma przebieg 38 300 km i ostatni przegląd miał wykonany dokładnie 9 miesięcy temu. Termin następnego przeglądu okresowego należy ustalić",
+    "answers": [
+      "dokładnie za 1 700 km.",
+      "za trzy miesiące.",
+      "przy stanie licznika 40 000±500 km.",
+      "za trzy miesiące lub przy stanie licznika 40 000±500 km."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 166,
+    "text": "Urządzeniem stanowiącym niezbędne wyposażenie Podstawowej Stacji Kontroli Pojazdów jest",
+    "answers": [
+      "urządzenie do diagnostyki i obsługi układów klimatyzacji.",
+      "miernik poziomu dźwięku.",
+      "lampa stroboskopowa.",
+      "próbnik ciśnienia sprężania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 167,
+    "text": "Do głównych zadań gospodarki magazynowej nie należy",
+    "answers": [
+      "konfekcjonowanie materiałów i części.",
+      "ewidencja kosztów stałych serwisu.",
+      "kompletowanie zestawów części.",
+      "utrzymanie zapasów na ustalonym poziomie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 168,
+    "text": "Prawidłowo sporządzony dokument obrotu materiałowego nie musi zawierać",
+    "answers": [
+      "danych osobowych kuriera realizującego dostawę.",
+      "ilości wydanego materiału.",
+      "nazwy materiału.",
+      "daty wystawienia dokumentu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 169,
+    "text": "Forma wynagradzania pracownika związana z liczbą produktów lub usług wykonanych w określonym czasie to forma",
+    "answers": [
+      "akordowa.",
+      "prowizyjna.",
+      "premiowa.",
+      "czasowa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 170,
+    "text": "Koszt usługi polegającej na wymianie osłony zewnętrznego przegubu napędowego, jeżeli normatywny czas wymiany to 0,8 rbh, wynosi",
+    "answers": [
+      "129,50 zł",
+      "157,50 zł",
+      "115,50 zł",
+      "175,50 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela50.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 171,
+    "text": "Na stanowisku wyposażonym w wiertarkę stołową powinna znajdować się tabliczka informująca o konieczności stosowania ochrony",
+    "answers": [
+      "przeciwpyłowej.",
+      "wzroku.",
+      "przeciwporażeniowej.",
+      "słuchu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 172,
+    "text": "Zgodnie z obecnie obowiązującym prawem zabronione jest ponowne użycie",
+    "answers": [
+      "akumulatorów.",
+      "szyb.",
+      "klocków i szczęk hamulcowych.",
+      "opon."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 173,
+    "text": "Do obowiązków mechanika zatrudnionego w autoryzowanym serwisie należy",
+    "answers": [
+      "odczytanie kodów błędów zapisanych w pamięci komputera pokładowego.",
+      "wymiana uszkodzonego poszycia drzwi.",
+      "wymiana amortyzatorów.",
+      "wymiana regulatora napięcia w alternatorze."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 174,
+    "text": "Oznaczenie OHV odnosi się do silnika z",
+    "answers": [
+      "jednym wałkiem rozrządu umieszczonym w korpusie silnika.",
+      "jednopunktowym wtryskiem paliwa.",
+      "wielopunktowym wtryskiem paliwa.",
+      "jednym wałkiem rozrządu umieszczonym w głowicy silnika."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 175,
+    "text": "Informacje umieszczone na ilustracjach dotyczą",
+    "answers": [
+      "szyb samochodowych.",
+      "poduszek powietrznych.",
+      "elementów z polimerów.",
+      "homologacji pojazdu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_informacje3.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 176,
+    "text": "Wymiary drzwi wjazdowych oraz kanału w warsztacie wykonującym montaż instalacji LPG w pojazdach, powinny być zgodne z wymogami",
+    "answers": [
+      "Transportowego Dozoru Technicznego.",
+      "Państwowej Inspekcji Pracy.",
+      "Wydziału Architektury Urzędu Miasta.",
+      "Wydziału Geodezji Starostwa Powiatowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 177,
+    "text": "Zasoby serwisu, które decydują o możliwości i czasie wykonania usługi, to",
+    "answers": [
+      "zaplecze magazynowe.",
+      "zdolność usługowa serwisu.",
+      "zasoby finansowe.",
+      "zaplecze techniczne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 178,
+    "text": "Do czynności obsługi codziennej pojazdu należy kontrola",
+    "answers": [
+      "działania świateł mijania.",
+      "temperatury krzepnięcia płynu chłodniczego silnika.",
+      "ustawienia świateł drogowych.",
+      "luzów łożysk kół."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 179,
+    "text": "Podczas przyjęcia pojazdu do warsztatu należy sporządzić",
+    "answers": [
+      "umowę użyczenia pojazdu.",
+      "raport wzrokowej oceny stanu pojazdu.",
+      "zaświadczenie o aktualnym badaniu technicznym.",
+      "protokół rozszerzenia procesu naprawy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 180,
+    "text": "Planując pracę serwisu w okresie wiosennym, należy uwzględnić konieczność uzupełnienia stanu magazynowego w",
+    "answers": [
+      "czynnik chłodniczy do układów klimatyzacji.",
+      "świece zapłonowe.",
+      "olej silnikowy.",
+      "klocki hamulcowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 181,
+    "text": "Decyzja o czasowym wycofaniu pojazdu z ruchu może być wydana maksymalnie na okres",
+    "answers": [
+      "12 miesięcy.",
+      "6 miesięcy.",
+      "18 miesięcy.",
+      "24 miesięcy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 182,
+    "text": "Na obsługę okresową przyjechał samochód z regulowanymi za pomocą płytek luzami zaworowymi. Zgodnie z dokumentacją luzy te powinny wynosić na zimnym silniku 0,20 do 0,25 mm dla zaworów ssących i 0,25 do 0,30 mm dla zaworów wylotowych. W wyniku pomiarów na zimnym silniku na 2 cylindrze uzyskano dla zaworu ssącego 0,27 mm i wydechowego 0,29 mm. Na podstawie uzyskanych wyników pomiarów należy",
+    "answers": [
+      "wymienić obie płytki na niższe 0,04 mm.",
+      "zeszlifować płytkę zaworu ssącego od 0,02 do 0,05 mm.",
+      "uznać, że luz zaworowy na 2 cylindrze jest prawidłowy.",
+      "dla zaworu ssącego zastosować płytkę wyższą od 0,02 do 0,07 mm."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 183,
+    "text": "Naprawę wgniecenia pasa przedniego pojazdu należy przeprowadzić",
+    "answers": [
+      "na stanowisku wyposażonym w ramę prostowniczą.",
+      "w hali diagnostyki pojazdowej.",
+      "na stanowisku wyposażonym w podnośnik nożycowy.",
+      "na stanowisku wyposażonym w kanał najazdowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 184,
+    "text": "W warsztacie stwierdzono, że nierówna praca 4-cylindrowego silnika jest spowodowana uszkodzoną cewką zapłonową 2 cylindra. Właściciel w ramach naprawy pojazdu zlecił również wykonanie pomiaru ciśnienia sprężania w cylindrach silnika. Korzystając z danych zawartych w tabeli, oblicz koszt naprawy.",
+    "answers": [
+      "156,00 zł",
+      "304,00 zł",
+      "135,00 zł",
+      "170,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela51.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 185,
+    "text": "Przyczyną zbyt słabo działającego ogrzewania wnętrza samochodu osobowego może być",
+    "answers": [
+      "zbyt niska temperatura krzepnięcia płynu w układzie chłodzenia silnika.",
+      "stale zamknięty termostat układu chłodzenia silnika.",
+      "uszkodzenie wentylatora chłodnicy silnika.",
+      "stale otwarty termostat układu chłodzenia silnika."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 186,
+    "text": "Podczas badania technicznego, wartość dopuszczalna hałasu emitowanego z układu wydechowego w samochodzie osobowym, wyposażonym w silnik ZI, nie może przekraczać",
+    "answers": [
+      "85 dB",
+      "96 dB",
+      "72 dB",
+      "93 dB"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela49.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 187,
+    "text": "Podnośnik nożycowy podlega kontroli",
+    "answers": [
+      "Inspekcji Technicznej.",
+      "Wydziałowi Kontroli Urzędu Miasta.",
+      "Transportowemu Dozorowi Technicznemu.",
+      "Urzędowi Dozoru Technicznego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 188,
+    "text": "W samochodzie osobowym poprawne napięcie ładowania alternatora powinno wynosić",
+    "answers": [
+      "od 12 do 13 V",
+      "dokładnie 12 V",
+      "od 13,8 do 14,5 V",
+      "od 12,4 do 13,5 V"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 189,
+    "text": "Właściciel pojazdu przekazując pojazd do stacji demontażu, nie jest obowiązany okazać",
+    "answers": [
+      "karty pojazdu.",
+      "dowodu osobistego.",
+      "zaświadczenia o demontażu pojazdu.",
+      "dowodu rejestracyjnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 190,
+    "text": "W autoryzowanym serwisie wyszukanie przyczyny zapalania się kontrolki poduszki powietrznej należy do obowiązków",
+    "answers": [
+      "lakiernika.",
+      "doradcy serwisowego.",
+      "blacharza.",
+      "diagnosty."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 191,
+    "text": "Na pozycji dziesiątej numeru VIN pojazdu kodowana jest zazwyczaj informacja o",
+    "answers": [
+      "mocy silnika.",
+      "rodzaju nadwozia.",
+      "dacie produkcji pojazdu.",
+      "pojemności silnika."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 192,
+    "text": "Dyrektywa Unii Europejskiej dotycząca recyklingu pojazdów nie ogranicza stosowania w pojazdach",
+    "answers": [
+      "cynku.",
+      "kadmu.",
+      "ołowiu.",
+      "rtęci."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 193,
+    "text": "W samochodzie osobowym, który został zakupiony 4 lata i trzy miesiące temu jako nowy, kolejne okresowe badanie techniczne należy przeprowadzić",
+    "answers": [
+      "za rok i dziewięć miesięcy.",
+      "nie później niż za dziewięć miesięcy.",
+      "przed upływem 6 lat od daty pierwszej rejestracji.",
+      "niezwłocznie gdyż termin badania minął 3 miesiące temu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 194,
+    "text": "Zlecenie naprawy pojazdu nie musi zawierać",
+    "answers": [
+      "opisu stanu pojazdu.",
+      "danych identyfikujących pojazd.",
+      "uwag o stanie pojazdu.",
+      "informacji o cenach części zamiennych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 195,
+    "text": "Mechanik, który wymienił elastyczny przewód hamulcowy, powinien pamiętać o wykonaniu",
+    "answers": [
+      "odpowietrzenia układu hamulcowego.",
+      "wymiany tarcz hamulcowych.",
+      "wymiany czujnika ABS.",
+      "wymiany klocków hamulcowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 196,
+    "text": "Rozporządzenie Ministra Transportu i Budownictwa w sprawie szczegółowych wymagań w stosunku do stacji przeprowadzających badania techniczne pojazdów nie zawiera zaleceń w zakresie",
+    "answers": [
+      "wyposażenia kontrolno-pomiarowego.",
+      "stanowiska zewnętrznego do pomiarów akustycznych.",
+      "lokalizacji, wymiarów i jakości wykonania stanowiska.",
+      "liczby zatrudnionych diagnostów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 197,
+    "text": "W pojeździe, w którym wymieniono pompę cieczy chłodzącej napędzanej paskiem rozrządu, należy równocześnie zlecić wymianę",
+    "answers": [
+      "paska rozrządu.",
+      "termostatu.",
+      "paska napędu osprzętu silnika.",
+      "chłodnicy silnika."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 198,
+    "text": "W pojeździe przyprowadzonym do serwisu, w którym klient zgłasza sporadycznie włączającą się kontrolkę poduszki powietrznej kierowcy, należy",
+    "answers": [
+      "wymienić bezpiecznik poduszki powietrznej.",
+      "wymienić wadliwą poduszkę powietrzną na nową.",
+      "rozpocząć diagnostykę układu od podłączenia komputera diagnostycznego.",
+      "wymienić zwijacz poduszki powietrznej w kierownicy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 199,
+    "text": "Klient zgłasza, że podczas jazdy pojazdem ze zblokowanym przednim układem napędowym w ciasnym zakręcie słyszy regularne stuki w przedniej lewej części pojazdu. Poszukiwanie usterki należy rozpocząć od",
+    "answers": [
+      "wymontowania przekładni głównej.",
+      "sprawdzenia stanu osłon i luzów w przegubach zewnętrznych kół.",
+      "wymiany oleju w skrzyni biegów.",
+      "sprawdzenia czy poziom oleju silnikowego jest właściwy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 200,
+    "text": "Spalanie w specjalnych piecach tworzyw sztucznych to recykling",
+    "answers": [
+      "energetyczny.",
+      "materiałowy.",
+      "biologiczny.",
+      "surowcowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 201,
+    "text": "Do wkręcenia śruby dwustronnej (tzw. szpilki) w kadłub silnika, przy braku specjalnego klucza, można użyć",
+    "answers": [
+      "nakrętki przylutowanej wcześniej na drugim jej końcu.",
+      "nakrętki i przeciwnakrętki.",
+      "jej części niegwintowanej.",
+      "nakrętki przyspawanej wcześniej na drugim jej końcu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 202,
+    "text": "Do komunikacji niewerbalnej zalicza się",
+    "answers": [
+      "gestykulację i ruchy ciała.",
+      "kierowanie rozmową i autoprezentację.",
+      "sztukę aktywnego słuchania i kierowania rozmową.",
+      "zdolność perswazji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 203,
+    "text": "Skala Hartridge’a stosowana jest do oceny",
+    "answers": [
+      "opóźnienia hamowania.",
+      "zawartości cząstek stałych w spalinach.",
+      "sprawności amortyzatorów.",
+      "zbieżności połówkowej kół."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 204,
+    "text": "Serwis samochodowy od poniedziałku do piątku pracuje w systemie dwuzmianowym, na jednej zmianie zatrudnia 6 mechaników. W sobotę na jednej zmianie pracuje 2 mechaników. Jeden mechanik podczas zmiany może wykonać przegląd 3 samochodów. Ile maksymalnie przeglądów, w ciągu tygodnia, może wykonać serwis?",
+    "answers": [
+      "99 przeglądów.",
+      "189 przeglądów.",
+      "90 przeglądów.",
+      "186 przeglądów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 205,
+    "text": "Jaka musi być minimalna przepuszczalność szyby czołowej, aby pojazd mógł być dopuszczony do ruchu?",
+    "answers": [
+      "70%",
+      "75%",
+      "80%",
+      "85%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 206,
+    "text": "Którym gazem jest wypełniony amortyzator gazowy?",
+    "answers": [
+      "Azotem.",
+      "Argonem.",
+      "Helem.",
+      "Powietrzem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 207,
+    "text": "Na podstawie którego z badań przeprowadzanego na SKP ocenia się prawidłowość działania układu hamulcowego?",
+    "answers": [
+      "Siły hamowania.",
+      "Opóźnienia hamowania.",
+      "Siły nacisku na pedał hamulca.",
+      "Wskaźnika skuteczności hamowania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 208,
+    "text": "Które z podanych badań nie jest wykonywane przez diagnostę na stacji kontroli pojazdów w ramach corocznego przeglądu rejestracyjnego?",
+    "answers": [
+      "Sprawdzenie skuteczności i równomierności działania hamulców.",
+      "Sprawdzenie stanu technicznego sygnału dźwiękowego.",
+      "Sprawdzenie prawidłowości działania i ustawienia świateł.",
+      "Sprawdzenie prawidłowości działania układu zasilania silnika."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 209,
+    "text": "Podstawowym dokumentem związanym z działalnością serwisu samochodowego, będącym podstawą przyjęcia pojazdu do warsztatu, jest",
+    "answers": [
+      "plan obsługi pojazdu.",
+      "dowód wydania części.",
+      "zlecenie naprawy.",
+      "kosztorys naprawy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 210,
+    "text": "Do zadań kierownika serwisu zatrudniającego 5-10 osób należy",
+    "answers": [
+      "utrzymywanie kontaktu z klientem.",
+      "przygotowanie wynagrodzeń pracowniczych.",
+      "sporządzanie rachunków kosztów.",
+      "prowadzenie księgowości."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 211,
+    "text": "Klient, który chce uzyskać informacje o tym, czy czynności przeglądowe jego auta zakończyły się, powinien być skierowany do pracownika",
+    "answers": [
+      "serwisu.",
+      "BOK.",
+      "hali napraw.",
+      "kasy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 212,
+    "text": "Na rysunku przedstawiono klucz stosowany na stanowisku do napraw",
+    "answers": [
+      "układu hamulcowego.",
+      "blacharskich.",
+      "układu klimatyzacji.",
+      "układu ładowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_klucz.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 213,
+    "text": "Do podstawowych dokumentów przychodu magazynowego należy",
+    "answers": [
+      "Wz",
+      "Pz",
+      "Rw",
+      "Mm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 214,
+    "text": "Jednym z zadań pracownika Biura Obsługi Klienta jest",
+    "answers": [
+      "zamawianie części zamiennych.",
+      "kontrola jakości wykonywanych prac naprawczych.",
+      "współpraca wewnątrz serwisu z mechanikami i innymi pracownikami.",
+      "diagnozowanie i lokalizowanie usterek."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 215,
+    "text": "Klient, który zostawia swój pojazd na czas naprawy w serwisie, nie może zostać poproszony o pozostawienie",
+    "answers": [
+      "sterownika autoalarmu.",
+      "dowodu zawarcia ubezpieczenia OC pojazdu.",
+      "wszystkich zapasowych kluczyków.",
+      "dowodu rejestracyjnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 216,
+    "text": "Serwis otrzymał zlecenie na wymianę akumulatorów w 12 samochodach floty. Koszt jednego akumulatora wynosi 300 zł a koszt 1 godziny pracy elektromechanika to 120 zł. Czas przeznaczony na wymianę jednego akumulatora wynosi 10 minut. Ile wynosi całkowity koszt wymiany akumulatorów?",
+    "answers": [
+      "3 600 zł",
+      "3 860 zł",
+      "3 840 zł",
+      "3 720 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 217,
+    "text": "Podstawowym celem komunikacji wewnętrznej w warsztacie samochodowym nie jest",
+    "answers": [
+      "wzmacnianie spójności zespołów w zakresie realizacji zadań.",
+      "zapewnienie dwukierunkowego przepływu informacji.",
+      "budowanie właściwych relacji z klientami.",
+      "budowanie klimatu zaufania wśród pracowników."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 218,
+    "text": "Całkowity koszt wymiany żarówki świateł drogowych i świateł mijania przeprowadzanej w ciągu 0,5 roboczogodziny jest równy",
+    "answers": [
+      "87 zł",
+      "65 zł",
+      "44 zł",
+      "37 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela57.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 219,
+    "text": "Całkowity koszt brutto alternatora i jego wymiany jest równy",
+    "answers": [
+      "529,60 zł",
+      "787,20 zł",
+      "639,60 zł",
+      "520,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela58.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 220,
+    "text": "Decyzję o czasowym wycofaniu pojazdu z ruchu wydaje",
+    "answers": [
+      "burmistrz miasta/wójt gminy.",
+      "wojewoda.",
+      "kierownik wydziału komunikacji.",
+      "starosta."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 221,
+    "text": "Na rysunku przedstawiono wymagane przepisami usytuowanie pojazdu i urządzenia pomiarowego w obszarze pomiarowym. Przeprowadzenie tego pomiaru należy zlecić",
+    "answers": [
+      "lakiernikowi.",
+      "diagnoście na stacji kontroli pojazdów.",
+      "blacharzowi.",
+      "kierownikowi stacji kontroli pojazdów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_pomiar4.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 222,
+    "text": "W pojeździe wykonano wymianę oleju. W celu skasowania inspekcji olejowej należy użyć",
+    "answers": [
+      "amperomierza.",
+      "diagnoskopu samochodowego.",
+      "omomierza.",
+      "oscyloskopu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 223,
+    "text": "Za pojazd kompletny do celów recyklingu uważa się taki, który zawiera wszystkie istotne elementy i jego masa jest nie mniejsza niż",
+    "answers": [
+      "80% masy pojazdu nowego.",
+      "85% masy pojazdu nowego.",
+      "90% masy pojazdu nowego.",
+      "95% masy pojazdu nowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 224,
+    "text": "Płyn hamulcowy należy wymienić",
+    "answers": [
+      "po ośmiu latach.",
+      "przy słabym hamowaniu.",
+      "gdy zawartości wody w płynie jest większa niż 3%.",
+      "gdy zawartości wody w płynie jest mniejsza niż 3%."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 225,
+    "text": "Obsługę OO-1/OT-1 zalicza się do obsługi",
+    "answers": [
+      "codziennej.",
+      "okresowej.",
+      "jednokrotnej.",
+      "w okresie docierania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 226,
+    "text": "Mechanik, który wykonuje naprawę w ramach gwarancji producenta, powinien użyć",
+    "answers": [
+      "zamienników części oryginalnych.",
+      "części po regeneracji.",
+      "części używanych z innego pojazdu.",
+      "wyłącznie części oryginalnych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 227,
+    "text": "Które z wymienionych urządzeń nie podlega kontroli UDT?",
+    "answers": [
+      "Zbiorniki z acetylenem.",
+      "Montażownica do kół.",
+      "Suwnica.",
+      "Podnośnik nożycowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 228,
+    "text": "W przypadku niecałkowitego rozłączania się sprzęgła należy w pierwszej kolejności wykonać",
+    "answers": [
+      "kontrolę poziomu oleju w skrzyni biegów.",
+      "pomiar lepkości oleju w skrzyni biegów.",
+      "pomiar skoku jałowego pedału sprzęgła.",
+      "sprawdzenia zaolejenia tarczy sprzęgła."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 229,
+    "text": "Na ilustracji, którą zamieszczono w dokumentacji technologicznej naprawy pojazdu, przedstawiono",
+    "answers": [
+      "wtryskiwacz z zaworem iglicowym.",
+      "wtryskiwacz czopikowy.",
+      "świecę żarową.",
+      "pompowtryskiwacz."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_rysunek6.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 230,
+    "text": "Na organizację stanowiska pracy nie ma wpływu",
+    "answers": [
+      "narzędzie, jakim posługuje się pracownik.",
+      "pozycja, w jakiej mechanik wykonuje najwięcej czynności.",
+      "upodobanie osobiste pracownika.",
+      "zagospodarowanie powierzchni stanowiska pracy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 231,
+    "text": "Jaka jest prawidłowa kolejność prac podczas pomiaru i regulacji kątów i ustawienia kół kierowanych?",
+    "answers": [
+      "Zbieżność kół, kąt wyprzedzenia sworznia zwrotnicy, kąt pochylenia koła.",
+      "Kąt pochylenia koła, kąt wyprzedzenia sworznia zwrotnicy, zbieżność kół.",
+      "Kąt wyprzedzenia sworznia zwrotnicy, kąt pochylenia koła, zbieżność kół.",
+      "Zbieżność kół, kąt pochylenia koła, kąt wyprzedzenia sworznia zwrotnicy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 232,
+    "text": "Ile wynosi dopuszczalna wartość luzu sumarycznego na kole kierowniczym dla samochodu osobowego?",
+    "answers": [
+      "25°",
+      "10°",
+      "20°",
+      "15°"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 233,
+    "text": "Który pomiar przedstawiono na ilustracji znajdującej się w dokumentacji technologicznej naprawy pojazdu?",
+    "answers": [
+      "Bicia trzonka zaworu.",
+      "Luzu zaworu w prowadnicy.",
+      "Bicia powierzchni stożkowej zaworu.",
+      "Odkształceń bloku silnika."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_pomiar3.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 234,
+    "text": "Za pomocą urządzenia przedstawionego na ilustracji można sprawdzić",
+    "answers": [
+      "szczelność układu klimatyzacji.",
+      "skład spalin w silniku o zapłonie iskrowym.",
+      "skład spalin w silniku o zapłonie samoczynnym.",
+      "usterki w układzie zasilania paliwem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_urzadzenie3.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 235,
+    "text": "Oblicz koszt wykonanego przeglądu okresowego pojazdu z silnikiem ZI na podstawie danych zawartych w tabeli. Koszt roboczogodziny to 150 zł.",
+    "answers": [
+      "150,00 zł",
+      "300,00 zł",
+      "200,00 zł",
+      "75,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela55.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 236,
+    "text": "W nowoczesnych pojazdach samochodowych naprawa szczęk hamulcowych polega na",
+    "answers": [
+      "nitowaniu nowej okładziny ciernej.",
+      "wyrównaniu okładzin ciernych.",
+      "wymianie szczęk hamulcowych.",
+      "klejeniu nowej okładziny ciernej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 237,
+    "text": "Do zakładu wulkanizacji zgłosił się klient w celu wymiany ogumienia z zimowego na letnie. Na przednie koła założono nowe opony, natomiast na koła tylne opony używane przez właściciela w poprzednim sezonie. Wszystkie koła poddano wyważeniu. Jaki był całkowity koszt usługi?",
+    "answers": [
+      "568 zł",
+      "588 zł",
+      "540 zł",
+      "564 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela56.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 238,
+    "text": "Występowanie jednocześnie takich objawów jak: spadek mocy silnika, stuki wewnątrz silnika, nadmierne zużycie oleju połączone z dymieniem są typowymi niedomaganiami układu",
+    "answers": [
+      "kadłuba i głowicy.",
+      "korbowo-tłokowego silnika.",
+      "rozrządu silnika.",
+      "wylotowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 239,
+    "text": "Który z wymienionych programów nie jest przeznaczony do zarządzania serwisem?",
+    "answers": [
+      "Firma 2000",
+      "Autodata",
+      "Warsztat 3",
+      "IC_Sklep"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 240,
+    "text": "W pojeździe, w którym wymieniono pompę cieczy chłodzącej napędzanej paskiem rozrządu, należy równocześnie zlecić",
+    "answers": [
+      "wymianę paska rozrządu.",
+      "wymianę paska napędu osprzętu silnika.",
+      "wymianę termostatu.",
+      "wymianę chłodnicy silnika."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 241,
+    "text": "Warsztat samochodowy, który naprawia i obsługuje pojazdy wyposażone w układ klimatyzacji, zobowiązany jest raportować zużycie czynnika chłodniczego do",
+    "answers": [
+      "Instytutu Chemii Przemysłowej.",
+      "Polskiego Górnictwa Naftowego i Gazownictwa.",
+      "Urzędu Miar.",
+      "Państwowej Inspekcji Sanitarnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 242,
+    "text": "Ponadnormatywne zużycie oleju silnikowego przez pojazd może być spowodowane",
+    "answers": [
+      "zużyciem panewek czopów głównych wału korbowego.",
+      "zbyt niskim poziomem oleju.",
+      "zużyciem uszczelniaczy zaworowych.",
+      "uszkodzeniem pompy oleju."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 243,
+    "text": "Dokumentem określającym wymagania w stosunku do wyposażenia stacji kontroli pojazdów jest",
+    "answers": [
+      "obwieszczenie wojewody.",
+      "decyzja Zrzeszenia Stacji Kontroli Pojazdów.",
+      "rozporządzenie właściwego ministra ds. transportu.",
+      "obwieszczenie starosty powiatowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 244,
+    "text": "Na ilustracji przedstawiono kontrolę stanu pompy",
+    "answers": [
+      "paliwa.",
+      "oleju.",
+      "wtryskowej.",
+      "chłodzącej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_kontrola3.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 245,
+    "text": "Ilu pracowników powinien przydzielić kierownik warsztatu do wykonania wymiany płynu hamulcowego w pojeździe przy użycia urządzenia podciśnieniowego służącego do odsysania płynu hamulcowego?",
+    "answers": [
+      "4 pracowników.",
+      "2 pracowników.",
+      "1 pracownika.",
+      "3 pracowników."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 246,
+    "text": "Pracownik przed przystąpieniem do wykonywania pracy musi odbyć, między innymi, szkolenie z zakresu bhp odnoszące się do stanowiska na którym będzie pracował. Jest to szkolenie",
+    "answers": [
+      "okresowe.",
+      "stanowiskowe.",
+      "ogólne.",
+      "sytuacyjne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 247,
+    "text": "W tabeli przedstawiono wyciąg z cennika serwisu samochodowego. Zlecenie obejmuje wykonanie przeglądu samochodu z przebiegiem 100 500 km oraz wymianę klocków hamulcowych osi przedniej. Jaki jest koszt brutto wykonania zlecenia?",
+    "answers": [
+      "676,50 zł",
+      "314,40 zł",
+      "550,00 zł",
+      "450,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela44.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 248,
+    "text": "Na rysunku przedstawiono tabliczkę znamionową pojazdu. Numer identyfikacyjny pojazdu samochodowego określony jest cyfrą",
+    "answers": [
+      "2",
+      "1",
+      "4",
+      "3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabliczka.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 249,
+    "text": "Po zakończeniu naprawy układu kierowniczego ze wspomaganiem, przed oddaniem pojazdu klientowi, mechanik powinien przede wszystkim",
+    "answers": [
+      "zmierzyć ciśnienie robocze w układzie wspomagania.",
+      "przeprowadzić jazdę próbną.",
+      "sprawdzić stan opon.",
+      "wymienić olej układu wspomagania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 250,
+    "text": "Na podstawie zamieszczonego rysunku przedstawiającego elementy tylnego zawieszenia określ, z jakim momentem należy dokręcić górne mocowanie amortyzatora.",
+    "answers": [
+      "200 Nm+180°",
+      "85 Nm+90°",
+      "36 Nm",
+      "95 Nm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_schemat6.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 251,
+    "text": "Programy lojalnościowe, często stosowane w warsztatach samochodowych, są skierowane do",
+    "answers": [
+      "klientów nowych.",
+      "klientów często korzystających z usług.",
+      "wszystkich klientów warsztatu.",
+      "klientów niezadowolonych z usług."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 252,
+    "text": "W przypadku wystąpienia konieczności wydłużenia czasu naprawy samochodu w ASO, wynikającej z niedostarczenia przez hurtownię właściwej części do naprawy, należy",
+    "answers": [
+      "odstawić samochód do innego serwisu, który dysponuje częścią i powiadomić o tym klienta.",
+      "poinformować klienta o przyczynie konieczności wydłużenia czasu naprawy.",
+      "zamontować „starą” część, a klienta powiadomić o tym przy odbiorze samochodu.",
+      "zamówić część w innej hurtowni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 253,
+    "text": "Zużyty olej silnikowy należy",
+    "answers": [
+      "spalić w piecu warsztatowym CO.",
+      "wykorzystać jako materiał do konserwacji np. drewna.",
+      "oddać do utylizacji.",
+      "oczyścić i ponownie wykorzystać w silniku."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 254,
+    "text": "Które oznaczenie określa układ systemu bezpieczeństwa biernego w pojeździe?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_kontrolki.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 255,
+    "text": "Kierownik warsztatu powinien przerwać mechanikowi przeprowadzanie próby pracy silnika na stanowisku warsztatowym, jeżeli stwierdzi",
+    "answers": [
+      "otwartą pokrywę silnika pojazdu.",
+      "brak podłączonego odciągu spalin.",
+      "obecność klienta na stanowisku warsztatowym.",
+      "brak dokumentów pojazdu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 256,
+    "text": "Na którym rysunku przedstawiono element, którego uszkodzenie jest przyczyną przegrzewania się silnika spalinowego.",
+    "answers": [
+      "Na rysunku 1.",
+      "Na rysunku 3.",
+      "Na rysunku 2.",
+      "Na rysunku 4."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_rysunki.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 257,
+    "text": "Na stacji kontroli pojazdów diagnosta samochodowy po wykonaniu badania technicznego wykryte usterki samochodu zapisuje w",
+    "answers": [
+      "karcie gwarancyjnej.",
+      "zleceniu serwisowym.",
+      "zaświadczeniu o przeprowadzonym badaniu.",
+      "dokumencie identyfikacyjnym pojazdu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 258,
+    "text": "W tabeli przedstawiono katalog świec żarowych. Którą świecę żarową należy zamówić do wyprodukowanego w roku 1990 samochodu Jetta z silnikiem o pojemności 1,8 l i mocy 102 kW?",
+    "answers": [
+      "Świecę 1.",
+      "Świecę 4.",
+      "Świecę 2.",
+      "Świecę 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela48.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 259,
+    "text": "Na podstawie danych przedstawionych w tabeli oblicz czas wymiany wszystkich tarcz hamulcowych oraz tylnych zacisków hamulcowych w samochodzie",
+    "answers": [
+      "4,0 godziny.",
+      "1,6 godziny.",
+      "2,4 godziny.",
+      "2,5 godziny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela42.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 260,
+    "text": "W zamieszczonej tabeli przedstawiono cennik usług blacharskich. Ile zapłaci klient za naprawę nadwozia samochodu, w którym należy usunąć 5 pojedynczych małych wgnieceń oraz wstawić 2 progi oraz nadkole zewnętrzne?",
+    "answers": [
+      "990,00 zł",
+      "1 110,00 zł",
+      "750,00 zł",
+      "1 070,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela45.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 261,
+    "text": "Narzędzie przeznaczone do zdjęcia izolacji przed wykonaniem połączenia przewodów instalacji elektrycznej samochodu przedstawione jest na ilustracji",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_narzedzia.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 262,
+    "text": "Przedstawiony na rysunku schemat układu pojazdu dotyczy",
+    "answers": [
+      "kontroli zużycia bieżnika opon.",
+      "kontroli ciśnienia w ogumieniu.",
+      "pomiaru prędkości obrotowej kół.",
+      "określania prędkości jazdy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_schemat4.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 263,
+    "text": "Który z rozruszników o opisach przedstawionych w tabeli należy zamówić do samochodu VW Transporter?",
+    "answers": [
+      "0986 013 350",
+      "0986 011 360",
+      "0986 014 920",
+      "0986 016 780"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela47.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 264,
+    "text": "System informatyczny posiadający centralną bazę danych o pojazdach, ich właścicielach i posiadaczach oraz osobach uprawnionych do kierowania pojazdami nosi nazwę",
+    "answers": [
+      "Centralna Ewidencja Pojazdów i Kierowców.",
+      "Europejska Ewidencja Pojazdów i Kierowców.",
+      "Centralne Zrzeszenie Kierowców.",
+      "Powiatowa Ewidencja Pojazdów i Kierowców."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 265,
+    "text": "Tabela zawiera dane techniczne silnika. Wymagana wartość wysokiego ciśnienia pompy paliwa wynosi",
+    "answers": [
+      "6,00 bar",
+      "10-13 bar",
+      "39-110 bar",
+      "7,00 bar"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela31.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 266,
+    "text": "Po wymianie końcówki drążka kierowniczego w samochodzie, mechanik w pierwszej kolejności powinien",
+    "answers": [
+      "wykonać jazdę próbną.",
+      "sprawdzić wyważenie kół.",
+      "odczytać kody błędów.",
+      "sprawdzić zbieżność kół."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 267,
+    "text": "Po odbiorze pojazdu z warsztatu klient stwierdził dalsze występowanie usterek zgłaszanych do naprawy. W takim przypadku klient może złożyć do warsztatu w formie pisemnej",
+    "answers": [
+      "skargę.",
+      "odwołanie.",
+      "zażalenie.",
+      "reklamację."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 268,
+    "text": "Urządzeniem pomiarowym będącym na wyposażeniu stacji kontroli pojazdów i wymagającym przeprowadzania okresowej legalizacji co pół roku w uprawnionym laboratorium jest",
+    "answers": [
+      "analizator spalin.",
+      "hamulcomierz rolkowy.",
+      "urządzenie do pomiaru świateł.",
+      "płyta do wstępnej kontroli zbieżności."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 269,
+    "text": "Zezwolenie na eksploatację pojazdu wyposażonego w instalację LPG można uzyskać od",
+    "answers": [
+      "starosty powiatu.",
+      "diagnosty stacji kontroli pojazdów.",
+      "pracownika warsztatu mechaniki pojazdowej.",
+      "pracownika zakładu montującego instalację LPG."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 270,
+    "text": "Przy stwierdzeniu nadmiernego nagrzewania się silnika mechanik w pierwszej kolejności powinien sprawdzić",
+    "answers": [
+      "działanie pompy cieczy.",
+      "zanieczyszczenie chłodnicy.",
+      "poziom płynu chłodniczego.",
+      "działanie termostatu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 271,
+    "text": "Przed przeprowadzeniem pomiaru analizy spalin pojazdu samochodowego na stacji kontroli pojazdów należy",
+    "answers": [
+      "rozgrzać silnik.",
+      "wymienić filtr powietrza.",
+      "uzupełnić płyn chłodniczy.",
+      "wymienić świece zapłonowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.06"
+  },
+  {
+    "id": 272,
+    "text": "W tabeli przedstawiono momenty dokręcenia świec zapłonowych. Z jakim momentem powinna zostać dokręcona świeca zapłonowa z gwintem o średnicy 12 mm, z płaskim gniazdem, w głowicy aluminiowej?",
+    "answers": [
+      "25 Nm",
+      "15 Nm",
+      "30 Nm",
+      "20 Nm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela40.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 273,
+    "text": "W tabeli przedstawiono wyciąg z cennika serwisu samochodowego. Zlecenie obejmuje badanie techniczne pojazdu na stacji kontroli pojazdów oraz wymianę przednich amortyzatorów. Jaki jest koszt brutto wykonania zlecenia?",
+    "answers": [
+      "615,00 zł",
+      "300,00 zł",
+      "500,00 zł",
+      "400,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela43.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 274,
+    "text": "Odstęp elektrod świec zapłonowych, dla silników montowanych w samochodzie do sierpnia 2006 r. powinien wynosić od 0,7 mm do 0,8 mm, zaś dla silników montowanych od września 2006 r. od 0,9 mm do 1,1 mm. Na której świecy odstęp elektrod w samochodzie wyprodukowanym w styczniu 2008 r. jest niezgodny z wymaganiami?",
+    "answers": [
+      "Na świecy 3.",
+      "Na świecy 1.",
+      "Na świecy 4.",
+      "Na świecy 2."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mot06/m42_tabela41.png"
+    },
+    "category": "MOT.06"
+  },
+  {
+    "id": 275,
+    "text": "Urządzeniem stanowiącym wyposażenie warsztatu samochodowego, podlegającym okresowej kontroli Urzędu Dozoru Technicznego, jest",
+    "answers": [
+      "urządzenie rolkowe.",
+      "prasa warsztatowa.",
+      "montażownica opon.",
+      "podnośnik kolumnowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.06"
+  }
+]
