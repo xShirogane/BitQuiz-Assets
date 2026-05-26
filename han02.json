@@ -1,0 +1,5303 @@
+[
+  {
+    "id": 1,
+    "text": "Informacje na temat wielkości zapotrzebowania na dany towar, uzyskane w badaniach przeprowadzonych przez właściciela hurtowni wśród swoich sprzedawców, są informacjami",
+    "answers": [
+      "zewnętrznymi wtórnymi.",
+      "zewnętrznymi pierwotnymi.",
+      "wewnętrznymi pierwotnymi.",
+      "wewnętrznymi wtórnymi."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 2,
+    "text": "Hurtownik kupił towar od producenta w cenie zakupu netto 16,00 zł/szt. W hurtowni marżę w wysokości 20% oblicza się od ceny sprzedaży netto. Ile wynosi hurtowa cena sprzedaży netto towaru?",
+    "answers": [
+      "12,00 zł/szt.",
+      "12,80 zł/szt.",
+      "19,20 zł/szt.",
+      "20,00 zł/szt."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 3,
+    "text": "W celu zapoznania konsumentów z wprowadzanym na rynek towarem oraz zachęceniem ich do zakupu, przedsiębiorstwo handlowe powinno zastosować instrumenty reklamowe, które przede wszystkim pełnią funkcję",
+    "answers": [
+      "informacyjną.",
+      "wzmacniającą.",
+      "edukacyjną.",
+      "przypominającą."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 4,
+    "text": "Na podstawie danych zamieszczonych w tabeli ustal wielkość zapotrzebowania na towar w styczniu.",
+    "answers": [
+      "820 szt.",
+      "720 szt.",
+      "640 szt.",
+      "620 szt."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela143.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 5,
+    "text": "Otrzymane odszkodowanie z tytułu nieprawidłowego wykonania przez dostawcę umowy stanowi dla hurtowni przychód",
+    "answers": [
+      "z operacji finansowych.",
+      "z pozostałej działalności operacyjnej.",
+      "ze sprzedaży.",
+      "z podstawowej działalności operacyjnej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 6,
+    "text": "W przypadku niedotrzymania 14-dniowego terminu rozpatrzenia reklamacji towaru uznaje się, że",
+    "answers": [
+      "reklamacja jest bezzasadna.",
+      "sprzedawca może odmówić spełnienia żądania konsumenta, jeżeli wada powstała z jego winy.",
+      "reklamacja staje się zasadna.",
+      "konsument powinien ponowić zgłoszenie reklamacyjne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 7,
+    "text": "Do kosztów działalności operacyjnej przedsiębiorstwa handlowego nie należą",
+    "answers": [
+      "koszty sprzedaży papierów wartościowych.",
+      "wynagrodzenia wypłacane pracownikom na podstawie umów zlecenia.",
+      "koszty zużycia energii cieplnej, wody, gazu.",
+      "odpisy na zakładowy fundusz świadczeń socjalnych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 8,
+    "text": "Którą z wymienionych metod kontroli jakości powinien zastosować pracownik magazynu, przeprowadzając odbiór jakościowy pieczywa?",
+    "answers": [
+      "Organoleptyczną.",
+      "Konsumenckiej oceny.",
+      "Laboratoryjną.",
+      "Doświadczalnego użytkowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 9,
+    "text": "Właściciel hurtowni przeprowadził analizę stanu zatrudnienia pracowników w ostatnim roku, przyjmując jako podstawę odniesienia wielkość zatrudnienia z lat ubiegłych. Wykorzystał on metodę porównań",
+    "answers": [
+      "z normą.",
+      "parami.",
+      "w przestrzeni.",
+      "w czasie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 10,
+    "text": "Operacja gospodarcza o treści Wpłata do kasy przez pracownika niewykorzystanej zaliczki na pokrycie kosztów podróży służbowej jest przykładem operacji",
+    "answers": [
+      "aktywnej.",
+      "pasywnej.",
+      "aktywno-pasywnej zmniejszającej.",
+      "aktywno-pasywnej zwiększającej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 11,
+    "text": "Na podstawie analizy zmian miesięcznych wielkości sprzedaży przedstawionych na wykresie wskaż towar, którego zapas hurtownia powinna zwiększyć dla zapewnienia ciągłości sprzedaży w maju.",
+    "answers": [
+      "Towar W",
+      "Towar X",
+      "Towar Z",
+      "Towar Y"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_wykres20.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 12,
+    "text": "Model AIDA (Zwrócenie uwagi – Zainteresowanie – Pożądanie – Działanie) stosowany jest podczas",
+    "answers": [
+      "analizy wyników badań marketingowych.",
+      "określania metod zbierania informacji rynkowych.",
+      "budowania skutecznych przekazów reklamowych.",
+      "formułowania celów kampanii reklamowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 13,
+    "text": "Która z przedstawionych transakcji kupna-sprzedaży dotyczy sprzedaży konsumenckiej?",
+    "answers": [
+      "Przedmiotem sprzedaży jest nieruchomość zakupiona w celu wynajmu.",
+      "Kupujący nabywa towar w związku z prowadzoną przez siebie działalnością gospodarczą.",
+      "Przedmiotem sprzedaży jest samochód typu furgon do prowadzenia działalności kurierskiej.",
+      "Kupujący nabywa towar w związku z prowadzonymi przez siebie działaniami hobbistycznymi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 14,
+    "text": "Wycena rozchodu zapasów metodą LIFO polega na księgowaniu rozchodu począwszy od dostawy przyjętej do magazynu jako",
+    "answers": [
+      "najtańszej.",
+      "najdroższej.",
+      "pierwszej.",
+      "ostatniej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 15,
+    "text": "Które z wymienionych narzędzi promocji sprzedaży powinno zastosować przedsiębiorstwo handlowe, jeżeli zależy mu na utrzymaniu dużej liczby stałych klientów?",
+    "answers": [
+      "Wymianę punktów otrzymanych za zakupy na rabat.",
+      "Okresowe obniżki cen.",
+      "Bezpłatne egzemplarze produktów dla odbiorców hurtowych.",
+      "Zorganizowanie serii pokazów i demonstracji produktów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 16,
+    "text": "Oblicz cenę sprzedaży brutto towaru, którego cena zakupu netto wynosi 1 500,00 zł, objęty jest 23% stawką podatku VAT, a marża wynosi 30% i jest liczona od ceny zakupu netto.",
+    "answers": [
+      "1 586,00 zł",
+      "2 398,50 zł",
+      "3 136,50 zł",
+      "2 635,72 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 17,
+    "text": "Na podstawie zamieszczonego wykresu określ, który rodzaj zachowań rynkowych dominował wśród respondentów?",
+    "answers": [
+      "Racjonalne.",
+      "Nawykowe.",
+      "Nierutynowe.",
+      "Emocjonalne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_wykres21.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 18,
+    "text": "Które działanie marketingowe wykorzystuje bodźce ekonomiczne do pobudzenia sprzedaży produktu lub usługi?",
+    "answers": [
+      "Public relations.",
+      "Publicity.",
+      "Promocja sprzedaży.",
+      "Sprzedaż osobista."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 19,
+    "text": "W hurtowni obuwia, wartość sprzedanych półbutów męskich w cenie sprzedaży netto należy zaksięgować po stronie Ma na koncie",
+    "answers": [
+      "Koszt sprzedanych wyrobów gotowych.",
+      "Przychody ze sprzedaży towarów.",
+      "Wartość sprzedanych towarów w cenach zakupu.",
+      "Przychody ze sprzedaży wyrobów gotowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 20,
+    "text": "Na podstawie zapisów przedstawionych na kontach księgowych ustal wartość zapasów towarów na dzień bilansowy.",
+    "answers": [
+      "23 000,00 zł",
+      "15 000,00 zł",
+      "12 000,00 zł",
+      "28 000,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_zapisy11.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 21,
+    "text": "Do której podklasy w pierwszej kolejności należy zaklasyfikować aptekę, zgodnie z przedstawionym fragmentem klasyfikacji PKD?",
+    "answers": [
+      "47.73.Z",
+      "47.74.Z",
+      "47.78.Z",
+      "47.75.Z"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela140.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 22,
+    "text": "Zapis operacji gospodarczej zwiększającej stan zapasów na koncie Towary określany jest jako",
+    "answers": [
+      "kredytowanie konta.",
+      "zapisanie w ciężar konta.",
+      "zapisanie na dobro konta.",
+      "uznanie konta."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 23,
+    "text": "Dowody magazynowe przechowywane w archiwum oznaczone są symbolem kategorii archiwalnej",
+    "answers": [
+      "B3",
+      "B2",
+      "B10",
+      "B5"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 24,
+    "text": "Który dokument źródłowy jest podstawą do wypłaty gotówki z kasy?",
+    "answers": [
+      "Wniosek o zaliczkę.",
+      "Polecenie przelewu.",
+      "Raport kasowy.",
+      "Polecenie księgowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 25,
+    "text": "Licząc od końca roku kalendarzowego, w którym upłynął termin płatności podatku, faktury zakupu należy przechowywać przez okres",
+    "answers": [
+      "15 lat.",
+      "20 lat.",
+      "5 lat.",
+      "10 lat."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 26,
+    "text": "Zapisana na przedstawionych kontach operacja gospodarcza potwierdza",
+    "answers": [
+      "zakup towarów u dostawcy.",
+      "powstanie zobowiązania wobec dostawcy, które uregulowane będzie z rachunku bankowego.",
+      "zapłatę z rachunku bankowego zobowiązania wobec dostawcy.",
+      "zapłatę gotówką zobowiązania wobec dostawcy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_konta8.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 27,
+    "text": "Magazynier hurtowni spożywczej, zajmujący się przemieszczaniem towarów składowanych na paletach drewnianych, powinien w swojej pracy posługiwać się",
+    "answers": [
+      "podnośnikiem koszykowym.",
+      "przenośnikiem taśmowym.",
+      "wózkiem czterokołowym.",
+      "wózkiem widłowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 28,
+    "text": "Wskaźnik rentowności netto sprzedaży przedsiębiorstwa handlowego po roku działalności wyniósł 18%, co oznacza, że na każdą złotówkę",
+    "answers": [
+      "aktywów ogółem przypada 18 groszy zysku ze sprzedaży.",
+      "zysku netto przypada 18 groszy aktywów obrotowych.",
+      "kapitałów własnych przypada 18 groszy przychodu ze sprzedaży.",
+      "osiągniętych przychodów ze sprzedaży przypada 18 groszy zysku netto."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 29,
+    "text": "Zwiększenie wartości wskaźnika rotacji należności z 7 dni do 14 dni oznacza, że przedsiębiorstwo",
+    "answers": [
+      "skróciło średnio o połowę okres kredytowania odbiorców.",
+      "oczekuje średnio o 7 dni krócej na wpływ środków pieniężnych od odbiorców.",
+      "poprawiło zarządzanie należnościami i skróciło cykl inkasa należności.",
+      "oczekuje średnio o 7 dni dłużej na wpływ środków pieniężnych od odbiorców."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 30,
+    "text": "Korzystając z zamieszczonego zestawienia, oblicz ile wyniesie wartość wydanych z magazynu 200 sztuk kremów do twarzy na podstawie Wz 1/2024, jeżeli hurtownia do wyceny rozchodu towarów stosuje metodę FIFO (pierwsze weszło, pierwsze wyszło).",
+    "answers": [
+      "4 120,00 zł",
+      "4 000,00 zł",
+      "3 800,00 zł",
+      "4 010,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela144.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 31,
+    "text": "Dzięki zestawieniu sumy przychodów i kosztów za dany okres sprawozdawczy, w rachunku zysków i strat, wyznacza się",
+    "answers": [
+      "sprzedaż towarów.",
+      "wynik finansowy.",
+      "należności od odbiorców.",
+      "zobowiązania firmy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 32,
+    "text": "Pracownik magazynu z artykułami papierniczymi niewłaściwie przechowywał papier ksero, wskutek czego uległ on zawilgoceniu. Zdarzenie to spowodowało wadę papieru",
+    "answers": [
+      "nieistotną jawną.",
+      "zasadniczą ukrytą.",
+      "zasadniczą jawną.",
+      "nieistotną ukrytą."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 33,
+    "text": "Na podstawie zamieszczonych w tabeli informacji dotyczących warunków sprzedaży wskaż dostawcę, który przedstawił najkorzystniejszą ofertę przy zamówieniu 100 szt. towaru.",
+    "answers": [
+      "Dostawca X",
+      "Dostawca W",
+      "Dostawca Z",
+      "Dostawca Y"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela141.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 34,
+    "text": "W której części planu marketingowego należy zamieścić wnioski z przeprowadzonej analizy pozycji firmy?",
+    "answers": [
+      "W strategiach marketingowych.",
+      "W opisie sytuacji rynkowej.",
+      "W celach działalności marketingowej.",
+      "W streszczeniu dla kierownictwa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 35,
+    "text": "W której części biznesplanu należy zamieścić opis możliwych do realizacji wariantów rozwoju działalności firmy i pozyskiwania inwestorów?",
+    "answers": [
+      "W ogólnej charakterystyce firmy.",
+      "W analizie strategicznej.",
+      "W planie technicznym.",
+      "W planie finansowym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 36,
+    "text": "W celu poprawienia błędnie zapisanej kwoty na dokumencie Polecenie księgowania, który został wystawiony techniką ręczną przed zamknięciem miesiąca należy",
+    "answers": [
+      "skreślić błąd, wpisać poprawną kwotę, datę i złożyć podpis.",
+      "wystawić dowód korygujący i zniszczyć dokument.",
+      "zastosować storno czerwone.",
+      "zastosować storno czarne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 37,
+    "text": "Na podstawie zapisów w kartotece magazynowej ustal, jaką ilość towaru powinna zamówić hurtownia, aby zrealizować zamówienie od odbiorcy detalicznego na 200 szt. towaru, zachowując zapas minimalny 60 szt.",
+    "answers": [
+      "60 szt.",
+      "120 szt.",
+      "140 szt.",
+      "200 szt."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela142.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 38,
+    "text": "Który z przedstawionych zwrotów jest charakterystyczny dla zapytania ofertowego przygotowanego przez sklep odzieżowy?",
+    "answers": [
+      "Jesteśmy zainteresowani kolekcją odzieży damskiej na nadchodzący sezon.",
+      "Przesyłamy aktualne katalogi i cenniki dotyczące oferty sukienek letnich.",
+      "Stałym kontrahentom proponujemy rabat ilościowy w wysokości 10%.",
+      "Przy zakupie o wartości co najmniej 2 000,00 zł oferujemy bezpłatny transport."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 39,
+    "text": "Na podstawie danych przedstawiających wyniki inwentaryzacji przeprowadzonej w hurtowni, ustal wartość różnic inwentaryzacyjnych.",
+    "answers": [
+      "Nadwyżka lizaków 22,50 zł; nadwyżka batonów 22,00 zł; niedobór wafli 48,00 zł.",
+      "Niedobór lizaków 22,50 zł; nadwyżka batonów 22,00 zł; niedobór wafli 48,00 zł.",
+      "Nadwyżka lizaków 22,50 zł; niedobór batonów 22,00 zł; niedobór wafli 48,00 zł.",
+      "Niedobór lizaków 22,50 zł; niedobór batonów 22,00 zł; nadwyżka wafli 48,00 zł."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela145.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 40,
+    "text": "Który dowód magazynowy należy wystawić, aby udokumentować przeniesienie towarów z magazynu A do magazynu B w tej samej hurtowni?",
+    "answers": [
+      "Rw Rozchód wewnętrzny.",
+      "Wz Wydanie na zewnątrz.",
+      "Zw Zwrot wewnętrzny.",
+      "Mm Przesunięcie międzymagazynowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 41,
+    "text": "Które badania zmian preferencji klientów opierają się na wielokrotnym pozyskiwaniu danych od tej samej grupy respondentów, w ustalonych odstępach czasu?",
+    "answers": [
+      "Eksperymentalne.",
+      "Motywacyjne.",
+      "Panelowe.",
+      "Projekcyjne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 42,
+    "text": "Które z wymienionych zdarzeń gospodarczych nie jest operacją gospodarczą?",
+    "answers": [
+      "Naliczono amortyzację środków trwałych za bieżący miesiąc.",
+      "Wysłano drogą internetową zamówienie na towary.",
+      "Spłacono zobowiązanie wobec dostawcy z rachunku bankowego.",
+      "Zakupiono ze środków zgromadzonych na rachunku bankowym nieruchomość przeznaczoną na wynajem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 43,
+    "text": "Do której grupy czynników strategicznych w analizie SWOT przedsiębiorstwa należy zakwalifikować brak wystarczających kwalifikacji zatrudnionych pracowników?",
+    "answers": [
+      "Zagrożenia.",
+      "Mocne strony.",
+      "Słabe strony.",
+      "Szanse."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 44,
+    "text": "Na podstawie danych zamieszczonych w tabeli ustal kwotę podatku VAT i charakter rozliczenia z urzędem skarbowym za maj 2020 r.",
+    "answers": [
+      "Należność urzędu skarbowego w wysokości 800,00 zł.",
+      "Należność urzędu skarbowego w wysokości 1 000,00 zł.",
+      "Zobowiązanie wobec urzędu skarbowego w wysokości 200,00 zł.",
+      "Zobowiązanie wobec urzędu skarbowego w wysokości 1 200,00 zł."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/au25_tabela3.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 45,
+    "text": "Do którego rodzaju źródeł informacji o rynku należy zaliczyć zestawienia danych opracowane w dziale handlowym na podstawie faktur sprzedaży?",
+    "answers": [
+      "Wewnętrznych pierwotnych.",
+      "Zewnętrznych wtórnych.",
+      "Wewnętrznych wtórnych.",
+      "Zewnętrznych pierwotnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 46,
+    "text": "Na podstawie przedstawionego dowodu magazynowego PZ ustal ilość przyjętych do magazynu bluzek damskich.",
+    "answers": [
+      "10 szt.",
+      "60 szt.",
+      "50 szt.",
+      "20 szt."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/au25_dowod.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 47,
+    "text": "Sklep o dużej powierzchni, prowadzący sprzedaż odzieży damskiej w wielu asortymentach i rozmiarach powinien stosować sprzedaż",
+    "answers": [
+      "ratalną.",
+      "subskrypcyjną.",
+      "preselekcyjną.",
+      "tradycyjną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 48,
+    "text": "Który z wymienionych środków transportowych służy do pionowego przemieszczania towarów zgromadzonych w magazynie przedsiębiorstwa?",
+    "answers": [
+      "Wózek skrzyniowy.",
+      "Wózek platformowy.",
+      "Żuraw.",
+      "Transporter rolkowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 49,
+    "text": "Hurtownia będąca podatnikiem podatku VAT zakupiła towar w cenie zakupu netto 18,00 zł/szt. Oblicz cenę sprzedaży brutto towaru, jeżeli marża realizowana jest w wysokości 20% ceny zakupu netto, a stawka podatku VAT wynosi 23%.",
+    "answers": [
+      "22,14 zł/szt.",
+      "22,50 zł/szt.",
+      "27,68 zł/szt.",
+      "26,57 zł/szt."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 50,
+    "text": "Ustal wynagrodzenie brutto pracownika zatrudnionego w systemie czasowo-prowizyjnym, jeżeli wynagrodzenie zasadnicze wynosi 3 000,00 zł, stawka prowizji 0,5% wartości sprzedaży, obrót miesięczny 105 000,00 zł.",
+    "answers": [
+      "2 475,00 zł",
+      "525,00 zł",
+      "3 525,00 zł",
+      "3 000,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 51,
+    "text": "W celu wyboru najkorzystniejszych warunków dostaw należy porównać",
+    "answers": [
+      "zlecenia dostaw.",
+      "zlecenia przewozu.",
+      "oferty handlowe.",
+      "zapytania ofertowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 52,
+    "text": "W wyniku przeprowadzonej inwentaryzacji stwierdzono następujące stany poszczególnych towarów: Ustal wartość kompensaty niedoborów z nadwyżkami według zasady ,,mniejsza ilość, niższa cena”.",
+    "answers": [
+      "75,00 zł",
+      "40,00 zł",
+      "60,00 zł",
+      "50,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han02/au25_tabela.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 53,
+    "text": "Na których kontach księgowych należy zaewidencjonować operację gospodarczą: WB – Otrzymano odsetki od środków zgromadzonych na rachunku bankowym?",
+    "answers": [
+      "Wn Rachunek bieżący, Ma Inwestycje krótkoterminowe.",
+      "Wn Rachunek bieżący, Ma Pozostałe przychody operacyjne.",
+      "Wn Rachunek bieżący, Ma Przychody finansowe.",
+      "Wn Rachunek bieżący, Ma Koszty finansowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 54,
+    "text": "Hurtownia sprzętu elektronicznego wprowadza do sprzedaży nowy model kserokopiarki z rozbudowanym panelem obsługi licznych funkcji użytkowych. Który instrument promocji powinna zastosować, aby najskuteczniej przekazać informacje o produkcie?",
+    "answers": [
+      "Promocję sprzedaży.",
+      "Sponsoring.",
+      "Sprzedaż osobistą.",
+      "Public relations."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 55,
+    "text": "Na podstawie zamieszczonych na wykresie informacji dotyczących popularności tygodników prasowych wskaż tygodniki, w których przedsiębiorca powinien wykupić ogłoszenie reklamowe, aby dotrzeć do jak największej liczby klientów.",
+    "answers": [
+      "Tygodnik A, Tygodnik D.",
+      "Tygodnik B, Tygodnik D.",
+      "Tygodnik D, Tygodnik C.",
+      "Tygodnik C, Tygodnik E."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han02/au25_wykres2.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 56,
+    "text": "Operację gospodarczą: Zakup towarów za gotówkę należy zaliczyć do typu operacji",
+    "answers": [
+      "aktywnych.",
+      "pasywnych.",
+      "aktywno-pasywnych zwiększających sumę bilansową.",
+      "aktywno-pasywnych zmniejszających sumę bilansową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 57,
+    "text": "Na podstawie przedstawionych pozycji z rachunku zysków i strat ustal wynik z działalności operacyjnej przedsiębiorstwa handlowego.",
+    "answers": [
+      "92 200,00 zł",
+      "95 000,00 zł",
+      "93 500,00 zł",
+      "90 700,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/au25_tabela2.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 58,
+    "text": "Do kogo powinien przedsiębiorca złożyć reklamację zakupionego dla celów prowadzonej działalności towaru, jeżeli sprzedawca tego towaru stosuje tylko rękojmię?",
+    "answers": [
+      "Sprzedawcy.",
+      "Eksportera.",
+      "Importera.",
+      "Producenta."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 59,
+    "text": "Niedobór towarów stwierdzony w magazynie przedsiębiorstwa handlowego, który mieści się w granicach ustalonego limitu, należy zaewidencjonować na kontach księgowych:",
+    "answers": [
+      "Dt Pozostałe przychody operacyjne; Ct Rozliczenie niedoborów i szkód.",
+      "Dt Rozliczenie nadwyżek; Ct Rozliczenie niedoborów i szkód.",
+      "Dt Przychody finansowe; Ct Rozliczenie niedoborów i szkód.",
+      "Dt Wartość sprzedanych towarów wg cen zakupu; Ct Rozliczenie niedoborów i szkód."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 60,
+    "text": "Które konto księgowe może wykazać dwa salda końcowe?",
+    "answers": [
+      "Kredyty bankowe.",
+      "Kasa.",
+      "Rachunek bieżący.",
+      "Rozrachunki z dostawcami."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 61,
+    "text": "Na którym koncie księgowym błędnie zapisano saldo początkowe?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/au25_konta.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 62,
+    "text": "W której części biznesplanu należy zamieścić informacje dotyczące strategii sprzedaży?",
+    "answers": [
+      "Planie technicznym.",
+      "Planie inwestycyjnym.",
+      "Planie finansowym.",
+      "Planie marketingowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 63,
+    "text": "Na podstawie przytoczonego fragmentu ustawy wskaż slogan, który spełnia przesłanki czynu nieuczciwej konkurencji.",
+    "answers": [
+      ",,Najlepsze ceny dla najlepszych klientów”.",
+      "„Zabawka roku – dzięki niej zwiedzisz cały Wszechświat!”.",
+      "„Sklep, który spełnia Twoje oczekiwania”.",
+      "„Nasz sklep – Twoja decyzja! Zapraszamy!”."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han02/au25_ustawa.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 64,
+    "text": "Podczas odbioru ilościowego towarów nie jest wymagane sprawdzanie",
+    "answers": [
+      "ilości przyjętego towaru.",
+      "wyglądu towaru i jego wytrzymałości.",
+      "stanu opakowań transportowych i zbiorczych.",
+      "zgodności ilości dostarczonego towaru z ilością zamówioną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 65,
+    "text": "Sprzedawca wystawiając fakturę sprzedaży nie uwzględnił 2% rabatu dla odbiorcy. W związku z zaistniałą pomyłką powinien sporządzić",
+    "answers": [
+      "fakturę korygującą.",
+      "notę korygującą.",
+      "polecenie księgowania.",
+      "notę księgową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 66,
+    "text": "Zasada ciągłości bilansowej polega na tym, że",
+    "answers": [
+      "bilans sporządza się na dzień zamknięcia ksiąg rachunkowych.",
+      "przy wycenie składników aktywów i pasywów bilansu w danym roku należy uwzględnić konta korygujące.",
+      "suma aktywów zawsze jest równa sumie pasywów.",
+      "bilans sporządzony na koniec roku jest równocześnie bilansem otwarcia dla nowego roku obrotowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 67,
+    "text": "Zasady stosowania limitu rozliczeń gotówkowych w transakcjach między kontrahentami są określone przepisami ustawy",
+    "answers": [
+      "o finansach publicznych.",
+      "Prawo bankowe.",
+      "Prawo przedsiębiorców.",
+      "o podatku dochodowym od osób prawnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 68,
+    "text": "Na podstawie wyników badań ankietowych przedstawionych na wykresie wskaż, który kraj charakteryzuje się najwyższym odsetkiem osób deklarujących znajomość cen wszystkich lub większości produktów.",
+    "answers": [
+      "Kraj D",
+      "Kraj B",
+      "Kraj A",
+      "Kraj C"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han02/au25_wykres.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 69,
+    "text": "Za pośrednictwem którego medium należy rozpowszechniać reklamę, jeżeli ma ona informować szczegółowo o funkcjach produktu i łatwo poddawać się modyfikacjom?",
+    "answers": [
+      "Radio.",
+      "Internet.",
+      "Prasa.",
+      "Outdoor."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 70,
+    "text": "W związku z odejściem na emeryturę magazyniera materialnie odpowiedzialnego za powierzone składniki majątkowe przeprowadzono spis z natury towarów znajdujących się w hurtowni. Który rodzaj inwentaryzacji należy wpisać w przedstawionym arkuszu spisowym?",
+    "answers": [
+      "Okresowa.",
+      "Nadzwyczajna.",
+      "Zdawczo-odbiorcza.",
+      "Ciągła."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/au25_dokument.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 71,
+    "text": "Przedstawiony na rysunku znak informuje, że opakowanie, na którym go umieszczono",
+    "answers": [
+      "jest biodegradowalne.",
+      "nadaje się do recyklingu.",
+      "poddane było kontroli jakościowej.",
+      "jest niebezpieczne dla środowiska."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han02/au25_znak.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 72,
+    "text": "Na podstawie przedstawionego wyciągu bankowego ustal saldo końcowe na rachunku bieżącym przedsiębiorstwa.",
+    "answers": [
+      "78 308,00 zł",
+      "8 392,00 zł",
+      "61 608,00 zł",
+      "78 392,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/au25_wyciag.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 73,
+    "text": "Fragment analizy finansowej przedsiębiorstwa handlowego Interpretację i ocenę którego wskaźnika przedstawia fragment analizy finansowej przedsiębiorstwa handlowego?",
+    "answers": [
+      "Wskaźnika rentowności aktywów.",
+      "Wskaźnika zadłużenia.",
+      "Wskaźnika operacyjności.",
+      "Wskaźnika płynności finansowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/au25_ramka.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 74,
+    "text": "Pracownik zatrudniony w systemie akordowym wytworzył w ciągu miesiąca 170 szt. wyrobów, z czego 20 sztuk nie spełniało normy jakościowej. Norma wyrobu wynosi 1,5 godz./szt., stawka godzinowa 18,00 zł/godz. Ustal wynagrodzenie brutto pracownika.",
+    "answers": [
+      "4 050,00 zł",
+      "2 700,00 zł",
+      "4 590,00 zł",
+      "3 060,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 75,
+    "text": "Którą z podanych informacji należy zamieścić w planie marketingowym przedsiębiorstwa handlowego?",
+    "answers": [
+      "Zestawienie środków materiałowych, technicznych i organizacyjnych.",
+      "Sposoby oddziaływania na preferencje konsumentów.",
+      "Ocenę siły i kierunku wpływu zmian priorytetów polityki monetarnej kraju.",
+      "Ocenę efektywności działań inwestycyjnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 76,
+    "text": "Na podstawie danych zawartych w tabeli ustal, w którym kwartale gospodarowanie zapasami było najkorzystniejsze.",
+    "answers": [
+      "Trzecim.",
+      "Drugim.",
+      "Pierwszym.",
+      "Czwartym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/au25_tabela4.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 77,
+    "text": "Negocjacjom handlowym nie podlega",
+    "answers": [
+      "wielkość zamówienia.",
+      "warunki dostawy towaru.",
+      "stawka podatku od towarów i usług.",
+      "rodzaj waluty, w której nastąpi zapłata."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 78,
+    "text": "Wskaż środek transportu właściwy do przewożenia mleka przeznaczonego do dalszego przetwarzania.",
+    "answers": [
+      "Cysterna.",
+      "Furgon.",
+      "Van.",
+      "Laweta."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 79,
+    "text": "Ustal termin zapłaty podatku dochodowego od osób prawnych za maj 2020 r.",
+    "answers": [
+      "10 czerwca.",
+      "20 czerwca.",
+      "22 czerwca.",
+      "25 czerwca."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/au25_kalendarz.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 80,
+    "text": "Do przychodów z podstawowej działalności gospodarczej hurtowni spożywczej zalicza się przychody ze sprzedaży",
+    "answers": [
+      "materiałów.",
+      "papierów wartościowych.",
+      "środków trwałych.",
+      "towarów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 81,
+    "text": "Na podstawie kalkulacji przedstawionej w tabeli cena detaliczna towaru netto wynosi",
+    "answers": [
+      "580,00 zł",
+      "600,00 zł",
+      "725,00 zł",
+      "870,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela88.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 82,
+    "text": "W sklepie przeprowadzono inwentaryzację, której wyniki zaprezentowano w tabeli. W wyniku inwentaryzacji stwierdzono powstanie",
+    "answers": [
+      "nadwyżki widelców i niedoboru łyżek stołowych.",
+      "niedoboru tac i nadwyżki łyżek stołowych.",
+      "nadwyżki tac i niedoboru talerzy głębokich.",
+      "niedoboru widelców i nadwyżki talerzy głębokich."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela89.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 83,
+    "text": "Zgodnie z zasadą podwójnego zapisu operację gospodarczą należy zaksięgować",
+    "answers": [
+      "maksymalnie na dwóch kontach księgowych, po przeciwnych stronach tak, aby wartość po obu stronach Wn i Ma były różne.",
+      "tylko na jednym koncie księgowym, po przeciwnych stronach, w tej samej kwocie.",
+      "na co najmniej dwóch kontach księgowych, po przeciwnych stronach tak, aby wartość po obu stronach Wn i Ma były równe.",
+      "na dwóch kontach księgowych, po tej samej stronie, w tej samej kwocie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 84,
+    "text": "Konto Przychody ze sprzedaży towarów zalicza się do kont",
+    "answers": [
+      "bilansowych.",
+      "pozabilansowych.",
+      "pasywnych.",
+      "wynikowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 85,
+    "text": "Do składowania towarów wymagających dużej powierzchni, a jednocześnie odpornych na działanie czynników atmosferycznych służą magazyny",
+    "answers": [
+      "otwarte.",
+      "uniwersalne.",
+      "zamknięte.",
+      "specjalne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 86,
+    "text": "Którym znakiem manipulacyjnym należy oznaczyć opakowanie towaru wymagającego ochrony przed nagrzaniem?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_znaki3.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 87,
+    "text": "Sprzedaż jest umową cywilnoprawną zobowiązującą",
+    "answers": [
+      "jednostronnie i odpłatną.",
+      "jednostronnie i nieodpłatną.",
+      "dwustronnie i odpłatną.",
+      "dwustronnie i nieodpłatną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 88,
+    "text": "Która z wymienionych umów zawiera zgodnie z Kodeksem Cywilnym zobowiązanie dostawcy do wytworzenia rzeczy oznaczonych co do gatunku oraz do ich dostarczenia częściami albo periodycznie?",
+    "answers": [
+      "Dostawy.",
+      "Faktoringu.",
+      "Sprzedaży.",
+      "Leasingu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 89,
+    "text": "W którym języku i walucie powinny być prowadzone księgi rachunkowe w Polsce?",
+    "answers": [
+      "W dowolnym języku i walucie.",
+      "W języku i walucie polskiej.",
+      "W języku polskim i dowolnej walucie.",
+      "W dowolnym języku i polskiej walucie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 90,
+    "text": "Który z wymienionych przekazów reklamowych należy zastosować w celu przypomnienia klientom o istnieniu towaru na rynku?",
+    "answers": [
+      "„Droga do sukcesu z rozpuszczalną kawą ARABELLA.”",
+      "„Pobudzi Cię do działania rozpuszczalna kawa ARABELLA.”",
+      "„Rozpuszczalna kawa ARABELLA jest z Tobą od lat.”",
+      "„Od jutra w  sprzedaży rozpuszczalna kawa ARABELLA.”"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 91,
+    "text": "Który z wymienionych dokumentów należy wypełnić w przypadku stwierdzenia różnic ilościowych w dostawie?",
+    "answers": [
+      "Protokół zdawczo-odbiorczy.",
+      "Wydanie zewnętrzne.",
+      "Protokół rozbieżności w dostawie.",
+      "Notę korygującą."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 92,
+    "text": "Jeżeli w oświadczeniu gwarancyjnym nie zastrzeżono innego terminu gwarancji, to przyjmuje się, że wynosi on, licząc od dnia wydania rzeczy kupującemu,",
+    "answers": [
+      "6 miesięcy.",
+      "1 rok.",
+      "3 miesiące.",
+      "2 lata."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 93,
+    "text": "Wywiad z pracownikami własnej hurtowni jest przykładem źródła informacji",
+    "answers": [
+      "zewnętrznego wtórnego.",
+      "wewnętrznego pierwotnego.",
+      "wewnętrznego wtórnego.",
+      "zewnętrznego pierwotnego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 94,
+    "text": "Ustal cenę netto sprzedaży towaru opodatkowanego stawką 23%, jeżeli: – cena zakupu netto wynosi 20,00 zł, – przedsiębiorstwo stosuje 20% marżę liczoną od ceny sprzedaży netto.",
+    "answers": [
+      "17,86 zł",
+      "24,00 zł",
+      "29,52 zł",
+      "25,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 95,
+    "text": "Która z przedstawionych informacji jest efektem badań jakościowych?",
+    "answers": [
+      "Sprzedaż w poprzednim miesiącu w stosunku do bieżącego była wyższa o 11%.",
+      "Obroty hipermarketu w piątki są większe o 45% niż w czwartki.",
+      "Połowa nabywców kupuje zestawy kosmetyków na prezent.",
+      "Sprzedający pozytywnie ocenili skuteczność reklamy telewizyjnej produktu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 96,
+    "text": "Który kontrahent przygotował najkorzystniejszą ofertę, przy zakupie towarów o wartości 500,00 zł?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela87.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 97,
+    "text": "Na podstawie analizy zbiorowości klientów sklepu ze względu na wzrost ustalono, że dominanta wynosi 155 cm, a mediana 145 cm. Przedsiębiorca planując sprzedaż, powinien zamówić najwięcej odzieży przeznaczonej dla osób o wzroście",
+    "answers": [
+      "135 cm",
+      "165 cm",
+      "145 cm",
+      "155 cm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 98,
+    "text": "Do typowych urządzeń do składowania towarów należą:",
+    "answers": [
+      "regały, palety i podkłady.",
+      "wózki, palety i układnice.",
+      "regały, suwnice i podkłady.",
+      "wózki, suwnice i układnice."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 99,
+    "text": "Który z wymienionych rodzajów badania rynku należy zastosować, jeżeli sprzedawca zamierza poznać opinię klientów na temat nowego smaku napoju?",
+    "answers": [
+      "Panel konsumentów.",
+      "Eksperyment laboratoryjny.",
+      "Wywiad bezpośredni.",
+      "Obserwację kontrolowaną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 100,
+    "text": "Oblicz cenę brutto sprzedaży towaru opodatkowanego stawką podatku VAT 23%, jeżeli cena zakupu netto wynosi 70,00 zł, a przedsiębiorstwo handlowe stosuje 30% marżę liczoną od ceny zakupu netto.",
+    "answers": [
+      "86,10 zł",
+      "91,00 zł",
+      "123,00 zł",
+      "111,93 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 101,
+    "text": "Kanał dystrybucji, w którym producent prowadzi działalność dystrybucyjną bez udziału pośredników, to kanał",
+    "answers": [
+      "szeroki.",
+      "pośredni.",
+      "bezpośredni.",
+      "długi."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 102,
+    "text": "Brakującym elementem przedstawionego schematu ustalania ceny sprzedaży netto jest",
+    "answers": [
+      "zysk netto.",
+      "akcyza.",
+      "kwota podatku dochodowego.",
+      "kwota podatku VAT."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_schemat6.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 103,
+    "text": "Analiza nowego rynku wskazała na dominującą liczbę klientów innowatorów. Sprzedawca telefonów komórkowych powinien",
+    "answers": [
+      "unikać zmiany modeli telefonów w ofercie handlowej.",
+      "skoncentrować się na sprzedaży tanich modeli klasycznych.",
+      "zaprzestać działania na tym rynku.",
+      "często wprowadzać nowe modele telefonów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 104,
+    "text": "Działanie mechanizmu rynkowego polega na dostosowaniu się wielkości popytu i podaży",
+    "answers": [
+      "zgodnie z oczekiwaniami sprzedających.",
+      "poprzez wprowadzenie odpowiednich regulacji prawnych.",
+      "zgodnie z oczekiwaniami konsumentów.",
+      "poprzez odpowiednie ustalanie ceny rynkowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 105,
+    "text": "Wskaźnik rotacji zapasów w dniach wynosi 10, co oznacza, że przedsiębiorstwo handlowe odnawia średnio zapasy",
+    "answers": [
+      "10 razy w roku.",
+      "co 10 dni.",
+      "co 10 tygodni.",
+      "co 10 miesięcy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 106,
+    "text": "Na podstawie zamieszczonego fragmentu faktury za zakupione towary oblicz łączną kwotę podatku VAT naliczonego.",
+    "answers": [
+      "64,00 zł",
+      "230,00 zł",
+      "10,00 zł",
+      "74,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_faktura10.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 107,
+    "text": "Które z działań marketingowych wykorzystuje bodźce ekonomiczne do pobudzenia sprzedaży produktu lub usługi?",
+    "answers": [
+      "Public relations.",
+      "Sprzedaż osobista.",
+      "Publicity.",
+      "Promocja sprzedaży."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 108,
+    "text": "Na podstawie informacji zawartych w tabeli można stwierdzić, że w celu przeprowadzenia badania preferencji klienta zastosowano segmentację rynku wyłącznie ze względu na kryteria",
+    "answers": [
+      "ekonomiczne.",
+      "socjologiczne.",
+      "demograficzne.",
+      "behawioralne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela86.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 109,
+    "text": "Największa część magazynu obejmująca miejsce przechowywania zapasów, drogi komunikacyjne umożliwiające dostęp do nich i ich przewożenie to strefa",
+    "answers": [
+      "wydań.",
+      "przyjęć.",
+      "kompletacji.",
+      "składowania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 110,
+    "text": "Przez ile lat, licząc od końca roku kalendarzowego, w którym upłynął termin płatności podatku, przedsiębiorca ma obowiązek przechowywania deklaracji podatkowych?",
+    "answers": [
+      "3 lata.",
+      "2 lata.",
+      "5 lat.",
+      "4 lata."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 111,
+    "text": "Wniosek o zastosowanie opodatkowania w formie karty podatkowej może złożyć",
+    "answers": [
+      "wspólnik spółki akcyjnej.",
+      "osoba fizyczna nieprowadząca działalności gospodarczej.",
+      "wspólnik spółki z o.o.",
+      "osoba fizyczna prowadząca działalność usługową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 112,
+    "text": "Które z wymienionych form sprzedaży należy zastosować, prowadząc sprzedaż ekskluzywnej biżuterii?",
+    "answers": [
+      "Telefoniczną i samoobsługową.",
+      "Preselekcyjną i osobistą.",
+      "Osobistą i telefoniczną.",
+      "Samoobsługową i osobistą."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 113,
+    "text": "Wprowadzając nowy produkt na rynek, przedsiębiorca powinien w pierwszej kolejności skoncentrować swoje działania promocyjne na",
+    "answers": [
+      "budowaniu pozytywnego wizerunku firmy oraz świadomości klienta.",
+      "przypomnieniu zalet produktu i marki.",
+      "wzbudzeniu potrzeby posiadania produktu oraz reklamie.",
+      "kształtowaniu świadomości społeczeństwa oraz budowaniu marki firmy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 114,
+    "text": "Źródłem danych pierwotnych wewnętrznych dla hurtowni, wykorzystywanych w badaniu zmian popytu na towary, są",
+    "answers": [
+      "zamówienia kontrahentów.",
+      "artykuły w czasopismach gospodarczych.",
+      "raporty instytucji badania rynku.",
+      "ogłoszenia prasowe konkurentów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 115,
+    "text": "Na koniec okresu rozliczeniowego konto Rozrachunki z tytułu podatku VAT wykazało saldo Ct, co oznacza",
+    "answers": [
+      "należność od urzędu skarbowego z tytułu podatku VAT.",
+      "nadwyżkę podatku VAT od zakupów nad podatkiem VAT od sprzedaży.",
+      "zobowiązanie wobec urzędu skarbowego z tytułu podatku VAT.",
+      "nadwyżkę podatku VAT naliczonego nad należnym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 116,
+    "text": "Której z wymienionych informacji nie należy podawać w ofercie handlowej hurtowni?",
+    "answers": [
+      "Kar grożących za niedotrzymanie terminu płatności.",
+      "Cen towarów.",
+      "Opisu cech towarów.",
+      "Warunków realizacji zamówienia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 117,
+    "text": "Którą kulturę negocjacji cechuje nastawienie na dobry kontakt z ludźmi, dbałość o własną godność oraz unikanie konfliktów i konfrontacji podczas dyskusji?",
+    "answers": [
+      "Propartnerską.",
+      "Polichromiczną.",
+      "Monochromiczną.",
+      "Protransakcyjną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 118,
+    "text": "Który z wymienionych towarów należy sprzedawać z wykorzystaniem rozwiniętej obsługi klienta?",
+    "answers": [
+      "Gazetę codzienną.",
+      "Okulary recepturowe.",
+      "Dżem wiśniowy.",
+      "Klapki basenowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 119,
+    "text": "Kontrahenci podpisali umowę handlową, w której sprzedający zobowiązał się dostarczyć towar na własny koszt do magazynu odbiorcy. W umowie zapisano dostawę na warunkach",
+    "answers": [
+      "franco magazyn odbiorcy.",
+      "franco miejsce załadowania.",
+      "loco miejsce przeznaczenia.",
+      "loco magazyn dostawcy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 120,
+    "text": "Które z wymienionych towarów podlegają opodatkowaniu podatkiem akcyzowym?",
+    "answers": [
+      "Lodówki i soki naturalne.",
+      "Energia elektryczna i lodówki.",
+      "Paliwa silnikowe i soki naturalne.",
+      "Węgiel i paliwa silnikowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 121,
+    "text": "W hurtowni obuwia wartość sprzedanych półbutów męskich, w cenie sprzedaży netto, należy zaksięgować po stronie Ma na koncie",
+    "answers": [
+      "Przychody ze sprzedaży towarów.",
+      "Wartość sprzedanych towarów w cenach zakupu.",
+      "Koszt sprzedanych wyrobów gotowych.",
+      "Przychody ze sprzedaży wyrobów gotowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 122,
+    "text": "Do sprzedaży których z wymienionych towarów zasadne jest zastosowanie sprzedaży subskrypcyjnej?",
+    "answers": [
+      "Części zamienne do samochodów.",
+      "Książki wydawane w kilku tomach.",
+      "Dodatki uzupełniające odzież.",
+      "Substytucyjne artykuły spożywcze."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 123,
+    "text": "Zorganizowanie przez sieć przedsiębiorstw handlowych konferencji prasowej pod tytułem: Zapobieganie nadwadze i otyłości z udziałem ekspertów w zakresie zdrowego odżywiania jest formą",
+    "answers": [
+      "reklamy.",
+      "sprzedaży osobistej",
+      "public relations.",
+      "promocji sprzedaży."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 124,
+    "text": "Według których cen ustalana jest wartość bilansowa towarów zakupionych przez hurtownię?",
+    "answers": [
+      "Cen ewidencyjnych nie wyższych od cen sprzedaży brutto.",
+      "Cen ewidencyjnych nie wyższych od cen sprzedaży netto.",
+      "Rzeczywistych cen nabycia, nie wyższych od cen sprzedaży brutto.",
+      "Rzeczywistych cen nabycia, nie wyższych od cen sprzedaży netto."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 125,
+    "text": "Środki pieniężne w kasie jednostki gospodarczej należy inwentaryzować metodą",
+    "answers": [
+      "spisu z natury.",
+      "porównania zapisów na kontach księgowych z dowodami księgowymi.",
+      "uzgadniania sald.",
+      "weryfikacji dokumentów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 126,
+    "text": "Oblicz cenę sprzedaży brutto towaru, którego cena zakupu netto wynosi 1 500,00 zł. Towar jest objęty 23% stawką podatku VAT. Marża wynosi 30% i jest liczona od ceny zakupu netto.",
+    "answers": [
+      "2 398,50 zł",
+      "2 635,72 zł",
+      "3 136,50 zł",
+      "1 586,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 127,
+    "text": "Na podstawie zapisów przedstawionych na kontach księgowych obecna wartość materiałów w rzeczywistej cenie zakupu wynosi",
+    "answers": [
+      "10 200,00 zł",
+      "11 400,00 zł",
+      "40 200,00 zł",
+      "40 800,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_zapisy6.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 128,
+    "text": "Na podstawie przedstawionej ewidencji faktury zakupu ustal wartość netto towarów zakupionych przez hurtownię.",
+    "answers": [
+      "7 380,00 zł",
+      "6 000,00 zł",
+      "8 760,00 zł",
+      "1 380,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_ewidencja3.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 129,
+    "text": "Który z wymienionych elementów oferty handlowej nie podlega negocjacjom?",
+    "answers": [
+      "Warunki dostawy.",
+      "Wysokość stawki podatkowej.",
+      "Wysokość rabatu.",
+      "Warunki płatności."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 130,
+    "text": "Wewnętrznym źródłem informacji o rynku dla przedsiębiorstwa handlowego jest",
+    "answers": [
+      "informacja GUS na temat dynamiki sprzedaży.",
+      "Baza Internetowa REGON.",
+      "Raport Działu Sprzedaży na temat wielkości i struktury sprzedaży.",
+      "notatka z przebiegu rozmowy z klientem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 131,
+    "text": "Na podstawie zapisów w kartotece magazynowej ustal, jaką ilość towaru powinna zamówić hurtownia, żeby zrealizować zamówienie od odbiorcy detalicznego na 200 szt. towaru, zachowując zapas minimalny 60 szt.",
+    "answers": [
+      "120 szt.",
+      "140 szt.",
+      "60 szt.",
+      "200 szt."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_kartoteka6.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 132,
+    "text": "W celu poprawienia błędnie zapisanej kwoty na dokumencie Polecenie księgowania, który został wystawiony techniką ręczną przed zamknięciem miesiąca należy zastosować",
+    "answers": [
+      "storno czerwone.",
+      "storno czarne.",
+      "wystawienie dowodu korygującego.",
+      "skreślenie, wpisanie poprawnej kwoty, daty i złożenie podpisu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 133,
+    "text": "W magazynie hurtowni spożywczej w bezpośrednim sąsiedztwie pieczywa mogą być składowane",
+    "answers": [
+      "warzywa świeże.",
+      "ryby wędzone.",
+      "mięso mielone.",
+      "wyroby cukiernicze."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 134,
+    "text": "Na podstawie zapisów w przedstawionym rejestrze sprzedaży VAT oblicz kwotę podatku VAT, należną od sprzedaży zarejestrowanej.",
+    "answers": [
+      "160,00 zł",
+      "280,00 zł",
+      "524,40 zł",
+      "182,40 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela85.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 135,
+    "text": "Jeżeli miesięczne przychody ze sprzedaży towarów wynoszą 240 000,00 zł, a przedsiębiorstwo odnawia zapas towarów co 5 dni, to oznacza, że",
+    "answers": [
+      "zapas początkowy wynosi 40 000,00 zł.",
+      "zapas końcowy wynosi 40 000,00 zł.",
+      "przeciętny stan zapasów wynosi 40 000,00 zł.",
+      "minimalny zapas wynosi 40 000,00 zł."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 136,
+    "text": "Na podstawie analizy zmian miesięcznych wielkości sprzedaży przedstawionych na wykresie wskaż towar, którego zapas hurtownia powinna zwiększyć dla zapewnienia ciągłości sprzedaży w czerwcu.",
+    "answers": [
+      "Towar Z",
+      "Towar X",
+      "Towar W",
+      "Towar Y"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_wykres13.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 137,
+    "text": "Który dowód magazynowy należy wystawić, aby udokumentować przeniesienie towarów z magazynu I do magazynu II w tej samej hurtowni?",
+    "answers": [
+      "Mm Przesunięcie międzymagazynowe.",
+      "Zw Zwrot wewnętrzny.",
+      "Wz Wydanie na zewnątrz.",
+      "Rw Rozchód wewnętrzny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 138,
+    "text": "Na podstawie zamieszczonych w tabeli danych ustal wielkość zapotrzebowania na towar w czerwcu.",
+    "answers": [
+      "620 szt.",
+      "720 szt.",
+      "640 szt.",
+      "820 szt."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela83.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 139,
+    "text": "Korzystając z zamieszczonego zestawienia oblicz, ile wyniesie wartość wydanych z magazynu 200 sztuk balsamów do ciała na podstawie Wz 1/2019, jeżeli hurtownia do wyceny rozchodu towarów stosuje metodę FIFO (pierwsze weszło, pierwsze wyszło).",
+    "answers": [
+      "4 010,00 zł",
+      "4 120,00 zł",
+      "2 800,00 zł",
+      "4 000,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_zestawienie2.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 140,
+    "text": "Na podstawie informacji zawartych w tabeli ustal, do której grupy docelowej przedsiębiorstwo handlowe powinno skierować swoją ofertę, przyjmując za kryterium doboru liczebność grupy odbiorców.",
+    "answers": [
+      "Emeryci.",
+      "Bezrobotni.",
+      "Pracujący.",
+      "Uczniowie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela80.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 141,
+    "text": "Na podstawie danych przedstawiających wyniki inwentaryzacji przeprowadzonej w hurtowni lodów ustal wartość różnic inwentaryzacyjnych.",
+    "answers": [
+      "Niedobór lodów Pingwin 22,50 zł; niedobór lodów Mewa 22,00 zł; nadwyżka lodów Śnieżek 48,00 zł.",
+      "Niedobór lodów Pingwin 22,50 zł; nadwyżka lodów Mewa 22,00 zł; niedobór lodów Śnieżek 48,00 zł.",
+      "Nadwyżka lodów Pingwin 22,50 zł; niedobór lodów Mewa 22,00 zł; niedobór lodów Śnieżek 48,00 zł.",
+      "Nadwyżka lodów Pingwin 22,50 zł; nadwyżka lodów Mewa 22,00 zł; niedobór lodów Śnieżek 48,00 zł."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela84.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 142,
+    "text": "Pracownik sklepu ma obowiązek przyjąć od nabywcy zgłoszenie reklamacyjne z tytułu rękojmi złożone w okresie",
+    "answers": [
+      "2 lat od dnia zauważenia wady.",
+      "40 miesięcy od dnia zauważenia wady.",
+      "36 miesięcy od dnia zauważenia wady.",
+      "1 roku od dnia zauważenia wady."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 143,
+    "text": "Złożenie zamówienia przez przedsiębiorstwo jest bezpośrednio poprzedzone otrzymaniem przez nie",
+    "answers": [
+      "potwierdzenia zamówienia.",
+      "zapytania ofertowego.",
+      "oferty handlowej.",
+      "specyfikacji wysyłkowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 144,
+    "text": "Dla którego pisma handlowego charakterystyczny jest przedstawiony zwrot? Prosimy o przesłanie aktualnych cenników.",
+    "answers": [
+      "Zapytania ofertowego.",
+      "Umowy handlowej.",
+      "Zamówienia towarów.",
+      "Oferty handlowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 145,
+    "text": "Na podstawie danych zamieszczonych w tabeli, korzystając z formuły bilansowej, ustal przewidywaną na czerwiec wielkość zapotrzebowania drogerii na szampony.",
+    "answers": [
+      "630 szt.",
+      "540 szt.",
+      "750 szt.",
+      "340 szt."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela135.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 146,
+    "text": "Zgodnie z zamieszczoną ilustracją, obroty debetowe na koncie Rachunek bieżący wynoszą",
+    "answers": [
+      "8 900,00",
+      "24 000,00",
+      "36 000,00",
+      "60 000,00"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_konto5.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 147,
+    "text": "Który dokument należy sporządzić, jeżeli klient zapłacił wcześniej zobowiązania wynikające z faktury, a w terminie późniejszym otrzymał dodatkowy rabat na zakupione towary?",
+    "answers": [
+      "Fakturę zakupu.",
+      "Fakturę korygującą.",
+      "Duplikat faktury.",
+      "Notę korygującą."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 148,
+    "text": "Pracownik otrzymuje płacę zasadniczą w wysokości 4 000,00 zł brutto oraz wynagrodzenie prowizyjne brutto wynoszące 10% od obrotu ze sprzedaży. Całkowite miesięczne wynagrodzenie brutto pracownika, przy obrocie opiewającym na 25 000,00 zł, wyniesie",
+    "answers": [
+      "2 500,00 zł",
+      "4 000,00 zł",
+      "6 500,00 zł",
+      "4 750,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 149,
+    "text": "Na podstawie przedstawionego schematu wskaż, który układ rozmieszczenia towarów w strefie składowania stosuje magazyn.",
+    "answers": [
+      "Kątowy.",
+      "Pionowy.",
+      "Przelotowy.",
+      "Workowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_schemat9.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 150,
+    "text": "Opisana sytuacja wskazuje, że postępowanie jednostki było niezgodne z zasadą Spółka w 2021 r. zmieniła w porównaniu z poprzednim rokiem metodę naliczania i ewidencjonowania amortyzacji środków trwałych. W sprawozdaniu finansowym spółki za rok 2021 nie zamieszczono informacji o przyczynie tych zmian i nie określono ich wpływu na wynik finansowy.",
+    "answers": [
+      "kontynuacji.",
+      "memoriału.",
+      "istotności.",
+      "ciągłości."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 151,
+    "text": "Oblicz cenę netto za 1 kilogram czekoladowych pralinek, sprzedawanych w opakowaniach po 20 dag w cenie 7,38 zł brutto za opakowanie, jeżeli stawka podatku VAT wynosi 23%.",
+    "answers": [
+      "36,90 zł",
+      "30,00 zł",
+      "300,00 zł",
+      "369,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 152,
+    "text": "W którym kwartale, zgodnie z informacjami przedstawionymi w tabeli, jednostka nie miała kłopotów z bieżącą regulacją swoich zobowiązań?",
+    "answers": [
+      "W kwartale I.",
+      "W kwartale III.",
+      "W kwartale IV.",
+      "W kwartale II."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela139.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 153,
+    "text": "Oblicz cenę sprzedaży hurtowej netto jednego fotela, jeżeli koszt wytworzenia partii 100 sztuk wynosi 50 000,00 zł, jednostkowy zysk to 20% kosztu wytworzenia, a marża hurtowa stanowi 25% ceny zakupu.",
+    "answers": [
+      "725,00 zł",
+      "545,00 zł",
+      "520,00 zł",
+      "750,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 154,
+    "text": "Który z wymienionych towarów można przechowywać w pobliżu przypraw?",
+    "answers": [
+      "Dżem owocowy.",
+      "Chleb świeży.",
+      "Mąkę pszenną.",
+      "Ser żółty na wagę."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 155,
+    "text": "Najważniejsze informacje, cele, założenia i zadania, które pozwolą zrozumieć istotę planu marketingowego, znajdują się",
+    "answers": [
+      "w planach operacyjnych.",
+      "w analizie bieżącej sytuacji rynkowej.",
+      "w streszczeniu planu.",
+      "w analizie możliwości i problemów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 156,
+    "text": "Nadmiar wilgoci występujący w magazynie mebli może spowodować",
+    "answers": [
+      "skurczenie się tkaniny tapicerki.",
+      "rozwarstwianie się elementów sklejanych.",
+      "spłowienie tkaniny tapicerki.",
+      "pęknięcie elementów drewnianych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 157,
+    "text": "Niedobór towarów, który powstał na skutek niedopełnienia obowiązków przez osobę materialnie odpowiedzialną za powierzone jej mienie, to niedobór",
+    "answers": [
+      "naturalny.",
+      "zawiniony.",
+      "nadzwyczajny.",
+      "niezawiniony."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 158,
+    "text": "Magazynier hurtowni spożywczej, który zajmuje się przemieszczaniem towarów składowanych na paletach drewnianych, powinien w swojej pracy posługiwać się",
+    "answers": [
+      "wózkiem widłowym.",
+      "wózkiem czterokołowym.",
+      "podnośnikiem koszykowym.",
+      "przenośnikiem taśmowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 159,
+    "text": "Oblicz wskaźnik rotacji zapasów w dniach, jeżeli w ciągu 180 dni sklep obuwniczy osiągnął obrót w wysokości 300 000,00 zł, a zapas przeciętny wynosił 20 000,00 zł.",
+    "answers": [
+      "9 dni.",
+      "60 dni.",
+      "12 dni.",
+      "6 dni."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 160,
+    "text": "Na podstawie informacji zawartych w tabeli ustal, jaki procent ogółu klientów hurtowni stanowią osoby powyżej 50 roku życia.",
+    "answers": [
+      "45%",
+      "20%",
+      "25%",
+      "36%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela134.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 161,
+    "text": "Na podstawie danych zamieszczonych w tabeli ustal, które towary należy zamówić, aby zachować ciągłość sprzedaży w czerwcu 2023 r., przy założeniu utrzymania zapasu końcowego na niezmienionym poziomie.",
+    "answers": [
+      "Czółenka damskie i klapki basenowe.",
+      "Sandały dziewczęce i klapki basenowe.",
+      "Sandały dziewczęce i trampki.",
+      "Sandały damskie i trampki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela132.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 162,
+    "text": "Który z wymienionych kosztów zaliczany jest do kosztów działalności handlowej?",
+    "answers": [
+      "Amortyzacja środków trwałych.",
+      "Odsetki od kredytów bankowych.",
+      "Kara za nieterminowy odbiór towarów od sprzedawcy.",
+      "Koszty związane z usuwaniem skutków zdarzeń losowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 163,
+    "text": "W celu utrwalenia zachowań konsumenckich oraz kształtowania lojalności wobec produktów i marek, przedsiębiorstwo handlowe powinno zastosować instrumenty reklamowe, które przede wszystkim pełnią funkcję",
+    "answers": [
+      "przypominającą.",
+      "edukacyjną.",
+      "nakłaniającą.",
+      "informacyjną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 164,
+    "text": "Kierownik hurtowni planuje w pierwszej kolejności wydawać z magazynu i rozliczać towary kupione najwcześniej. Którą metodę rozchodu zapasów powinien zastosować?",
+    "answers": [
+      "LIFO",
+      "HIFO",
+      "FIFO",
+      "LOFO"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 165,
+    "text": "Dzienna sprzedaż dwóch lokalnych gazet w czerwcu wynosi odpowiednio 400 szt. i 300 szt. Ustal poziom dziennej sprzedaży prasy w lipcu, jeżeli wiadomo, że w miesiącach wakacyjnych sprzedaż wzrasta o 30% względem miesiąca poprzedniego.",
+    "answers": [
+      "430 szt. i 330 szt.",
+      "520 szt. i 390 szt.",
+      "280 szt. i 210 szt.",
+      "370 szt. i 270 szt."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 166,
+    "text": "Które kryteria segmentacji rynku należy zastosować, aby wyróżnić jednorodne grupy nabywców ze względu na wiek i dochody?",
+    "answers": [
+      "Psychologiczne i osobowościowe.",
+      "Geograficzne i demograficzne.",
+      "Demograficzne i ekonomiczne.",
+      "Ekonomiczne i behawioralne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 167,
+    "text": "Zgodnie z przedstawionym zestawieniem wyników inwentaryzacji przeprowadzonej w hurtowni kosmetycznej, wartość nadwyżki towarów wynosi",
+    "answers": [
+      "300,00 zł",
+      "120,00 zł",
+      "340,00 zł",
+      "180,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela138.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 168,
+    "text": "Którą formę sprzedaży stosuje sprzedawca prowadzący sprzedaż biżuterii w miejscach zamieszkania potencjalnych klientów?",
+    "answers": [
+      "Samoobsługową.",
+      "Tradycyjną.",
+      "Preselekcyjną.",
+      "Akwizycyjną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 169,
+    "text": "Przedstawiona interpretacja dotyczy wskaźnika Fragment analizy finansowej przedsiębiorstwa X Wskaźnik w roku 2021 wyniósł 9,41%, co oznacza, że jednostka wygenerowała nadwyżkę przychodów nad kosztami i część środków zainwestowanych przez przedsiębiorstwo zwróciło się.",
+    "answers": [
+      "rentowności kapitału własnego.",
+      "płynności finansowej.",
+      "operacyjności.",
+      "zadłużenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 170,
+    "text": "Którą fazę cyklu życia produktu opisuje przedstawiona charakterystyka oraz zastosowane działania promocyjne?",
+    "answers": [
+      "Schyłku.",
+      "Dojrzałości.",
+      "Wzrostu.",
+      "Wprowadzania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela133.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 171,
+    "text": "Na początku 2022 roku w przedsiębiorstwie opracowano analizę SWOT, obejmującą wewnętrzne i zewnętrzne czynniki istotne dla rozwoju przedsiębiorstwa. Przedstawiony czynnik powinien być w niej wymieniony Według prognoz NBP, średnioroczna inflacja w roku 2023 wyniesie 14,5%.",
+    "answers": [
+      "w szansach płynących z otoczenia.",
+      "w słabych stronach przedsiębiorstwa.",
+      "w mocnych stronach przedsiębiorstwa.",
+      "w zagrożeniach płynących z otoczenia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 172,
+    "text": "Dla przedsiębiorstwa handlowego źródłem danych pierwotnych o potrzebach nabywców są",
+    "answers": [
+      "złożone zamówienia do dostawców przedsiębiorstwa.",
+      "dane statystyczne publikowane na specjalnych serwisach informacyjnych.",
+      "informacje pochodzące z sondaży przeprowadzonych wśród klientów przedsiębiorstwa.",
+      "raporty roczne firm konkurencyjnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 173,
+    "text": "Zgodnie z Ustawą z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji, do czynów nieuczciwej konkurencji w zakresie reklamy nie zalicza się reklamy",
+    "answers": [
+      "odwołującej się do uczuć klientów przez wywoływanie lęku lub wykorzystywanie przesądów.",
+      "stanowiącej istotną ingerencję w sferę prywatności.",
+      "pokazującej rzeczywiste cechy i funkcje reklamowanego produktu.",
+      "zawierającej wypowiedź, która zachęcając do nabywania towarów, sprawia wrażenie neutralnej informacji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 174,
+    "text": "Który z przedstawionych opisów negocjacji dotyczy strategii przegrany – przegrany?",
+    "answers": [
+      "Opis 1.",
+      "Opis 2.",
+      "Opis 3.",
+      "Opis 4."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela136.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 175,
+    "text": "Oblicz cenę sprzedaży brutto zamrażarki, jeżeli cena netto jej zakupu wynosi 1 760,00 zł, sklep stosuje narzut w wysokości 20% ceny zakupu, a stawka podatku VAT wynosi 23%.",
+    "answers": [
+      "2 706,00 zł",
+      "2 200,00 zł",
+      "2 112,00 zł",
+      "2 597,76 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 176,
+    "text": "Które narzędzie promocji wykorzystuje bodźce ekonomiczne do pobudzania sprzedaży produktu?",
+    "answers": [
+      "Publicity.",
+      "Public relations.",
+      "Promocja sprzedaży.",
+      "Sponsoring."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 177,
+    "text": "Pracownik sklepu, który podczas odbioru towaru sprawdzał wagę cukierków w opakowaniach jednostkowych, dokonał odbioru",
+    "answers": [
+      "ilościowego wstępnego.",
+      "jakościowego szczegółowego.",
+      "jakościowego wstępnego.",
+      "ilościowego szczegółowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 178,
+    "text": "Zgodnie z przytoczonym przepisem ustawy, okresy przechowywania dowodów księgowych ustala się od początku",
+    "answers": [
+      "miesiąca oraz dnia, w którym został wystawiony dowód księgowy.",
+      "miesiąca, w którym został wystawiony dowód księgowy.",
+      "roku, w którym został wystawiony dowód księgowy.",
+      "roku następującego po roku obrotowym, którego dowody dotyczą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_ustawa16.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 179,
+    "text": "Operację gospodarczą o treści Pz – przyjęto zakupione towary do magazynu w cenie zakupu należy zaksięgować na stronach kont",
+    "answers": [
+      "Ct Rozliczenie zakupu towarów, Dt Towary.",
+      "Dt Rozliczenie zakupu towarów, Ct Towary.",
+      "Dt Rozliczenie zakupu towarów, Ct Rozrachunki z dostawcami.",
+      "Ct Rozliczenie zakupu towarów, Dt Rozrachunki z dostawcami."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 180,
+    "text": "Który z przytoczonych przekazów reklamowych jest apelem o charakterze racjonalnym?",
+    "answers": [
+      "Wyobraź sobie swój nowy, czerwony samochód.",
+      "Robot kuchenny X posiada również funkcję sokowirówki.",
+      "Pokochasz nowy, lepszy smak naszej kawy.",
+      "Pani Kasia poleca do mycia zębów pastę Y."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 181,
+    "text": "Na podstawie informacji zamieszczonych w tabeli wskaż dostawcę, który przedstawił najkorzystniejszą ofertę przy zamówieniu 200 szt. towaru.",
+    "answers": [
+      "Dostawca Y.",
+      "Dostawca Z.",
+      "Dostawca W.",
+      "Dostawca X."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela137.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 182,
+    "text": "Która hurtownia uzyskała największą rentowność sprzedaży netto, zgodnie z danymi przedstawionymi w tabeli?",
+    "answers": [
+      "Hurtownia 3.",
+      "Hurtownia 2.",
+      "Hurtownia 4.",
+      "Hurtownia 1."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela131.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 183,
+    "text": "Którą z wymienionych form reklamy powinien zastosować producent, wprowadzający na rynek krajowy markowe obuwie, aby dotrzeć do jak największej liczby potencjalnych klientów?",
+    "answers": [
+      "Bezpośrednie wręczanie ulotek na stołecznej ulicy.",
+      "Ogłoszenie reklamowe w regionalnej prasie.",
+      "Emisję filmu reklamowego w ogólnokrajowej telewizji.",
+      "Prezentację oferty na targach lokalnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 184,
+    "text": "Na podstawie przedstawionych wartości wskaźnika dynamiki planowanej sprzedaży ustal, ile sztuk rowerów powinna zamówić hurtownia w kwietniu, jeżeli w styczniu zapotrzebowanie na ten artykuł wynosiło 2 000 sztuk.",
+    "answers": [
+      "2 200 szt.",
+      "2 640 szt.",
+      "3 000 szt.",
+      "3 960 szt."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela125.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 185,
+    "text": "Jeżeli przedsiębiorstwo uzyskało 150 000,00 zł przychodów ze sprzedaży, a zysk netto wyniósł 4 050,00 zł, to wskaźnik rentowności sprzedaży netto wynosi",
+    "answers": [
+      "27%",
+      "0,027%",
+      "0,027%",
+      "2,7%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 186,
+    "text": "Analiza SWOT pozwala na ocenę",
+    "answers": [
+      "słabych i mocnych stron oraz szans i zagrożeń konkurencji.",
+      "słabych i mocnych stron oraz szans i zagrożeń przedsiębiorstwa.",
+      "wpływów i wydatków oraz przychodów i kosztów osiąganych przez konkurencję.",
+      "wpływów i wydatków oraz przychodów i kosztów osiąganych przez przedsiębiorstwo."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 187,
+    "text": "Która ze składek społecznych finansowana jest w całości przez pracodawcę?",
+    "answers": [
+      "Emerytalna.",
+      "Rentowa.",
+      "Chorobowa.",
+      "Wypadkowa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 188,
+    "text": "Wpływ należności od odbiorcy za sprzedane towary, udokumentowany dowodem księgowym WB, należy zaewidencjonować na kontach",
+    "answers": [
+      "Rachunek bieżący po stronie Wn, Rozrachunki z odbiorcami po stronie Ma.",
+      "Rozrachunki z odbiorcami po stronie Wn, Rachunek bieżący po stronie Ma.",
+      "Kasa po stronie Wn, Rozrachunki z odbiorcami po stronie Ma.",
+      "Rachunek bieżący po stronie Wn, Rozrachunki z dostawcami po stronie Ma."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 189,
+    "text": "Na której ilustracji przedstawiony jest wózek ręczny unoszący?",
+    "answers": [
+      "Na ilustracji 2.",
+      "Na ilustracji 3.",
+      "Na ilustracji 4.",
+      "Na ilustracji 1."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_wozki.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 190,
+    "text": "Zwiększenie wyniku finansowego hurtowni z 20 000,00 zł na 26 000,00 zł mogło być spowodowane",
+    "answers": [
+      "zmniejszeniem kosztów przy takich samych przychodach.",
+      "zmianą formuły obliczania wyniku finansowego.",
+      "zwiększeniem kosztów przy takich samych przychodach.",
+      "zmianą sposobu ewidencjonowania kosztów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 191,
+    "text": "Na podstawie informacji zawartych w tabeli ustal, ile wyniosły przychody ze sprzedaży w kwartale II 2022 r., jeżeli uległy one zwiększeniu o 20% w porównaniu z kwartałem I 2022 r.",
+    "answers": [
+      "36 000,00 zł",
+      "30 000,00 zł",
+      "150 000,00 zł",
+      "180 000,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela130.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 192,
+    "text": "Która z wymienionych czynności nie jest wykonywana podczas odbioru jakościowego towaru?",
+    "answers": [
+      "Ocena zgodności dostarczonego towaru z zamówieniem.",
+      "Sprawdzenie oznakowania towarów.",
+      "Ocena cech fizycznych towaru.",
+      "Sprawdzenie stanu opakowania towaru."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 193,
+    "text": "Wewnętrznym wtórnym źródłem informacji dla działu sprzedaży przedsiębiorstwa handlowego jest",
+    "answers": [
+      "zestawienie danych o wielkości produkcji przedsiębiorstw z branży, opracowane przez agencję badań rynku.",
+      "faktura sprzedaży.",
+      "raport z badań zapotrzebowania na towary, przeprowadzonych na zlecenie przedsiębiorstwa.",
+      "faktura zakupu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 194,
+    "text": "Operacja gospodarcza, dotycząca spłaty z rachunku bieżącego zobowiązania wobec pracowników przedsiębiorstwa, spowoduje zmiany w bilansie",
+    "answers": [
+      "zmniejszenie po stronie aktywów i pasywów.",
+      "wzrost po stronie aktywów i pasywów.",
+      "tylko w aktywach.",
+      "tylko w pasywach."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 195,
+    "text": "Na którym z przedstawionych kont błędnie zaznaczono saldo początkowe?",
+    "answers": [
+      "Na koncie 4.",
+      "Na koncie 2.",
+      "Na koncie 1.",
+      "Na koncie 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_konta7.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 196,
+    "text": "Na podstawie zamieszczonego fragmentu klasyfikacji wskaż symbol klasy, do której zaliczana jest pościel.",
+    "answers": [
+      "13.92",
+      "13.91",
+      "13.92.11",
+      "13.92.12"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_klasyfikacja4.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 197,
+    "text": "W punkcie sprzedaży detalicznej zatrudnionych jest 3 pracowników, którzy otrzymują wynagrodzenie w systemie prowizyjnym. Łączna stawka prowizyjna wynosi 0,2%. Prowizja wypłacana jest pracownikom w równych częściach. Ile wyniesie wynagrodzenie jednego pracownika, jeżeli miesięczna wartość sprzedaży w punkcie sprzedaży detalicznej to 4 200 000, 00 zł?",
+    "answers": [
+      "8 200, 00 zł",
+      "2 800, 00 zł",
+      "8 400, 00 zł",
+      "4 800, 00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 198,
+    "text": "Które kryteria segmentacji rynku należy zastosować do zróżnicowania nabywców ze względu na ich temperament i sposób komunikowania?",
+    "answers": [
+      "Psychologiczne i osobowościowe.",
+      "Geograficzne i demograficzne.",
+      "Demograficzne i ekonomiczne.",
+      "Ekonomiczne i behawioralne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 199,
+    "text": "Która z przedstawionych ofert jest najkorzystniejsza dla odbiorcy hurtowego?",
+    "answers": [
+      "Oferta 1.",
+      "Oferta 2.",
+      "Oferta 3.",
+      "Oferta 4."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela126.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 200,
+    "text": "Pracownik hurtowni otrzymuje wynagrodzenie zasadnicze w systemie czasowo-prowizyjnym w wysokości 4 000,00 zł brutto. Ile wynosi prowizja, jeżeli przy miesięcznej wartości sprzedaży wynoszącej 1 700 000,00 zł pracownik otrzymał wynagrodzenie brutto w wysokości 8 250,00 zł ?",
+    "answers": [
+      "25,0%",
+      "0,20%",
+      "20,0%",
+      "0,25%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 201,
+    "text": "Zasada rozmieszczania towarów ostatnie weszło, pierwsze wyszło oznacza, że towary w magazynie",
+    "answers": [
+      "z dostaw najwcześniejszych są umieszczane na dolnych półkach.",
+      "z dostaw najpóźniejszych są umieszczane na górnych półkach.",
+      "które pojawiły się najwcześniej, opuszczą go jako pierwsze.",
+      "które pojawiły się najpóźniej, opuszczą go najwcześniej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 202,
+    "text": "W sklepie o samoobsługowej formie sprzedaży limit niedoborów towarowych wynosi 0,12%. Która sytuacja wystąpiła w sklepie, jeżeli wartość sprzedaży w danym okresie wynosiła 180 000,00 zł, a stwierdzony niedobór był równy 250,00 zł?",
+    "answers": [
+      "Stwierdzony niedobór był większy od limitu niedoboru o 14%.",
+      "Stwierdzony niedobór był mniejszy od limitu niedoboru o 34,00 zł.",
+      "Stwierdzony niedobór był większy od limitu niedoboru o 34,00 zł.",
+      "Stwierdzony niedobór był mniejszy od limitu niedoboru o 14%."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 203,
+    "text": "Jednostka handlowa sprzedała biurko w cenie sprzedaży netto 1 000,00 zł, realizując marżę w wysokości 25% ceny sprzedaży netto. Zrealizowana marża wynosi",
+    "answers": [
+      "750,00 zł",
+      "1 250,00 zł",
+      "250,00 zł",
+      "1 500,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 204,
+    "text": "Na podstawie zapisów na przedstawionych kontach księgowych ustal wartość bilansową (netto) środków trwałych.",
+    "answers": [
+      "90 000,00 zł",
+      "82 000,00 zł",
+      "76 000,00 zł",
+      "68 000,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_zapisy10.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 205,
+    "text": "W przypadku, gdy dostawca jest zobowiązany do dostarczenia towarów do kontrahenta na własny koszt, realizacja dostawy odbywa się na warunkach",
+    "answers": [
+      "loco stacja załadowania.",
+      "franco magazyn odbiorcy.",
+      "loco magazyn dostawcy.",
+      "franco stacja załadowania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 206,
+    "text": "Na podstawie danych zamieszczonych w tabeli ustal zapas końcowy szamponów.",
+    "answers": [
+      "5 740 szt.",
+      "320 szt.",
+      "300 szt.",
+      "4 180 szt."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela127.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 207,
+    "text": "Który dokument błędnie zarejestrowano w przedstawionej kartotece magazynowej towaru?",
+    "answers": [
+      "WZ 02/22",
+      "PZ 02/22",
+      "PZ 01/22",
+      "WZ 01/22"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_kartoteka7.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 208,
+    "text": "Który dokument powinien sporządzić nabywca towaru, w celu uzyskania informacji o proponowanych przez dostawcę artykułach oraz ich cenach, warunkach płatności i dostawy?",
+    "answers": [
+      "Umowę przedwstępną.",
+      "Zapytanie ofertowe.",
+      "Pismo intencyjne.",
+      "Ofertę handlową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 209,
+    "text": "Podstawowym aktem prawnym normującym zasady prowadzenia ksiąg handlowych jest",
+    "answers": [
+      "Ustawa o rachunkowości.",
+      "Ustawa o kontroli skarbowej.",
+      "Ustawa o podatku dochodowym od osób prawnych.",
+      "Ustawa o podatku dochodowym od osób fizycznych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 210,
+    "text": "Na podstawie zamieszczonego wykresu określ, który rodzaj zachowań rynkowych dominował wśród respondentów.",
+    "answers": [
+      "Emocjonalne.",
+      "Racjonalne.",
+      "Nawykowe.",
+      "Nierutynowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_wykres19.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 211,
+    "text": "Na podstawie danych zamieszczonych w tabeli oblicz wartość wyniku finansowego netto przedsiębiorstwa.",
+    "answers": [
+      "6 400 tys. zł",
+      "5 184 tys. zł",
+      "6 550 tys. zł",
+      "7 616 tys. zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela129.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 212,
+    "text": "Obroty debetowe na przedstawionym koncie Rachunek bieżący wynoszą",
+    "answers": [
+      "24 000,00",
+      "37 257,50",
+      "46 200,00",
+      "8 942,50"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_konto4.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 213,
+    "text": "Właściciel sklepu kupił towar po cenie netto 12,00 zł. W sklepie nalicza się marżę detaliczną w wysokości 20%, obliczaną metodą w stu. Ile wynosi cena sprzedaży netto towaru?",
+    "answers": [
+      "18,45 zł",
+      "14,40 zł",
+      "18,54 zł",
+      "15,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 214,
+    "text": "Przedstawiony opis dotyczy reklamy Charakterystyka reklamy Reklama istotnie ingerująca w sferę prywatności, w szczególności przez nagabywanie klientów w miejscach publicznych, przesyłanie na koszt klienta niezamówionych towarów lub nadużywanie technicznych środków przekazu informacji.",
+    "answers": [
+      "społecznej.",
+      "porównawczej.",
+      "uciążliwej.",
+      "ukrytej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 215,
+    "text": "Na podstawie przedstawionego zestawienia ustal wartość kompensaty dezodorantów, według zasady mniejsza ilość, niższa cena.",
+    "answers": [
+      "300,00 zł",
+      "124,00 zł",
+      "220,00 zł",
+      "176,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela128.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 216,
+    "text": "Dzięki zestawieniu sumy przychodów i kosztów za dany okres sprawozdawczy w rachunku zysków i strat można ustalić",
+    "answers": [
+      "należności od odbiorców.",
+      "wynik finansowy.",
+      "zobowiązania firmy.",
+      "sprzedaż towarów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 217,
+    "text": "Która z wymienionych informacji pochodzi z planu marketingowego przedsiębiorstwa?",
+    "answers": [
+      "Wielkość planowanych przychodów, kosztów i zysków przedsiębiorstwa.",
+      "Informacja o sieci sprzedawców hurtowych i detalicznych, z którymi zamierza współpracować przedsiębiorstwo przy realizacji przedsięwzięcia.",
+      "Wielkość rzeczywistych przychodów, kosztów i nakładów inwestycyjnych.",
+      "Informacja o etapach realizacji zadań, które firma ma do wykonania w związku z prowadzoną działalnością."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 218,
+    "text": "W ofercie handlowej przedsiębiorstwa obowiązkowo należy zamieścić",
+    "answers": [
+      "warunki rękojmi za wady towaru.",
+      "podpis prezesa przedsiębiorstwa.",
+      "cenę oferowanych towarów.",
+      "informacje o pozycji rynkowej przedsiębiorstwa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 219,
+    "text": "Przedstawiony opis dotyczy magazynowej strefy",
+    "answers": [
+      "wydań.",
+      "składowania.",
+      "przyjęć.",
+      "kompletacji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_opis4.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 220,
+    "text": "Który dokument magazynowy należy sporządzić podczas dokonania przyjęcia towarów od dostawcy?",
+    "answers": [
+      "PW – przychód wewnętrzny.",
+      "PZ – przyjęcie zewnętrzne.",
+      "WZ – wydanie zewnętrzne.",
+      "RW – rozchód wewnętrzny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 221,
+    "text": "Niedobór naturalny powstaje w wyniku",
+    "answers": [
+      "zmiany właściwości fizykochemicznych towaru.",
+      "nieudokumentowania wydania towaru.",
+      "pomyłki podczas ważenia towaru.",
+      "nieudokumentowania przyjęcia towaru."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 222,
+    "text": "Konsument otrzymał w dniu 06.04.2022 r. obuwie, które zakupił 04.04.2022 r. w sklepie internetowym. Podczas zawierania transakcji kupujący nie został powiadomiony o przysługującym mu prawie odstąpienia od umowy. Zgodnie z przytoczonymi przepisami, prawo zwrotu tego towaru wygasa",
+    "answers": [
+      "20.04.2023 r.",
+      "18.04.2022 r.",
+      "20.04.2022 r.",
+      "18.04.2023 r."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_ustawa14.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 223,
+    "text": "Na podstawie informacji zamieszczonych w tabeli ustal, ile sztuk obuwia hurtownia powinna zamówić w czerwcu, jeżeli zapotrzebowanie na buty w maju wynosiło 500 sztuk, a poziom planowanego poziomu zapasu początkowego i końcowego nie ulegnie zmianie.",
+    "answers": [
+      "550 szt.",
+      "510 szt.",
+      "660 szt.",
+      "600 szt."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela115.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 224,
+    "text": "Raport z badania rynku przeprowadzonego przez agencję marketingową na zlecenie przedsiębiorstwa, jest dla zleceniodawcy źródłem informacji",
+    "answers": [
+      "wtórnym wewnętrznym.",
+      "pierwotnym wewnętrznym.",
+      "wtórnym zewnętrznym.",
+      "pierwotnym zewnętrznym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 225,
+    "text": "Na podstawie danych zawartych w tabeli ustal, o ile procent uległ zmianie łączny poziom zapasów w roku 2021 względem roku 2020.",
+    "answers": [
+      "29%",
+      "40%",
+      "50%",
+      "71%"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela123.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 226,
+    "text": "Które urządzenie transportowe przedstawiono na rysunku?",
+    "answers": [
+      "Wózek podnośnikowy.",
+      "Wózek kompletacyjny.",
+      "Pomost podnośnikowy.",
+      "Układnicę paletową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_urzadzenie4.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 227,
+    "text": "Jeżeli obrót debetowy konta aktywnego ma wartość 2 000,00 zł, a obrót kredytowy 800,00 zł, to saldo końcowe",
+    "answers": [
+      "debetowe wynosi 2 800,00 zł.",
+      "debetowe wynosi 1 200,00 zł.",
+      "kredytowe wynosi 2 000,00 zł.",
+      "kredytowe wynosi 800,00 zł."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 228,
+    "text": "Przedsiębiorstwo, które dąży do rozwoju, poprzez wykorzystanie w pełni możliwości istniejących rynków zbytu oraz istniejących produktów, stosuje strategię",
+    "answers": [
+      "rozwoju produktu.",
+      "dywersyfikacji działalności.",
+      "penetracji rynku.",
+      "rozwoju rynku."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 229,
+    "text": "Na podstawie informacji zawartych w tabeli ustal, o ile zmieniła się wartość przychodów w roku badanym względem roku podstawowego.",
+    "answers": [
+      "Spadła o 60 000,00 zł.",
+      "Wzrosła o 30 000,00 zł.",
+      "Spadła o 30 000,00 zł.",
+      "Wzrosła o 60 000,00 zł."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela122.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 230,
+    "text": "Na podstawie informacji dotyczącej kalkulacji ceny sprzedaży ustal procent realizowanej marży detalicznej, liczonej od ceny zakupu netto.",
+    "answers": [
+      "17%",
+      "16%",
+      "21%",
+      "20%"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela119.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 231,
+    "text": "Którego badania dotyczy przedstawiona charakterystyka? Badacz przebywa w środowisku, którego dotyczy badanie i stara się włączyć do badanej społeczności, by móc poznać ją od wewnątrz. Przykładami tego badania mogą być: sterowana przez badacza rozmowa z nieświadomym badania respondentem lub podejmowanie pracy w danym hotelu.",
+    "answers": [
+      "Eksperymentu naturalnego.",
+      "Badania panelowego.",
+      "Eksperymentu laboratoryjnego.",
+      "Obserwacji uczestniczącej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 232,
+    "text": "Na podstawie przedstawionych wyników badań rynku ustal, który rodzaj roweru cieszył się największym powodzeniem wśród osób do 50 roku życia.",
+    "answers": [
+      "Rower trekkingowy.",
+      "Rower szosowy.",
+      "Rower górski.",
+      "Rower miejski."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela114.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 233,
+    "text": "Właściciel sklepu nabył towar w cenie zakupu netto 22,00 zł, koszty handlowe wyniosły 20% ceny zakupu netto, a zysk stanowi 10% łącznych kosztów (ceny zakupu netto i kosztów handlowych). Oblicz cenę sprzedaży netto towaru.",
+    "answers": [
+      "29,04 zł",
+      "24,20 zł",
+      "26,40 zł",
+      "28,60 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 234,
+    "text": "Na podstawie danych zamieszczonych w tabeli oblicz wartość wyniku finansowego netto przedsiębiorstwa handlowego.",
+    "answers": [
+      "42 800,00 zł",
+      "36 450,00 zł",
+      "52 360,00 zł",
+      "45 000,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela120.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 235,
+    "text": "Oblicz cenę sprzedaży netto za kilogram towaru sprzedawanego w opakowaniu 250 g, w cenie sprzedaży netto 40,00 zł za opakowanie.",
+    "answers": [
+      "64,00 zł",
+      "100,00 zł",
+      "62,50 zł",
+      "160,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 236,
+    "text": "W jednostce handlowej stwierdzono niedobór niezawiniony towarów w cenie zakupu 2 450,00 zł. Niedobór mieszczący się w granicach norm w wynosi 1 300,00 zł. Rozliczenie niedoboru przekraczającego granicę normy należy zaksięgować w ciężar konta",
+    "answers": [
+      "Koszty finansowe 1 300,00 zł.",
+      "Koszt wytworzenia wyrobów gotowych 1 300,00 zł.",
+      "Pozostałe koszty operacyjne 1 150,00 zł.",
+      "Zużycie materiałów i energii 1 150,00 zł."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 237,
+    "text": "Zgodnie z przedstawionymi zapisami na koncie Kasa, stan gotówki w kasie na koniec okresu wynosi",
+    "answers": [
+      "1 000,00 zł",
+      "3 830,00 zł",
+      "3 210,40 zł",
+      "7 040,40 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_zapisy9.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 238,
+    "text": "W której z wymienionych części biznesplanu należy zamieścić informacje dotyczące sieci sprzedawców hurtowych i detalicznych, z którymi zamierza współpracować przedsiębiorstwo przy realizacji przedsięwzięcia?",
+    "answers": [
+      "W planie finansowym.",
+      "W planie marketingowym.",
+      "W planie organizacyjnym.",
+      "W planie technicznym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 239,
+    "text": "Na podstawie danych z rachunku zysków i strat oblicz zysk z działalności gospodarczej.",
+    "answers": [
+      "6 500,00 zł",
+      "12 500,00 zł",
+      "7 500,00 zł",
+      "10 000,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela121.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 240,
+    "text": "Zgodnie z zamieszczonym fragmentem ustawy, rokiem obrotowym jest",
+    "answers": [
+      "wyłącznie okres, w którym dokonywany jest obrót.",
+      "okres trwający 12 kolejnych pełnych miesięcy kalendarzowych.",
+      "wyłącznie rok kalendarzowy.",
+      "okres, za który sporządza się sprawozdanie finansowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_ustawa15.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 241,
+    "text": "Które sprawozdanie finansowe zawiera informacje dotyczące źródeł finansowania?",
+    "answers": [
+      "Bilans.",
+      "Rachunek przepływów pieniężnych.",
+      "Zestawienie zmian w kapitale własnym.",
+      "Rachunek zysków i strat."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 242,
+    "text": "Na podstawie danych przedstawionych w tabeli oblicz przeciętny stan zapasów czekolad w hurtowni w IV kwartale roku, metodą średniej arytmetycznej wszystkich stanów zapasów.",
+    "answers": [
+      "330 szt.",
+      "340 szt.",
+      "255 szt.",
+      "380 szt."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela118.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 243,
+    "text": "Który dokument jest podstawą ewidencji dostawy towarów w kartotece magazynowej?",
+    "answers": [
+      "Przyjęcie zewnętrzne.",
+      "Nota korygująca.",
+      "List przewozowy.",
+      "Umowa handlowa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 244,
+    "text": "Która klasyfikacja została opracowana dla celów podatkowych?",
+    "answers": [
+      "Klasyfikacja Budżetowa (KB).",
+      "Polska Klasyfikacja Działalności (PKD).",
+      "Klasyfikacja Środków Trwałych (KŚR).",
+      "Polska Klasyfikacja Wyrobów i Usług (PKWiU)."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 245,
+    "text": "Na podstawie informacji przedstawionych na wykresie można stwierdzić, że w porównaniu z rokiem poprzednim, zapotrzebowanie na rowery w roku 2022",
+    "answers": [
+      "wzrosło o 10 %.",
+      "zmalało o 20 %.",
+      "zmalało o 10 %.",
+      "wzrosło o 20 %."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_wykres18.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 246,
+    "text": "Czynności, których kolejność przedstawiono na schemacie, wykonywane są w magazynowej strefie",
+    "answers": [
+      "przyjęć.",
+      "kompletacji.",
+      "wydań.",
+      "składowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_schemat8.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 247,
+    "text": "Która ze składek społecznych finansowana jest w całości przez pracownika?",
+    "answers": [
+      "Emerytalna.",
+      "Rentowa.",
+      "Wypadkowa.",
+      "Chorobowa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 248,
+    "text": "Na podstawie przedstawionych poziomów wskaźnika bieżącej płynności finansowej określ, w którym kwartale jednostka nie miała kłopotów z bieżącą regulacją swoich zobowiązań.",
+    "answers": [
+      "W kwartale I.",
+      "W kwartale II.",
+      "W kwartale IV.",
+      "W kwartale III."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela124.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 249,
+    "text": "Otrzymanie należności od kontrahenta na rachunek bieżący jednostki spowoduje zmianę obrotów na kontach",
+    "answers": [
+      "Rachunek bieżący (zmniejszenie), Rozrachunki z odbiorcami (zwiększenie).",
+      "Rachunek bieżący (zwiększenie), Rozrachunki z odbiorcami (zmniejszenie).",
+      "Rachunek bieżący (zwiększenie), Rozrachunki z odbiorcami (zwiększenie).",
+      "Rachunek bieżący (zmniejszenie), Rozrachunki z odbiorcami (zmniejszenie)."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 250,
+    "text": "Pracownik wynagradzany w systemie prowizyjnym sprzedał w ciągu miesiąca towary o wartości 72 000,00 zł. Jego miesięczne wynagrodzenie przy stawce prowizji 3% wyniesie",
+    "answers": [
+      "2 400,00 zł",
+      "18 000,00 zł",
+      "2 160,00 zł",
+      "6 000,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 251,
+    "text": "Zwrot Prosimy o przesłanie aktualnych cenników towarów jest charakterystyczny dla",
+    "answers": [
+      "zamówienia.",
+      "umowy handlowej.",
+      "zapytania ofertowego.",
+      "oferty."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 252,
+    "text": "Wskaż prawidłową dekretację zapisów z wyciągu bankowego, dotyczących wpłaty gotówki z kasy przedsiębiorstwa na własny rachunek bankowy.",
+    "answers": [
+      "Dt Rozrachunki z odbiorcami i Ct Rachunek bieżący.",
+      "Dt Kasa i Ct Rachunek bieżący.",
+      "Dt Rachunek bieżący i Ct Rozrachunki z odbiorcami.",
+      "Dt Rachunek bieżący i Ct Kasa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 253,
+    "text": "Pobranie próbki towarów do badania należy do czynności odbioru",
+    "answers": [
+      "ilościowego wstępnego.",
+      "jakościowego szczegółowego.",
+      "ilościowego szczegółowego.",
+      "jakościowego wstępnego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 254,
+    "text": "Przechowywanie towarów w ilości pozwalającej na utrzymanie ciągłości sprzedaży detalicznej jest funkcją magazynu",
+    "answers": [
+      "sklepowego.",
+      "produkcyjnego.",
+      "konsygnacyjnego.",
+      "przeładunkowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 255,
+    "text": "Na podstawie informacji przedstawionych w tabeli ustal wartość rozchodu 250 szt. towaru A, jeżeli do wyceny rozchodu towarów stosuje się metodę FIFO.",
+    "answers": [
+      "2 750,00 zł",
+      "2 500,00 zł",
+      "2 700,00 zł",
+      "2 625,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela117.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 256,
+    "text": "Który zestaw narzędzi promocji skierowanych do klientów indywidualnych powinien zastosować sklep spożywczy, zamierzający zachęcić ich do zwiększonych zakupów?",
+    "answers": [
+      "Kupony rabatowe, próbki towarów, szkolenia agentów.",
+      "Próbki towarów, kupony rabatowe, konkursy.",
+      "Wsparcie finansowe, darmowe produkty, wycieczki.",
+      "Premie sprzedażowe, konkursy, wyjazdy szkoleniowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 257,
+    "text": "Który środek upowszechniania reklamy przedstawiono na zamieszczonym zdjęciu?",
+    "answers": [
+      "Plakat.",
+      "Ulotkę.",
+      "Szyld.",
+      "Wizytówkę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_zdjecie.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 258,
+    "text": "Która metoda przeprowadzania jakościowego odbioru towarów polega na sprawdzeniu ich cech charakterystycznych za pomocą zmysłów?",
+    "answers": [
+      "Mikrobiologiczna.",
+      "Chemiczna.",
+      "Organoleptyczna.",
+      "Instrumentalna."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 259,
+    "text": "Operację gospodarczą o treści: Wz – wydano z magazynu odbiorcy sprzedane towary w cenie zakupu należy zaewidencjonować na kontach",
+    "answers": [
+      "Towary po stronie Wn, Rozrachunki z odbiorcami po stronie Ma.",
+      "Wartość sprzedanych towarów w cenie zakupu po stronie Wn, Towary po stronie Ma.",
+      "Towary po stronie Wn, Wartość sprzedanych towarów w cenie zakupu po stronie Ma.",
+      "Rozrachunki z odbiorcami po stronie Wn, Towary po stronie Ma."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 260,
+    "text": "Którą technikę badań ankietowych należy zastosować, jeżeli podstawowym kryterium jej wyboru są niskie koszty przeprowadzenia badania?",
+    "answers": [
+      "Ankietę pocztową.",
+      "Ankietę internetową na stronach popularnych przeglądarek.",
+      "Ankietę prasową.",
+      "Ankietę rozdawaną przez pracownika agencji reklamowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 261,
+    "text": "Przedsiębiorstwo przeprowadziło analizę porównawczą otrzymanych zapytań ofertowych i zrealizowanych zamówień, co pozwoliło mu na oszacowanie zmian w popycie i potrzebach klientów. Wykorzystane w badaniu dane są przykładem informacji pochodzących ze źródeł",
+    "answers": [
+      "zewnętrznych pierwotnych.",
+      "wewnętrznych pierwotnych.",
+      "wewnętrznych wtórnych.",
+      "zewnętrznych wtórnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 262,
+    "text": "Wskaźnik rentowności kapitałów własnych w przedsiębiorstwie handlowym wynosi 20%. Oznacza to, że",
+    "answers": [
+      "1 zł kapitałów własnych przynosi 0,20 zł zysku netto.",
+      "1 zł kapitałów własnych przynosi 0,20 zł przychodu ze sprzedaży.",
+      "20 zł kapitałów własnych przynosi 1 zł zysku netto.",
+      "20 zł kapitałów własnych przynosi 1 zł przychodu ze sprzedaży."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 263,
+    "text": "Przedstawiona charakterystyka dotyczy planu Opis części biznes planu Przedstawia on sposób prowadzenia kampanii informacyjnej dla klientów, charakteryzuje tych, którzy mogą być szczególnie zainteresowani nabyciem nowego produktu. To tutaj przewiduje się reakcję rynku oraz planuje rozwój sprzedaży. Powinien zawierać: ceny oferowanych produktów i usług, ocenę zagrożenia konkurencją, plan sprzedaży, opisujący metody i koszty dostarczania produktu do rąk klienta oraz charakterystykę wybranych kanałów dystrybucji.",
+    "answers": [
+      "marketingowego.",
+      "technicznego.",
+      "finansowego.",
+      "organizacyjnego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 264,
+    "text": "W dniu 20 lutego 2021 r. klient zauważył, że przestała działać funkcja Wi-Fi w telewizorze, który zakupił i otrzymał w dniu 15 maja 2019 r. Kiedy upływa termin złożenia reklamacji z tytułu rękojmi?",
+    "answers": [
+      "15 maja 2021 r.",
+      "20 lutego 2023 r.",
+      "15 maja 2020 r.",
+      "20 lutego 2022 r."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 265,
+    "text": "Którą formę sprzedaży powinien wykorzystać sprzedawca ekskluzywnych towarów, jeżeli zamierza stosować podwyższony standard obsługi klientów oczekujących profesjonalnego doradztwa?",
+    "answers": [
+      "Komisową.",
+      "Samoobsługową.",
+      "Wysyłkową.",
+      "Tradycyjną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 266,
+    "text": "Który rodzaj reklamy powinno zastosować przedsiębiorstwo zamierzające przekonać obecnych klientów, że dokonali właściwego wyboru towaru?",
+    "answers": [
+      "Osłaniającą.",
+      "Konkurencyjną.",
+      "Informacyjną.",
+      "Wzmacniającą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 267,
+    "text": "Który rodzaj analizy powinno przeprowadzić przedsiębiorstwo, jeżeli zamierza poznać swoje słabe i mocne strony oraz szanse i zagrożenia płynące z otoczenia?",
+    "answers": [
+      "SWOT.",
+      "BCG.",
+      "Kluczowych czynników sukcesu.",
+      "Pięciu sił Portera."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 268,
+    "text": "Którego z wymienionych elementów brakuje w przedstawionej ofercie sprzedaży?",
+    "answers": [
+      "Danych identyfikujących oferenta.",
+      "Podpisu oferenta.",
+      "Daty sporządzenia oferty.",
+      "Numeru zapytania ofertowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_oferta5.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 269,
+    "text": "Sprzedawca specjalistycznego sprzętu wędkarskiego chce szczegółowo poinformować wędkarzy o nowym produkcie. Z którego nośnika reklamy powinien skorzystać?",
+    "answers": [
+      "Z prasy specjalistycznej.",
+      "Z radia o zasięgu regionalnym.",
+      "Z telewizji o zasięgu krajowym.",
+      "Z tablic reklamowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 270,
+    "text": "Którą metodę badania powinien wykorzystać pracownik sklepu, któremu zlecono przeprowadzenie kontroli stopnia dojrzałości owoców?",
+    "answers": [
+      "Doświadczalnego użytkowania.",
+      "Instrumentalną.",
+      "Sensoryczną.",
+      "Konsumenckiej oceny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 271,
+    "text": "W przedstawionej kartotece magazynowej błędnie dokonano zapisu z datą",
+    "answers": [
+      "04.06.2021",
+      "30.05.2021",
+      "07.06.2021",
+      "02.06.2021"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela102.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 272,
+    "text": "Który element składowy sprawozdania finansowego przedstawia zamieszczony fragment dokumentu?",
+    "answers": [
+      "Rachunek zysków i strat.",
+      "Rachunek przepływów pieniężnych.",
+      "Bilans różnic.",
+      "Bilans ruchu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela109.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 273,
+    "text": "Firma handlowa posiada magazyn, którego wartość początkowa wynosiła 180 000,00 zł. Na podstawie informacji z KŚT 2010 ustal, ile wynosi wartość bieżąca tego środka trwałego po dwuletnim okresie użytkowania, jeżeli odpis amortyzacyjny ustalono metodą liniową.",
+    "answers": [
+      "166 500,00 zł",
+      "184 500,00 zł",
+      "175 500,00 zł",
+      "171 000,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela103.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 274,
+    "text": "Na podstawie zamieszczonego fragmentu faktury korygującej ustal wartość kwoty, którą należy wpisać w pozycji Razem do zwrotu.",
+    "answers": [
+      "3 321,00 zł",
+      "2 700,00 zł",
+      "369,00 zł",
+      "300,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_faktura12.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 275,
+    "text": "Na podstawie informacji przedstawionych w tabeli ustal, do której grupy wiekowej powinno skierować przedsiębiorstwo swoją ofertę, jeżeli kryterium wyboru jest liczebność grupy wiekowej.",
+    "answers": [
+      "Trzydziestolatków.",
+      "Dwudziestolatków.",
+      "Pięćdziesięciolatków.",
+      "Czterdziestolatków."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela99.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 276,
+    "text": "W którym kwartale, zgodnie z przedstawionymi wartościami wskaźnika rotacji, przedsiębiorstwo osiągnęło najkrótszy przeciętny czas odzyskiwania należności?",
+    "answers": [
+      "W kwartale IV.",
+      "W kwartale II.",
+      "W kwartale I.",
+      "W kwartale III."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela108.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 277,
+    "text": "Na przedstawionym schemacie zagospodarowania przestrzeni magazynowej, znakiem zapytania zaznaczono",
+    "answers": [
+      "strefę składowania.",
+      "front przeładunkowy przyjęć.",
+      "strefę przyjęć.",
+      "front przeładunkowy wydań."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_schemat3.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 278,
+    "text": "Notę korygującą wystawia",
+    "answers": [
+      "sprzedawca towaru, który wystawił fakturę zawierającą błędny numer NIP.",
+      "sprzedawca towaru, który wystawił fakturę zawierającą błędną ilość zamówionego towaru.",
+      "nabywca towaru, który otrzymał fakturę zawierającą błędny numer NIP.",
+      "nabywca towaru, który otrzymał fakturę zawierającą błędną ilość zamówionego towaru."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 279,
+    "text": "Na podstawie fragmentu kartoteki wartościowo-ilościowej ustal wartość rozchodu towarów, zgodnie z metodą wyceny LIFO.",
+    "answers": [
+      "440,00 zł",
+      "900,00 zł",
+      "990,00 zł",
+      "400,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela101.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 280,
+    "text": "Wystąpienie ubytków naturalnych towarów najczęściej spowodowane jest przez",
+    "answers": [
+      "zastosowanie niewłaściwych warunków przechowywania towarów.",
+      "brak uczciwości personelu.",
+      "brak uczciwości klienta.",
+      "fizyko-chemiczne właściwości towarów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 281,
+    "text": "Która z wymienionych cech umowy sprzedaży nie dotyczy sprzedaży konsumenckiej?",
+    "answers": [
+      "Kupujący nabywa towar w celu niezwiązanym z działalnością zawodową.",
+      "Przedmiotem sprzedaży jest ruchomość.",
+      "Kupującym jest hurtownia.",
+      "Sprzedawca dokonuje sprzedaży w zakresie prowadzenia działalności gospodarczej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 282,
+    "text": "Jednostka handlowa sprzedała fotel w cenie sprzedaży netto 1 600,00 zł, realizując marżę w wysokości 20% ceny sprzedaży netto. Zrealizowana marża wyniosła",
+    "answers": [
+      "2 000,00 zł",
+      "400,00 zł",
+      "1 920,00 zł",
+      "320,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 283,
+    "text": "Zgodnie z Polską Klasyfikacją Działalności, działalność gospodarczą polegającą na hurtowej sprzedaży obuwia damskiego należy zaliczyć do podklasy oznaczonej kodem",
+    "answers": [
+      "47.72.Z",
+      "46.16.Z",
+      "47.82.Z",
+      "46.42.Z"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela100.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 284,
+    "text": "Której operacji dotyczy przedstawiona na kontach księgowych ewidencja?",
+    "answers": [
+      "Przyjęto do magazynu zakupione towary.",
+      "Sprzedano towary na podstawie faktury.",
+      "Wydano z magazynu sprzedane towary po rzeczywistej cenie zakupu.",
+      "Zakupiono towary zgodnie z fakturą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_ewidencja4.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 285,
+    "text": "Zgodnie z prognozą przedstawioną na zamieszczonym wykresie, przedsiębiorstwo handlowe powinno ograniczyć w roku 2022 zakup",
+    "answers": [
+      "półbutów.",
+      "trzewików.",
+      "botków.",
+      "czółenek."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_wykres15.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 286,
+    "text": "Hurtownia sprzedała towary za gotówkę. Wydanie sprzedanych towarów na podstawie dowodu Wz należy zaewidencjonować na kontach",
+    "answers": [
+      "Kasa po stronie Wn, Towary po stronie Ma.",
+      "Wartość sprzedanych towarów w cenie zakupu po stronie Wn, Towary po stronie Ma.",
+      "Rozliczenie zakupu po stronie Wn, Towary po stronie Ma.",
+      "Towary po stronie Wn, Wartość sprzedanych towarów w cenie zakupu po stronie Ma."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 287,
+    "text": "Zgodnie z zasadą FIFO, jako pierwsza zostanie wydana z magazynu dostawa towarów",
+    "answers": [
+      "otrzymanych najpóźniej.",
+      "otrzymanych najwcześniej.",
+      "najdroższych.",
+      "najtańszych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 288,
+    "text": "Który z wymienionych elementów przedstawionej oferty hurtowni nie podlega negocjacjom handlowym?",
+    "answers": [
+      "Termin zapłaty faktury.",
+      "Warunki transportu towaru.",
+      "Wysokość udzielanego rabatu.",
+      "Liczba sztuk w opakowaniu zbiorczym towaru."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_oferta6.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 289,
+    "text": "Ustal wysokość ceny sprzedaży netto spódnicy, jeżeli jednostkowy koszt jej wytworzenia wynosi 40,00 zł, a narzut zysku stanowi 20% kosztu wytworzenia.",
+    "answers": [
+      "48,00 zł",
+      "32,00 zł",
+      "60,00 zł",
+      "50,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 290,
+    "text": "Na podstawie przedstawionych wyników finansowych ustal wartość zysku netto, jeżeli przedsiębiorstwo opodatkowane jest podatkiem dochodowym od osób prawnych, którego stawka wynosi 19%.",
+    "answers": [
+      "405 000,00 zł",
+      "95 000,00 zł",
+      "595 000,00 zł",
+      "500 000,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela105.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 291,
+    "text": "Na podstawie danych zawartych w tabeli ustal wartość różnic inwentaryzacyjnych.",
+    "answers": [
+      "Niedobór cytryn 1 350,00 zł, niedobór mandarynek 250,00 zł, nadwyżka pomarańczy 40,00 zł.",
+      "Nadwyżka cytryn 1 350,00 zł, niedobór mandarynek 250,00 zł, niedobór pomarańczy 40,00 zł.",
+      "Nadwyżka cytryn 1 350,00 zł, nadwyżka mandarynek 250,00 zł, niedobór pomarańczy 40,00 zł.",
+      "Niedobór cytryn 1 350,00 zł, nadwyżka mandarynek 250,00 zł, nadwyżka pomarańczy 40,00 zł."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela104.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 292,
+    "text": "Który element systemu zabezpieczeń towarów przed kradzieżą jest przedstawiony na ilustracji?",
+    "answers": [
+      "Safer.",
+      "Szyba alarmowa.",
+      "Dezaktywator.",
+      "Lustro weneckie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_element.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 293,
+    "text": "Hurtownia posiada magazyn, którego powierzchnia wynosi 2 500 m2, z czego powierzchnię składową stanowi 2 300 m2, a normą składowania jest 300 kg/m2. Maksymalna ilość towarów, która może być przechowywana w tym magazynie, wynosi",
+    "answers": [
+      "1 440 ton.",
+      "690 ton.",
+      "750 ton.",
+      "60 ton."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 294,
+    "text": "Operacja gospodarcza o treści spłacono zobowiązania wobec dostawców z rachunku bieżącego jednostki, spowoduje zmianę obrotów na kontach:",
+    "answers": [
+      "Rachunek bieżący - zmniejszenie, Rozrachunki z dostawcami - zmniejszenie.",
+      "Rachunek bieżący - zwiększenie, Rozrachunki z dostawcami - zmniejszenie.",
+      "Rachunek bieżący - zwiększenie, Rozrachunki z dostawcami - zwiększenie.",
+      "Rachunek bieżący - zmniejszenie, Rozrachunki z dostawcami - zwiększenie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 295,
+    "text": "Na podstawie struktury zatrudnienia przedstawionej na wykresie ustal, jaki procent zatrudnionych stanowią pracownicy inni niż sprzedawcy.",
+    "answers": [
+      "34%",
+      "20%",
+      "27%",
+      "14%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_wykres16.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 296,
+    "text": "Magazynier, zatrudniony na umowę o pracę, w kwietniu 2021 r. przepracował 50 godzin w porze nocnej. Stawka godzinowa, wynikająca z minimalnego wynagrodzenia w roku 2021 wynosi 16,67 zł. Zgodnie z zamieszczonym przepisem Kodeksu Pracy, dodatek za pracę w godzinach nocnych tego pracownika wyniesie",
+    "answers": [
+      "3,33 zł",
+      "1 000,20 zł",
+      "166,50 zł",
+      "833,50 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela106.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 297,
+    "text": "Na którym z przedstawionych kont błędnie zapisano saldo początkowe?",
+    "answers": [
+      "Na koncie 2.",
+      "Na koncie 3.",
+      "Na koncie 4.",
+      "Na koncie 1."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_konta6.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 298,
+    "text": "Która z reklam, zgodnie z przytoczonymi przepisami, nie jest przejawem nieuczciwej konkurencji?",
+    "answers": [
+      "Ukryta.",
+      "Uciążliwa.",
+      "Nierzeczowa.",
+      "Porównawcza."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_ustawa13.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 299,
+    "text": "Zgodnie z przedstawionym fragmentem Ewidencji sprzedaży, wartość łączna podatku należnego VAT wyniesie",
+    "answers": [
+      "5 600,00 zł",
+      "480,00 zł",
+      "1 160,00 zł",
+      "920,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela107.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 300,
+    "text": "Która z zasad rachunkowości zakłada, że działalność jednostek ma być ujęta w wyznaczonych jednostkach czasu, np. miesiąc, rok obrotowy?",
+    "answers": [
+      "Ciągłości.",
+      "Periodyzacji.",
+      "Istotności.",
+      "Memoriału."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 301,
+    "text": "Który z wymienionych czynników analizy SWOT może stanowić zagrożenie dla funkcjonowania hurtowni artykułów RTV?",
+    "answers": [
+      "Brak wystarczającej wewnętrznej infrastruktury.",
+      "Różnorodność oferowanych produktów.",
+      "Rozwój branży na rynku.",
+      "Polityka cenowa konkurencji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 302,
+    "text": "Na podstawie przedstawionych w tabeli stanów wybranych kont księgowych przedsiębiorstwa handlowego na dzień 31.12.2020 r. ustal wynik finansowy brutto metodą statystyczną.",
+    "answers": [
+      "2 140,00 zł",
+      "31 220,00 zł",
+      "23 940,00 zł",
+      "1 660,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela97.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 303,
+    "text": "Wskaż, w której części planu marketingowego należy umieścić fragment tekstu zawarty w ramce.",
+    "answers": [
+      "Streszczenie.",
+      "Analiza sprzedaży.",
+      "Analiza konkurencji.",
+      "Strategia marketingowa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_ramka10.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 304,
+    "text": "Na podstawie danych przedstawionych w tabeli ustal wartość różnic inwentaryzacyjnych.",
+    "answers": [
+      "Nadwyżka jogurtu truskawkowego 44,00 zł; niedobór jogurtu malinowego 23,00 zł; niedobór jogurtu naturalnego 57,00 zł.",
+      "Niedobór jogurtu truskawkowego 44,00 zł; nadwyżka jogurtu malinowego 23,00 zł; nadwyżka jogurtu naturalnego 57,00 zł.",
+      "Nadwyżka jogurtu truskawkowego 44,00 zł; nadwyżka jogurtu malinowego 23,00 zł; niedobór jogurtu naturalnego 57,00 zł.",
+      "Niedobór jogurtu truskawkowego 44,00 zł; niedobór jogurtu malinowego 23,00 zł; nadwyżka jogurtu naturalnego 57,00 zł."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela96.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 305,
+    "text": "Nieobowiązkowym elementem umowy sprzedaży towaru jest informacja o",
+    "answers": [
+      "zaliczkach.",
+      "cenie.",
+      "stronach umowy.",
+      "przedmiocie sprzedaży."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 306,
+    "text": "Oblicz miesięczne wynagrodzenie brutto pracownika hurtowni wynagradzanego w systemie czasowo-prowizyjnym, jeżeli jego płaca zasadnicza brutto wynosi 2 600,00 zł, co stanowi 24% udział w płacach ogółem. Miesięczny obrót hurtowni wynosi 500 000,00 zł, a stawka prowizyjna 0,15%. Prowizja dzielona jest wśród pracowników zgodnie z udziałem płacy zasadniczej danego pracownika w płacach ogółem.",
+    "answers": [
+      "2 992,00 zł",
+      "2 780,00 zł",
+      "3 224,00 zł",
+      "3 350,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 307,
+    "text": "Do której kategorii archiwalnej należą faktury sprzedaży w przedsiębiorstwie handlowym?",
+    "answers": [
+      "B5",
+      "B10",
+      "B2",
+      "B3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 308,
+    "text": "Wzrost wskaźnika rentowności sprzedaży w przedsiębiorstwie handlowym z 11% do 16% oznacza, że w przedsiębiorstwie na jedną złotówkę",
+    "answers": [
+      "zysku przypada 0,05 zł przychodów ze sprzedaży.",
+      "zysku przypada o 0,05 zł więcej przychodów ze sprzedaży.",
+      "przychodu ze sprzedaży przypada 0,05 zł zysku.",
+      "przychodu ze sprzedaży przypada o 0,05 zł więcej zysku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 309,
+    "text": "Który dokument należy sporządzić w przypadku stwierdzenia podczas odbioru, niezgodności ilości dostarczonych towarów z zamówieniem?",
+    "answers": [
+      "Wz – wydanie na zewnątrz.",
+      "Protokół różnic.",
+      "Specyfikację dostawy.",
+      "Pz – przyjęcie z zewnątrz."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 310,
+    "text": "Którą z wymienionych strategii ustalania cen powinno zastosować przedsiębiorstwo handlowe, jeżeli jego celem jest dostosowanie cen oferowanych towarów do cen towarów oferowanych przez konkurentów?",
+    "answers": [
+      "Kosztową.",
+      "Promocyjną.",
+      "Penetracyjną.",
+      "Adaptacyjną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 311,
+    "text": "Hurtownia sprzedała w listopadzie 100 szt. talerzy w cenie netto 7,50 zł/szt., za które otrzymała zapłatę do końca miesiąca oraz 50 szt. talerzy w cenie netto 8,00 zł/szt. z terminem płatności w grudniu. Ustal wielkość przychodu netto hurtowni ze sprzedaży talerzy w listopadzie.",
+    "answers": [
+      "1 150,00 zł",
+      "400,00 zł",
+      "750,00 zł",
+      "575,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 312,
+    "text": "Którą z wymienionych strategii negocjacji powinien zastosować przedsiębiorca w warunkach istnienia presji czasowej, wysokiego prawdopodobieństwa kontaktów w najbliższym czasie oraz względnej równowagi sił negocjacyjnych?",
+    "answers": [
+      "Unikania.",
+      "Łagodzenia.",
+      "Dominacji.",
+      "Kompromisu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 313,
+    "text": "Które z wymienionych artykułów należy przechowywać w pomieszczeniach o wilgotności względnej 90%?",
+    "answers": [
+      "Słodycze.",
+      "Mąka.",
+      "Kasze.",
+      "Mrożonki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 314,
+    "text": "Ustal wielkość sprzedaży w przedsiębiorstwie handlowym w styczniu, jeżeli w grudniu wskaźnik obrotu zapasami wyniósł 4, zapas przeciętny 60 000,00 zł i wielkości te nie ulegną zmianie w kolejnym miesiącu.",
+    "answers": [
+      "15 000,00 zł",
+      "120 000,00 zł",
+      "60 000,00 zł",
+      "240 000,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 315,
+    "text": "Oblicz cenę sprzedaży brutto towaru, jeżeli jego cena zakupu netto wynosi 51,00 zł, przedsiębiorstwo handlowe nalicza marżę w wysokości 15% liczoną od ceny sprzedaży netto, a towar objęty jest 23% stawką podatku VAT.",
+    "answers": [
+      "62,73 zł",
+      "72,14 zł",
+      "58,65 zł",
+      "73,80 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 316,
+    "text": "Które z wymienionych narzędzi promocji sprzedaży powinna wykorzystać hurtownia artykułów biurowych kierując swoją ofertę do sklepów papierniczych?",
+    "answers": [
+      "Loterie.",
+      "Kupony konkursowe.",
+      "Pokazy i demonstracje.",
+      "Bezpłatne egzemplarze towarów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 317,
+    "text": "Wskaż dekret operacji gospodarczej udokumentowanej przedstawionym dowodem księgowym wystawionym w związku z wypłatą pracownikowi zaliczki na podróż służbową.",
+    "answers": [
+      "Dt Pozostałe rozrachunki z pracownikami 124,00 zł, Ct Kasa 124,00 zł.",
+      "Dt Pozostałe rozrachunki z pracownikami 124,00 zł, Ct Rachunek bieżący 124,00 zł.",
+      "Dt Rachunek bieżący 124,00 zł, Ct Pozostałe rozrachunki z pracownikami 124,00 zł.",
+      "Dt Kasa 124,00 zł, Ct Pozostałe rozrachunki z pracownikami 124,00 zł."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_dowod3.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 318,
+    "text": "Na podstawie zamieszczonych w tabeli warunków sprzedaży, wskaż dostawcę, który przedstawił najkorzystniejszą ofertę przy zamówieniu 100 szt. towaru.",
+    "answers": [
+      "Dostawca Z",
+      "Dostawca Y",
+      "Dostawca X",
+      "Dostawca W"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela93.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 319,
+    "text": "Który dokument magazynowy dokumentuje nieodpłatne przekazanie towarów na cele charytatywne w formie darowizny?",
+    "answers": [
+      "Mm – Przesunięcie międzymagazynowe.",
+      "Wz – Wydanie na zewnątrz.",
+      "Zw – Zwrot wewnętrzny.",
+      "Rw – Rozchód wewnętrzny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 320,
+    "text": "Zamieszczony schemat przedstawia kanał dystrybucji, z którego może skorzystać producent",
+    "answers": [
+      "paliwa przemysłowego.",
+      "świeżego pieczywa.",
+      "papieru ksero.",
+      "ubrań szytych na miarę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_schemat7.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 321,
+    "text": "Wartość zabawek przekazanych dla Domu Dziecka tytułem darowizny stanowi dla hurtowni zabawek",
+    "answers": [
+      "pozostałe przychody operacyjne.",
+      "pozostałe koszty operacyjne.",
+      "koszty finansowe.",
+      "przychody finansowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 322,
+    "text": "Który z wymienionych podmiotów podczas dochodzenia roszczeń z tytułu rękojmi ponosi koszty dostarczenia do miejsca wskazanego w umowie, wadliwego towaru zakupionego na kredyt?",
+    "answers": [
+      "Sprzedawca.",
+      "Bank.",
+      "Producent.",
+      "Konsument."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 323,
+    "text": "Do której podklasy należy zaklasyfikować działalność sklepu oferującego jedynie zdrową żywność, zgodnie z przedstawionym fragmentem Polskiej Klasyfikacji Działalności?",
+    "answers": [
+      "47.19.Z",
+      "47.11.Z",
+      "47.21.Z",
+      "47.29.Z"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela92.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 324,
+    "text": "W przedsiębiorstwie handlowym wskaźnik rotacji należności wynosi 14 dni, wskaźnik rotacji zobowiązań 30 dni. Oznacza to, że",
+    "answers": [
+      "należności z tytułu sprzedaży towarów wpływają szybciej niż trwa spłata zobowiązań.",
+      "rośnie zapotrzebowanie na kapitał obrotowy netto.",
+      "powiększa się zadłużenie przedsiębiorstwa.",
+      "zobowiązania trzeba spłacić przed spływem należności od odbiorców."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 325,
+    "text": "Na podstawie informacji zawartych w tabeli ustal, do której grupy docelowej odbiorców w pierwszej kolejności, przedsiębiorstwo handlowe powinno skierować ofertę wysokiej klasy towarów wybieralnych.",
+    "answers": [
+      "X",
+      "Z",
+      "K",
+      "Y"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela90.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 326,
+    "text": "Obrót kredytowy konta syntetycznego jest równy sumie",
+    "answers": [
+      "sald debetowych wszystkich kont analitycznych.",
+      "sald kredytowych wszystkich kont analitycznych.",
+      "obrotów kredytowych wszystkich kont analitycznych.",
+      "obrotów debetowych wszystkich kont analitycznych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 327,
+    "text": "Na podstawie zapisów w przedstawionym raporcie kasowym nr 11/2020, oblicz stan gotówki w kasie na dzień 30.11.2020 r.",
+    "answers": [
+      "2 250,00 zł",
+      "1 250,00 zł",
+      "17 096,00 zł",
+      "18 096,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela98.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 328,
+    "text": "Oblicz cenę sprzedaży brutto towaru opodatkowanego stawką podatku VAT 23%, jeżeli cena zakupu netto wynosi 150,00 zł, a przedsiębiorstwo handlowe stosuje 20% marżę liczoną od ceny zakupu netto.",
+    "answers": [
+      "184,50 zł",
+      "230,63 zł",
+      "221,40 zł",
+      "272,32 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 329,
+    "text": "W hurtowni wszystkie dokumenty magazynowe są wystawiane i wyceniane w cenach zakupu netto. Na podstawie fragmentu faktury zakupu ustal wartość dowodu Pz Przyjęcie zewnętrzne, na podstawie którego dokonano przyjęcia towarów do magazynu.",
+    "answers": [
+      "120,52 zł",
+      "524,00 zł",
+      "644,52 zł",
+      "765,04 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_faktura11.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 330,
+    "text": "Na podstawie zamieszczonych w tabeli danych ustal przewidywane zapotrzebowanie na towar X w IV kwartale, zakładając taki sam procentowy przyrost zapotrzebowania, jak w poprzednich kwartałach.",
+    "answers": [
+      "946 szt.",
+      "864 szt.",
+      "840 szt.",
+      "820 szt."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela94.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 331,
+    "text": "Sprzedaż napojów chłodzących przez przedsiębiorstwo handlowe w II kwartale wyniosła 2400 litrów i była równomiernie rozłożona w każdym miesiącu. Jaką minimalną ilość napojów chłodzących powinno zabezpieczyć kierownictwo przedsiębiorstwa na lipiec, jeżeli prognoza sprzedaży zakłada jej wzrost w miesiącach wakacyjnych o 30%?",
+    "answers": [
+      "780 litrów",
+      "1 846 litrów",
+      "3 120 litrów",
+      "1 040 litrów"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 332,
+    "text": "Na podstawie informacji zawartych w tabeli ustal, o jaką ilość towaru należy uzupełnić stan magazynowy w przedsiębiorstwie handlowym w miesiącu styczniu, jeżeli prognoza sprzedaży na ten miesiąc wskazuje wzrost o 10% względem grudnia.",
+    "answers": [
+      "273 szt.",
+      "250 szt.",
+      "210 szt.",
+      "233 szt."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela91.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 333,
+    "text": "Na podstawie zamieszczonego wykresu kwartalnej wielkości sprzedaży wskaż towar, którego zapas powinien ograniczyć właściciel hurtowni.",
+    "answers": [
+      "Z",
+      "L",
+      "X",
+      "Y"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_wykres14.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 334,
+    "text": "Oblicz cenę detaliczną netto pralki, jeżeli wartość netto zakupionych w hurtowni 10 pralek wynosi 9000,00 zł. Przeciętne koszty handlowe ustalone przez sklep detaliczny wynoszą 900,00 zł, a oczekiwany zysk stanowi 15% ceny zakupu.",
+    "answers": [
+      "1 125,00 zł",
+      "1 035,00 zł",
+      "1 200,00 zł",
+      "1 575,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 335,
+    "text": "Wycena rozchodu zapasów metodą FIFO polega na wycenie rozchodu począwszy od dostawy przyjętej do magazynu jako",
+    "answers": [
+      "pierwszej.",
+      "najdroższej.",
+      "najtańszej.",
+      "ostatniej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 336,
+    "text": "Operację gospodarczą udokumentowaną przedstawionym dowodem księgowym należy zaksięgować na kontach księgowych",
+    "answers": [
+      "Dt Towary, Ct Rozliczenie zakupu.",
+      "Dt Rozrachunki z dostawcami, Ct Rozliczenie zakupu.",
+      "Dt Rozliczenie zakupu, Ct Towary.",
+      "Dt Rozliczenie zakupu, Ct Rozrachunki z dostawcami."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_dowod4.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 337,
+    "text": "Jaką kwotę podatku od towarów i usług powinno odprowadzić przedsiębiorstwo handlowe do urzędu skarbowego tytułem zobowiązania podatkowego, jeżeli sprzedało 100 szt. towarów w cenie 24,60 zł brutto? Sprzedaż opodatkowana jest 23% stawką podatku VAT, a podatek VAT naliczony wyniósł 120,00 zł.",
+    "answers": [
+      "340,00 zł",
+      "580,00 zł",
+      "120,00 zł",
+      "460,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 338,
+    "text": "Uwzględniając ceny nabycia towarów przedstawione w tabeli, dokonaj wyceny wydanych do sprzedaży 100 szt. towarów stosując metodę cen przeciętnych.",
+    "answers": [
+      "1 100,00 zł",
+      "1 000,00 zł",
+      "990,00 zł",
+      "660,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela95.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 339,
+    "text": "Przedstawione zapisy na koncie księgowym Wynik finansowy wskazują na",
+    "answers": [
+      "stratę w wysokości 1473,00 zł.",
+      "zysk netto w wysokości 1473,00 zł.",
+      "stratę w wysokości 7447,00 zł.",
+      "zysk netto w wysokości 7447,00 zł."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_zapisy8.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 340,
+    "text": "W której części planu marketingowego należy przedstawić informacje na temat budżetu reklamy?",
+    "answers": [
+      "W strategii dystrybucji.",
+      "W strategii promocji.",
+      "W strategii ceny.",
+      "W strategii produktu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 341,
+    "text": "Ustal ilość jabłek do zamówienia, jeżeli w sklepie na koniec dnia znajduje się ich zapas w ilości 10 kg, planowana sprzedaż w okresie wyniesie 40 kg, a zapas na koniec okresu powinien wynosić 20 kg.",
+    "answers": [
+      "40 kg",
+      "50 kg",
+      "30 kg",
+      "60 kg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 342,
+    "text": "Który zestaw narzędzi promocji sprzedaży powinien zastosować sklep kosmetyczny, zamierzający zachęcić klientów indywidualnych do zwiększonych zakupów?",
+    "answers": [
+      "Próbki towarów, kupony rabatowe, karty stałego klienta.",
+      "Darmowe produkty, premiowy system wynagradzania, szkolenia.",
+      "Premie sprzedażowe, konkursy, wyjazdy szkoleniowe.",
+      "Kupony rabatowe, próbki towarów, premie sprzedażowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 343,
+    "text": "Który z wymienionych nośników reklamy należy zastosować, aby informację o towarze przekazać klientom przebywającym wewnątrz lokalu sklepowego?",
+    "answers": [
+      "Citylight.",
+      "Billboard.",
+      "Stand.",
+      "Banner."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 344,
+    "text": "Przedsiębiorstwo handlowe osiągnęło zysk z działalności operacyjnej w wysokości 420 000,00 zł. Koszty finansowe wynosiły 50 000,00 zł, a przychody finansowe 30 400,00 zł. Podatek dochodowy od osób prawnych przy stawce 19%, który musi zapłacić przedsiębiorstwo, wynosi",
+    "answers": [
+      "76 076,00 zł",
+      "79 800,00 zł",
+      "339 600,00 zł",
+      "370 000,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 345,
+    "text": "Przedsiębiorstwo w maju 2021 roku zakupiło i przyjęło do użytkowania środek trwały o wartości początkowej 60 000,00 zł. Jednostka dokonuje odpisów amortyzacyjnych przy zastosowaniu stawki amortyzacyjnej 20% metodą liniową, zgodnie z prawem podatkowym. Roczny odpis amortyzacyjny w 2021 roku wyniesie",
+    "answers": [
+      "1 000,00 zł",
+      "12 000,00 zł",
+      "7 000,00 zł",
+      "8 000,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 346,
+    "text": "Na którym schemacie przedstawiono kolejność prac zgodnie z procedurą odbioru ilościowego towarów?",
+    "answers": [
+      "Na schemacie 1.",
+      "Na schemacie 3.",
+      "Na schemacie 4.",
+      "Na schemacie 2."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_schematy5.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 347,
+    "text": "Na koncie Koszty działalności handlowej ujmuje się",
+    "answers": [
+      "ujemne różnice kursowe.",
+      "odsetki od kredytu.",
+      "zapłacone odszkodowanie.",
+      "wynagrodzenie brutto sprzedawców."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 348,
+    "text": "Źródłem informacji wewnętrznych wtórnych dla przedsiębiorstwa są",
+    "answers": [
+      "wyniki badania wielkości zapotrzebowania na towary przeprowadzonego przez dział zaopatrzenia.",
+      "raporty dotyczące struktury sprzedaży przedsiębiorstwa przygotowane na podstawie faktur sprzedaży.",
+      "zestawienia wielkości sprzedaży branży przygotowane na podstawie danych z rocznika statystycznego.",
+      "informacje internetowe poświęcone tematyce branżowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 349,
+    "text": "Zgodnie z danymi zawartymi w tabeli, wartość różnic inwentaryzacyjnych wynosi:",
+    "answers": [
+      "nadwyżka ziemniaków 750,00 zł, nadwyżka marchwi 150,00 zł, niedobór buraków 40,00 zł.",
+      "niedobór ziemniaków 750,00 zł, nadwyżka marchwi 150,00 zł, nadwyżka buraków 40,00 zł.",
+      "nadwyżka ziemniaków 750,00 zł, niedobór marchwi 150,00 zł, niedobór buraków 40,00 zł.",
+      "niedobór ziemniaków 750,00 zł, niedobór marchwi 150,00 zł, nadwyżka buraków 40,00 zł."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela112.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 350,
+    "text": "Hurtownia zakupiła towar opodatkowany podstawową stawką podatku VAT po cenie netto 200,00 zł/szt. Ile wyniesie cena sprzedaży netto towaru, jeśli hurtownia stosuje narzut w wysokości 20% ceny zakupu netto?",
+    "answers": [
+      "295,20 zł",
+      "307,50 zł",
+      "240,00 zł",
+      "250,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 351,
+    "text": "Na przedstawionym fragmencie faktury sprzedaży, w pozycji Razem do zapłaty należy wpisać słownie kwotę",
+    "answers": [
+      "107 200,00 zł",
+      "131 856,00 zł",
+      "156 512,00 zł",
+      "82 544,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_faktura13.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 352,
+    "text": "Ustal wynagrodzenie brutto sprzedawcy wynagradzanego w systemie czasowo-prowizyjnym, który przepracował w miesiącu 168 godzin, jego stawka godzinowa wynikająca z minimalnego wynagrodzenia w roku 2021 wynosi 16,67 zł, a przysługująca mu prowizja 400,00 zł.",
+    "answers": [
+      "6 668,00 zł",
+      "2 800,56 zł",
+      "2 800,00 zł",
+      "3 200,56 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 353,
+    "text": "Który element sprawozdania finansowego zawiera informacje dotyczące obcych źródeł finansowania działalności?",
+    "answers": [
+      "Rachunek przepływów pieniężnych.",
+      "Zestawienie zmian w kapitale własnym.",
+      "Bilans.",
+      "Rachunek zysków i strat."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 354,
+    "text": "Do której podklasy należy zaklasyfikować przedsiębiorstwo handlu hurtowego zajmujące się sprzedażą oleju rzepakowego, zgodnie z przedstawionym fragmentem klasyfikacji PKD?",
+    "answers": [
+      "46.32.Z",
+      "46.34.B",
+      "46.31.Z",
+      "46.33.Z"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela111.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 355,
+    "text": "Który rodzaj badania rynku charakteryzuje przedstawiony opis? Opis badania rynku Osoba prowadząca badanie udaje potencjalnego nabywcę, aby sprawdzić jak personel sklepu radzi sobie z obsługą klientów. Podczas badania zadaje badanym pytania dotyczące np. cech produktu, korzyści związanych z jego nabyciem itp.",
+    "answers": [
+      "Badanie eksperymentalne.",
+      "Obserwację bierną.",
+      "Badanie panelowe.",
+      "Obserwację aktywną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 356,
+    "text": "Który dokument powinien wystawić dostawca w celu powiadomienia odbiorcy o wysyłce towaru?",
+    "answers": [
+      "Specyfikację.",
+      "Potwierdzenie zamówienia.",
+      "Awizo.",
+      "Zawiadomienie o odbiorze."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 357,
+    "text": "Który z czynników obniżających jakość towarów podczas dłuższego przechowywania powoduje zielenienie ziemniaków i powstanie w nich substancji toksycznej – solaniny?",
+    "answers": [
+      "Niska temperatura.",
+      "Wysoka wilgotność.",
+      "Wysoka temperatura.",
+      "Silne nasłonecznienie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 358,
+    "text": "Zgodnie z danymi zamieszczonymi w tabeli, wartość wyniku finansowego netto przedsiębiorstwa wynosi",
+    "answers": [
+      "71 280,00 zł",
+      "104 720,00 zł",
+      "102 320,00 zł",
+      "68 880,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela113.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 359,
+    "text": "Podczas kontroli dokumentów towarzyszących dostawie pracownik zauważył, że na fakturze dostawca błędnie wpisał formę organizacyjno-prawną nabywcy. Który dokument należy wystawić, aby poprawić błąd?",
+    "answers": [
+      "Notę korygującą.",
+      "Fakturę korygującą.",
+      "Zgłoszenie reklamacyjne.",
+      "Protokół rozbieżności."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 360,
+    "text": "Udział poszczególnych składników aktywów w ogólnej sumie bilansowej można porównać, obliczając",
+    "answers": [
+      "wskaźniki struktury.",
+      "indeksy proste.",
+      "wskaźniki natężenia.",
+      "przyrosty względne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 361,
+    "text": "Dokument opatrzony kategorią B5 należy",
+    "answers": [
+      "poddać brakowaniu po 5 latach od jego wytworzenia.",
+      "przechowywać w jednostce organizacyjnej przez 5 lat.",
+      "przekazać do archiwum państwowego po 5 latach jego przechowywania.",
+      "przekazać do archiwum zakładowego po 5 latach od jego wytworzenia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 362,
+    "text": "Jednostka handlowa sprzedała stolik w cenie netto 100,00 zł, realizując marżę w wysokości 20% ceny sprzedaży netto. Ile wyniosła zrealizowana marża kwotowa?",
+    "answers": [
+      "80,00 zł",
+      "20,00 zł",
+      "120,00 zł",
+      "125,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 363,
+    "text": "Przedstawiony fragment dokumentu dotyczy",
+    "answers": [
+      "umowy zlecenia usługi.",
+      "umowy sprzedaży.",
+      "oferty handlowej.",
+      "zamówienia towaru."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_dokument2.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 364,
+    "text": "Kapitał własny jednostki gospodarczej stanowi 200 000,00 zł, a zysk netto wynosił 100 000,00 zł. Oznacza to, że z każdej złotówki zainwestowanego kapitału własnego przedsiębiorstwo wygenerowało",
+    "answers": [
+      "2,00 zł zysku netto.",
+      "20,00 zł zysku netto.",
+      "0,50 zł zysku netto.",
+      "5,00 zł zysku netto."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 365,
+    "text": "Na której ilustracji przedstawiono urządzenie służące do ręcznego przewozu palet?",
+    "answers": [
+      "Na ilustracji 1.",
+      "Na ilustracji 2.",
+      "Na ilustracji 3.",
+      "Na ilustracji 4."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_urzadzenia4.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 366,
+    "text": "Sieć hipermarketów prowadzi produkcję uzupełniającą świeżych wyrobów garmażeryjnych. Zgodnie z danymi dotyczącymi dynamiki sprzedaży i udziału w rynku przedstawionymi w tabeli, sieć powinna w pierwszej kolejności stopniowo wycofywać się ze sprzedaży",
+    "answers": [
+      "pierogów i naleśników.",
+      "mięs w galarecie.",
+      "mięs z rożna.",
+      "sałatek i surówek."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_tabela110.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 367,
+    "text": "Który uczestnik rynku wyrobów gotowych dokonuje sprzedaży po cenie zbytu?",
+    "answers": [
+      "Detalista.",
+      "Akwizytor.",
+      "Hurtownik.",
+      "Producent."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 368,
+    "text": "Którą formę sprzedaży stosuje sprzedawca, jeżeli prowadzi sprzedaż kosmetyków w miejscach zamieszkania potencjalnych klientów?",
+    "answers": [
+      "Preselekcyjną.",
+      "Samoobsługową.",
+      "Bezpośrednią.",
+      "Tradycyjną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 369,
+    "text": "Złożenie zamówienia jest zwykle bezpośrednio poprzedzone otrzymaniem przez klienta",
+    "answers": [
+      "specyfikacji wysyłkowej.",
+      "zapytania ofertowego.",
+      "oferty handlowej.",
+      "potwierdzenia zamówienia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 370,
+    "text": "Która z wymienionych informacji pochodzi z planu finansowego przedsiębiorstwa?",
+    "answers": [
+      "Wielkość planowanych przychodów i kosztów przedsiębiorstwa.",
+      "Informacja o sieci sprzedawców hurtowych i detalicznych, z którymi zamierza współpracować przedsiębiorstwo przy realizacji przedsięwzięcia.",
+      "Informacja o etapach realizacji zadań, które firma ma do wykonania w związku z prowadzoną działalnością.",
+      "Wielkość planowanych zapasów oraz źródła zaopatrzenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 371,
+    "text": "Kwotę podatku naliczonego stanowi suma kwot wynikających",
+    "answers": [
+      "z paragonów fiskalnych.",
+      "z faktur sprzedaży.",
+      "z faktur zakupu.",
+      "z raportów kasowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 372,
+    "text": "Którą technikę zastosował partner negocjacji handlowych, zadając przedstawione pytanie? Fragment rozmowy negocjacyjnej Ile wyniesie cena za sztukę, gdybym zdecydował się kupić dwukrotnie większą partię towaru, tzn. 600 szt., a nie jak zwykle 300?",
+    "answers": [
+      "Manipulowania czasem.",
+      "Wysuwania hipotez.",
+      "Operowania ceną.",
+      "Ustępstw malejących."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 373,
+    "text": "Konsument złożył zgłoszenie reklamacyjne z zażądaniem wymiany towaru. Należy przyjąć, że sprzedawca uznał żądanie za uzasadnione, jeżeli nie ustosunkował się do niego w terminie",
+    "answers": [
+      "1 roku od dnia ujawnienia się wady towaru.",
+      "14 dni od dnia złożenia reklamacji.",
+      "10 dni od dnia złożenia reklamacji.",
+      "2 lat od dnia wydania towaru konsumentowi."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 374,
+    "text": "Który z wymienionych czynników przeprowadzonej analizy SWOT należy zaliczyć do mocnych stron przedsiębiorstwa?",
+    "answers": [
+      "Wysokiej jakości towary.",
+      "Niskie bezrobocie w regionie.",
+      "Stabilną politykę podatkową.",
+      "Ruchome oprocentowanie kredytów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 375,
+    "text": "Wymogu uwidaczniania cen jednostkowych na wywieszce cenowej nie stosuje się do towaru, który jest",
+    "answers": [
+      "sprzedawany ze względu na swoje przeznaczenie w zestawach.",
+      "przeznaczony do sprzedaży według długości.",
+      "sprzedawany w opakowaniu jednostkowym.",
+      "przeznaczony do sprzedaży według powierzchni."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 376,
+    "text": "Który rodzaj obuwia, zgodnie z wynikami badań zaprezentowanymi na wykresie, powinno uwzględnić przedsiębiorstwowo w swojej ofercie handlowej na rok 2022?",
+    "answers": [
+      "Czółenka.",
+      "Kozaki.",
+      "Balerinki.",
+      "Trampki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han02/a22_wykres17.png"
+    },
+    "category": "HAN.02"
+  },
+  {
+    "id": 377,
+    "text": "Które z wymienionych towarów należy przechowywać podczas magazynowania na najwyższych półkach regałów?",
+    "answers": [
+      "Leżaki.",
+      "Hantle.",
+      "Namioty.",
+      "Karimaty."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  },
+  {
+    "id": 378,
+    "text": "Który z wymienionych aktów zakazuje stosowania reklamy wprowadzającej w błąd oraz sprzecznej z przepisami prawa i dobrymi obyczajami?",
+    "answers": [
+      "Ustawa o prawach konsumenta.",
+      "Ustawa Kodeks cywilny.",
+      "Ustawa Kodeks postępowania administracyjnego.",
+      "Ustawa o zwalczaniu nieuczciwej konkurencji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.02"
+  }
+]
