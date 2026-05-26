@@ -1,0 +1,4335 @@
+[
+  {
+    "id": 1,
+    "text": "Którą formę fryzury należy zaprojektować klientce w celu zatuszowania dużych i odstających uszu?",
+    "answers": [
+      "Pasma włosów luźno opadające po bokach i podpięte na potylicy.",
+      "Pasma włosów splecione w warkocz i upięte na szczycie głowy.",
+      "Włosy skręcone w rulon i upięte na szczycie głowy.",
+      "Włosy gładko zaczesane i związane w koński ogon na potylicy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 2,
+    "text": "Na którym rysunku przedstawiona jest linia konturowa baków, oznaczona czerwonym kolorem, optycznie wyszczuplająca twarz klienta?",
+    "answers": [
+      "Na rysunku 1.",
+      "Na rysunku 2.",
+      "Na rysunku 4.",
+      "Na rysunku 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_rysunki4.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 3,
+    "text": "Uczesanie damskie o dużej dowolności, wzbogacone kolorowymi pasmami włosów, dopinkami i elementami dekoracyjnymi to typ fryzury",
+    "answers": [
+      "dziennej.",
+      "koktajlowej.",
+      "wieczorowej.",
+      "awangardowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 4,
+    "text": "Która deformacja głowy oznaczona jest na rysunku instruktażowym kolorem czerwonym?",
+    "answers": [
+      "Wybrzuszenie ciemieniowe.",
+      "Wybrzuszenie ciemieniowo-potyliczne.",
+      "Zapadłość potyliczna.",
+      "Zapadłość ciemieniowo-potyliczna."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_deformacja10.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 5,
+    "text": "Portfolio we fryzjerstwie, to",
+    "answers": [
+      "komputerowy dobór fryzur i makijażu.",
+      "program do projektowania fryzur.",
+      "katalog przykładowych prac autorskich.",
+      "zastosowana technika pracy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 6,
+    "text": "W celu optycznego skorygowania niskiego i wypukłego czoła klientki, nie należy projektować fryzury z grzywką",
+    "answers": [
+      "długą o gładkiej teksturze.",
+      "długą o dużej objętości.",
+      "krótką o małej objętości.",
+      "krótką o mieszanej teksturze."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 7,
+    "text": "Zamieszczony opis dotyczy twarzy o profilu Opis klienta Spłaszczone i lekko cofnięte czoło oraz broda, środkowa część twarzy wysunięta jest do przodu.",
+    "answers": [
+      "wypukłym.",
+      "wklęsłym.",
+      "klasycznym.",
+      "ukośnym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 8,
+    "text": "Klientce, oczekującej optycznej korekty długiej i szczupłej szyi nie należy proponować fryzury z włosów",
+    "answers": [
+      "związanych wysoko w koński ogon.",
+      "rozpuszczonych sięgających do linii ramion.",
+      "częściowo upiętych na potylicy.",
+      "luźno zaplecionych na wysokości karku."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 9,
+    "text": "Zamieszczony opis dotyczy fryzury damskiej, która ma formę Opis fryzury Przyrost długości włosów wzrastający od karku do wierzchołka głowy, który po wyczesaniu tworzy niestopniowaną linię konturową.",
+    "answers": [
+      "spójną.",
+      "przyrastającą warstwowo.",
+      "stopniowaną.",
+      "jednolitą warstwowo."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 10,
+    "text": "Którą formę zarostu męskiego przedstawiono na rysunku?",
+    "answers": [
+      "Brodę hiszpańską.",
+      "Brodę muchę.",
+      "Brodę pełną.",
+      "Brodę klasyczną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_zarost3.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 11,
+    "text": "Fryzura z włosów o zróżnicowanej długości i postrzępionych, z pazurkami nachodzącymi na twarz, zalecana jest dla klientki, w celu korekty twarzy o kształcie",
+    "answers": [
+      "prostokątnym.",
+      "trójkątnym.",
+      "owalnym.",
+      "okrągłym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 12,
+    "text": "Klientka oczekuje fryzury z grzywką sięgającą do połowy czoła, która będzie korygować jej wysokie czoło oraz duży i szpiczasty nos. Która linia konturu grzywki spełni jej oczekiwania?",
+    "answers": [
+      "Wklęsła łukowata.",
+      "Asymetryczna zygzakowata.",
+      "Prosta pozioma.",
+      "Wypukła półokrągła."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 13,
+    "text": "Na rysunku instruktażowym zabiegu strzyżenia przedstawiony jest kąt projekcji, który wynosi",
+    "answers": [
+      "15 stopni.",
+      "0 stopni.",
+      "90 stopni.",
+      "45 stopni."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_rysunek32.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 14,
+    "text": "Fryzura przedstawiona na rysunku jest zaprojektowana na podstawie kompozycji",
+    "answers": [
+      "otwartej, asymetrycznej.",
+      "dynamicznej, symetrycznej.",
+      "statycznej, asymetrycznej.",
+      "centralnej, symetrycznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_fryzura47.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 15,
+    "text": "W celu podkreślenia gładkiej tekstury ciemnych włosów, należy zaproponować klientce koloryzację",
+    "answers": [
+      "pasm, w jasnej tonacji.",
+      "pasm, w ciemnej tonacji.",
+      "globalną, w jasnej tonacji.",
+      "globalną, w ciemnej tonacji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 16,
+    "text": "Klientka ma falowaną teksturę włosów, prostokątny kształt twarzy, wysokie i cofnięte czoło. Na którym z rysunków przedstawiono (oznaczoną na czerwono) linię konturu wewnętrznego i zewnętrznego fryzury, korygującą niedoskonałości urody klientki po naturalnym wysuszeniu włosów?",
+    "answers": [
+      "Na rysunku 1.",
+      "Na rysunku 4.",
+      "Na rysunku 3.",
+      "Na rysunku 2."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_fryzury9.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 17,
+    "text": "Zamieszczony opis dotyczy sylwetki męskiej o kształcie litery Opis klienta Cechami charakterystycznymi są: wystający brzuch, niski wzrost oraz dobrze zbudowane ręce i nogi.",
+    "answers": [
+      "H",
+      "A",
+      "V",
+      "O"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 18,
+    "text": "Która informacja zdobyta podczas rozmowy konsultacyjnej jest niezbędna przed wykonaniem zabiegu koloryzacji?",
+    "answers": [
+      "Kształt uczesania.",
+      "Forma fryzury.",
+      "Tonacja kolorystyczna.",
+      "Rodzaj strzyżenia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 19,
+    "text": "Które z wymienionych cech budowy anatomicznej nie są charakterystyczne dla deformacji twarzy?",
+    "answers": [
+      "Mały nos i cofnięty podbródek.",
+      "Podwójna i krótka broda.",
+      "Szerokie policzki i zbyt długi nos.",
+      "Odstające uszy i zbyt szeroka szyja."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 20,
+    "text": "Przedstawiony opis dotyczy fryzury typu Opis fryzury Forma fryzury damskiej z jednakową długością włosów na całej głowie, której kształt jest zaokrąglony zgodnie z płaszczyzną czaszki.",
+    "answers": [
+      "wystopniowany bob.",
+      "chłopczyca.",
+      "kwadrat.",
+      "zmodyfikowany paź."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 21,
+    "text": "Klientka oczekuje zmiany naturalnego koloru włosów z kontrastem typu jasny – ciemny. Które połączenie kolorystyczne w projektowanej fryzurze spełni życzenie klientki?",
+    "answers": [
+      "Średni brąz i daktylowy.",
+      "Jasny brąz i orzechowy.",
+      "Ciemny brąz i czekoladowy.",
+      "Naturalny brąz i toffi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 22,
+    "text": "Przedstawiony opis dotyczy klientki o typie kolorystycznym Opis klientki Cera oliwkowa z odcieniem złota, wyraźne tęczówki oczu w kolorze szmaragdowym i naturalne włosy w kolorze brązowym z odcieniem czerwieni.",
+    "answers": [
+      "jesień.",
+      "zima.",
+      "wiosna.",
+      "lato."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 23,
+    "text": "Fryzury w stylu romantycznym opierają się na",
+    "answers": [
+      "uporządkowaniu i prostocie kształtu.",
+      "asymetrii i mocnych kontrastach.",
+      "wygodzie i funkcjonalności.",
+      "miękkości i delikatności linii."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 24,
+    "text": "Przedstawiona na rysunku ozdoba przeznaczona jest jako dodatek do fryzury",
+    "answers": [
+      "sportowej.",
+      "wieczorowej.",
+      "dziennej.",
+      "użytkowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_ozdoba3.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 25,
+    "text": "Przedstawiony opis dotyczy fryzury męskiej typu Opis fryzury Fryzura konkursowa wymagająca dużej precyzji i umiejętności zawodowych, tworzona według określonych i sztywnych zasad.",
+    "answers": [
+      "à la Beatles.",
+      "jeż.",
+      "angielskiej w kancik.",
+      "irokez."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 26,
+    "text": "Który sposób konsultacji z klientem oparty jest na komunikacji werbalnej?",
+    "answers": [
+      "Mimika twarzy.",
+      "Rozmowa.",
+      "Postawa.",
+      "Kontakt wzrokowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 27,
+    "text": "Który rodzaj separacji podczas zabiegu strzyżenia ma wpływ na zwiększenie objętości włosów przy twarzy, a zmniejszenie z tyłu głowy?",
+    "answers": [
+      "Pionowa.",
+      "Pozioma.",
+      "Ukośna do tyłu.",
+      "Ukośna do przodu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 28,
+    "text": "Ostrych rysów twarzy klientki nie skoryguje zastosowanie fryzury z przedziałkiem",
+    "answers": [
+      "falowanym.",
+      "prostokątnym wypukłym.",
+      "prostym.",
+      "prostokątnym wklęsłym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 29,
+    "text": "Rysunek instruktażowy dotyczy kreatywnej koloryzacji włosów wykonywanej techniką",
+    "answers": [
+      "łańcuszkową.",
+      "strzały.",
+      "kwiatu.",
+      "mostkową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_rysunek34.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 30,
+    "text": "Przedstawiony na rysunku dodatek fryzjerski należy zastosować do formowania fryzury typu",
+    "answers": [
+      "kok w bok.",
+      "kok podłużny.",
+      "warkocz dobierany.",
+      "upięcie flamenco."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_dodatek3.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 31,
+    "text": "Która forma fryzury zbudowana jest z jednolitej długości włosów na całej głowie bez efektu przyrostu długości?",
+    "answers": [
+      "Forma koła.",
+      "Forma kwadratu.",
+      "Forma trójkąta.",
+      "Forma owalu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 32,
+    "text": "Klientka ma oliwkową cerę z nielicznymi piegami i zielony kolor oczu. Dla podkreślenia jej kolorystycznego typu urody, należy zaproponować koloryzację włosów w odcieniach",
+    "answers": [
+      "fioletu.",
+      "blondu.",
+      "miedzi.",
+      "popielu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 33,
+    "text": "Na którym rysunku przedstawiona jest forma konturu zewnętrznego strzyżenia fryzury, którą należy zaprojektować w celu ukrycia długiej i szczupłej szyi?",
+    "answers": [
+      "Na rysunku 3.",
+      "Na rysunku 4.",
+      "Na rysunku 1.",
+      "Na rysunku 2."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_kontury2.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 34,
+    "text": "Klientka o typie urody zima oczekuje zmiany naturalnego koloru włosów, zachowując obecny typ kolorystyczny. Które połączenie kolorystyczne należy zaproponować klientce, w celu spełnienia jej oczekiwań?",
+    "answers": [
+      "Chłodny brązowy, popielaty i kruczoczarny.",
+      "Blond z poświatą srebra, miedzi i kasztanu.",
+      "Blond z odcieniem lnu, rudego i brązu.",
+      "Ciepły mahoniowy, beżowy i czerwony."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 35,
+    "text": "Które cechy budowy charakterystyczne są dla twarzy prostokątnej?",
+    "answers": [
+      "Twarz o wypukłym i wysokim czole, poniżej którego kontur twarzy harmonijnie zwęża się aż do łagodnej linii brody.",
+      "Twarz wąska, mocno wydłużona i pociągła, równa w linii czoła i żuchwy, o płaskich i wydłużających się policzkach.",
+      "Długość i szerokość twarzy są równe, mocno zarysowane kości szczękowe i szeroki podbródek, szerokie i płaskie czoło o prostej linii granicy porostu włosów.",
+      "Długość i szerokość twarzy są równe, mocno zaokrąglony podbródek z małą i okrągłą brodą, niskie i płaskie czoło o zaokrąglonej linii granicy porostu włosów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 36,
+    "text": "W celu wykonania zabiegu, który optycznie powiększy objętość fryzury, należy w projekcie uwzględnić koloryzację włosów w tonacji",
+    "answers": [
+      "czerni i popielatych odrostów.",
+      "brązu i platynowych pasemek.",
+      "mahoniu i fioletowych końcówek.",
+      "blondu i miedzianych paneli."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 37,
+    "text": "Przedstawiony opis dotyczy klientki o sylwetce typu Opis sylwetki Szczupła budowa ciała i wyraźny brak wcięcia w talii. Długie nogi, ramiona i biodra mają tę samą szerokość.",
+    "answers": [
+      "jabłko.",
+      "klepsydra.",
+      "gruszka.",
+      "tuba."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 38,
+    "text": "Który zestaw kolorystyczny należy zaprojektować we fryzurze klientki, aby w efekcie uzyskać zimny odcień włosów?",
+    "answers": [
+      "Jasny blond i mikston złoty.",
+      "Jasny blond i mikston niebieski.",
+      "Średni blond i mikston czerwony.",
+      "Średni blond i mikston pomarańczowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 39,
+    "text": "Na rysunku instruktażowym czerwonymi liniami oznaczony jest podział włosów na",
+    "answers": [
+      "separacje trójkątne.",
+      "separacje poziome.",
+      "sekcje krzyżowe.",
+      "sekcje klasyczne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_rysunek33.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 40,
+    "text": "Profilem i kształtem twarzy niewymagającym tuszowania jest:",
+    "answers": [
+      "profil wklęsły i twarz okrągła.",
+      "profil regularny i twarz owalna.",
+      "profil okrągły i twarz owalna.",
+      "profil ukośny i twarz okrągła."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 41,
+    "text": "Opis dotyczy klienta reprezentującego subkulturę Opis klienta Klient ma mocno natapirowany i postawiony pas włosów w środkowej parti głowy. Ubrany jest w wąskie spodnie sięgające do łydki i kurtkę tzw. ramoneskę.",
+    "answers": [
+      "punków.",
+      "skinheadów.",
+      "rockersów.",
+      "hippisów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 42,
+    "text": "Na rysunku przedstawiono profil twarzy o kształcie",
+    "answers": [
+      "wklęsłym.",
+      "wypukłym.",
+      "okrągłym.",
+      "ukośnym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_profil4.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 43,
+    "text": "Drobne kwiatuszki wykonane z tkaniny oraz klamerki z motywem kolorowych liści lub pastelowych kwiatów, należy wykorzystać do zaprojektowania fryzury",
+    "answers": [
+      "etnicznej.",
+      "romantycznej.",
+      "awangardowej.",
+      "futurystycznej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 44,
+    "text": "Który rodzaj kompozycji zastosowano w opisanej fryzurze? Opis kompozycji fryzury Fryzurę tworzą elementy podobne lub takie same. Elementy fryzury powtarzają się cyklicznie w pojedynczym, podwójnym, a nawet potrójnym układzie.",
+    "answers": [
+      "Asymetryczną.",
+      "Dynamiczną.",
+      "Rytmiczną.",
+      "Centralną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 45,
+    "text": "Rysunek zaprojektowanej fryzury przygotowany został na czarnym kartonie. Do wykonania rysunku dodatkowo użyto specjalnego pędzla w kształcie wachlarza zwilżonego w wodzie. Którą technikę zastosowano do przygotowania rysunku fryzury?",
+    "answers": [
+      "Kredy.",
+      "Markera.",
+      "Ołówka.",
+      "Tuszu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 46,
+    "text": "Które cechy budowy są charakterystyczne dla twarzy o kształcie trapezoidalnym?",
+    "answers": [
+      "Wąska, długa i zaokrąglona w górnej części.",
+      "Szeroka w części skroniowej i rozbudowana na linii kości policzkowych.",
+      "Najszersza na linii kości policzkowych i wąska na kącie żuchwy.",
+      "Najszersza w dolnej partii policzków i na kącie żuchwy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 47,
+    "text": "Na rysunku instruktażowym zabiegu strzyżenia przedstawiono podział włosów na separacje",
+    "answers": [
+      "diagonalne – ukośne do tyłu.",
+      "horyzontalne.",
+      "wertykalne.",
+      "diagonalne – ukośne do przodu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_rysunek23.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 48,
+    "text": "Reprezentująca kolorystyczny typ urody jesień klientka ma rude włosy w odcieniu kasztanowym oraz zielone oczy i oczekuje zmiany koloru włosów na taki, który podkreśli jej obecny typ urody. W celu uzyskania oczekiwanego efektu należy klientce zaproponować zestaw kolorów",
+    "answers": [
+      "ciepły – ciemny.",
+      "zimny – jasny.",
+      "zimny – ciemny.",
+      "ciepły – jasny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 49,
+    "text": "Klientce, której włosy mają w wyniku koloryzacji rozjaśniającej zbyt pomarańczowy odcień, do skorygowania niepożądanego efektu koloryzacji należy zaproponować użycie płukanki lub szamponu o spektrum",
+    "answers": [
+      "czerwonym.",
+      "czarnym.",
+      "żółtym.",
+      "niebieskim."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 50,
+    "text": "Fryzurę o kompozycji, która posiada elementy asymetryczne i dynamiczne, z dodatkowymi ozdobnikami kolorystycznymi, należy zaproponować klientce reprezentującej styl",
+    "answers": [
+      "etniczny.",
+      "sportowy.",
+      "romantyczny.",
+      "awangardowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 51,
+    "text": "W celu optycznego powiększenia objętości projektowanej fryzury z włosów krótkich należy zaplanować koloryzację",
+    "answers": [
+      "rozjaśniającą tylko nasady włosów.",
+      "rozjaśniającą całą długość włosów.",
+      "przyciemniającą całą długość włosów.",
+      "przyciemniającą tylko końcówki włosów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 52,
+    "text": "Który rodzaj kontrastu kolorystycznego występuje we fryzurze przedstawionej na rysunku?",
+    "answers": [
+      "Jasny i ciemny.",
+      "Kolorowy i niekolorowy.",
+      "Symultaniczny.",
+      "Ciepły i zimny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_fryzura40.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 53,
+    "text": "Którego dodatku fryzjerskiego należy użyć do projektowania fryzury damskiej klasycznej, symetrycznej, z włosów o długości do połowy szyi w celu wyeksponowania twarzy klientki?",
+    "answers": [
+      "Opaski w neonowym kolorze.",
+      "Spinki w neonowym odcieniu.",
+      "Opaski w stonowanym kolorze.",
+      "Spinki w nasyconym odcieniu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 54,
+    "text": "Do zaprojektowania przedstawionej na rysunku fryzury zastosowano kompozycję",
+    "answers": [
+      "otwartą – symetryczną.",
+      "otwartą – asymetryczną.",
+      "zamkniętą – symetryczną.",
+      "zamkniętą – asymetryczną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_fryzura43.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 55,
+    "text": "W celu przedstawienia ogólnej idei projektowanej fryzury w połączeniu z całościową stylizacją postaci należy przygotować rysunek",
+    "answers": [
+      "instruktażowy.",
+      "schematyczny.",
+      "żurnalowy.",
+      "zabiegowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 56,
+    "text": "Do projektowania której formy klasycznych warkoczy wykorzystywane są syntetyczne cienkie pasma włosów?",
+    "answers": [
+      "Kłos.",
+      "Rasta.",
+      "Francuz.",
+      "Twist."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 57,
+    "text": "Który rodzaj kosmetyku pełni funkcję dekoracyjną podczas projektowania fryzur dziennych?",
+    "answers": [
+      "Kolorowa maskara.",
+      "Pianka utrwalająca.",
+      "Kolorowy lakier do włosów.",
+      "Nabłyszczacz."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 58,
+    "text": "Który kształt twarzy klientki zostanie optycznie skorygowany opisaną fryzurą? Opis fryzury Fryzura podniesiona na szczycie głowy z włosów o półokrągłej linii konturu. Długość włosów z delikatnie wyeflowanymi końcówkami zasłaniającymi linie żuchwy. Grzywka jest asymetryczna i półokrągła.",
+    "answers": [
+      "Trójkątny.",
+      "Kwadratowy.",
+      "Prostokątny.",
+      "Romboidalny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 59,
+    "text": "Którego zestawienia kolorystycznego nie należy projektować dla osoby o szerokiej twarzy i okalających twarz prostych, długich włosach?",
+    "answers": [
+      "Głębokie i nasycone czerwienie.",
+      "Ciemne brązy.",
+      "Odcienie ciemnego fioletu.",
+      "Balejaż z jasnych kolorów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 60,
+    "text": "Dla klientki w średnim wieku, pracującej na stanowisku kierowniczym w urzędzie państwowym, która ma bezpośredni kontakt z petentami, należy zaprojektować fryzurę",
+    "answers": [
+      "awangardową – koktajlową – asymetryczną.",
+      "futurystyczną – dzienną – symetryczną.",
+      "sportową – dzienną – asymetryczną.",
+      "klasyczną – koktajlową – symetryczną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 61,
+    "text": "Na rysunku przedstawiono sylwetkę typu",
+    "answers": [
+      "jabłko.",
+      "gruszka.",
+      "tuba.",
+      "klepsydra."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_sylwetka8.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 62,
+    "text": "Oczy szeroko rozstawione, wąska broda oraz wydatne kości policzkowe są cechami charakterystycznym twarzy o kształcie",
+    "answers": [
+      "trójkątnym.",
+      "romboidalnym.",
+      "owalnym.",
+      "prostokątnym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 63,
+    "text": "Przedstawiony rysunek fryzury został wykonany techniką",
+    "answers": [
+      "kredki świecowej.",
+      "farby plakatowej.",
+      "kredki ołówkowej.",
+      "farby akwarelowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_fryzura41.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 64,
+    "text": "Klientka o włosach koloru rudawego blondu, cerze w odcieniu kości słoniowej i oczach w kolorze orzecha laskowego, reprezentuje kolorystyczny typ urody",
+    "answers": [
+      "zima.",
+      "jesień.",
+      "wiosna.",
+      "lato."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 65,
+    "text": "Klientka ma okrągły kształt twarzy, który optycznie wyszczuplają ciemne, opadające zgodnie z naturalnym kierunkiem wzrostu włosy. Jaką teksturę mają włosy klientki?",
+    "answers": [
+      "Przestrzenną.",
+      "Gładką.",
+      "Strukturalną.",
+      "Falistą."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 66,
+    "text": "Klientce o jasnej cerze z odcieniem przezroczystej oliwki z tendencją do pękających naczynek oraz tęczówką w kolorze piwnym należy zaproponować kolor włosów w odcieniu",
+    "answers": [
+      "czerwonym.",
+      "pomarańczowym.",
+      "żółtym.",
+      "czarnym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 67,
+    "text": "Na rysunku instruktażowym przedstawiono technikę wykonania zabiegu",
+    "answers": [
+      "formowania fryzury.",
+      "ondulacji fenowej.",
+      "strzyżenia.",
+      "koloryzacji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_rysunek24.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 68,
+    "text": "Opis dotyczy klientki reprezentującej styl Opis klientki Fryzura klientki ma nieskomplikowaną formę i można ją samodzielnie, szybko ułożyć (możliwość czesania palcami). Styl jest wygodny, prosty i funkcjonalny. Dopuszczalne jest stosowanie delikatnych kontrastów kolorystycznych.",
+    "answers": [
+      "etniczny.",
+      "awangardowy.",
+      "sportowy.",
+      "klasyczny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 69,
+    "text": "Dla klientki wybierającej się na imprezę tematyczną Dzieci kwiaty należy zaprojektować fryzurę w stylu",
+    "answers": [
+      "awangardowym.",
+      "sportowym.",
+      "klasycznym.",
+      "romantycznym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 70,
+    "text": "Na rysunku instruktażowym fryzury typu irokez kolorem czerwonym zaznaczono linię konturu",
+    "answers": [
+      "zewnętrznego fryzury.",
+      "zewnętrznego strzyżenia.",
+      "wewnętrznego strzyżenia.",
+      "wewnętrznego fryzury."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_fryzura42.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 71,
+    "text": "W celu optycznego zmniejszenia objętość włosów grubych i sztywnych o gładkiej teksturze należy w projektowaniu fryzury zaplanować koloryzację w formie",
+    "answers": [
+      "całościowej jasnej.",
+      "pasemek.",
+      "balejażu.",
+      "całościowej ciemnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 72,
+    "text": "Fryzurę z prostą grzywką, sięgającą do wysokości brwi, należy zaprojektować w celu optycznego skorygowania",
+    "answers": [
+      "krótkiej szyi.",
+      "odstających uszu.",
+      "szerokiej brody.",
+      "wystającego nosa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 73,
+    "text": "Projekt koloryzacji w zimnej tonacji uzyska się z połącznia kolorów",
+    "answers": [
+      "złotego i brązowego.",
+      "beżowego i rudego.",
+      "mahoniowego i pomarańczowego.",
+      "platynowego i popielatego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 74,
+    "text": "W celu radykalnej zmiany koloru włosów z intensywnie rudego na jasny należy dla osoby o ciepłym typie kolorystycznym urody zaprojektować kolor włosów w odcieniu",
+    "answers": [
+      "złotym.",
+      "popielatym.",
+      "granatowej czerni.",
+      "platynowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 75,
+    "text": "We fryzurze projektowanej dla klientki o długich i falowanych włosach w kolorze rudości, reprezentującej styl awangardowo-futurystyczny, należy zastosować kompozycję",
+    "answers": [
+      "centralną.",
+      "rytmiczną.",
+      "statyczną.",
+      "dynamiczną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 76,
+    "text": "Dla klienta pracującego na kierowniczym stanowisku w dużej korporacji, którego obowiązuje dress code w postaci garnituru, należy zaprojektować fryzurę",
+    "answers": [
+      "irokez klasyczny.",
+      "bob klasyczny.",
+      "awangardową w kancik.",
+      "angielską w kancik."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 77,
+    "text": "Opis dotyczy cech charakterystycznych fryzury Opis fryzury Stanowi odmianę fryzury wieczorowej. Charakteryzuje się odważniejszymi elementami inspirowanymi tematem pokazu. Forma fryzury jest bardziej rozbudowana niż forma fryzury wieczorowej.",
+    "answers": [
+      "fantazyjnej.",
+      "okolicznościowej.",
+      "dziennej.",
+      "koktajlowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 78,
+    "text": "Dla klientki o zaokrąglonych kościach policzkowych i podbródku w celu optycznego skorygowania wizerunku należy zaprojektować fryzurę",
+    "answers": [
+      "w jasnych kolorach i o małej objętości.",
+      "w jasnych kolorach i o dużej objętości.",
+      "w ciemnych kolorach i o dużej objętości.",
+      "w ciemnych kolorach i o małej objętości."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 79,
+    "text": "Zaprojektowanie fryzury w stylu subkultury emo wymaga przygotowania rysunku fryzury spełniającej następujące warunki:",
+    "answers": [
+      "układ włosów we fryzurze statyczny, kompozycja kolorystyczna dynamiczna.",
+      "układ włosów we fryzurze rytmiczny, przeważający kolor włosów pastelowy.",
+      "grzywka asymetryczna, fryzura z przeważającym kolorem czarnym.",
+      "fryzura symetryczna, układ włosów statyczny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 80,
+    "text": "W celu skorygowania wklęsłego profilu twarzy należy zaprojektować fryzurę",
+    "answers": [
+      "o dużej objętości i z odkrytym czołem.",
+      "o małej objętości i z odkrytym czołem.",
+      "o dużej objętości i z grzywką.",
+      "o małej objętości i z grzywką."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 81,
+    "text": "Przedstawiony opis dotyczy fryzury w stylu Opis fryzury Fryzura damska wygodna, prosta, często z elementami męskiej stylizacji, o nieskomplikowanej formie, łatwa do ułożenia.",
+    "answers": [
+      "awangardowym.",
+      "sportowym.",
+      "klasycznym.",
+      "romantycznym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 82,
+    "text": "Klientka o czarnych włosach, piwnych oczach oraz jasnej i lekko rumieniącej się cerze reprezentuje typ urody",
+    "answers": [
+      "lato.",
+      "wiosna.",
+      "jesień.",
+      "zima."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 83,
+    "text": "Celem rozmowy konsultacyjnej z klientem przed wykonaniem usługi w salonie fryzjerskim jest określenie",
+    "answers": [
+      "terminu kolejnej wizyty klienta.",
+      "wzrostu i postawy klienta.",
+      "życzeń i oczekiwań klienta.",
+      "zasad pielęgnacji włosów przez klienta w domu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 84,
+    "text": "W celu wykonania analizy kolorystycznej klienta, niezbędne jest określenie:",
+    "answers": [
+      "koloru włosów, koloru oczu, koloru skóry klienta.",
+      "koloru skóry, faktury włosów, ilości siwizny klienta.",
+      "koloru oczu, długości nosa, kształtu czoła klienta.",
+      "koloru włosów, wielkości oczu, kształtu brwi klienta."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 85,
+    "text": "Klientce o mocno zarysowanej linii szczęki nie należy doradzać fryzury typu",
+    "answers": [
+      "paź zmodyfikowany.",
+      "chłopczyca.",
+      "bob klasyczny.",
+      "bombka."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 86,
+    "text": "Wykorzystywanym w projektowaniu fryzur zestawem barw pochodnych jest:",
+    "answers": [
+      "biały, czarny, niebieski.",
+      "zielony, fioletowy, pomarańczowy.",
+      "pomarańczowy, czerwony, niebieski.",
+      "zielony, czerwony, fioletowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 87,
+    "text": "Fryzura rozbudowana w dolnych partiach twarzy na linii szczęki, z grzywką zaczesaną na bok, optycznie skoryguje kształt twarzy",
+    "answers": [
+      "okrągłej.",
+      "trójkątnej.",
+      "romboidalnej.",
+      "kwadratowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 88,
+    "text": "Przedstawiona na rysunku sylwetka damska określana jest jako",
+    "answers": [
+      "klepsydra.",
+      "rożek.",
+      "jabłko.",
+      "kolumna."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_sylwetka10.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 89,
+    "text": "Który dodatek fryzjerski należy zastosować do rozjaśnienia dziennej fryzury klientki o ciemnych włosach?",
+    "answers": [
+      "Syntetyczne pasemko jasnych włosów.",
+      "Apaszkę w kolorze ciemnogranatowym.",
+      "Ozdobny kwiatek z tiulu.",
+      "Dużą, czarną spinkę do włosów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 90,
+    "text": "W celu realnego przedstawienia projektu proponowanej dla klientki fryzury należy posłużyć się",
+    "answers": [
+      "programem komputerowym.",
+      "rysunkiem żurnalowym.",
+      "szkicem ręcznym.",
+      "rysunkiem instruktażowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 91,
+    "text": "Która z wymienionych technik pozwala uzyskać łagodny charakter rysunku, delikatne stopniowanie koloru poprzez rozcieranie oraz możliwość retuszu?",
+    "answers": [
+      "Kredki świecowej.",
+      "Kredki pastelowej.",
+      "Akwareli.",
+      "Markera."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 92,
+    "text": "Klientce o cerze delikatnej o złotawym odcieniu, kremowej, z jasnymi złotymi piegami oraz jasnobrzoskwiniowymi rumieńcami, należy zaproponować kolor włosów w odcieniu",
+    "answers": [
+      "czerwonym.",
+      "popielatym.",
+      "czarnym.",
+      "złotym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 93,
+    "text": "Na zamieszczonej ilustracji przedstawiona jest fryzura o kompozycji",
+    "answers": [
+      "otwartej.",
+      "centralnej.",
+      "zamkniętej.",
+      "symetrycznej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_fryzura51.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 94,
+    "text": "Przestawiona na rysunku fryzura została wykonana techniką",
+    "answers": [
+      "farby plakatowej.",
+      "markera.",
+      "farby akwarelowej.",
+      "kredki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_fryzura52.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 95,
+    "text": "Zestawienie kolorystyczne przedstawione na ilustracji to kontrast",
+    "answers": [
+      "kolorowy - niekolorowy.",
+      "jasny - ciemny.",
+      "zimny - ciepły.",
+      "czysty - złamany."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_zestawienie2.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 96,
+    "text": "Męska sylwetka o ramionach szerszych od bioder, płaskim umięśnionym brzuchu, proporcjonalnych i umięśnionych nogach, to sylwetka typu",
+    "answers": [
+      "I",
+      "V",
+      "A",
+      "O"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 97,
+    "text": "Na ilustracji oznaczono podział porostu na separacje",
+    "answers": [
+      "poziome.",
+      "pionowe.",
+      "ukośne.",
+      "mieszane."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_podzial4.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 98,
+    "text": "Na zamieszczonej ilustracji czerwoną linią oznaczono",
+    "answers": [
+      "stabilne pasmo pamięci.",
+      "usytuowanie pasemek do koloryzacji włosów.",
+      "mobilne pasmo pamięci.",
+      "usytuowanie linii rozjaśniania włosów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_ilustracja3.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 99,
+    "text": "Wąskie czoło i szeroka, mocno zarysowana, prosta linia brody, to opis kształtu twarzy",
+    "answers": [
+      "trapezoidalnej.",
+      "prostokątnej.",
+      "trójkątnej.",
+      "romboidalnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 100,
+    "text": "W projekcie fryzury dla klientki o profilu wypukłym należy uwzględnić",
+    "answers": [
+      "prostą grzywkę i odsłonięte linie kości policzkowych.",
+      "symetryczna krótką grzywkę i długie włosy w tylnej partii głowy.",
+      "awangardową grzywkę i krótkie włosy w bocznych partiach.",
+      "postrzępioną grzywkę i zróżnicowane końcówki włosów skierowane na twarz."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 101,
+    "text": "Klientce o typie kolorystycznym jesień należy zaproponować włosy w kolorze",
+    "answers": [
+      "jasny naturalny brąz.",
+      "średni brąz w odcieniu miedzi.",
+      "rozświetlony jasny perłowy blond.",
+      "ciemny naturalny blond."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 102,
+    "text": "Grzywka zbieżna do środka osi symetrii twarzy zalecana jest dla osób",
+    "answers": [
+      "o wąskim czole.",
+      "o pełnych policzkach.",
+      "o krótkiej twarzy.",
+      "o szeroko rozstawionych oczach."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 103,
+    "text": "Fryzura, która optycznie skoryguje kształt twarzy kwadratowej, przedstawiona jest na",
+    "answers": [
+      "ilustracji 4.",
+      "ilustracji 1.",
+      "ilustracji 2.",
+      "ilustracji 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_fryzury10.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 104,
+    "text": "Jeżeli w projektowanej fryzurze włosy mają ten sam kierunek kolorystyczny i głębię, to kolorystyka włosów we fryzurze została zaprojektowana na zasadzie",
+    "answers": [
+      "nasycenia.",
+      "harmonii.",
+      "kontrastu.",
+      "ekspresji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 105,
+    "text": "W projekcie fryzury dla wysokiej i szczupłej klientki o długich włosach należy unikać form",
+    "answers": [
+      "puszystych i tapirowanych.",
+      "ułożonych w loki i fale.",
+      "o zwiększonej objętości w dolnej partii fryzury.",
+      "spiętrzonych na szczycie głowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 106,
+    "text": "Rysunek techniczny wykorzystywany w projektowaniu wykonywany jest przy użyciu",
+    "answers": [
+      "kredki.",
+      "farby olejnej.",
+      "farby akwarelowej.",
+      "ołówka."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 107,
+    "text": "Różnorodność usług oferowanych w salonie fryzjerskim zależna jest",
+    "answers": [
+      "od ilości zatrudnionych fryzjerów.",
+      "od kwalifikacji personelu.",
+      "od powierzchni salonu.",
+      "od rozmaitości produktów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 108,
+    "text": "Włosy kręcone półdługie, podatne na układanie i modelowanie, to włosy o teksturze",
+    "answers": [
+      "mieszanej.",
+      "gładkiej.",
+      "przestrzennej.",
+      "geometrycznej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 109,
+    "text": "Profil twarzy wyznaczają linie",
+    "answers": [
+      "brwi, ust i podbródka.",
+      "oczu, nosa i podbródka.",
+      "podbródka, nosa i czoła.",
+      "ust, nosa, czoła i oczu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 110,
+    "text": "W celu zwiększenia objętości koka typu banan należy użyć",
+    "answers": [
+      "wsuwek długich.",
+      "spinki płaskiej.",
+      "wypełniacza podłużnego.",
+      "szpilek kokówek."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 111,
+    "text": "Który rodzaj profilu i kształt twarzy nie wymagają optycznej korekcji?",
+    "answers": [
+      "Profil ukośny i twarz okrągła.",
+      "Profil ukośny i twarz owalna.",
+      "Profil regularny i twarz owalna.",
+      "Profil regularny i twarz okrągła."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 112,
+    "text": "Fryzura z włosów wycieniowanych i postrzępionych, z pazurkami nachodzącymi na twarz, zalecana jest dla klientki o twarzy w kształcie",
+    "answers": [
+      "trójkątnym.",
+      "okrągłym.",
+      "prostokątnym.",
+      "romboidalnym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 113,
+    "text": "Na ilustracji czerwoną ciągłą linią oznaczono kontur strzyżenia",
+    "answers": [
+      "wewnętrzny w formie trójkąta.",
+      "zewnętrzny w formie koła.",
+      "zewnętrzny w formie kwadratu.",
+      "wewnętrzny w formie owalu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_ilustracja2.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 114,
+    "text": "Fryzurę o zwiększonej objętości w górnej części twarzy i partii czołowej, należy zaproponować klientce o profilu",
+    "answers": [
+      "wypukłym.",
+      "okrągłym.",
+      "ukośnym.",
+      "wklęsłym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 115,
+    "text": "Który styl reprezentuje opisana fryzura? Opis fryzury Fryzura gładka, włosy mocno tapirowane, zaczesane do tyłu w koński ogon i upięte nad karkiem.",
+    "answers": [
+      "Koktajlowy.",
+      "Sportowy.",
+      "Romantyczny.",
+      "Awangardowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 116,
+    "text": "Do włosów cienkich i prostych o gładkiej teksturze, w celu optycznego zwiększenia objętości, należy zastosować kolory",
+    "answers": [
+      "jednolite lub z pasemkami i balejażem.",
+      "jasne z pasemkami i balejażem.",
+      "ciemne z kolorowymi pasemkami.",
+      "jasne z neonowymi pasemkami."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 117,
+    "text": "Do wykonania projektu fryzury zamieszczonej na ilustracji użyto linii",
+    "answers": [
+      "prostych.",
+      "zygzakowatych.",
+      "łukowatych.",
+      "spiralnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_fryzura53.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 118,
+    "text": "Duży kontrast kolorystyczny, asymetria i miniaturowa grzywka występują w stylu",
+    "answers": [
+      "sportowym.",
+      "eleganckim.",
+      "awangardowym.",
+      "romantycznym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 119,
+    "text": "Kolory uzupełniające wykorzystuje się we fryzjerstwie w celu",
+    "answers": [
+      "poszerzenia gamy kolorystycznej włosów.",
+      "wzmocnienia pożądanego odcienia koloryzacji.",
+      "neutralizacji niepożądanego odcienia koloryzacji.",
+      "podkreślenia kolorowych pasemek."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 120,
+    "text": "Na rysunku instruktażowym balejażu, szydełkowanie pasemek włosów za pomocą grzebienia należy oznaczyć linią",
+    "answers": [
+      "falistą.",
+      "przerywaną.",
+      "ciągłą.",
+      "łamaną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 121,
+    "text": "W celu złagodzenia ostrych rysów twarzy klientki w starszym wieku, najlepiej do koloryzacji globalnej włosów zaproponować farbę na poziomie",
+    "answers": [
+      "złamanego ciemnego brązu.",
+      "neonowego ciemnego blondu.",
+      "matowego ciemnego brązu.",
+      "pastelowego jasnego blondu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 122,
+    "text": "Którego typu urody klientki dotyczy opis? Cera w kolorze kości słoniowej, intensywnie czarne oczy, rumieniące się policzki, włosy w tonacji platynowego blondu.",
+    "answers": [
+      "Zimy.",
+      "Wiosny.",
+      "Jesieni.",
+      "Lata."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 123,
+    "text": "Projekt fryzury w stylu epoki rokoko wymaga uwzględnienia we fryzurze",
+    "answers": [
+      "zasłoniętego czoła i policzków oraz włosów w kolorze mahoniowego blondu.",
+      "odsłoniętego czoła i policzków oraz włosów w kolorze blondu.",
+      "rozbudowanej partii szczytowej oraz włosów jasnych, silnie pudrowanych.",
+      "rozbudowanych partii skroniowych i szczytowych w kolorze brązu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 124,
+    "text": "W celu uzyskania efektu ciepłej harmonii kolorystycznej po koloryzacji pasemek, należy zaprojektować we fryzurze kolorystykę w tonacji",
+    "answers": [
+      "popielatej, perłowej i fioletowej.",
+      "złotej, miedzianej i fioletowej.",
+      "złotej, miedzianej i czerwonej.",
+      "perłowej, fioletowej i czerwonej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 125,
+    "text": "Opisaną fryzurę należy zaprojektować jako fryzurę Fryzura dynamiczna, kontrastowa, o nowatorskiej linii oraz nasyconej kolorystyce włosów.",
+    "answers": [
+      "awangardową.",
+      "ślubną.",
+      "koktajlową.",
+      "wieczorową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 126,
+    "text": "W projekcie fryzury, która ma skorygować deformację głowy przedstawioną na rysunku, należy zaplanować zwiększenie długości włosów",
+    "answers": [
+      "w potylicznej partii głowy.",
+      "w skroniowych partiach głowy.",
+      "w czołowej partii głowy.",
+      "w ciemieniowej partii głowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_deformacja11.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 127,
+    "text": "Na zamieszczonym rysunku instruktażowym jest oznaczona koloryzacja wykonywana techniką",
+    "answers": [
+      "pasemek.",
+      "globalną.",
+      "panelową.",
+      "lukrowania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_rysunek38.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 128,
+    "text": "Przedstawiony rysunek instruktażowy dotyczy strzyżenia grzywki",
+    "answers": [
+      "prostej.",
+      "ukośnej.",
+      "wklęsłej.",
+      "wypukłej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_rysunek36.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 129,
+    "text": "Na zamieszczonym rysunku widoczny jest projekt fryzury męskiej o kompozycji",
+    "answers": [
+      "rytmicznej.",
+      "otwartej.",
+      "centralnej.",
+      "zamkniętej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_projekt4.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 130,
+    "text": "Linia konturu wewnętrznego fryzury, która optycznie poszerzy i skróci kształt twarzy, przedstawiona jest",
+    "answers": [
+      "na rysunku 4.",
+      "na rysunku 3.",
+      "na rysunku 1.",
+      "na rysunku 2."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_linie4.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 131,
+    "text": "Przedstawiony rysunek instruktażowy zabiegu rozjaśniania dotyczy kolejności",
+    "answers": [
+      "nakładania preparatu w sekcjach i separacjach.",
+      "aplikacji preparatu w sekcjach i na łodygę włosa.",
+      "aplikacji preparatu na odrosty w sekcjach.",
+      "nakładania preparatu w separacjach i na łodygę włosa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_rysunek37.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 132,
+    "text": "Do skorygowania odstających uszu i pooperacyjnej blizny nad lewym łukiem brwiowym, należy klientce zaproponować wykonanie fryzury",
+    "answers": [
+      "gładkiej w partii szczytowej, upiętej na szczycie, z pasmami włosów zaczesanymi za uszy oraz długą, obfitą grzywką.",
+      "puszystej w partii szczytowej, z pasmami włosów zaczesanymi za uszy oraz wypukłą grzywką.",
+      "puszystej w partiach bocznych, z pasmami włosów zaczesanymi na uszy oraz ukośną grzywką opadającą na lewą stronę.",
+      "gładkiej w partiach bocznych, z pasmami włosów zaczesanymi na uszy oraz ukośną grzywką opadającą na prawą stronę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 133,
+    "text": "Uzyskanie efektu stopniowania kolorystycznego fryzury, poprzez rozcieranie kresek palcami, wymaga zastosowania do wykonania projektu techniki",
+    "answers": [
+      "cienkopisu.",
+      "pasteli.",
+      "markera.",
+      "długopisu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 134,
+    "text": "W celu skorygowania kwadratowego kształtu twarzy, należy zaprojektować fryzurę z włosów",
+    "answers": [
+      "wystrzępionych, z delikatnymi pazurkami nad czołem i na policzkach.",
+      "kręconych, odsłaniających czoło i zakrywających policzki.",
+      "wyprostowanych, odsłaniających twarz, upiętych w partii szczytowej.",
+      "wygładzonych, upiętych nad karkiem i długą grzywką."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 135,
+    "text": "Klientce o zbyt długiej twarzy, w celu optycznego jej skrócenia, nie należy proponować formy fryzury z grzywką",
+    "answers": [
+      "asymetryczną.",
+      "wklęsłą.",
+      "poziomą.",
+      "symetryczną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 136,
+    "text": "W proporcjonalnym rysunku twarzy ludzkiej, odległość rozmieszczenia oczu powinna stanowić długość",
+    "answers": [
+      "ust.",
+      "oka.",
+      "brwi.",
+      "nosa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 137,
+    "text": "Fryzurę z włosów krótkich o kompozycji dynamicznej, zróżnicowaną kolorystycznie, należy zaprojektować jako formę fryzury w stylu",
+    "answers": [
+      "futurystycznym.",
+      "awangardowym.",
+      "klasycznym.",
+      "romantycznym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 138,
+    "text": "Na zamieszczonym rysunku instruktażowym, czerwoną linią oznaczono sekcje oraz",
+    "answers": [
+      "pasmo pamięci stabilne.",
+      "kontur zewnętrzny fryzury.",
+      "pasmo pamięci mobilne.",
+      "kontur zewnętrzny strzyżenia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_rysunek35.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 139,
+    "text": "Klientka puszysta o niskim wzroście, z długimi włosami, oczekuje poprawy wizerunku. Optyczne skorygowanie sylwetki można osiągnąć, projektując fryzurę z upięciem w partii",
+    "answers": [
+      "potylicznej.",
+      "szczytowej.",
+      "karku.",
+      "skroniowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 140,
+    "text": "Forma fryzury męskiej zaprezentowana na rysunku oparta jest na połączeniu kompozycji",
+    "answers": [
+      "asymetrycznej i otwartej.",
+      "symetrycznej i otwartej.",
+      "rytmicznej i centralnej.",
+      "zamkniętej i symetrycznej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_fryzura50.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 141,
+    "text": "Zaprojektowanie fryzury w stylu klasycznym wymaga przygotowania rysunku fryzury, która spełnia warunki:",
+    "answers": [
+      "forma kontrastowa, kompozycja dynamiczna, niecodzienność.",
+      "forma miękka, kompozycja rytmiczna, romantyczność.",
+      "forma prosta, kompozycja statyczna, uniwersalność.",
+      "forma prosta, kompozycja otwarta, swobodność."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 142,
+    "text": "Rysunek przedstawia sylwetkę damską typu",
+    "answers": [
+      "gruszka.",
+      "jabłko.",
+      "trójkąt.",
+      "ołówek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_sylwetka9.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 143,
+    "text": "Fryzurę damską, która uwzględnia wyraźny kontrast tekstury, należy zaprojektować z włosów",
+    "answers": [
+      "falistych i kręconych.",
+      "spiralnych i kręconych.",
+      "falistych i karbowanych.",
+      "prostych i karbowanych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 144,
+    "text": "Na rysunku przedstawiono twarz o profilu",
+    "answers": [
+      "okrągłym.",
+      "klasycznym.",
+      "wklęsłym.",
+      "wypukłym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_twarz14.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 145,
+    "text": "Zamieszczony opis dotyczy twarzy o kształcie Twarz o jednakowej długości i szerokości; proste linie policzków; czoło niskie o wypukłej linii.",
+    "answers": [
+      "owalnym.",
+      "okrągłym.",
+      "romboidalnym.",
+      "trapezoidalnym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 146,
+    "text": "W trakcie rozmowy konsultacyjnej przed wykonaniem usługi w salonie, fryzjer nie ustala oczekiwań klientki w zakresie",
+    "answers": [
+      "formy fryzury.",
+      "długości włosów.",
+      "kolorystyki włosów.",
+      "pielęgnacji domowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 147,
+    "text": "Stuprocentowe powiększenie rozmiarów rysunku fryzury, podczas kopiowania metodą skalowania, wymaga zastosowania skali",
+    "answers": [
+      "2:4",
+      "2:2",
+      "4:1",
+      "4:2"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 148,
+    "text": "Dla podkreślenia kolorystycznego typu urody jesieni, należy klientce zaproponować zmianę koloru włosów na odcień",
+    "answers": [
+      "granatowy.",
+      "fioletowy.",
+      "popielaty.",
+      "miedziany."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 149,
+    "text": "Do projektowania opisanej fryzury została wykorzystana kompozycja Fryzura o kontrastowych, ukośnych liniach, dających wrażenie napięcia i ruchu.",
+    "answers": [
+      "centralna.",
+      "statyczna.",
+      "dynamiczna.",
+      "rytmiczna."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 150,
+    "text": "Przedstawiony na rysunku projekt fryzury wykonany został techniką",
+    "answers": [
+      "twardego ołówka.",
+      "cienkiego pisaka.",
+      "sprasowanego węgla.",
+      "kredki akwarelowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_projekt5.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 151,
+    "text": "Przedstawiona na rysunku fryzura optycznie skoryguje twarz o kształcie",
+    "answers": [
+      "prostokątnym.",
+      "kwadratowym.",
+      "okrągłym.",
+      "trójkątnym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_fryzura48.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 152,
+    "text": "W celu podkreślenia zimnego typu urody klientki, jako elementu dekoracyjnego fryzury wieczorowej należy użyć",
+    "answers": [
+      "bursztynowej spinki.",
+      "spinki ze złotymi kwiatkami.",
+      "srebrnego diademu.",
+      "opaski z neonowymi koralikami."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 153,
+    "text": "Przedstawiony symbol stosowany jest na rysunku instruktażowym fryzury do oznaczania wykonania czynności",
+    "answers": [
+      "separowania pasm włosów do strzyżenia.",
+      "separowania pasm włosów do modelowania.",
+      "szczotkowania włosów.",
+      "tapirowania włosów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_symbol2.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 154,
+    "text": "Którego typu sylwetki dotyczy zamieszczony opis? Ramiona i biodra proporcjonalne, wyraźnie zaznaczona talia, obfity biust.",
+    "answers": [
+      "Jabłka.",
+      "Tuby.",
+      "Gruszki.",
+      "Klepsydry."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 155,
+    "text": "Na twarzy klientki widoczny jest trądzik różowaty. W celu optycznego zatuszowania niedoskonałości cery, należy jej zaproponować wykonanie koloryzacji włosów w tonacji",
+    "answers": [
+      "złota.",
+      "brązu.",
+      "miedzi.",
+      "czerwieni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 156,
+    "text": "Klientka niskiego wzrostu z krótkimi włosami oczekuje zaplanowania fryzury okazjonalnej, która optycznie podwyższy sylwetkę. W tym celu, jako dodatku fryzjerskiego należy użyć",
+    "answers": [
+      "opaski na włosach w ciemieniowej partii głowy.",
+      "klipsa z motywem kwiatowym w skroniowej partii głowy.",
+      "grzebienia z woalką zakrywającą czoło.",
+      "kapelusika w czołowo - ciemieniowej partii głowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 157,
+    "text": "Gładką teksturę włosów grubych i sztywnych podkreśli w zaprojektowanej fryzurze uwzględnienie",
+    "answers": [
+      "jasnych pasemek.",
+      "ciemnych pasemek.",
+      "jednolitej jasnej koloryzacji.",
+      "jednolitej ciemnej koloryzacji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 158,
+    "text": "Wykonanie rysunku fryzury z zachowaniem kanonu sylwetki osoby dorosłej wymaga, by wielkość głowy stanowiła",
+    "answers": [
+      "1/6 wysokości całej sylwetki.",
+      "1/8 wysokości całej sylwetki.",
+      "1/10 wysokości całej sylwetki.",
+      "1/9 wysokości całej sylwetki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 159,
+    "text": "Na rysunku instruktażowym przedstawiony jest podział porostu na sekcje",
+    "answers": [
+      "krzyżowe.",
+      "klasyczne.",
+      "do linii kapelusza.",
+      "trójkątne."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_rysunek33.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 160,
+    "text": "Przedstawiony opis dotyczy klientki o kształcie sylwetki typu Opis sylwetki klientki Kanon sylwetki damskiej oparty na harmonii i opływowej linii. Biodra i biust równych rozmiarów, a talia mniejsza o 1/3.",
+    "answers": [
+      "tuba.",
+      "stożek.",
+      "gruszka.",
+      "klepsydra."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 161,
+    "text": "Dla podkreślenia urody klientki o zielonych oczach i ziemistej cerze, w projekcie fryzury uwzględniającej typ kolorystyczny urody należy zaplanować koloryzację włosów w tonacji",
+    "answers": [
+      "czerni.",
+      "miedzi.",
+      "popielu.",
+      "fioletu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 162,
+    "text": "W celu podkreślenia gładkiej struktury włosów, należy zaprojektować dla klientki koloryzację",
+    "answers": [
+      "globalną w jasnej tonacji.",
+      "pasm w ciemnej tonacji.",
+      "globalną w ciemnej tonacji.",
+      "pasm w jasnej tonacji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 163,
+    "text": "Które cechy uformowania fryzury charakteryzują uczesanie okolicznościowe?",
+    "answers": [
+      "Prosta, wygodna i praktyczna.",
+      "Wyjątkowa, niepowtarzalna i dekoracyjna.",
+      "Elegancka i niezobowiązująca.",
+      "Skromna i estetyczna."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 164,
+    "text": "Którą deformację głowy oznaczono na rysunku czerwoną linią?",
+    "answers": [
+      "Spłaszczenie czołowe i wybrzuszenie wierzchołka głowy.",
+      "Wybrzuszenie części ciemieniowej.",
+      "Spłaszczenie części ciemieniowej.",
+      "Wybrzuszenie czołowe i spłaszczenie wierzchołka głowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_deformacja9.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 165,
+    "text": "Które cechy budowy są charakterystyczne dla twarzy kwadratowej?",
+    "answers": [
+      "Twarz symetryczna i proporcjonalna o łagodnych rysach twarzy, najszersze miejsce na wysokości kości policzkowych, linia czoła i podbródka miękko zaokrąglona.",
+      "Długość i szerokość twarzy są równe, mocno zarysowane kości szczękowe i szeroki podbródek, czoło płaskie o prostej linii granicy porostu włosów.",
+      "Twarz wąska i mocno wydłużona, równa w linii czoła i żuchwy, o płaskich i wydłużających się policzkach.",
+      "Ostre rysy twarzy, niskie czoło, kości policzkowe osadzone najczęściej na wysokości oczu, stanowią najszerszą część twarzy, broda wydłużona z wyrazistym, spiczastym podbródkiem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 166,
+    "text": "Zamieszczony opis dotyczy sylwetki męskiej typu Opis sylwetki klienta Szerokie i rozbudowane ramiona, wąskie biodra, szczupłe i umięśnione nogi.",
+    "answers": [
+      "piłka.",
+      "jabłko.",
+      "trójkąt.",
+      "ołówek."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 167,
+    "text": "Stopień projekcji, przedstawiony na rysunku instruktażowym, wynosi",
+    "answers": [
+      "30 stopni.",
+      "90 stopni.",
+      "0 stopni.",
+      "45 stopni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_rysunek26.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 168,
+    "text": "Techniką rysunkową, której należy użyć do tworzenia projektu koncepcyjnego fryzury, jest technika",
+    "answers": [
+      "ołówka.",
+      "farby olejnej.",
+      "kalki technicznej.",
+      "siatki rysunkowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 169,
+    "text": "Forma fryzury uważana za kanon wzorcowy, stanowiący bazę wyjściową podczas projektowania różnorodnych fryzur, określa styl",
+    "answers": [
+      "awangardowy.",
+      "sportowy.",
+      "klasyczny.",
+      "romantyczny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 170,
+    "text": "Klientka oczekuje wykonania zabiegu koloryzacji, który będzie miał cechy kontrastu typu jasny – ciemny. Które połączenie kolorystyczne spełni życzenie klientki?",
+    "answers": [
+      "Nasycony beżowy i brązowy.",
+      "Popielaty blond i złoty.",
+      "Ciemny fioletowy i czarny.",
+      "Intensywny rudy i czerwony."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 171,
+    "text": "Forma fryzury charakteryzująca się dużą dowolnością, wzbogacona kolorowymi pasmami włosów i przestrzennymi dopinkami, jest typem fryzury",
+    "answers": [
+      "dziennej.",
+      "sportowej.",
+      "awangardowej.",
+      "koktajlowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 172,
+    "text": "Która ilustracja przedstawia projekt fryzury męskiej specjalnej w formie jeża karo?",
+    "answers": [
+      "Ilustracja 4.",
+      "Ilustracja 2.",
+      "Ilustracja 1.",
+      "Ilustracja 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_fryzury8.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 173,
+    "text": "Zamieszczony opis dotyczy twarzy o profilu Opis twarzy Spłaszczone czoło, krótka zaokrąglona broda tworząca jedną inię z szyją. Elementy twarzy widoczne z profilu tworzą linię półokrągłą.",
+    "answers": [
+      "ukośnym.",
+      "wypukłym.",
+      "okrągłym.",
+      "wklęsłym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 174,
+    "text": "Koloryzacja włosów w kolorze średniego brązu i jasnych pasm optycznie zwiększy objętość włosów",
+    "answers": [
+      "grubych i kędzierzawych.",
+      "cienkich i kręconych.",
+      "cienkich i prostych.",
+      "grubych i puszystych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 175,
+    "text": "Którą formę brody przedstawiono na ilustracji?",
+    "answers": [
+      "Muchę.",
+      "Hiszpańską.",
+      "Ściernisko.",
+      "Pełną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_ilustracja.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 176,
+    "text": "Klientka ma czarny kolor oczu i jasną cerę z rumieńcami. Dla podkreślenia jej kolorystycznego typu urody, należy zaproponować koloryzację włosów w odcieniach",
+    "answers": [
+      "mahoniowego ciemnego brązu.",
+      "popielatego jasnego blondu.",
+      "miedzianego jasnego brązu.",
+      "złotego ciemnego blondu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 177,
+    "text": "Na przedstawionym rysunku instruktażowym oznaczono",
+    "answers": [
+      "stabilne pasmo pamięci.",
+      "mobilne pasmo pamięci.",
+      "kontur zewnętrzny fryzury.",
+      "kontur zewnętrzny strzyżenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_rysunek28.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 178,
+    "text": "Przedstawiony opis dotyczy klientki o sylwetce w kształcie litery Opis sylwetki klientki Szczupła budowa ciała, ramiona, talia i biodra mają tę samą szerokość.",
+    "answers": [
+      "H",
+      "A",
+      "X",
+      "V"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 179,
+    "text": "Przedstawiona na ilustracji ozdoba używana jest jako dodatek do fryzury",
+    "answers": [
+      "użytkowej.",
+      "dziennej.",
+      "okolicznościowej.",
+      "sportowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_ozdoba2.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 180,
+    "text": "Który profil jest przedstawiony na rysunku?",
+    "answers": [
+      "Ukośny.",
+      "Wklęsły.",
+      "Regularny.",
+      "Wypukły."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_profil5.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 181,
+    "text": "Na której ilustracji przedstawiono linię baków optycznie wyszczuplającą twarz klienta?",
+    "answers": [
+      "Na ilustracji 3.",
+      "Na ilustracji 1.",
+      "Na ilustracji 4.",
+      "Na ilustracji 2."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_baki2.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 182,
+    "text": "Która ilustracja przedstawia wąsy w formie muchy?",
+    "answers": [
+      "Ilustracja 2.",
+      "Ilustracja 1.",
+      "Ilustracja 4.",
+      "Ilustracja 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_wasy.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 183,
+    "text": "Które separacje, oznaczone na rysunku instruktażowym, będą wpływały na zmniejszenie objętości włosów przy twarzy, a zwiększenie objętości z tyłu głowy projektowanej fryzury?",
+    "answers": [
+      "Pionowe.",
+      "Ukośne do przodu.",
+      "Poziome.",
+      "Ukośne do tyłu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_rysunek25.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 184,
+    "text": "Która informacja, uzyskana podczas konsultacji z klientem, nie wpłynie na efekt końcowy ondulowania chemicznego włosów?",
+    "answers": [
+      "Termin kolejnej wizyty w salonie.",
+      "Uzgodnienia dotyczące siły skrętu.",
+      "Oczekiwania dotyczące formy fryzury.",
+      "Problemy dotyczące włosów i skóry głowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 185,
+    "text": "Przedstawiony opis dotyczy twarzy w kształcie Opis twarzy Twarz kanciasta, mocno rozbudowane kości policzkowe, wąski podbródek i czoło.",
+    "answers": [
+      "trójkąta.",
+      "kwadratu.",
+      "rombu.",
+      "trapezu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 186,
+    "text": "Który zestaw kolorystyczny posłuży do uzyskania chłodnego odcienia włosów?",
+    "answers": [
+      "Popielaty blond i mikston niebieski.",
+      "Jasny blond i mikston czerwony.",
+      "Średni blond i mikston pomarańczowy.",
+      "Platynowy blond i mikston złoty."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 187,
+    "text": "Przedstawiony opis dotyczy urody klientki o typie kolorystycznym Opis klientki Włosy czarne z poświatą ciemnego i chłodnego brązu, cera jasna i porcelanowa w odcieniu niebieskawym.",
+    "answers": [
+      "zima.",
+      "wiosna.",
+      "lato.",
+      "jesień."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 188,
+    "text": "Dla optycznego skorygowania zbyt wysokiego czoła, klientce należy zaproponować fryzurę z grzywką",
+    "answers": [
+      "opadającą luźno na bok.",
+      "zaczesaną gładko do góry.",
+      "upiętą ściśle na szczycie głowy.",
+      "zaplecioną gładko do części ciemieniowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 189,
+    "text": "Który rysunek instruktażowy przedstawia formę orbitalną koloryzacji?",
+    "answers": [
+      "Rysunek 2.",
+      "Rysunek 3.",
+      "Rysunek 1.",
+      "Rysunek 4."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_rysunki2.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 190,
+    "text": "Które strzyżenie należy zaproponować klientowi preferującemu fryzury klasyczne o wydłużonej linii cięcia?",
+    "answers": [
+      "Klasyczne krótkie.",
+      "Klasyczne półkrótkie.",
+      "Klasyczne półdługie.",
+      "Klasyczne całkowite."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 191,
+    "text": "Projektując fryzurę dla klientki o cienkich włosach, w celu optycznego zwiększenia ich objętości, należy zaprojektować koloryzację",
+    "answers": [
+      "rozjaśnienia końcówek włosów.",
+      "przyciemnienia włosów na całej długości.",
+      "przyciemnienia końcówek włosów.",
+      "rozjaśnienia cienkich pasemek na całej długości."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 192,
+    "text": "Na rysunku instruktażowym przedstawiony jest podział porostu włosów na separacje",
+    "answers": [
+      "diagonalne.",
+      "horyzontalne.",
+      "trójkątne.",
+      "wertykalne."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_rysunek27.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 193,
+    "text": "Na której ilustracji przedstawiono linię konturu wewnętrznego fryzury korygującą ostre rysy twarzy oraz wysokie i cofnięte czoło?",
+    "answers": [
+      "Na ilustracji 4.",
+      "Na ilustracji 2.",
+      "Na ilustracji 1.",
+      "Na ilustracji 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_ilustracje.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 194,
+    "text": "Konsultacją fryzjera z klientem, opartą na komunikacji werbalnej, jest",
+    "answers": [
+      "postawa.",
+      "rozmowa.",
+      "mimika twarzy.",
+      "kontakt wzrokowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 195,
+    "text": "Projekt fryzury w stylu etnicznym nie zawiera elementów * zdający otrzymuje jeden punkt niezależnie od udzielonej odpowiedzi.",
+    "answers": [
+      "afro. \nB.  rasta. \nC.  dredów. \nD.  cornrows."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 196,
+    "text": "Który rysunek instruktażowy przedstawia separacje horyzontalne?",
+    "answers": [
+      "Rysunek 4.",
+      "Rysunek 3.",
+      "Rysunek 1.",
+      "Rysunek 2."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_rysunki3.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 197,
+    "text": "Przedstawiony na ilustracji dodatek fryzjerski, należy użyć do formowania fryzury z włosów cienkich i delikatnych, w formę fryzury typu",
+    "answers": [
+      "kłos.",
+      "plecionka.",
+      "chłopczyca.",
+      "banan."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_dodatek2.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 198,
+    "text": "Przedstawiony opis dotyczy fryzury uzyskanej na bazie strzyżenia w formie Opis fryzury Długość włosów jednakowa na całej głowie. Kształt fryzury zaokrąglony zgodnie z płaszczyzną głowy.",
+    "answers": [
+      "owalu.",
+      "kwadratu.",
+      "koła.",
+      "trójkąta."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 199,
+    "text": "Szarobrązowe i niezbyt widoczne piegi występują u osoby reprezentującej kolorystyczny typ urody",
+    "answers": [
+      "lato.",
+      "jesień.",
+      "zima.",
+      "wiosna."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 200,
+    "text": "Grzywkę symetryczną, długą o prostej linii strzyżenia należy polecić klientce o kształcie twarzy",
+    "answers": [
+      "okrągłej.",
+      "prostokątnej.",
+      "kwadratowej.",
+      "trójkątnej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 201,
+    "text": "Który dodatek fryzjerski przeznaczony jest dla mężczyzn i używany do zatuszowania braku włosów w górnej części głowy?",
+    "answers": [
+      "Wypełniacz.",
+      "Dopinka.",
+      "Treska.",
+      "Tupet."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 202,
+    "text": "Na zamieszczonym rysunku instruktażowym zabiegu strzyżenia przedstawiono podział włosów na",
+    "answers": [
+      "separacje poziome.",
+      "sekcje krzyżowe.",
+      "separacje diagonalne.",
+      "sekcje klasyczne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk03/au26_rysunek6.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 203,
+    "text": "Klientka ma fryzurę z włosów w kolorze czarnym, prostych, równych sięgających do linii ramion. Na podstawie opisu określ kompozycję fryzury klientki.",
+    "answers": [
+      "Zamknięta.",
+      "Asymetryczna.",
+      "Otwarta.",
+      "Centralna."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 204,
+    "text": "Fryzurę o małej objętości i włosach prostych silnie asymetrycznych postrzępionych w różnorodnej kolorystyce należy polecić klientce reprezentującej styl",
+    "answers": [
+      "awangardowy.",
+      "sportowy.",
+      "klasyczny.",
+      "romantyczny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 205,
+    "text": "Klientka oczekuje optycznego powiększenia objętości półdługich, cienkich włosów. Który z zaprojektowanych zabiegów koloryzacji pozwoli uzyskać oczekiwany efekt?",
+    "answers": [
+      "Przyciemnienie końcówek włosów.",
+      "Rozjaśnienie pasemek włosów.",
+      "Rozjaśnienie końcówek włosów.",
+      "Przyciemnienie całej długości włosów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 206,
+    "text": "Klientka o włosach w kolorze średniego brązu, cerze ciemnobeżowej i brązowych oczach z zielonkawą poświatą reprezentuje kolorystyczny typ urody",
+    "answers": [
+      "lata.",
+      "wiosny.",
+      "zimy.",
+      "jesieni."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 207,
+    "text": "W celu skorygowania wypukłego profilu twarzy należy zaprojektować fryzurę",
+    "answers": [
+      "średniej długości z grzywką.",
+      "średniej długości bez grzywki.",
+      "krótką symetryczną.",
+      "krótką asymetryczną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 208,
+    "text": "Zamieszczony opis dotyczy klientki, która jest reprezentantką stylu Opis klientki Włosy klientki są długie, falowane, z niesforną grzywką. Elementem zdobniczym fryzury jest kwiat. Klientka jest ubrana w długą i zwiewną sukienkę.",
+    "answers": [
+      "sportowego.",
+      "klasycznego.",
+      "romantycznego.",
+      "awangardowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 209,
+    "text": "W celu optycznego korygowania kwadratowego kształtu twarzy należy zaprojektować fryzurę z grzywką",
+    "answers": [
+      "krótką prostą.",
+      "długą asymetryczną.",
+      "długą symetryczną.",
+      "krótką strzępioną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 210,
+    "text": "Zamieszczony opis dotyczy twarzy o kształcie profilu Opis twarzy Środkowa część twarzy jest wyraźnie wysunięta, natomiast czoło i broda w stosunku do części środkowej są cofnięte.",
+    "answers": [
+      "okrągłym.",
+      "wypukłym.",
+      "regularnym.",
+      "ukośnym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 211,
+    "text": "Ołówek o twardości 8B, podczas projektowania fryzury należy zastosować do",
+    "answers": [
+      "lawowania fryzury.",
+      "rozjaśniania linii fryzury.",
+      "laserunku fryzury.",
+      "zmatowienia linii fryzury."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 212,
+    "text": "Przedstawione na rysunku spinki należy zastosować jako dodatek w projektowanej fryzurze",
+    "answers": [
+      "sportowej.",
+      "dziecięcej.",
+      "wieczorowej.",
+      "koktajlowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk03/au26_spinki.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 213,
+    "text": "W celu radykalnej zmiany koloru włosów z czarnego na jasny należy dla osoby o chłodnym typie kolorystycznym urody zaprojektować kolor włosów w odcieniu",
+    "answers": [
+      "miedzianym.",
+      "brzoskwiniowym.",
+      "platynowym.",
+      "złotym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 214,
+    "text": "Farby akrylowe podczas projektowania fryzur umożliwiają",
+    "answers": [
+      "łączenie ze sobą różnego rodzaju farb.",
+      "nakładanie na siebie dwóch kolorów przeciwstawnych.",
+      "uzyskanie zmatowienia i monochromatyczności.",
+      "łączenie wielu technik i uzyskanie efektu światłocienia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 215,
+    "text": "Opis dotyczy sylwetki typu Opis sylwetki Mały biust, wydłużona talia i stosunkowo płaski brzuch. Biodra są duże, uda pełne i masywne.",
+    "answers": [
+      "jabłko.",
+      "klepsydra.",
+      "rożek.",
+      "gruszka."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 216,
+    "text": "Które zestawienia kolorystyczne należy zaprojektować dla klientki o włosach cienkich i gładkiej teksturze w celu zwiększenia optycznie objętości włosów?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk03/au26_fryzury3.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 217,
+    "text": "Opisana fryzura została zaprojektowana w stylu Opis fryzury Prosta, wygodna i funkcjonalna, może zawierać elementy męskiej stylizacji. Posiada nieskomplikowane formy, które dają możliwość samodzielnego uczesania.",
+    "answers": [
+      "awangardowym.",
+      "romantycznym.",
+      "klasycznym.",
+      "sportowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 218,
+    "text": "Do skalowania fryzury techniką rysunkową należy użyć",
+    "answers": [
+      "aparatu cyfrowego.",
+      "kserokopiarki.",
+      "pantografu.",
+      "skanera."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 219,
+    "text": "Fryzurę przeznaczoną dla klientki zrównoważonej i spokojnej należy zaprojektować z zastosowaniem zasad kompozycji",
+    "answers": [
+      "dynamicznej symetrycznej.",
+      "centralnej asymetrycznej.",
+      "rytmicznej asymetrycznej.",
+      "statycznej symetrycznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 220,
+    "text": "Linia przerywana na rysunkach instruktażowych fryzur jest stosowana do oznaczania",
+    "answers": [
+      "pasma pamięci w strzyżeniu.",
+      "kierunku nawinięcia pasm włosów.",
+      "elementów znajdujących się w miejscach niewidocznych.",
+      "konturów wewnętrznych i zewnętrznych w strzyżeniu na pióro."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 221,
+    "text": "Dla klienta o okrągłej twarzy i pełnych policzkach należy zaprojektować baki",
+    "answers": [
+      "trójkątne.",
+      "proste.",
+      "prostokątne.",
+      "kwadratowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 222,
+    "text": "W celu optycznego skorygowania zbyt długiej i szczupłej szyi należy zaproponować fryzurę widoczną na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk03/au26_fryzury4.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 223,
+    "text": "Które cechy budowy twarzy są charakterystyczne dla kształtu romboidalnego?",
+    "answers": [
+      "Zaokrąglona w części skroniowej.",
+      "Wąska i dość kanciasta.",
+      "Najszersza na linii kości policzkowych.",
+      "Najszersza w dolnej partii policzków i na kącie żuchwy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 224,
+    "text": "Który rodzaj deformacji został oznaczony na rysunku?",
+    "answers": [
+      "Wybrzuszenie części czołowej i spłaszczenie wierzchołka głowy.",
+      "Wybrzuszenie wierzchołka i spłaszczenie potyliczne głowy.",
+      "Wybrzuszenie ciemieniowe i spłaszczony tył głowy.",
+      "Wybrzuszenie czoła i części ciemieniowej oraz spłaszczony tył głowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk03/au26_deformacja2.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 225,
+    "text": "Do której cechy koloru odnosi się w palecie kolorystycznej farb określenie opalizujący?",
+    "answers": [
+      "Skala danego koloru.",
+      "Odcień danego koloru.",
+      "Głębia koloru.",
+      "Poziom koloru."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 226,
+    "text": "Która fryzura będzie niekorzystna dla osoby o wąskim, wysokim czole i szpiczastym nosie?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk03/au26_fryzury2.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 227,
+    "text": "Na rysunku instruktażowym fryzury linia graniczna między górną granicą włosów a otoczeniem wyznacza kontur",
+    "answers": [
+      "wewnętrzny strzyżenia.",
+      "zewnętrzny strzyżenia.",
+      "zewnętrzny fryzury.",
+      "wewnętrzny fryzury."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 228,
+    "text": "Która deformacja głowy jest oznaczona na zamieszczonym rysunku?",
+    "answers": [
+      "Lewostronne spłaszczenie partii bocznych.",
+      "Prawostronne spłaszczenie partii bocznych.",
+      "Czołowe spłaszczenie głowy.",
+      "Potyliczne spłaszczenie głowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk03/au26_deformacja3.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 229,
+    "text": "W celu zaprojektowania fryzury z zestawienia barw przeciwstawnych należy zastosować w projekcie kontrast",
+    "answers": [
+      "ciepły – zimny.",
+      "pastelowy – złamany.",
+      "złamany – zmatowiony.",
+      "achromatyczny – chromatyczny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 230,
+    "text": "Klientka o typie urody wiosna oczekuje zmiany koloru włosów na taki, który podkreśli jej obecny typ urody. W celu uzyskania oczekiwanego efektu należy zaproponować zestaw kolorów",
+    "answers": [
+      "ciepły – jasny.",
+      "zimny – jasny.",
+      "ciepły – ciemny.",
+      "zimny – ciemny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 231,
+    "text": "W celu skorygowania ukośnego profilu twarzy z cofniętym czołem należy zaprojektować fryzurę",
+    "answers": [
+      "półdługą z prostą, pełną grzywką.",
+      "półdługą z odsłoniętym czołem.",
+      "krótką z odsłoniętym czołem.",
+      "krótką z symetrycznym przedziałkiem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 232,
+    "text": "Do diagnozy kolorystycznej klientki wykonywanej podczas projektowania fryzury używane są specjalne kawałki tkaniny profesjonalnie nazywane",
+    "answers": [
+      "chustami modowymi.",
+      "chustami garderobianymi.",
+      "apaszkami garderobianymi.",
+      "apaszkami modowymi."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 233,
+    "text": "Na zamieszczonym rysunku przedstawiono sylwetkę damską typu",
+    "answers": [
+      "klepsydra.",
+      "rożek.",
+      "tuba.",
+      "jabłko."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk03/au26_rysunek5.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 234,
+    "text": "Które cechy męskiej budowy ciała są charakterystyczne dla kształtu sylwetki typu jabłko?",
+    "answers": [
+      "Ramiona są nieznacznie szersze od bioder i brzucha.",
+      "Brzuch jest dominującym, najszerszym elementem budowy ciała.",
+      "Brzuch biodra i ramiona tworzą jednolitą linię.",
+      "Ramiona i biodra są niemal identycznej szerokości."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 235,
+    "text": "Na zamieszczonym rysunku instruktażowym zabiegu koloryzacji przedstawiono sposób wykonania",
+    "answers": [
+      "pasemek.",
+      "balejażu.",
+      "sombre.",
+      "ombre."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk03/au26_rysunek7.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 236,
+    "text": "Portfolio we fryzjerstwie to",
+    "answers": [
+      "komputerowy dobór fryzur i makijażu.",
+      "katalog przykładowych prac autorskich.",
+      "program do projektowania fryzur.",
+      "zastosowana technologia pracy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 237,
+    "text": "Których dodatków fryzjerskich należy użyć do projektowania fryzury w stylu romantycznym?",
+    "answers": [
+      "Fioletowych tresek prostych.",
+      "Różowych cienkich wstążeczek.",
+      "Czarnych spinek plastikowych.",
+      "Czerwonych dużych klamer."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 238,
+    "text": "Który kształt grzywki skoryguje optycznie u klientki zbyt blisko osadzone oczy?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk03/au26_fryzury.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 239,
+    "text": "Który kształt twarzy przedstawiono na rysunku?",
+    "answers": [
+      "Trójkątny.",
+      "Owalny.",
+      "Prostokątny.",
+      "Trapezoidalny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk03/au26_twarz.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 240,
+    "text": "Zamieszczony opis dotyczy twarzy o kształcie Opis twarzy Twarz jest kanciasta o jednakowej szerokości i wysokości. Czoło i podbródek są szerokie. Żuchwa jest mocno zarysowana i uwydatniona, a boczne parte twarzy nie mają zaokrągleń. Usta są pełne. Oczy są duże z widocznymi w pełni powiekami.",
+    "answers": [
+      "kwadratu.",
+      "prostokąta.",
+      "rombu.",
+      "trójkąta."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 241,
+    "text": "Projekt koloryzacji włosów w barwach stłumionych, zimnych należy zaproponować klientce reprezentującej kolorystyczny typ urody",
+    "answers": [
+      "lata.",
+      "jesieni.",
+      "zimy.",
+      "wiosny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 242,
+    "text": "Który rodzaj linii jest wykorzystywany w projektowaniu fryzury romantycznej w celu złagodzenia ostrych rysów twarzy lub wystającego podbródka?",
+    "answers": [
+      "Łamana.",
+      "Półokrągła.",
+      "Falista.",
+      "Prosta."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 243,
+    "text": "Dla klientki, która jest reprezentantką typu kolorystycznego lato i ma cienkie, delikatne, średniej długości włosy, należy zaprojektować fryzurę w kolorach",
+    "answers": [
+      "ciemnych ciepłych.",
+      "jasnych ciepłych.",
+      "ciemnych zimnych.",
+      "jasnych zimnych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 244,
+    "text": "Na rysunku instruktażowym zabiegu strzyżenia damskiego przedstawiono projekcję wynoszącą",
+    "answers": [
+      "90º",
+      "45º",
+      "0º",
+      "60º"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk03/au26_rysunek3.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 245,
+    "text": "Do którego kształtu twarzy nie należy projektować fryzur z przedziałkiem symetrycznym?",
+    "answers": [
+      "Okrągłego.",
+      "Owalnego.",
+      "Prostokątnego.",
+      "Romboidalnego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 246,
+    "text": "Na rysunku przedstawiono reprezentantkę kolorystycznego typu urody",
+    "answers": [
+      "zima.",
+      "lato.",
+      "jesień.",
+      "wiosna."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk03/au26_rysunek.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 247,
+    "text": "Przedstawiony rysunek poglądowy fryzury został wykonany techniką",
+    "answers": [
+      "markera.",
+      "kredki.",
+      "farby akwarelowej.",
+      "kredki świecowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk03/au26_fryzura5.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 248,
+    "text": "Opisana fryzura została zaprojektowana jako Opis fryzury Ten typ fryzury jest bardziej wyrazisty i mocniej utrwalony niż fryzura dzienna. Fryzura ma formę pośrednią pomiędzy dzienną a wieczorową. Często podkreśla się jeden wybrany element fryzury.",
+    "answers": [
+      "ślubna.",
+      "koktajlowa.",
+      "artystyczna.",
+      "konkursowa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 249,
+    "text": "Która linia konturu wewnętrznego fryzury optycznie skoryguje ostre rysy twarzy oraz wysokie i cofnięte czoło?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk03/au26_twarze.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 250,
+    "text": "Który kolor włosów należy zaprojektować we fryzurze w celu podkreślenia naturalnej urody klientki reprezentującej typ kolorystyczny zima?",
+    "answers": [
+      "Ciemny mahoniowy blond.",
+      "Jasny tycjanowy blond.",
+      "Ciemny złoty blond.",
+      "Jasny platynowy blond."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 251,
+    "text": "Dla klientki reprezentującej typ kolorystyczny lato należy zaprojektować fryzurę w odcieniach",
+    "answers": [
+      "mahoniowych.",
+      "popielatych.",
+      "rudych.",
+      "złocistych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 252,
+    "text": "Klientka ma cofniętą środkową część twarzy w okolicach nosa oraz delikatnie wysunięte czoło i brodę. W celu optycznego skorygowania kształtu profilu twarzy należy klientce zaproponować fryzurę z grzywką symetryczną",
+    "answers": [
+      "puszystą krótką.",
+      "puszystą długą.",
+      "długą gładką.",
+      "krótką gładką."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 253,
+    "text": "Do zaprojektowania opisanej fryzury zastosowano kompozycję Opis fryzury Fryzura z przedziałkiem, w której strony uczesania różnią się od siebie rozmieszczeniem elementów i kolorów.",
+    "answers": [
+      "asymetryczną.",
+      "zamkniętą.",
+      "rytmiczną.",
+      "statyczną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 254,
+    "text": "Zamieszczony opis dotyczy klientki reprezentującej kolorystyczny typ urody Opis urody klientki Klientka ma jasny odcień cery z lekkim błękitnym nalotem oraz piegi w kolorze szarobrązowym. Oczy klientki są lekko przytłumione z tęczówką w kolorze szaroniebieskim, szarozielonym. Włosy klientki mają odcień popielaty.",
+    "answers": [
+      "lato.",
+      "zima.",
+      "jesień.",
+      "wiosna."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 255,
+    "text": "Którą deformację głowy przedstawiono na rysunku?",
+    "answers": [
+      "Wybrzuszenie czoła i części ciemieniowej oraz spłaszczony tył głowy.",
+      "Wybrzuszenie ciemieniowe i spłaszczony tył głowy.",
+      "Spłaszczenie wierzchołka i wybrzuszenie części czołowej.",
+      "Spłaszczenie potyliczne i wybrzuszenie wierzchołka głowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/au26_deformacja.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 256,
+    "text": "Rysunki instruktażowe przebiegu wykonania asymetrycznej fryzury awangardowej należy wykonać techniką",
+    "answers": [
+      "węgla.",
+      "pasteli.",
+      "ołówka.",
+      "akwareli."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 257,
+    "text": "Użycie którego dodatku fryzjerskiego umożliwia w projektowanej fryzurze wprowadzenie dodatkowej kolorystyki na wybranych pasmach włosów?",
+    "answers": [
+      "Dopinki.",
+      "Peruki.",
+      "Treski.",
+      "Tupeciku."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 258,
+    "text": "Technika kopiowania rysunków fryzur z możliwością zmiany wymiarów to",
+    "answers": [
+      "skalowanie.",
+      "kopiowanie z użyciem kalki technicznej.",
+      "kopiowanie z użyciem kalki atramentowej.",
+      "odwzorowywanie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 259,
+    "text": "Którą technikę podziału włosów na separacje przedstawiono na rysunku instruktażowym?",
+    "answers": [
+      "Poziomą.",
+      "Ukośną do tyłu.",
+      "Pionową.",
+      "Ukośną do przodu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/au26_rysunek4.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 260,
+    "text": "Klientce, która oczekuje we fryzurze mocnych kontrastów kolorystycznych powiązanych z ostrymi, dynamicznymi liniami cięcia włosów, należy zaproponować fryzurę w stylu",
+    "answers": [
+      "romantycznym.",
+      "sportowym.",
+      "awangardowym.",
+      "etnicznym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 261,
+    "text": "Zamieszczony opis dotyczy klientki o kształcie sylwetki typu Opis sylwetki klientki Klientka ma mały biust, wydłużoną talię, i płaski brzuch. Biodra klientki są duże, a nogi z masywnymi i pełnymi udami.",
+    "answers": [
+      "tuba.",
+      "stożek.",
+      "klepsydra.",
+      "gruszka."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 262,
+    "text": "Na rysunku przedstawiono profil twarzy",
+    "answers": [
+      "ukośny.",
+      "spłaszczony.",
+      "wypukły.",
+      "wklęsły."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/au26_profil.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 263,
+    "text": "Przedziałek w projekcie fryzury przedstawionej na rysunku zastosowano w celu",
+    "answers": [
+      "podkreślenia struktury włosów.",
+      "podkreślenia faktury włosów.",
+      "optycznego zmniejszenia objętości fryzury.",
+      "optycznego zwiększenia objętości fryzury."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/au26_fryzura2.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 264,
+    "text": "W celu uzyskania efektu podkreślenia naturalnej urody typu kolorystycznego jesień nie można projektować włosów w kolorze",
+    "answers": [
+      "czarnym.",
+      "mahoniowym.",
+      "miedzianym.",
+      "złotym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 265,
+    "text": "Przedstawiony rysunek instruktażowy dotyczy techniki wykonania zabiegu",
+    "answers": [
+      "strzyżenia.",
+      "plisowania.",
+      "balejażu.",
+      "kondycjonowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk03/au26_rysunek2.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 266,
+    "text": "Dla której sylwetki męskiej charakterystyczna jest masywna postura ciała, wystający brzuch, dobrze zbudowane ręce i nogi?",
+    "answers": [
+      "Jabłka.",
+      "Gruszki.",
+      "Ołówka.",
+      "Trójkąta."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 267,
+    "text": "Która linia baków optycznie wyszczupli twarz klienta?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "frk03/au26_twarze2.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 268,
+    "text": "Do zaprojektowania fryzury przedstawionej na rysunku została zastosowana kompozycja",
+    "answers": [
+      "otwarta.",
+      "centralna.",
+      "asymetryczna.",
+      "dynamiczna."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk03/au26_fryzura3.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 269,
+    "text": "Efektem koloryzacji techniką balejażu, zaproponowanego klientce w celu optycznego powiększenia objętości włosów cienkich, będzie",
+    "answers": [
+      "przyciemnienia włosów na całej długości.",
+      "przyciemnienia końcówek włosów.",
+      "rozjaśnienia włosów na całej długości.",
+      "rozjaśnienia końcówek włosów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 270,
+    "text": "Do zaprojektowania fryzury z elementami kontrastu komplementarnego należy kolor zielony uzupełnić kolorem",
+    "answers": [
+      "czerwonym.",
+      "niebieskim.",
+      "czarnym.",
+      "fioletowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 271,
+    "text": "W celu uzyskania efektu kontrastu symultanicznego należy zaprojektować we fryzurze pasma w barwach",
+    "answers": [
+      "żółtej i szarej.",
+      "żółtej i fioletowej.",
+      "czarnej i zielonej.",
+      "czarnej i niebieskiej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 272,
+    "text": "W celu uzyskania kontrastu kolorystycznego należy klientce o czarnych oczach zaproponować koloryzację włosów w odcieniach",
+    "answers": [
+      "czerni.",
+      "brązu.",
+      "fioletu.",
+      "czerwieni."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 273,
+    "text": "Fryzura z loków spiralnych przeznaczona dla klientki reprezentującej styl romantyczny nie powinna zostać zaprojektowana z zastosowaniem zasad kompozycji",
+    "answers": [
+      "dynamicznej.",
+      "rytmicznej.",
+      "otwartej.",
+      "zamkniętej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 274,
+    "text": "Kolory o twardym charakterze są cechą kolorowania rysunku fryzury techniką",
+    "answers": [
+      "kredy.",
+      "markera.",
+      "farby akwarelowej.",
+      "kredki pastelowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 275,
+    "text": "Klientce oczekującej koloryzacji w kolorze blond o chłodnym odcieniu należy polecić kolor",
+    "answers": [
+      "miedziany blond.",
+      "platynowy blond.",
+      "złoty blond.",
+      "kasztanowy blond."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 276,
+    "text": "Który historyczny styl starożytny jest inspiracją do zaprojektowania przedstawionej na rysunku fryzury damskiej?",
+    "answers": [
+      "Grecki.",
+      "Perski.",
+      "Egipski.",
+      "Rzymski."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk03/au26_fryzura4.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 277,
+    "text": "W przedstawionym na rysunku projekcie fryzury zastosowano kontrast barw",
+    "answers": [
+      "chromatycznych i achromatycznych.",
+      "achromatycznych i pastelowych.",
+      "chromatycznych i zmatowionych.",
+      "achromatycznych i zmatowionych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_projekt3.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 278,
+    "text": "Fryzura zaprojektowana zgodnie z opisem przyjmuje geometryczną formę Opis fryzury Fryzura sprawia wrażenie kanciastej i poszerza głowę klientki. Fryzura ostrzyżona jest do formy spójnej i opada do jednego poziomu, tworząc jednolitą linię. Zalecana dla osób o owalnym kształcie twarzy.",
+    "answers": [
+      "koła.",
+      "trójkąta.",
+      "owalu.",
+      "kwadratu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 279,
+    "text": "Zamieszczony opis dotyczy charakterystycznych cech twarzy o kształcie Opis twarzy Twarz jest wąska z wyraźną różnicą między długością a szerokością. Ma równą linię czoła i żuchwy. Policzki są płaskie i wydłużone.",
+    "answers": [
+      "trapezoidalnym.",
+      "trójkątnym.",
+      "prostokątnym.",
+      "romboidalnym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 280,
+    "text": "Który rodzaj kompozycji zastosowano w opisanej fryzurze? Opis fryzury W elementach fryzury zastosowano linie ukośne. Przedziałek ma kształt zygzakowaty. Całość uczesania ma stylizację awangardową.",
+    "answers": [
+      "Rytmiczną.",
+      "Dynamiczną.",
+      "Centralną.",
+      "Statyczną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 281,
+    "text": "Rysunek instruktażowy dotyczy wykonania zabiegu zmiany koloru włosów techniką",
+    "answers": [
+      "balejażu.",
+      "ombre.",
+      "pasemek.",
+      "sombre."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_technika4.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 282,
+    "text": "Którego narzędzia używanego do rysowania projektów fryzur dotyczy opis? Opis narzędzia Jest to pisak kreślarski w postaci pióra używanego do rysowania i kreślenia. Pozwala na rysowanie stałej grubości linii za pomocą tuszu. Jest on wykorzystywany przede wszystkim do przygotowywania i opisywania rysunków technicznych.",
+    "answers": [
+      "Rapidografu.",
+      "Spirografu.",
+      "Grafonu.",
+      "Pantografu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 283,
+    "text": "W celu optycznego powiększenia objętości włosów cienkich i delikatnych o prostej teksturze, należy w projektowaniu fryzury zaplanować koloryzację w formie",
+    "answers": [
+      "globalnej jasnej.",
+      "balejażu w jasnych odcieniach.",
+      "panelowej w ciemnych odcieniach.",
+      "całościowej ciemnej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 284,
+    "text": "Które cechy budowy są charakterystyczne dla twarzy o kształcie sześciokątnym?",
+    "answers": [
+      "Szeroka w części skroniowej i wąska na wysokości kości policzkowych.",
+      "Najszersza w partii czołowej i wąska na wysokości kości policzkowych.",
+      "Najszersza w linii kości policzkowych i wąska na wysokości żuchwy.",
+      "Szeroka w części żuchwy i na wysokości skroniowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 285,
+    "text": "Klientce o jasnej cerze w odcieniu kości słoniowej, oczami z tęczówkami w kolorze zielonym i jasnobrązowych naturalnych włosach, należy zaproponować koloryzację włosów w odcieniu",
+    "answers": [
+      "pomarańczowym.",
+      "beżowym.",
+      "czarnym.",
+      "fioletowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 286,
+    "text": "Do fryzury w stylu etnicznym w formie warkoczyków rastamańskich należy zaprojektować użycie jako dodatku fryzjerskiego",
+    "answers": [
+      "kolorowego wypełniacza.",
+      "kolorowej wstążki.",
+      "kolorowej spinki clip on.",
+      "kolorowego pasma włosów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 287,
+    "text": "Opis dotyczy rysunku fryzury wykonanego techniką farby Opis rysunku fryzury Rysunek fryzury jest wykonany jedną z technik malarskich. Technika ta polega na malowaniu rozcieńczonymi w wodzie pigmentami na szybko wchłaniającym wodę papierze celulozowym lub bawełnianym. Rozcieńczone pigmenty nie pokrywają całkowicie faktury papieru, lecz pozostawiają ją dobrze widoczną.",
+    "answers": [
+      "gwasz.",
+      "temperowej.",
+      "akwareli.",
+      "plakatowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 288,
+    "text": "Budowa atletyczna, smukła i proporcjonalna, tors szeroki oraz szczupłe nogi i zgrabne ręce są charakterystycznymi cechami budowy sylwetki męskiej o kształcie",
+    "answers": [
+      "litery I",
+      "litery A",
+      "litery V",
+      "litery H"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 289,
+    "text": "Wąskie i delikatne ramiona, szerokie i mocno rozbudowane biodra oraz masywne nogi są charakterystycznymi cechami budowy sylwetki damskiej o kształcie",
+    "answers": [
+      "jabłka.",
+      "klepsydry.",
+      "gruszki.",
+      "stożka."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 290,
+    "text": "Fryzurę o kompozycji zamkniętej, statycznej i symetrycznej, należy zaproponować klientce reprezentującej styl",
+    "answers": [
+      "futurystyczny.",
+      "romantyczny.",
+      "awangardowy.",
+      "klasyczny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 291,
+    "text": "Fryzura przeznaczona dla klientki reprezentującej styl klasyczny, powinna zostać zaprojektowana z zastosowaniem zasad kompozycji",
+    "answers": [
+      "zamkniętej.",
+      "centralnej.",
+      "dynamicznej.",
+      "otwartej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 292,
+    "text": "W celu radykalnej zmiany koloru włosów z ciepłego czekoladowego brązu na jasny, należy dla osoby o zimnym typie kolorystycznym urody zaprojektować kolor włosów w odcieniu",
+    "answers": [
+      "popielatym.",
+      "złotym.",
+      "mahoniowym.",
+      "miedzianym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 293,
+    "text": "W awangardowej, asymetrycznej fryzurze z włosów długich w kolorze ciemnobrązowym, w celu podkreślenia awangardowego charakteru fryzury klientki należy zaprojektować użycie",
+    "answers": [
+      "spinki w zmatowionym odcieniu.",
+      "opaski w neonowym kolorze.",
+      "spinki w ciemnym odcieniu.",
+      "opaski w stonowanym kolorze."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 294,
+    "text": "W celu optycznego powiększenia koka typu hiszpańskiego o formie elipsy należy użyć wypełniacza fryzjerskiego o kształcie",
+    "answers": [
+      "okrągłym.",
+      "trójkątnym.",
+      "prostokątnym.",
+      "kwadratowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 295,
+    "text": "Na rysunku przedstawiono twarz o kształcie",
+    "answers": [
+      "trójkątnym.",
+      "prostokątnym.",
+      "kwadratowym.",
+      "okrągłym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_twarz12.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 296,
+    "text": "Do rysowania projektu fryzury na szablonach bloku Layout należy użyć",
+    "answers": [
+      "długopisu.",
+      "ołówka.",
+      "mazaka.",
+      "kredki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 297,
+    "text": "Fryzura okolicznościowa ma formę upięcia koka w stylu hiszpańskim. Do zaprojektowania opisanej fryzury zastosowano kompozycję",
+    "answers": [
+      "dynamiczną.",
+      "centralną.",
+      "otwartą.",
+      "rytmic.zną"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 298,
+    "text": "W celu optycznego skorygowania płaskiego czoła i szpiczastej brody, należy zaprojektować fryzurę",
+    "answers": [
+      "o małej objętości i z grzywką.",
+      "o dużej objętości i z odkrytym czołem.",
+      "o małej objętości i z odkrytym czołem.",
+      "o dużej objętości i z grzywką."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 299,
+    "text": "Klientce, która wybiera się na przyjęcie tematyczne Amerykańska moda disco lat 80-tych XX wieku, należy zaprojektować fryzurę z elementem ozdobnym w formie",
+    "answers": [
+      "srebrnego grzebyka z kryształkami.",
+      "neonowej przepaski frotte.",
+      "czarnej opaski z perłami.",
+      "naturalnego białego kwiatka."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 300,
+    "text": "Zbyt wyraziste linie twarzy klientki łagodzą delikatne i uniesione od nasady lekko lokowane włosy. Jaką teksturę mają włosy klientki?",
+    "answers": [
+      "Zygzakowatą.",
+      "Gąbczastą.",
+      "Gładką.",
+      "Falistą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 301,
+    "text": "Zamieszczony opis dotyczy cech charakterystycznych fryzury Opis fryzury Fryzurę zaprojektowano dla klientki w wieku około 45 lat, która idzie na premierowy spektakl teatralny. Uczesanie ma formę pośrednią pomiędzy fryzurą dzienną a wieczorową. We fryzurze zaakcentowano grzywkę, która jest wywinięta na zewnątrz.",
+    "answers": [
+      "okolicznościowej.",
+      "fantazyjnej.",
+      "awangardowej.",
+      "koktajlowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 302,
+    "text": "W celu skorygowania krótkiej szyi klientki, należy zaprojektować fryzurę z konturem zewnętrznym w kształcie",
+    "answers": [
+      "litery H",
+      "litery V",
+      "litery U",
+      "litery M"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 303,
+    "text": "Na rysunku instruktażowym przedstawiono strzyżenie damskie formy",
+    "answers": [
+      "koła.",
+      "owalu.",
+      "trójkąta.",
+      "trapezu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_rysunek31.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 304,
+    "text": "Który typ kompozycji został użyty do zaprojektowania fryzury widocznej na rysunku?",
+    "answers": [
+      "Otwarta.",
+      "Rytmiczna.",
+      "Dynamiczna.",
+      "Symetryczna."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_fryzura44.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 305,
+    "text": "Klientce o zimnym typie kolorystycznym i owalnym kształcie twarzy należy zaproponować koloryzację w odcieniu",
+    "answers": [
+      "popielatym.",
+      "złotym.",
+      "bursztynowym.",
+      "koniakowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 306,
+    "text": "Przedstawioną na rysunku fryzurę należy zaprojektować dla klientki reprezentującej styl",
+    "answers": [
+      "awangardowy.",
+      "klasyczny.",
+      "etniczny.",
+      "romantyczny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_fryzura46.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 307,
+    "text": "Który rodzaj linii jest wykorzystywany w projektowaniu krótkiej, dynamicznej fryzury awangardowej w celu podkreślenia łagodnych rysów twarzy lub zaakcentowania elementu fryzury?",
+    "answers": [
+      "Prosta.",
+      "Falista.",
+      "Półokrągła.",
+      "Łamana."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 308,
+    "text": "Na rysunku przedstawiono klientkę o kolorystycznym typie urody",
+    "answers": [
+      "zima.",
+      "lato.",
+      "wiosna.",
+      "jesień."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_typ3.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 309,
+    "text": "Do skorygowania kwadratowego kształtu twarzy z opadającymi kącikami oczu i ust nie należy projektować fryzury z grzywką",
+    "answers": [
+      "zbieżną o półokrągłej linii strzyżenia.",
+      "asymetryczną o prostej linii strzyżenia.",
+      "rozbieżną o prostej linii strzyżenia.",
+      "wypukłą o półokrągłej linii strzyżenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 310,
+    "text": "Na rysunku przedstawiono klientkę reprezentującą styl",
+    "answers": [
+      "klasyczny.",
+      "etniczny.",
+      "sportowy.",
+      "awangardowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_styl2.png"
+    },
+    "category": "FRK.03"
+  },
+  {
+    "id": 311,
+    "text": "Klientce, która reprezentuje styl awangardowy, należy we fryzurze zaproponować zestawienie kompozycji",
+    "answers": [
+      "dynamicznych i asymetrycznych.",
+      "statycznych i rytmicznych.",
+      "zamkniętych i statycznych.",
+      "otwartych i symetrycznych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 312,
+    "text": "Zamieszczone zalecenia kolorystyczne przygotowane zostały dla klientki o kolorystycznym typie urody Zalecenia kolorystyczne dla klientki Zalecana jest fryzura z włosów w kolorze ciemnobrązowym z odcieniem chłodnym popielatym oraz granatowo-czarnymi końcówkami włosów. Należy unikać rudego i miedzianego koloru włosów.",
+    "answers": [
+      "jesień.",
+      "wiosna.",
+      "lato.",
+      "zima."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.03"
+  },
+  {
+    "id": 313,
+    "text": "Na rysunku instruktażowym strzyżenia przedstawiono podział włosów na separacje",
+    "answers": [
+      "pionowe i ukośne do przodu.",
+      "poziome i ukośne do przodu.",
+      "pionowe i ukośne do tyłu.",
+      "poziome i ukośne do tyłu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk03/a23_rysunek29.png"
+    },
+    "category": "FRK.03"
+  }
+]
