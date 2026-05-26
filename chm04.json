@@ -1,0 +1,4304 @@
+[
+  {
+    "id": 1,
+    "text": "Związek chemiczny Ag2CrO4, powstały podczas oznaczania chlorków ma barwę",
+    "answers": [
+      "białą.",
+      "żółtą.",
+      "brunatnoczerwoną.",
+      "czarnobrązową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 2,
+    "text": "W tabeli przedstawiono charakterystykę",
+    "answers": [
+      "1 – refraktometrii, 2 – polarymetrii, 3 – nefelometrii.",
+      "1 – refraktometrii, 2 – nefelometrii, 3 – polarymetrii.",
+      "1 – nefelometrii, 2 – refraktometrii, 3 – polarymetrii.",
+      "1 – polarymetrii, 2 – refraktometrii, 3 – nefelometrii."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_charakterystyka2.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 3,
+    "text": "Na podstawie zamieszczonych informacji dotyczących wymagań mikrobiologicznych i wyników analizy wody wodociągowej można stwierdzić, że badana woda Wykonano analizę mikrobiologiczną próbki wody wodociągowej o objętości 100 ml i uzyskano wyniki:",
+    "answers": [
+      "spełnia wymagania normy tylko pod względem obecności bakterii: Escherichia coli, Enterokoki, Pseudomonas aeruginosa.",
+      "nie spełnia wymagań normy pod względem ogólnej liczby mikroorganizmów w temperaturze 22±2°C.",
+      "nie spełnia wymagań normy pod względem ogólnej liczby mikroorganizmów w temperaturze 36±2°C.",
+      "spełnia wymagania normy pod względem wszystkich badanych parametrów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela98.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 4,
+    "text": "Która próbka odpowiada glebie o stopniu zanieczyszczenia 0? Dla czterech różnych próbek gleb lekkich o odczynie kwaśnym oznaczono zawartość metali w mg/kg suchej masy. Wyniki zestawiono w tabeli:",
+    "answers": [
+      "Próbka 3.",
+      "Próbka 1.",
+      "Próbka 4.",
+      "Próbka 2."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela100.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 5,
+    "text": "Na rysunku przedstawione jest pole widzenia",
+    "answers": [
+      "pirometru optycznego.",
+      "mikroskopu optycznego.",
+      "refraktometru Abbego.",
+      "polarymetru kołowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_rysunek8.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 6,
+    "text": "Podczas ilościowego oznaczania zawartości chlorków w próbce wody zachodzą przemiany przedstawione równaniami reakcji: Ag+ + Cl– → AgCl 2 Ag+ + CrO42- → Ag2CrO4 Wskaż typ reakcji, do którego należą.",
+    "answers": [
+      "Strącanie osadów.",
+      "Kompleksowanie.",
+      "Zobojętnianie.",
+      "Redoks."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 7,
+    "text": "Wyznaczanie punktu końcowego miareczkowania (PK) na podstawie obserwacji zmian przewodnictwa miareczkowanego roztworu w zależności od objętości dodawanego titranta stanowi podstawę miareczkowania",
+    "answers": [
+      "amperometrycznego.",
+      "spektrofotometrycznego.",
+      "potencjometrycznego.",
+      "konduktometrycznego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 8,
+    "text": "Na rysunku przedstawiającym schemat polarymetru, cyfrą 4 oznaczono",
+    "answers": [
+      "analizator.",
+      "polaryzator.",
+      "okular.",
+      "soczewkę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_polarymetr.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 9,
+    "text": "Którą właściwość fizyczną substancji można wyznaczyć za pomocą przyrządu przedstawionego na rysunku?",
+    "answers": [
+      "Twardość.",
+      "Gęstość.",
+      "Opór.",
+      "Lepkość."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_waga2.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 10,
+    "text": "Która sól, spośród wymienionych, w roztworze wodnym wykazuje odczyn kwasowy?",
+    "answers": [
+      "KNO3",
+      "NH4Cl",
+      "K2CO3",
+      "NaNO2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 11,
+    "text": "W tabeli przedstawiono kolejne etapy barwienia preparatu mikroskopowego metodą",
+    "answers": [
+      "Grama.",
+      "Neissera.",
+      "Burri-Ginsa.",
+      "Ziehl-Neelsena."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela96.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 12,
+    "text": "W temperaturze 20°C wyznaczono gęstość i współczynnik załamania światła kwasu butanowego. Wyniki zestawiono w tabeli: Refrakcja molowa kwasu butanowego wynosi",
+    "answers": [
+      "15,08",
+      "12,22",
+      "25,90",
+      "22,12"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela94.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 13,
+    "text": "Który zestaw zawiera wyłącznie odczynniki grupowe stosowane w analizie jakościowej jonów?",
+    "answers": [
+      "HCl, AgNO3, BaCl2",
+      "AgNO3, (NH4)2CO3, KOH",
+      "KI, HCl, NH3aq",
+      "H2S, HCl, KOH"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 14,
+    "text": "Iloczyn rozpuszczalności trudno rozpuszczalnego związku Ca3(PO4)2 wyrażony jest równaniem:",
+    "answers": [
+      "KSO = 3[Ca2+] ⋅ 2[PO43-]",
+      "KSO = [Ca2+]3 ⋅ [PO43-]2",
+      "KSO = [Ca3+]2 ⋅ [PO42-]3",
+      "KSO = [Ca2+] ⋅ [PO43-]"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 15,
+    "text": "Wykonano jodometryczne oznaczenie zawartości kwasu askorbinowego dla 4 próbek tabletek witaminy C, uzyskując wyniki: Opis Na opakowaniach tabletek witaminy C producenci deklarują zawartość 200 mg kwasu askorbinowego. Zgodnie z normą odchylenia od deklarowanej zawartości substancji leczniczej nie mogą przekraczać ±10% dla tabletek o zawartości poniżej 100 mg i ±5% dla tabletek o deklarowanej zawartości 100 mg i więcej. Na podstawie informacji zawartych w opisie i wyników analizy można stwierdzić, że zawartość witaminy C",
+    "answers": [
+      "nie jest zgodna z normą tylko dla próbki 2.",
+      "nie jest zgodna z normą dla próbek 2 i 4.",
+      "jest zgodna z normą dla wszystkich próbek.",
+      "jest zgodna z normą tylko dla próbek 1 i 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela95.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 16,
+    "text": "Konduktywność elektrolityczna wody destylowanej stosowanej w laboratorium chemicznym wynosi 0,001 mS cm-1. Z analizy danych przedstawionych na rysunku wynika, że woda ta jest Rysunek. Konduktywność elektrolityczna wybranych roztworów wodnych",
+    "answers": [
+      "nieczyszczona doskonałej jakości.",
+      "superczysta.",
+      "zanieczyszczona chlorkiem sodu.",
+      "dobrej jakości."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_schemat38.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 17,
+    "text": "Wskaż nazwy sprzętów laboratoryjnych przedstawionych na rysunku.",
+    "answers": [
+      "1 – Eza, 2 – Igła bakteriologiczna, 3 – Głaszczka.",
+      "1 – Głaszczka, 2 – Eza, 3 – Rurka Durhama.",
+      "1 – Głaszczka, 2 – Rurka Durhama, 3 – Eza.",
+      "1 – Eza, 2 – Głaszczka, 3 – Igła bakteriologiczna."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_sprzety.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 18,
+    "text": "Który spośród tłuszczów wymienionych w przedstawionej tabeli wykazuje najbardziej nienasycony charakter?",
+    "answers": [
+      "Masło krowie.",
+      "Olej lniany.",
+      "Tran wielorybi.",
+      "Olej rzepakowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela97.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 19,
+    "text": "Do wskaźników stosowanych w oznaczeniach kompleksometrycznych nie należy",
+    "answers": [
+      "kalces.",
+      "mureksyd.",
+      "czerń eriochromowa.",
+      "czerwień metylowa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 20,
+    "text": "W zamieszczonym opisie przedstawiono fragment instrukcji obsługi Umieść probówki w adapterach. Zawsze umieszczaj probówki symetrycznie celem prawidłowego wyważenia rotora. W przypadku użycia tylko jednej probówki niezbędne jest umieszczenie przeciwwagi po stronie przeciwnej. Po zamknięciu pokrywy zostaje ona automatycznie zablokowana …",
+    "answers": [
+      "wirówki laboratoryjnej.",
+      "cieplarki.",
+      "pieca muflowego.",
+      "wyparki próżniowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 21,
+    "text": "Podział składników mieszaniny pomiędzy fazę stacjonarną i ruchomą układu to zjawisko obserwowane w",
+    "answers": [
+      "spektrofotometrii.",
+      "polarografii.",
+      "chromatografii.",
+      "konduktometrii."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 22,
+    "text": "Na rysunku przedstawiono izolację czystych kultur bakterii metodą",
+    "answers": [
+      "posiewu na całej powierzchni.",
+      "kolejnych rozcieńczeń.",
+      "płytek lanych.",
+      "sektorowo – redukcyjną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_metoda2.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 23,
+    "text": "W doświadczeniu mającym na celu wykazanie nienasyconego charakteru oleju rzepakowego wykorzystuje się reakcję",
+    "answers": [
+      "addycji bromu.",
+      "nitrowania.",
+      "sulfonowania.",
+      "substytucji chloru."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 24,
+    "text": "Oznaczono LZ i LJ dla czterech różnych próbek tłuszczów. Wyniki zestawiono w tabeli: Na podstawie zamieszczonych danych o liczbach właściwych wybranych tłuszczów wskaż próbkę, którą stanowi olej rzepakowy.",
+    "answers": [
+      "Próbka 4",
+      "Próbka 1",
+      "Próbka 2",
+      "Próbka 3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabele6.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 25,
+    "text": "W jakim stosunku molowym reaguje EDTA z jonami Zn2+?",
+    "answers": [
+      "1 : 2",
+      "1 : 4",
+      "1 : 1",
+      "1 : 3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 26,
+    "text": "W wyniku oznaczenia wagowego otrzymano 0,2451 g tlenku żelaza(III). Ile gramów żelaza zawierała analizowana próbka? MFe = 55,845 g/mol, MO = 15,999 g/mol",
+    "answers": [
+      "0,1714 g",
+      "0,0857 g",
+      "0,1905 g",
+      "0,0491 g"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 27,
+    "text": "Na rysunku przedstawiony jest schemat elektrody",
+    "answers": [
+      "redoks.",
+      "trzeciego rodzaju.",
+      "pierwszego rodzaju.",
+      "drugiego rodzaju."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_elektroda3.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 28,
+    "text": "Do roztworzenia mosiądzu (stopu miedzi) należy użyć kwasu",
+    "answers": [
+      "solnego.",
+      "azotowego(V).",
+      "octowego.",
+      "fosforowego(V)."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 29,
+    "text": "Który rodzaj bakterii przedstawiono na rysunku?",
+    "answers": [
+      "Pałeczki.",
+      "Krętki.",
+      "Laseczki.",
+      "Przecinkowce."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_bakterie2.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 30,
+    "text": "Metodę Kjeldahla stosuje się do oznaczania",
+    "answers": [
+      "azotu.",
+      "wodoru.",
+      "żelaza.",
+      "siarki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 31,
+    "text": "W dwóch nieopisanych probówkach znajdują się roztwory: w jednej – glukozy, w drugiej – sacharozy. Który odczynnik należy zastosować, aby zidentyfikować glukozę?",
+    "answers": [
+      "Roztwór jodu w jodku potasu.",
+      "Stężony kwas azotowy(V).",
+      "Świeżo strącony wodorotlenek miedzi(II).",
+      "Roztwór chlorku żelaza(III)."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 32,
+    "text": "Wykrywanie pałeczek Salmonella w żywności należy do badań",
+    "answers": [
+      "chemicznych.",
+      "fizycznych.",
+      "mikrobiologicznych.",
+      "fizykochemicznych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 33,
+    "text": "Zamieszczony opis definiuje wskaźniki stosowane w miareczkowaniu Substancje te zmieniają zabarwienie w zależności od zmiany stężenia jonów wodorowych w roztworze. Są to słabe kwasy lub zasady organiczne, których barwa niezdysocjowanej cząsteczki w roztworze wodnym różni się od barwy jonów.",
+    "answers": [
+      "alkacymetrycznym.",
+      "strąceniowym.",
+      "redoksometrycznym.",
+      "kompleksometrycznym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 34,
+    "text": "Którą metodę stosuje się do oznaczania cukrów redukujących?",
+    "answers": [
+      "Mohra.",
+      "Bertranda.",
+      "Kjeldahla.",
+      "Hanusa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 35,
+    "text": "Zielone zabarwianie roztworu soli prostej w wodzie świadczy o obecności jonu",
+    "answers": [
+      "Zn2+",
+      "Ni2+",
+      "Mn2+",
+      "Co2+"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 36,
+    "text": "Na rysunku przedstawiono schemat aparatury do oznaczania w wodzie",
+    "answers": [
+      "barwy metodą porównawczą.",
+      "mętności metodą turbidymetryczną.",
+      "żelaza metodą kolorymetryczną.",
+      "mętności metodą nefelometryczną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_schemat39.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 37,
+    "text": "Czynnikiem sterylizującym w autoklawie jest",
+    "answers": [
+      "formaldehyd.",
+      "para wodna.",
+      "promieniowanie UV.",
+      "suche gorące powietrze."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 38,
+    "text": "Do stwierdzenia obecności jonów SO42- w wodzie należy użyć roztworu",
+    "answers": [
+      "kwasu solnego.",
+      "chlorku potasu.",
+      "wodorotlenku sodu.",
+      "chlorku baru."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 39,
+    "text": "Z danych zawartych w tabeli wynika, że gazem w warunkach standardowych jest związek oznaczony numerem",
+    "answers": [
+      "1.",
+      "3.",
+      "2.",
+      "4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela93.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 40,
+    "text": "Numerem 6 na rysunku oznaczono",
+    "answers": [
+      "gazomierz.",
+      "filtr.",
+      "przepływomierz.",
+      "płuczkę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_zestaw5.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 41,
+    "text": "Który kation barwi płomień palnika na kolor ceglastoczerwony?",
+    "answers": [
+      "Na+",
+      "Ba2+",
+      "Ca2+",
+      "Cu2+"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 42,
+    "text": "Komplekson III (sól disodowa kwasu etylenodiaminotetraoctowego) stosowany w analizie objętościowej tworzy z metalami kompleksy o stosunku ligandu do metalu",
+    "answers": [
+      "1:3",
+      "2:1",
+      "1:2",
+      "1:1"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 43,
+    "text": "Metodą stosowaną do identyfikacji i oznaczeń ilościowych związków optycznie czynnych jest",
+    "answers": [
+      "refraktometria.",
+      "polarymetria.",
+      "nefelometria.",
+      "turbidymetria."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 44,
+    "text": "W makroanalizie stosowane są próbki o masie",
+    "answers": [
+      "0,1 – 0,01 g",
+      "powyżej 0,1 g",
+      "poniżej 0,001 g",
+      "0,001 – 0,01 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 45,
+    "text": "Wykresy przedstawiają przebieg krzywych miareczkowania",
+    "answers": [
+      "potencjometrycznego.",
+      "spektrofotometrycznego.",
+      "alkacymetrycznego.",
+      "konduktometrycznego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_wykresy2.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 46,
+    "text": "Zjawisko polegające na mechanicznym zatrzymywaniu obcych jonów przez narastający szybko kryształ nosi nazwę",
+    "answers": [
+      "współstrącania.",
+      "adsorpcji powierzchniowej.",
+      "okluzji.",
+      "efektu solnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 47,
+    "text": "Do roztwarzania minerałów siarczkowych można zastosować mieszaninę Leforta, zwaną odwróconą wodą królewską. Jej skład stanowią stężone roztwory kwasu azotowego(V) i kwasu solnego zmieszane w stosunku objętościowym",
+    "answers": [
+      "1:3",
+      "1:1",
+      "3:1",
+      "2:1"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 48,
+    "text": "Korzystając z krzywej wzorcowej, określ stężenie badanej próbki, jeżeli absorbancja wynosi 0,6.",
+    "answers": [
+      "4 mg/dm3",
+      "2 mg/dm3",
+      "5 mg/dm3",
+      "3 mg/dm3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_krzywa3.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 49,
+    "text": "Podłoże służące do otrzymywania hodowli o wysokiej populacji drobnoustrojów badanego szczepu określa się jako",
+    "answers": [
+      "wybiórczo-różnicujące.",
+      "namnażające.",
+      "wybiórcze.",
+      "różnicujące."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 50,
+    "text": "Krzywa na rysunku obrazuje miareczkowanie",
+    "answers": [
+      "mocnego kwasu.",
+      "słabej zasady.",
+      "słabego kwasu.",
+      "mocnej zasady."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_krzywa5.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 51,
+    "text": "W celu oznaczenia suchej pozostałości w badanej próbce wody wykonano analizę według procedury: Do parownicy odmierzyć 100 cm3 badanej próbki i odparować do sucha na łaźni wodnej. Pozostałość w parownicy suszyć w temperaturze 105ºC przez godzinę, po czym ochłodzić do temperatury pokojowej i zważyć…. Wskaż zestaw sprzętu, który jest niezbędny do wykonania oznaczenia suchej pozostałości według tej procedury.",
+    "answers": [
+      "Parownica, kolba stożkowa o pojemności 100 cm3, łaźnia wodna, suszarka laboratoryjna, waga laboratoryjna.",
+      "Zlewka o pojemności 100 cm3, palnik, trójnóg, siatka ze spiekiem ceramicznym, suszarka laboratoryjna, eksykator, waga laboratoryjna.",
+      "Parownica, cylinder miarowy o pojemności 100 cm3, łaźnia wodna, suszarka laboratoryjna, eksykator, waga laboratoryjna.",
+      "Parownica, zlewka o pojemności 100 cm3, palnik, eksykator, waga laboratoryjna."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 52,
+    "text": "Które ilustracje przedstawiają formy cylindryczne bakterii?",
+    "answers": [
+      "I i II",
+      "III i IV",
+      "I i IV",
+      "II i III"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_ilustracje.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 53,
+    "text": "Do instrumentalnych metod optycznych stosowanych w analizie chemicznej należy",
+    "answers": [
+      "potencjometria.",
+      "refraktometria.",
+      "argentometria.",
+      "konduktometria."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 54,
+    "text": "Na podstawie danych w tabelach 1-2 zawierających wartości graniczne wskaźników jakości wody i uzyskane wyniki pomiarowe oceń jakość wody w punktach pomiarowych X i Y, określając jej klasę.",
+    "answers": [
+      "X – III; Y – II",
+      "X – I; Y – I",
+      "X – III; Y – I",
+      "X – I; Y – III"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabele4.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 55,
+    "text": "Badanie właściwości ropy naftowej wykonywane za pomocą wiskozymetru Englera, polegające na pomiarze czasu wypływu 200 cm3 ropy naftowej w temperaturze 20°C oraz czasu wypływu takiej samej objętości wody destylowanej dotyczy pomiaru",
+    "answers": [
+      "napięcia powierzchniowego.",
+      "gęstości względnej.",
+      "lepkości względnej.",
+      "lepkości dynamicznej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 56,
+    "text": "Precyzja metody jest określana w oparciu o wyznaczoną wartość",
+    "answers": [
+      "błędu bezwzględnego.",
+      "odchylenia standardowego.",
+      "granicy oznaczalności.",
+      "błędu względnego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 57,
+    "text": "W wyniku przeprowadzenia doświadczenia zgodnie ze schematem, w probówce 2 otrzymano",
+    "answers": [
+      "metan.",
+      "etan.",
+      "propen.",
+      "eten."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_schemat27.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 58,
+    "text": "W celu przeprowadzenia oznaczenia za pomocą aparatu przedstawionego na ilustracji surowiec roślinny umieszcza się w",
+    "answers": [
+      "kolbie oznaczonej cyfrą 1 bez rozpuszczalnika.",
+      "kolbie oznaczonej cyfrą 1 z rozpuszczalnikiem.",
+      "gilzie oznaczonej cyfrą 2.",
+      "gilzie oznaczonej cyfrą 2 oraz w kolbie oznaczonej cyfrą 1."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_aparat6.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 59,
+    "text": "Glebę leśną o pHKCl = 6,7 należy zakwalifikować jako",
+    "answers": [
+      "słabo alkaliczną.",
+      "kwaśną.",
+      "obojętną.",
+      "słabo kwaśną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela65.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 60,
+    "text": "Na ilustracji przedstawiono aparat służący do przeprowadzenia",
+    "answers": [
+      "destylacji pod zmniejszonym ciśnieniem.",
+      "destylacji prostej.",
+      "ekstrakcji typu ciecz-ciecz.",
+      "ekstrakcji typu ciecz-ciało stałe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_aparat6.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 61,
+    "text": "Całkowitą zawartość siarki w paliwach stałych można oznaczyć metodą",
+    "answers": [
+      "Kiejdahla.",
+      "Dumasa.",
+      "Pregla.",
+      "Eschki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 62,
+    "text": "Które badanie chemiczne wody wykonuje się metodą miareczkowania kompleksometrycznego?",
+    "answers": [
+      "Oznaczanie kwasowości i zasadowości.",
+      "Oznaczanie zawartości chlorków.",
+      "Oznaczanie utlenialności.",
+      "Oznaczanie twardości."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 63,
+    "text": "Do osadów bezpostaciowych serowatych należy",
+    "answers": [
+      "AgCl",
+      "Al(OH)3",
+      "BaSO4",
+      "Fe(OH)3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 64,
+    "text": "W wyniku reakcji ksantoproteinowej obecność białka jest potwierdzana przez pojawienie się zabarwienia na kolor żółty, który świadczy o wykryciu w białku",
+    "answers": [
+      "wiązań wodorowych.",
+      "wiązań peptydowych.",
+      "aminokwasów zawierających siarkę.",
+      "aminokwasów zawierających pierścień aromatyczny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 65,
+    "text": "Na ilustracji przedstawiono",
+    "answers": [
+      "spektrofotometr.",
+      "polarymetr.",
+      "refraktometr.",
+      "konduktometr."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_ilustracja.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 66,
+    "text": "Podział anionów na grupy analityczne według Bunsena obejmuje",
+    "answers": [
+      "pięć grup analitycznych.",
+      "dziesięć grup analitycznych.",
+      "siedem grup analitycznych.",
+      "cztery grupy analityczne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 67,
+    "text": "Na zmiareczkowanie próbki roztworu wodorotlenku sodu zużyto 15,0 cm3 roztworu kwasu solnego o stężeniu 0,1 mol/dm3. Zawartość NaOH (M = 40 g/mol) w próbce wynosiła",
+    "answers": [
+      "0,06 g",
+      "60,0 g",
+      "6,00 g",
+      "0,60 g"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 68,
+    "text": "Przeprowadzano analizę jakościową próbki według schematu: Badana próbka zawierała kation",
+    "answers": [
+      "Ag+",
+      "Cd2+",
+      "Pb2+",
+      "Hg2+"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_schemat28.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 69,
+    "text": "Wszelkie działania, które należy podjąć w celu wyeliminowania wykrytej niezgodności CCP (krytyczne punkty kontroli) systemu HACCP, to działania System HACCP – System Analizy Zagrożeń i Krytycznych Punktów Kontroli, jest to zespół wzajemnie powiązanych ze sobą procedur, realizujących jako całość system zarządzania bezpieczeństwem żywności.",
+    "answers": [
+      "korygujące.",
+      "weryfikacyjne.",
+      "walidacyjne.",
+      "monitorujące."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 70,
+    "text": "Podczas miareczkowania roztworu amoniaku o stężeniu 0,1 mol/dm3 za pomocą roztworu kwasu solnego o stężeniu 0,1 mol/dm3, skok krzywej leży w granicach pH 6,3–4,3. W tym miareczkowaniu jako wskaźnik należy zastosować",
+    "answers": [
+      "fenoloftaleinę.",
+      "błękit bromotymolowy.",
+      "błękit tymolowy.",
+      "czerwień metylową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela62.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 71,
+    "text": "Kwasowość mleka oznacza się metodą miareczkowania",
+    "answers": [
+      "acydymetrycznego.",
+      "alkalimetrycznego.",
+      "manganometrycznego.",
+      "strąceniowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 72,
+    "text": "Do przetrwalnikowych form bakterii nie należą",
+    "answers": [
+      "mikrocysty.",
+      "endospory.",
+      "konidia.",
+      "fimbrie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 73,
+    "text": "Metody graficzne, pierwszej pochodnej oraz Hahna są stosowane do wyznaczania punktu końcowego miareczkowania",
+    "answers": [
+      "w konduktometrii.",
+      "w potencjometrii.",
+      "w refraktometrii.",
+      "w spektrofotometrii."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 74,
+    "text": "W celu ustalenia rodzaju stopu na jego powierzchnię wprowadzono kroplę stężonego kwasu azotowego(V), a następnie po upływie około minuty, dwie krople stężonego amoniaku. Na powierzchni stopu zaobserwowano niebieskie zabarwienie. Wynik badania świadczy, że analizie poddano stop",
+    "answers": [
+      "żelaza.",
+      "glinu.",
+      "ołowiu.",
+      "miedzi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 75,
+    "text": "Wyznacz refrakcję molową (Rm) dla kwasu octowego korzystając z danych zawartych w tabeli. Rm = ∑a ∙ Ra gdzie: a – liczba atomów jednego rodzaju, Ra – refrakcja atomowa",
+    "answers": [
+      "11,868",
+      "13,658",
+      "10,986",
+      "12,968"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela63.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 76,
+    "text": "Podczas badań mikrobiologicznych żywności przed posiewem należy próbkę rozcieńczyć. W tym celu po wymieszaniu badanego materiału płynnego pobiera się jałową pipetą 10 cm3, przenosi do kolby zawierającej 90 cm3 płynu rozcieńczającego i dokładnie miesza. Następnie z pierwszego rozcieńczenia przenosi się 1 cm3 do probówki zawierającej 9 cm3 płynu rozcieńczającego. W ten sposób otrzymuje się rozcieńczenie",
+    "answers": [
+      "1:9",
+      "1:100",
+      "1:10",
+      "1:90"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 77,
+    "text": "Oznaczanie chlorków metodą Mohra polega na",
+    "answers": [
+      "bezpośrednim miareczkowaniu chlorków za pomocą mianowanego roztworu azotanu(V) srebra(I) wobec chromianu(VI) potasu jako wskaźnika.",
+      "dodaniu do analizowanej próbki nadmiaru mianowanego roztworu azotanu(V) srebra(I), który odmiareczkowuje się mianowanym roztworem tiocyjanianu amonu.",
+      "dodaniu do analizowanej próbki nadmiaru mianowanego roztworu tiocyjanianu amonu,  który odmiareczkowuje się mianowanym roztworem azotanu(V) srebra(I).",
+      "bezpośrednim miareczkowaniu chlorków za pomocą mianowanego roztworu tiocyjanianu amonu wobec siarczanu(VI) żelaza(III) i amonu jako wskaźnika."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 78,
+    "text": "W celu identyfikacji cukru sporządzono jego roztwór i przelano do trzech probówek. Następnie przeprowadzono doświadczenia, których wyniki zapisano w tabeli: Badanym cukrem była",
+    "answers": [
+      "sacharoza.",
+      "skrobia.",
+      "fruktoza.",
+      "glukoza."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela64.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 79,
+    "text": "Określ wartość opałową (Qi) węgla kamiennego, którego ciepło spalania jest równe 18752 J/g, zawartość popiołu wynosi 8,7%, zawartość wilgoci wynosi 4,1%. Qi = Qsp – 24,42 · (W + 8,94 · ZH) Qsp – ciepło spalania, J/g W – zawartość wilgoci, % 24,42 – ciepło parowania wody w temp. 25°C odpowiadające 1% wody w paliwie, J/g 8,94 – współczynnik przeliczenia wodoru na wodę, % ZH – zawartość wodoru w próbce paliwa, % Zawartość wodoru w próbce należy obliczyć z dokładnością do części dziesiątych ze wzoru: A – zawartość popiołu, %",
+    "answers": [
+      "17 626 J/g",
+      "16 525 J/g",
+      "12 443 J/g",
+      "17 125 J/g"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_wzor12.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 80,
+    "text": "Areometr służy do wyznaczania",
+    "answers": [
+      "lepkości.",
+      "twardości.",
+      "temperatury.",
+      "gęstości."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 81,
+    "text": "Na podstawie przedstawionej na rysunku charakterystyki elektrody szklanej określ, w jakim przedziale pH funkcjonuje ona prawidłowo",
+    "answers": [
+      "od 2 do 14",
+      "od 2 do 10",
+      "od 0 do 10",
+      "od 0 do 14"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_charakterystyka.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 82,
+    "text": "Który z wymienionych związków chemicznych (w postaci odpowiednio przygotowanego roztworu) jest odczynnikiem grupowym dla IV grupy kationów?",
+    "answers": [
+      "Azotan(V) srebra(I).",
+      "Węglan amonu.",
+      "Siarczek amonu.",
+      "Siarczan(VI) miedzi(II)."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 83,
+    "text": "Które elektrody wykorzystuje się w typowym zestawie do analizy elektrograwimetrycznej przedstawionej na zamieszczonym schemacie?",
+    "answers": [
+      "Platynowe.",
+      "Ołowiane.",
+      "Miedziane.",
+      "Srebrne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_schemat26.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 84,
+    "text": "Jednym z etapów przygotowania preparatu mikrobiologicznego przyżyciowego jest",
+    "answers": [
+      "utrwalanie preparatu poprzez jego suszenie.",
+      "barwienie preparatu poprzez dodanie co najmniej dwóch barwników.",
+      "przygotowanie szkiełka nakrywkowego z kroplą wiszącą.",
+      "barwienie preparatu poprzez dodanie jednego barwnika."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 85,
+    "text": "Podczas oznaczania węglanu sodu obok wodorotlenku sodu metodą Wardera należy próbkę natychmiast miareczkować przy niezbyt intensywnym mieszaniu, ponieważ w próbce może rozpuszczać się CO2 z powietrza, który powoduje",
+    "answers": [
+      "zaniżenie wyników oznaczenia zarówno węglanu jak i wodorotlenku.",
+      "zawyżenie wyników oznaczenia zarówno węglanu jak i wodorotlenku.",
+      "zwiększenie zawartości węglanu i zmniejszenie zawartości wodorotlenku.",
+      "zmniejszenie zawartości węglanu i zwiększenie zawartości wodorotlenku."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 86,
+    "text": "Do oznaczeń spektrofotometrycznych kwasu acetylosalicylowego w nadfiolecie należy przygotować cztery wzorce o objętości 50 cm3 każdy. Wzorce należy przygotować poprzez odważenie kwasu salicylowego z dokładnością do 0,0001 g oraz rozpuszczenie odważek w 0,1000 mol/dm3 roztworze NaOH. Który sprzęt i w jakiej ilości, oprócz wagi analitycznej i łyżeczki, należy wykorzystać do wykonania tych wzorców?",
+    "answers": [
+      "Kolba stożkowa 50 cm3 1 szt.; naczynko wagowe 1 szt.; biureta 25 cm3 1 szt.",
+      "Kolba miarowa 50 cm3 4 szt.; naczyńko wagowe 4 szt.; lejek 1 szt.; zlewka 1 szt.",
+      "Kolba stożkowa 50 cm3 4 szt.; naczynko wagowe 4 szt.; biureta 50 cm3 1 szt.",
+      "Kolba miarowa 50 cm3 1 szt.; naczyńko wagowe 1 szt.; lejek 1 szt.; zlewka 1 szt."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 87,
+    "text": "Jaką objętość roztworu EDTA zużyto do odmiareczkowania jonów magnezu podczas analizy przeprowadzonej zgodnie z zamieszczoną procedurą? Procedura Współoznaczanie wapnia i magnezu w wodach naturalnych polega na przeprowadzeniu dwóch miareczkowań mianowanym 0,0100 mol/dm3 roztworem EDTA. Pierwsze miareczkowanie przeprowadza się w środowisku buforu amoniakalnego pH = 10 wobec czerni eriochromowej T, jako wskaźnika. Objętość zużytego titranta odpowiada sumie zawartości jonów wapnia i magnezu. Drugie miareczkowanie przeprowadza się w środowisku silnie zasadowym pH = 12-13 wobec mureksydu. Objętość użytego titranta zależy od ilości jonów wapnia. Podczas wykonywania oznaczenia zużyto na pierwsze miareczkowanie wobec czerni eriochromowej średnio V1 = 20,3 cm3 roztworu EDTA, na drugie oznaczenie wobec mureksydu zużyto średnio V2 = 5,4 cm3 tego samego roztworu EDTA.",
+    "answers": [
+      "14,90 cm3",
+      "109,62 cm3",
+      "12,85 cm3",
+      "25,70 cm3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 88,
+    "text": "Punkt równoważnikowy miareczkowania to punkt, w którym oznaczany składnik przereagował",
+    "answers": [
+      "częściowo ze wskaźnikiem.",
+      "częściowo z titrantem.",
+      "stechiometrycznie ze wskaźnikiem.",
+      "stechiometrycznie z titrantem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 89,
+    "text": "Na rysunku przedstawiono wykres zależności absorbancji od stężenia fosforu. Ile wynosi stężenie fosforu w próbce, jeśli absorbancja dla badanej próbki wynosi A = 0,628?",
+    "answers": [
+      "1,088 mg/dm3",
+      "1,055 mg/dm3",
+      "1,010 mg/dm3",
+      "1,030 mg/dm3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_wykres15.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 90,
+    "text": "Na rysunku przedstawiono schemat procesu",
+    "answers": [
+      "solwatacji, polegającego na oddziaływaniu rozpuszczalnika polarnego na rozpuszczaną substancję jonową.",
+      "dyfuzji, polegającej na samorzutnym rozprzestrzenianiu się i przenikaniu cząsteczek w cieczy.",
+      "okluzji, polegającego na wiązaniu jonów obcych w sieci krystalicznej substancji.",
+      "hydrolizy, polegającego na reakcji cząsteczek wody ze związkami obecnymi w wodzie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_schemat25.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 91,
+    "text": "Jaka jest (w przybliżeniu) procentowa zawartość srebra (M = 107,9 g/mol) w monecie o masie 0,3200 g, jeżeli na jego oznaczenie zużyto 25,0 cm3 roztworu NH4SCN o stężeniu 0,1000 mol/dm3?",
+    "answers": [
+      "84%",
+      "81%",
+      "99%",
+      "90%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 92,
+    "text": "Którego procesu stosowanego w laboratorium dotyczy zamieszczony opis? Jest to ciągły proces precyzyjnego określenia stopnia wiarygodności danej metody analitycznej za pomocą metod statystycznych. Przed wykonaniem właściwej analizy wykonuje się szereg analiz wzorców tzn. mieszanin zawierających ściśle określone ilości badanych substancji. Na podstawie dużej liczby takich wyników określa się dokładność, precyzję (wariancję) badanej metody, często też wpływ substancji przeszkadzających lub też wpływ innych warunków na pracę stosowanych urządzeń analitycznych.",
+    "answers": [
+      "Walidacji metody analitycznej.",
+      "Dostosowania metody analitycznej.",
+      "Audytowania metody analitycznej.",
+      "Weryfikacji metody analitycznej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 93,
+    "text": "Na którym rysunku przedstawiono schemat metody dokładnej i nieprecyzyjnej? (kreska pionowa – wartość rzeczywista, kółka – wartości zmierzone)",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_schematy.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 94,
+    "text": "Na rysunku przedstawiono schemat aparatu",
+    "answers": [
+      "Orsata do analizy gazów metodą objętościową.",
+      "Kippa do otrzymywania gazów w reakcji ciała stałego z cieczą.",
+      "Kiejdahla do destylacji i wykonywania oznaczenia azotu.",
+      "Deana–Starka do oddestylowywania i rozdzielania mieszanin azeotropowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_aparat5.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 95,
+    "text": "Który sprzęt laboratoryjny przedstawiono na ilustracji?",
+    "answers": [
+      "Łyżeczkę do nabierania substancji stałych podczas ważenia.",
+      "Pipetkę do pobierania substancji ciekłych.",
+      "Łódeczkę do odważania substancji stałych.",
+      "Łódeczkę do spalania substancji organicznych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_sprzet7.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 96,
+    "text": "Tworzenie związków kompleksowych o krwistoczerwonym zabarwieniu jest efektem reakcji jonów SCN– z jonami",
+    "answers": [
+      "Cr3+",
+      "Fe3+",
+      "K+",
+      "Mn2+"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 97,
+    "text": "Posiew kłuty preparatu mikrobiologicznego wykonuje się na pożywce",
+    "answers": [
+      "stałej w postaci słupa.",
+      "ciekłej w próbówce.",
+      "stałej w postaci skosu.",
+      "płynnej na płytce Petriego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 98,
+    "text": "Wartości iloczynów rozpuszczalności związków srebra wynoszą odpowiednio: Osad której soli srebra wytrąci się jako pierwszy podczas dodawania jonów Ag+ do roztworu zawierającego jony I–, Br–, Cl– oraz CN–?",
+    "answers": [
+      "Bromku.",
+      "Jodku.",
+      "Cyjanku.",
+      "Chlorku."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela61.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 99,
+    "text": "Prawo rozcieńczeń Ostwalda określa zależność pomiędzy stałą a stopniem dysocjacji: Równanie to można znacznie uprościć dla elektrolitów słabo zdysocjowanych. Wówczas wzór na stopień dysocjacji przyjmuje postać",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_wzor11.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 100,
+    "text": "Oznaczanie miedzi w postaci osadu czystego pierwiastka wykonywane jest podczas analizy",
+    "answers": [
+      "jodometrycznej polegającej na oznaczeniu stężenia jonów miedzi(II) w badanym roztworze.",
+      "wagowej polegającej na wydzieleniu osadu wodorotlenku miedzi(II) i jego wysuszeniu.",
+      "elektrograwimetrycznej wodnego roztworu jonów miedzi w obecności jonów azotanowych(V).",
+      "metodą kolorymetryczną przez porównanie zabarwienia próbki z serią wzorców."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 101,
+    "text": "Podczas analizy wykonywanej metodą fotometrii płomieniowej próbkę nawozu o masie 0,1000 g rozpuszczono w 250 cm3 wody destylowanej. Przeprowadzono badanie i otrzymano zawartość potasu wynoszącą 0,0830 mg/cm3. Jaka jest zawartość procentowa K2O w badanym nawozie i czy jest ona zgodna z normą, jeśli współczynnik przeliczeniowy K na K2O wynosi 1,205 i zawartość procentowa K2O w nawozie powinna zawierać się w przedziale 40 ÷ 50%?",
+    "answers": [
+      "45% i jest zgodna z normą.",
+      "2,5% i nie jest zgodna z normą.",
+      "25% i nie jest zgodna z normą.",
+      "40% i jest zgodna z normą."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 102,
+    "text": "Podczas których oznaczeń analitycznych stosuje się fenoloftaleinę jako wskaźnik?",
+    "answers": [
+      "Redoksymetrycznych.",
+      "Konduktometrycznych.",
+      "Alkacymetrycznych.",
+      "Kompleksometrycznych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 103,
+    "text": "Podczas wykrywania kationów II grupy analitycznej powstaje H2S. W jaki sposób należy ogrzewać probówkę z roztworem podczas wykrywania kationów tej grupy?",
+    "answers": [
+      "W łaźni wodnej umieszczonej pod sprawnie działającym wyciągiem.",
+      "W otwartym zestawie, wykorzystując, jako źródło ciepła gorący olej.",
+      "W łaźni piaskowej umieszczonej w wydzielonym miejscu w laboratorium.",
+      "W zamkniętym zestawie, wykorzystując, jako źródło ciepła palnik gazowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 104,
+    "text": "Najczęściej stosowaną techniką wykonywania oznaczeń spektrofotometrycznych jest technika krzywej wzorcowej. Jeżeli pomiar wykonywany jest wobec ślepej próby, to krzywa wzorcowa powinna przechodzić przez",
+    "answers": [
+      "początek układu współrzędnych.",
+      "oś rzędnych po stronie wartości ujemnych.",
+      "oś odciętych po stronie wartości dodatnich.",
+      "inne punkty niż początek układu współrzędnych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 105,
+    "text": "W celu zachowania stałego pH roztworu miareczkowanego w oznaczeniach kompleksometrycznych należy użyć roztworów buforowych, których cechą charakterystyczną jest",
+    "answers": [
+      "wyraźna zmiana wartości pH podczas dodawania do nich pewnych ilości wyłącznie zasad.",
+      "brak wyraźnej zmiany wartości pH podczas dodawania do nich pewnych ilości wyłącznie kwasów.",
+      "wyraźna zmiana wartości pH podczas dodawania do nich pewnych ilości kwasów lub zasad.",
+      "brak wyraźnej zmiany wartości pH podczas dodawania do nich pewnych ilości kwasów lub zasad."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 106,
+    "text": "Amid kwasu tiooctowego jest odczynnikiem chemicznym, który po ogrzaniu w środowisku kwaśnym ulega hydrolizie. W analizie jakościowej można go wykorzystać zamiast niebezpiecznego dla zdrowia",
+    "answers": [
+      "fluorowodoru.",
+      "siarkowodoru.",
+      "chlorowodoru.",
+      "bromowodoru."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 107,
+    "text": "Na czym polega miareczkowanie odwrotne?",
+    "answers": [
+      "Do ściśle odmierzonej objętości roztworu mianowanego dodaje się małymi porcjami badany roztwór do chwili osiągnięcia punktu końcowego miareczkowania.",
+      "Do ściśle odmierzonej objętości roztworu mianowanego dodaje się odpowiedni odczynnik, następnie produkt reakcji jest oznaczany odpowiednim roztworem badanym.",
+      "Do badanego roztworu dodaje się ściśle odmierzoną ilość roztworu mianowanego w nadmiarze, który odmiareczkowuje się odpowiednio dobranym titrantem.",
+      "Do badanego roztworu dodaje się małymi porcjami roztwór mianowany do chwili osiągnięcia punktu końcowego miareczkowania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 108,
+    "text": "Ile wynosi stężenie procentowe analitu, jeśli próbka analityczna zawiera 250 ppm analitu?",
+    "answers": [
+      "0,0025%",
+      "0,25%",
+      "2,5%",
+      "0,025%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 109,
+    "text": "Zestaw przedstawiony na rysunku służy do oznaczania zawartości",
+    "answers": [
+      "węglanu sodu metodą Wardera.",
+      "amoniaku metodą mineralizacji mokrej.",
+      "wody metodą destylacji azeotropowej.",
+      "soli amonowych metodą formalinową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_zestaw4.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 110,
+    "text": "Które sole nie ulegają hydrolizie?",
+    "answers": [
+      "Słabego kwasu i słabej zasady.",
+      "Mocnego kwasu i słabej zasady.",
+      "Mocnego kwasu i mocnej zasady.",
+      "Słabego kwasu i mocnej zasady."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 111,
+    "text": "pOH buforu węglanowego występującego we krwi wynosi 6,6. Ile wynosi pH tego roztworu i jaki jest jego odczyn?",
+    "answers": [
+      "pH = 1,2; silnie kwaśny.",
+      "pH = 7,4; lekko zasadowy.",
+      "pH = 6,6; lekko kwaśny.",
+      "pH = 11,8; silnie zasadowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 112,
+    "text": "Zestaw składający się z palnika gazowego, statywu, łącznika, pierścienia, trójkąta ceramicznego oraz tygla porcelanowego z pokrywką jest wykorzystywany podczas oznaczeń",
+    "answers": [
+      "spektrometrycznych.",
+      "chromatograficznych.",
+      "wagowych.",
+      "miareczkowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 113,
+    "text": "W jakim celu wykonuje się próbę jodową, m.in. w browarnictwie?",
+    "answers": [
+      "Sprawdzenia, czy badana próbka zawiera skrobię.",
+      "Sprawdzenia, czy badana próbka zawiera tłuszcze.",
+      "Oznaczenia ilościowej zawartości tłuszczów w próbce.",
+      "Oznaczenia ilościowej zawartości węglowodanów w próbce."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 114,
+    "text": "Punkt równoważnikowy miareczkowania mocnych kwasów mocnymi zasadami występuje przy pH równym",
+    "answers": [
+      "5",
+      "12",
+      "7",
+      "11"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 115,
+    "text": "Podstawą wykonania oznaczenia liczby zmydlania (LZ) tłuszczów jest reakcja",
+    "answers": [
+      "hydrolizy zasadowej połączona z reakcją dysocjacji.",
+      "hydrolizy zasadowej połączona z reakcją zobojętniania.",
+      "hydrolizy kwasowej połączona z reakcją dysocjacji.",
+      "hydrolizy kwasowej połączona z reakcją zobojętniania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 116,
+    "text": "Na podstawie zamieszczonych informacji określ, która reakcja chemiczna opisana równaniem była podstawą oznaczenia analitycznego.",
+    "answers": [
+      "2HCl + Na2CO3 → 2NaCl + H2O + CO2",
+      "3HCl + Al(OH)3 → AlCl3 + 3H2O",
+      "HCl + NaOH → NaCl + H2O",
+      "2HCl + Na2B4O7 + 5H2O → 4H3BO3 + 2NaCl"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_ramka6.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 117,
+    "text": "Który wskaźnik służy do oceny kontaktu wód naturalnych z fekaliami?",
+    "answers": [
+      "Zasadowość mineralna.",
+      "Twardość ogólna.",
+      "Miano coli.",
+      "Sucha pozostałość."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 118,
+    "text": "Mnożniki analityczne do wagowego oznaczania wapnia (M = 40,08 g/mol) w postaci CaC2O4 (M = 128,10 g/mol), CaCO3 (M = 100,09 g/mol) i CaO (M = 56,08 g/mol) wynoszą odpowiednio",
+    "answers": [
+      "3,1961; 2,4972; 1,3992",
+      "0,3129; 0,4004; 0,7147",
+      "0,3128; 0,4378; 0,7147",
+      "0,7147; 2,2842; 1,7992"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 119,
+    "text": "Nastawianie miana roztworu wodorotlenku sodu na wodoroftalan potasu jest metodą polecaną przez IUPAC, ponieważ wodoroftalan potasu jest substancją",
+    "answers": [
+      "o małej masie molowej, tanią, łatwo dostępną w większości laboratoriów.",
+      "o dużej masie molowej, możliwą do otrzymania w bardzo czystej postaci.",
+      "reagującą bardzo szybko podczas wykonywania oznaczenia, o małym stopniu czystości.",
+      "reagującą w sposób niestechiometryczny podczas wykonywania oznaczenia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 120,
+    "text": "Opisaną zależność można zastosować do oznaczeń Białka, których cząsteczki zawierają wiązania peptydowe, reagują w środowisku zasadowym z jonami miedzi(II) tworząc związek kompleksowy barwy fioletowej. Intensywność barwy jest wprost proporcjonalna do liczby wiązań peptydowych.",
+    "answers": [
+      "spektrofotometrycznych.",
+      "konduktometrycznych.",
+      "refraktometrycznych.",
+      "polarymetrycznych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 121,
+    "text": "Próba obrączkowa jest stosowana w celu identyfikacji jonu",
+    "answers": [
+      "PO43-",
+      "ClO3-",
+      "NO3-",
+      "SO42-"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 122,
+    "text": "Z analizy wykresu wynika, że do miareczkowania 0,001-molowego roztworu mocnego kwasu za pomocą 0,001-molowego roztworu mocnej zasady nie można zastosować jako wskaźnika",
+    "answers": [
+      "oranżu metylowego.",
+      "fenoloftaleiny.",
+      "czerwieni metylowej.",
+      "błękitu bromotylowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_wykres10.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 123,
+    "text": "Na schemacie przedstawiono bieg promieni świetlnych",
+    "answers": [
+      "w spektrofotometrze.",
+      "w polarymetrze.",
+      "w nefelometrze.",
+      "w turbidymetrze."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_schemat22.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 124,
+    "text": "Który ze schematów opisuje elektrodę NEK?",
+    "answers": [
+      "Hg│Hg2Cl2(s)│KCl",
+      "Hg│Hg2SO4(s)│K2SO4",
+      "Ag│AgCl(s)│KCl",
+      "Pb│PbSO4(s)│H2SO4"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 125,
+    "text": "Wzorzec glukozy o stężeniu 0,5 mg/cm3 wykazuje absorbancję 0,150. Jakie jest stężenie glukozy w badanej próbie, jeśli jej absorbancja wynosi 0,450 przy założeniu spełnienia prawa Lamberta-Beera w badanym zakresie stężeń i identycznych warunkach pomiaru?",
+    "answers": [
+      "7,5 mg/cm3",
+      "0,075 mg/dm3",
+      "1,5 mg/cm3",
+      "3,0 mg/cm3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_wzor10.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 126,
+    "text": "Jeżeli przewodnictwo właściwe wody destylowanej mieści się w granicach 0,1·10-4 ÷ 1·10-4 mS/cm, to do pomiarów należy zastosować czujnik konduktometryczny o wartości stałej naczynka K równej",
+    "answers": [
+      "tylko 1,0 cm-1",
+      "0,1 cm-1 lub 1,0 cm-1",
+      "1,0 cm-1 lub 10 cm-1",
+      "tylko 0,1 cm-1"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_wykres13.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 127,
+    "text": "Ze względu na zmieniającą się podczas miareczkowania objętość badanego roztworu, należy obliczyć poprawkę p w przypadku miareczkowania",
+    "answers": [
+      "spektrofotometrycznego.",
+      "wizualnego.",
+      "potencjometrycznego.",
+      "konduktometrycznego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_wzor9.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 128,
+    "text": "Na rysunku przedstawiono schemat",
+    "answers": [
+      "czujnika chemicznego.",
+      "detektora różnicowego.",
+      "biokataliztora.",
+      "bioczujnika."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_schemat24.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 129,
+    "text": "Wiskozymetry służą do pomiaru",
+    "answers": [
+      "gęstości.",
+      "mętności.",
+      "lepkości.",
+      "refrakcji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 130,
+    "text": "Jaką metodę kontroli stanu mikrobiologicznego powietrza opisano poniżej? Otwarte płytki Petriego z podłożem stałym pozostawiono na 30 minut na wysokości 1 metra od podłogi, a następnie inkubowano przez 48 godzin w temperaturze 37°C. Po tym czasie wyhodowane kolonie zliczono i zidentyfikowano ich szczepy.",
+    "answers": [
+      "Filtracyjną.",
+      "Odśrodkową.",
+      "Sedymentacyjną.",
+      "Zderzeniową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 131,
+    "text": "Sporządzono wykres potencjometrycznego miareczkowania alkacymetrycznego. W jaki sposób należy opisać oś Y?",
+    "answers": [
+      "pH/∆Vtitranta",
+      "∆pH/∆Vtitranta",
+      "∆SEM/∆Vtitranta",
+      "SEM/∆Vtitranta"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_wykres14.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 132,
+    "text": "Rozproszone w powietrzu czynniki biologiczne, m.in. mikroorganizmy, fragmenty roślin i zwierząt związane z drobnymi cząstkami stałymi (pyłem) lub kropelkami cieczy to",
+    "answers": [
+      "mikroflora.",
+      "biofilm.",
+      "smog.",
+      "bioaerozol."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 133,
+    "text": "Wartość jednego ze zbadanych parametrów jakości wody wynosi 0,8 NTU. Parametrem tym jest",
+    "answers": [
+      "mętność.",
+      "zapach.",
+      "utlenialność.",
+      "barwa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 134,
+    "text": "Stosunek masy luźno nasypanego proszku do objętości zajmowanej przez ten proszek to gęstość",
+    "answers": [
+      "pozorna.",
+      "względna.",
+      "nasypowa.",
+      "bezwzględna."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 135,
+    "text": "W ramce przedstawiono równania reakcji zachodzące podczas oznaczania chlorków metodą",
+    "answers": [
+      "kompleksometryczną.",
+      "strąceniową Mohra.",
+      "grawimetryczną.",
+      "strąceniową Volharda."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_ramka5.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 136,
+    "text": "Wskaż grupę związków chemicznych powodujących twardość niewęglanową wody.",
+    "answers": [
+      "CaCl2, Ca(HCO3)2, MgCl2, MnSO4",
+      "Ca(NO3)2, Ca(HCO3)2, MgCl2, MnSO4",
+      "CaCO3, Mg(HCO3)2, MgSO4, Ca(NO3)2",
+      "CaSO4, MgCl2, Ca(NO3)2, MgSO4"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 137,
+    "text": "Zdolność do rozkładu białek i peptydów wykazują drobnoustroje o właściwościach",
+    "answers": [
+      "lipolitycznych.",
+      "utleniająco-redukujących.",
+      "glikolitycznych.",
+      "proteolitycznych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 138,
+    "text": "Płyn Lugola stosowany w badaniach mikrobiologicznych do barwienia preparatów metodą Grama to",
+    "answers": [
+      "roztwór wodny jodu w jodku potasu.",
+      "alkoholowy roztwór jodku potasu.",
+      "alkoholowy roztwór jodu.",
+      "wodny roztwór jodku potasu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 139,
+    "text": "Na podstawie skali jakości powietrza i uzyskanych wyników pomiaru określ, który ze zbadanych parametrów wskazuje na bardzo złą jakość powietrza.",
+    "answers": [
+      "NO2",
+      "SO2",
+      "PM2,5",
+      "O3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabele3.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 140,
+    "text": "W kolbie miarowej o pojemności 250 cm3 przygotowano roztwór zawierający 1,4025 g KOH. Jaką wartość pH powinien wykazywać sporządzony roztwór? MKOH = 56,1 g/mol",
+    "answers": [
+      "13",
+      "12",
+      "1",
+      "2"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 141,
+    "text": "Na podstawie przedstawionego na rysunku wykresu zależności gęstości wody od temperatury, określ w jakiej temperaturze gęstość wody wynosi 1 g/cm3.",
+    "answers": [
+      "7°C",
+      "4°C",
+      "10°C",
+      "0°C"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_wykres12.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 142,
+    "text": "Roztwór KOH jest stosowany jako titrant w analizie żywności do oznaczania",
+    "answers": [
+      "zawartości laktozy metodą Bertranda.",
+      "liczby jodowej tłuszczów.",
+      "zawartości cukrów redukujących metodą Luffa – Schoorla.",
+      "liczby kwasowej tłuszczów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 143,
+    "text": "Wskaż błędnie określone efekty reakcji analitycznych kationów I grupy.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela58.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 144,
+    "text": "W tabeli przedstawiono fragment opisu parametrów",
+    "answers": [
+      "nefelometru.",
+      "konduktometru.",
+      "termometru.",
+      "pehametru."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela57.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 145,
+    "text": "Na schemacie przedstawiono mechanizm działania wskaźników",
+    "answers": [
+      "kwasowo-zasadowych.",
+      "redoksymetrycznych.",
+      "metalochromowych.",
+      "adsorpcyjnych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_schemat21.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 146,
+    "text": "Która z przedstawionych na wykresie długości fali widma absorpcyjnego jonów MnO4– powinna być stosowana jako długość analityczna?",
+    "answers": [
+      "420 nm",
+      "700 nm",
+      "528 nm",
+      "548 nm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_wykres11.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 147,
+    "text": "W celu oznaczenia zawartości naproksenu w badanej próbce wykonano analizę według procedury: Próbkę roztworu naproksenu przenieść ilościowo do kolby miarowej o pojemności 100 cm3 i uzupełnić roztworem woda + metanol (1:3, v/v) do kreski. Odpipetować 25 cm3 tak przygotowanego roztworu do kolby stożkowej o pojemności 250 cm3 i po dodaniu 5 kropli fenoloftaleiny miareczkować mianowanym roztworem NaOH do uzyskania lekko różowego zabarwienia. Obliczyć zawartość naproksenu w próbce według wzoru: X = C · V · M · W C – stężenie molowe roztworu NaOH, mol/dm3 V – objętość roztworu NaOH zużyta do miareczkowania, dm3 M – masa molowa naproksenu, g/mol W – współmierność kolby i pipety Jaką wartość współmierności kolby i pipety należy podstawić do wzoru, obliczając wynik oznaczenia wykonanego według opisanej procedury?",
+    "answers": [
+      "4",
+      "10",
+      "1",
+      "2,5"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 148,
+    "text": "W której z instrumentalnych metod optycznych wykorzystuje się zjawiska rozproszenia i absorpcji promieniowania elektromagnetycznego?",
+    "answers": [
+      "W absorpcjometrii.",
+      "W refraktometrii.",
+      "W turbidymetrii.",
+      "W polarymetrii."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 149,
+    "text": "Przedstawiona na rysunku waga Westphala-Mohra służy do badania",
+    "answers": [
+      "gęstości cieczy.",
+      "składu granulometrycznego ciał stałych.",
+      "gęstości ciał stałych.",
+      "mętności roztworów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_waga.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 150,
+    "text": "W trakcie badań mikrobiologicznych pomimo kompletnego i sterylnego ubioru ochronnego oraz dużej dbałości podczas wykonywania pomiarów dochodzi do zanieczyszczenia podłoża wzrostowego, co w efekcie daje wynik o kilka JTK/m3 większy od rzeczywistego stężenia zanieczyszczeń. Opisane zjawisko to",
+    "answers": [
+      "sanityzacja.",
+      "kontaminacja.",
+      "aseptyka.",
+      "dekontaminacja."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 151,
+    "text": "Roztwór zawierający aniony I grupy analitycznej poddano identyfikacji metodą chromatografii cienkowarstwowej. Na chromatogramie uwidoczniono dwie plamki w odległości 5,6 cm i 3,5 cm od linii startu. Odległość czoła eluenta od linii startu wyniosła 10,1 cm, a wartości wskaźników Rf wzorców anionów wynoszą odpowiednio: Które z anionów zawierała badana próbka?",
+    "answers": [
+      "Cl- i Br-",
+      "Cl- i SCN-",
+      "I- i Br-",
+      "I- i SCN-"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela59.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 152,
+    "text": "Jaką objętość rozcieńczalnika zużyto na przygotowanie wskazanego w opisie rozcieńczenia próbki mleka? Wykonać dziesiętne rozcieńczenia mleka z 10 cm3 próbki. Pierwsze rozcieńczenie wykonać w kolbie o pojemności 250 cm3 : do 90 cm3 rozcieńczalnika dodać 10 cm3 próby, dokładnie wymieszać; z tego rozcieńczenia pobrać 0,5 cm3 i przenieść do 4,5 cm3 rozcieńczalnika. Postępować w ten sam sposób, aż do uzyskania rozcieńczenia 1:100000.",
+    "answers": [
+      "100,0 cm3",
+      "25,0 cm3",
+      "22,5 cm3",
+      "108,0 cm3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 153,
+    "text": "Na rysunku przedstawiono schemat doświadczenia pozwalającego na zbadanie właściwości",
+    "answers": [
+      "cukrów.",
+      "białek.",
+      "alkoholi.",
+      "tłuszczów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_schemat23.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 154,
+    "text": "Odczyn wodnego roztworu glebowego jest wskaźnikiem kwasowości",
+    "answers": [
+      "wymiennej.",
+      "czynnej.",
+      "hydrolitycznej.",
+      "potencjalnej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 155,
+    "text": "Izomerazy katalizują reakcje przegrupowań wewnątrz cząsteczek, bez rozkładu szkieletu związku i zmiany składu atomowego. Proces ten opisuje schemat",
+    "answers": [
+      "A-B + C → A + B-C",
+      "A-B → A + B",
+      "A-B → B-A",
+      "A + B → A-B"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 156,
+    "text": "Skład pierwiastkowy próbki substancji organicznej jest badany w analizie",
+    "answers": [
+      "specjacyjnej.",
+      "skróconej.",
+      "półilościowej.",
+      "elementarnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 157,
+    "text": "Poniżej scharakteryzowano odczynniki Łączą się z danym jonem ubocznym, wiążąc go w trwałe zespoły i tym samym wyłączają go z udziału w roztworze lub obniżają znacznie jego stężenie.",
+    "answers": [
+      "specyficzne.",
+      "grupowe.",
+      "maskujące.",
+      "selektywne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 158,
+    "text": "Na diagramie słupkowym przedstawiono wyniki analizy sitowej surowca w formie proszkowej. W jakiej kolejności zamontowano sita w wytrząsarce, licząc je od naczynia zbierającego?",
+    "answers": [
+      "180 μm, 150 μm, 108 μm, 75 μm, 63 μm, 45 μm.",
+      "45 μm, 63 μm, 75 μm, 108 μm, 150 μm, 180 μm.",
+      "75 μm, 108 μm, 150 μm, 180 μm  63 μm, 45 μm.",
+      "150 μm, 45 μm, 63 μm, 75 μm, 108 μm, 180 μm."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_diagram.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 159,
+    "text": "Analizując dane zawarte w tabeli, można stwierdzić, że w smalcu w wyniku jełczenia",
+    "answers": [
+      "maleje liczba wiązań podwójnych i wzrasta zawartość wolnych kwasów.",
+      "wzrasta liczba wiązań podwójnych i maleje zawartość wolnych kwasów.",
+      "wzrasta liczba wiązań podwójnych i wzrasta zawartość wolnych kwasów.",
+      "maleje liczba wiązań podwójnych i maleje zawartość wolnych kwasów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela60.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 160,
+    "text": "Zjawisko opisane poniżej, to Jeżeli w wodzie zostanie rozpuszczona α-D-glukopiranoza, to roztwór tuż po rozpuszczeniu wykazuje skręcalność właściwą [α]D= +112,2°, lecz w miarę upływu czasu skręcalność ta stopniowo spada do wartości charakterystycznej w stanie równowagi, mianowicie [α]D= +52,7°",
+    "answers": [
+      "mutarotacja.",
+      "tautomeria.",
+      "inwersja.",
+      "racemizacja."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 161,
+    "text": "Zawartość kwasu octowego oznaczano alkacymetrycznie, mierząc zmiany przewodnictwa właściwego mieszaniny reakcyjnej w wyniku dodawania roztworu NaOH. Przebieg miareczkowania przedstawiają linie",
+    "answers": [
+      "D i F",
+      "A i E",
+      "B i F",
+      "C i E"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_wykres18.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 162,
+    "text": "Zjawisko zatrzymania obcych jonów wewnątrz strącanej substancji w czasie analizy wagowej nosi nazwę",
+    "answers": [
+      "współstrącania.",
+      "efektu solnego.",
+      "okluzji.",
+      "adsorpcji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 163,
+    "text": "Mangan ulega utlenieniu w reakcji",
+    "answers": [
+      "MnO(OH)2 + 4H+ → Mn4+ + 3H2O",
+      "2Mn(OH)2 + O2 → 2 MnO(OH)2↓",
+      "Mn2+ + 2OH- → Mn(OH)2↓",
+      "Mn4+ + 2J- → Mn2+ + J2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 164,
+    "text": "Próbkę wody pobranej do analizy mikrobiologicznej rozcieńczono 1000-krotnie. Z rozcieńczonego roztworu pobrano 0,1 ml i przeniesiono na płytkę z pożywką. W wyniku hodowli na płytce powstało 10 jtk. Jakie było stężenie bakterii w badanej wodzie?",
+    "answers": [
+      "1 000 komórek/ml",
+      "100 komórek/ml",
+      "100 000 komórek/ml",
+      "10 000 komórek/ml"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 165,
+    "text": "Który z parametrów jakości wody jest nieprawidłowo opisany?",
+    "answers": [
+      "Barwa.",
+      "Mętność.",
+      "Jon amonowy.",
+      "Twardość."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela88.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 166,
+    "text": "W oznaczeniach kompleksometrycznych dużej grupy kationów metali jako titrant stosowany jest związek chemiczny o ogólnym wzorze Na2H2Y. Przebieg oznaczenia przedstawiono schematycznie zapisem równania reakcji: Me(H2O)xn+ + H2Y2- ↔ MeYn-4 + 2H3O+ + (x-2) H2O Który z jonów metali nie jest oznaczany tą metodą?",
+    "answers": [
+      "Al3+",
+      "Zn2+",
+      "Na+",
+      "Ca2+"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 167,
+    "text": "Do analizy pobrano próbkę o masie 200 mg. Na podstawie informacji zamieszczonych w tabeli określ, w której skali będzie wykonana ta analiza.",
+    "answers": [
+      "Ultramikro.",
+      "Mikro.",
+      "Makro.",
+      "Semimikro."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela86.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 168,
+    "text": "Elektroforeza jest metodą stosowaną przede wszystkim do rozdzielenia mieszaniny",
+    "answers": [
+      "węglowodanów.",
+      "tłuszczów.",
+      "białek.",
+      "alkoholi."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 169,
+    "text": "Na schemacie przedstawiono bieg promieni światła w",
+    "answers": [
+      "mikroskopie.",
+      "refraktometrze.",
+      "spektrofotometrze.",
+      "polarymetrze."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_schemat34.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 170,
+    "text": "W celu oceny jakości masła wykonano oznaczenie liczby kwasowej LK, liczby zmydlania LZ i liczby nadtlenkowej LOO. Wyniki zapisano w tabeli. Wartość liczby estrowej LE w badanym maśle wynosi",
+    "answers": [
+      "234,7 mg KOH/1g",
+      "195,6 mg KOH/1g",
+      "198,0 mg KOH/1g",
+      "164,0 mg KOH/1g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela87.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 171,
+    "text": "Mianowany roztwór tiocyjanianu amonu NH4SCN stosowany jest jako titrant w oznaczaniu bromków metodą miareczkowania",
+    "answers": [
+      "jodometrycznego.",
+      "argentometrycznego.",
+      "bromianometrycznego.",
+      "kompleksometrycznego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 172,
+    "text": "Efekt Tyndalla wykorzystuje się",
+    "answers": [
+      "w refraktometrii.",
+      "w absorpcjometrii.",
+      "w polarymetrii.",
+      "w nefelometrii."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 173,
+    "text": "Roztwór K2CrO4 stosowany jest jako wskaźnik w oznaczaniu chlorków metodą Mohra. Powoduje on zmianę barwy mieszaniny reakcyjnej, która jest wywołana",
+    "answers": [
+      "utlenianiem chlorków, w wyniku których tworzy się zielonożółty chlor.",
+      "przekształceniem się żółtego K2CrO4 w pomarańczowy K2Cr2O7.",
+      "tworzeniem się z nadmiarem titrantu brunatnoczerwonego osadu Ag2CrO4.",
+      "adsorpcją żółtego roztworu wskaźnika na serowatym białym osadzie AgCl."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 174,
+    "text": "Eluentem jest",
+    "answers": [
+      "faza stacjonarna w chromatografii gazowej.",
+      "faza ruchoma w chromatografii cieczowej.",
+      "wyciek ze złoża chromatograficznego.",
+      "próbka przygotowana do analizy chromatograficznej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 175,
+    "text": "Który ze wskaźników jest miarą zawartości substancji mineralnych w ściekach?",
+    "answers": [
+      "Chemiczne zapotrzebowanie tlenu.",
+      "Pozostałość po prażeniu.",
+      "Biochemiczne zapotrzebowanie tlenu.",
+      "Ogólny węgiel organiczny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 176,
+    "text": "Podłoża o konsystencji płynnej są stosowane w celu",
+    "answers": [
+      "hodowania bakterii o małym zapotrzebowaniu na tlen.",
+      "różnicowania bakterii.",
+      "namnażania dużej biomasy drobnoustrojów.",
+      "obserwowania ruchu drobnoustrojów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 177,
+    "text": "W oznaczeniach objętościowych błąd miareczkowania nie występuje, gdy",
+    "answers": [
+      "PK = PR",
+      "PK > PR",
+      "PK >> PR",
+      "PK < PR"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 178,
+    "text": "W wyrażeniu na iloczyn rozpuszczalności siarczanu(VI) baru: Kso = [Ba2+][SO42-], stężenia jonów Ba2+ i SO42- występują jako",
+    "answers": [
+      "stężenia roztworów soli baru i kwasu siarkowego(VI) przed ich zmieszaniem.",
+      "równowagowe stężenie jonów Ba2+ i SO42- w strąconym osadzie BaSO4.",
+      "stężenia jonów Ba2+ i SO42- w roztworze bezpośrednio po zmieszaniu regentów.",
+      "równowagowe stężenia jonów Ba2+ i SO42- w roztworze nasyconym nad osadem BaSO4."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 179,
+    "text": "Na schemacie przedstawiono parametry jakości wód. Dla wody o pH = 8,5 należy wykonać badanie",
+    "answers": [
+      "kwasowości ogólnej i mineralnej.",
+      "tylko kwasowości ogólnej.",
+      "zasadowości ogólnej i mineralnej.",
+      "tylko zasadowości mineralnej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_schemat32.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 180,
+    "text": "W procedurze analitycznej zapisano: 1 cm3 roztworu NaOH o stężeniu 0,1 mol/dm3 odpowiada 19,07 mg tetraboranu sodu Na2B4O7· H2O Ile wynosi zawartość procentowa Na2B4O7 · H2O w badanej próbce boraksu, jeżeli na zmiareczkowanie 0,3 g próbki zużyto 15,4 cm3 roztworu NaOH?",
+    "answers": [
+      "93,05%",
+      "97,9%",
+      "0,98%",
+      "9,80%"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 181,
+    "text": "Który ze związków będzie barwny w świetle widzialnym?",
+    "answers": [
+      "Naftacen.",
+      "Naftalen.",
+      "Antracen.",
+      "Benzen."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_wykresy3.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 182,
+    "text": "Biocydy dodaje się do próbki środowiskowej w celu",
+    "answers": [
+      "derywatyzacji analitów.",
+      "osuszania próbki.",
+      "zwiększenia wydajności ekstrakcji.",
+      "konserwacji próbki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 183,
+    "text": "Anaerostat w laboratorium stosowany jest",
+    "answers": [
+      "do hodowli mikroorganizmów beztlenowych.",
+      "jako lampa bakteriobójcza.",
+      "do suszenia sublimacyjnego zamrożonych substancji.",
+      "do hodowli mikroorganizmów tlenowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 184,
+    "text": "Lepkość oleju napędowego w temperaturze 40°C wynosi 3 mm2/s. Jest to lepkość",
+    "answers": [
+      "kinematyczna.",
+      "względna.",
+      "dynamiczna.",
+      "bezwzględna."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 185,
+    "text": "Na etykiecie odczynnika chemicznego zawarte są następujące informacje: Z informacji wynika, że odczynnik ten może być zastosowany do sporządzenia roztworu o stężeniu około 0,1 mol/dm3 z dokładnością do",
+    "answers": [
+      "0,0002 mol/dm3",
+      "0,002 mol/dm3",
+      "0,2 mol/dm3",
+      "0,02 mol/dm3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_ramka7.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 186,
+    "text": "Na schemacie przedstawiono oznaczanie mieszaniny",
+    "answers": [
+      "NaOH i Na2CO3",
+      "NaOH i NaCl",
+      "HCl i Na2CO3",
+      "NaOH i HCl"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_schemat33.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 187,
+    "text": "Przedstawiona na rysunku komora laminarna jest stosowana w laboratorium w celu bezpiecznego wykonywania prac",
+    "answers": [
+      "w podwyższonym ciśnieniu.",
+      "w obniżonej temperaturze.",
+      "w sztucznym mikroklimacie.",
+      "mikrobiologicznych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_komora.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 188,
+    "text": "Które ze składników odżywczych w produktach żywnościowych są oznaczane przy użyciu odczynników Fehlinga I i II?",
+    "answers": [
+      "Tłuszcze.",
+      "Białka.",
+      "Sole mineralne.",
+      "Cukry."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 189,
+    "text": "Proces zagęszczania i suszenia związków termolabilnych, takich jak białka i kwasy nukleinowe, poprzez suszenie zamrożonego materiału pod zmniejszonym ciśnieniem na drodze sublimacji lodu, jest nazywany",
+    "answers": [
+      "liofilizacją.",
+      "tyndalizacją.",
+      "dehydratyzacją.",
+      "suszeniem próżniowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 190,
+    "text": "Metoda Winklera ma zastosowanie do oznaczania",
+    "answers": [
+      "zasadowości wody.",
+      "pH wody.",
+      "tlenu rozpuszczonego w wodzie.",
+      "manganu rozpuszczonego w wodzie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 191,
+    "text": "Szkło wodne sodowe jest roztworem krzemianów sodu o wzorze Na2O · n SiO2. Zawartość tlenków sodu i krzemu wpływa na tzw. moduł molowy M A – zawartość tlenku sodu, [%] B – zawartość krzemionki, [%] 1,032 – współczynnik przeliczeniowy z jednostek wagowych na mole W zależności od wartości modułu i innych parametrów, szkło wodne sodowe kwalifikowane jest na rodzaje R: Jak należy zakwalifikować badane szkło wodne, jeżeli zawartość SiO2 wynosi 31,8%, a zawartość Na2O wynosi 11,0%?",
+    "answers": [
+      "R – 150-1,7",
+      "R – 149",
+      "R – 150 S",
+      "R – 150-2,3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_wzor16.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 192,
+    "text": "Z opisu wynika, że do oznaczenia wapnia w glukonianie wapnia stosuje się miareczkowanie",
+    "answers": [
+      "strąceniowe.",
+      "pośrednie podstawieniowe.",
+      "bezpośrednie",
+      "pośrednie odwrotne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_opis5.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 193,
+    "text": "Błąd kwasowy i błąd sodowy powodują ograniczenia w stosowaniu elektrody",
+    "answers": [
+      "chlorosrebrowej.",
+      "sodowej.",
+      "kalomelowej.",
+      "szklanej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 194,
+    "text": "Na schemacie przedstawiono zestaw do",
+    "answers": [
+      "elektrograwimetrii.",
+      "elektroforezy.",
+      "konduktometrii.",
+      "potencjometrii."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_zestaw6.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 195,
+    "text": "Na schemacie przedstawiono procesy, które zachodzą podczas przygotowania próbek do badań z wykorzystaniem",
+    "answers": [
+      "nefelometrii i turbidymetrii.",
+      "chromatografii cieczowej.",
+      "chromatografii gazowej.",
+      "spektroskopii atomowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_schemat35.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 196,
+    "text": "Próbkę żywności poddano ogrzewaniu w suszarce laboratoryjnej, a następnie obliczono X według wzoru: a – masa naczynka z badaną próbką przed ogrzewaniem [g] b – masa naczynka z badaną próbką po ogrzewaniu [g] c – masa pustego naczynka [g] Wartość liczbowa X określa",
+    "answers": [
+      "zawartość suchej masy.",
+      "wilgotność względną próbki.",
+      "pozostałość po prażeniu.",
+      "straty po prażeniu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_wzor15.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 197,
+    "text": "Na schemacie przedstawiono",
+    "answers": [
+      "fotometr jednowiązkowy.",
+      "polarymetr półcieniowy.",
+      "fotometr dwuwiązkowy.",
+      "polarymetr kołowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_schemat36.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 198,
+    "text": "W opisie metody analitycznej zapisano: Różnica w otrzymanych wynikach dwóch oznaczeń wykonanych równocześnie lub w krótkim przedziale czasu na tej samej próbce, przez tego samego analityka, w takich samych warunkach, nie może przekraczać 1,5 g na 100 g oznaczanej próbki. Który parametr metody analitycznej opisano?",
+    "answers": [
+      "Powtarzalność.",
+      "Dokładność.",
+      "Niepewność.",
+      "Odtwarzalność."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 199,
+    "text": "W celu wyznaczenia wartości absorbancji substancji X zmierzono, przy tych samych długościach fali, absorbancję mieszaniny X i Y oraz samej substancji Y. Jeżeli AX+Y = 0,84, a AY = 0,56 to wartość AX wynosi",
+    "answers": [
+      "0,28",
+      "0,56",
+      "0,84",
+      "1,40"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 200,
+    "text": "Na zmiareczkowanie odważki KOH zużyto 30,0 cm3 roztworu HCl o stężeniu 0,1 mol/dm3. Ile gramów KOH zawierała odważka? MKOH = 56 g/mol",
+    "answers": [
+      "0,300 g",
+      "0,168 g",
+      "1,680 g",
+      "3,000 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 201,
+    "text": "Na rysunku przedstawiono aparat",
+    "answers": [
+      "Koflera.",
+      "Soxhleta.",
+      "Tottoli.",
+      "Hoffmana."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_aparat4.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 202,
+    "text": "Ile miligramów wapnia (MCa = 40,0 g/mol) zawierał analizowany roztwór, jeżeli na zmiareczkowanie próbki zużyto 20 cm3 0,0100-molowego roztworu EDTA?",
+    "answers": [
+      "8,000 mg",
+      "0,800 mg",
+      "0,008 mg",
+      "0,080 mg"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 203,
+    "text": "Na podstawie informacji zamieszczonych w tabeli wskaż, do którego rodzaju nawozów azotowych należy saletra potasowa.",
+    "answers": [
+      "II.",
+      "I.",
+      "III.",
+      "IV."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela90.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 204,
+    "text": "Na rysunku pokazano efekt reakcji chemicznej, polegającej na dodaniu do badanego roztworu jonów żelaza (II) w obecności stężonego kwasu siarkowego(VI). Reakcja ta jest stosowana w celu wykrywania jonów",
+    "answers": [
+      "chlorkowych.",
+      "octanowych.",
+      "siarczanowych(VI).",
+      "azotanowych(V)."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_reakcja.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 205,
+    "text": "Na rysunku przedstawiono lepkościomierz",
+    "answers": [
+      "Hopplera.",
+      "Englera.",
+      "Poiseuille’a.",
+      "Arrheniusa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_lepkosciomierz.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 206,
+    "text": "Na rysunku przedstawiono schemat aparatury do",
+    "answers": [
+      "NMR",
+      "UV-Vis",
+      "ASA",
+      "GC"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_schemat14.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 207,
+    "text": "Na rysunku przedstawiono schemat szklanej elektrody zespolonej. Cyfrą 1 oznaczono",
+    "answers": [
+      "elektrolit wewnętrzny.",
+      "diafragmę.",
+      "elektrodę pomiarową.",
+      "elektrodę odniesienia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_schemat18.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 208,
+    "text": "W analizie miareczkowej kwas solny oznacza się metodą",
+    "answers": [
+      "jodometryczną.",
+      "alkalimetryczną.",
+      "manganometryczną.",
+      "acydymetryczną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 209,
+    "text": "Na zmiareczkowanie próbki wodorotlenku sodu o objętości 25 cm3 zużyto 20 cm3 roztworu kwasu solnego o stężeniu 0,1020 mol/dm3. Stężenie molowe roztworu NaOH wynosi",
+    "answers": [
+      "0,1275 mol/dm3",
+      "0,0082 mol/dm3",
+      "0,0510 mol/dm3",
+      "0,0816 mol/dm3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 210,
+    "text": "W hodowli bakterii i grzybów jako pożywki nie można stosować",
+    "answers": [
+      "glukozy.",
+      "etanolu.",
+      "bulionu.",
+      "agaru."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 211,
+    "text": "Metoda chromatografii, w której rozdzielenie składników następuje na skutek różnej rozpuszczalności osadów powstających w reakcji między znajdującymi się w roztworze jonami a osadzonym na nośniku odczynnikiem strącającym, nosi nazwę chromatografii",
+    "answers": [
+      "osadowej.",
+      "jonowymiennej.",
+      "żelowej.",
+      "adsorbcyjnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 212,
+    "text": "Na podstawie informacji zawartych w tabeli wskaż, który adsorbent należy zastosować podczas oznaczania karotenów.",
+    "answers": [
+      "Tlenek glinu zasadowy.",
+      "Żel krzemionkowy.",
+      "Tlenek glinu obojętny.",
+      "Tlenek glinu kwasowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela92.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 213,
+    "text": "W wyniku przeprowadzenia elektrolizy wodnego roztworu pewnego związku, na katodzie wydzielił się wodór, a na anodzie tlen. Który ze związków poddano procesowi?",
+    "answers": [
+      "AgNO3",
+      "NaOH",
+      "CuSO4",
+      "NaCl"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 214,
+    "text": "Dzienne spożycie flawonoidów, mających działanie antyoksydacyjne, powinno wynosić 1000 mg. Oblicz, ile g czarnej porzeczki należy spożyć, aby pokryć zapotrzebowanie na antyoksydanty, jeżeli 100 g czarnej porzeczki zawiera 640 mg flawonoidów.",
+    "answers": [
+      "0,640 g",
+      "6,400 g",
+      "156,0 g",
+      "156,3 g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 215,
+    "text": "Który zestaw kationów należy do II grupy analitycznej?",
+    "answers": [
+      "Cd2+, Sn2+, Al3+",
+      "Cu2+, Cd2+, Hg2+",
+      "Zn2+, Cu2+, Cd2+",
+      "Sn2+, Hg2+, Ag+"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 216,
+    "text": "W oznaczaniu ChZT wody, zwanym utlenialnością, utleniaczem jest",
+    "answers": [
+      "Cl2",
+      "Hsub>2Osub>2",
+      "K2Cr2O7",
+      "KMnO4"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 217,
+    "text": "Na rysunku przedstawiono zestaw do chromatografii kolumnowej. Cyfrą 1 oznaczono",
+    "answers": [
+      "pompkę wodną.",
+      "eluent.",
+      "eluat.",
+      "wypełnienie kolumny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_zestaw3.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 218,
+    "text": "Przedstawiona na rysunku krzywa miareczkowania jest charakterystyczna dla",
+    "answers": [
+      "HCl",
+      "H3PO4",
+      "NaOH",
+      "H2SO4"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_krzywa4.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 219,
+    "text": "Jaka jest wartość stałej Michaelisa, dla której enzym wykazuje największe powinowactwo do substratu?",
+    "answers": [
+      "10-2 mol/dm3",
+      "10-3 mol/dm3",
+      "10-5 mol/dm3",
+      "10-4 mol/dm3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 220,
+    "text": "Na podstawie informacji zamieszczonych w tabeli wskaż nazwę badanego związku.",
+    "answers": [
+      "Glicerol.",
+      "Butanon.",
+      "Glukoza.",
+      "Kwas metanowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela91.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 221,
+    "text": "W celu uzyskania poprawnych wyników oznaczania skręcalności właściwej cukrów konieczne jest",
+    "answers": [
+      "zastosowanie rozpuszczalników czynnych optycznie.",
+      "użycie rozcieńczonych roztworów.",
+      "uwzględnienie zjawiska mutarotacji.",
+      "odparowanie nadmiaru rozpuszczalnika."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 222,
+    "text": "W środowisku obojętnym manganian(VII) potasu redukuje się do",
+    "answers": [
+      "Mn2+",
+      "MnO42-",
+      "Mn",
+      "MnO2"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 223,
+    "text": "Który ze sprzętów przedstawionych na rysunkach jest niezbędny do przygotowania 250 cm3 mianowanego roztworu NaOH z fiksanalu?",
+    "answers": [
+      "IV.",
+      "II.",
+      "III.",
+      "I."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_sprzet8.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 224,
+    "text": "Która metoda analityczna polega na pomiarze przewodnictwa roztworu znajdującego się między dwiema elektrodami, do których przykładany jest prąd zmienny?",
+    "answers": [
+      "Polarografia.",
+      "Potencjometria.",
+      "Spektrofotometria.",
+      "Konduktometria."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 225,
+    "text": "Opisana metoda miareczkowania zaliczana jest do Ilościowe oznaczenie cukrów polega na redukcji soli miedzi(II) roztworem cukru, a następnie dodaniu do próbki roztworu KI i odmiareczkowaniu wydzielonego jodu mianowanym roztworem tiosiarczanu sodu",
+    "answers": [
+      "acydymetrii.",
+      "bromianometrii.",
+      "precypitometrii.",
+      "redoksymetrii."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 226,
+    "text": "Na rysunku przedstawiono wyznaczanie punktu końcowego miareczkowania metodą",
+    "answers": [
+      "grawimetryczną.",
+      "połówkową.",
+      "drugiej pochodnej.",
+      "pierwszej pochodnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_rysunek2.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 227,
+    "text": "Wskaż szereg związków powodujących twardość niewęglanową wody.",
+    "answers": [
+      "Mg(OH)2, MgCO3, Mg(NO3)2",
+      "Mg(OH)2, Mg(NO3)2, MgSO4",
+      "CaSO4, CaCl2, Ca(NO3)2",
+      "Ca(OH)2, CaSO4, CaCl2"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 228,
+    "text": "Na podstawie zamieszczonego schematu ilustrującego przeprowadzone badania wskaż, jaką barwę przyjmie roztwór w probówce oznaczonej numerem 2.",
+    "answers": [
+      "Czarną.",
+      "Ceglastoczerwoną.",
+      "Żółtą.",
+      "Fioletową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_schemat16.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 229,
+    "text": "Do roztworzenia próbki mosiądzu należy użyć kwasu",
+    "answers": [
+      "azotowego(V).",
+      "solnego.",
+      "siarkowodorowego.",
+      "fosforowego(V)."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 230,
+    "text": "Na podstawie zamieszczonego opisu wskaż, którą metodę stosuje się do oznaczania zawartości kwasu acetylosalicylowego. Oznaczenie zawartości kwasu acetylosalicylowego w preparacie farmaceutycznym Oznaczenie polega na hydrolizie tego kwasu na gorąco, za pomocą mianowanego roztworu wodorotlenku sodu o stężeniu 0,1 mol/dm3, do salicylanu i octanu sodu. Nadmiar NaOH odmiareczkowuje się mianowanym roztworem kwasu siarkowego(VI) wobec fenoloftaleiny jako wskaźnika.",
+    "answers": [
+      "Alkacymetryczną.",
+      "Argentometryczną.",
+      "Kompleksometryczną.",
+      "Jodometryczną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 231,
+    "text": "Metalowskaźniki są stosowane w analizie",
+    "answers": [
+      "redoksymetrycznej.",
+      "strąceniowej.",
+      "alkacymetrycznej.",
+      "kompleksometrycznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 232,
+    "text": "Na którym rysunku przedstawiono sprzęt stosowany do pomiaru mętności wody?",
+    "answers": [
+      "II.",
+      "IV.",
+      "III.",
+      "I."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_sprzet9.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 233,
+    "text": "Na wykresie przedstawiono krzywą miareczkowania",
+    "answers": [
+      "mocnego kwasu mocną zasadą.",
+      "mocnego kwasu słabą zasadą.",
+      "słabego kwasu mocną zasadą.",
+      "mocnej zasady słabym kwasem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_wykres9.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 234,
+    "text": "Jak nazywa się technika, która umożliwia analizę składu aminokwasowego próbek, wykorzystującą różnicę w zachowaniu się poszczególnych cząsteczek w układzie dwufazowym, w którym jedna z faz jest stacjonarna, a druga ruchoma, przy czym faza stacjonarna jest mniej polarna niż faza ruchoma?",
+    "answers": [
+      "Elektrochromatografia.",
+      "Chromatografia cienkowarstwowa.",
+      "Chromatografia w odwróconym układzie faz.",
+      "Elektroforeza kapilarna."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 235,
+    "text": "Zamieszczony opis dotyczy barwienia bakterii metodą − fiolet krystaliczny, 2-3 minuty, − płyn Lugola, 1-2 minuty, − alkohol aż do odbarwienia, ok. 30 sekund, − woda – spłukanie, − fuksyna w roztworze fenolowym (rozcieńczenie1:10), 20 sekund, − woda – spłukanie",
+    "answers": [
+      "Giemsy.",
+      "Neissera.",
+      "Grama.",
+      "Ziehla-Neelsena."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 236,
+    "text": "Podczas badań bakteriologicznych wody ze studni wykryto obecność bakterii typu coli w ilości 200 bakterii/100 ml. Oznacza to, że woda",
+    "answers": [
+      "nie nadaje się do picia.",
+      "nadaje się do picia tylko dla zwierząt hodowlanych.",
+      "jest zdatna bezpośrednio do picia.",
+      "jest zdatna do spożycia po przegotowaniu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 237,
+    "text": "Oznaczenie kwasowości soku owocowego należy do metod",
+    "answers": [
+      "mikrobiologicznych.",
+      "fizycznych.",
+      "chemicznych.",
+      "biologicznych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 238,
+    "text": "Przeprowadzono doświadczenie zgodnie ze schematem. Roztwór w probówce zabarwił się na kolor",
+    "answers": [
+      "ceglastoczerwony.",
+      "ceglasty.",
+      "fioletowoniebieski.",
+      "czarny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_schemat19.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 239,
+    "text": "Część białkowa enzymu to",
+    "answers": [
+      "koenzym.",
+      "kofaktor.",
+      "apoenzym.",
+      "grupa prostetyczna."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 240,
+    "text": "Na rysunku przedstawiono schemat budowy",
+    "answers": [
+      "suszarki.",
+      "tyndalizatora.",
+      "wirówki.",
+      "autoklawu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_schemat37.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 241,
+    "text": "W której z reakcji opisanych równaniami mangan ulega utlenieniu?",
+    "answers": [
+      "2Mn(OH)2 + O2 → 2 MnO(OH)2↓",
+      "Mn2+ + 2OH- → Mn(OH)2↓",
+      "Mn4+ + 2J- → Mn2+ + J2",
+      "MnO(OH)2 + 4H+ → Mn4+ + 3H2O"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 242,
+    "text": "Pomiar zasolenia wody wykonuje się za pomocą",
+    "answers": [
+      "konduktometru.",
+      "polarymetru.",
+      "pehametru.",
+      "termopary."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 243,
+    "text": "Za pomocą polarymetru dokonuje się pomiaru",
+    "answers": [
+      "absorbancji.",
+      "kąta skręcania płaszczyzny światła spolaryzowanego.",
+      "transmitancji.",
+      "współczynnika załamania światła."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 244,
+    "text": "Do metod analizy opartych na reakcjach chemicznych należy",
+    "answers": [
+      "refraktometria.",
+      "kompleksometria.",
+      "polarymetria.",
+      "nefelometria."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 245,
+    "text": "Stapianie substancji z perłą fosforanową lub boraksową wykonuje się",
+    "answers": [
+      "na bibule filtracyjnej.",
+      "w probówce stożkowej.",
+      "na płytce porcelanowej.",
+      "w uszku z drucika platynowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 246,
+    "text": "Odczynnikiem grupowym kationów IV grupy analitycznej jest",
+    "answers": [
+      "H2S w roztworze NH3(aq) i NH4Cl.",
+      "roztwór HCl o stężeniu 2 mol/dm3.",
+      "H2S w roztworze HCl o stężeniu 0,3 mol/dm3.",
+      "(NH4)2CO3 w roztworze NH3(aq) i NH4Cl."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 247,
+    "text": "Którą właściwość fizyczną substancji można wyznaczyć za pomocą areometru?",
+    "answers": [
+      "Lepkość.",
+      "Gęstość.",
+      "Temperaturę wrzenia.",
+      "Temperaturę topnienia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 248,
+    "text": "Podłoże służące do otrzymywania hodowli o wysokiej populacji drobnoustrojów badanego szczepu określa się",
+    "answers": [
+      "wybiórczo - różnicującym.",
+      "wybiórczym.",
+      "namnażającym.",
+      "różnicującym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 249,
+    "text": "Batometr służy do",
+    "answers": [
+      "pomiaru zawartości gazu.",
+      "pomiaru hałasu.",
+      "pobierania próbek wody.",
+      "pobierania próbek ciał stałych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 250,
+    "text": "Na schemacie przedstawiającym sposób pobierania hodowli do badań ze skosu agarowego, literą A oznaczono",
+    "answers": [
+      "zamykanie probówki.",
+      "pobieranie materiału.",
+      "jałowienie ezy w płomieniu.",
+      "opalanie brzegu probówki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_schemat11.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 251,
+    "text": "Z jaką dokładnością należy odważyć próbkę o masie 20 mg, aby błąd względny nie przekroczył 0,05%?",
+    "answers": [
+      "10 mg",
+      "0,1 mg",
+      "1 mg",
+      "0,01 mg"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 252,
+    "text": "Na rysunkach przedstawiono serie pomiarów o różnej dokładności i precyzji (środek najmniejszego okręgu oznacza wartość prawdziwą). Serię pomiarów precyzyjnych, ale niedokładnych przedstawiono na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_pomiary.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 253,
+    "text": "Do wskaźników stosowanych w oznaczeniach kompleksometrycznych należy",
+    "answers": [
+      "czerwień metylowa.",
+      "skrobia.",
+      "kalces.",
+      "błękit bromotymolowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 254,
+    "text": "Podczas miareczkowania próbki kwasu octowego roztworem wodorotlenku sodu zachodzi reakcja",
+    "answers": [
+      "zobojętniania.",
+      "tworzenia związku kompleksowego.",
+      "utleniania-redukcji.",
+      "strącania osadu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 255,
+    "text": "Do oznaczania cukrów redukujących w przetworach owocowych można zastosować metodę",
+    "answers": [
+      "Luffa-Schoorla.",
+      "Soxhleta.",
+      "Lowry’ego.",
+      "Kjeldahla."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 256,
+    "text": "Przedstawione równania reakcji zachodzą podczas oznaczania chlorków metodą Ag+ + Cl– → AgCl 2Ag+ + CrO42- → Ag2CrO4",
+    "answers": [
+      "redoksymetryczną.",
+      "strąceniową Volharda.",
+      "strąceniową Mohra.",
+      "kompleksometryczną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 257,
+    "text": "W próbce wody oznaczono zawartość rozpuszczonego tlenu metodą Winklera. Wyniki zestawiono w tabeli: Korzystając z zamieszczonego wzoru, określ zawartość rozpuszczonego tlenu (x) w badanej próbce wody. x – zawartość tlenu rozpuszczonego; mgO2/dm3 V1 – objętość roztworu Na2S2O3 o stężeniu 0,025 mol/dm3 zużyta do miareczkowania; cm3 Vp – objętość próbki wody użytej do miareczkowania; cm3 0,2 – ilość tlenu odpowiadająca 1 cm3 roztworu Na2S2O3 o stężeniu 0,025 mol/dm3; mg",
+    "answers": [
+      "17,0 mgO2/dm3",
+      "16,8 mgO2/dm3",
+      "15,8 mgO2/dm3",
+      "8,40 mgO2/dm3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela67.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 258,
+    "text": "Określanie punktu końcowego (PK) miareczkowania metodami: graficzną, pierwszej pochodnej i Hahna stosowane jest w",
+    "answers": [
+      "konduktometrii.",
+      "potencjometrii.",
+      "grawimetrii.",
+      "spektrofotometrii."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 259,
+    "text": "W celu identyfikacji cukru przeprowadzono doświadczenia, których wyniki zapisano w tabeli:",
+    "answers": [
+      "fruktoza.",
+      "glukoza.",
+      "sacharoza.",
+      "skrobia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela66.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 260,
+    "text": "Na podstawie przedstawionego Indeksu jakości powietrza i uzyskanych wyników pomiaru wskaż, który z parametrów wskazuje na bardzo złą jakość powietrza.",
+    "answers": [
+      "NO2",
+      "SO2",
+      "PM10",
+      "PM2,5"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabele5.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 261,
+    "text": "Absorbancja barwnego roztworu o stężeniu 0,0004 mol/dm3, zmierzona w kuwecie o grubości 1 cm wynosi 0,30. Korzystając z zamieszczonego wzoru, oblicz wartość molowego współczynnika absorpcji ε. A = ε ∙ l ∙ c gdzie: A – wartość absorbancji ε – molowy współczynnik absorpcji; dm3 / mol · cm c – stężenie molowe roztworu; mol / dm3 l – grubość kuwety; cm",
+    "answers": [
+      "500 dm3/mol · cm",
+      "800 dm3/mol · cm",
+      "750 dm3/mol · cm",
+      "450 dm3/mol · cm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 262,
+    "text": "Oznaczono zawartość cynku w stopie metodą kompleksometryczną. W tym celu odważono 0,50 g stopu i przeprowadzono do roztworu. Próbkę do badań przygotowano w kolbie miarowej o pojemności 250 cm3. Następnie do trzech kolb stożkowych odpipetowano po 50 cm3 roztworu z przygotowanej próbki do badań. Próbki miareczkowano roztworem EDTA o stężeniu 0,01 mmol/cm3. Zużyta średnia objętość roztworu EDTA wyniosła 32,5 cm3. Korzystając z zamieszczonego wzoru, oblicz procentową zawartość cynku w stopie. mZn = V ∙ CEDTA ∙ 65,37 ∙ W mZn – masa cynku; mg V – objętość zużytego roztworu EDTA w trakcie miareczkowania; cm3 CEDTA – stężenie molowe roztworu EDTA; mmol/cm3 65,37 – masa molowa cynku; mg/mmol W – współmierność kolby miarowej i pipety; 5",
+    "answers": [
+      "21,25% Zn",
+      "17,15% Zn",
+      "25,33% Zn",
+      "19,34% Zn"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 263,
+    "text": "Efekt wspólnego jonu to",
+    "answers": [
+      "zwiększenie rozpuszczalności osadu na skutek obecności jonu wspólnego z osadem.",
+      "zmniejszenie rozpuszczalności osadu na skutek obecności jonu wspólnego z osadem.",
+      "osadzenie się na powierzchni osadu jonów ujemnych innych niż wchodzące w skład osadu.",
+      "osadzenie się na powierzchni osadu ujemnych oraz dodatnich jonów innych niż wchodzące w skład osadu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 264,
+    "text": "Analiza organoleptyczna wody przeznaczonej do spożycia przez ludzi obejmuje oznaczenie między innymi",
+    "answers": [
+      "pH.",
+      "ogólnej liczby mikroorganizmów.",
+      "zapachu.",
+      "bakterii grupy coli."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 265,
+    "text": "Przedstawione reakcje zachodzą w produktach żywnościowych podczas fermentacji C12H22O11 + H2O → C6H12O6 + C6H12O6 C6H12O6 → 2 CH3 –CH(OH) –COOH",
+    "answers": [
+      "mlekowej.",
+      "alkoholowej.",
+      "masłowej.",
+      "octowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 266,
+    "text": "Z rysunku wynika, że analitem jest roztwór",
+    "answers": [
+      "mocnego kwasu.",
+      "słabego kwasu.",
+      "słabej zasady.",
+      "mocnej zasady."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_wykres16.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 267,
+    "text": "Do redoksometrycznego oznaczenia nadtlenku wodoru w roztworze wody utlenionej jako titrant stosuje się mianowany roztwór",
+    "answers": [
+      "Na2S2O3.",
+      "AgNO3.",
+      "HCl.",
+      "KMnO4."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 268,
+    "text": "CHZT i BZT to parametry oznaczane w analizie",
+    "answers": [
+      "białek.",
+      "tłuszczów.",
+      "wody.",
+      "cukrów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 269,
+    "text": "Ile wynosi refrakcja molowa kwasu octowego o gęstości równej 1,0498 g/cm3, jeżeli współczynnik załamania światła wynosi 1,3874, a masa molowa kwasu octowego jest równa 60,054 g/mol? RM – refrakcja molowa; cm3/mol n – współczynnik załamania światła d – gęstość; g/cm3 M – masa molowa; g/mol",
+    "answers": [
+      "15,56",
+      "13,48",
+      "15,28",
+      "14,68"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_wzor13.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 270,
+    "text": "Zawartość wody w produktach spożywczych można oznaczyć za pomocą przedstawionego na rysunku aparatu Deana-Starka metodą",
+    "answers": [
+      "destylacji próżniowej.",
+      "ekstrakcji w układzie ciecz-ciało stałe.",
+      "destylacji azeotropowej.",
+      "ekstrakcji w układzie ciecz-ciecz."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_aparat7.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 271,
+    "text": "Zgodnie z zamieszczonym fragmentem metodyki postępowania analitycznego mineralizację próbki paszy należy przeprowadzić w kolbie Fragment metodyki postępowania analitycznego: (…) Metoda służy do oznaczania zawartości białka w paszach na podstawie zawartości oznaczonego azotu. Próbka jest mineralizowana kwasem siarkowym(VI) w obecności katalizatora. Kwaśny roztwór jest alkalizowany za pomocą wodorotlenku sodu. Amoniak oddestylowany z zasadowego roztworu jest zbierany w znanej ilości roztworu kwasu siarkowego(VI), którego nadmiar jest z kolei miareczkowany roztworem wodorotlenku sodu. (…)",
+    "answers": [
+      "Erlenmeyera.",
+      "Büchnera.",
+      "Kjeldahla.",
+      "Le Chateliera."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 272,
+    "text": "Na schemacie przedstawiono układ blokowy spektrofotometru UV-VIS. Przyporządkuj cyfrom rzymskim nazwy kolejnych elementów urządzenia.",
+    "answers": [
+      "I–źródło promieniowania; II–monochromator; III–kuweta; IV–detektor; V–rejestrator.",
+      "I–źródło promieniowania; II–monochromator; III–detektor; IV–kuweta; V–rejestrator.",
+      "I–monochromator; II–źródło promieniowania; III–detektor; IV–kuweta; V–rejestrator.",
+      "I–źródło promieniowania; II–rejestrator; III–detektor; IV–kuweta; V–monochromator."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_schemat29.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 273,
+    "text": "Reakcja ksantoproteinowa pozwala na wykrycie aminokwasu zawierającego w swojej cząsteczce",
+    "answers": [
+      "pierścień aromatyczny.",
+      "siarkę.",
+      "dwie grupy karboksylowe.",
+      "dwie grupy aminowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 274,
+    "text": "Kwasowość mleka można wyrazić w stopniach Soxhleta-Henkla [°SH], czyli liczbą cm3 roztworu NaOH o stężeniu 0,25 mol/dm3 zużytą na zmiareczkowanie 100 cm3 produktu. Jeżeli na zmiareczkowanie próbki mleka o objętości 50 cm3 zużyto 3,25 cm3 roztworu NaOH o stężeniu 0,25 mol/dm3 to kwasowość mleka wynosiła",
+    "answers": [
+      "8°SH",
+      "3,25°SH",
+      "6,5°SH",
+      "1,63°SH"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 275,
+    "text": "Korzystając z zamieszczonej na rysunku krzywej wzorcowej spektrofotometrycznego oznaczania kwasu salicylowego określ, ile miligramów tego kwasu znajduje się w 1 dm3 roztworu, jeżeli absorbancja badanej próbki wynosi 0,06.",
+    "answers": [
+      "60 mg",
+      "600 mg",
+      "0,6 mg",
+      "6 mg"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_wykres17.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 276,
+    "text": "Na zmiareczkowanie próbki roztworu wodorotlenku potasu zużyto 15,0 cm3 roztworu kwasu solnego o stężeniu 0,10 mol/dm3. Zawartość KOH (M = 56 g/mol) w próbce wynosiła",
+    "answers": [
+      "0,084 g",
+      "0,0084 g",
+      "8,4 g",
+      "0,84 g"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 277,
+    "text": "Na rysunku przedstawiono",
+    "answers": [
+      "licznik kolonii bakterii.",
+      "mikroskop.",
+      "mętnościomierz.",
+      "lampę bakteriobójczą."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_rysunek5.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 278,
+    "text": "Którą metodą można oznaczyć zawartość tłuszczów w produktach roślinnych?",
+    "answers": [
+      "Hanusa.",
+      "Refraktometryczną.",
+      "Dole.",
+      "Ekstrakcyjną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 279,
+    "text": "W wyniku barwienia metodą Grama, bakterie Gram–ujemne barwią się na kolor",
+    "answers": [
+      "czerwony.",
+      "zielony.",
+      "różowy.",
+      "fioletowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 280,
+    "text": "Opis Na opakowaniach tabletek witaminy C producenci deklarują zawartość 200 mg kwasu askorbinowego. Zgodnie z normą odchylenia od deklarowanej zawartości substancji leczniczej nie mogą przekraczać ±10% dla tabletek o zawartości poniżej 100 mg i ±5% dla tabletek o deklarowanej zawartości 100 mg i więcej. Wykonano jodometryczne oznaczenie zawartości kwasu askorbinowego dla 4 próbek tabletek witaminy C, uzyskując wyniki:",
+    "answers": [
+      "jest zgodna z normą tylko dla próbek 1 i 3.",
+      "nie jest zgodna z normą tylko dla próbki 2.",
+      "jest zgodna z normą dla wszystkich próbek.",
+      "nie jest zgodna z normą dla próbek 2 i 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela71.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 281,
+    "text": "W temperaturze 20°C wyznaczono gęstość i współczynnik załamania światła kwasu butanowego. Wyniki zestawiono w tabeli: Refrakcja molowa kwasu butanowego wynosi RM – refrakcja molowa, cm3/mol n – współczynnik załamania światła d – gęstość, g/cm3 M – masa molowa, 88 g/mol",
+    "answers": [
+      "22,12",
+      "25,90",
+      "15,08",
+      "12,22"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela70.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 282,
+    "text": "Dla czterech różnych próbek gleb lekkich o odczynie kwaśnym oznaczono zawartość metali w mg/kg suchej masy. Wyniki zestawiono w tabeli: Która próbka odpowiada glebie o stopniu zanieczyszczenia 0?",
+    "answers": [
+      "Próbka 1.",
+      "Próbka 2.",
+      "Próbka 4.",
+      "Próbka 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela77.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 283,
+    "text": "Wykonano analizę mikrobiologiczną próbki wody wodociągowej o objętości 100 ml i uzyskano wyniki: Na podstawie zamieszczonych informacji dotyczących wymagań mikrobiologicznych i wyników analizy wody wodociągowej można stwierdzić, że badana woda",
+    "answers": [
+      "spełnia wymagania normy pod względem wszystkich badanych parametrów.",
+      "spełnia wymagania normy tylko pod względem obecności bakterii: Escherichia coli, Enterokoki, Pseudomonas aeruginosa.",
+      "nie spełnia wymagań normy pod względem ogólnej liczby mikroorganizmów w temperaturze 36±2°C.",
+      "nie spełnia wymagań normy pod względem ogólnej liczby mikroorganizmów w temperaturze 22±2°C."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela75.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 284,
+    "text": "Konduktywność elektrolityczna wody destylowanej stosowanej w laboratorium chemicznym wynosi 0,001 mS cm-1. Z analizy danych przedstawionych na rysunku wynika, że woda ta jest",
+    "answers": [
+      "superczysta.",
+      "dobrej jakości.",
+      "zanieczyszczona chlorkiem sodu.",
+      "nieczyszczona doskonałej jakości."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_rysunek6.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 285,
+    "text": "Metoda analityczna, której podstawą jest pomiar kąta skręcania płaszczyzny światła spolaryzowanego, to",
+    "answers": [
+      "konduktometria.",
+      "refraktometria.",
+      "polarymetria.",
+      "potencjometria."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 286,
+    "text": "Na ilustracji przedstawiono bieg promieni świetlnych",
+    "answers": [
+      "w polarymetrze.",
+      "w turbidymetrze.",
+      "w nefelometrze.",
+      "w spektrofotometrze."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_ilustracja2.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 287,
+    "text": "Do analizy pobrano próbkę o masie 200 mg. Na podstawie informacji zamieszczonych w tabeli określ, w jakiej skali będzie wykonana ta analiza.",
+    "answers": [
+      "Ultramikro.",
+      "Semimikro.",
+      "Makro.",
+      "Mikro."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela79.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 288,
+    "text": "Na ilustracji przedstawiono schemat",
+    "answers": [
+      "bioczujnika.",
+      "biokataliztora.",
+      "czujnika chemicznego.",
+      "detektora różnicowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_schemat31.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 289,
+    "text": "Na zmiareczkowanie próbki roztworu wodorotlenku sodu zużyto 10 cm3 roztworu kwasu solnego o stężeniu 0,1 mol/dm3. Zawartość NaOH (M = 40 g/mol) w próbce wynosiła",
+    "answers": [
+      "0,40 g",
+      "40,00 g",
+      "0,04 g",
+      "4,00 g"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 290,
+    "text": "W tabeli zamieszczono dane dotyczące rodzajów technicznego kwasu azotowego(V) i wymagań szczegółowych. Przeprowadzono analizę próbki stężonego kwasu azotowego(V), uzyskując wyniki: Na podstawie wyników analizy można stwierdzić, że badana próbka kwasu",
+    "answers": [
+      "spełnia wymagania dla kwasu 52.",
+      "nie spełnia wymagań dla kwasu 52.",
+      "spełnia wymagania dla kwasu 63.",
+      "nie spełnia wymagań dla kwasu 47."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela82.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 291,
+    "text": "W zamieszczonej informacji przedstawiono równania reakcji zachodzące podczas oznaczania chlorków metodą Ag+ + Cl– → AgCl ↓ Ag+ + SCN– → AgSCN ↓ Fe3+ + SCN– → Fe(SCN)2+",
+    "answers": [
+      "strąceniową Volharda.",
+      "strąceniową Mohra.",
+      "grawimetryczną.",
+      "kompleksometryczną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 292,
+    "text": "Jaką metodę kontroli stanu mikrobiologicznego powietrza opisano w zamieszczonej informacji? Otwarte płytki Petriego z podłożem stałym pozostawiono na 30 minut na wysokości 1 metra od podłogi, a następnie inkubowano przez 48 godzin w temperaturze 37°C. Po tym czasie wyhodowane kolonie zliczono i zidentyfikowano ich szczepy.",
+    "answers": [
+      "Odśrodkową.",
+      "Zderzeniową.",
+      "Sedymentacyjną.",
+      "Filtracyjną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 293,
+    "text": "W celu oceny jakości masła wykonano oznaczenie liczby kwasowej LK, liczby zmydlania LZ i liczby nadtlenkowej LOO. Wyniki zapisano w tabeli.",
+    "answers": [
+      "198,0 mg KOH/1g",
+      "164,0 mg KOH/1g",
+      "234,7 mg KOH/1g",
+      "195,6 mg KOH/1g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_tabela85.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 294,
+    "text": "Na ilustracji przedstawiono poszczególne etapy wykonania preparatu mikroskopowego utrwalonego. Cyfrą 3 oznaczono",
+    "answers": [
+      "suszenie rozmazu.",
+      "barwienie preparatu.",
+      "naniesienie kropli wody.",
+      "wykonanie rozmazu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_ilustracja4.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 295,
+    "text": "W Polsce normy dla pyłów drobnych PM10 są ustalone na trzech poziomach (dobowych): − poziom dopuszczalny 50 µg/m3 – oznacza, że jakość powietrza nie jest dobra, ale nie wywołuje ciężkich skutków dla ludzkiego zdrowia. − poziom informowania 200 µg/m3 – oznacza, że jakość powietrza jest zła i trzeba ograniczyć aktywności na powietrzu, bo norma przekroczona jest czterokrotnie. − poziom alarmowy 300 µg/m3 – oznacza, że jakość powietrza jest bardzo zła, norma przekroczona jest sześciokrotnie i należy bezwzględnie ograniczyć przebywanie na powietrzu, a najlepiej zostać w domu, szczególnie osoby chore. Na stacji Monitoringu Środowiska wykonano pomiary zanieczyszczenia powietrza pyłem zawieszonym PM10, uzyskując średni wynik dobowy 0,25 mg/m3. Z analizy wynika, że",
+    "answers": [
+      "poziom dopuszczalny został przekroczony pięciokrotnie.",
+      "stężenie pyłu jest na dopuszczalnym poziomie.",
+      "należy bezwzględnie ograniczyć przebywanie na powietrzu.",
+      "jakość powietrza jest dobra."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 296,
+    "text": "Proces mający na celu ustalenie zależności między wartościami wielkości mierzonej dla próbek wzorcowych a wskazaniami układu pomiarowego, prowadzony w określonych warunkach, to",
+    "answers": [
+      "akredytacja.",
+      "normalizacja.",
+      "certyfikacja.",
+      "kalibracja."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 297,
+    "text": "Karminowoczerwone zabarwienie płomienia palnika podczas badań analitycznych świadczy o obecności w roztworze jonów",
+    "answers": [
+      "K+",
+      "Sr2+",
+      "Ba2+",
+      "Na+"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 298,
+    "text": "W próbce wody zawierającej 60,0 mg żelaza oznaczono spektrofotometrycznie jego zawartość otrzymując wynik 59,1 mg. Błąd względny oznaczenia wynosi",
+    "answers": [
+      "1,5%",
+      "0,8%",
+      "1,4%",
+      "1,1%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 299,
+    "text": "Na ilustracji przedstawiono schemat doświadczenia pozwalającego na zbadanie właściwości",
+    "answers": [
+      "tłuszczów.",
+      "alkoholi.",
+      "białek.",
+      "cukrów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_schemat23.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 300,
+    "text": "Wskaźnikiem w miareczkowaniu alkacymetrycznym nie jest",
+    "answers": [
+      "oranż metylowy.",
+      "czerwień metylowa.",
+      "fenoloftaleina.",
+      "czerń eriochromowa T."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 301,
+    "text": "Do kationów trzeciej grupy analitycznej, wytrącanych w postaci siarczków roztworem AKT w środowisku amoniakalnym, należą:",
+    "answers": [
+      "Fe2+, Mg2+, Pb2+, Al3+, Ca2+",
+      "Ni2+, Co2+, Fe2+, Fe3+, Mn2+, Zn2+",
+      "Pb2+, Cu2+, Cd2+, Cr3+, Ag+, K+, Al3+",
+      "Ba2+, Ca2+, Sr2+"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.04"
+  },
+  {
+    "id": 302,
+    "text": "Na których ilustracjach są przedstawione przyrządy służące do wyznaczania gęstości cieczy?",
+    "answers": [
+      "1, 4.",
+      "2, 5.",
+      "2, 3.",
+      "3, 6."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm04/a60_przyrzady2.png"
+    },
+    "category": "CHM.04"
+  },
+  {
+    "id": 303,
+    "text": "Zjawisko opisane w zamieszczonej informacji to Jeżeli w wodzie zostanie rozpuszczona α-D-glukopiranoza, to roztwór tuż po rozpuszczeniu wykazuje skręcalność właściwą [α]D= +112,2°, lecz w miarę upływu czasu skręcalność ta stopniowo spada do wartości charakterystycznej w stanie równowagi, mianowicie [α]D= +52,7°",
+    "answers": [
+      "mutarotacja.",
+      "inwersja.",
+      "tautomeria.",
+      "racemizacja."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.04"
+  }
+]
