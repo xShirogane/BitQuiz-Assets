@@ -1,0 +1,4326 @@
+[
+  {
+    "id": 1,
+    "text": "Które urządzenie transportowe przedstawiono na zdjęciu?",
+    "answers": [
+      "Przenośnik z łańcuchem sworzniowym.",
+      "Cięgnik z łańcuchem sworzniowym.",
+      "Cięgnik z łańcuchem ogniwowym.",
+      "Przenośnik z łańcuchem ogniwowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_urzadzenie8.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 2,
+    "text": "Na zdjęciu przedstawiono śrubę z łbem",
+    "answers": [
+      "czopkowym.",
+      "soczewkowym.",
+      "walcowym.",
+      "płaskim."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_sruba4.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 3,
+    "text": "Do zamiany ruchu postępowo-zwrotnego na ruch obrotowy służy wał",
+    "answers": [
+      "wykorbiony.",
+      "giętki.",
+      "rozrządu.",
+      "stopniowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 4,
+    "text": "W procesie montażu, w którym będą uczestniczyć pracownicy o niższych kwalifikacjach, stosuje się metodę",
+    "answers": [
+      "z obróbką według wymiaru części współpracującej.",
+      "z całkowitą zamiennością części.",
+      "z częściową zamiennością części.",
+      "z indywidualnym dopasowaniem części"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 5,
+    "text": "W celu określenia aktualnego stanu technicznego maszyny należy przeprowadzić przegląd",
+    "answers": [
+      "okresowy.",
+      "sezonowy.",
+      "diagnostyczny.",
+      "ponaprawczy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 6,
+    "text": "Zdjęcie przedstawia wał napędowy",
+    "answers": [
+      "z wielowypustem i kołem pasowym.",
+      "z kołem pasowym i zębatym.",
+      "z dwoma kołami łańcuchowymi.",
+      "z kołem zębatym i wielowypustem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_wal5.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 7,
+    "text": "Podczas używania piaskarki przedstawionej na zdjęciu należy założyć",
+    "answers": [
+      "kombinezon, rękawice i hełm przeciwpyłowy.",
+      "okulary i maskę przeciwpyłową.",
+      "rękawice i okulary ochronne.",
+      "maskę przeciwpyłową i rękawice ochronne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_piaskarka.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 8,
+    "text": "Pomiędzy dwoma współpracującymi elementami nie przemieszczającymi się względem siebie występuje tarcie",
+    "answers": [
+      "graniczne.",
+      "statyczne.",
+      "kinetyczne.",
+      "toczne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 9,
+    "text": "Przed montażem rurowego połączenia gwintowego, w celu uzyskania odpowiedniej szczelności, należy",
+    "answers": [
+      "nawinąć taśmę teflonową na element z gwintem zewnętrznym.",
+      "wypełnić element z gwintem wewnętrznym klejem montażowym.",
+      "nanieść na elementy łączone silikon.",
+      "nasmarować elementy łączone smarem grafitowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 10,
+    "text": "Zdjęcie przedstawia hamulec",
+    "answers": [
+      "mechaniczny.",
+      "elektromagnetyczny.",
+      "hydrokinetyczny.",
+      "pneumatyczny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_hamulec3.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 11,
+    "text": "Przed malowaniem odnawianej osłony tokarki należy",
+    "answers": [
+      "usunąć starą powłokę, odtłuścić i zmatowić powierzchnię.",
+      "odtłuścić i wygładzić powierzchnię.",
+      "usunąć starą powłokę i posmarować naftą.",
+      "usunąć starą powłokę i wygładzić powierzchnię."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 12,
+    "text": "Do konserwacji łożysk tocznych pracujących w wysokich temperaturach należy zastosować",
+    "answers": [
+      "olej mineralny.",
+      "wazelinę techniczną.",
+      "smar miedziowy.",
+      "smar wapniowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 13,
+    "text": "Podczas montażu połączenia wciskowego nie należy",
+    "answers": [
+      "wtłaczać czopa wału w otwór piasty.",
+      "centrować ustawienia elementów złącza.",
+      "wprowadzać oprawy na czop poprzez przyłożenie siły poosiowej.",
+      "zabezpieczać połączenia poprzez wbicie klina pomiędzy czop a piastę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 14,
+    "text": "Ile stopni swobody należy odebrać montowanym elementom, aby całkowicie je unieruchomić?",
+    "answers": [
+      "5",
+      "4",
+      "6",
+      "3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 15,
+    "text": "Jaki otwór należy wykonać pod nit o średnicy 6 mm? Skorzystaj z danych w tabeli.",
+    "answers": [
+      "6,0 mm",
+      "6,5 mm",
+      "6,1 mm",
+      "6,6 mm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_tabela25.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 16,
+    "text": "Pracownik po zakończeniu pracy na tokarce powinien między innymi",
+    "answers": [
+      "ochłodzić narzędzia za pomocą mokrych pakuł.",
+      "zdemontować uchwyt i imak narzędziowy.",
+      "usunąć wióry sprężonym powietrzem.",
+      "zakonserwować łoże olejem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 17,
+    "text": "Która tabela przedstawia prawidłowe przyporządkowanie czynności obsługowych do ich rodzaju?",
+    "answers": [
+      "Tabela B.",
+      "Tabela A.",
+      "Tabela D.",
+      "Tabela C."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_tabele3.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 18,
+    "text": "Czopy wałów regeneruje się poprzez",
+    "answers": [
+      "klejenie.",
+      "napawanie.",
+      "lutowanie.",
+      "toczenie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 19,
+    "text": "Do wykonania połączenia gwintowego, w którym należy zagwarantować odpowiednie naprężenie wstępne, należy zastosować klucz",
+    "answers": [
+      "jednostronny zamknięty.",
+      "dynamometryczny.",
+      "z elastycznym łącznikiem uchwytu.",
+      "trzpieniowy czołowy czopikowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 20,
+    "text": "Przed montażem na wałku uszczelek gumowych należy",
+    "answers": [
+      "przeprowadzić próbę szczelności.",
+      "zwilżyć uszczelki olejem.",
+      "skręcić uszczelnienie.",
+      "posmarować uszczelki kredą."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 21,
+    "text": "Ile metrów kwadratowych wolnej powierzchni należy zapewnić operatorowi podczas instalowania nowej maszyny?",
+    "answers": [
+      "Powyżej 4 m2.",
+      "Do 2 m2.",
+      "Przynajmniej 2 m2.",
+      "Maksymalnie 4 m2."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 22,
+    "text": "Do montażu śruby przedstawionej na zdjęciu należy zastosować",
+    "answers": [
+      "wkrętak krzyżakowy PH3.",
+      "wkrętak krzyżakowy PZ3.",
+      "klucz trzpieniowy sześciokątny.",
+      "klucz trzpieniowy kwadratowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_sruba3.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 23,
+    "text": "Najistotniejszym parametrem określającym jakość przeprowadzonego remontu obrabiarki skrawającej do metali jest",
+    "answers": [
+      "dokładność geometryczna.",
+      "poziom szumów.",
+      "trwałość.",
+      "niezawodność."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 24,
+    "text": "Jakie łożysko przedstawiono na zdjęciu?",
+    "answers": [
+      "Toczne wzdłużne.",
+      "Ślizgowe poprzeczne.",
+      "Toczne poprzeczne.",
+      "Ślizgowe wzdłużne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_lozysko5.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 25,
+    "text": "Powierzchnie prowadnic maszyn zabezpiecza się przed korozją poprzez",
+    "answers": [
+      "czyszczenie szczotką drucianą.",
+      "posmarowanie naftą i osuszenie gorącym powietrzem.",
+      "umycie wodą i malowanie.",
+      "przesmarowanie ich olejem maszynowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 26,
+    "text": "Urządzenie przedstawione na zdjęciu stosuje się do",
+    "answers": [
+      "mycia.",
+      "smarowania.",
+      "przedmuchiwania.",
+      "piaskowania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_urzadzenie9.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 27,
+    "text": "Na przedstawionym rysunku uszczelnienie tłoczyska oznaczono numerem",
+    "answers": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_rysunek21.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 28,
+    "text": "Które sprzęgło przedstawiono na zdjęciu?",
+    "answers": [
+      "Samonastawne.",
+      "Bezpieczeństwa.",
+      "Sztywne.",
+      "Podatne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_sprzeglo7.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 29,
+    "text": "Do montażu pierścienia uszczelniającego na wałek z gwintowanym czopem stosuje się",
+    "answers": [
+      "trzpień montażowy.",
+      "tuleję montażową.",
+      "trzpień rozprężny.",
+      "tuleję rozprężną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 30,
+    "text": "Do zabezpieczenia łączników gwintowych przed samoczynnym odkręceniem nie stosuje się",
+    "answers": [
+      "nakrętki koronowej i zawleczki.",
+      "podkładki okrągłej i sprężyny.",
+      "podkładki sprężystej i nakrętki sześciokątnej.",
+      "nakrętki kołpakowej i podkładki okrągłej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 31,
+    "text": "Zmianę składu chemicznego warstwy wierzchniej płaskownika stalowego powoduje",
+    "answers": [
+      "tarcie suche.",
+      "korozja.",
+      "zabrudzenie olejem.",
+      "zmęczenie materiału."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 32,
+    "text": "Poprawność montażu łożysk tocznych na wale weryfikuje się poprzez sprawdzenie",
+    "answers": [
+      "czystości łożyska i wałka.",
+      "czy części są wolne od korozji.",
+      "cichobieżności i równomierności pracy zespołu.",
+      "stanu czopa wału, na którym osadzono łożysko."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 33,
+    "text": "Najwcześniejsze wykrycie zużycia łożysk tocznych umożliwia",
+    "answers": [
+      "ocena wizualna.",
+      "pomiar luzów.",
+      "pomiar drgań.",
+      "badanie endoskopowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 34,
+    "text": "Do sprawdzenia bicia promieniowego zamontowanego uchwytu tokarskiego służy",
+    "answers": [
+      "zestaw płytek wzorcowych.",
+      "liniał sinusowy.",
+      "profilometr.",
+      "czujnik zegarowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 35,
+    "text": "Przy montażu prowadnic przykręcanych w pierwszej kolejności należy",
+    "answers": [
+      "sprawdzić płaskość i prostoliniowość powierzchni ustalających.",
+      "przykręcić prowadnice i doskrobać powierzchnie współpracujące.",
+      "przykręcić prowadnice i przeszlifować powierzchnie współpracujące.",
+      "pokryć części współpracujące olejem lub smarem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 36,
+    "text": "Którą metodą nie wykonuje się regeneracji uszkodzonego korpusu maszyny?",
+    "answers": [
+      "Za pomocą nakładki.",
+      "Lutowania miękkiego.",
+      "Spawania elektrycznego.",
+      "Spawania acetylenowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 37,
+    "text": "Na wałku zespołu koła pasowego przedstawionego na rysunku wpust czółenkowy montuje się",
+    "answers": [
+      "po łożysku i po kole pasowym.",
+      "przed nakrętką i po kole pasowym.",
+      "przed łożyskiem i po kole pasowym.",
+      "po łożysku i przed kołem pasowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_walek3.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 38,
+    "text": "Na rysunku przekładni obiegowej koło satelitarne oznaczono cyfrą",
+    "answers": [
+      "3",
+      "4",
+      "1",
+      "2"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_przekladnia9.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 39,
+    "text": "Prawidłowe zamocowanie przedmiotu w uchwycie monterskim powinno",
+    "answers": [
+      "zapewniać szybkie zamocowanie i odmocowanie przedmiotu.",
+      "zapewniać przenoszenie drgań w pracy układu przedmiot – narzędzie.",
+      "powodować odkształcenia w miejscach przyłożenia sił.",
+      "powodować odkształcenia na powierzchniach dociskowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 40,
+    "text": "Podczas montażu przekładni przedstawionej na zdjęciu należy zapewnić",
+    "answers": [
+      "wzajemne pokrywanie się osi wałów.",
+      "współosiowość kół.",
+      "równoległość kół do osi wałów.",
+      "wzajemną równoległość wałów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_przekladnia8.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 41,
+    "text": "Smarownicę ręczną przedstawiono na rysunku oznaczonym literą",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_rysunki11.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 42,
+    "text": "Na rysunku przedstawiono podzespół mechaniczny, którym jest",
+    "answers": [
+      "przekładnia cierna.",
+      "przekładnia śrubowa.",
+      "sprzęgło kołnierzowe.",
+      "sprzęgło tulejowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_podzespol5.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 43,
+    "text": "Na schemacie napędu hydraulicznego pompę oznaczono numerem",
+    "answers": [
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_schemat9.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 44,
+    "text": "Do czynności obsługowych po zakończeniu pracy na tokarce nie zalicza się",
+    "answers": [
+      "spuszczenia chłodziwa z przewodów.",
+      "odłączenia przewodu zasilającego.",
+      "oczyszczenia powierzchni sań.",
+      "oczyszczenia wanny z wiórami."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 45,
+    "text": "Tuleję z wielowypustem przedstawiono na rysunku oznaczonym literą",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_rysunki9.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 46,
+    "text": "Metodę montażu z całkowitą zamiennością części stosuje się przy produkcji",
+    "answers": [
+      "prototypowej.",
+      "małoseryjnej.",
+      "masowej.",
+      "jednostkowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 47,
+    "text": "Prawidłowa kolejność montażu tłoka dla części ujętych w tabeli powinna być następująca:",
+    "answers": [
+      "1, 2, 3",
+      "2, 1, 3",
+      "1, 3, 2",
+      "2, 3, 1"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_tabela17.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 48,
+    "text": "Do montażu zespołu przedstawionego na rysunku należy przygotować wał oraz",
+    "answers": [
+      "tuleję i koło zębate.",
+      "dwa koła zębate.",
+      "koło zębate dwuwieńcowe.",
+      "koło zębate i dwa wpusty."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_zespol6.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 49,
+    "text": "Po przeprowadzonej naprawie maszyny lub urządzenia należy wypełnić",
+    "answers": [
+      "instrukcję obsługi.",
+      "kartę technologiczną montażu.",
+      "protokół odbioru technicznego.",
+      "warunki odbioru technicznego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 50,
+    "text": "Śruba z nakrętką przedstawiona na rysunku wykorzystywana jest podczas montażu metodą",
+    "answers": [
+      "z zastosowaniem kompensacji.",
+      "z zastosowaniem selekcji.",
+      "z dopasowaniem części.",
+      "z częściową zamiennością części."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_sruba5.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 51,
+    "text": "Pierścienie osadcze sprężynujące zewnętrzne montuje się narzędziem przedstawionym na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_narzedzia11.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 52,
+    "text": "Której czynności nie wykonuje się po wykonanej pracy na frezarce?",
+    "answers": [
+      "Naoliwienie powierzchni stołu.",
+      "Naoliwienie wrzeciona.",
+      "Wymiana chłodziwa w zbiorniku.",
+      "Oczyszczenie frezarki z wiórów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 53,
+    "text": "Prawidłowe ustalenie (bez luzów) elementu na trzpieniu stałym i kołkach oporowych przedstawiono na rysunku oznaczonym literą",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_rysunki8.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 54,
+    "text": "Pierwszą czynnością podczas naprawy wiertarki stołowej powinno być",
+    "answers": [
+      "umycie kolumny i stołu ruchomego.",
+      "odłączenie zasilania silnika elektrycznego.",
+      "odkręcenie pokrywy przekładni.",
+      "zdemontowanie osłony uchwytu wiertarskiego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 55,
+    "text": "Rysunek przedstawia zmontowane elementy z wykorzystaniem podkładki",
+    "answers": [
+      "wygiętej.",
+      "koronowej.",
+      "płaskiej.",
+      "sprężystej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_rysunek22.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 56,
+    "text": "Do montażu nakrętki przedstawionej na rysunku należy zastosować klucz",
+    "answers": [
+      "trzpieniowy czołowy czopikowy.",
+      "jednostronny zamknięty.",
+      "płasko-oczkowy.",
+      "nasadowy trzpieniowy kwadratowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_nakretka3.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 57,
+    "text": "Podczas corocznej konserwacji przekładni zębatej nie przeprowadza się",
+    "answers": [
+      "wymiany łożysk głównych.",
+      "wzrokowej kontroli zębów.",
+      "kontroli uszczelnień wałów.",
+      "wymiany oleju."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 58,
+    "text": "Przed wykonaniem nitowania na zimno powierzchnie stykające się należy",
+    "answers": [
+      "wyrównać szlifierką do płaszczyzn.",
+      "wytrawić kwasem.",
+      "oczyścić wilgotną ścierką.",
+      "zabezpieczyć przed korozją."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 59,
+    "text": "Którą przecinarkę przedstawiono na rysunku?",
+    "answers": [
+      "Tarczową.",
+      "Taśmową.",
+      "Plazmową.",
+      "Ramową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_przecinarka.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 60,
+    "text": "Do końcowej obróbki otworu montażowego zgodnie z przedstawionym rysunkiem należy przeprowadzić operację",
+    "answers": [
+      "pogłębiania.",
+      "piłowania.",
+      "rozwiercania.",
+      "wiercenia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_rysunek24.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 61,
+    "text": "Ze względów ekonomicznych opłaca się regenerować łożysko baryłkowe w przypadku gdy",
+    "answers": [
+      "ma uszkodzone obydwie bieżnie.",
+      "występuje złuszczenie bieżni.",
+      "ma pęknięty pierścień.",
+      "średnica wewnętrzna wynosi 300 mm."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 62,
+    "text": "Fragment pasa zębatego przedstawiono na rysunku oznaczonym literą",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_rysunki10.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 63,
+    "text": "Podczas naprawy zespołu wałka napędowego łożysko toczne wciska się na wał, stosując tuleję montażową o wymiarach umożliwiających wywarcie nacisku wyłącznie na",
+    "answers": [
+      "bieżnię główną.",
+      "pierścień zewnętrzny.",
+      "bieżnię pomocniczą.",
+      "pierścień wewnętrzny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 64,
+    "text": "Który zespół mechaniczny przedstawiono na rysunku?",
+    "answers": [
+      "Połączenie klinowe wałka i koła zębatego.",
+      "Połączenie wielowypustowe wałka i koła zębatego.",
+      "Przekładnię zębatą walcową.",
+      "Przekładnię zębatą stożkową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_zespol5.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 65,
+    "text": "Przyrząd do demontażu z gniazda łożyska tocznego o średnicy otworu ϕ20 przedstawiono na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_przyrzady5.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 66,
+    "text": "Na podstawie danych w tabeli określ moment dociągnięcia śrub M10 KL.10.9.",
+    "answers": [
+      "69 Nm",
+      "14 Nm",
+      "86 Nm",
+      "25 Nm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_tabela18.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 67,
+    "text": "Skok gwintu umożliwiający uzyskanie największej siły docisku łączonych elementów za pomocą śruby przedstawionej na rysunku powinien wynosić",
+    "answers": [
+      "1 mm",
+      "4 mm",
+      "2 mm",
+      "3 mm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_sruba6.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 68,
+    "text": "Wymagany naciąg pasa przekładni pasowej przeprowadza się przez",
+    "answers": [
+      "wymianę koła czynnego na większe.",
+      "skrócenie pasa.",
+      "wymianę koła biernego na większe.",
+      "regulację osi kół pasowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 69,
+    "text": "Elementy przedstawione na rysunku należy montować na wale 1, w kolejności",
+    "answers": [
+      "2, 4, 3",
+      "2, 3, 4",
+      "3, 4, 2",
+      "3, 2, 4"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_rysunek23.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 70,
+    "text": "Przedstawiony na rysunku przyrząd stosuje się do",
+    "answers": [
+      "pomiaru grubości.",
+      "pomiaru promienia.",
+      "kontroli chropowatości.",
+      "kontroli luzu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_przyrzad10.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 71,
+    "text": "Czujnik przedstawiony na rysunku stosuje się do pomiaru",
+    "answers": [
+      "promienia.",
+      "bicia.",
+      "głębokości.",
+      "chropowatości."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_czujnik.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 72,
+    "text": "Proces zmian następujących w elemencie podczas działania okresowo zmiennych obciążeń nazywa się",
+    "answers": [
+      "rozproszeniem naprężeń.",
+      "zmęczeniem materiału.",
+      "spiętrzeniem naprężeń.",
+      "przełomem zmęczeniowym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 73,
+    "text": "Opory przepływu cieczy zależą od długości instalacji hydraulicznej i średnicy wewnętrznej rur. Najbardziej optymalna odległość pompy hydraulicznej od źródła cieczy wynosi",
+    "answers": [
+      "1,5 m",
+      "2,0 m",
+      "2,5 m",
+      "1,0 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 74,
+    "text": "Zestaw części przedstawiony na rysunku umożliwia zmontowanie",
+    "answers": [
+      "mechanizmu różnicowego.",
+      "mechanizmu maltańskiego.",
+      "przekładni ślimakowej.",
+      "przekładni zębatej walcowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_zestaw.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 75,
+    "text": "Podczas badania technicznego przekładni pasowej stwierdzono przyśpieszone zużycie pasa klinowego na całej powierzchni oraz łożysk na wałkach kół pasowych. Przyczyną tych uszkodzeń jest",
+    "answers": [
+      "wysoka temperatura otoczenia.",
+      "zbyt duży naciąg pasa.",
+      "silne oddziaływanie kurzu.",
+      "zbyt duża nierównoległość osi kół pasowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 76,
+    "text": "Na skutek spadku ciśnienia oleju podnośnik hydrauliczny nie podnosi ciężaru stanowiącego jego pełny udźwig. W pierwszej kolejności należy",
+    "answers": [
+      "oczyścić filtr.",
+      "wymienić sprężynę zaworu zwrotnego.",
+      "sprawdzić poziom oleju.",
+      "wymienić zawór bezpieczeństwa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 77,
+    "text": "Najczęstszą przyczyną uszkodzeń łożysk tocznych jest",
+    "answers": [
+      "niewłaściwe smarowanie.",
+      "korozja międzykrystaliczna.",
+      "nieprawidłowy montaż.",
+      "odpryskiwanie powierzchni bieżni."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 78,
+    "text": "Próbne uruchomienie po wykonaniu naprawy przekładni zębatej przeprowadza się",
+    "answers": [
+      "z 25% obciążeniem.",
+      "bez obciążenia.",
+      "z 50% obciążeniem.",
+      "z pełnym obciążeniem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 79,
+    "text": "Do kontroli wizualnej trudnodostępnych miejsc przekładni stosuje się",
+    "answers": [
+      "endoskop.",
+      "wakuometr.",
+      "tensometr.",
+      "stetoskop."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 80,
+    "text": "Odbiór techniczny obrabiarki po naprawie rozpoczyna się od",
+    "answers": [
+      "sprawdzenia działania osłon.",
+      "kontroli wyglądu zewnętrznego.",
+      "sprawdzenia działania wyłączników ochronnych.",
+      "pomiaru dokładności geometrycznej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 81,
+    "text": "Ile wolnej powierzchni należy zapewnić operatorowi podczas instalowania nowej maszyny?",
+    "answers": [
+      "Powyżej 4 m2",
+      "Maksymalnie 4 m2",
+      "Do 1 m2",
+      "Przynajmniej 2 m2"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 82,
+    "text": "Na rysunku przedstawiono śrubę z łbem",
+    "answers": [
+      "walcowym.",
+      "czopkowym.",
+      "płaskim.",
+      "soczewkowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_sruba4.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 83,
+    "text": "Na rysunku przekładni obiegowej koło satelitarne oznaczono numerem.",
+    "answers": [
+      "4",
+      "2",
+      "1",
+      "3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_przekladnia9.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 84,
+    "text": "Które łożysko przedstawiono na rysunku?",
+    "answers": [
+      "Ślizgowe wzdłużne.",
+      "Ślizgowe poprzeczne.",
+      "Toczne poprzeczne.",
+      "Toczne wzdłużne."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_lozysko5.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 85,
+    "text": "Podczas używania piaskarki przedstawionej na rysunku należy założyć",
+    "answers": [
+      "kombinezon, rękawice i hełm przeciwpyłowy.",
+      "rękawice i okulary ochronne.",
+      "okulary i maskę przeciwpyłową.",
+      "maskę przeciwpyłową i rękawice ochronne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_piaskarka.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 86,
+    "text": "Rysunek przedstawia wał napędowy",
+    "answers": [
+      "z dwoma kołami łańcuchowymi.",
+      "z kołem pasowym i zębatym.",
+      "z kołem zębatym i wielowypustem.",
+      "z wielowypustem i kołem pasowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_wal5.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 87,
+    "text": "Przed montażem uszczelek gumowych na wałku należy",
+    "answers": [
+      "skręcić uszczelnienie.",
+      "zwilżyć uszczelki olejem.",
+      "przeprowadzić próbę szczelności.",
+      "posmarować uszczelki kredą."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 88,
+    "text": "Na wałku zespołu koła pasowego przedstawionego na rysunku wpust czółenkowy montuje się w kolejności",
+    "answers": [
+      "po łożysku i po kole pasowym.",
+      "przed nakrętką i po kole pasowym.",
+      "przed łożyskiem i po kole pasowym.",
+      "po łożysku i przed kołem pasowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_zespol4.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 89,
+    "text": "Pomiędzy dwoma współpracującymi elementami nieprzemieszczającymi się względem siebie występuje tarcie",
+    "answers": [
+      "statyczne.",
+      "toczne.",
+      "kinetyczne.",
+      "graniczne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 90,
+    "text": "W której tabeli przedstawiono prawidłowe przyporządkowanie czynności obsługowych do ich rodzaju?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_tabele.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 91,
+    "text": "Które urządzenie transportowe przedstawiono na rysunku?",
+    "answers": [
+      "Cięgnik z łańcuchem sworzniowym.",
+      "Cięgnik z łańcuchem ogniwowym.",
+      "Przenośnik z łańcuchem sworzniowym.",
+      "Przenośnik z łańcuchem ogniwowym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_urzadzenie8.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 92,
+    "text": "Rysunek przedstawia hamulec",
+    "answers": [
+      "pneumatyczny.",
+      "mechaniczny.",
+      "hydrokinetyczny.",
+      "elektromagnetyczny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_hamulec3.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 93,
+    "text": "Z powierzchni odnawianej osłony tokarki przed jej malowaniem należy usunąć",
+    "answers": [
+      "starą powłokę i wygładzić powierzchnię.",
+      "starą powłokę i posmarować naftą.",
+      "tłuste plamy.",
+      "starą powłokę, odtłuścić i zmatowić powierzchnię."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 94,
+    "text": "Otwór o jakiej średnicy należy wykonać pod nit o średnicy 6 mm? Skorzystaj z danych w tabeli.",
+    "answers": [
+      "6,6 mm",
+      "6,1 mm",
+      "6,5 mm",
+      "6,0 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_tabela16.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 95,
+    "text": "Podczas montażu przekładni przedstawionej na rysunku należy zapewnić",
+    "answers": [
+      "wzajemną równoległość wałów.",
+      "równoległość kół do osi wałów.",
+      "wzajemne pokrywanie się osi wałów.",
+      "współosiowość kół."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_przekladnia8.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 96,
+    "text": "Urządzenie przedstawione na rysunku stosuje się do",
+    "answers": [
+      "smarowania.",
+      "przedmuchiwania.",
+      "mycia.",
+      "piaskowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_urzadzenie9.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 97,
+    "text": "Które sprzęgło przedstawiono na rysunku?",
+    "answers": [
+      "Bezpieczeństwa.",
+      "Sztywne.",
+      "Podatne.",
+      "Samonastawne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_sprzeglo7.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 98,
+    "text": "Do montażu śruby przedstawionej na rysunku należy zastosować",
+    "answers": [
+      "wkrętak krzyżakowy PZ3.",
+      "wkrętak krzyżakowy PH3.",
+      "klucz trzpieniowy kwadratowy.",
+      "klucz trzpieniowy sześciokątny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_sruba3.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 99,
+    "text": "Na rysunku przedstawiono przekładnię zębatą",
+    "answers": [
+      "planetarną.",
+      "stożkową.",
+      "różnicową.",
+      "śrubową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_przekladnia.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 100,
+    "text": "Łączenie ze sobą gotowych części, podczas którego wykorzystywane są elementy konstrukcyjne, np. podkładki i sprężyny, dzięki którym otrzymuje się żądany wymiar wynikowy w określonych granicach, jest nazywane montażem",
+    "answers": [
+      "z zastosowaniem kompensacji.",
+      "z uwzględnieniem selekcji części.",
+      "z dopasowaniem części.",
+      "z zachowaniem całkowitej zamienności."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 101,
+    "text": "Działania w procesie eksploatacji maszyn, związane z ich obsługą w zakresie przeglądów i konserwacji, dotyczą",
+    "answers": [
+      "doboru obiektów technicznych, regulacji i uzupełniania płynów.",
+      "regulacji, konserwacji, pomiarów bezpośrednich i diagnostyki.",
+      "demontażu, weryfikacji, regeneracji i montażu.",
+      "regulacji, czyszczenia, konserwacji i uzupełniania płynów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 102,
+    "text": "Wskazanie na podziałce mikrometu zgodnie z przedstawionym rysunkiem wynosi",
+    "answers": [
+      "15,67 mm",
+      "15,17 mm",
+      "17,17 mm",
+      "17,67 mm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_podzialka2.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 103,
+    "text": "Na przedstawionym rysunku numerem 1 oznaczony jest",
+    "answers": [
+      "wielowypust.",
+      "kołek.",
+      "sworzeń.",
+      "wpust."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_rysunek.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 104,
+    "text": "Na którym rysunku przedstawiono klucz oczkowy do nakrętek okrągłych?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_klucze.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 105,
+    "text": "Wskazanie na podziałce suwmiarki zgodnie z przedstawionym rysunkiem wynosi",
+    "answers": [
+      "39,95 mm",
+      "40,15 mm",
+      "40,95 mm",
+      "58,95 mm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_podzialka.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 106,
+    "text": "Jak nazywa się ustabilizowane zużywanie części maszyn związane z procesami chemicznymi i cieplnymi?",
+    "answers": [
+      "Łuszczenie.",
+      "Utlenianie.",
+      "Fretting.",
+      "Scuffing."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 107,
+    "text": "Na rysunku przedstawiono przekładnię",
+    "answers": [
+      "zębatą.",
+      "linową.",
+      "łańcuchową.",
+      "pasową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_przekladnia2.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 108,
+    "text": "Na rysunku przedstawiono przyrząd wykorzystywany do kontroli",
+    "answers": [
+      "falistości powierzchni.",
+      "zarysu spoin.",
+      "skoku i zarysu gwintu.",
+      "chropowatości powierzchni."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_przyrzad2.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 109,
+    "text": "Który rysunek przedstawia elementy przygotowane do spawania jednostronnego na 1/2 V?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_rysunki3.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 110,
+    "text": "Przyrząd przedstawiony na rysunku służy do pomiaru",
+    "answers": [
+      "chropowatości.",
+      "struktury powierzchni.",
+      "szczelin.",
+      "grubości blach."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_przyrzad.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 111,
+    "text": "Aby uzyskać pasowanie ciasne połączenia otworu ϕ80JS10, wałek powinien mieć wymiar równy",
+    "answers": [
+      "79,972 mm",
+      "79,992 mm",
+      "80,045 mm",
+      "80,121 mm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_tabela.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 112,
+    "text": "Do wykonania rowka w wałku pod wpust czółenkowy należy użyć freza",
+    "answers": [
+      "tarczowego.",
+      "ślimakowego.",
+      "walcowego.",
+      "kątowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 113,
+    "text": "Na którym rysunku przedstawiono sposób zabezpieczenia połączeń gwintowych przed samoczynnym odkręcaniem za pomocą podkładki sprężystej?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_zabezpieczenia.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 114,
+    "text": "Za pomocą przedstawionego symbolu graficznego oznacza się siłownik pneumatyczny",
+    "answers": [
+      "jednostronnego działania pchającego.",
+      "jednostronnego działania ciągnącego ze sprężyną.",
+      "dwustronnego działania z jednostronnym hamowaniem.",
+      "dwustronnego działania z dwustronnym tłoczyskiem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_symbol.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 115,
+    "text": "Na podstawie zamieszczonego wyciągu z DTR określ liczbę miejsc w obrabiarce smarowanych ręcznie za pomocą smarownicy lub pompki.",
+    "answers": [
+      "9",
+      "5",
+      "11",
+      "7"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_tabela4.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 116,
+    "text": "Ile obrotów korbą 1 należy wykonać, aby wrzeciono podzielnicy przedstawionej na rysunku obróciło się o 90°, przy założeniu, że przełożenie tej przekładni wynosi 1:40?",
+    "answers": [
+      "10 obrotów.",
+      "20 obrotów.",
+      "40 obrotów.",
+      "80 obrotów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_podzielnica.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 117,
+    "text": "Które urządzenie przedstawiono na rysunku?",
+    "answers": [
+      "Nagrzewnicę indukcyjną do łożysk.",
+      "Myjkę do łożysk.",
+      "Wagę do łożysk.",
+      "Przyrząd do pomiaru dokładności wykonania łożysk."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_urzadzenie.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 118,
+    "text": "Koło zębate przedstawione na rysunku stanowi element przekładni",
+    "answers": [
+      "pasowej.",
+      "ślimakowej.",
+      "łańcuchowej.",
+      "śrubowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_kolo.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 119,
+    "text": "Na którym rysunku przedstawiono prawidłowe ułożenie przewodów hydraulicznych?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_przewody.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 120,
+    "text": "Który rodzaj sprzęgła przedstawiono na rysunku?",
+    "answers": [
+      "Kołnierzowe.",
+      "Kabłąkowe.",
+      "Gumowe.",
+      "Tulejowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_sprzeglo.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 121,
+    "text": "Na podstawie danych w tabeli i rysunku dobierz oznaczenie stopy do regulacji posadowienia obrabiarki na fundamencie. Dane obrabiarki: – wysokość podstawy obrabiarki: 98 mm, – średnica otworu w podstawie obrabiarki pod śrubę: ϕ12,5 mm, – odległość podstawy obrabiarki do fundamentu powinna wynosić minimum 30 mm, – masa obrabiarki: 3 800 kg, – posadowienie obrabiarki na czterech stopach.",
+    "answers": [
+      "D-40B",
+      "D-40A",
+      "D-50C",
+      "D-50A"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_tabela5.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 122,
+    "text": "Podczas obróbki elementu przedstawionego na rysunku należy uwzględnić odchyłkę",
+    "answers": [
+      "współosiowości.",
+      "prostopadłości.",
+      "równoległości.",
+      "okrągłości."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_element.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 123,
+    "text": "Których czynności nie obejmuje codzienna konserwacja maszyn?",
+    "answers": [
+      "Uzupełniania środka smarującego przed uruchomieniem maszyny.",
+      "Wykonywania zabezpieczeń antykorozyjnych.",
+      "Smarowania elementów i zespołów według instrukcji.",
+      "Wykrywania przyczyn zwiększenia głośności pracy maszyny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 124,
+    "text": "Na rysunku przedstawiono sprężynę",
+    "answers": [
+      "śrubową.",
+      "talerzową.",
+      "spiralną.",
+      "pierścieniową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_sprezyna.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 125,
+    "text": "Na podstawie tabeli dobierz oznaczenie dwuteownika spełniającego wymagania: − wysokość: 150 mm, − szerokość: 72 mm, − pole przekroju: 22 cm2, − wskaźnik wytrzymałości na zginanie: 110,0 cm3 * Trzy odpowiedzi są poprawne. Zaznacz je, aby otrzymać punkt.",
+    "answers": [
+      "I 160",
+      "I 180",
+      "I 140",
+      "I 200"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_tabela2.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 126,
+    "text": "Który siłownik przedstawiono na rysunku?",
+    "answers": [
+      "Mieszkowy.",
+      "Dętkowy.",
+      "Tłokowy.",
+      "Teleskopowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_silownik.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 127,
+    "text": "Podzespołem przedstawionym na rysunku jest",
+    "answers": [
+      "pompa zębata.",
+      "silnik rotacyjny.",
+      "przekładnia śrubowa.",
+      "pompa śrubowa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_podzespol.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 128,
+    "text": "Na którym rysunku przedstawiono króciec?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_rysunki4.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 129,
+    "text": "Podczas wykonywania operacji frezowania obrabianych elementów nie mocuje się",
+    "answers": [
+      "w imadle maszynowym.",
+      "bezpośrednio na stole frezarki.",
+      "na stole magnetycznym.",
+      "w podzielnicy uniwersalnej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 130,
+    "text": "Fragment łańcucha ogniwowego stosowanego w przekładni łańcuchowej przedstawiono na rysunku oznaczonym literą",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_lancuchy.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 131,
+    "text": "Działania, w wyniku których ma nastąpić przywrócenie lub zwiększenie zdolności produkcyjnej oraz poprawa podstawowych wskaźników techniczno-ekonomicznych maszyny, nazywa się",
+    "answers": [
+      "obsługą okresową.",
+      "modernizacją.",
+      "remontem bieżącym.",
+      "remontem średnim."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 132,
+    "text": "Podczas wiercenia otworów należy używać",
+    "answers": [
+      "rękawic ochronnych dłoni.",
+      "maski ochronnej.",
+      "okularów ochronnych.",
+      "fartucha skórzanego ochronnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 133,
+    "text": "Na podstawie tabeli dobierz wymiary wpustu pryzmatycznego dla wałka o średnicy nominalnej ϕ 44,5 mm.",
+    "answers": [
+      "A12 x 8 x 100",
+      "A14 x 9 x 180",
+      "A12 x 8 x 140",
+      "A14 x 9 x 150"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_tabela3.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 134,
+    "text": "Na którym rysunku przedstawiono blachy połączone spoiną czołową?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_rysunki2.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 135,
+    "text": "Na którym rysunku przedstawiono ustalenie łożyska tocznego za pomocą nakrętki łożyskowej?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_rysunki.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 136,
+    "text": "Oblicz wymiary graniczne średnicy wałka o wymiarze nominalnym N = ø78 mm, wykonanego w tolerancji IT = 0,028, gdzie odchyłka górna es = 0 µm, a odchyłka dolna ei = – 0,028 µm.",
+    "answers": [
+      "A = 77,928; B = 78,000",
+      "A = 77,972; B = 78,000",
+      "A = 78,000; B = 78,028",
+      "A = 77,972; B = 78,028"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 137,
+    "text": "Jaką nazwę nosi metoda dotycząca badania szczelności zbiornika, polegająca na napełnieniu zbiornika sprężonym gazem i zanurzeniu go w wodzie przy jednoczesnym obserwowaniu, gdzie pojawiają się bańki?",
+    "answers": [
+      "Zanurzeniowa.",
+      "Mydlanych baniek.",
+      "Pęcherzykowa.",
+      "Nafty i kredy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 138,
+    "text": "Na którym rysunku przedstawiono smarownicę igłową?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_smarownice.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 139,
+    "text": "Na podstawie danych w tabeli dobierz wymiary wpustu do montażu koła pasowego na wale o średnicy 40 mm.",
+    "answers": [
+      "16 x 10 x 60",
+      "14 x 9 x 60",
+      "18 x 11 x 60",
+      "12 x 8 x 60"
+    ],
+    "correctAnswerIndex": null,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_tabela14.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 140,
+    "text": "Zabiegi wykonywane cyklicznie zgodnie z ustalonym harmonogramem po upływie określonego czasu pracy maszyny lub po osiągnięciu wyznaczonej innej miary użytkowania to obsługa",
+    "answers": [
+      "okresowa.",
+      "sezonowa.",
+      "gwarancyjna.",
+      "diagnostyczna."
+    ],
+    "correctAnswerIndex": null,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 141,
+    "text": "Przyrząd do pomiaru głębokości otworów przedstawiono na rysunku oznaczonym literą",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": null,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_przyrzady4.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 142,
+    "text": "Na którym rysunku ślady zazębienia kół zębatych informują o zbyt dużym luzie na obwodzie (za duża odległość między osiami kół)?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": null,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_rysunki2.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 143,
+    "text": "Przedstawiony na rysunku wał jest elementem układu",
+    "answers": [
+      "tłokowo-korbowego.",
+      "korbowo-wahaczowego.",
+      "rozrządu.",
+      "jarzmowego."
+    ],
+    "correctAnswerIndex": null,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_wal4.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 144,
+    "text": "Którą przekładnię zębatą przedstawiono na rysunku?",
+    "answers": [
+      "Stożkową.",
+      "Walcową.",
+      "Śrubową.",
+      "Ślimakową."
+    ],
+    "correctAnswerIndex": null,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_przekladnia7.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 145,
+    "text": "W celu wykonania prawidłowego montażu łożyska tocznego na wale należy",
+    "answers": [
+      "wywierać jednostronny nacisk na pierścień łożyska.",
+      "stosować pasowanie suwliwe dla ruchomego wałka.",
+      "zapewnić właściwe luzy montażowe.",
+      "osadzić łożysko na wale z bardzo dużym wciskiem."
+    ],
+    "correctAnswerIndex": null,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 146,
+    "text": "Na którym rysunku przedstawione jest łożysko wzdłużne?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": null,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_lozyska4.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 147,
+    "text": "Kontrolę walcowości należy wykonać z zastosowaniem czujnika zegarowego oraz",
+    "answers": [
+      "mikrometru zewnętrznego.",
+      "liniału krawędziowego.",
+      "suwmiarki uniwersalnej.",
+      "średnicówki mikrometrycznej."
+    ],
+    "correctAnswerIndex": null,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 148,
+    "text": "Do bezpośredniego pomiaru średnicy otworu ϕ40+0,23 należy użyć",
+    "answers": [
+      "sprawdzianu tłoczkowego.",
+      "suwmiarki uniwersalnej.",
+      "średnicówki mikrometrycznej.",
+      "mikrometru zewnętrznego."
+    ],
+    "correctAnswerIndex": null,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 149,
+    "text": "Podczas remontu kapitalnego (głównego) skrzynki suportowej nie wymienia się",
+    "answers": [
+      "śrub.",
+      "korpusu.",
+      "łożysk.",
+      "podkładek."
+    ],
+    "correctAnswerIndex": null,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 150,
+    "text": "Wybierz prawidłową kolejność wykonania operacji remontowych maszyny.",
+    "answers": [
+      "Regeneracja, demontaż, weryfikacja, oczyszczenie, naprawa zespołów, regeneracja, badanie i odbiór maszyny po remoncie.",
+      "Weryfikacja, regeneracja, oczyszczenie, demontaż, badanie i odbiór maszyny po remoncie.",
+      "Demontaż, weryfikacja, oczyszczenie, regeneracja, badanie i odbiór maszyny po remoncie.",
+      "Oczyszczenie, demontaż, weryfikacja, regeneracja, naprawa zespołów, montaż, badanie i odbiór maszyny po remoncie."
+    ],
+    "correctAnswerIndex": null,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 151,
+    "text": "Którą obrabiarkę przedstawiono na rysunku?",
+    "answers": [
+      "Wiertarkę promieniową.",
+      "Strugarkę poprzeczną.",
+      "Tokarkę karuzelową.",
+      "Frezarkę narzędziową."
+    ],
+    "correctAnswerIndex": null,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_obrabiarka3.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 152,
+    "text": "Którego przyrządu należy użyć do demontażu koła pasowego?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": null,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_przyrzady3.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 153,
+    "text": "Zabierak tokarski na przedstawionym rysunku jest oznaczony literą",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": null,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_rysunek18.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 154,
+    "text": "Na którym rysunku przedstawiono schemat wykonywania pomiaru równoległości przesuwu sań narzędziowych do osi wrzeciona w płaszczyznach pionowej i poziomej?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": null,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_schematy3.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 155,
+    "text": "Wskaż prawidłową kolejność wykorzystania narzędzi do wykonania otworu z gwintem M10.",
+    "answers": [
+      "Nawiertak, wiertło, komplet gwintowników, pogłębiacz walcowy.",
+      "Nawiertak, wiertło, pogłębiacz stożkowy, komplet gwintowników.",
+      "Wiertło, nawiertak, rozwiertak, komplet gwintowników, pogłębiacz.",
+      "Wiertło, komplet gwintowników, pogłębiacz stożkowy, nawiertak."
+    ],
+    "correctAnswerIndex": null,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 156,
+    "text": "Na rysunku przedstawione jest sprzęgło",
+    "answers": [
+      "kołnierzowe.",
+      "kłowe.",
+      "zębate.",
+      "tulejowe."
+    ],
+    "correctAnswerIndex": null,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_sprzeglo6.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 157,
+    "text": "Na którym rysunku przedstawiono pierścień osadczy sprężynujący?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": null,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_rysunki.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 158,
+    "text": "Pokrywanie naprawianych części maszyn i urządzeń warstwą metalu przy jednoczesnym topieniu podłoża jest nazywane",
+    "answers": [
+      "napawaniem.",
+      "zgrzewaniem.",
+      "anodowaniem.",
+      "spawaniem."
+    ],
+    "correctAnswerIndex": null,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 159,
+    "text": "Który opis charakteryzuje metodę montażu z zastosowaniem indywidualnego dopasowania?",
+    "answers": [
+      "Wymaganą tolerancję uzyskuje się poprzez dodanie do konstrukcji elementu kompensacyjnego umożliwiającego wykonanie żądanego wymiaru w określonych granicach.",
+      "Wymaganą tolerancję wymiarów osiąga się poprzez zmianę wymiarów jednego, z góry określonego, ogniwa łańcucha wymiarowego za pomocą szlifowania, toczenia, itp.",
+      "Założoną tolerancję wymiaru wynikowego uzyskuje się przez odpowiednie kojarzenie elementów podzielonych na grupy selekcyjne o węższych tolerancjach.",
+      "Składanie jednostek montażowych z takich elementów, które mogą być dowolne, lecz wykonane według założonych wymiarów i innych wymagań."
+    ],
+    "correctAnswerIndex": null,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 160,
+    "text": "Na którym rysunku przedstawiono całkowicie wyłamany ząb koła zębatego?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": null,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_zeby.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 161,
+    "text": "Poprawność ustawienia tokarki na podłożu należy skontrolować za pomocą",
+    "answers": [
+      "poziomnicy.",
+      "transametru.",
+      "podzielnicy.",
+      "profilometru."
+    ],
+    "correctAnswerIndex": null,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 162,
+    "text": "Zadaniem reduktora sprężonego powietrza jest",
+    "answers": [
+      "podniesienie ciśnienia powyżej wartości krytycznej.",
+      "regulacja ciśnienia sprężonego gazu do pożądanej wartości.",
+      "obniżenie ciśnienia gazu poniżej wartości minimalnej.",
+      "wydłużenie skoku siłowników pneumatycznych."
+    ],
+    "correctAnswerIndex": null,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 163,
+    "text": "Na którym rysunku przedstawiono zabezpieczenie połączenia gwintowego przed samoczynnym odkręceniem się za pomocą zapadki?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": null,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_zabezpieczenia.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 164,
+    "text": "Konserwacja korpusu obrabiarki polega na",
+    "answers": [
+      "uzupełnieniu uszkodzonych powłok lakierniczych.",
+      "nałożeniu kompozytów metalożywicznych.",
+      "nałożeniu powłok kompozytowych.",
+      "wykonaniu miedziowania galwanicznego."
+    ],
+    "correctAnswerIndex": null,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 165,
+    "text": "W jakiej kolejności należy przykręcać śruby elementu przedstawionego na rysunku?",
+    "answers": [
+      "1, 2, 4, 5, 6, 3",
+      "1, 4, 3, 6, 2, 5",
+      "1, 3, 2, 6, 5, 4",
+      "1, 3, 5, 6, 2, 4"
+    ],
+    "correctAnswerIndex": null,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_element3.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 166,
+    "text": "Przed próbnym uruchomieniem maszyny po remoncie należy",
+    "answers": [
+      "wyłączyć pompę smarowania obiegowego.",
+      "wymienić olej w skrzynce posuwowej.",
+      "usunąć warstwę ochronną ze wszystkich części zakonserwowanych.",
+      "pomalować farbą porysowany korpus maszyny."
+    ],
+    "correctAnswerIndex": null,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 167,
+    "text": "Na rysunku przedstawiono koło zębate o zębach",
+    "answers": [
+      "daszkowych.",
+      "skośnych.",
+      "stożkowych.",
+      "śrubowych."
+    ],
+    "correctAnswerIndex": null,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_kolo5.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 168,
+    "text": "W celu wykonania otworów pod gwint M8 należy zastosować wiertło o średnicy",
+    "answers": [
+      "6,0 mm",
+      "6,8 mm",
+      "8,5 mm",
+      "7,8 mm"
+    ],
+    "correctAnswerIndex": null,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 169,
+    "text": "Do mycia części maszyn przeznaczonych do montażu nie stosuje się",
+    "answers": [
+      "środków alkalicznych.",
+      "nafty.",
+      "oleju napędowego.",
+      "wody."
+    ],
+    "correctAnswerIndex": null,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 170,
+    "text": "Elementy wykonane w tolerancji 10S7/h6 tworzą pasowanie",
+    "answers": [
+      "mieszane według zasady stałego otworu.",
+      "ciasne według zasady stałego otworu.",
+      "ciasne według zasady stałego wałka.",
+      "luźne według zasady stałego wałka."
+    ],
+    "correctAnswerIndex": null,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_elementy.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 171,
+    "text": "Na którym rysunku przedstawiono imadło do mocowania rur i wałków?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": null,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_imadla3.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 172,
+    "text": "Której z wymienionych czynności nie wykonuje się przed przystąpieniem do montażu łożysk ślizgowych dzielonych?",
+    "answers": [
+      "Dokładnego mycia czopów wału.",
+      "Sprawdzenia wymiarów gniazd łożyskowych.",
+      "Smarowania smarem panewek łożyska.",
+      "Sprawdzenia stanu powierzchni gniazd łożyskowych."
+    ],
+    "correctAnswerIndex": null,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 173,
+    "text": "Na rysunku przedstawiono element ze śladami zużycia",
+    "answers": [
+      "gruzełkowego.",
+      "ściernego.",
+      "zmęczeniowego.",
+      "adhezyjnego."
+    ],
+    "correctAnswerIndex": null,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_element4.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 174,
+    "text": "W celu wykonania rowka wpustowego w kole pasowym należy je zamocować w",
+    "answers": [
+      "imadle maszynowym.",
+      "uchwycie trójszczękowym.",
+      "imadle ślusarskim.",
+      "tarczy zabierakowej."
+    ],
+    "correctAnswerIndex": null,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 175,
+    "text": "W celu uzyskania odpowiedniej tolerancji pasowania podczas montażu prowadnic tocznych należy",
+    "answers": [
+      "dopasować indywidualnie każdy wałek.",
+      "skrobać powierzchnię prowadnic.",
+      "dobrać właściwe podkładki kompensacyjne.",
+      "dobrać wałeczki poprzez selekcję."
+    ],
+    "correctAnswerIndex": null,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 176,
+    "text": "Łuszczenie (spalling) jest procesem zużycia powstałym między współpracującymi powierzchniami podczas",
+    "answers": [
+      "tarcia przy braku smarowania.",
+      "tarcia przy zbyt obfitym smarowaniu.",
+      "normalnej eksploatacji maszyny.",
+      "korozji mechanicznej."
+    ],
+    "correctAnswerIndex": null,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 177,
+    "text": "Montaż polegający na tym, że założoną tolerancję wymiarów osiąga się poprzez odpowiednie kojarzenie elementów podzielonych na grupy o węższych tolerancjach, jest montażem wykonywanym zgodnie z zasadą",
+    "answers": [
+      "całkowitej zamienności.",
+      "częściowej zamienności.",
+      "selekcji.",
+      "dopasowywania."
+    ],
+    "correctAnswerIndex": null,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 178,
+    "text": "Do pogłębienia otworu pod łeb śruby imbusowej należy użyć narzędzia przedstawionego na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": null,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_narzedzia10.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 179,
+    "text": "Na której ilustracji zostało przedstawione łożysko wzdłużne?",
+    "answers": [
+      "Na ilustracji 2.",
+      "Na ilustracji 4.",
+      "Na ilustracji 3.",
+      "Na ilustracji 1."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_lozyska5.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 180,
+    "text": "Przyrząd do pomiaru głębokości otworu przedstawiono",
+    "answers": [
+      "na ilustracji 2.",
+      "na ilustracji 4.",
+      "na ilustracji 1.",
+      "na ilustracji 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_przyrzady7.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 181,
+    "text": "Na którym rysunku przedstawiono pomiar równoległości przesuwu sań narzędziowych do osi wrzeciona w płaszczyznach pionowej i poziomej?",
+    "answers": [
+      "Na rysunku 3.",
+      "Na rysunku 4.",
+      "Na rysunku 2.",
+      "Na rysunku 1."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_rysunki14.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 182,
+    "text": "W celu wykonania otworów pod gwint M8 należy zastosować wiertło",
+    "answers": [
+      "Ø7,8 mm",
+      "Ø6,8 mm",
+      "Ø6,0 mm",
+      "Ø8,5 mm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 183,
+    "text": "Na zdjęciu przedstawiono sprzęgło",
+    "answers": [
+      "kołnierzowe.",
+      "zębate.",
+      "kłowe.",
+      "tulejowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_sprzeglo6.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 184,
+    "text": "Podaj prawidłową kolejność wykorzystania narzędzi do wykonania otworu z gwintem M10",
+    "answers": [
+      "Nawiertak, wiertło, komplet gwintowników, pogłębiacz walcowy.",
+      "Wiertło, komplet gwintowników, pogłębiacz stożkowy, nawiertak.",
+      "Nawiertak, wiertło, pogłębiacz stożkowy, komplet gwintowników.",
+      "Wiertło, nawiertak, rozwiertak, komplet gwintowników, pogłębiacz."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 185,
+    "text": "Którego narzędzia należy użyć do demontażu koła pasowego?",
+    "answers": [
+      "Przedstawionego na ilustracji 2.",
+      "Przedstawionego na ilustracji 4.",
+      "Przedstawionego na ilustracji 3.",
+      "Przedstawionego na ilustracji 1."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_narzedzia15.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 186,
+    "text": "Do bezpośredniego pomiaru średnicy otworu Ø65+0,23 należy użyć",
+    "answers": [
+      "suwmiarki uniwersalnej.",
+      "mikrometru zewnętrznego.",
+      "głębokościomierza suwmiarkowego.",
+      "średnicówki mikrometrycznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 187,
+    "text": "Którą obrabiarkę przedstawia ilustracja?",
+    "answers": [
+      "Tokarkę karuzelową.",
+      "Wiertarkę promieniową.",
+      "Strugarkę poprzeczną.",
+      "Frezarkę narzędziową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_obrabiarka3.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 188,
+    "text": "Który rysunek przedstawia zabezpieczenie połączenia gwintowego przed samoczynnym odkręceniem się za pomocą zapadki?",
+    "answers": [
+      "Rysunek 2.",
+      "Rysunek 4.",
+      "Rysunek 1.",
+      "Rysunek 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_zabezpieczenia3.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 189,
+    "text": "Na ilustracji przedstawiono element ze śladami zużycia",
+    "answers": [
+      "ściernego.",
+      "adhezyjnego.",
+      "zmęczeniowego.",
+      "gruzełkowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_element4.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 190,
+    "text": "Dobierz wymiary wpustu do montażu koła pasowego na wale o średnicy Ø40.",
+    "answers": [
+      "14 x 9 x 60",
+      "16 x 10 x 60",
+      "18 x 11 x 60",
+      "12 x 8 x 60"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_tabela24.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 191,
+    "text": "Jaką przekładnię zębatą przedstawia zdjęcie?",
+    "answers": [
+      "Ślimakową.",
+      "Stożkową.",
+      "Walcową.",
+      "Śrubową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_przekladnia3.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 192,
+    "text": "Której czynności nie wykonuje się przed przystąpieniem do montażu łożysk ślizgowych dzielonych?",
+    "answers": [
+      "Sprawdzenia wymiarów gniazd łożyskowych.",
+      "Smarowania smarem panewek łożyska.",
+      "Sprawdzenia stanu powierzchni gniazd łożyskowych.",
+      "Dokładnego mycia czopów wału."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 193,
+    "text": "Na której ilustracji przedstawiono wykruszenie koła zębatego?",
+    "answers": [
+      "Na ilustracji 4.",
+      "Na ilustracji 2.",
+      "Na ilustracji 3.",
+      "Na ilustracji 1."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_ilustracje4.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 194,
+    "text": "Przedstawiony na zdjęciu wał jest elementem układu",
+    "answers": [
+      "rozrządu.",
+      "jarzmowego.",
+      "tłokowo-korbowego.",
+      "korbowo-wahaczowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_wal4.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 195,
+    "text": "Którą cyfrą oznaczono na ilustracji zabierak?",
+    "answers": [
+      "1",
+      "3",
+      "2",
+      "4"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_rysunek26.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 196,
+    "text": "Do pogłębienia otworu pod łeb śruby imbusowej należy użyć narzędzia przedstawionego",
+    "answers": [
+      "na ilustracji 4.",
+      "na ilustracji 2.",
+      "na ilustracji 1.",
+      "na ilustracji 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_narzedzia16.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 197,
+    "text": "Do mycia części maszyn przeznaczonych do montażu nie używa się",
+    "answers": [
+      "nafty.",
+      "wody.",
+      "oleju napędowego.",
+      "środków alkalicznych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 198,
+    "text": "Podczas remontu kapitalnego skrzynki suportowej nie wymienia się",
+    "answers": [
+      "śrub.",
+      "podkładek.",
+      "łożysk.",
+      "korpusu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 199,
+    "text": "Zabiegi wykonywane cyklicznie, zgodnie z ustalonym harmonogramem, po upływie określonego czasu pracy maszyny lub po osiągnięciu wyznaczonej innej miary użytkowania to obsługa",
+    "answers": [
+      "sezonowa.",
+      "okresowa.",
+      "gwarancyjna.",
+      "diagnostyczna."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 200,
+    "text": "Która ilustracja przedstawia pierścień osadczy sprężynujący?",
+    "answers": [
+      "Ilustracja 3.",
+      "Ilustracja 1.",
+      "Ilustracja 2.",
+      "Ilustracja 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_pierscienie.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 201,
+    "text": "Wybierz imadło do zamocowania wałka Ø50, w którym będzie wiercony otwór poprzeczny Ø10?",
+    "answers": [
+      "Przedstawione na ilustracji 3.",
+      "Przedstawione na ilustracji 4.",
+      "Przedstawione na ilustracji 1.",
+      "Przedstawione na ilustracji 2."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_imadla6.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 202,
+    "text": "Na zdjęciu przedstawiono koło zębate o zębach",
+    "answers": [
+      "stożkowych.",
+      "śrubowych.",
+      "skośnych.",
+      "daszkowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_kolo8.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 203,
+    "text": "Na którym rysunku ślady zazębienia kół zębatych informują o zbyt dużym luzie na obwodzie (za dużej odległości między osiami)?",
+    "answers": [
+      "Na rysunku 1.",
+      "Na rysunku 4.",
+      "Na rysunku 3.",
+      "Na rysunku 2."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_rysunki13.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 204,
+    "text": "Podczas wykonywania operacji frezowania przedmiotów obrabianych nie mocuje się",
+    "answers": [
+      "w podzielnicy uniwersalnej.",
+      "w imadle maszynowym.",
+      "bezpośrednio na stole frezarki.",
+      "na stole magnetycznym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 205,
+    "text": "Na przedstawionej ilustracji, cyfrą 1 oznaczony jest",
+    "answers": [
+      "kołek.",
+      "wpust.",
+      "wielowypust.",
+      "sworzeń."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_rysunek.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 206,
+    "text": "Na ilustracji przedstawiono przekładnię zębatą",
+    "answers": [
+      "planetarną.",
+      "stożkową.",
+      "śrubową.",
+      "różnicową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_przekladnia10.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 207,
+    "text": "Podzespołem przedstawionym na ilustracji jest",
+    "answers": [
+      "pompa śrubowa.",
+      "silnik rotacyjny.",
+      "przekładnia śrubowa.",
+      "pompa zębata."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_podzespol6.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 208,
+    "text": "Na której ilustracji przedstawiono prawidłowe ułożenie przewodów hydraulicznych?",
+    "answers": [
+      "Na ilustracji 3.",
+      "Na ilustracji 2.",
+      "Na ilustracji 1.",
+      "Na ilustracji 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_przewody2.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 209,
+    "text": "Które sprzęgło przedstawiono na ilustracji?",
+    "answers": [
+      "Sztywne.",
+      "Podatne.",
+      "Samonastawne.",
+      "Bezpieczeństwa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_sprzeglo7.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 210,
+    "text": "Które urządzenie transportowe przedstawiono na ilustracji?",
+    "answers": [
+      "Cięgnik z łańcuchem sworzniowym.",
+      "Przenośnik z łańcuchem sworzniowym.",
+      "Cięgnik z łańcuchem ogniwowym.",
+      "Przenośnik z łańcuchem ogniwowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_urzadzenie8.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 211,
+    "text": "Na ilustracji przekładni obiegowej koło satelitarne oznaczono cyfrą",
+    "answers": [
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_przekladnia9.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 212,
+    "text": "Wskazanie suwmiarki przedstawionej na ilustracji wynosi",
+    "answers": [
+      "11,10 mm",
+      "14,10 mm",
+      "16,10 mm",
+      "20,10 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_suwmiarka2.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 213,
+    "text": "Urządzenie przedstawione na ilustracji stosuje się do",
+    "answers": [
+      "piaskowania.",
+      "przedmuchiwania.",
+      "mycia.",
+      "smarowania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_urzadzenie9.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 214,
+    "text": "Na ilustracji przedstawiono hamulec",
+    "answers": [
+      "mechaniczny.",
+      "pneumatyczny.",
+      "elektromagnetyczny.",
+      "hydrokinetyczny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_hamulec3.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 215,
+    "text": "Do montażu śruby przedstawionej na ilustracji należy zastosować",
+    "answers": [
+      "wkrętak krzyżakowy PZ3.",
+      "wkrętak krzyżakowy PH3.",
+      "klucz trzpieniowy kwadratowy.",
+      "klucz trzpieniowy sześciokątny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_sruba3.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 216,
+    "text": "Na ilustracji przedstawiono wał napędowy",
+    "answers": [
+      "z kołem pasowym i zębatym.",
+      "z dwoma kołami łańcuchowymi.",
+      "z kołem zębatym i wielowypustem.",
+      "z wielowypustem i kołem pasowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_wal5.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 217,
+    "text": "Oblicz wymiary graniczne średnicy wałka o wymiarze nominalnym N = ø78 mm, wykonanego w tolerancji IT = 0,028, gdzie odchyłka górna es = 0 µm, a odchyłka dolna ei = − 0,028 µm.",
+    "answers": [
+      "A = 77,972; B = 78,000",
+      "A = 77,928; B = 78,000",
+      "A = 77,972; B = 78,028",
+      "A = 78,000; B = 78,028"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 218,
+    "text": "Fragment łańcucha ogniwowego stosowanego w przekładni łańcuchowej przedstawiono",
+    "answers": [
+      "na rysunku 1.",
+      "na rysunku 3.",
+      "na rysunku 2.",
+      "na rysunku 4."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_lancuchy.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 219,
+    "text": "Podczas użytkowania piaskarki przedstawionej na ilustracji należy założyć",
+    "answers": [
+      "kombinezon, rękawice i hełm przeciwpyłowy.",
+      "okulary i maskę przeciwpyłową.",
+      "maskę przeciwpyłową i rękawice ochronne.",
+      "rękawice i okulary ochronne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_piaskarka.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 220,
+    "text": "Na przedstawionej ilustracji uszczelnienie tłoczyska oznaczono cyfrą",
+    "answers": [
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_rysunek21.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 221,
+    "text": "Na ilustracji przedstawiono śrubę z łbem",
+    "answers": [
+      "walcowym.",
+      "soczewkowym.",
+      "czopkowym.",
+      "płaskim."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_sruba4.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 222,
+    "text": "Na której ilustracji przedstawiono króciec?",
+    "answers": [
+      "Na ilustracji A.",
+      "Na ilustracji C.",
+      "Na ilustracji B.",
+      "Na ilustracji D."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/mg17_rysunki4.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 223,
+    "text": "Na której ilustracji przedstawiono wiertło do metalu z chwytem stożkowym Morse’a zakończonym płetwą?",
+    "answers": [
+      "Na ilustracji 2.",
+      "Na ilustracji 1.",
+      "Na ilustracji 3.",
+      "Na ilustracji 4."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_wiertla.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 224,
+    "text": "O jakiej średnicy należy wykonać otwór pod nit o średnicy 6 mm? Skorzystaj z danych w tabeli.",
+    "answers": [
+      "6,6 mm",
+      "6,5 mm",
+      "6,1 mm",
+      "6,0 mm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_tabela16.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 225,
+    "text": "Na którym rysunku przedstawiono złącze przylgowe ze spoiną brzeżną?",
+    "answers": [
+      "Na rysunku 1.",
+      "Na rysunku 2.",
+      "Na rysunku 3.",
+      "Na rysunku 4."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_zlacza3.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 226,
+    "text": "Na którym rysunku przedstawiono fragment łańcucha ogniwowego stosowanego w przekładni łańcuchowej?",
+    "answers": [
+      "Na rysunku 1.",
+      "Na rysunku 3.",
+      "Na rysunku 4.",
+      "Na rysunku 2."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_lancuchy.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 227,
+    "text": "Oblicz wymiary graniczne średnicy wałka o wymiarze nominalnym N = 78 mm, wykonanego w tolerancji IT = 0,028, gdzie odchyłka górna es = 0 µm, a odchyłka dolna ei = − 0,028 mm.",
+    "answers": [
+      "A = 77,928; B = 78,000",
+      "A = 77,972; B = 78,000",
+      "A = 77,972; B = 78,028",
+      "A = 78,000; B = 78,028"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 228,
+    "text": "Podczas wykonywania operacji frezowania, przedmiotów obrabianych nie mocuje się",
+    "answers": [
+      "w podzielnicy uniwersalnej.",
+      "bezpośrednio na stole frezarki.",
+      "w imadle maszynowym.",
+      "na stole magnetycznym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 229,
+    "text": "Pierścienie osadcze sprężynujące zewnętrzne montuje się narzędziem przedstawionym",
+    "answers": [
+      "na rysunku 2.",
+      "na rysunku 3.",
+      "na rysunku 4.",
+      "na rysunku 1."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_narzedzia14.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 230,
+    "text": "Pokrywa wrzeciona frezarki powinna być dokręcona do korpusu śrubami M10. Na podstawie danych z tabeli dobierz średnicę wiertła w celu wykonania otworów w korpusie.",
+    "answers": [
+      "5,0 mm",
+      "8,5 mm",
+      "12,0 mm",
+      "10,2 mm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_tabela23.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 231,
+    "text": "W której z wymienionych kolejności należy dokręcić śruby połączenia przedstawionego na rysunku, tak aby uzyskać równomierne przyleganie głowicy/pokrywy i napięcie śrub?",
+    "answers": [
+      "2, 1, 4, 3",
+      "1, 3, 4, 2",
+      "2, 4, 3, 1",
+      "1, 3, 2, 4"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_polaczenie19.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 232,
+    "text": "Dokumentem sporządzanym po zainstalowaniu maszyny i dokonaniu jej komisyjnego odbioru jest",
+    "answers": [
+      "karta naprawy maszyny.",
+      "protokół zdawczo-odbiorczy.",
+      "instrukcja konserwacji i smarowania.",
+      "roczny plan naprawy i przeglądów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 233,
+    "text": "Po wykonanym remoncie głównym maszyny przeprowadza się próbę",
+    "answers": [
+      "bez obciążenia, a następnie pod obciążeniem.",
+      "pod obciążeniem, a następnie bez obciążenia.",
+      "wyłącznie pod obciążeniem.",
+      "wyłącznie bez obciążenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 234,
+    "text": "Przy zamontowanej płytce regulacyjnej o grubości 2,50 mm zmierzony luz ma wartość 0,45 mm. W celu osiągnięcia luzu 0,35 mm należy zastosować płytkę regulacyjną o grubości",
+    "answers": [
+      "2,55 mm",
+      "2,40 mm",
+      "2,35 mm",
+      "2,60 mm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 235,
+    "text": "Na rysunku przedstawiono pierścień",
+    "answers": [
+      "osadczy zewnętrzny.",
+      "kompresyjno-zgarniający.",
+      "zgarniający.",
+      "kompresyjny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_pierscien.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 236,
+    "text": "Na ilustracji przedstawiono łożysko",
+    "answers": [
+      "kulkowe wzdłużne.",
+      "igiełkowe wzdłużne.",
+      "ślizgowe.",
+      "walcowe dwurzędowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_lozysko6.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 237,
+    "text": "Na którym rysunku przedstawiono zabieg pogłębiania otworu pod łeb stożkowy śruby?",
+    "answers": [
+      "Na rysunku 1.",
+      "Na rysunku 3.",
+      "Na rysunku 2.",
+      "Na rysunku 4."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_rysunki12.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 238,
+    "text": "Szczelność pomiędzy gniazdami i zaworami silnika spalinowego uzyskuje się po operacji",
+    "answers": [
+      "frezowania.",
+      "polerowania.",
+      "docierania.",
+      "szlifowania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 239,
+    "text": "Do kontroli ciśnienia oleju w układzie smarowania stosuje się",
+    "answers": [
+      "multimetr.",
+      "wakuometr.",
+      "manometr.",
+      "pirometr."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 240,
+    "text": "Na której ilustracji przedstawiono wiertło do metalu chwytem stożkowym Morse’a zakończonym płetwą?",
+    "answers": [
+      "Na ilustracji 2.",
+      "Na ilustracji 4.",
+      "Na ilustracji 3.",
+      "Na ilustracji 1."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_wiertla.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 241,
+    "text": "Narzędzie stosowane do wykręcenia urwanych śrub przedstawiono",
+    "answers": [
+      "na rysunku 3.",
+      "na rysunku 1.",
+      "na rysunku 2.",
+      "na rysunku 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_narzedzia13.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 242,
+    "text": "Które elementy wiertarki stołowej należy oczyścić i nasmarować po zakończonej pracy?",
+    "answers": [
+      "Podstawę wiertarki, wrzeciono oraz koła pasowe przekładni.",
+      "Kolumnę wiertarki, osłonę przekładni oraz inne niemalowane elementy metalowe.",
+      "Kolumnę wiertarki, wrzeciono oraz inne niemalowane elementy metalowe.",
+      "Kolumnę wiertarki, wrzeciono oraz koła pasowe przekładni."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 243,
+    "text": "Montażu spoczynkowych połączeń wielowypustowych nie wykonuje się z wykorzystaniem",
+    "answers": [
+      "podgrzewania piasty.",
+      "specjalnych przyrządów.",
+      "prasy śrubowej.",
+      "podgrzewania wałka."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 244,
+    "text": "Naprawę czopów wału na kolejny wymiar naprawczy wykonuje się poprzez ich",
+    "answers": [
+      "szlifowanie i zastosowanie panewek nominalnych.",
+      "polerowanie i zastosowanie panewek nominalnych.",
+      "szlifowanie i zastosowanie panewek podwymiarowych.",
+      "polerowanie i zastosowanie panewek nadwymiarowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 245,
+    "text": "Obsługę maszyn i urządzeń wykonuje się na podstawie",
+    "answers": [
+      "dokumentacji techniczno-ruchowej.",
+      "rysunku złożeniowego.",
+      "karty technologicznej.",
+      "schematu montażowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 246,
+    "text": "Przyczyną nadmiernego grzania się łożyska ślizgowego nie jest",
+    "answers": [
+      "zbyt ciasne pasowanie łożyska z czopem wału.",
+      "małe ciśnienie w układzie smarowania.",
+      "nierówność na powierzchni czopa lub łożyska.",
+      "zwiększony luz osiowy wału."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 247,
+    "text": "Na rysunku przedstawiono łożysko",
+    "answers": [
+      "baryłkowe poprzeczne.",
+      "kulkowe wzdłużne.",
+      "kulkowe poprzeczne.",
+      "baryłkowe wzdłużne."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_lozysko3.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 248,
+    "text": "Trwałość i niezawodność maszyn i urządzeń nie zależy od",
+    "answers": [
+      "daty produkcji.",
+      "jakości wykonania.",
+      "warunków użytkowania.",
+      "rozwiązania konstrukcyjnego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 249,
+    "text": "Która podkładka nie zabezpiecza połączenia śrubowego przed samoodkręceniem?",
+    "answers": [
+      "Zębata.",
+      "Płaska.",
+      "Odginana.",
+      "Sprężynująca."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 250,
+    "text": "Na schematach instalacji hydraulicznej przedstawiony symbol graficzny jest oznaczeniem",
+    "answers": [
+      "manometru.",
+      "zaworu odcinającego.",
+      "termometru.",
+      "przepływomierza."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_symbol.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 251,
+    "text": "Imadło, które należy zastosować do mocowania wałków podczas obróbki przedstawiono",
+    "answers": [
+      "na rysunku 4.",
+      "na rysunku 1.",
+      "na rysunku 3.",
+      "na rysunku 2."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_imadla5.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 252,
+    "text": "Kontrolę prawidłowości zazębienia współpracujących kół zębatych wykonuje się za pomocą",
+    "answers": [
+      "liniału krawędziowego.",
+      "suwmiarki modułowej.",
+      "passametru.",
+      "tuszu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 253,
+    "text": "Do uzupełnienia poziomu oleju w podnośniku wykorzystuje się olej",
+    "answers": [
+      "wiertniczy.",
+      "maszynowy.",
+      "hydrauliczny.",
+      "silnikowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 254,
+    "text": "Na rysunku przedstawiono połączenie nitowe",
+    "answers": [
+      "jednorzędowe zakładkowe.",
+      "dwurzędowe zakładkowe.",
+      "jednorzędowe nakładkowe.",
+      "dwurzędowe nakładkowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_polaczenie18.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 255,
+    "text": "Dokonując kontroli jakości wykonanego montażu układu smarowania pompy, sprawdza się",
+    "answers": [
+      "szczelność i wydajność pompy.",
+      "ciśnienie oleju i szczelność.",
+      "ciśnienie oleju i jego temperaturę.",
+      "wydajność pompy i temperaturę oleju."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 256,
+    "text": "Uszkodzoną śrubę o średnicy 10 mm z gwintem metrycznym o skoku 1,25 mm i długości 125 mm, można zastąpić nową o oznaczeniu",
+    "answers": [
+      "M125 x 10 x 1,25",
+      "M1,25 x 10 x 125",
+      "M10 x 1,25 x 125",
+      "M10 x 125 x 1,25"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 257,
+    "text": "Przyczyną przyspieszonego zużycia pasa klinowego przekładni pasowej nie jest",
+    "answers": [
+      "zaolejenie pasa.",
+      "zbyt niska prędkość obrotowa przekładni.",
+      "nieprostopadłe osadzenie kół względem osi wału.",
+      "brak równoległości osi wałów z osadzonymi kołami pasowymi."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 258,
+    "text": "Zjawisko, w którym powierzchnie współpracujące są rozdzielone warstwą środka smarnego w postaci smaru plastycznego cieczy lub gazu, nazywa się tarciem",
+    "answers": [
+      "mieszanym.",
+      "suchym.",
+      "płynnym.",
+      "granicznym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 259,
+    "text": "Który rodzaj przekładni przedstawiono na rysunku?",
+    "answers": [
+      "Walcową o zębach śrubowych.",
+      "Walcową o zębach prostych.",
+      "Stożkową o zębach prostych.",
+      "Stożkową o zębach skośnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_przekladnia6.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 260,
+    "text": "Na ilustracji przedstawiono koło zębate",
+    "answers": [
+      "stożkowe o zębach prostych.",
+      "walcowe o zębach prostych.",
+      "stożkowe o zębach skośnych.",
+      "walcowe o zębach skośnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_kolo7.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 261,
+    "text": "Do kontroli płaskości powierzchni stosuje się",
+    "answers": [
+      "kątownik i szczelinomierz.",
+      "kątownik i czujnik zegarowy.",
+      "liniał krawędziowy i szczelinomierz.",
+      "liniał krawędziowy i głębokościomierz."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 262,
+    "text": "W celu przetransportowania maszyny na miejsce zainstalowania w przypadku, gdy jej masa przekracza dopuszczalną nośność dźwigu stosuje się",
+    "answers": [
+      "przenośnik cięgnowy.",
+      "linę o większej wytrzymałości.",
+      "podnośnik platformowy.",
+      "wózek transportowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 263,
+    "text": "Na ilustracji przedstawiono przekładnię",
+    "answers": [
+      "łańcuchową.",
+      "linową.",
+      "cierną.",
+      "pasową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m20_przekladnia4.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 264,
+    "text": "Elementy przygotowane do spawania jednostronnego na 1/2 V przedstawiono",
+    "answers": [
+      "na ilustracji 4.",
+      "na ilustracji 2.",
+      "na ilustracji 3.",
+      "na ilustracji 1."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_elementy2.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 265,
+    "text": "Zgodnie z danymi w tabeli, aby uzyskać pasowanie ciasne połączenia otworu ϕ80JS10, wałek powinien mieć wymiar równy",
+    "answers": [
+      "79,992 mm",
+      "80,121 mm",
+      "80,045 mm",
+      "79,972 mm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_tabela19.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 266,
+    "text": "Na której ilustracji przedstawiono ustalenie łożyska tocznego za pomocą nakrętki łożyskowej?",
+    "answers": [
+      "Na ilustracji 1.",
+      "Na ilustracji 4.",
+      "Na ilustracji 2.",
+      "Na ilustracji 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_ilustracje.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 267,
+    "text": "Na podstawie danych w tabeli i rysunku, dobierz oznaczenie stopy do regulacji posadowienia obrabiarki na fundamencie. Dane obrabiarki: − wysokość podstawy obrabiarki: 98 mm, − średnica otworu w podstawie obrabiarki pod śrubę: ϕ12,5 mm, − odległość podstawy obrabiarki do fundamentu powinna wynosić minimum 30 mm, − masa obrabiarki: 3 800 kg, − posadowienie obrabiarki na czterech stopach.",
+    "answers": [
+      "D-50A",
+      "D-40A",
+      "D-40B",
+      "D-50C"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_tabela22.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 268,
+    "text": "Koło zębate przedstawione na ilustracji stanowi element przekładni",
+    "answers": [
+      "śrubowej.",
+      "pasowej.",
+      "ślimakowej.",
+      "łańcuchowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_kolo6.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 269,
+    "text": "Który rodzaj siłownika przedstawiono na ilustracji?",
+    "answers": [
+      "Mieszkowy.",
+      "Tłokowy.",
+      "Teleskopowy.",
+      "Dętkowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_silownik2.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 270,
+    "text": "Na podstawie danych w tabeli, dobierz oznaczenie dwuteownika spełniającego wymagania: − wysokość: 150 mm, − szerokość: 72 mm, − pole przekroju: 22 cm2, − wskaźnik wytrzymałości na zginanie: 110,0 cm3 * zdający otrzymuje jeden punkt niezależnie od udzielonej odpowiedzi.",
+    "answers": [
+      "I 140 \nB.  I 160 \nC.  I 180 \nD.  I 200"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_tabela20.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 271,
+    "text": "Na podstawie zamieszczonego wyciągu z DTR, określ liczbę miejsc w obrabiarce smarowanych ręcznie za pomocą smarownicy lub pompki.",
+    "answers": [
+      "11",
+      "5",
+      "7",
+      "9"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_instrukcja3.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 272,
+    "text": "Wskazanie na podziałce mikromierza zgodnie z przedstawionym rysunkiem wynosi",
+    "answers": [
+      "15,17 mm",
+      "17,67 mm",
+      "15,67 mm",
+      "17,17 mm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_pomiar3.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 273,
+    "text": "Na której ilustracji przedstawiono smarownicę igłową?",
+    "answers": [
+      "Na ilustracji 1.",
+      "Na ilustracji 2.",
+      "Na ilustracji 4.",
+      "Na ilustracji 3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_smarownice.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 274,
+    "text": "Na podstawie danych w tabeli, dobierz wymiary wpustu pryzmatycznego dla wałka o średnicy nominalnej ϕ44,5 mm.",
+    "answers": [
+      "A12 x 8 x 140",
+      "A14 x 9 x 150",
+      "A14 x 9 x 180",
+      "A12 x 8 x 100"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_tabela21.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 275,
+    "text": "Oblicz wymiary graniczne średnicy wałka o wymiarze nominalnym N = ϕ78 mm, wykonanego w tolerancji IT = 0,028, gdzie odchyłka górna es = 0 µm, a odchyłka dolna ei = − 0,028 µm.",
+    "answers": [
+      "A = 77,972; B = 78,028",
+      "A = 78,000; B = 78,028",
+      "A = 77,928; B = 78,000",
+      "A = 77,972; B = 78,000"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 276,
+    "text": "Przyrząd przedstawiony na ilustracji służy do pomiaru",
+    "answers": [
+      "chropowatości.",
+      "grubości blach.",
+      "szczelin.",
+      "struktury powierzchni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_przyrzad11.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 277,
+    "text": "Do pomiaru zużycia gładzi średnicy wewnętrznej tulei cylindrowej stosuje się",
+    "answers": [
+      "mikrometr wewnętrzny.",
+      "średnicówkę zegarową.",
+      "suwmiarkę uniwersalną.",
+      "czujnik zegarowy z podstawką."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 278,
+    "text": "Na rysunku przedstawiono połączenie",
+    "answers": [
+      "kołkowe.",
+      "wpustowe.",
+      "klinowe.",
+      "sworzniowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_polaczenie17.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 279,
+    "text": "Na którym rysunku przedstawiono narzędzie do wykonywania dokręcenia połączenia śrubowego o zadany kąt obrotu?",
+    "answers": [
+      "Na rysunku 1.",
+      "Na rysunku 2.",
+      "Na rysunku 4.",
+      "Na rysunku 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_narzedzia12.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 280,
+    "text": "Przyczyną przyspieszonego zużycia pasa przekładni pasowej nie jest",
+    "answers": [
+      "zbyt niska prędkość obrotowa przekładni.",
+      "brak równoległości osi wałów z osadzonymi kołami pasowymi.",
+      "zaolejenie pasa.",
+      "nieprostopadłe osadzenie kół względem osi wału."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 281,
+    "text": "Przyrząd przedstawiony na rysunku stosuje się do",
+    "answers": [
+      "osadzania łożyska w gnieździe.",
+      "wtłaczania łożyska na wałek.",
+      "demontażu łożysk.",
+      "osadzania łożyska w gnieździe i na wałku."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_przyrzad9.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 282,
+    "text": "W celu przetransportowania maszyny na miejsce zainstalowania w przypadku gdy jej masa przekracza dopuszczalną nośność dźwigu stosuje się",
+    "answers": [
+      "podnośnik platformowy.",
+      "przenośnik cięgnowy.",
+      "linę o większej wytrzymałości.",
+      "wózek transportowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 283,
+    "text": "Którą obrabiarkę skrawającą przedstawiono na rysunku?",
+    "answers": [
+      "Wytaczarkę poziomą.",
+      "Szlifierkę do płaszczyzn.",
+      "Frezarkę konwencjonalną pionową.",
+      "Tokarkę sterowaną numerycznie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_obrabiarka2.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 284,
+    "text": "Określenie stanu technicznego maszyny lub urządzenia wraz z lokalizacją ewentualnych niedomagań bez demontażu zespołów to",
+    "answers": [
+      "weryfikacja części.",
+      "naprawa bieżąca.",
+      "diagnostyka techniczna.",
+      "diagnostyka niezawodnościowa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 285,
+    "text": "Kontrolę prawidłowości osadzenia koła zębatego na wale przeprowadza się, dokonując pomiaru bicia",
+    "answers": [
+      "osiowego i promieniowego wału.",
+      "promieniowego wału i osiowego koła zębatego.",
+      "osiowego i promieniowego koła zębatego.",
+      "osiowego wału i osiowego koła zębatego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 286,
+    "text": "Przyrząd stosowany do montażu pierścieni tłokowych przedstawiono",
+    "answers": [
+      "na rysunku 1.",
+      "na rysunku 4.",
+      "na rysunku 2.",
+      "na rysunku 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_przyrzady6.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 287,
+    "text": "Zamki zamontowanych trzech pierścieni tłokowych w tłoku powinny być przesunięte względem siebie o kąt równy",
+    "answers": [
+      "120°",
+      "90°",
+      "180°",
+      "150°"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.03"
+  },
+  {
+    "id": 288,
+    "text": "Schemat przekładni pasowej z pasem zębatym przedstawiono",
+    "answers": [
+      "na rysunku 1.",
+      "na rysunku 3.",
+      "na rysunku 4.",
+      "na rysunku 2."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_przekladnie5.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 289,
+    "text": "Które łożysko przedstawiono na ilustracji?",
+    "answers": [
+      "Toczne wzdłużne.",
+      "Ślizgowe poprzeczne.",
+      "Ślizgowe wzdłużne.",
+      "Toczne poprzeczne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_lozysko5.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 290,
+    "text": "Podczas montażu przekładni przedstawionej na ilustracji należy zapewnić",
+    "answers": [
+      "równoległość kół do osi wałów.",
+      "współosiowość kół.",
+      "wzajemną równoległość wałów.",
+      "wzajemne pokrywanie się osi wałów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_przekladnia8.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 291,
+    "text": "Na wałku zespołu koła pasowego przedstawionego na rysunku wpust czółenkowy montuje się w kolejności:",
+    "answers": [
+      "przed nakrętką i po kole pasowym.",
+      "przed łożyskiem i po kole pasowym.",
+      "po łożysku i przed kołem pasowym.",
+      "po łożysku i po kole pasowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_zespol4.png"
+    },
+    "category": "MEC.03"
+  },
+  {
+    "id": 292,
+    "text": "Ilustracja przedstawia hamulec",
+    "answers": [
+      "elektromagnetyczny.",
+      "mechaniczny.",
+      "pneumatyczny.",
+      "hydrokinetyczny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec03/m17_hamulec3.png"
+    },
+    "category": "MEC.03"
+  }
+]
