@@ -1,0 +1,3447 @@
+[
+  {
+    "id": 1,
+    "text": "Podczas wykonywania drenażu limfatycznego masażysta powinien stosować zasadę",
+    "answers": [
+      "opracowania regionalnych węzłów chłonnych na początku i na końcu zabiegu.",
+      "intensywnego rozgrzania tkanek na początku i na końcu zabiegu masażu.",
+      "stopniowego rozgrzewania tkanek w trakcie całego zabiegu masażu.",
+      "opracowania zbiorczych pni chłonnych głębokich na początku zabiegu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 2,
+    "text": "Odstawanie przyśrodkowego brzegu łopatki jest objawem porażenia mięśnia",
+    "answers": [
+      "podgrzebieniowego.",
+      "piersiowego większego.",
+      "nadgrzebieniowego.",
+      "zębatego przedniego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 3,
+    "text": "Wskazaniem do wykonywania masażu powłok brzusznych jest",
+    "answers": [
+      "ostra kamica wątrobowa.",
+      "choroba wrzodowa żołądka z krwawieniem.",
+      "okres menstruacji.",
+      "zaparcie nawykowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 4,
+    "text": "Zmiany demielinizacyjne w ośrodkowym układzie nerwowym są typową cechą charakterystyczną dla",
+    "answers": [
+      "choroby Parkinsona.",
+      "wiądu rdzenia.",
+      "udaru mózgu.",
+      "stwardnienia rozsianego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 5,
+    "text": "W kanale nadgarstka między wyniosłościami promieniową i łokciową przebiega ścięgno mięśnia",
+    "answers": [
+      "prostownika łokciowego nadgarstka.",
+      "prostownika palców.",
+      "zginacza powierzchownego palców.",
+      "zginacza krótkiego palca małego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 6,
+    "text": "Rozcieranie klasyczne okolicy stawu wpływa na",
+    "answers": [
+      "usunięcie obrzęku wewnątrzstawowego.",
+      "zmniejszenie ilości wydzielanej mazi w stawie.",
+      "przyspieszenie metabolizmu komórkowego torebki stawowej.",
+      "nagromadzenie się produktów przemiany materii w tkankach okołostawowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 7,
+    "text": "Wskazaniem do masażu gorącymi kamieniami jest",
+    "answers": [
+      "brak czucia powierzchownego.",
+      "zakrzepowe zapalenie żył.",
+      "pierwszy trymestr ciąży.",
+      "uczucie zmęczenia mięśni."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 8,
+    "text": "Ocena układu mięśnia piersiowego większego w masażu tensegracyjnym obejmuje między innymi ocenę wrażliwości uciskowej na",
+    "answers": [
+      "nadkłykciu bocznym kości ramiennej.",
+      "kolcu biodrowym przednim górnym.",
+      "kości grochowatej.",
+      "guzie kulszowym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 9,
+    "text": "Uszkodzenie układu piramidowego powoduje",
+    "answers": [
+      "porażenie wiotkie.",
+      "porażenie spastyczne.",
+      "toniczne napięcie mięśniowe.",
+      "zniesienie siły mięśniowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 10,
+    "text": "W celu rozluźnienia bolesnych napięć mięśni równoległobocznych masażysta powinien wykonać masaż",
+    "answers": [
+      "części dystalnej podeszwowej strony obu stóp.",
+      "dłoniowej strony śródręcza każdej z rąk.",
+      "okolicy między górnymi częściami łopatek.",
+      "okolicy między grzebieniami talerzy biodrowych a dolnymi żebrami."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 11,
+    "text": "Wadę kończyny dolnej polegającą na ustawieniu stopy w pozycji zgięcia podeszwowego, odwrócenia i przywiedzenia, określa się jako stopę",
+    "answers": [
+      "końsko-szpotawą.",
+      "płasko-koślawą.",
+      "wydrążoną.",
+      "piętową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 12,
+    "text": "Przeciwwskazaniem do wykonania masażu klasycznego mięśni przykręgosłupowych jest",
+    "answers": [
+      "dyskopatia w odcinku piersiowym kręgosłupa bez objawów korzeniowych.",
+      "skolioza funkcjonalna bez dolegliwości bólowych.",
+      "zespół bólowy odcinka lędźwiowego kręgosłupa w okresie przewlekłym.",
+      "zesztywniające zapalenie stawów w okresie silnego zaostrzenia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 13,
+    "text": "W profilaktyce przeciwodleżynowej wskazane jest wykonanie przede wszystkim masażu",
+    "answers": [
+      "segmentarnego.",
+      "okostnowego.",
+      "klasycznego.",
+      "limfatycznego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 14,
+    "text": "Pacjent do masażu grzbietu jest ułożony w pozycji leżenia przodem. Aby maksymalnie rozluźnić mięśnie górnej części grzbietu, do wykonania zabiegu masażysta powinien",
+    "answers": [
+      "podłożyć wałek pod brzuch pacjenta.",
+      "umieścić ręcznik pod kolcami biodrowymi przednimi górnymi.",
+      "podłożyć płaską poduszkę pod czoło pacjenta.",
+      "umieścić kliny pod obręczami barkowymi pacjenta."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 15,
+    "text": "W masażu lipolitycznym, zalecanym do likwidacji cellulitu, wykorzystuje się techniki masażu",
+    "answers": [
+      "segmentarnego i izometrycznego.",
+      "izometrycznego i punktowego.",
+      "klasycznego i limfatycznego.",
+      "segmentarnego i klasycznego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 16,
+    "text": "U kobiety w 5. miesiącu ciąży fizjologicznej niepowikłanej, której lekarz zalecił zabiegi masażu celem profilaktyki wystąpienia dolegliwości bólowych odcinka lędźwiowego kręgosłupa, masażysta powinien wykonać masaż",
+    "answers": [
+      "izometryczny pośladków.",
+      "segmentarny miednicy.",
+      "limfatyczny całościowy.",
+      "relaksacyjny grzbietu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 17,
+    "text": "W masażu startowym kończyn dolnych u sprintera, biorącego udział w zawodach na otwartym stadionie w chłodny dzień, należy zastosować środki wspomagające masaż o charakterze",
+    "answers": [
+      "przeciwbólowym.",
+      "rozgrzewającym.",
+      "natłuszczającym.",
+      "chłodzącym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 18,
+    "text": "Dla której pary mięśni, uwzględniając zasadę warstwowości, wskazano prawidłową kolejność ich opracowywania podczas masażu klasycznego?",
+    "answers": [
+      "Mięsień pośladkowy wielki, a następnie mięsień gruszkowaty.",
+      "Mięsień płaszczkowaty, a następnie mięsień brzuchaty łydki.",
+      "Mięsień ramienny, a następnie mięsień dwugłowy ramienia.",
+      "Mięsień nadgrzebieniowy, a następnie mięsień czworoboczny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 19,
+    "text": "Na którym elemencie kostnym należy dokonać oceny wrażliwości uciskowej, przeprowadzając ocenę układu mięśnia najszerszego grzbietu, w masażu tensegracyjnym?",
+    "answers": [
+      "Kolcu biodrowym przednim górnym.",
+      "Kości grochowatej.",
+      "Kości klinowatej przyśrodkowej.",
+      "Nadkłykciu bocznym kości ramiennej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 20,
+    "text": "Masaż treningowy to masaż, który",
+    "answers": [
+      "stanowi dla sportowca dodatkowe obciążenie, uwzględnione w tygodniowym planie treningu.",
+      "jest wykonywany następnego dnia po zakończeniu treningu i stosowany do dnia startu.",
+      "poprzedza rozgrzewkę i jest stosowany bezpośrednio przed startem.",
+      "jest przeprowadzany w przerwie między treningami i bezpośrednio po zawodach."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 21,
+    "text": "W trakcie wykonywania masażu limfatycznego dochodzi do",
+    "answers": [
+      "zaburzenia dystrybucji substancji odżywczych.",
+      "zmniejszenia ukrwienia tkanek.",
+      "poprawy przepływów naczyniowych płynów ustrojowych.",
+      "podwyższenia napięcia mięśniowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 22,
+    "text": "Ruch wyprostu w stawie łokciowym jest efektem głównie pracy mięśnia",
+    "answers": [
+      "dwugłowego ramienia.",
+      "ramienno-promieniowego.",
+      "ramiennego.",
+      "trójgłowego ramienia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 23,
+    "text": "Pozycja siedząca nie może być zastosowana podczas masażu u pacjentów z rozpoznaniem",
+    "answers": [
+      "kręczu szyi.",
+      "przykurczu Volkmana.",
+      "porażenia nerwu twarzowego.",
+      "przewlekłego stanu rwy kulszowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 24,
+    "text": "Pasmo biodrowo-piszczelowe jest strukturą łącznotkankową odchodzącą od między innymi mięśni",
+    "answers": [
+      "pośladkowego wielkiego i naprężacza powięzi szerokiej.",
+      "pośladkowego małego i naprężacza powięzi szerokiej.",
+      "pośladkowego wielkiego i pośladkowego małego.",
+      "pośladkowego małego i pośladkowego średniego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 25,
+    "text": "Która z wymienionych struktur układu nerwowego doprowadza bodźce do ciała komórki?",
+    "answers": [
+      "Akson.",
+      "Neuryt.",
+      "Neuron.",
+      "Dendryt."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 26,
+    "text": "Masaż izometryczny głowy przyśrodkowej mięśnia czworogłowego uda należy wykonać w pozycji leżenia",
+    "answers": [
+      "tyłem z klinem pod stawami kolanowymi.",
+      "tyłem z klinem pod stawami skokowymi.",
+      "na boku z klinem pomiędzy kończynami dolnymi.",
+      "przodem z klinem pod stawami skokowymi."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 27,
+    "text": "Struktura anatomiczna nazywana „gęsią stopą” znajduje się na",
+    "answers": [
+      "bocznej powierzchni końca dalszego kości strzałkowej.",
+      "bocznej powierzchni końca bliższego kości strzałkowej.",
+      "przyśrodkowej powierzchni końca bliższego kości piszczelowej.",
+      "przyśrodkowej powierzchni końca dalszego kości piszczelowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 28,
+    "text": "Wskazaniem do oklepywania klatki piersiowej przede wszystkim jest",
+    "answers": [
+      "rozstrzenie oskrzeli z krwawieniem do dróg oddechowych.",
+      "osteoporoza w obrębie żeber.",
+      "odma opłucnej.",
+      "przewlekłe zapalenie oskrzeli."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 29,
+    "text": "W obrębie nadkłykcia bocznego kości ramiennej przyczepione są między innymi mięśnie",
+    "answers": [
+      "zginacz promieniowy nadgarstka, dłoniowy długi.",
+      "ramienno-promieniowy, zginacz łokciowy nadgarstka.",
+      "nawrotny obły, zginacz powierzchowny palców.",
+      "odwracacz, prostownik promieniowy nadgarstka długi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 30,
+    "text": "Wskazaniem do wykonania masażu izometrycznego u pacjenta jest",
+    "answers": [
+      "zmęczenie powysiłkowe mięśnia.",
+      "osłabienie siły mięśnia po udarze mózgu.",
+      "siła mięśnia 0 w skali Lovetta.",
+      "osłabienie siły mięśnia po unieruchomieniu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 31,
+    "text": "W przypadku zabiegu drenażu limfatycznego, u pacjenta z pourazowym obrzękiem stawu skokowego, przede wszystkim należy rozpocząć masaż od okolicy",
+    "answers": [
+      "stopy.",
+      "pachwiny.",
+      "uda.",
+      "podudzia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 32,
+    "text": "Na wyrostku kruczym łopatki lokalizuje się palpacyjnie przyczepy między innymi mięśni",
+    "answers": [
+      "kruczo-ramiennego i dwugłowego ramienia.",
+      "ramiennego i łokciowego.",
+      "naramiennego i trójgłowego ramienia.",
+      "podgrzebieniowego i nadgrzebieniowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 33,
+    "text": "Aby wykonać masaż klasyczny stawów skokowych, masażysta powinien ułożyć pacjenta",
+    "answers": [
+      "w leżeniu tyłem, z wałkiem pod stawami kolanowymi.",
+      "w siadzie prostym na stole do masażu.",
+      "w siadzie na stole do masażu z opuszczonymi podudziami.",
+      "w leżeniu tyłem, z wałkiem pod stawami skokowymi."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 34,
+    "text": "W przypadku pleców okrągłych podczas zabiegu masażu należy łagodzić pobudzenie i znormalizować napięcie przede wszystkim mięśnia",
+    "answers": [
+      "piersiowego większego.",
+      "czworobocznego.",
+      "najszerszego grzbietu.",
+      "równoległobocznego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 35,
+    "text": "Na zabieg masażu tensegracyjnego zgłosił się pacjent z dolegliwościami bólowymi w obrębie bocznej powierzchni kości piętowej w miejscu przyczepu troczka górnego mięśni strzałkowych. Taki objaw występuje w układzie mięśnia",
+    "answers": [
+      "zębatego przedniego.",
+      "najszerszego grzbietu.",
+      "piersiowego większego.",
+      "czworobocznego grzbietu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 36,
+    "text": "Przyczep początkowy głowy przyśrodkowej mięśnia mostkowo-obojczykowo-sutkowego wyszukuje się palpacyjnie na wysokości",
+    "answers": [
+      "wyrostka sutkowego kości skroniowej.",
+      "rękojeści mostka.",
+      "wyrostka rylcowatego kości skroniowej.",
+      "końca mostkowego obojczyka."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 37,
+    "text": "Technika roztrząsania stosowana w masażu jest odmianą",
+    "answers": [
+      "rolowania.",
+      "wibracji.",
+      "rozcierania.",
+      "ugniatania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 38,
+    "text": "Strefy Heada to miejsca",
+    "answers": [
+      "obniżonej wrażliwości dotykowej segmentów skóry w przebiegu chorób wewnętrznych.",
+      "wzmożonej wrażliwości dotykowej segmentów skóry w przebiegu chorób wewnętrznych.",
+      "wzmożonej wrażliwości dotykowej segmentów skóry w przebiegu chorób układu nerwowego.",
+      "obniżonej wrażliwości dotykowej segmentów skóry w przebiegu chorób układu nerwowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 39,
+    "text": "Przyczep więzadła właściwego rzepki można zlokalizować palpacyjnie na",
+    "answers": [
+      "wyniosłości międzykłykciowej kości piszczelowej.",
+      "guzowatości kości piszczelowej.",
+      "powierzchni rzepkowej kości udowej.",
+      "głowie strzałki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 40,
+    "text": "Przed pierwszym masażem aromaterapeutycznym całego ciała należy",
+    "answers": [
+      "przygotować około 10 ml olejku eterycznego do masażu ciała.",
+      "wykonać próbę uczuleniową na dobrany olejek bezpośrednio przed zabiegiem.",
+      "przygotować co najmniej trzy rodzaje olejków eterycznych.",
+      "wykonać próbę uczuleniową na dobrany olejek minimum 12 godzin wcześniej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 41,
+    "text": "Masując grzbiet nie opracowuje się mięśnia",
+    "answers": [
+      "dźwigacza łopatki.",
+      "biodrowo-lędźwiowego.",
+      "prostownika grzbietu.",
+      "najszerszego grzbietu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 42,
+    "text": "Chwyty określane jako: stojące koło, pompowanie i czerpanie, to podstawowe techniki pracy w masażu",
+    "answers": [
+      "stawowym.",
+      "klasycznym.",
+      "limfatycznym.",
+      "łącznotkankowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 43,
+    "text": "Przeciwwskazaniem do masażu segmentarnego w chorobach żołądka jest",
+    "answers": [
+      "zaburzenie napięcia ścian żołądka.",
+      "zaburzenie czynności wydzielniczej żołądka.",
+      "przewlekły nieżyt żołądka.",
+      "ropień żołądka."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 44,
+    "text": "Zastosowanie techniki ugniatania podczas masażu mięśni zmęczonych po wysiłku ma na celu",
+    "answers": [
+      "usunięcie kwaśnych metabolitów.",
+      "zmniejszenie utlenowania krwi.",
+      "zmniejszenie przekrwienia tkanek.",
+      "usunięcie produktów odżywczych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 45,
+    "text": "Środek poślizgowy nieposiadający działania wspomagającego masaż sportowy to",
+    "answers": [
+      "żel Fastum.",
+      "olejek eteryczny.",
+      "maść Ben-Gay.",
+      "oliwka do masażu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 46,
+    "text": "Strukturami anatomicznymi narażonymi na silne przeciążenia u sportowca uprawiającego wioślarstwo są",
+    "answers": [
+      "pochewki ścięgniste prostowników nadgarstka.",
+      "mięśnie trójgłowe ramienia.",
+      "nasady bliższe kości ramiennych.",
+      "stawy skokowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 47,
+    "text": "Przeciwskazaniami do stosowania drenażu limfatycznego są utrwalone obrzęki powstałe",
+    "answers": [
+      "po amputacji gruczołu piersiowego.",
+      "po kontuzjach i urazach stawów.",
+      "po kontuzjach i urazach mięśni.",
+      "w przebiegu ostrych stanów zapalnych nerek."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 48,
+    "text": "Przed wykonaniem masażu aromaterapeutycznego u pacjenta bezwzględnie należy",
+    "answers": [
+      "wprowadzić olejki eteryczne do organizmu.",
+      "ogrzać organizm i doprowadzić do rozszerzenia naczyń krwionośnych.",
+      "wykluczyć ewentualne przeciwwskazania do tego rodzaju masażu.",
+      "określić jednostkę chorobową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 49,
+    "text": "Które objawy wskazują na przetrenowanie organizmu sportowca?",
+    "answers": [
+      "Pogorszenie samopoczucia, rozdrażnienie, bezsenność, zmęczenie, apatia.",
+      "Dobre samopoczucie, nadmierna aktywność fizyczna, brak apetytu, bezsenność.",
+      "Duża tolerancja na wysiłek, wzmożone łaknienie, wyrównany nastrój.",
+      "Przyrost wagi ciała, wzmożona aktywność psychoruchowa, bóle."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 50,
+    "text": "Który mięsień między innymi ma swój przyczep na tylnej części kości piszczelowej i strzałkowej?",
+    "answers": [
+      "Brzuchaty łydki.",
+      "Płaszczkowaty.",
+      "Półścięgnisty.",
+      "Prostownik długi palców."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 51,
+    "text": "W masażu zawodników z urazami sportowymi należy zastosować",
+    "answers": [
+      "leki sterydowe i preparaty odżywcze.",
+      "preparaty przeciwzapalne i przeciwbólowe.",
+      "talk i mydliny z szarego mydła.",
+      "olejki eteryczne i leki homeopatyczne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 52,
+    "text": "Pomiar obwodu wykorzystuje się podczas oceny",
+    "answers": [
+      "skrócenia kończyny dolnej.",
+      "ruchomości stawu.",
+      "ruchomości klatki piersiowej.",
+      "siły mięśni."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 53,
+    "text": "W celu rozluźnienia tkanek przed zabiegiem masażu należy wykonać",
+    "answers": [
+      "naświetlania ultrafioletem.",
+      "krioterapię miejscową.",
+      "redresję stawów.",
+      "naświetlania lampą Sollux."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 54,
+    "text": "Reakcją organizmu na prawidłowo wykonany masaż klasyczny jest",
+    "answers": [
+      "poprawienie odżywienia mięśni.",
+      "poprawienie agregacji komórek tłuszczowych.",
+      "spowolnienie procesu regeneracji kości po złamaniu.",
+      "spowolnienie procesu rogowacenia naskórka."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 55,
+    "text": "Masując mięsień czworogłowy uda należy między innymi opracować jego przyczep na",
+    "answers": [
+      "kłykciu bocznym kości piszczelowej.",
+      "powierzchni wewnętrznej rzepki.",
+      "guzowatości kości piszczelowej.",
+      "krętarzu mniejszym kości udowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 56,
+    "text": "Który rodzaj masażu jest najbardziej efektywny u pacjenta z osłabioną siłą mięśniową?",
+    "answers": [
+      "Stawowy.",
+      "Izometryczny.",
+      "Segmentarny.",
+      "Okostnowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 57,
+    "text": "Podczas drenażu limfatycznego transport płynu tkankowego do naczyń chłonnych włosowatych odbywa się dzięki",
+    "answers": [
+      "pracy mięśni gładkich ścian naczyń chłonnych.",
+      "działaniu siły grawitacji.",
+      "ruchom oddechowym klatki piersiowej i przepony.",
+      "różnicy ciśnień między przestrzenią pozanaczyniową a światłem naczyń."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 58,
+    "text": "W masażu tensegracyjnym, przeprowadzając ocenę wrażliwości uciskowej na kości grochowatej, masażysta będzie wykonywał ucisk",
+    "answers": [
+      "na podeszwie stopy, po stronie przyśrodkowej nad głową pierwszej kości śródstopia.",
+      "na kończynie górnej, w okolicy nadgarstka pod kłębikiem palca małego.",
+      "na kończynie górnej, w okolicy nadgarstka pod kłębem kciuka.",
+      "na stronie bocznej stopy, w połowie odległości między kostką boczną goleni a kością piętową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 59,
+    "text": "Którą technikę masażu należy zastosować w celu usprawnienia funkcjonowania pochewek ścięgnistych?",
+    "answers": [
+      "Ugniatanie ze skręceniem.",
+      "Głaskanie okrężne.",
+      "Rozcieranie poprzeczne.",
+      "Wibrację poprzeczną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 60,
+    "text": "Podczas badania opuszkami palców okolicy bolesnej może wystąpić reakcja miejscowa w postaci",
+    "answers": [
+      "wzrostu temperatury.",
+      "obniżonego napięcia.",
+      "wzmożonego napięcia.",
+      "obniżenia temperatury."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 61,
+    "text": "Przyczep końcowy mięśnia piersiowego większego znajduje się",
+    "answers": [
+      "na guzku większym kości ramiennej.",
+      "na grzebieniu guzka mniejszego kości ramiennej.",
+      "na guzku mniejszym kości ramiennej.",
+      "na grzebieniu guzka większego kości ramiennej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 62,
+    "text": "W leczeniu przewlekłego zapalenia oskrzeli zalecany jest masaż",
+    "answers": [
+      "klasyczny pobudzający mięśnie klatki piersiowej.",
+      "limfatyczny grzbietu i klatki piersiowej.",
+      "limfatyczny brzucha i klatki piersiowej.",
+      "klasyczny rozluźniający mięśnie klatki piersiowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 63,
+    "text": "Masaż izometryczny głowy przyśrodkowej mięśnia czworogłowego uda należy wykonać u pacjenta w pozycji leżącej",
+    "answers": [
+      "przodem z klinem pod stawami skokowymi.",
+      "tyłem z klinem pod stawami kolanowymi.",
+      "tyłem z klinem pod stawami skokowymi.",
+      "na boku z klinem pomiędzy kończynami dolnymi."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 64,
+    "text": "Przeciwwskazaniem do stosowania masażu izometrycznego jest",
+    "answers": [
+      "obniżenie masy mięśniowej.",
+      "zanik mięśniowy na tle długotrwałego unieruchomienia.",
+      "osłabienie siły mięśniowej.",
+      "zanik mięśniowy na tle neurologicznym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 65,
+    "text": "Jednym z często występujących urazów u sportowców ćwiczących na kółkach lub na drążku w gimnastyce sportowej, przy niewłaściwym doborze szerokości uchwytu, jest",
+    "answers": [
+      "nadkłykciowe złamanie kości ramiennej.",
+      "zwichnięcie stawu barkowego.",
+      "skręcenie stawu skokowego górnego.",
+      "złamanie kości promieniowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 66,
+    "text": "Jeśli przyczepy będącego w czynnym napięciu mięśnia oddalają się od siebie, to praca tego mięśnia ma charakter",
+    "answers": [
+      "statyczny.",
+      "koncentryczny.",
+      "izometryczny.",
+      "ekscentryczny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 67,
+    "text": "Zespół objawów w postaci nagłego bólu okolicy lędźwiowej, promieniującego do pośladka, tylnej powierzchni uda i podudzia oraz stopy nazywa się",
+    "answers": [
+      "rwą udową.",
+      "zablokowaniem stawów krzyżowo-biodrowych.",
+      "zablokowaniem stawów międzywyrostkowych.",
+      "rwą kulszową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 68,
+    "text": "Do oceny ograniczenia elastyczności w obrębie tkanki łącznej podskórnej i powięzi należy użyć",
+    "answers": [
+      "chwytu na mięsień najdłuższy grzbietu i głaskania powierzchownego.",
+      "kresy diagnostycznej Dicke i rolowania.",
+      "techniki igłowej i dotykania grzbietową stroną ręki.",
+      "rozcierania pionowo ustawionymi palcami i wibracji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 69,
+    "text": "Masaż tylnej części uda powinien obejmować mięsień",
+    "answers": [
+      "krawiecki.",
+      "półścięgnisty.",
+      "przywodziciel długi.",
+      "zasłaniacz zewnętrzny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 70,
+    "text": "Wykonując zabieg masażu klasycznego mięśni powierzchownych klatki piersiowej w celu relaksacyjnym, masażysta podczas głaskania głębokiego powinien kierować ruchy",
+    "answers": [
+      "wzdłuż linii środkowej ciała.",
+      "poprzecznie od linii środkowej ciała w bok.",
+      "skośnie od linii środkowej do łuku żebrowego.",
+      "skośnie od linii środkowej w stronę stawu ramiennego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 71,
+    "text": "Unerwienie czuciowe skóry twarzy zapewniają włókna nerwu",
+    "answers": [
+      "dodatkowego.",
+      "twarzowego.",
+      "trójdzielnego.",
+      "błędnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 72,
+    "text": "Do gabinetu masażu zgłosiła się pacjentka na zabieg drenażu limfatycznego twarzy, szyi i dekoltu. Który z kierunków wykonania tego zabiegu nie jest właściwy?",
+    "answers": [
+      "Od kątów żuchwy do dołów nadobojczykowych.",
+      "Od brody do kątów żuchwy.",
+      "Od skrzydełek nosa do skroni.",
+      "Od linii włosów do nasady nosa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 73,
+    "text": "Które objawy występują u pacjenta po lewostronnym udarze mózgu?",
+    "answers": [
+      "Sztywność lub niedowład kończyn zawsze po lewej stronie ciała.",
+      "Sztywność lub spastyczność obu kończyn dolnych.",
+      "Miopatia lub wiotkość jednej z kończyn dolnych.",
+      "Porażenie lub niedowład kończyn po prawej stronie ciała."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 74,
+    "text": "W przebiegu której choroby klatka piersiowa jest ustawiona wdechowo, zwiększona w wymiarze przednio-tylnym, mostek, obojczyki i łopatki są ustawione wysoko?",
+    "answers": [
+      "Rozedmy.",
+      "Zespołu Marfana.",
+      "Krzywicy.",
+      "Gruźlicy płuc."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 75,
+    "text": "W której płaszczyźnie zachodzą ruchy w stawach śródręczno-paliczkowych palców II-V?",
+    "answers": [
+      "W czołowej i poprzecznej.",
+      "W strzałkowej i czołowej.",
+      "Wyłącznie w poprzecznej.",
+      "Wyłącznie w strzałkowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 76,
+    "text": "W przypadku sportowca z entezopatią mięśnia podkolanowego należy zastosować",
+    "answers": [
+      "drenaż limfatyczny z bandażowaniem całej kończyny.",
+      "masaż stawowy z wcieraniem maści przeciwzapalnych.",
+      "masaż okostnowy na nadkłykciu przyśrodkowym kości udowej.",
+      "masaż izometryczny mięśnia podkolanowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 77,
+    "text": "Podczas oceny palpacyjnej mięśnia dwugłowego uda należy chwycić wał skórno-mięśniowy w okolicy uda po stronie",
+    "answers": [
+      "tylno-bocznej.",
+      "przednio-bocznej.",
+      "przednio-przyśrodkowej.",
+      "tylno-przyśrodkowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 78,
+    "text": "Który rodzaj masażu jest przeciwwskazany w przypadku pacjenta z chorobą Parkinsona?",
+    "answers": [
+      "Tensegracyjny.",
+      "Stawowy.",
+      "Klasyczny.",
+      "Izometryczny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 79,
+    "text": "Do gabinetu masażu zgłasza się 30-letnia kobieta na masaż relaksacyjny, która chce wykorzystać godzinną przerwę w pracy. Który rodzaj masażu należy zaproponować pacjentce?",
+    "answers": [
+      "Stawowy.",
+      "Klasyczny.",
+      "Izometryczny.",
+      "Segmentarny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 80,
+    "text": "Ruchy bierne na zakończenie masażu należy wykonać u pacjenta",
+    "answers": [
+      "z wiotkością po uszkodzeniu nerwu obwodowego.",
+      "z przykurczem stawu ramiennego po zwichnięciu.",
+      "ze sztywnością mięśni w chorobie Parkinsona.",
+      "z bólami kostno-stawowymi w fibromialgii."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 81,
+    "text": "Po stronie tylnej, bocznej i przedniej stawu ramienno-promieniowego jest położony mięsień",
+    "answers": [
+      "trójgłowy ramienia.",
+      "odwracacz.",
+      "ramienny.",
+      "nawrotny czworoboczny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 82,
+    "text": "Który objaw chorobowy jest wskazaniem do stosowania rozcierań podczas masażu klasycznego?",
+    "answers": [
+      "Żylak.",
+      "Geloza.",
+      "Przetoka.",
+      "Obrzęk."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 83,
+    "text": "Lokalizując palpacyjnie wyrostek rylcowaty kości promieniowej, należy przyłożyć opuszki palców w części",
+    "answers": [
+      "proksymalnej, bocznej przedramienia.",
+      "proksymalnej, przyśrodkowej przedramienia.",
+      "dystalnej, tylno-przyśrodkowej przedramienia.",
+      "dystalnej, bocznej przedramienia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 84,
+    "text": "Które mięśnie odpowiadają za ruch zgięcia w stawie biodrowym?",
+    "answers": [
+      "Biodrowo-lędźwiowy i prosty uda.",
+      "Pośladkowy wielki i obszerny boczny.",
+      "Dwugłowy uda i obszerny pośrodkowy.",
+      "Biodrowo-lędźwiowy i pośladkowy średni."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 85,
+    "text": "Jednym z przyczepów mięśnia mostkowo-obojczykowo-sutkowego jest",
+    "answers": [
+      "wyrostek mieczykowaty mostka.",
+      "koniec mostkowy obojczyka.",
+      "trzon mostka.",
+      "koniec barkowy obojczyka."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 86,
+    "text": "Troczek górny mięśni strzałkowych znajduje się pomiędzy",
+    "answers": [
+      "kostką boczną i powierzchnią boczną kości piętowej.",
+      "tylną powierzchnią kości piszczelowej i strzałkowej.",
+      "przednią powierzchnią kości piszczelowej i strzałkowej.",
+      "kostką przyśrodkową i powierzchnią przyśrodkową kości piętowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 87,
+    "text": "W części bliższej kości udowej od strony bocznej uda palpacyjnie można zlokalizować",
+    "answers": [
+      "krętarz większy.",
+      "nadkłykieć boczny.",
+      "głowę kości.",
+      "krętarz mniejszy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 88,
+    "text": "Celem wykonania drenażu limfatycznego u pacjentki po mastektomii jest",
+    "answers": [
+      "usprawnienie funkcjonowania układu chłonnego.",
+      "uelastycznienie tkanek okołostawowych.",
+      "rozgrzanie tkanek w obrębie kończyny górnej.",
+      "poprawa ukrwienia tkanek w obrębie rany pooperacyjnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 89,
+    "text": "Ocena skutków próby uczuleniowej wykonanej przed pierwszym masażem aromaterapeutycznym jest możliwa po upływie",
+    "answers": [
+      "30 minut.",
+      "10 minut.",
+      "jednego dnia.",
+      "pięciu dni."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 90,
+    "text": "Podczas wykonywania masażu klasycznego o charakterze rozluźniającym właściwe jest",
+    "answers": [
+      "ugniatanie na brzuścu mięśnia, wzdłuż jego włókien.",
+      "ugniatanie na brzuścu mięśnia, poprzecznie do jego włókien.",
+      "uciskanie pulsacyjne na przyczepach i ścięgnach mięśnia.",
+      "uciskanie pulsacyjne wzdłuż całego mięśnia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 91,
+    "text": "Przeciwwskazaniem do stosowania masażu podwodnego jest",
+    "answers": [
+      "mózgowe porażenie dziecięce.",
+      "stan świeżo po zawale mięśnia sercowego.",
+      "mialgia wynikająca z przeciążenia.",
+      "choroba Bechterewa w okresie przewlekłym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 92,
+    "text": "W przypadku zabiegu drenażu limfatycznego u pacjenta z pourazowym obrzękiem stawu skokowego należy po opracowaniu centralnym przystąpić do masażu okolicy",
+    "answers": [
+      "podudzia.",
+      "pachwiny.",
+      "uda.",
+      "stopy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 93,
+    "text": "Przyłożenie oporu w tylnej, dystalnej części podudzia stosuje się w drugiej fazie masażu izometrycznego mięśnia",
+    "answers": [
+      "pośladkowego wielkiego.",
+      "czworogłowego uda.",
+      "piszczelowego tylnego.",
+      "dwugłowego uda."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 94,
+    "text": "Wskaż wpływ masażu klasycznego na funkcjonowanie układu pokarmowego.",
+    "answers": [
+      "Poprawia wchłanianie substancji odżywczych do żołądka.",
+      "Przepycha masy kałowe przy niedrożności przewodu pokarmowego.",
+      "Zmniejsza uczucie głodu.",
+      "Normalizuje napięcie mięśni gładkich przewodu pokarmowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 95,
+    "text": "W przypadku pacjenta z ręką szponiastą, wynikającą z uszkodzenia nerwu łokciowego na poziomie stawu łokciowego, bez występującego obrzęku, w początkowym okresie kompensacji należy wykonać masaż klasyczny w obszarze",
+    "answers": [
+      "kończyny górnej, z pominięciem stawu łokciowego.",
+      "przedramienia stawu łokciowego i ramienia.",
+      "całej kończyny górnej.",
+      "dłoni i nadgarstka."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 96,
+    "text": "Który zabieg jest wskazany u pacjenta, u którego 3 tygodnie wcześniej wykonano amputację kończyny dolnej na poziomie uda?",
+    "answers": [
+      "Masaż wirowy kikuta.",
+      "Masaż segmentarny.",
+      "Masaż limfatyczny.",
+      "Masaż klasyczny kikuta."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 97,
+    "text": "Masaż klasyczny klatki piersiowej wykonany u pacjenta z przewlekłą obturacyjną chorobą płuc powoduje",
+    "answers": [
+      "wzrost transportu tlenu z krwi do pęcherzyków płucnych.",
+      "spłycenie i przyspieszenie oddechu.",
+      "zmniejszenie wydalania śluzu.",
+      "zwiększenie ilości wdychanego powietrza."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 98,
+    "text": "Taśmy centymetrowej nie stosuje się podczas oceny",
+    "answers": [
+      "ruchomości klatki piersiowej przed masażem segmentarnym.",
+      "wielkości obrzęku przed drenażem limfatycznym.",
+      "zakresu ruchu w stawie przed masażem klasycznym.",
+      "masy mięśniowej przed masażem izometrycznym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 99,
+    "text": "Które postępowanie jest zgodne z zasadami łączenia zabiegów fizykalnych?",
+    "answers": [
+      "Promieniowanie ultrafioletowe stosuje się przed masażem.",
+      "Po masażu stosuje się promieniowanie ultrafioletowe.",
+      "Promieniowanie podczerwone stosuje się przed masażem.",
+      "Po masażu stosuje się promieniowanie podczerwone."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 100,
+    "text": "Który masaż należy wykonać w okresie przejściowym u zawodnika uprawiającego gimnastykę sportową?",
+    "answers": [
+      "Segmentarny grzbietu.",
+      "Klasyczny całego ciała.",
+      "Wirowy kończyn górnych.",
+      "Izometryczny mięśni kończyn dolnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 101,
+    "text": "Płaskostopie podłużne charakteryzuje się",
+    "answers": [
+      "szpotawością kości piętowej i odwiedzeniem przodostopia.",
+      "szpotawością kości piętowej i przywiedzeniem przodostopia.",
+      "koślawością kości piętowej i odwiedzeniem przodostopia.",
+      "koślawością kości piętowej i przywiedzeniem przodostopia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 102,
+    "text": "Przed przystąpieniem do oceny tkanek i terapii segmentarnej masażysta powinien poznać wszystkie",
+    "answers": [
+      "reakcje uczuleniowe, które mogą wystąpić u pacjenta po zastosowaniu środków poślizgowych.",
+      "zmiany odruchowe występujące u pacjenta.",
+      "punkty maksymalne występujące u pacjenta.",
+      "przesunięcia odruchowe, które mogą wystąpić u pacjenta."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 103,
+    "text": "Wskazaniem do masażu izometrycznego jest",
+    "answers": [
+      "przykurcz po porażeniu nerwu łokciowego.",
+      "osłabienie mięśni po urazie stawu.",
+      "wiotkość mięśni po udarze mózgu.",
+      "obrzęk po naderwaniu mięśnia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 104,
+    "text": "Masaż tensegracyjny układu mięśnia najszerszego grzbietu należy zawsze rozpocząć od",
+    "answers": [
+      "miejsca lokalizacji bólu w obrębie układu powierzchownego tylnego.",
+      "miejsca najbardziej oddalonego od lokalizacji bólu w obrębie tego układu.",
+      "kości piętowej, wzdłuż przegrody mięśniowej do głowy strzałki.",
+      "kości grochowatej wzdłuż przedramienia do nadkłykcia przyśrodkowego kości ramiennej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 105,
+    "text": "U pacjenta ze zdiagnozowanym samoistnym porażeniem nerwu twarzowego należy zabieg masażu klasycznego połączyć",
+    "answers": [
+      "z ćwiczeniami rozluźniającymi.",
+      "z naświetlaniem lampą na podczerwień.",
+      "z ćwiczeniami rozciągającymi.",
+      "z naświetlaniem lampą kwarcową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 106,
+    "text": "W przypadku pacjenta z rwą kulszową w podostrym okresie choroby należy zastosować masaż klasyczny o charakterze",
+    "answers": [
+      "pobudzającym w obrębie lędźwi i tylnej części kończyny dolnej.",
+      "odżywczym w obrębie lędźwi i przedniej części kończyny dolnej.",
+      "rozluźniającym w obrębie lędźwi i przedniej części kończyny dolnej.",
+      "rozluźniającym w obrębie lędźwi i tylnej części kończyny dolnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 107,
+    "text": "W II fazie masażu izometrycznego mięśnia dwugłowego uda należy ułożyć pacjenta w pozycji leżenia",
+    "answers": [
+      "tyłem, z wałkiem pod stawami kolanowymi.",
+      "na boku, ze zgiętymi stawami kolanowymi.",
+      "na boku, z wyprostowanymi stawami kolanowymi.",
+      "przodem, z kończyną dolną zgiętą w stawie kolanowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 108,
+    "text": "Która pozycja pacjenta i sposób stabilizacji pozycji są prawidłowe podczas masażu mięśnia mostkowo-obojczykowo-sutkowego?",
+    "answers": [
+      "Siedząca, kark pacjenta stabilizowany przez masażystę.",
+      "Leżenie przodem, głowa pacjenta stabilizowana przez masażystę.",
+      "Siedząca, głowa pacjenta stabilizowana przez masażystę.",
+      "Leżenie przodem, szyja pacjenta stabilizowana przez masażystę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 109,
+    "text": "Której techniki nie stosuje się podczas wykonywania kosmetycznego masażu twarzy?",
+    "answers": [
+      "Głaskania policzków.",
+      "Oklepywania muskającego policzków.",
+      "Rolowania dolnych powiek.",
+      "Rozcierania w okolicy skroni."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 110,
+    "text": "Podczas wykonywania drenażu limfatycznego kończyny dolnej w obrzęku żylno-limfatycznym masażysta powinien stosować zasadę",
+    "answers": [
+      "opracowania regionalnych węzłów chłonnych na początku i na końcu zabiegu.",
+      "opracowania zbiorczych pni chłonnych głębokich na początku zabiegu.",
+      "stopniowego rozgrzewania tkanek w trakcie całego zabiegu masażu.",
+      "intensywnego rozgrzania tkanek na początku i na końcu zabiegu masażu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 111,
+    "text": "W celu restytucji powysiłkowej maratończyka w godzinę po zakończeniu biegu należy zastosować",
+    "answers": [
+      "manualny drenaż limfatyczny kończyn dolnych odprowadzający metabolity przemiany materii.",
+      "masaż tensegracyjny słabszej strony ciała zmniejszający napięcie skróconych struktur.",
+      "masaż izometryczny mięśni kończyn dolnych wzmacniający siłę tych mięśni.",
+      "masaż centryfugalny stawów kończyn dolnych obniżający warunki ślizgowe powierzchni stawowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 112,
+    "text": "W ruchu odwodzenia ramienia do kąta 90º nie uczestniczy",
+    "answers": [
+      "mięsień nadgrzebieniowy.",
+      "część środkowa mięśnia naramiennego.",
+      "mięsień podłopatkowy.",
+      "głowa długa mięśnia dwugłowego ramienia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 113,
+    "text": "W przypadku zespołu bolesnego barku przeciwwskazaniem do masażu klasycznego obręczy barkowej jest",
+    "answers": [
+      "dysfunkcja kaletki podbarkowej.",
+      "rana po zespoleniu przerwanych struktur stożka rotatorów.",
+      "zwłóknienie i przykurcz torebki stawowej.",
+      "częściowe naderwanie ścięgien stożka rotatorów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 114,
+    "text": "Za zgięcie stopy w kierunku podeszwowym jest odpowiedzialny między innymi mięsień",
+    "answers": [
+      "prosty uda.",
+      "półścięgnisty.",
+      "płaszczkowaty.",
+      "półbłoniasty."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 115,
+    "text": "U pacjenta po odmrożeniu I stopnia palców stóp w celu poprawy ukrwienia tkanek należy zastosować połączenie masażu klasycznego z masażem",
+    "answers": [
+      "limfatycznym kończyn dolnych.",
+      "wirowym kończyn dolnych.",
+      "izometrycznym kończyn dolnych.",
+      "natryskowym biczowym kończyn dolnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 116,
+    "text": "Nagły silny ból w dolnym odcinku podudzia, brak ruchu zgięcia podeszwowego stopy z towarzyszącym obrzękiem mogą świadczyć o",
+    "answers": [
+      "zerwaniu ścięgna Achillesa.",
+      "zapaleniu stawu skokowego górnego.",
+      "przeciążeniu mięśnia płaszczkowatego.",
+      "złamaniu stawu śródstępno-paliczkowego palucha stopy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 117,
+    "text": "Wskazaniem do oklepywania klatki piersiowej jest",
+    "answers": [
+      "przewlekłe zapalenie oskrzeli.",
+      "osteoporoza w obrębie żeber.",
+      "rozstrzenie oskrzeli z krwawieniem do dróg oddechowych.",
+      "odma opłucnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 118,
+    "text": "Sportowcy podnoszący ciężary, ze względu na duże napięcia mięśniowe, są narażeni na zerwania mięśnia",
+    "answers": [
+      "zębatego przedniego.",
+      "dwugłowego ramienia.",
+      "brzuchatego łydki.",
+      "czworogłowego uda."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 119,
+    "text": "Który z nerwów czaszkowych jest typowym nerwem mieszanym czuciowo-ruchowym?",
+    "answers": [
+      "Okoruchowy.",
+      "Wzrokowy.",
+      "Węchowy.",
+      "Twarzowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 120,
+    "text": "Rozcieranie podłużne podczas wykonywania masażu sportowego grzbietu należy wykonać",
+    "answers": [
+      "opuszkami palców.",
+      "całymi dłońmi.",
+      "podstawą dłoni obu rąk.",
+      "kłębikami obu rąk."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 121,
+    "text": "Chwyt nadkolcowy wykonywany jest podczas masażu",
+    "answers": [
+      "kontralateralnego kończyny dolnej.",
+      "drenażu limfatycznego kończyny górnej.",
+      "klasycznego powłok brzusznych.",
+      "segmentarnego w okolicy kręgosłupa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 122,
+    "text": "W celu poprawy odżywienia mięśni kończyn dolnych po masażu kondycyjnym u kolarza należy zastosować",
+    "answers": [
+      "maść przeciwbólową.",
+      "spray chłodzący.",
+      "żel witaminowy.",
+      "maść przeciwzapalną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 123,
+    "text": "W okresie ostrym rwy kulszowej najlepszą pozycją analgetyczną, zmniejszającą odczucia bólowe, pozwalającą na zmniejszenie napięcia powłok brzusznych oraz mięśni przykręgosłupowych, jest pozycja",
+    "answers": [
+      "leżenia przodem, wysoki klin umieszczony pod klatką piersiową.",
+      "leżenia na boku zdrowym, kończyny dolne wyprostowane, poduszka umieszczona pod odcinkiem lędźwiowym kręgosłupa.",
+      "leżenia tyłem, kończyny dolne zgięte pod kątem prostym w stawach kolanowych i biodrowych, umieszczone na wysokim klinie lub piłce.",
+      "leżenia na boku chorym, wysoki klin pod odcinkiem piersiowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 124,
+    "text": "Kolano skoczka to potoczne określenie entezopatii więzadła",
+    "answers": [
+      "pobocznego piszczelowego.",
+      "poprzecznego kolana.",
+      "właściwego rzepki.",
+      "krzyżowego przedniego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 125,
+    "text": "W profilaktyce przeciwodleżynowej wskazane jest wykonanie masażu",
+    "answers": [
+      "segmentarnego.",
+      "okostnowego.",
+      "klasycznego.",
+      "limfatycznego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 126,
+    "text": "Który czynnik nie ma wpływu na występowanie obrzęków kończyn dolnych?",
+    "answers": [
+      "Odzież, uciskająca okolice pachwin, kolan i brzucha.",
+      "Niedostateczne nawodnienie organizmu.",
+      "Umiarkowana aktywność fizyczna dostosowana do stanu klinicznego pacjenta.",
+      "Nadmierna podaż soli w diecie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 127,
+    "text": "Opracowanie dołu pachowego w masażu segmentarnym może skutkować wystąpieniem przesunięć odruchowych w postaci",
+    "answers": [
+      "problemów jelitowych.",
+      "zawrotów głowy.",
+      "dolegliwości sercowych.",
+      "uczucia nudności."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 128,
+    "text": "Skrócenie mięśnia mostkowo-obojczykowo-sutkowego z powodu jego zbliznowacenia to",
+    "answers": [
+      "złamanie trzonu kręgu szyjnego.",
+      "kręcz szyi.",
+      "skolioza idiopatyczna.",
+      "dyskopatia odcinka szyjnego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 129,
+    "text": "Sztywność mięśniowa jest objawem świadczącym o uszkodzeniu układu",
+    "answers": [
+      "przywspółczulnego.",
+      "pozapiramidowego.",
+      "współczulnego.",
+      "piramidowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 130,
+    "text": "Przyczep początkowy głowy długiej mięśnia trójgłowego ramienia znajduje się",
+    "answers": [
+      "na guzku nadpanewkowym łopatki.",
+      "na guzku podpanewkowym łopatki.",
+      "w dole podłopatkowym łopatki.",
+      "w dole podgrzebieniowym łopatki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 131,
+    "text": "Przeciwwskazaniem do wykonywania masażu izometrycznego jest",
+    "answers": [
+      "ograniczenie ruchomości kończyny po zdjęciu opatrunku gipsowego.",
+      "spastyczność mięśni jako konsekwencja udaru mózgu.",
+      "zanik mięśni na skutek ograniczenia aktywności fizycznej.",
+      "osłabienie siły mięśniowej po przebytym urazie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 132,
+    "text": "W czasie rozcierania tkanki łącznej właściwej dochodzi do uwolnienia",
+    "answers": [
+      "adrenaliny.",
+      "histaminy.",
+      "melatoniny.",
+      "insuliny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 133,
+    "text": "U pacjenta po amputacji powyżej stawu kolanowego zmniejszenie przykurczów osiąga się przez połączenie masażu klasycznego z ćwiczeniami wzmacniającymi mięśnie",
+    "answers": [
+      "prostowniki i odwodziciele uda.",
+      "zginacze i przywodziciele uda.",
+      "prostowniki i przywodziciele uda.",
+      "zginacze i odwodziciele uda."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 134,
+    "text": "U pacjenta z zaawansowaną postacią przewlekłej obturacyjnej choroby płuc można zaobserwować",
+    "answers": [
+      "nadmierne napięcie mięśni wdechowych.",
+      "obniżenie wysokości barków.",
+      "obniżone napięcia kres karkowych.",
+      "nadmierną ruchomość łopatek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 135,
+    "text": "Reakcją organizmu mogącą pojawić się po wykonaniu pierwszych kilku zabiegów masażu klasycznego jest",
+    "answers": [
+      "obniżenie temperatury ciała w obrębie masowanych struktur.",
+      "masywny wylew podskórny powyżej masowanego miejsca.",
+      "zniesienie czucia powierzchownego w obrębie masowanych struktur.",
+      "zwiększone przekrwienie w obrębie masowanego miejsca."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 136,
+    "text": "Podczas masażu treningowego u sportowców pływających kraulem masażysta powinien przede wszystkim opracować",
+    "answers": [
+      "mięśnie klatki piersiowej i powłok brzusznych.",
+      "mięśnie i stawy okolicy miednicy.",
+      "mięśnie i stawy kończyn dolnych i górnych.",
+      "mięśnie okolicy karku i miednicy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 137,
+    "text": "Masaż izometryczny głowy przyśrodkowej mięśnia czworogłowego uda należy wykonać w pozycji leżącej",
+    "answers": [
+      "tyłem z klinem pod stawami kolanowymi.",
+      "na boku z klinem pomiędzy kończynami dolnymi.",
+      "przodem z klinem pod stawami skokowymi.",
+      "tyłem z klinem pod stawami skokowymi."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 138,
+    "text": "Strukturą wchodzącą w skład stawu ramienno-łokciowego jest",
+    "answers": [
+      "bloczek kości ramiennej.",
+      "główka kości ramiennej.",
+      "dołek głowy kości promieniowej.",
+      "wcięcie promieniowe kości łokciowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 139,
+    "text": "Siła mięśni badana testem Lovetta została oceniona na 3, co oznacza, że pacjent wykonał ruch czynny",
+    "answers": [
+      "bez obciążenia.",
+      "wspomagany.",
+      "z niewielkim oporem.",
+      "z maksymalnym oporem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 140,
+    "text": "W celu zmniejszenia dolegliwości bólowych w odcinku lędźwiowym u pacjenta w pozycji leżenia przodem masażysta powinien",
+    "answers": [
+      "podłożyć klin pod klatkę piersiową pacjenta.",
+      "podłożyć wałek pod brzuch.",
+      "włożyć klin pomiędzy kończyny dolne pacjenta.",
+      "włożyć wałek pod stawy kolanowe pacjenta."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 141,
+    "text": "W przypadku pleców okrągłych podczas zabiegu masażu należy łagodzić pobudzenie i znormalizować napięcie mięśnia",
+    "answers": [
+      "czworobocznego.",
+      "piersiowego większego.",
+      "najszerszego grzbietu.",
+      "równoległobocznego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 142,
+    "text": "Masaż Shantala u dwuletniego dziecka z mózgowym porażeniem dziecięcym w stopniu umiarkowanym należy zacząć od opracowania",
+    "answers": [
+      "twarzy.",
+      "grzbietu.",
+      "powłok brzusznych.",
+      "klatki piersiowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 143,
+    "text": "W przerwie pomiędzy startami lub bezpośrednio po nich dla regeneracji mięśni zawodnika masażysta powinien wykonać masaż",
+    "answers": [
+      "podtrzymujący.",
+      "powysiłkowy.",
+      "startowy.",
+      "treningowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 144,
+    "text": "Ocena pacjenta przeprowadzana przez masażystę przed wykonaniem zabiegu masażu nie obejmuje",
+    "answers": [
+      "całościowego badania postawy ciała pacjenta.",
+      "osłuchiwania płuc i badania powłok brzusznych.",
+      "wywiadu dotyczącego obecnego schorzenia narządu ruchu.",
+      "badania tętna i ciśnienia krwi u pacjentów w wieku podeszłym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 145,
+    "text": "Które schorzenie z grupy chorób narządów wewnętrznych jest przeciwwskazaniem do wykonania u pacjenta masażu segmentarnego?",
+    "answers": [
+      "Zapalenie trzustki.",
+      "Kamica pęcherzyka żółciowego bez powikłań.",
+      "Rozedma płuc.",
+      "Przewlekły nieżyt żołądka."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 146,
+    "text": "Ugniatania w masażu klasycznym w celu relaksacyjnym powinny być wykonywane",
+    "answers": [
+      "bardzo szybko i energicznie, podczas pracy na brzuścach mięśniowych.",
+      "głęboko i wolno, podczas pracy na brzuścach mięśniowych.",
+      "szybko i energicznie, podczas pracy wyłącznie na fałdzie skórno-łącznotkankowym.",
+      "bardzo wolno, przy odkształcaniu skóry i okostnej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 147,
+    "text": "U pacjenta z zaawansowaną chorobą Buergera, w celu uzyskania poprawy krążenia w kończynach dolnych należy opracować",
+    "answers": [
+      "wyłącznie grzbiet na wysokości odcinka lędźwiowego kręgosłupa.",
+      "wyłącznie dystalne odcinki obu kończyn dolnych.",
+      "odcinek lędźwiowy grzbietu i obie kończyny dolne.",
+      "obie całe kończyny dolne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 148,
+    "text": "Zaburzenia troficzne w obrębie prawego przedramienia i ręki, występujące pod opatrunkiem gipsowym u pacjenta po złamaniu obu kości przedramienia, stanowią wskazanie do zastosowania masażu",
+    "answers": [
+      "ipsilateralnego prawej kończyny dolnej.",
+      "tensegracyjnego prawego układu więzadła krzyżowo-guzowego.",
+      "kontralateralnego lewej kończyny górnej.",
+      "centryfugalnego prawego stawu barkowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 149,
+    "text": "Wspólny przyczep końcowy dla obu głów mięśnia dwugłowego ramienia znajduje się na",
+    "answers": [
+      "wyrostku kruczym łopatki.",
+      "guzowatości kości promieniowej.",
+      "wyrostku barkowym łopatki.",
+      "guzowatości kości łokciowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 150,
+    "text": "U pacjenta z osteoporozą nie należy wykonywać",
+    "answers": [
+      "oklepywania mięśni pośladkowych grzbietową stroną palców.",
+      "silnego ugniatania mięśnia czworogłowego uda.",
+      "pionowych ucisków w okolicy kręgosłupa.",
+      "głębokiego rozcierania przestrzeni międzyżebrowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 151,
+    "text": "W celu zlikwidowania obrzęku stawu kolanowego u pacjenta po przebytym 6 miesięcy temu złamaniu w okolicy tego stawu, należy zastosować masaż",
+    "answers": [
+      "izometryczny oraz krioterapię.",
+      "łącznotkankowy oraz okłady parafinowe.",
+      "centryfugalny oraz sollux z filtrem czerwonym.",
+      "limfatyczny oraz bandażowanie kompresyjne."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 152,
+    "text": "Podczas palpacyjnej lokalizacji wyrostka kruczego łopatki opuszki palców należy przyłożyć w okolicy",
+    "answers": [
+      "poniżej obojczyka w jego części przyśrodkowej.",
+      "poniżej obojczyka w jego części bocznej.",
+      "powyżej głowy kości ramiennej po stronie bocznej.",
+      "powyżej grzebienia łopatki w środkowej części."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 153,
+    "text": "Masaż biurowy „work-site” wykonuje się",
+    "answers": [
+      "w leżeniu na brzuchu, rozpoczynając od odsłoniętych kończyn dolnych.",
+      "na krześle, przez luźną odzież, rozpoczynając od grzbietu.",
+      "w leżeniu bokiem na macie, rozpoczynając od odsłoniętej kończyny górnej.",
+      "na fotelu, przez odzież, rozpoczynając od mięśni międzyżebrowych i przedniej strony uda."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 154,
+    "text": "Za ruch wyprostu w stawie ramiennym odpowiada mięsień",
+    "answers": [
+      "ramienny.",
+      "najszerszy grzbietu.",
+      "nadgrzebieniowy.",
+      "kruczo-ramienny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 155,
+    "text": "Stosując w trakcie zabiegu masażu głębokie rozcierania należy omijać",
+    "answers": [
+      "strefy MacKenziego.",
+      "zrosty.",
+      "występujące obszary obrzęku.",
+      "miogelozy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 156,
+    "text": "Po głębokim opracowaniu części podeszwowych stóp jest możliwe pogłębienie skłonu tułowia przy wyprostowanych stawach kolanowych, ponieważ",
+    "answers": [
+      "pobudzone receptory bólowe podeszwowej strony stopy blokują w ośrodkowym układzie nerwowym dostęp informacji o bólu z innych rozciąganych mięśni.",
+      "głębokie opracowanie stopy poprawia ukrwienie w mięśniach kulszowo-goleniowych.",
+      "rozluźnienie struktur na podeszwowej stronie stopy obniża napięcie w pozostałej części łańcucha mięśniowo-powięziowego kończyny dolnej.",
+      "za sprawą łuku odruchowego skórno-trzewnego opracowanie stopy rozluźnia proksymalnie leżące mięśnie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 157,
+    "text": "Wskazaniem do zastosowania masażu tensegracyjnego w układzie mięśnia najszerszego grzbietu po stronie lewej jest",
+    "answers": [
+      "zaburzenie czucia powierzchownego na bocznej stronie lewego uda.",
+      "wzmożona bolesność okolicy przyśrodkowej lewego stawu łokciowego i przedramienia.",
+      "nawracający ból głowy i zwiększone napięcie mięśni podpotylicznych po stronie lewej.",
+      "zwiększona wrażliwość na dotyk w okolicy C6-Th3 po stronie lewej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 158,
+    "text": "Pacjenta z prawostronnym rozstrzeniem oskrzeli do wykonania masażu klatki piersiowej należy ułożyć na stole w pozycji leżenia",
+    "answers": [
+      "przodem z wyprostowanymi kończynami dolnymi i poduszką pod głową.",
+      "na lewym boku, ze zgiętymi lekko kończynami dolnymi i poduszką pod głową.",
+      "tyłem, ze zgiętymi kończynami dolnymi i poduszką pod głową.",
+      "na prawym boku, ze zgiętymi lekko kończynami dolnymi i poduszką pod głową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 159,
+    "text": "W przypadku obrzęku pourazowego lewej stopy, masażysta stosując manualny drenaż limfatyczny na tej kończynie dolnej powinien kolejno opracować:",
+    "answers": [
+      "węzły pachwinowe, staw kolanowy, podudzie, staw skokowy, stopę.",
+      "węzły pachwinowe, udo, staw kolanowy, podudzie, staw skokowy, stopę.",
+      "węzły pachwinowe, węzły podkolanowe, stopę, podudzie, udo.",
+      "węzły podkolanowe, staw kolanowy, podudzie, staw skokowy, stopę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 160,
+    "text": "Akineza, sztywność, drżenie i maskowatość twarzy to objawy charakterystyczne choroby",
+    "answers": [
+      "Heinego-Medina.",
+      "Raynauda.",
+      "Bechterewa.",
+      "Parkinsona."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 161,
+    "text": "Zabieg masażu segmentarnego kończyny górnej należy zakończyć opracowaniem",
+    "answers": [
+      "kręgosłupa.",
+      "łopatki.",
+      "ramienia.",
+      "ręki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 162,
+    "text": "Celem rozluźnienia bolesnych napięć mięśni równoległobocznych masażysta powinien wykonać masaż",
+    "answers": [
+      "okolicy między górnymi częściami łopatek.",
+      "części dystalnej podeszwowej strony obu stóp.",
+      "okolicy między grzebieniami talerzy biodrowych a dolnymi żebrami.",
+      "dłoniowej strony śródręcza każdej z rąk."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 163,
+    "text": "U pacjenta z rozpoznaniem stanu po zawale mięśnia sercowego, stanowiącego przyczynę skierowania lekarskiego na masaż segmentarny, zabieg masażu należy rozpocząć od opracowania obszaru",
+    "answers": [
+      "klatki piersiowej w pozycji leżącej tyłem.",
+      "kręgosłupa w pozycji siedzącej.",
+      "grzbietu w pozycji leżącej przodem.",
+      "klatki piersiowej w pozycji siedzącej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 164,
+    "text": "Na zabieg masażu gorącymi kamieniami całego ciała zgłasza się pacjentka z niewielkimi obrzękami pod oczami i cerą naczynkową. W trakcie masażu twarzy należy zastosować",
+    "answers": [
+      "gorące kamienie bazaltowe.",
+      "ciepłe kamienie bazaltowe.",
+      "gorące kamienie marmurowe.",
+      "zimne kamienie marmurowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 165,
+    "text": "Tydzień po zdjęciu opatrunku gipsowego z kończyny, w celu poprawienia elastyczności tkanek oraz zwiększenia ruchomości w stawach objętych wcześniej opatrunkiem gipsowym, zabieg masażu zaleca się połączyć z",
+    "answers": [
+      "biczami szkockimi.",
+      "krioterapią.",
+      "ćwiczeniami czynnymi z oporem.",
+      "kąpielą wirową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 166,
+    "text": "Podczas wykonania masażu segmentarnego masażysta oddziałuje na narządy wewnętrzne, wykorzystując",
+    "answers": [
+      "łuki odruchowe skórno-trzewne.",
+      "łuki odruchowe wywołujące wpływ konsensualny.",
+      "przepływ energii przez meridiany.",
+      "pobudzenie proprioreceptorów stawowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 167,
+    "text": "W celu usunięcia zmian odruchowych powstałych w tkankach na skutek choroby Raynauda, masażysta powinien zastosować masaż",
+    "answers": [
+      "limfatyczny.",
+      "segmentarny.",
+      "centryfugalny.",
+      "tensegracyjny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 168,
+    "text": "Wskaż ustawienie łopatek i głowy u pacjenta z hiperkifozą.",
+    "answers": [
+      "Łopatki są odsunięte od kręgosłupa, głowa jest wysunięta do przodu.",
+      "Łopatki są zbliżone do kręgosłupa, głowa jest wysunięta do przodu.",
+      "Łopatki są odsunięte od kręgosłupa, głowa jest cofnięta.",
+      "Łopatki są zbliżone do kręgosłupa, głowa jest cofnięta."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 169,
+    "text": "Aby wykonać masaż klasyczny stawu skokowego, masażysta powinien ułożyć pacjenta",
+    "answers": [
+      "w siadzie na stole do masażu z opuszczonymi podudziami.",
+      "w siadzie prostym na stole do masażu.",
+      "w leżeniu tyłem, z wałkiem pod stawami kolanowymi.",
+      "w leżeniu tyłem, z wałkiem pod stawami skokowymi."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 170,
+    "text": "Przyczep końcowy mięśnia zębatego przedniego znajduje się na",
+    "answers": [
+      "grzebieniu łopatki.",
+      "wewnętrznej powierzchni 9 żeber.",
+      "brzegu przyśrodkowym łopatki.",
+      "guzku większym kości ramiennej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 171,
+    "text": "U pacjenta po udarze mózgu, u którego występuje obniżone napięcie mięśniowe, należy zastosować masaż",
+    "answers": [
+      "segmentarny.",
+      "tensegracyjny.",
+      "klasyczny.",
+      "izometryczny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 172,
+    "text": "Mięsień pośladkowy wielki bierze udział w utrzymaniu pionowej postawy ciała oraz",
+    "answers": [
+      "w odwracaniu i zginaniu uda.",
+      "w nawracaniu i prostowaniu uda.",
+      "w odwodzeniu i zginaniu uda.",
+      "w przywodzeniu i prostowaniu uda."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 173,
+    "text": "W masażu klasycznym grzbietu głaskanie powierzchowne wykonuje się",
+    "answers": [
+      "wzdłuż grzebieni łopatek, rozpoczynając od wyrostka barkowego łopatki.",
+      "wzdłuż kręgosłupa, od wyrostka kolczystego C7 do L5.",
+      "od kręgosłupa, w kierunku na oba boki.",
+      "w przestrzeniach międzyżebrowych, w kierunku do kątów żeber."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 174,
+    "text": "Wskazaniem do masażu klasycznego grzbietu i klatki piersiowej jest",
+    "answers": [
+      "zapalenie mięśnia sercowego.",
+      "przewlekła obturacyjna choroba płuc.",
+      "zaawansowana miażdżyca naczyń wieńcowych.",
+      "neuralgia międzyżebrowa w okresie ostrym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 175,
+    "text": "W trakcie masażu klasycznego twarz opracowuje się w kierunku węzłów chłonnych",
+    "answers": [
+      "przyusznych.",
+      "podpotylicznych.",
+      "podobojczykowych.",
+      "pachowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 176,
+    "text": "Aby zbadać u pacjenta z rwą kulszową w stanie przewlekłym wrażliwość nerwu kulszowego na rozciąganie, masażysta powinien wykonać",
+    "answers": [
+      "bierne uniesienie podudzia w leżeniu przodem.",
+      "próbę uniesienia kończyny przeciwko oporowi w leżeniu tyłem.",
+      "próbę uniesienia kończyny przeciwko oporowi w leżeniu przodem.",
+      "bierne uniesienie całej kończyny w leżeniu tyłem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 177,
+    "text": "Zastosowanie u pacjenta zbyt mocnych, szybkich i energicznych chwytów manualnego drenażu limfatycznego w terapii obrzęku limfatycznego powoduje",
+    "answers": [
+      "wzrost przekrwienia i zwiększenie obrzęku.",
+      "obkurczenie naczyń i utrudnienie odpływu krwi i chłonki.",
+      "odpływ płynu obrzękowego w kierunku dystalnym.",
+      "nasilenie i tak zawsze znacznych dolegliwości bólowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 178,
+    "text": "W przewlekłym zapaleniu stawu kolanowego bez obrzęku, w celu usprawnienia ukrwienia i poprawy funkcjonowania stawu, wykonuje się masaż",
+    "answers": [
+      "izometryczny całej kończyny.",
+      "segmentarny chorego stawu.",
+      "limfatyczny całej kończyny.",
+      "centryfugalny chorego stawu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 179,
+    "text": "Funkcją mięśnia biodrowo-lędźwiowego jest",
+    "answers": [
+      "pochylanie tułowia ku tyłowi.",
+      "spłycanie lordozy lędźwiowej.",
+      "rotowanie tułowia w stronę przeciwną.",
+      "zginanie uda w stawie biodrowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 180,
+    "text": "W celu uzyskania zmniejszenia pobudliwości układu nerwowego masażysta nie powinien stosować w trakcie masażu techniki",
+    "answers": [
+      "ugniatania.",
+      "oklepywania.",
+      "głaskania.",
+      "rozcierania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 181,
+    "text": "Badanie podmiotowe pacjenta przed wykonaniem masażu leczniczego obejmuje",
+    "answers": [
+      "wywiad dotyczący dolegliwości pacjenta.",
+      "oglądanie obszaru ciała, który ma być poddany zabiegowi masażu.",
+      "pomiary obwodów kończyn.",
+      "pomiary zakresu ruchomości stawów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 182,
+    "text": "Na wyrostku kruczym łopatki lokalizuje się palpacyjnie przyczepy mięśni",
+    "answers": [
+      "podgrzebieniowego i nadgrzebieniowego.",
+      "ramiennego i łokciowego.",
+      "kruczo-ramiennego i dwugłowego ramienia.",
+      "naramiennego i trójgłowego ramienia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 183,
+    "text": "W przypadku choroby zwyrodnieniowej stawu kolanowego, w celu zwiększenia masy mięśniowej przy występujących zanikach mięśni okolicy stawu kolanowego, masażysta powinien zastosować masaż",
+    "answers": [
+      "kontralateralny zdrowej kończyny.",
+      "izometryczny przedniej grupy mięśni uda.",
+      "relaksacyjny mięśni podudzia.",
+      "centryfugalny chorego stawu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 184,
+    "text": "Który obszar ciała unerwia nerw udowy?",
+    "answers": [
+      "Mięśnie okolicy przyśrodkowej uda.",
+      "Skórę tylnej strony uda i pośladka.",
+      "Skórę okolicy powyżej więzadła pachwinowego.",
+      "Mięśnie i skórę okolicy przedniej uda."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 185,
+    "text": "Celem masażu w okresie rekonwalescencji po odoskrzelowym zapaleniu płuc jest",
+    "answers": [
+      "zmniejszenie elastyczności klatki piersiowej.",
+      "udrożnienie drzewa oskrzelowego.",
+      "pobudzenie układu nerwowego.",
+      "intensywne przekrwienie płuc."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 186,
+    "text": "Przy skręceniu stawu skokowego II stopnia, bezpośrednio po usunięciu opatrunku gipsowego wykonuje się masaż",
+    "answers": [
+      "centryfugalny, celem odżywienia unieruchomionego stawu.",
+      "izometryczny, celem poprawy siły mięśni.",
+      "kontralateralny chorej kończyny, celem odżywienia tkanek.",
+      "limfatyczny chorej kończyny, celem usunięcia obrzęku tkanek."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 187,
+    "text": "W okresie ostrym po kontuzji związanej z uszkodzeniem łąkotek masaż sportowca powinien obejmować",
+    "answers": [
+      "masaż kontralateralny w trakcie unieruchomienia.",
+      "drenaż limfatyczny łącznie z opracowaniem stawu kolanowego chorej kończyny.",
+      "masaż klasyczny chorej kończyny z opracowaniem stawu kolanowego chorej kończyny.",
+      "masaż centryfugalny stawu kolanowego chorej kończyny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 188,
+    "text": "Przeciwwskazaniem do wykonania masażu klasycznego powłok brzusznych jest",
+    "answers": [
+      "ostra kamica nerkowa.",
+      "zaparcie typu spastycznego.",
+      "przewlekłe zapalenie przydatków.",
+      "podwyższone napięcie spoczynkowe mięśni."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 189,
+    "text": "W okresie porażenia mięśni po uszkodzeniu nerwu promieniowego w obrębie kończyny górnej stosuje się",
+    "answers": [
+      "masaż klasyczny zginaczy ręki i palców.",
+      "redresję przykurczu wyprostnego ręki i palców.",
+      "manualny drenaż limfatyczny kończyny górnej.",
+      "masaż izometryczny prostowników ręki i palców."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 190,
+    "text": "Masaż klasyczny w obrębie uda jest przeciwwskazany w leczeniu złamania kości udowej w przypadku",
+    "answers": [
+      "niepełnego zrostu, po zdjęciu unieruchomienia.",
+      "zaburzenia kostnienia w okresie unieruchomienia.",
+      "osłabienia siły mięśniowej w okresie unieruchomienia.",
+      "zaburzeń odżywczych skóry, po zdjęciu unieruchomienia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 191,
+    "text": "Wada stopy polegająca na tym, że chory chodzi na palcach, opierając ciężar ciała na głowach kości śródstopia, jest nazywana stopą",
+    "answers": [
+      "końską.",
+      "piętową.",
+      "wydrążoną.",
+      "koślawą."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 192,
+    "text": "W którym przypadku wskazane jest zastosowanie masażu klasycznego u pacjenta ze stwardnieniem rozsianym?",
+    "answers": [
+      "W ostrym stadium choroby, celem zmniejszenia objawów zapalnych.",
+      "Przy wygórowanej reakcji na bodźce mechaniczne, celem normalizacji pracy układu nerwowego.",
+      "W stadium remisji, celem usprawnienia krążenia krwi i odżywienia tkanek.",
+      "Przy nasilonej spastyce mięśniowej, celem relaksacji mięśni podczas rzutu choroby."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 193,
+    "text": "Czym w swojej budowie różni się kręg szczytowy od innych kręgów szyjnych?",
+    "answers": [
+      "Brakiem powierzchni stawowych do połączenia z kręgiem obrotowym.",
+      "Występowaniem otworów w wyrostkach poprzecznych.",
+      "Występowaniem struktury zwanej zębem do połączenia z kręgiem obrotowym.",
+      "Brakiem typowego trzonu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 194,
+    "text": "Które obszary opracowuje się obligatoryjnie podczas wykonywania manualnego drenażu limfatycznego przy lokalizacji obrzęku w obrębie głowy?",
+    "answers": [
+      "Doły nadobojczykowe i węzły pachowe.",
+      "Doły nadobojczykowe i węzły szyjne głębokie.",
+      "Węzły szyjne głębokie i węzły pachwinowe.",
+      "Powłoki brzuszne i węzły pachwinowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 195,
+    "text": "Masaż startowy u zawodnika uprawiającego pchnięcie kulą obejmuje",
+    "answers": [
+      "krótki masaż mięśni skracających tułów oraz zginających kończynę górną wypychającą kulę.",
+      "krótki masaż obręczy barkowej, mięśni skracających tułów oraz prostujących kończynę górną wypychającą kulę.",
+      "dokładny masaż całego ciała, ze szczególnym opracowaniem mięśni obręczy barkowej.",
+      "dokładny masaż grzbietu oraz mięśni przywodzących i odwodzących w stawach biodrowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 196,
+    "text": "Który rodzaj masażu jest wskazany w odnowie biologicznej sportowców wyczynowych z obrzękami powysiłkowymi kończyn dolnych?",
+    "answers": [
+      "Punktowy.",
+      "Kontralateralny.",
+      "Limfatyczny.",
+      "Izometryczny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 197,
+    "text": "Aby przeciwdziałać występowaniu mrowienia i drętwienia ręki, podczas opracowywania segmentarnego mięśnia nadgrzebieniowego i podgrzebieniowego masażysta powinien opracować",
+    "answers": [
+      "skroń i okolicę czoła.",
+      "lewy brzeg klatki piersiowej.",
+      "okolicę mostka.",
+      "dół pachowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 198,
+    "text": "Masaż klasyczny klatki piersiowej w ułożeniu na boku rozpoczyna się od",
+    "answers": [
+      "rozcierania podłużnego całymi dłońmi w linii pachowej od talerza biodrowego do dołu pachowego.",
+      "głaskania poprzecznego palcami 2-5 wzdłuż przebiegu żeber.",
+      "rozcierania poprzecznego palcami 2-5 wzdłuż przebiegu żeber.",
+      "głaskania podłużnego całymi dłońmi w linii pachowej od talerza biodrowego do dołu pachowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 199,
+    "text": "Techniki oceny zmian odruchowych na potrzeby masażu leczniczego, zwanej kresą Dicke, nie wykonuje się za pomocą",
+    "answers": [
+      "opuszek palców 2-5 jednej ręki, ustawionych pod kątem 60º.",
+      "opuszek palców 2-5 jednej ręki, ustawionych pod kątem 90º.",
+      "stron dłoniowych palców 2-5 jednej ręki, ustawionych równolegle do kręgosłupa.",
+      "stron dłoniowych palców 2-5 jednej ręki, ustawionych prostopadle do kręgosłupa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 200,
+    "text": "Do procedur stosowanych w drenażu autogennym u pacjentów z przewlekłą obturacyjną chorobą płuc nie zalicza się",
+    "answers": [
+      "technik natężonego wydechu.",
+      "serii wibracji ręcznej na okolicę mostka.",
+      "technik efektywnego kaszlu.",
+      "serii oddechów z różnymi objętościami powietrza."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 201,
+    "text": "Wstrząsanie o dużej amplitudzie i małej częstotliwości stosowane przez masażystę podczas zabiegu masażu sportowego ma na celu",
+    "answers": [
+      "wpłynąć uspokajająco na mięśnie.",
+      "wyciszyć układ krążenia poprzez wzrost tętna.",
+      "wpłynąć pobudzająco na mięśnie.",
+      "pobudzić układ nerwowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 202,
+    "text": "W masażu kosmetycznym u kobiety głaskanie poprzeczne klatki piersiowej wykonywane stronami dłoniowymi obu rąk przebiega",
+    "answers": [
+      "od mostka do linii pachowej środkowej w trzech pasmach z ominięciem brodawki sutkowej.",
+      "od linii pachowych przednich po łukach żebrowych wzdłuż mostka do stawów barkowych w dwóch pasmach z ominięciem gruczołu piersiowego.",
+      "od mostka do linii pachowej środkowej w dwóch pasmach z ominięciem gruczołu piersiowego.",
+      "od linii pachowych przednich po łukach żebrowych wzdłuż mostka do stawów barkowych w trzech pasmach z ominięciem brodawki sutkowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 203,
+    "text": "Przed zaprotezowaniem, w okresie do dwóch tygodni od amputacji kończyny powyżej kolana, przy niewygojonej ranie, masażysta powinien zastosować masaż",
+    "answers": [
+      "kontralateralny kończyny symetrycznej.",
+      "klasyczny z uruchamianiem blizny.",
+      "limfatyczny kikuta.",
+      "klasyczny z pobudzeniem mięśni grupy przyśrodkowej i tylnej uda."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 204,
+    "text": "Nagły ból okolicy L-S kręgosłupa, promieniujący do pośladka, na tylną powierzchnię uda oraz podudzie i stopę, to objawy",
+    "answers": [
+      "rwy udowej.",
+      "rwy kulszowej.",
+      "zapalenia nerwu promieniowego.",
+      "zapalenia nerwu zasłonowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 205,
+    "text": "W jaki sposób przeprowadza się technikę sedatywną masażu punktowego?",
+    "answers": [
+      "W wolnym tempie, z lekkim uciskiem.",
+      "W wolnym tempie, z silnym uciskiem.",
+      "W szybkim tempie, z lekkim uciskiem.",
+      "W szybkim tempie, z silnym uciskiem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 206,
+    "text": "Do mięśni wydechowych należy mięsień",
+    "answers": [
+      "poprzeczny klatki piersiowej.",
+      "czworoboczny grzbietu.",
+      "piersiowy mniejszy.",
+      "zębaty przedni."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 207,
+    "text": "Pacjentkę, która skarży się na duszność, masażysta powinien ułożyć do opracowania twarzy i szyi w pozycji leżenia",
+    "answers": [
+      "tyłem, z wałkiem pod stawami kolanowymi i z podniesionym zagłówkiem.",
+      "na boku, z klinem pomiędzy kolanami.",
+      "tyłem, z wałkiem pod stawami skokowymi.",
+      "na boku, z kończynami dolnymi wyprostowanymi w stawach biodrowych i kolanowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 208,
+    "text": "Sztywność mięśni, drżenie spoczynkowe i spowolnienie ruchowe to typowe objawy",
+    "answers": [
+      "choroby Parkinsona.",
+      "stwardnienia rozsianego.",
+      "pląsawicy Huntingtona.",
+      "choroby Alzheimera."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 209,
+    "text": "Nerw okoruchowy to nerw",
+    "answers": [
+      "tylko ruchowy, który unerwia czuciowo i ruchowo mięśnie okolicy oka i czoła.",
+      "mieszany, który unerwia czuciowo i ruchowo okolicę twarzy.",
+      "mieszany, który unerwia ruchowo i autonomicznie większość mięśni oka.",
+      "tylko czuciowy, który doprowadza do mózgu bodźce wzrokowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 210,
+    "text": "Diagnostyka dla potrzeb masażu w przypadku występowania blizn nie obejmuje oceny",
+    "answers": [
+      "przydatków skóry w okolicy blizny.",
+      "spoistości blizny.",
+      "przesuwalności blizny.",
+      "obecności zrostów głębokich."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 211,
+    "text": "Efektami przeprowadzenia zabiegu masażu z wykorzystaniem stempli ziołowych są",
+    "answers": [
+      "rozluźnienie i regeneracja mięśni.",
+      "pobudzenie i aktywacja układu nerwowego.",
+      "wzmożenie bólu i upośledzenie krążenia.",
+      "wzrost napięcia i rozgrzanie tkanek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 212,
+    "text": "Jak wykonuje się masaż Shantala?",
+    "answers": [
+      "Opracowując kolejno klatkę piersiową, kończyny górne, brzuch, kończyny dolne, grzbiet i twarz.",
+      "W szybkim, zmiennym rytmie bez odrywania dłoni od ciała pacjenta.",
+      "Rozpoczynając od masażu brzucha w kierunku od łuków żebrowych do spojenia łonowego.",
+      "Powtarzając każdy ruch masażu tylko jednokrotnie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 213,
+    "text": "Mięśnie pochyłe szyi są rozpięte pomiędzy",
+    "answers": [
+      "rękojeścią mostka i obojczykiem a wyrostkiem sutkowatym.",
+      "wyrostkami poprzecznymi kręgów szyjnych a I i II żebrem.",
+      "skórą okolicy obojczyka a skórą okolicy żuchwy.",
+      "powierzchnią przednią trzonów kręgów szyjnych a kością potyliczną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 214,
+    "text": "Technika rozcierania stosowana w masażu klasycznym ma za zadanie",
+    "answers": [
+      "zwiększyć kurczliwość mięśni.",
+      "odprowadzić z tkanek produkty przemiany materii i złogi pozapalne.",
+      "usunąć złuszczony naskórek.",
+      "zwiększyć ruchomość struktur tkanki łącznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 215,
+    "text": "Przy cerze łojotokowej i z trądzikiem nie przeprowadza się masażu kosmetycznego klasycznego ze względu na możliwość",
+    "answers": [
+      "zwiększenia ukrwienia zmienionej chorobowo skóry.",
+      "rozprzestrzeniania się zakażenia bakteryjnego skóry.",
+      "pobudzenia gruczołów łojowych do ich opróżniania.",
+      "zaburzenia odżywienia skóry."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 216,
+    "text": "Ogólnym wskazaniem do wykonania masażu segmentarnego jest",
+    "answers": [
+      "krwawienie z przewodu pokarmowego.",
+      "przewlekła gośćcowa choroba kręgosłupa.",
+      "choroba nowotworowa.",
+      "ostre bakteryjne zapalenie tkanek."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 217,
+    "text": "W przypadku koślawości kolan, w obrębie struktur mięśnia półścięgnistego, półbłoniastego i czworogłowego uda należy wykonać masaż o charakterze",
+    "answers": [
+      "pobudzającym, stosując powierzchowne rozcieranie i słabą wibrację.",
+      "pobudzającym, stosując głębokie rozcieranie i intensywną wibrację.",
+      "rozluźniającym, stosując powierzchowne głaskania i rozcierania.",
+      "rozluźniającym, stosując ugniatania i wstrząsania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 218,
+    "text": "U pacjenta skarżącego się na ogólne zmęczenie psychofizyczne, zaburzenia snu i nadmierny stres, masażysta w celu poprawy stanu ogólnego powinien wykonać masaż",
+    "answers": [
+      "limfatyczny kończyn górnych.",
+      "gorącymi kamieniami całego ciała.",
+      "segmentarny grzbietu.",
+      "izometryczny kończyn dolnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 219,
+    "text": "Podczas palpacyjnej lokalizacji wyrostka kruczego łopatki opuszki palców należy przyłożyć",
+    "answers": [
+      "poniżej obojczyka w jego części przyśrodkowej.",
+      "powyżej głowy kości ramiennej po stronie bocznej.",
+      "poniżej obojczyka w jego części bocznej.",
+      "powyżej grzebienia łopatki w środkowej części."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 220,
+    "text": "Zastosowanie techniki wibracji podczas masażu kończyn górnych jest przeciwwskazane w przypadku",
+    "answers": [
+      "reumatoidalnego zapalenia stawów.",
+      "zmian zwyrodnieniowych stawów.",
+      "choroby Raynauda.",
+      "koślawych kolan."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 221,
+    "text": "Skrócenie mięśnia mostkowo-obojczykowo-sutkowego z powodu jego zbliznowacenia może spowodować",
+    "answers": [
+      "podwichnięcie kręgu szyjnego.",
+      "skoliozę idiopatyczną.",
+      "kręcz szyi.",
+      "dyskopatię odcinka szyjnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 222,
+    "text": "W masażu klasycznym grzbietu głaskanie głębokie wykonuje się",
+    "answers": [
+      "w przestrzeniach międzyżebrowych, w kierunku do kątów żeber.",
+      "wzdłuż grzebieni łopatek, rozpoczynając od wyrostka barkowego łopatki.",
+      "wzdłuż kręgosłupa, od wyrostka kolczystego C7 do L5.",
+      "od kręgosłupa do dołów pachowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 223,
+    "text": "Ból umiejscowiony w okolicy przyczepu mięśni prostowników nadgarstka i palców do nadkłykcia bocznego kości ramiennej jest objawem wskazującym na zespół",
+    "answers": [
+      "łokcia tenisisty.",
+      "de Quervaina.",
+      "łokcia golfisty.",
+      "cieśni kanału nadgarstka."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 224,
+    "text": "Chwyty określane jako stojące koło, pompowanie i czerpanie to podstawowe techniki pracy w masażu",
+    "answers": [
+      "klasycznym.",
+      "stawowym.",
+      "łącznotkankowym.",
+      "limfatycznym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 225,
+    "text": "Ocena układu mięśnia piersiowego większego w masażu tensegracyjnym obejmuje między innymi ocenę wrażliwości uciskowej",
+    "answers": [
+      "nadkłykcia bocznego kości ramiennej.",
+      "kości grochowatej.",
+      "guza kulszowego.",
+      "kolca biodrowego przedniego górnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 226,
+    "text": "Wada postawy charakteryzująca się cofnięciem dolnej części mostka wraz z przylegającymi żebrami nazywa się",
+    "answers": [
+      "klatką piersiową lejkowatą.",
+      "klatką piersiową kurzą.",
+      "skoliozą.",
+      "garbem żebrowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 227,
+    "text": "Tydzień po zdjęciu opatrunku gipsowego z kończyny, w celu poprawienia elastyczności tkanek oraz zwiększenia ruchomości w stawach objętych wcześniej opatrunkiem gipsowym, zabieg masażu zaleca się połączyć",
+    "answers": [
+      "z kąpielą wirową.",
+      "z ćwiczeniami czynnymi z oporem.",
+      "z biczami szkockimi.",
+      "z krioterapią."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 228,
+    "text": "Czas trwania pojedynczego zabiegu masażu u osoby dorosłej nie zależy od",
+    "answers": [
+      "aktualnego stanu zdrowia pacjenta.",
+      "płci osoby masowanej.",
+      "wielkości powierzchni masowanej.",
+      "rodzaju schorzenia rozpoznanego u pacjenta."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 229,
+    "text": "Choroba o podłożu autoimmunologicznym, prowadząca do powstawania zmian zwyrodnieniowo-przeprostnych oraz upośledzenia funkcji stawów, której jednym z objawów jest sztywność poranna, to",
+    "answers": [
+      "zesztywniające zapalenie stawów kręgosłupa.",
+      "reumatoidalne zapalenie stawów.",
+      "twardzina układowa.",
+      "stwardnienie rozsiane."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 230,
+    "text": "U 8-miesięcznego pacjenta z lewostronnym wrodzonym kręczem szyi pochodzenia mięśniowego masażysta w celu rozluźnienia, a następnie rozciągnięcia przykurczonych mięśni, powinien wykonać masaż",
+    "answers": [
+      "segmentarny uzupełniony krioterapią.",
+      "klasyczny uzupełniony masażem punktowym.",
+      "klasyczny uzupełniony masażem stawowym.",
+      "segmentarny uzupełniony elektroterapią."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 231,
+    "text": "W trakcie masażu klasycznego twarz opracowuje się głównie w kierunku węzłów chłonnych",
+    "answers": [
+      "podobojczykowych.",
+      "podpotylicznych.",
+      "pachowych.",
+      "przyusznych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 232,
+    "text": "Ćwiczenia czynne w odciążeniu z dawkowanym oporem wykonywane po zabiegu masażu stosuje się u pacjenta z siłą mięśniową w skali Lovetta ocenianą na",
+    "answers": [
+      "więcej niż 1, ale mniej niż 2.",
+      "więcej niż 3, ale mniej niż 4.",
+      "więcej niż 2, ale mniej niż 3.",
+      "więcej niż 0, ale mniej niż 1."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 233,
+    "text": "Odstawanie przyśrodkowego brzegu łopatki i jednoczesny brak unoszenia kończyny górnej ponad poziom jest objawem porażenia mięśnia",
+    "answers": [
+      "podłopatkowego.",
+      "zębatego przedniego.",
+      "podgrzebieniowego.",
+      "piersiowego większego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 234,
+    "text": "Odpowiednią pozycją do wykonania masażu izometrycznego mięśnia trójgłowego łydki jest",
+    "answers": [
+      "leżenie na boku strony masowanej z ugiętym stawem kolanowym.",
+      "leżenia tyłem z nogami prostymi w stawach kolanowych.",
+      "leżenie przodem, wałek włożony pod stawami skokowymi.",
+      "pozycja siedząca z podudziami i stopami zwieszonymi."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 235,
+    "text": "Masażysta wykonujący manualny drenaż limfatyczny obszaru prawego podbrzusza powinien ruchy masażu kierować do",
+    "answers": [
+      "lewych węzłów pachowych.",
+      "prawych węzłów pachwinowych.",
+      "prawych węzłów pachowych.",
+      "lewych węzłów pachwinowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 236,
+    "text": "W przypadku pleców okrągłych podczas zabiegu masażu należy łagodzić pobudzenie i znormalizować napięcie przede wszystkim mięśni",
+    "answers": [
+      "najszerszych grzbietu.",
+      "piersiowych większych.",
+      "czworobocznych.",
+      "równoległobocznych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 237,
+    "text": "Na którym elemencie kostnym należy dokonać oceny wrażliwości uciskowej, w obrębie układu mięśnia najszerszego grzbietu, w masażu tensegracyjnym?",
+    "answers": [
+      "Kości grochowatej.",
+      "Nadkłykciu bocznym kości ramiennej.",
+      "Kolcu biodrowym przednim górnym.",
+      "Kości klinowatej przyśrodkowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 238,
+    "text": "U pacjenta po amputacji powyżej stawu kolanowego zmniejszenie przykurczów w stawie biodrowym osiąga się przez połączenie masażu klasycznego z ćwiczeniami wzmacniającymi mięśnie",
+    "answers": [
+      "zginacze i przywodziciele uda.",
+      "zginacze i odwodziciele uda.",
+      "prostowniki i przywodziciele uda.",
+      "prostowniki i odwodziciele uda."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 239,
+    "text": "Strukturą łącznotkankową wzmacniającą staw obojczykowo-barkowy jest więzadło",
+    "answers": [
+      "międzyobojczykowe.",
+      "kruczo-obojczykowe.",
+      "mostkowo-obojczykowe.",
+      "żebrowo-obojczykowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 240,
+    "text": "W ruchu zgięcia grzbietowego (prostowania) stopy bierze udział głównie mięsień",
+    "answers": [
+      "trójgłowy łydki.",
+      "strzałkowy długi.",
+      "piszczelowy przedni.",
+      "piszczelowy tylny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 241,
+    "text": "Właściwą reakcją organizmu mogącą pojawić się po wykonaniu pierwszych kilku zabiegów masażu klasycznego jest",
+    "answers": [
+      "masywny wylew podskórny powyżej masowanego miejsca.",
+      "zniesienie czucia powierzchownego w obrębie masowanych struktur.",
+      "zwiększone przekrwienie w obrębie masowanego miejsca.",
+      "obniżenie temperatury ciała w obrębie masowanych struktur."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 242,
+    "text": "Ćwiczenia bierne na zakończenie masażu należy wykonać przede wszystkim u pacjenta",
+    "answers": [
+      "z przykurczem stawu ramiennego po zwichnięciu.",
+      "z wiotkością po uszkodzeniu nerwu obwodowego.",
+      "z bólami kostno-stawowymi w fibromialgii.",
+      "ze sztywnością mięśni w chorobie Parkinsona."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 243,
+    "text": "W ruchu zginania uda w stawie biodrowym współpracują ze sobą mięśnie",
+    "answers": [
+      "biodrowo-lędźwiowy i prosty uda.",
+      "prosty uda i dwugłowy uda.",
+      "dwugłowy uda i pośladkowy wielki.",
+      "biodrowo-lędźwiowy i pośladkowy wielki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 244,
+    "text": "W przypadku zabiegu drenażu limfatycznego, u pacjenta z pourazowym obrzękiem stawu skokowego, przede wszystkim należy rozpocząć masaż od okolic",
+    "answers": [
+      "uda.",
+      "podudzia.",
+      "pachwiny.",
+      "stopy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 245,
+    "text": "Podczas wykonywania masażu klasycznego w celu normalizacji napięcia spoczynkowego mięśnia i poprawy czucia głębokiego masażysta powinien zastosować przede wszystkim technikę",
+    "answers": [
+      "oklepywania.",
+      "wstrząsania.",
+      "ugniatania.",
+      "rolowania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 246,
+    "text": "Podczas wykonywania drenażu limfatycznego w obrzęku powysiłkowym w obrębie kończyn dolnych masażysta powinien stosować zasadę",
+    "answers": [
+      "intensywnego rozgrzania tkanek na początku i na końcu zabiegu masażu.",
+      "opracowania regionalnych węzłów chłonnych na początku i na końcu zabiegu.",
+      "opracowania zbiorczych pni chłonnych głębokich na początku zabiegu.",
+      "stopniowego rozgrzewania tkanek w trakcie całego zabiegu masażu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 247,
+    "text": "Pacjenta z prawostronnym rozstrzeniem oskrzeli do wykonania masażu klatki piersiowej należy ułożyć na stole do masażu w pozycji leżenia",
+    "answers": [
+      "tyłem, ze zgiętymi kończynami dolnymi i poduszką pod głową.",
+      "na lewym boku, ze zgiętymi lekko kończynami dolnymi i poduszką pod głową.",
+      "przodem z wyprostowanymi kończynami dolnymi i poduszką pod głową.",
+      "na prawym boku, ze zgiętymi lekko kończynami dolnymi i poduszką pod głową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 248,
+    "text": "W celu uzyskania zmniejszenia poziomu pobudzenia układu nerwowego masażysta nie powinien stosować w trakcie masażu techniki",
+    "answers": [
+      "ugniatania.",
+      "głaskania.",
+      "oklepywania.",
+      "rozcierania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 249,
+    "text": "W celu osiągnięcia możliwie największego rozluźnienia mięśni górnej części grzbietu pacjenta, w pozycji leżenia przodem, do wykonania zabiegu masażu grzbietu masażysta powinien",
+    "answers": [
+      "podłożyć wałek pod brzuch pacjenta.",
+      "podłożyć płaską poduszkę pod czoło pacjenta.",
+      "umieścić ręcznik pod kolcami biodrowymi przednimi górnymi.",
+      "umieścić kliny pod stawami barkowymi pacjenta."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 250,
+    "text": "Które stwierdzenie jest zgodne z zasadami wykonywania masażu?",
+    "answers": [
+      "Maksymalna liczba powtórzeń skurczów w drugiej fazie masażu izometrycznego wynosi 20.",
+      "Masaż stawowy wykonuje się w kierunku od szpary stawowej.",
+      "Masaż segmentarny wykonuje się tylko do usunięcia zmian odruchowych.",
+      "Bodziec masażu powinien być tak silny, jak to tylko możliwe, i tak słaby, jak to konieczne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 251,
+    "text": "Wskazaniem do wykonania masażu izometrycznego jest",
+    "answers": [
+      "przykurcz okołostawowy.",
+      "nadmierne napięcie mięśni.",
+      "opóźniony zrost kości.",
+      "obniżona siła mięśni."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 252,
+    "text": "Masaż tensegracyjny wykonany w układzie więzadła krzyżowo-guzowego wpływa na ograniczenie",
+    "answers": [
+      "napięcia spoczynkowego mięśnia piersiowego większego.",
+      "napięcia spoczynkowego mięśnia naramiennego.",
+      "dolegliwości bólowych mięśni brzucha.",
+      "dolegliwości bólowych mięśnia prostownika grzbietu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 253,
+    "text": "Masaż Shantala u dwuletniego dziecka z mózgowym porażeniem dziecięcym należy zacząć od opracowania",
+    "answers": [
+      "klatki piersiowej.",
+      "powłok brzusznych.",
+      "grzbietu.",
+      "twarzy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 254,
+    "text": "Które struktury tworzą wyniosłość międzykłykciową kości piszczelowej?",
+    "answers": [
+      "Nadkłykieć przyśrodkowy i boczny.",
+      "Kostka przyśrodkowa i wcięcie strzałkowe.",
+      "Guzek boczny i przyśrodkowy.",
+      "Powierzchnia stawowa dolna i guzowatość piszczeli."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 255,
+    "text": "Podczas wykonywania masażu segmentarnego miednicy w pozycji siedzącej pacjenta należy zachować kierunek opracowywania od",
+    "answers": [
+      "linii pachowej środkowej do odcinka lędźwiowo-krzyżowego kręgosłupa.",
+      "kości krzyżowej, wzdłuż grzebieni biodrowych i pachwin do spojenia łonowego.",
+      "spojenia łonowego, wzdłuż pachwin i grzebieni biodrowych do kości krzyżowej.",
+      "odcinka lędźwiowo-krzyżowego kręgosłupa do linii pachowej środkowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 256,
+    "text": "Masażysta wykonujący manualny drenaż limfatyczny obszaru prawego podbrzusza ruchy masażu powinien kierować do",
+    "answers": [
+      "prawych węzłów pachowych.",
+      "lewych węzłów pachowych.",
+      "lewych węzłów pachwinowych.",
+      "prawych węzłów pachwinowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 257,
+    "text": "Przeciwwskazaniem do wykonywania masażu klasycznego mięśni przykręgosłupowych jest",
+    "answers": [
+      "skolioza funkcjonalna bez dolegliwości bólowych.",
+      "zespół bólowy odcinka lędźwiowego kręgosłupa w okresie przewlekłym.",
+      "dyskopatia w odcinku piersiowym kręgosłupa bez objawów korzeniowych.",
+      "zesztywniające zapalenie stawów kręgosłupa w okresie silnego zaostrzenia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 258,
+    "text": "Właściwą reakcją dla organizmu mogącą pojawić się po wykonaniu pierwszych kilku zabiegów masażu klasycznego jest",
+    "answers": [
+      "zniesienie czucia powierzchownego w obrębie masowanych struktur.",
+      "zwiększone przekrwienie w obrębie masowanego miejsca.",
+      "masywny wylew podskórny powyżej masowanego miejsca.",
+      "obniżenie temperatury ciała w obrębie masowanych struktur."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 259,
+    "text": "Siła bodźca w masażu klasycznym powinna być stosowana",
+    "answers": [
+      "poniżej progu odczuwania bólu.",
+      "powyżej progu odczuwania bólu.",
+      "na poziomie minimalnych możliwości wytrzymałościowych pacjenta.",
+      "na poziomie maksymalnych możliwości wytrzymałościowych pacjenta."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 260,
+    "text": "Wskazaniem do wykonania u pacjenta serii zabiegów masażu klasycznego, obejmującego całą kończynę dolną, jest",
+    "answers": [
+      "zaawansowana postać żylaków podudzi.",
+      "stan po zespoleniu złamania kości piszczelowej w okresie gojenia się rany.",
+      "obrzęk stawu skokowego bezpośrednio po urazie.",
+      "porażenie nerwu udowego w okresie adaptacji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 261,
+    "text": "U pacjenta po przebytym zawale mięśnia sercowego, stanowiącym przyczynę skierowania lekarskiego na masaż segmentarny, zabieg masażu należy rozpocząć od opracowania obszaru",
+    "answers": [
+      "grzbietu w pozycji leżącej przodem.",
+      "kręgosłupa w pozycji siedzącej.",
+      "klatki piersiowej w pozycji siedzącej.",
+      "klatki piersiowej w pozycji leżącej tyłem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 262,
+    "text": "Wskazaniem do wykonania masażu klasycznego powłok brzusznych są",
+    "answers": [
+      "blizny pooperacyjne.",
+      "stany zapalne dróg żółciowych.",
+      "kamienie nerkowe.",
+      "uchyłki jelita grubego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 263,
+    "text": "Diagnostyka układu mięśnia piersiowego większego w masażu tensegracyjnym obejmuje między innymi ocenę wrażliwości uciskowej",
+    "answers": [
+      "guza kulszowego.",
+      "kości grochowatej.",
+      "nadkłykcia bocznego kości ramiennej.",
+      "kolca biodrowego przedniego górnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 264,
+    "text": "U 8-miesięcznego pacjenta z lewostronnym wrodzonym kręczem szyi pochodzenia mięśniowego masażysta w celu rozluźnienia, a następnie rozciągnięcia przykurczonych mięśni powinien wykonać masaż",
+    "answers": [
+      "klasyczny uzupełniony masażem punktowym.",
+      "klasyczny uzupełniony masażem stawowym.",
+      "segmentarny uzupełniony elektroterapią.",
+      "segmentarny uzupełniony krioterapią."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.10"
+  },
+  {
+    "id": 265,
+    "text": "Na którym elemencie kostnym należy dokonać oceny wrażliwości uciskowej, przeprowadzając diagnostykę układu mięśnia najszerszego grzbietu, w masażu tensegracyjnym?",
+    "answers": [
+      "Kolcu biodrowym przednim górnym.",
+      "Kości klinowatej przyśrodkowej.",
+      "Kości grochowatej.",
+      "Nadkłykciu bocznym kości ramiennej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.10"
+  }
+]
