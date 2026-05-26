@@ -1,0 +1,5393 @@
+[
+  {
+    "id": 1,
+    "text": "Które preparaty należy zastosować wykonując makijaż wieczorowy młodej klientce z widocznymi teleangiektazjami?",
+    "answers": [
+      "Biały korektor i fluid liftingujący.",
+      "Żółty korektor i fluid matujący.",
+      "Fioletowy korektor i fluid nawilżający.",
+      "Zielony korektor i fluid kryjący."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 2,
+    "text": "Przygotowując klientkę do wykonania zabiegu mikrodermabrazji diamentowej, obszar skóry, który będzie poddany temu zabiegowi należy",
+    "answers": [
+      "posmarować żelem aloesowym.",
+      "zabezpieczyć wazeliną kosmetyczną.",
+      "rozpulchnić pod wapozonem.",
+      "przetrzeć środkiem odtłuszczającym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 3,
+    "text": "Który problem stanowi przeciwwskazanie do wykonania zabiegu darsonwalizacji skóry twarzy?",
+    "answers": [
+      "Trądzik pospolity.",
+      "Świąd skóry.",
+      "Łojotok skóry.",
+      "Trądzik różowaty."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 4,
+    "text": "W celu wyjałowienia łyżeczki Unny należy przeprowadzić",
+    "answers": [
+      "sterylizację.",
+      "dezinkrustację.",
+      "dezynfekcję.",
+      "sanityzację."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 5,
+    "text": "Przeciwwskazaniem do wykonania którego zabiegu są teleangiektazje występujące w obrębie policzków oraz skrzydełek nosa?",
+    "answers": [
+      "Nawilżającego z maską alginatową.",
+      "Regenerującego z płatem kolagenowym.",
+      "Łagodzącego z maską kremową.",
+      "Modelującego z maską gipsową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 6,
+    "text": "Jak nazywają się występujące u osób starszych płaskie, miękkie, żółtawe nacieki, zlokalizowane na powiekach?",
+    "answers": [
+      "Plamy soczewicowate.",
+      "Ostudy.",
+      "Kaszaki.",
+      "Kępki żółte."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 7,
+    "text": "W makijażu rozświetlającym polecanym osobom ze zmęczoną cerą należy posłużyć się kosmetykami",
+    "answers": [
+      "ciemnymi i połyskującymi.",
+      "jasnymi i połyskującymi.",
+      "jasnymi i matowymi.",
+      "ciemnymi i matowymi."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 8,
+    "text": "Którymi cechami powinien charakteryzować się makijaż ślubny?",
+    "answers": [
+      "Subtelnie, ale wyraźnie podkreślonymi oczami, rzęsami pokrytymi wodoodpornym tuszem i rozświetleniem.",
+      "Mocno podkreślonymi oczami, tzw. smokey eyes, sztucznymi rzęsami i intensywnym różem na policzkach.",
+      "Rozświetlonym drobinkami brokatu wyrazistym makijażem oczu i mocno kryjącym podkładem z efektem opalenizny.",
+      "Delikatnym makijażem oczu w jasnych cielistych barwach, brązowym tuszem na rzęsach i jasnym beżowym błyszczykiem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 9,
+    "text": "Który preparat należy nałożyć bezpośrednio przed nałożeniem fluidu wykonując makijaż wieczorowy klientce ze skórą tłustą?",
+    "answers": [
+      "Bazę rozświetlającą.",
+      "Bazę matującą.",
+      "Krem z filtrem UV.",
+      "Krem odżywczy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 10,
+    "text": "Przed przystąpieniem do wykonania u klientki pierwszego zabiegu farbowania brwi i rzęs należy",
+    "answers": [
+      "wykonać test uczuleniowy godzinę przed zabiegiem.",
+      "wykonać test płatkowy dobę przed zabiegiem.",
+      "zaproponować użycie wyłącznie brązowej henny.",
+      "poprosić o przybycie na zabieg bez makijażu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 11,
+    "text": "Zgodnie z zasadami postępowania z narzędziami i przyborami użytymi do zabiegu kosmetycznego, które nie naruszają ciągłości tkanek, należy je kolejno:",
+    "answers": [
+      "umyć pod bieżącą wodą, wytrzeć, zdezynfekować płynem dezynfekcyjnym, opłukać pod bieżącą wodą i wysuszyć.",
+      "oczyścić, umyć pod bieżącą wodą, zdezynfekować płynem dezynfekcyjnym, opłukać w wodzie destylowanej i wysuszyć.",
+      "umyć wodą destylowaną, zanurzyć w środku dezynfekcyjnym, opłukać pod bieżącą wodą i wysuszyć.",
+      "oczyścić, zdezynfekować płynem dezynfekcyjnym, opłukać wodą mineralną i włożyć do sanityzatora."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 12,
+    "text": "Które cechy są charakterystyczne dla cery suchej?",
+    "answers": [
+      "Szarawy odcień i lekki połysk.",
+      "Jasny kolor i cienki, matowy naskórek.",
+      "Żółtawy odcień i prawidłowa elastyczność.",
+      "Ziemisty kolor i nieliczne zaskórniki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 13,
+    "text": "W celu określenia odczynu skóry należy zastosować do diagnozy",
+    "answers": [
+      "dermatoskop.",
+      "kutometr.",
+      "pehametr.",
+      "korneometr."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 14,
+    "text": "Klientce ze skórą naczyniową i wrażliwą podczas zabiegu pielęgnacyjnego twarzy należy zastosować",
+    "answers": [
+      "peeling drobnoziarnisty i przez 5 minut masować.",
+      "peeling gommage i po około 15 minutach zetrzeć.",
+      "mieszankę peelingu ziołowego i po 10 minutach wmasować.",
+      "peeling enzymatyczny i po około 10 minutach zmyć."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 15,
+    "text": "W jakim celu podczas wykonywania zabiegu stosuje się ciepłą maskę sporządzoną z zaparzonego siemienia lnianego, kwiatu lipy i rumianku?",
+    "answers": [
+      "W celu rozjaśnienia przebarwień pigmentacyjnych.",
+      "W celu rozpulchnienia skóry przed jej oczyszczaniem.",
+      "W celu złagodzenia zaczerwienień po mikrodermabrazji.",
+      "W celu zamknięcia porów po oczyszczaniu manualnym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 16,
+    "text": "W zabiegu pielęgnacyjnym delikatnej i cienkiej skóry twarzy z teleangiektazjami u 60-letniej klientki, należy zastosować między innymi:",
+    "answers": [
+      "żel do demakijażu, maskę termiczną i aparat do mikrodermabrazji diamentowej.",
+      "śmietankę do demakijażu, maskę regenerującą i aparat do ultradźwięków.",
+      "płyn micelarny do demakijażu, maskę gipsową i aparat do mikrodermabrazji korundowej.",
+      "piankę do demakijażu, maskę peel-off i aparat do darsonwalizacji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 17,
+    "text": "Który zestaw składników aktywnych należy zalecić klientce w składzie kosmetyków przeznaczonych do pielęgnacji skóry dojrzałej i odwodnionej?",
+    "answers": [
+      "Balsam peruwiański, garbniki, krwawnik i witaminę D.",
+      "Kwas hialuronowy, ceramidy, elastynę i witaminę A.",
+      "Wyciąg z lukrecji, enzymy, żywokost lekarski i witaminę K.",
+      "Żywice, cynk, olejek z drzewa herbacianego i witaminę B1."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 18,
+    "text": "W celu zatuszowania fioletowych cieni pod oczami należy użyć w miejscu ich wystąpienia korektora",
+    "answers": [
+      "w kolorze fluidu, z zielonym odcieniem.",
+      "jaśniejszego od fluidu, z niebieskim odcieniem.",
+      "ciemniejszego od fluidu, z pomarańczowym odcieniem.",
+      "jaśniejszego od fluidu, z żółtym odcieniem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 19,
+    "text": "Klientce z sińcami pod oczami należy zalecić stosowanie w warunkach domowych",
+    "answers": [
+      "kremów pod oczy z wyciągami z arniki i miłorzębu japońskiego.",
+      "zimnych okładów z wyciągami ze skrzypu i lipy na powieki.",
+      "ciepłych kompresów z naparu z szałwii pod oczy.",
+      "żeli pod oczy z ekstraktami ze świetlika lekarskiego i bluszczu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 20,
+    "text": "Użycie prądów d’Arsonvala w obrębie skóry twarzy wskazane jest między innymi bezpośrednio po wykonaniu zabiegu",
+    "answers": [
+      "depilacji pęsetą.",
+      "złuszczania peelingiem ziołowym.",
+      "mezoterapii igłowej.",
+      "eksfoliacji kwasem migdałowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 21,
+    "text": "Regulację łuku brwiowego u klientki należy rozpocząć od",
+    "answers": [
+      "końca do nasady brwi.",
+      "środka do końca brwi.",
+      "nasady do końca brwi.",
+      "środka do nasady brwi."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 22,
+    "text": "Na czym polega między innymi optyczna korekta oczu osadzonych zbyt blisko siebie?",
+    "answers": [
+      "Na naniesieniu jasnego cienia w kącikach wewnętrznych oczu.",
+      "Na naniesieniu ciemnego cienia w kącikach wewnętrznych oczu.",
+      "Na naniesieniu ciemnego cienia pod łukiem brwiowym.",
+      "Na naniesieniu jasnego cienia na środek powieki ruchomej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 23,
+    "text": "Dla którego typu urody charakterystyczne są jasne, błękitne lub szarozielone oczy, blade usta, jasna cera i włosy popielate lub w kolorze chłodnego blondu?",
+    "answers": [
+      "Dla wiosny.",
+      "Dla jesieni.",
+      "Dla zimy.",
+      "Dla lata."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 24,
+    "text": "Pędzle kosmetyczne użyte do makijażu należy kolejno:",
+    "answers": [
+      "przetrzeć płynem do dezynfekcji narzędzi, osuszyć, wysterylizować w autoklawie.",
+      "umyć wodą z mydłem, osuszyć, zdezynfekować płynem na bazie alkoholu, osuszyć.",
+      "wytrzeć chusteczką higieniczną, spryskać płynem do dezynfekcji narzędzi.",
+      "umyć wodą z mydłem, opłukać wodą destylowaną, osuszyć."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 25,
+    "text": "Który efekt powstaje w tkankach pod wpływem działania promieniowania podczerwonego na skórę twarzy?",
+    "answers": [
+      "Fotochemiczny.",
+      "Elektrochemiczny.",
+      "Fototermiczny.",
+      "Elektrokinetyczny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 26,
+    "text": "Przygotowanie i aplikacja maski ściągającej kaolinowej w proszku polega na rozrobieniu jej",
+    "answers": [
+      "z aktywatorem do alg i nałożeniu szpatułką drewnianą.",
+      "z koncentratem ziołowym i nałożeniu palcami.",
+      "z wodą utlenioną i nałożeniu szpatułką silikonową.",
+      "z wodą mineralną i nałożeniu pędzlem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 27,
+    "text": "W celu uzyskania 2 litrów roztworu roboczego środka dezynfekcyjnego o stężeniu 10% należy zmieszać",
+    "answers": [
+      "1900 ml wody i 100 ml środka dezynfekcyjnego.",
+      "1800 ml wody i 20 ml środka dezynfekcyjnego.",
+      "1800 ml wody i 200 ml środka dezynfekcyjnego.",
+      "1900 ml wody i 10 ml środka dezynfekcyjnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 28,
+    "text": "Która lampa jest stosowaną w diagnozie kosmetycznej?",
+    "answers": [
+      "Kwarcowa.",
+      "Sollux.",
+      "Wooda.",
+      "Minina."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 29,
+    "text": "W celu określenia stopnia transepidermalnej utraty wody przez naskórek należy posłużyć się",
+    "answers": [
+      "metodą diaskopii.",
+      "badaniem za pomocą kutometru.",
+      "metodą profilometrii.",
+      "badaniem za pomocą ewaporometru."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 30,
+    "text": "W celu złagodzenia objawów przedawkowania promieniowania UV, należy wykonać naświetlanie lampą Sollux z filtrem",
+    "answers": [
+      "fioletowym.",
+      "przezroczystym.",
+      "niebieskim.",
+      "czerwonym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 31,
+    "text": "Która ze wskazanych substancji złuszczających ma najgłębsze działanie?",
+    "answers": [
+      "Bromelaina.",
+      "Kwas salicylowy.",
+      "Kwas migdałowy.",
+      "Fenol."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 32,
+    "text": "Do oceny którego parametru skóry należy wykorzystać twistometr?",
+    "answers": [
+      "Elastyczności skóry.",
+      "Nawilżenia skóry.",
+      "Natłuszczenia skóry.",
+      "Odczynu skóry."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 33,
+    "text": "Do czego należy zastosować mały, płaski pędzel z naturalnego włosia ze spiczastym zakończeniem?",
+    "answers": [
+      "Do roztarcia cieni na powiekach.",
+      "Do aplikacji fluidu na twarz.",
+      "Do aplikacji pomadki na usta.",
+      "Do nałożenia różu na policzki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 34,
+    "text": "Optyczna korekta opadających zewnętrznych kącików oczu w makijażu polega na wykonaniu",
+    "answers": [
+      "grubych kresek rozpoczynających się w połowie powiek, a kończących się dokładnie w kącikach zewnętrznych oczu.",
+      "kresek na całej długości oczu, w zewnętrznych kącikach oczu grubszych skierowanych lekko w górę.",
+      "bardzo cienkich, długich i prostych kresek, poprowadzonych prosto, poza kąciki zewnętrzne oczu.",
+      "kresek grubszych na środkowych częściach powiek, a cieńszych w kącikach zewnętrznych i wewnętrznych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 35,
+    "text": "W którym zabiegu należy użyć peloty wywołującej wyładowania energii elektromagnetycznej w postaci deszczu iskrowego?",
+    "answers": [
+      "W zabiegu dezinkrustacji.",
+      "W zabiegu ridulizy.",
+      "W zabiegu sonoforezy.",
+      "W zabiegu darsonwalizacji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 36,
+    "text": "Podczas zabiegu galwanizacji stabilnej należy zastosować między innymi",
+    "answers": [
+      "głowicę do ultradźwięków i żel sprzęgający.",
+      "elektrodę wałeczkową i folię aluminiową.",
+      "elektrodę Bergoniego i jałową gazę.",
+      "pelotę szklaną i żel do jonoforezy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 37,
+    "text": "Przeciwwskazaniem do zastosowania metody przedłużania rzęs 1:1 są między innymi",
+    "answers": [
+      "krótkowzroczność i noszenie okularów.",
+      "rzadkie i bardzo jasne rzęsy.",
+      "kreski permanentne na górnych powiekach.",
+      "swędzące i zaczerwienione powieki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 38,
+    "text": "Zabezpieczenie ust klienta wazeliną i oczu płatkami kosmetycznymi jest konieczne przed przystąpieniem do wykonywania",
+    "answers": [
+      "maski alginatowej.",
+      "peelingu kawitacyjnego.",
+      "mikrodermabrazji tlenkiem glinu.",
+      "eksfoliacji kwasem glikolowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 39,
+    "text": "Zgodna z metodyką kolejność ruchów w klasycznym masażu kosmetycznym to:",
+    "answers": [
+      "głaskanie, rozcieranie, ugniatanie, wibracja, oklepywanie.",
+      "głaskanie, rozcieranie, ugniatanie, oklepywanie, wibracja.",
+      "głaskanie, ugniatanie, rozcieranie, oklepywanie, wibracja.",
+      "głaskanie, rozcieranie, oklepywanie, wibracja, ugniatanie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 40,
+    "text": "Do czego między innymi jest przeznaczony aerograf kosmetyczny tzw. airbrush?",
+    "answers": [
+      "Do rozpylania toniku na twarz.",
+      "Do face i body paintingu.",
+      "Do makijażu permanentnego.",
+      "Do waporyzacji skóry twarzy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 41,
+    "text": "Zabieg ujędrniająco-modelujący zwiotczałej skóry biustu należy wykonać w kolejności:",
+    "answers": [
+      "peeling, masaż, maska odżywcza, maska gipsowa.",
+      "masaż, peeling, maska gipsowa, maska odżywcza.",
+      "peeling, maska gipsowa, masaż, maska odżywcza.",
+      "masaż, peeling, maska odżywcza, maska gipsowa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 42,
+    "text": "Klientce z zespołem stopy cukrzycowej leczącej się w poradni diabetologicznej należy zalecić w pielęgnacji domowej",
+    "answers": [
+      "codzienne, długotrwałe moczenie stóp w ciepłej wodzie.",
+      "mycie stóp w wodzie o temperaturze około 37°C.",
+      "stosowanie poduszki elektrycznej do rozgrzewania stóp.",
+      "kąpiele rozgrzewające stóp."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 43,
+    "text": "W terapii antycellulitowej należy zastosować maski zawierające w swoim składzie ekstrakty roślinne",
+    "answers": [
+      "z brzozy i szałwii lekarskiej.",
+      "z lawendy lekarskiej i dziurawca zwyczajnego.",
+      "z ostrokrzewu paragwajskiego i bluszczu.",
+      "z mącznicy lekarskiej i rumianku."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 44,
+    "text": "Klientce z cellulitem na udach i pośladkach należy zalecić w pielęgnacji domowej stosowanie",
+    "answers": [
+      "balsamów z kwasem hialuronowym oraz noszenie rajstop uciskowych.",
+      "masek z ekstraktem z szałwii oraz kąpieli wirowych stóp w solankach.",
+      "peelingów ziarnistych oraz automasaży na bazie emulsji z kofeiną.",
+      "balsamów z ekstraktem z łopianu oraz gimnastykę rozciągającą."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 45,
+    "text": "Naświetlanie lampą Sollux z czerwonym filtrem należy wykonać w celu",
+    "answers": [
+      "przyspieszenia gojenia miejsc, które wcześniej uległy odmrożeniu.",
+      "złagodzenia skutków nadmiernego opalania.",
+      "przyspieszenia wysychania maski ściągającej.",
+      "uspokojenia skóry podrażnionej depilacją woskiem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 46,
+    "text": "Zużyty do depilacji wosk twardy należy",
+    "answers": [
+      "poddać procesowi podgrzania i filtracji.",
+      "zdezynfekować preparatem alkoholowym.",
+      "umieścić w pojemniku na odpady medyczne.",
+      "wyrzucić do kosza na odpady komunalne."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 47,
+    "text": "Klientce z problemem szorstkości łokci należy zalecić do stosowania w warunkach domowych kremów",
+    "answers": [
+      "z witaminą D.",
+      "z witaminą K.",
+      "z witaminą A.",
+      "z witaminą B."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 48,
+    "text": "Uczulenie na światło słoneczne jest przeciwwskazaniem do wykonania",
+    "answers": [
+      "helioterapii.",
+      "krioterapii.",
+      "hydroterapii.",
+      "presoterapii."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 49,
+    "text": "W celu dezynfekcji narzędzi przygotowując je do czynności sterylizacji przed planowanym zabiegiem pedicure należy użyć preparatu chemicznego",
+    "answers": [
+      "w autoklawie.",
+      "w sterylizatorze kulkowym.",
+      "w myjce utradźwiękowej.",
+      "w sanityzatorze."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 50,
+    "text": "W celu wzmocnienia mięśni oraz wymodelowania sylwetki należy zastosować aparat do",
+    "answers": [
+      "oxybrazji.",
+      "elektrostymulacji.",
+      "darsonwalizacji.",
+      "brushingu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 51,
+    "text": "W celu wyjałowienia narzędzi mogących naruszyć ciągłość skóry należy zastosować metodę sterylizacji",
+    "answers": [
+      "radiacyjnej.",
+      "termicznej.",
+      "ultradźwiękowej.",
+      "promieniami UV."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 52,
+    "text": "Klientce z objawem tzw. brudnych kolan należy zaproponować w pielęgnacji domowej między innymi stosowanie",
+    "answers": [
+      "ciepłych natrysków.",
+      "peelingów solnych.",
+      "zimnych okładów.",
+      "żeli limfodrenujących."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 53,
+    "text": "Którą metodę należy zastosować w celu wykonania zabiegu redukującego cellulit tłuszczowy przy użyciu głowicy emitującej ultradźwięki?",
+    "answers": [
+      "Koagulacji.",
+      "Lipolizy.",
+      "Brushingu.",
+      "Pulweryzacji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 54,
+    "text": "Pilnik o gradacji ziarna o wartości 320 i powyżej należy zastosować do",
+    "answers": [
+      "skrócenia i modelowania masy akrylowej na paznokciach.",
+      "opracowania wału paznokciowego oraz usunięcia obrąbka.",
+      "wypolerowania powierzchni płytki paznokciowej.",
+      "skrócenia i wyrównania brzegu płytki paznokciowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 55,
+    "text": "Przeciwskazaniem do wykonania zabiegu pielęgnacyjnego na zniszczoną i suchą skórę dłoni klientki z wykorzystaniem okluzji z ciepłej maski parafinowej jest",
+    "answers": [
+      "hipopigmentacja skóry rąk.",
+      "hiperpigmentacja skóry rąk.",
+      "zwiotczenie zewnętrznych powierzchni dłoni.",
+      "kandydoza wewnętrznych powierzchni dłoni."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 56,
+    "text": "Klientce ze skłonnością do pojawiania się opuchnięć w okolicy kostek należy zalecić do stosowania w warunkach domowych moczenie stóp w wodzie z solą o działaniu",
+    "answers": [
+      "regenerującym.",
+      "normalizującym.",
+      "relaksującym.",
+      "złuszczającym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 57,
+    "text": "Przed wykonaniem na ciało klientki zabiegu endermologii należy bezwzględnie",
+    "answers": [
+      "wykonać klientce peeling scrub.",
+      "poprosić klientkę o założenie specjalnego kostiumu.",
+      "przygotować podkłady bezpośrednie.",
+      "nanieść na ciało klientki żel sprzęgający."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 58,
+    "text": "Do wykonania zabiegu normalizującego skórę pleców z trądzikiem pospolitym wskazane są preparaty zawierające olejek",
+    "answers": [
+      "neroli.",
+      "sosnowy.",
+      "herbaciany.",
+      "cynamonowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 59,
+    "text": "W celu przygotowania głowicy dermomasażera do zabiegu należy zastosować metodę niszczenia drobnoustrojów z użyciem",
+    "answers": [
+      "ultradźwięków.",
+      "pary wodnej.",
+      "promieniowania ultrafioletowego.",
+      "środków chemicznych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 60,
+    "text": "Wykonując masaż piersi, należy zastosować kolejno techniki:",
+    "answers": [
+      "głaskania, oklepywania, rozcierania, ugniatania.",
+      "głaskania, ugniatania, rozcierania, oklepywania.",
+      "głaskania, rozcierania, ugniatania, oklepywania.",
+      "rozcierania, głaskania, ugniatania, oklepywania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 61,
+    "text": "W zabiegu pielęgnacyjnym dłoni w celu odbudowy zniszczonego detergentami płaszcza hydrolipidowego skóry, należy zastosować między innymi",
+    "answers": [
+      "balsam z olejem rycynowym i ekstraktem z mięty.",
+      "maskę z wyciągiem z pokrzywy i związkami cynku.",
+      "żel z ekstraktem z nagietka i związkami srebra.",
+      "krem z olejem arganowym i mocznikiem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 62,
+    "text": "W przypadku stosowania techniki labilnej w terapii podciśnieniowej kończyn dolnych należy",
+    "answers": [
+      "ugniatać skórę głowicą w różnych kierunkach.",
+      "przesuwać głowicę wolno aż do wystąpienia odczucia bólu.",
+      "głowicę prowadzić w kierunku od serca do węzłów chłonnych dystalnych.",
+      "głowicę prowadzić w kierunku dosercowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 63,
+    "text": "Przyjmowanie leków na bazie izotretynoiny jest przeciwwskazaniem do wykonania",
+    "answers": [
+      "hydromasażu stóp.",
+      "depilacji cukrowej.",
+      "zabiegu parafinowego.",
+      "kąpieli elektryczno-wodnej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 64,
+    "text": "Preparat, z którym z wymienionych składników aktywnych należy zalecić klientce w celu pojędrnienia skóry biustu w warunkach domowych?",
+    "answers": [
+      "Z jonami cynku.",
+      "Z fitohormonami soi.",
+      "Z kwasem salicylowym.",
+      "Z jonami srebra."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 65,
+    "text": "Przygotowując klientkę do wykonania terapii podciśnieniowej labilnej skórę pośladków należy bezpośrednio przed przyłożeniem głowicy",
+    "answers": [
+      "przetrzeć środkiem dezynfekującym.",
+      "osuszyć ręcznikiem jednorazowym.",
+      "posmarować środkiem poślizgowym.",
+      "zwilżyć wodą termalną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 66,
+    "text": "Która metoda diagnostyczna stosowana w zabiegach antycellulitowych umożliwia określenie zawartości wody, tkanki tłuszczowej i mięśni w organizmie?",
+    "answers": [
+      "Wideokapilaroskopii.",
+      "Profilometrii pośredniej.",
+      "Termografii.",
+      "Bioimpedancji elektrycznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 67,
+    "text": "Kontrolowaną hipotermię należy zastosować w zabiegu",
+    "answers": [
+      "helioterapii.",
+      "krioterapii.",
+      "liposukcji.",
+      "endermologii."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 68,
+    "text": "Klientce z problemem suchej skóry stóp oraz tendencją do powstawania pęknięć w okolicy pięt należy zaproponować balsam",
+    "answers": [
+      "z chlorkiem glinu.",
+      "z mocznikiem i lanoliną.",
+      "z olejkiem cynamonowym i melisą.",
+      "z olejkiem miętowym i arniką górską."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 69,
+    "text": "U klientki, u której zdiagnozowany został problem tzw. ciężkich nóg należy wykonać zabieg o działaniu",
+    "answers": [
+      "drenującym.",
+      "zmiękczającym.",
+      "uelastyczniającym.",
+      "wygładzającym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 70,
+    "text": "Pelota łukowa w zabiegu darsonwalizacji jest przeznaczona do stosowania na skórze",
+    "answers": [
+      "twarzy i dekoltu.",
+      "pleców.",
+      "dłoni.",
+      "szyi i ramion."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 71,
+    "text": "Masaż stóp należy wykonywać w kolejności:",
+    "answers": [
+      "rozcieranie strony grzbietowej, gimnastyka bierna, rozcieranie strony podeszwowej.",
+      "rozcieranie strony podeszwowej, gimnastyka bierna, głaskanie strony grzbietowej.",
+      "głaskanie strony grzbietowej, rozcieranie strony podeszwowej, gimnastyka bierna.",
+      "gimnastyka bierna, głaskanie strony podeszwowej, rozcieranie strony grzbietowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 72,
+    "text": "Który zabieg należy wykonać klientce z problemem nadmiernej keratynizacji naskórka w obrębie skóry stóp?",
+    "answers": [
+      "Limfodrenujący.",
+      "Hydromineralny.",
+      "Detoksykująco-normalizujący.",
+      "Złuszczająco-regenerujący."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 73,
+    "text": "Korygując kształt kwadratowych płytek paznokciowych, należy nałożyć",
+    "answers": [
+      "jasny lakier na całe płytki.",
+      "ciemny lakier na całe płytki.",
+      "jasny lakier z pominięciem obłączków paznokci.",
+      "ciemny lakier tylko na środek płytek."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 74,
+    "text": "U klientki z suchą, zniszczoną detergentami skórą dłoni wskazane jest wykonanie zabiegu",
+    "answers": [
+      "guam.",
+      "z błota algowego.",
+      "parafango.",
+      "parafinowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 75,
+    "text": "Do wykonania manicure biologicznego u klientki należy przygotować między innymi",
+    "answers": [
+      "cążki do skórek i dłutko.",
+      "gilotynę i frezarkę.",
+      "patyczek drewniany i cęgi kątowe.",
+      "remover i patyczek drewniany."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 76,
+    "text": "Przystępując do zabiegu pedicure, czynność usunięcia lakieru z płytki paznokciowej stóp należy wykonać bezpośrednio po",
+    "answers": [
+      "wymoczeniu.",
+      "dezynfekcji.",
+      "peelingu.",
+      "masażu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 77,
+    "text": "Klientce z problemem łamliwych, kruchych, rozdwajających się paznokci oraz suchych, zniszczonych skórek okołopaznokciowych należy zaproponować wykonanie manicure",
+    "answers": [
+      "chevron.",
+      "french.",
+      "japońskiego.",
+      "na ciepło."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 78,
+    "text": "W celu wzmocnienia paznokci z tendencją do łamliwości i rozdwajania się należy zastosować preparat zawierający",
+    "answers": [
+      "glinkę.",
+      "krzemionkę.",
+      "związki siarki.",
+      "związki cynku."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 79,
+    "text": "Najtrwalszą metodą usuwania owłosienia pod pachami jest depilacja",
+    "answers": [
+      "woskiem twardym.",
+      "pastą cukrową.",
+      "laserowa.",
+      "nitkowa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 80,
+    "text": "Zdobienie paznokci z użyciem lakierożelu światłoutwardzalnego należy wykonać w manicure",
+    "answers": [
+      "tradycyjnym.",
+      "biologicznym.",
+      "japońskim.",
+      "hybrydowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 81,
+    "text": "Które narzędzia należy zastosować podczas wykonywania pedicure leczniczego?",
+    "answers": [
+      "Blok polerski i patyczki do skórek.",
+      "Pilnik i nożyczki do skórek.",
+      "Tarkę do stóp i separatory międzypalcowe.",
+      "Skalpel i cęgi kątowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 82,
+    "text": "Podczas badania skóry objętej cellulitem należy zastosować",
+    "answers": [
+      "ewaporymetrię.",
+      "ultrasonografię.",
+      "profilometrię.",
+      "meksametrię."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 83,
+    "text": "Jaką nazwę nosi metoda służąca do określenia barwy skóry?",
+    "answers": [
+      "Ekstensometria.",
+      "Termografia.",
+      "Profilometria.",
+      "Diaskopia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 84,
+    "text": "Którą maskę należy zastosować w zabiegu ujędrniająco-modelującym na biust?",
+    "answers": [
+      "Z błota algowego.",
+      "Hydrożelową.",
+      "Algowo-gipsową.",
+      "Z glinką zieloną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 85,
+    "text": "W zabiegu pielęgnacyjnym skóry stóp czynności należy wykonać w kolejności:",
+    "answers": [
+      "masaż, maska, peeling, krem.",
+      "peeling, masaż, maska, krem.",
+      "krem, peeling, maska, masaż.",
+      "maska, masaż, peeling, krem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 86,
+    "text": "Zawijanie folią w zabiegu body wrapping całego ciała należy wykonywać w kolejności:",
+    "answers": [
+      "kończyny dolne, brzuch, kończyny górne.",
+      "brzuch, kończyny górne, kończyny dolne.",
+      "kończyny górne, kończyny dolne, brzuch.",
+      "lewa, a następnie prawa strona ciała."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 87,
+    "text": "Wykonując zabieg relaksacyjny całego ciała, wskazane jest zastosowanie masażu",
+    "answers": [
+      "Jacqueta.",
+      "kamieniami.",
+      "izometrycznego.",
+      "limfatycznego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 88,
+    "text": "Który zabieg należy zaproponować klientce w celu zmniejszenia objawów cellulitu i likwidacji obrzęków?",
+    "answers": [
+      "Eksfoliacji.",
+      "Body wrappingu.",
+      "Mikrodermabrazji.",
+      "Helioterapii."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 89,
+    "text": "Który zabieg należy zalecić klientce z objawami zastoju płynów w kończynach dolnych?",
+    "answers": [
+      "Presoterapii.",
+      "Galwanizacji katodowej.",
+      "Galwanizacji anodowej.",
+      "Helioterapii."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 90,
+    "text": "W celu optycznego wyszczuplenia płytek paznokciowych prostokątnych należy nałożyć lakier",
+    "answers": [
+      "ciemny na środkowe części płytek.",
+      "ciemny na całą powierzchnię płytek.",
+      "perłowy na całą powierzchnię płytek.",
+      "bardzo jasny na środkowe części płytek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 91,
+    "text": "Po zabiegu lipolizy ultradźwiękowej klientka powinna",
+    "answers": [
+      "energicznie oklepywać ciało.",
+      "zgłosić się na serię zabiegów elektrostymulacji.",
+      "pić zwiększoną ilość płynów.",
+      "intensywnie trenować."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 92,
+    "text": "Klientce z problemem opuchniętych stóp należy zalecić stosowanie balsamu",
+    "answers": [
+      "z nanosrebrem i wyciągiem z szałwii.",
+      "z wyciągiem z kasztanowca i arniki.",
+      "z kwasami owocowymi i mocznikiem.",
+      "z olejkiem z rozmarynu i D-pantenolem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 93,
+    "text": "Który z zabiegów można wykonać zarówno techniką kontaktową jak i bezkontaktową?",
+    "answers": [
+      "Elektrostymulację.",
+      "Laseroterapię.",
+      "Galwanizację.",
+      "Endermologię."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 94,
+    "text": "W celu opóźnienia odrostu włosów po depilacji woskiem należy zastosować preparat zawierający wyciąg",
+    "answers": [
+      "z mydlnicy.",
+      "z rumianku.",
+      "z aloesu.",
+      "z papai."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 95,
+    "text": "Kliny międzypalcowe należy zastosować podczas korekty",
+    "answers": [
+      "wrastających paznokci.",
+      "nagniotków.",
+      "modzeli.",
+      "halluksów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 96,
+    "text": "Przed przystąpieniem do wykonania zabiegu lipolizy ultradźwiękowej skórę klientki objętą cellulitem należy",
+    "answers": [
+      "zwilżyć wodą.",
+      "pokryć żelem sprzęgającym.",
+      "natłuścić olejem migdałowym.",
+      "dokładnie odtłuścić."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 97,
+    "text": "W zabiegu odżywczo-regenerującym na stopy należy zastosować maskę",
+    "answers": [
+      "z woskiem pszczelim.",
+      "z melisą.",
+      "z olejkiem cynamonowym.",
+      "ze skrzypem polnym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 98,
+    "text": "Podczas masażu bańką chińską należy wykonywać ruchy",
+    "answers": [
+      "popychania po skórze pokrytej środkiem poślizgowym.",
+      "ciągnięcia po suchej skórze.",
+      "ciągnięcia po skórze pokrytej środkiem poślizgowym.",
+      "popychania po suchej skórze."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 99,
+    "text": "W masażu relaksacyjnym całego ciała należy zastosować kolejno techniki:",
+    "answers": [
+      "głaskania, rozcierania, oklepywania.",
+      "głaskania, rozcierania, ugniatania.",
+      "głaskania, oklepywania, wałkowania.",
+      "głaskania, oklepywania, wibracji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 100,
+    "text": "Do czego należy użyć polerki zielonej w manicure japońskim?",
+    "answers": [
+      "Do zmatowienia powierzchni płytek.",
+      "Do skrócenia i nadania kształtu paznokciom.",
+      "Do nałożenia i wtarcia pudru.",
+      "Do wtarcia pasty ze składnikami odżywczymi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 101,
+    "text": "Do domowej pielęgnacji klientce z problemem pękających pięt należy zalecić preparaty zawierające",
+    "answers": [
+      "mocznik i D-pantenol.",
+      "tlenek cynku i mentol.",
+      "krzem i talk.",
+      "kaolin i borowinę."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 102,
+    "text": "Kiedy należy nałożyć maskę odżywczą w zabiegu SPA na szorstkie dłonie?",
+    "answers": [
+      "Na zakończenie zabiegu.",
+      "Po zanurzeniu rąk w parafinie.",
+      "Przed zanurzeniem rąk w parafinie.",
+      "Przed wykonaniem peelingu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 103,
+    "text": "Jeżeli klientka ma problemem z miejscowym nagromadzeniem tkanki tłuszczowej, to należy zalecić jej",
+    "answers": [
+      "galwanizację.",
+      "elektrostymulację.",
+      "kawitację.",
+      "kompresoterapię."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 104,
+    "text": "Kiedy należy wykonać rozgrzewanie promieniowaniem IR w zabiegu redukującym szorstkość skóry ramion?",
+    "answers": [
+      "Przed wykonaniem peelingu.",
+      "Bezpośrednio na zmytą skórę.",
+      "Przed nałożeniem kataplazmy.",
+      "Po zmyciu kataplazmy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 105,
+    "text": "W pielęgnacji gabinetowej kończyn dolnych ze schorzeniem stawów, kości i mięśni w celu złagodzenia bólu należy zastosować preparaty zawierające w składzie między innymi",
+    "answers": [
+      "glinkę zieloną.",
+      "olejek cynamonowy.",
+      "mocznik.",
+      "borowinę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 106,
+    "text": "Klientce z płytkami paznokciowymi w kształcie trójkąta należy zaproponować nałożenie lakieru na",
+    "answers": [
+      "całe płytki, od macierzy paznokci.",
+      "środkowe części płytek, przy końcach paznokci.",
+      "całe płytki, z pominięciem szerszych partii przy macierzy.",
+      "całe płytki, omijając obłączki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 107,
+    "text": "W celu wykonania zabiegu złuszczającego martwe komórki naskórka należy zastosować aparat do",
+    "answers": [
+      "elektrolizy.",
+      "oxybrazji.",
+      "mezoterapii.",
+      "lipolizy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 108,
+    "text": "Z której czynności należy zrezygnować podczas wykonywania pedicure u klienta z cukrzycą?",
+    "answers": [
+      "Z dezynfekcji stóp.",
+      "Z usunięcia zrogowaciałego naskórka frezarką.",
+      "Z nałożenia preparatu chemicznego na nagniotki.",
+      "Ze skrócenia paznokci."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 109,
+    "text": "Co jest przeciwwskazaniem do wykonania zabiegu pielęgnacyjnego biustu?",
+    "answers": [
+      "Wciągnięta brodawka sutka.",
+      "Wiotka skóra biustu.",
+      "Biust opadający.",
+      "Ciemny kolor brodawki sutka."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 110,
+    "text": "Wykonanie którego zabiegu należy zaproponować klientowi z ostrogą piętową?",
+    "answers": [
+      "Jonoforezy z siarczanem miedzi.",
+      "Kąpieli zmiennocieplnej.",
+      "Presoterapii.",
+      "Sonoterapii."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 111,
+    "text": "W klasycznym zdobieniu paznokci typu french, biały lakier nakłada się",
+    "answers": [
+      "zgodnie z linią wolnego brzegu paznokcia.",
+      "na wolny brzeg płytki paznokcia w kształcie litery V.",
+      "na wolny brzeg płytki paznokcia w kształcie odwróconej litery V.",
+      "u podstawy płytki paznokciowej zgodnie z przebiegiem lunuli (obłączka)."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 112,
+    "text": "Do wykonania opatrunku zmniejszającego stan zapalny w przypadku wrastających paznokci należy zastosować metodę z wykorzystaniem",
+    "answers": [
+      "ortezy.",
+      "klamry.",
+      "tamponady.",
+      "wkładki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 113,
+    "text": "Klientce z problemem nadmiernej potliwości dłoni należy zalecić",
+    "answers": [
+      "stosowanie maści ichtiolowej.",
+      "złuszczanie skóry peelingiem z soli z dodatkiem oliwy.",
+      "wcieranie kilka razy dziennie preparatów z zawartością witaminy A.",
+      "moczenie dłoni w wywarze z kory dębu i naparze z szałwii."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 114,
+    "text": "Którym aparatem należy posłużyć się w celu uzyskania efektu opalenizny całego ciała bez narażania skóry na działanie promieniowania ultrafioletowego?",
+    "answers": [
+      "Galwanem.",
+      "Chromatografem.",
+      "Meksametrem.",
+      "Aerografem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 115,
+    "text": "Do wyjałowienia głowicy po zabiegu mikrodermabrazji diamentowej należy zastosować sterylizację",
+    "answers": [
+      "za pomocą środków chemicznych.",
+      "gazową.",
+      "parą wodną pod ciśnieniem.",
+      "suchym gorącym powietrzem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 116,
+    "text": "W zabiegu epilacji laserowej wykorzystywany jest zachodzący w tkance efekt",
+    "answers": [
+      "fotoablacyjny.",
+      "biostymulacyjny.",
+      "fotodynamiczny.",
+      "fototermiczny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 117,
+    "text": "Do którego zabiegu wykorzystywana jest głowica zbudowana z dwóch niezależnie poruszających się rolek, pomiędzy które zasysany jest fałd skórny?",
+    "answers": [
+      "Do vacuum metodą stabilną.",
+      "Do vacuum metodą labilną.",
+      "Do dermomasażu.",
+      "Do endermologii."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 118,
+    "text": "Którą metodę należy zastosować w celu zmniejszenia widoczności rozstępów na przedramionach?",
+    "answers": [
+      "Elektrostymulacji.",
+      "Mikrodermabrazji.",
+      "Termolizy.",
+      "Dezinkrustacji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 119,
+    "text": "Klientce z objawami cellulitu do domowej pielęgnacji kończyn dolnych należy zaproponować stosowanie balsamu w wyciągiem",
+    "answers": [
+      "z miłorzębu japońskiego.",
+      "z rumianku.",
+      "z dziurawca zwyczajnego.",
+      "z mącznicy lekarskiej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 120,
+    "text": "W celu zmniejszenia obrzęków okolicy stóp zaleca się stosowanie kosmetyków zawierających w składzie między innymi",
+    "answers": [
+      "bromelainę i tiaminę.",
+      "mocznik i bisabolol.",
+      "wyciąg z arniki i kasztanowca.",
+      "wyciąg z pokrzywy i kory dębu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 121,
+    "text": "W celu wykonania manualnego drenażu limfatycznego należy zastosować techniki:",
+    "answers": [
+      "głaskania, ucisków, oklepywania.",
+      "głaskania, ugniatania, wstrząsania.",
+      "głaskania, rozcierania, ucisków.",
+      "głaskania, rozcierania, wibracji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 122,
+    "text": "Klientce z problemem pobruzdowanych, łamliwych paznokci należy wykonać manicure",
+    "answers": [
+      "klasyczny.",
+      "japoński.",
+      "hybrydowy.",
+      "frezarkowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 123,
+    "text": "W celu wypolerowania powierzchni płytki paznokciowej należy użyć pilnika o gradacji",
+    "answers": [
+      "180.",
+      "100.",
+      "400.",
+      "120."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 124,
+    "text": "Klientce, która przyszła na zdobienie paznokci lakierożelem światłoutwardzalnym należy wykonać manicure",
+    "answers": [
+      "hybrydowy.",
+      "biologiczny.",
+      "japoński.",
+      "klasyczny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 125,
+    "text": "W celu usunięcia komórek tłuszczowych z okolicy pośladków klientki należy zastosować aparat do",
+    "answers": [
+      "presoterapii.",
+      "lipolizy ultradźwiękowej.",
+      "mikrodermabrazji.",
+      "elektrostymulacji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 126,
+    "text": "Zabieg manicure’u na ciepło należy wykonać w kolejności:",
+    "answers": [
+      "opiłowanie paznokci, kąpiel paznokci, odsunięcie skórek, diagnoza, zmycie lakieru.",
+      "kąpiel paznokci, opiłowanie paznokci, nałożenie maski, zmycie lakieru.",
+      "zmycie lakieru, diagnoza, opiłowanie paznokci, odsunięcie skórek, kąpiel paznokci.",
+      "odsunięcie skórek, nałożenie maski odżywczej, diagnoza, zmycie lakieru, masaż."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 127,
+    "text": "W celu naniesienia na paznokcie wzorów z wykorzystaniem płytki zaprezentowanej na zamieszczonej ilustracji należy posłużyć się",
+    "answers": [
+      "pęsetą.",
+      "pędzlem.",
+      "gąbką.",
+      "stemplem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk04/a62_plytka.png"
+    },
+    "category": "FRK.04"
+  },
+  {
+    "id": 128,
+    "text": "W celu przygotowania skóry do terapii podciśnieniowej metodą labilną należy",
+    "answers": [
+      "nanieść na skórę żel sprzęgający.",
+      "nanieść na skórę środek poślizgowy.",
+      "usunąć owłosienie woskiem cukrowym.",
+      "zwilżyć powierzchnię zabiegową wodą."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 129,
+    "text": "Klientce z kwadratową płytką paznokciową należy wysmuklić optycznie paznokcie poprzez",
+    "answers": [
+      "opiłowanie na krótko i pomalowanie paznokci z pominięciem obłączka.",
+      "nadanie kształtu trójkąta i pomalowanie paznokci lakierem perłowym.",
+      "nadanie kształtu migdała i pomalowanie paznokci we wzory geometryczne.",
+      "podpiłowanie boków z zaokrągleniem i polakierowanie paznokci z marginesami po bokach."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 130,
+    "text": "W zabiegu podnoszącym biust należy zastosować maskę",
+    "answers": [
+      "z allantoiną.",
+      "z siarczanem wapnia.",
+      "z aloesem.",
+      "z kwasem hialuronowym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 131,
+    "text": "Przed wykonaniem zabiegu endermologii na ciało klientki należy bezwzględnie",
+    "answers": [
+      "przygotować podkłady bezpośrednie.",
+      "wykonać klientce peeling drobnoziarnisty.",
+      "nanieść na ciało klientki żel sprzęgający.",
+      "poprosić klientkę o założenie specjalnego kostiumu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 132,
+    "text": "Masaż dłoni i przedramienia należy wykonywać w kolejności:",
+    "answers": [
+      "rozcieranie, głaskanie, oklepywanie.",
+      "głaskanie, ugniatanie, rozcieranie.",
+      "głaskanie, rozcieranie, ugniatanie.",
+      "oklepywanie, głaskanie, rozcieranie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 133,
+    "text": "Do wprowadzenia substancji aktywnych w głąb tkanek z wykorzystaniem zjawiska elektroporacji należy posłużyć się aparatem do",
+    "answers": [
+      "jonoforezy.",
+      "kawitacji.",
+      "brashingu.",
+      "mezoterapii."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 134,
+    "text": "Cążki użyte do wykonania zabiegu manicure należy poddać sterylizacji",
+    "answers": [
+      "w autoklawie parowym.",
+      "w sterylizatorze kulkowym.",
+      "w sanityzatorze UV.",
+      "w wanience dezynfekcyjnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 135,
+    "text": "Klientowi z problemem nadmiernej potliwości stóp, należy zalecić moczenie stóp w naparze",
+    "answers": [
+      "z lipy i prawoślazu.",
+      "z szałwii i pokrzywy.",
+      "z chabra i krwawnika.",
+      "z nagietka i arniki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 136,
+    "text": "Klientce z cellulitem wskazane jest wykonanie",
+    "answers": [
+      "darsonwalizacji.",
+      "dezinkrustacji.",
+      "kriolipolizy.",
+      "termolizy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 137,
+    "text": "W zdobieniu paznokci typu chevron french, na wolny brzeg paznokcia nakłada się biały lakier w kształcie",
+    "answers": [
+      "litery C.",
+      "litery U.",
+      "litery L.",
+      "litery V."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 138,
+    "text": "W pielęgnacji domowej stóp z tendencją do pękania skóry pięt, należy polecić stosowanie do kąpieli sól zawierającą w składzie",
+    "answers": [
+      "wyciąg z kasztanowca.",
+      "kamforę.",
+      "ekstrakt z guarany.",
+      "związki srebra."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 139,
+    "text": "W zabiegu limfodrenującym na stopy należy zastosować maskę",
+    "answers": [
+      "z glinką zieloną.",
+      "algową plastyczną.",
+      "z kwasami AHA.",
+      "borowinową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 140,
+    "text": "Do wyjałowienia cążek po zabiegu manicure należy zastosować sterylizację",
+    "answers": [
+      "niskotemperaturową.",
+      "wysokotemperaturową.",
+      "radiacyjną.",
+      "gazową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 141,
+    "text": "Przeciwwskazaniem do zabiegu presoterapii jest",
+    "answers": [
+      "ociężałość stóp.",
+      "niewydolność oddechowa.",
+      "obrzęk pourazowy.",
+      "cellulit wodny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 142,
+    "text": "Ruch głaskania w masażu stopy po rozprowadzeniu preparatu należy rozpocząć od",
+    "answers": [
+      "głaskania strony grzbietowej i podeszwowej każdego palca po kolei w kierunku serca.",
+      "głaskania ścięgna Achillesa w kierunku serca.",
+      "głaskania bocznych stron stopy oburącz jednocześnie od nasady palców w kierunku pięty.",
+      "głaskania strony podeszwowej stopy od nasady palców do krawędzi pięty."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 143,
+    "text": "Klientce z problemem suchej i pękającej skóry na piętach należy zalecić stosowanie preparatów zawierających między innymi",
+    "answers": [
+      "ekstrakty z nagietka i szałwii.",
+      "wyciągi z kasztanowca i arniki.",
+      "oligopeptydy i prowitaminę B5.",
+      "wyciągi z lawendy i miłorzębu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 144,
+    "text": "W celu diagnozy poziomu nawilżenia skóry biustu u klientki należy zastosować",
+    "answers": [
+      "korneometr.",
+      "dermatoskop.",
+      "ekstensometr.",
+      "profilometr."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 145,
+    "text": "Szklaną pelotę przed zabiegiem darsonwalizacji należy",
+    "answers": [
+      "wysterylizować w autoklawie.",
+      "przetrzeć wilgotną gazą.",
+      "poddać działaniu gorącego powietrza.",
+      "zdezynfekować preparatem chemicznym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 146,
+    "text": "Klientce z objawami okołomieszkowego rogowacenia skóry ramion należy zalecić do stosowania w domu preparat z zawartością",
+    "answers": [
+      "witaminy F.",
+      "witaminy H.",
+      "witaminy A.",
+      "witaminy K."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 147,
+    "text": "Do wykonania zabiegu pielęgnacyjnego na stopach z nadmierną potliwością wskazane są preparaty zawierające",
+    "answers": [
+      "olejek z szałwii lekarskiej.",
+      "olej jojoba.",
+      "olejek z kory cynamonu.",
+      "olej winogronowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 148,
+    "text": "W zabiegu manicure’u pielęgnacyjno-upiększającym paznokcie należy pomalować",
+    "answers": [
+      "przed odepchnięciem i wycięciem skórek.",
+      "przed nałożeniem maski parafinowej.",
+      "po zdjęciu maski parafinowej.",
+      "bezpośrednio po opiłowaniu paznokci."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 149,
+    "text": "Zużyte podczas usuwania zaskórników igły należy",
+    "answers": [
+      "wyrzucić do kosza na odpady zmieszane.",
+      "umieścić w pojemniku na odpady medyczne.",
+      "zdezynfekować preparatem alkoholowym.",
+      "poddać procesowi sterylizacji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 150,
+    "text": "Do wypolerowania powierzchni naturalnej płytki paznokciowej należy zastosować frez",
+    "answers": [
+      "stalowy.",
+      "filcowy.",
+      "korundowy.",
+      "diamentowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 151,
+    "text": "Manicure biologiczny należy wykonać w kolejności:",
+    "answers": [
+      "zmycie lakieru, opiłowanie paznokci, nałożenie removera, odepchnięcie skórek, odtłuszczenie płytki, lakierowanie, nałożenie oliwki na skórki.",
+      "nałożenie removera, odepchnięcie skórek, opiłowanie paznokci, lakierowanie, nałożenie oliwki na skórki, odtłuszczenie płytki.",
+      "odtłuszczenie płytki, odepchnięcie skórek, zmycie lakieru, opiłowanie paznokci, lakierowanie, nałożenie removera na skórki.",
+      "odepchnięcie skórek, zmycie lakieru, nałożenie oliwki na skórki, opiłowanie paznokci, odtłuszczenie płytki, lakierowanie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 152,
+    "text": "Klientce z otyłością ramion należy zalecić do pielęgnacji domowej",
+    "answers": [
+      "stosowanie na skórę preparatów z witaminą A.",
+      "kąpiel całego ciała w wodzie z dodatkiem oliwy i soku z cytryny.",
+      "złuszczanie skóry peelingami solnymi.",
+      "wmasowywanie w skórę preparatów na bazie alg morskich."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 153,
+    "text": "Klientce z problemem odparzonych stóp należy polecić w pielęgnacji domowej stosowanie",
+    "answers": [
+      "plastrów na nagniotki.",
+      "kąpieli ziołowej z kory dębu.",
+      "maski kaolinowej.",
+      "peelingu enzymatycznego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 154,
+    "text": "W zabiegu, którego celem jest wspomaganie terapii antycellulitowej przy użyciu prądów impulsowych, należy zastosować",
+    "answers": [
+      "lipomasażer.",
+      "elektrostymulator.",
+      "galwan.",
+      "dermomasażer."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 155,
+    "text": "Przeciwwskazaniem do wykonania masażu bańką chińską jest zdiagnozowanie u klienta",
+    "answers": [
+      "rozstępów.",
+      "nadwagi i cellulitu.",
+      "stanów zapalnych mięśni i stawów.",
+      "kruchości naczyń krwionośnych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 156,
+    "text": "Wykonując zabieg naświetlania lampą Sollux, stosuje się",
+    "answers": [
+      "promieniowanie UVB.",
+      "promieniowanie podczerwone.",
+      "promieniowanie UVA.",
+      "promieniowanie laserowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 157,
+    "text": "Do diagnozy poziomu nawilżenia skóry biustu i dekoltu u klientki należy zastosować",
+    "answers": [
+      "korneometr.",
+      "ekstensometr.",
+      "meksametr.",
+      "profilometr."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 158,
+    "text": "W zabiegu o działaniu lipolitycznym, należy zastosować preparat zawierający w swoim składzie między innymi",
+    "answers": [
+      "kofeinę i forskolinę.",
+      "żeń-szeń i mocznik.",
+      "wyciągi z arniki i bluszczu.",
+      "mukopolisacharydy i algi brunatne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 159,
+    "text": "Klientce, która chce zachować jędrny biust, należy zalecić do pielęgnacji domowej regularne stosowanie preparatów zawierających w składzie między innymi",
+    "answers": [
+      "teofilinę i wyciąg z łopianu.",
+      "świetlik lekarski i wyciąg ze skrzypu polnego.",
+      "aminofilinę i wyciąg z kory dębu.",
+      "wyciągi z bluszczu pospolitego i miłorzębu japońskiego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 160,
+    "text": "Którą operację należy wykonać w ostatnim etapie przygotowania frezu diamentowego przed przystąpieniem do zabiegu z jego wykorzystaniem?",
+    "answers": [
+      "Zdezynfekowanie.",
+      "Oczyszczenie.",
+      "Wysterylizowanie.",
+      "Wygotowanie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 161,
+    "text": "W celu spłycenia rozstępów wskazane jest wykonanie",
+    "answers": [
+      "body wrappingu.",
+      "eksfoliacji kwasami.",
+      "okładów parafinowych.",
+      "parafango."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 162,
+    "text": "Przygotowując klientkę do zabiegu sonoforezy, po nałożeniu ampułki ze składnikami aktywnymi na skórę, należy zaaplikować w miejsce poddane zabiegowi dodatkowo preparat",
+    "answers": [
+      "sprzęgający.",
+      "znieczulający.",
+      "odtłuszczający.",
+      "natłuszczający."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 163,
+    "text": "Do odkażenia peloty przed planowanym zabiegiem darsonwalizacji skóry pleców należy zastosować dezynfekcję",
+    "answers": [
+      "termiczną.",
+      "chemiczno-termiczną.",
+      "chemiczną.",
+      "fizyczną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 164,
+    "text": "Przeprowadzenie u klienta zabiegu presoterapii wykluczają przeciwwskazania takie jak",
+    "answers": [
+      "obrzęki pourazowe i pooperacyjne.",
+      "cellulit i otyłość.",
+      "ociężałe stopy i podudzia.",
+      "niewydolność oddechowa i żylaki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 165,
+    "text": "W zabiegu o działaniu przeciwbakteryjnym i zmniejszającym pocenie stóp należy zastosować preparat zawierający w składzie między innymi",
+    "answers": [
+      "srebro i olejek miętowy.",
+      "borowinę i olejek sosnowy.",
+      "masło shea i olej z wiesiołka.",
+      "mocznik i olejek cynamonowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 166,
+    "text": "W zabiegu wspomagającym modelowanie sylwetki należy zastosować aparat do",
+    "answers": [
+      "magnoterapii.",
+      "elektrokoagulacji.",
+      "elektrostymulacji.",
+      "mikrodermabrazji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 167,
+    "text": "Przeciwwskazaniami do wykonania zabiegu elektrostymulacji ciała są",
+    "answers": [
+      "rozstępy i obniżenie siły mięśniowej.",
+      "obrzęki i nadmiar tkanki tłuszczowej.",
+      "blizny i obniżenie napięcia i elastyczności skóry.",
+      "zaburzenia czucia i zmiany dermatologiczne skóry."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 168,
+    "text": "Przeciwwskazaniem do wykonania zabiegu regenerująco-nawilżającego skóry stóp jest",
+    "answers": [
+      "łamliwość paznokci.",
+      "grzybica paznokci.",
+      "przebarwienie paznokci.",
+      "bielactwo paznokci."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 169,
+    "text": "W celu redukcji cellulitu tłuszczowego w okolicy zewnętrznej powierzchni ud należy wykonać zabieg",
+    "answers": [
+      "lipolizy.",
+      "pulweryzacji.",
+      "brushingu.",
+      "koagulacji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 170,
+    "text": "W celu usunięcia przebarwień z powierzchni grzbietowej dłoni należy zastosować metodę",
+    "answers": [
+      "krioterapii.",
+      "presoterapii.",
+      "elektrostymulacji.",
+      "diatermii."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 171,
+    "text": "W celu usunięcia drobnoustrojów chorobotwórczych do poziomu bezpiecznego dla człowieka narzędzia nienaruszające ciągłości tkanek należy poddać procesowi",
+    "answers": [
+      "dezynfekcji.",
+      "pulweryzacji.",
+      "sanityzacji.",
+      "sterylizacji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 172,
+    "text": "Do wykonania manicure’u biologicznego u klientki należy zastosować",
+    "answers": [
+      "gilotynę i frezarkę.",
+      "cęgi kątowe i dłutko.",
+      "cążki do skórek i dłutko.",
+      "remover i patyczek drewniany."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 173,
+    "text": "W celu usprawnienia funkcji układu limfatycznego należy użyć aparatu",
+    "answers": [
+      "z pelotą szklaną.",
+      "z elektrodą igłową.",
+      "z mankietem uciskowym.",
+      "z głowicą diamentową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 174,
+    "text": "W celu określenia typu otyłości należy posłużyć się",
+    "answers": [
+      "wskaźnikiem PPM.",
+      "wskaźnikiem WHR.",
+      "metodą diaskopii.",
+      "metodą profilometrii."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 175,
+    "text": "Technika zdobienia paznokci, polegająca na zaaplikowaniu białego lakieru na wolny brzeg płytki paznokciowej w kształcie litery V, to manicure",
+    "answers": [
+      "french klasyczny.",
+      "ombre.",
+      "french chevron.",
+      "one stroke."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 176,
+    "text": "Klientce z rogowaceniem okołomieszkowym ramion należy zalecić do pielęgnacji domowej stosowanie peelingu ziarnistego oraz kremu",
+    "answers": [
+      "z witaminami C i K.",
+      "z witaminami D i C.",
+      "z witaminami A i E.",
+      "z witaminami A i D."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 177,
+    "text": "Klientce z problemem pocących się stóp należy wykonać zabieg o działaniu",
+    "answers": [
+      "normalizującym.",
+      "nawilżającym.",
+      "regenerującym.",
+      "rozgrzewającym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 178,
+    "text": "Preparat do pielęgnacji biustu zawierający w swoim składzie keratolinę służy do",
+    "answers": [
+      "rozpulchnienia naskórka.",
+      "odżywienia naskórka.",
+      "nawilżenia naskórka.",
+      "złuszczenia naskórka."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 179,
+    "text": "W celu zmniejszenia widoczności rozstępów na przedramionach należy zastosować metodę",
+    "answers": [
+      "dezinkrustacji.",
+      "elektrostymulacji.",
+      "termolizy.",
+      "mikrodermabrazji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 180,
+    "text": "W celu uzyskania efektu opalenizny całego ciała bez narażania skóry na działanie promieniowania ultrafioletowego należy posłużyć się",
+    "answers": [
+      "galwanem.",
+      "aerografem.",
+      "meksametrem.",
+      "chromatografem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 181,
+    "text": "Którą z metod należy zastosować podczas badania skóry objętej cellulitem?",
+    "answers": [
+      "Profilometrię.",
+      "Ultrasonografię.",
+      "Dermatoskopię.",
+      "Ewaporymetrię."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 182,
+    "text": "Czynnością, którą należy wykluczyć u diabetyka podczas zabiegu pedicure, jest",
+    "answers": [
+      "opiłowanie paznokci pilnikiem szklanym.",
+      "nakładanie preparatów chemicznych na modzele.",
+      "kąpiel stóp w brodziku z wodą o temperaturze 37°C.",
+      "obcinanie paznokci nożyczkami."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 183,
+    "text": "Do odkażenia gumowej bańki przed masażem należy zastosować metodę",
+    "answers": [
+      "sterylizacji wysokotemperaturowej.",
+      "dezynfekcji chemicznej.",
+      "dezynfekcji termicznej.",
+      "sterylizacji niskotemperaturowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 184,
+    "text": "Przed przystąpieniem do wykonania zabiegu lipolizy ultradźwiękowej należy",
+    "answers": [
+      "zwilżyć powierzchnię zabiegową wodą.",
+      "nałożyć na skórę olejek.",
+      "usunąć włosy woskiem twardym.",
+      "nanieść na skórę odpowiednią ilość obojętnego żelu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 185,
+    "text": "W celu wzmocnienia oraz poprawy wyglądu kruchych i łamliwych płytek paznokciowych należy zaproponować klientce manicure",
+    "answers": [
+      "francuski.",
+      "hybrydowy.",
+      "biologiczny.",
+      "japoński."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 186,
+    "text": "W masażu relaksacyjnym całego ciała, po technice głaskania należy zastosować kolejno techniki:",
+    "answers": [
+      "rozcierania, oklepywania.",
+      "rozcierania, ugniatania.",
+      "oklepywania, wibracji.",
+      "oklepywania, wałkowania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 187,
+    "text": "Klientce, która chce zniwelować nierówności płytek paznokciowych, należy zaproponować aplikację lakieru",
+    "answers": [
+      "perłowego.",
+      "podkładowego.",
+      "wypełniającego.",
+      "transparentnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 188,
+    "text": "Zabieg przy użyciu prądów impulsowych niskiej częstotliwości, którego celem jest pobudzenie tkanki nerwowej lub mięśniowej za pomocą impulsu elektrycznego, to",
+    "answers": [
+      "sonoforeza.",
+      "lipoliza.",
+      "elektrostymulacja.",
+      "jonoforeza."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 189,
+    "text": "W celu trwałego usunięcia nadmiernego owłosienia za pomocą elektrolizy niezbędne jest wykorzystanie aparatu emitującego",
+    "answers": [
+      "prąd wielkiej częstotliwości.",
+      "promienie długofalowe IRC.",
+      "falę elektromagnetyczną.",
+      "prąd stały."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 190,
+    "text": "W celu wykonania naświetlania lampą Sollux należy posłużyć się urządzeniem generującym promieniowanie",
+    "answers": [
+      "podczerwone.",
+      "widzialne.",
+      "rentgenowskie.",
+      "ultrafioletowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 191,
+    "text": "Do wykonania opatrunku zmniejszającego stan zapalny w przypadku wrastających paznokci należy zastosować",
+    "answers": [
+      "wkładkę.",
+      "klamrę.",
+      "ortezę.",
+      "tamponadę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 192,
+    "text": "Przeciwwskazaniami do przeprowadzenia zabiegu elektroepilacji igłowej u klientki są",
+    "answers": [
+      "przebarwienia skóry i rozszerzone naczynka krwionośne.",
+      "jasne owłosienie i ciemna karnacja.",
+      "odbarwienie skóry i włosy krótsze niż 4 mm.",
+      "gorączka i sztuczne zastawki serca."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 193,
+    "text": "Wykonując zabieg body wrapping na brzuch i kończyny dolne w celu modelowania sylwetki należy nałożyć maskę i owinąć te części ciała folią kosmetyczną zaczynając od",
+    "answers": [
+      "pachwin i zakończyć w okolicy kolan.",
+      "kostek i zakończyć na biodrach.",
+      "brzucha i zakończyć przy kostkach.",
+      "kostek i zakończyć na brzuchu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 194,
+    "text": "W celu likwidacji form przetrwalnikowych bakterii należy zastosować preparat do dezynfekcji oznaczony",
+    "answers": [
+      "symbolem V",
+      "symbolem S",
+      "symbolem B",
+      "symbolem F"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 195,
+    "text": "Klientce przyjmującej preparaty o charakterze fotouczulającym nie należy wykonywać",
+    "answers": [
+      "depilacji woskiem ciepłym.",
+      "termolizy.",
+      "laseroterapii.",
+      "depilacji pastą cukrową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 196,
+    "text": "Okluzję w zabiegach pielęgnacyjnych dłoni uzyskuje się poprzez",
+    "answers": [
+      "wykonanie masażu na krem tłusty przed nałożeniem maski.",
+      "założenie rękawicy foliowej i rękawicy frotte po aplikacji maski.",
+      "wmasowanie kremu nawilżającego do wchłonięcia.",
+      "usunięcie zrogowaciałych komórek naskórka przy pomocy peelingu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 197,
+    "text": "Który preparat należy zastosować do odtłuszczenia płytek paznokciowych w celu zwiększenia przyczepności i przedłużenia trwałości zdobienia hybrydowego?",
+    "answers": [
+      "Bazę.",
+      "Puder.",
+      "Primer.",
+      "Top."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 198,
+    "text": "W zabiegach antycellulitowych należy zastosować aparaty do",
+    "answers": [
+      "galwanizacji katodowej i darsonwalizacji.",
+      "mezoterapii bezigłowej i endermologii.",
+      "galwanizacji anodowej i sonoforezy kawitacyjnej.",
+      "krioterapii miejscowej i waponizacji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 199,
+    "text": "Rozdrobnione zioła owinięte bawełnianą tkaniną należy wykorzystać",
+    "answers": [
+      "w masażu punktowym.",
+      "w hydromasażu.",
+      "w mikromasażu.",
+      "w masażu stemplami."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 200,
+    "text": "Czynnikiem fizycznym stosowanym podczas wykonywania zabiegów kompresjoterapii kończyn dolnych jest",
+    "answers": [
+      "podciśnienie.",
+      "światło IPL.",
+      "temperatura.",
+      "prąd galwaniczny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 201,
+    "text": "Elementy pokazane na rysunku przeznaczone są do zabiegu",
+    "answers": [
+      "mezoterapii bezigłowej.",
+      "masażu próżniowego.",
+      "brushingu.",
+      "mikrodermabrazji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "frk04/a62_elementy.png"
+    },
+    "category": "FRK.04"
+  },
+  {
+    "id": 202,
+    "text": "Do przeprowadzenia diagnozy skóry dłoni w gabinecie kosmetycznym niezbędna jest lampa",
+    "answers": [
+      "Minina.",
+      "lupa.",
+      "Sollux.",
+      "bioptron."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 203,
+    "text": "W celu zmniejszenia widoczności rozstępów w fazie zanikowej należy wykonać",
+    "answers": [
+      "elektrostymulację.",
+      "endermologię.",
+      "mikrodermabrazję.",
+      "lipolizę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 204,
+    "text": "Do zabiegu rozgrzewającego na ciało wskazane są preparaty zawierające olejki eteryczne",
+    "answers": [
+      "cynamonowy i imbirowy.",
+      "cytrynowy i sosnowy.",
+      "z drzewa herbacianego i grejpfrutowy.",
+      "z drzewa różanego i eukaliptusowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 205,
+    "text": "Który zabieg należy zalecić klientce w profilaktyce niewydolności żylnej?",
+    "answers": [
+      "Masaż stemplami.",
+      "Presoterapię.",
+      "Lipolizę.",
+      "Masaż kamieniami."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 206,
+    "text": "Podczas zdobienia paznokci wzór na pomalowaną płytkę paznokciową z wzornika należy przenieść za pomocą",
+    "answers": [
+      "stempla.",
+      "wacika bezpyłowego.",
+      "magnesu.",
+      "płytki metalowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 207,
+    "text": "W warunkach domowych klientce, która chce się zrelaksować należy zaproponować do kąpieli następujący zestaw olejków eterycznych:",
+    "answers": [
+      "lawendowy, pomarańczowy, grejpfrutowy.",
+      "imbirowy, jałowcowy, z kopru włoskiego.",
+      "z drzewa herbacianego, paczulowy, anyżowy.",
+      "cynamonowy, sosnowy, eukaliptusowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 208,
+    "text": "Polerowanie płytek paznokciowych w manicure biologicznym należy wykonać bezpośrednio",
+    "answers": [
+      "po dezynfekcji dłoni.",
+      "przed malowaniem paznokci.",
+      "po skróceniu paznokci.",
+      "przed opiłowaniem paznokci."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 209,
+    "text": "Błoto algowe w zabiegu liftingująco-modelującym na biust należy nałożyć",
+    "answers": [
+      "gąbką.",
+      "aplikatorem.",
+      "szpatułką kosmetyczną.",
+      "pędzlem kosmetycznym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 210,
+    "text": "Trwałe usunięcie zbędnego owłosienia można uzyskać zabiegami z wykorzystaniem aparatów generujących:",
+    "answers": [
+      "parę wodną, prądy diadynamiczne, promieniowanie podczerwone.",
+      "światło laserowe, prąd galwaniczny, ultradźwięki.",
+      "światło spolaryzowane, fale radiowe, prąd interferencyjny.",
+      "podciśnienie, promieniowanie ultrafioletowe, prądy d’Arsonwala."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 211,
+    "text": "Do zabiegu zmniejszającego widoczność rozstępów należy zastosować między innymi preparaty",
+    "answers": [
+      "z kwasami AHA i wyciągiem z wąkroty azjatyckiej.",
+      "z borowiną i wyciągiem z szałwii lekarskiej.",
+      "z kofeiną i wyciągiem z arniki górskiej.",
+      "z l-karnityną i wyciągiem z miłorzębu japońskiego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 212,
+    "text": "W stylizacji paznokci ma zastosowanie",
+    "answers": [
+      "lampa UV.",
+      "lampa Minina.",
+      "lampa bioptron.",
+      "lampa IR."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 213,
+    "text": "Przeciwwskazaniami wykluczającymi przeprowadzenie u klientki zabiegu body wrapping są",
+    "answers": [
+      "obniżona elastyczność skóry i haluksy.",
+      "rozstępy skórne i lipodystrofia.",
+      "niewydolność nerek i nadciśnienie tętnicze.",
+      "skłonność do keloidów i ociężałość kończyn dolnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 214,
+    "text": "Zgodnie z zasadą aseptyki, podczas zabiegów narażających klienta na przerwanie ciągłości naskórka metalowym narzędziem kosmetyczka powinna założyć",
+    "answers": [
+      "opaskę kosmetyczną.",
+      "jednorazowe rękawiczki.",
+      "peniuar kosmetyczny.",
+      "okulary z ciemnymi szkłami."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 215,
+    "text": "Krem do stóp z witaminą A należy zastosować przy",
+    "answers": [
+      "wrastających paznokciach i odparzeniach.",
+      "nadmiernej potliwości i nagniotkach.",
+      "modzelach i brodawkach płaskich.",
+      "pękających piętach i rogowaceniu okołomieszkowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 216,
+    "text": "Przeciwwskazaniami do zabiegu zmniejszającego nadmierną potliwość stóp są",
+    "answers": [
+      "grzybica paznokci i brodawki.",
+      "nadwaga i wrastające paznokcie.",
+      "obrzęki i zrogowaciały naskórek.",
+      "zastoje limfatyczne i cukrzyca."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 217,
+    "text": "W zabiegu oxybrazji do złuszczenia martwych komórek naskórka wykorzystuje się tlen oraz",
+    "answers": [
+      "kwas owocowy.",
+      "dwutlenek węgla.",
+      "sól fizjologiczną.",
+      "tlenek glinu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 218,
+    "text": "Wykonując mezoterapię bezigłową osobie z cellulitem należy wybrać preparat zawierający między innymi:",
+    "answers": [
+      "witaminę E, wyciąg z lipy drobnolistnej, oligoelementy.",
+      "witaminę A, wyciąg ze świetlika, argirelinę.",
+      "l-karnitynę, rutynę, wyciąg z karczocha.",
+      "minoksydyl, kwas hialuronowy, wyciąg z rumianku."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 219,
+    "text": "Przygotowując klientkę do wykonania zabiegu o działaniu antycellulitowym w obrębie ud z wykorzystaniem fali radiowej należy",
+    "answers": [
+      "owinąć klientkę folią kosmetyczną.",
+      "poprosić klientkę o założenie specjalnego kostiumu.",
+      "odtłuścić miejsce poddawane zabiegowi.",
+      "zaaplikować na skórę klientki żel przewodzący."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 220,
+    "text": "Przeciwwskazaniami do przeprowadzenia zabiegu manicure biologicznego są:",
+    "answers": [
+      "bielactwo, bruzdowanie podłużne paznokcia, skrzydlik.",
+      "onycholiza, łuszczyca skóry, cukrzyca.",
+      "koilonychia, hemofilia, leukonychia.",
+      "pęknięcia naskórka między palcami, brodawki, zanokcica."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 221,
+    "text": "Chcąc wykonać zdobienie paznokci metodą one stroke należy",
+    "answers": [
+      "ozdobić paznokcie wypukłymi elementami wykonanymi z akrylu.",
+      "ozdobić paznokcie motywem koronki wykonanym plasteliną UV.",
+      "namalować cieniowane elementy kwiatowe przy użyciu pędzli w odpowiednio dobranym kształcie.",
+      "namalować wzory geometryczne o ostrych krawędziach przy użyciu rapitografu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 222,
+    "text": "Przed przystąpieniem do wykonania zabiegu kawitacji pleców klientki, szpatułę ultradźwiękową należy",
+    "answers": [
+      "umyć mydłem antybakteryjnym.",
+      "wysterylizować w autoklawie.",
+      "przetrzeć tonikiem antybakteryjnym.",
+      "zdezynfekować preparatem do dezynfekcji narzędzi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 223,
+    "text": "Klientce z problemem tzw. ciężkich nóg należy zaproponować zabieg pielęgnacyjny o działaniu",
+    "answers": [
+      "zmiękczająco-wygładzającym.",
+      "regeneracyjno-natłuszczającym.",
+      "nawilżająco-drenującym.",
+      "nawilżająco-normalizującym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 224,
+    "text": "Klientce z łuszczącą, szorstką skórą stóp zaleca się stosowanie w domu",
+    "answers": [
+      "peelingów enzymatycznych i masek termoaktywnych.",
+      "kremów nawilżających i masek odżywczych.",
+      "kremów rozjaśniających i masek algowych.",
+      "peelingów gruboziarnistych i masek ściągających."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 225,
+    "text": "Kostka Arkady jest przeznaczona do",
+    "answers": [
+      "usuwania hiperkeratoz z pięt.",
+      "korygowania wrastających paznokci.",
+      "ustawienia palucha koślawego.",
+      "przedłużania naturalnych paznokci."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 226,
+    "text": "Przeciwwskazaniem do zastosowania algoterapii ciała jest między innymi",
+    "answers": [
+      "trądzik pospolity.",
+      "nadczynność tarczycy.",
+      "obrzęk kończyny dolnej.",
+      "wszczepiony rozrusznik serca."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 227,
+    "text": "Klientce z problem suchych, szorstkich łokci należy zaproponować stosowanie",
+    "answers": [
+      "kremu z witaminą A.",
+      "maści z wyciągiem z nagietka.",
+      "maści z wyciągiem z arniki górskiej.",
+      "kremu z witaminą C."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 228,
+    "text": "Klientce z liposklerozą należy zalecić stosowanie preparatów zawierających między innymi:",
+    "answers": [
+      "witaminę B6, koenzym Q10, ceramidy.",
+      "witaminę C, alantoinę, kwas glikolowy.",
+      "wyciągi z ruszczyka i kasztanowca, kofeinę.",
+      "d-panthenol, wyciągi z łopianu i rozmarynu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 229,
+    "text": "W celu zmniejszenia objawów fotostarzenia występujących na grzbietowych powierzchniach ręki należy wykonać",
+    "answers": [
+      "eksfoliację kwasami.",
+      "kompresjoterapię bierną.",
+      "masaż ultradźwiękowy.",
+      "manicure hybrydowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 230,
+    "text": "W celu zapobiegania szybkiemu odrostowi włosów po zabiegu depilacji woskiem należy zastosować na podrażnioną skórę kończyn dolnych preparat o działaniu",
+    "answers": [
+      "regenerującym z kolagenem.",
+      "łagodzącym z arbutyną.",
+      "regenerującym z ceramidami.",
+      "łagodzącym z papainą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 231,
+    "text": "Klientce z przebarwieniami nikotynowymi dłoni należy zalecić stosowanie kosmetyków zawierających",
+    "answers": [
+      "arbutynę i witaminę C.",
+      "kolagen i kofeinę.",
+      "ceramidy i fosfolipidy.",
+      "alantoinę i d-panthenol."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 232,
+    "text": "Wykonując makijaż wieczorowy młodej klientce z widocznymi teleangiektazjami należy zastosować",
+    "answers": [
+      "zielony korektor i fluid kryjący.",
+      "fioletowy korektor i fluid nawilżający.",
+      "żółty korektor i fluid matujący.",
+      "biały korektor i fluid liftingujący."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 233,
+    "text": "Do określenia stopnia transepidermalnej utraty wody przez naskórek należy posłużyć się",
+    "answers": [
+      "badaniem za pomocą kutometru.",
+      "metodą profilometrii.",
+      "badaniem za pomocą ewaporometru.",
+      "metodą diaskopii."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 234,
+    "text": "Mały, płaski pędzel z naturalnego włosia ze spiczastym zakończeniem należy zastosować do",
+    "answers": [
+      "nałożenia różu na policzki.",
+      "aplikacji pomadki na usta.",
+      "aplikacji fluidu na twarz.",
+      "roztarcia cieni na powiekach."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 235,
+    "text": "Wykonując makijaż wieczorowy klientce ze skórą tłustą, bezpośrednio przed nałożeniem fluidu należy nałożyć",
+    "answers": [
+      "bazę matującą.",
+      "bazę rozświetlającą.",
+      "krem z filtrem UV.",
+      "krem odżywczy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 236,
+    "text": "Wykorzystując do diagnozy skóry twistometr, dokonuje się oceny",
+    "answers": [
+      "natłuszczenia skóry.",
+      "elastyczności skóry.",
+      "odczynu skóry.",
+      "nawilżenia skóry."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 237,
+    "text": "Aerograf kosmetyczny tzw. airbrush jest przeznaczony między innymi do",
+    "answers": [
+      "rozpylania toniku na twarz.",
+      "makijażu permanentnego.",
+      "face i body paintingu.",
+      "waporyzacji skóry twarzy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 238,
+    "text": "W celu uzyskania 2 litrów roztworu roboczego środka dezynfekcyjnego o stężeniu 10 % należy zmieszać",
+    "answers": [
+      "2000 ml wody i 20 ml środka dezynfekcyjnego.",
+      "2000 ml wody i 200 ml środka dezynfekcyjnego.",
+      "1800 ml wody i 360 ml środka dezynfekcyjnego.",
+      "1800 ml wody i 200 ml środka dezynfekcyjnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 239,
+    "text": "Peloty wywołującej wyładowania energii elektromagnetycznej w postaci deszczu iskrowego należy użyć w zabiegu",
+    "answers": [
+      "dezinkrustacji.",
+      "ridulizy.",
+      "darsonwalizacji.",
+      "sonoforezy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 240,
+    "text": "Optyczna korekta oczu osadzonych zbyt blisko siebie polega między innymi na naniesieniu",
+    "answers": [
+      "ciemnego cienia pod łukiem brwiowym.",
+      "jasnego cienia na środek powieki ruchomej.",
+      "jasnego cienia w kącikach wewnętrznych oczu.",
+      "ciemnego cienia w kącikach wewnętrznych oczu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 241,
+    "text": "Lampą stosowaną w diagnozie kosmetycznej jest lampa",
+    "answers": [
+      "Sollux.",
+      "Minina.",
+      "kwarcowa.",
+      "Wooda."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 242,
+    "text": "Występujące u osób starszych płaskie, miękkie, żółtawe nacieki, zlokalizowane na powiekach to",
+    "answers": [
+      "plamy soczewicowate.",
+      "kaszaki.",
+      "ostudy.",
+      "kępki żółte."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 243,
+    "text": "Zgodnie z procedurą postępowania z pędzlami kosmetycznymi użytymi do makijażu należy je kolejno:",
+    "answers": [
+      "umyć wodą z mydłem, opłukać wodą destylowaną, osuszyć.",
+      "przetrzeć płynem do dezynfekcji narzędzi, osuszyć, wysterylizować w autoklawie.",
+      "umyć wodą z mydłem, osuszyć, zdezynfekować płynem na bazie alkoholu, osuszyć.",
+      "wytrzeć chusteczką higieniczną, spryskać płynem do dezynfekcji narzędzi."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 244,
+    "text": "Pod wpływem działania promieniowania podczerwonego na skórę twarzy w tkankach powstaje efekt",
+    "answers": [
+      "elektrokinetyczny.",
+      "fototermiczny.",
+      "elektrochemiczny.",
+      "fotochemiczny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 245,
+    "text": "Charakterystycznymi cechami skóry suchej są",
+    "answers": [
+      "ziemisty kolor i nieliczne zaskórniki.",
+      "szarawy odcień i lekki połysk.",
+      "żółtawy odcień i prawidłowa elastyczność.",
+      "jasny kolor i cienki, matowy naskórek."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 246,
+    "text": "Klientce z sińcami pod oczami, należy zalecić stosowanie w warunkach domowych",
+    "answers": [
+      "żeli pod oczy z ekstraktami ze świetlika lekarskiego i bluszczu.",
+      "kremów pod oczy z wyciągami z arniki i miłorzębu japońskiego.",
+      "ciepłych kompresów z naparu z szałwii pod oczy.",
+      "zimnych okładów z wyciągami ze skrzypu i lipy na powieki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 247,
+    "text": "Przeciwwskazaniem do wykonania zabiegu darsonwalizacji skóry twarzy jest",
+    "answers": [
+      "trądzik pospolity.",
+      "świąd skóry.",
+      "łojotok skóry.",
+      "trądzik różowaty."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 248,
+    "text": "Makijaż ślubny powinien charakteryzować się",
+    "answers": [
+      "subtelnie, ale wyraźnie podkreślonymi oczami, rzęsami pokrytymi wodoodpornym tuszem i rozświetleniem.",
+      "mocno podkreślonymi oczami, tzw.  smokey eyes, sztucznymi rzęsami i intensywnym różem na policzkach.",
+      "delikatnym makijażem oczu w jasnych cielistych barwach, brązowym tuszem na rzęsach i jasnym beżowym błyszczykiem.",
+      "rozświetlonym drobinkami brokatu wyrazistym makijażem oczu i mocno kryjącym podkładem z efektem opalenizny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 249,
+    "text": "Teleangiektazje w obrębie policzków oraz skrzydełek nosa stanowią przeciwwskazanie do wykonania zabiegu",
+    "answers": [
+      "modelującego z maską gipsową.",
+      "łagodzącego z maską kremową.",
+      "nawilżającego z maską alginatową.",
+      "regenerującego z płatem kolagenowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 250,
+    "text": "Przygotowując klienta do wykonania zabiegu mikrodermabrazji diamentowej, obszar skóry, który będzie poddany temu zabiegowi należy",
+    "answers": [
+      "przetrzeć środkiem odtłuszczającym.",
+      "zabezpieczyć wazeliną kosmetyczną.",
+      "posmarować żelem aloesowym.",
+      "rozpulchnić pod wapozonem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 251,
+    "text": "Jasny kolor skóry, włosy chłodny blond lub popielate, oczy jasne, błękitne lub szarozielone i blade usta, to cechy charakterystyczne dla typu urody",
+    "answers": [
+      "wiosna.",
+      "jesień.",
+      "lato.",
+      "zima."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 252,
+    "text": "Ciepłą maskę sporządzoną z zaparzonego siemienia lnianego, kwiatu lipy i rumianku należy zastosować podczas wykonywania zabiegu w celu",
+    "answers": [
+      "złagodzenia zaczerwienień po mikrodermabrazji.",
+      "zamknięcia porów po oczyszczaniu manualnym.",
+      "rozpulchnienia skóry przed jej oczyszczaniem.",
+      "rozjaśnienia przebarwień pigmentacyjnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 253,
+    "text": "Zabezpieczenie ust klientki wazeliną i oczu płatkami kosmetycznymi jest konieczne przed przystąpieniem do wykonywania",
+    "answers": [
+      "maski alginatowej.",
+      "mikrodermabrazji tlenkiem glinu.",
+      "eksfoliacji kwasem glikolowym.",
+      "peelingu kawitacyjnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 254,
+    "text": "Przed zabiegiem mikrodermabrazji korundowej skórę klienta należy zmyć, zdezynfekować, a następnie",
+    "answers": [
+      "natłuścić kremem ochronnym.",
+      "dokładnie osuszyć.",
+      "naświetlić promieniami ultrafioletowymi.",
+      "nanieść na nią żel obojętny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 255,
+    "text": "Skóra twarzy o zmniejszonej elastyczności i jędrności, chropowata, łuszcząca się z tendencją do tworzenia się przebarwień i plam soczewicowatych to cechy cery",
+    "answers": [
+      "tłustej odwodnionej.",
+      "suchej dojrzałej.",
+      "tłustej dojrzałej.",
+      "suchej naczyniowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 256,
+    "text": "Podczas wywiadu kosmetycznego należy bezwzględnie zadać pytania",
+    "answers": [
+      "o stan cywilny i rodzaj stosowanej diety.",
+      "o dotychczasową pielęgnację i stosowane terapie farmakologiczne.",
+      "o warunki mieszkaniowe i adres zamieszkania.",
+      "o poziom wykształcenia i warunki wykonywania pracy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 257,
+    "text": "Okulary ochronne użyte do zabiegu naświetlania promieniowaniem IR należy",
+    "answers": [
+      "wysterylizować w myjce ultradźwiękowej.",
+      "zdezynfekować środkiem do dezynfekcji narzędzi.",
+      "przetrzeć wilgotnymi chusteczkami.",
+      "umyć mydłem toaletowym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 258,
+    "text": "Przeciwwskazaniami do zabiegu pielęgnacyjnego skóry twarzy z zastosowaniem darsonwalizacji są",
+    "answers": [
+      "rozszerzone ujścia gruczołów łojowych i odmrożenia.",
+      "zaskórniki i bliznowce.",
+      "teleangiektazje i wszczepy metalowe w ciele.",
+      "osteoporoza i nadczynność tarczycy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 259,
+    "text": "W celu wykonania zabiegu farbowania brwi klientce o jesiennym typie urody, należy zaproponować hennę w kolorze",
+    "answers": [
+      "grafitowym.",
+      "brązowym.",
+      "ciemnoniebieskim.",
+      "granatowym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 260,
+    "text": "W celu wykonania zabiegu opóźniającego proces starzenia skóry twarzy należy dobrać między innymi",
+    "answers": [
+      "maskę z cytokinami.",
+      "krem z cynkiem.",
+      "maskę z kaolinem.",
+      "krem z garbnikami."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 261,
+    "text": "W celu wykluczenia przeciwwskazań do przeprowadzenia zabiegu mikrodermabrazji diamentowej, w wywiadzie kosmetycznym należy zapytać między innymi",
+    "answers": [
+      "o rodzaj stosowanej diety.",
+      "o obecność elementów metalowych w tkankach.",
+      "o nadczynność tarczycy.",
+      "o łuszczycę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 262,
+    "text": "Gruba z licznymi rozszerzonymi ujściami gruczołów łojowych to cechy skóry twarzy",
+    "answers": [
+      "suchej.",
+      "tłustej.",
+      "naczyniowej.",
+      "dojrzałej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 263,
+    "text": "Którą z metod złuszczania skóry twarzy należy zastosować w celu spłycenia blizn po trądziku?",
+    "answers": [
+      "Oxybrazję.",
+      "Brushing.",
+      "Mikrodermabrazję.",
+      "Peeling kawitacyjny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 264,
+    "text": "W celu uzyskania optycznego powiększenia małych oczu należy nałożyć",
+    "answers": [
+      "na całe powieki ruchome ciemny cień.",
+      "na całe powieki ruchome jasny cień.",
+      "na wewnętrzne kąciki ciemny cień.",
+      "na wewnętrzne kąciki jasny cień."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 265,
+    "text": "Wilgotny kompres z gazy należy nałożyć na twarz pod maskę",
+    "answers": [
+      "termomodelującą.",
+      "termiczną elektryczną.",
+      "z kolagenu krystalicznego.",
+      "peel-off."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 266,
+    "text": "Klientowi z szarą, zmęczoną i niedotlenioną skórą należy zaproponować serię zabiegów",
+    "answers": [
+      "normalizujących.",
+      "uszczelniających naczynia.",
+      "detoksykujących.",
+      "zamykających pory."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 267,
+    "text": "W celu rozjaśnienia skóry twarzy z przebarwieniami posłonecznymi należy zastosować",
+    "answers": [
+      "krem z glinką zieloną.",
+      "maskę z wyciągiem z bluszczu.",
+      "krem z kwasem askorbinowym.",
+      "maskę z kwasem hialuronowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 268,
+    "text": "Które cechy są charakterystyczne dla typu kolorystycznego określanego jako jesień?",
+    "answers": [
+      "Skóra porcelanowa, włosy bardzo ciemne, tęczówki piwne lub brązowe.",
+      "Skóra beżowo-brzoskwiniowa, włosy bursztynowe lub kasztanowe, tęczówki oliwkowe.",
+      "Skóra brzoskwiniowa, policzki często zarumienione, włosy w odcieniu ciepły blond, tęczówki niebieskie.",
+      "Skóra bladobeżowa, włosy w odcieniu chłodny popielaty blond lub beż, tęczówki szaroniebieskie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 269,
+    "text": "Do cery tłustej w celu uzyskania działania ściągającego, przeciwbakteryjnego i przeciwzapalnego należy zastosować preparat kosmetyczny zawierający",
+    "answers": [
+      "flawonoidy.",
+      "antocyjany.",
+      "embrioblasty.",
+      "garbniki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 270,
+    "text": "Do oceny którego parametru skóry twarzy należy posłużyć się ewaporymetrem?",
+    "answers": [
+      "Nawilżenia.",
+      "Gładkości.",
+      "Natłuszczenia.",
+      "Zabarwienia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 271,
+    "text": "W celu regulacji łuku brwiowego u klientki ze skórą dojrzałą należy zastosować metodę depilacji",
+    "answers": [
+      "woskiem twardym.",
+      "woskiem miękkim.",
+      "z użyciem pęsety.",
+      "pastą cukrową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 272,
+    "text": "W celu przedłużenia trwałości makijażu wskazane jest zastosowanie",
+    "answers": [
+      "kamuflażu.",
+      "korektora.",
+      "podkładu.",
+      "bazy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 273,
+    "text": "Przeciwwskazaniem do wykonania zabiegu manualnego oczyszczania skóry twarzy jest",
+    "answers": [
+      "tanoreksja.",
+      "trądzik ropowiczy.",
+      "trądzik młodzieńczy.",
+      "ostuda."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 274,
+    "text": "Do oceny grubości skóry należy posłużyć się metodą",
+    "answers": [
+      "profilometrii pośredniej.",
+      "profilometrii bezpośredniej.",
+      "pehametrii.",
+      "palpacyjną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 275,
+    "text": "Teleangiektazje w obrębie policzków oraz skrzydełek nosa są przeciwwskazaniem do wykonania zabiegu",
+    "answers": [
+      "regenerującego z płatem kolagenowym.",
+      "łagodzącego z maską kremową.",
+      "nawilżającego z maską alginatową.",
+      "modelującego z maską gipsową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 276,
+    "text": "Do zbędnego wyposażenia kufra wizażystki należy zaliczyć",
+    "answers": [
+      "peeling AHA, miskę gumową i olejek do masażu.",
+      "preparaty do demakijażu, sztuczne rzęsy i fluidy.",
+      "błyszczyki, temperówkę i transparentny puder sypki.",
+      "kremy do różnych typów skóry, pelerynkę i make-up fixer."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 277,
+    "text": "Przygotowując klientkę do wykonania mikrodermabrazji diamentowej, obszar skóry, który będzie poddany temu zabiegowi należy",
+    "answers": [
+      "rozpulchnić pod wapozonem.",
+      "posmarować żelem aloesowym.",
+      "przetrzeć środkiem odtłuszczającym.",
+      "zabezpieczyć wazeliną kosmetyczną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 278,
+    "text": "Który zespół objawów jest charakterystyczny dla skóry twarzy określanej jako tłusta?",
+    "answers": [
+      "Cienka, jasna, skłonna do łuszczenia się.",
+      "Napięta, swędząca, szorstka.",
+      "Wiotka, szorstka ze skłonnością do przebarwień.",
+      "Ziemista, błyszcząca, lepka w dotyku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 279,
+    "text": "Cienka, pergaminowa, z licznymi teleangiektazjami, to cechy skóry twarzy",
+    "answers": [
+      "naczyniowej.",
+      "tłustej.",
+      "suchej.",
+      "mieszanej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 280,
+    "text": "W celu wykluczenia przeciwwskazań do wykonania zabiegu złuszczania peelingiem ziołowym skóry twarzy, w wywiadzie kosmetycznym należy zapytać",
+    "answers": [
+      "o charakter wykonywanej pracy.",
+      "o skłonność do uczuleń.",
+      "o elementy metalowe w tkankach.",
+      "o sposób odżywiania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 281,
+    "text": "Którą metodę dezynfekcji głowicy do sonoforezy należy zastosować przed przystąpieniem do zabiegu?",
+    "answers": [
+      "Termiczną.",
+      "Fizyczną.",
+      "Chemiczno-termiczną.",
+      "Chemiczną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 282,
+    "text": "Który z peelingów można wykonać metodą masażu manualnego lub z wykorzystaniem brushingu?",
+    "answers": [
+      "Ziołowy.",
+      "Kwasowy.",
+      "Scrub.",
+      "Gommage."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 283,
+    "text": "Klientowi z cerą tłustą wskazane jest zaproponowanie zabiegu kosmetycznego o działaniu",
+    "answers": [
+      "ujędrniająco-dotleniającym.",
+      "likwidującym obrzęki i zaczerwienienia.",
+      "poprawiającym mikrokrążenie skóry twarzy.",
+      "odżywiająco-detoksykującym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 284,
+    "text": "W makijażu w celu optycznego zmniejszenia i spłaszczenia danej części twarzy należy stosować kosmetyki",
+    "answers": [
+      "jasne i matowe.",
+      "jasne i połyskujące.",
+      "ciemne i połyskujące.",
+      "ciemne i matowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 285,
+    "text": "W celu ukrycia zaczerwień w okolicy skrzydełek nosa należy zaaplikować w miejscu ich wystąpienia na skórę korektor w kolorze",
+    "answers": [
+      "żółtym.",
+      "fioletowym.",
+      "białym.",
+      "zielonym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 286,
+    "text": "W celu osiągnięcia w zabiegu efektu nawilżenia należy zastosować preparaty zawierające w swoim składzie",
+    "answers": [
+      "algi i mukopolisacharydy.",
+      "kaolin i glinkę zieloną.",
+      "rutynę i elastynę.",
+      "garbniki i koenzym Q10."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 287,
+    "text": "Efektem oddziaływania na skórę twarzy zabiegu elektrostymulacji jest",
+    "answers": [
+      "poprawa stanu napięcia mięśni mimicznych.",
+      "obkurczenie naczyń krwionośnych.",
+      "zmniejszenie czynności wydzielniczej gruczołów łojowych.",
+      "usunięcie martwych komórek skóry."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 288,
+    "text": "Przeciwskazaniami do zabiegu pielęgnacyjnego skóry twarzy z zastosowaniem darsonwalizacji są",
+    "answers": [
+      "teleangiektazje i wszczepy metalowe w ciele.",
+      "rozszerzone ujścia gruczołów łojowych i odmrożenia.",
+      "osteoporoza i nadczynność tarczycy.",
+      "zaskórniki i bliznowce."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 289,
+    "text": "Którą metodę postępowania z pesetą należy zastosować przed zabiegiem regulacji brwi?",
+    "answers": [
+      "Zdezynfekować wodą utlenioną.",
+      "Oczyścić chusteczką.",
+      "Umyć mydłem antybakteryjnym.",
+      "Wysterylizować w autoklawie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 290,
+    "text": "W celu usunięcia szorstkiego, zrogowaciałego naskórka z twarzy należy zastosować metodę",
+    "answers": [
+      "oxybrazji.",
+      "elektrostymulacji.",
+      "mezoterapii.",
+      "jonoforezy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 291,
+    "text": "Który z zabiegów wymaga zabezpieczenia oczu klientki okularami ochronnymi?",
+    "answers": [
+      "Mezoterapia.",
+      "Elektrostymulacja.",
+      "Sonoforeza.",
+      "Fotoodmładzanie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 292,
+    "text": "Do usuwania osypujących się cieni należy użyć",
+    "answers": [
+      "gąbki lateksowej.",
+      "pędzla miotełki.",
+      "pędzelka pacynki.",
+      "pędzla kabuki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 293,
+    "text": "Technika upiększania twarzy polegająca na wychodzeniu makijażem poza przestrzeń oka na policzki i szyję oraz dekolt jest charakterystyczna dla makijażu",
+    "answers": [
+      "fantazyjnego.",
+      "wieczorowego.",
+      "naturalnego.",
+      "dziennego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 294,
+    "text": "W celu oceny głębokości zmarszczek i gładkości skóry należy zastosować",
+    "answers": [
+      "badanie z użyciem ewaporometru.",
+      "metodę diaskopii.",
+      "metodę profilometrii.",
+      "badanie z użyciem ekstensometru."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 295,
+    "text": "Wykorzystując do diagnozy skóry twistometr, dokonuje się oceny jej",
+    "answers": [
+      "kolorytu.",
+      "przetłuszczenia.",
+      "elastyczności.",
+      "nawilżenia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 296,
+    "text": "Który preparat należy nałożyć na skórę twarzy 19-letniej klientki bezpośrednio przed przystąpieniem do wykonywania makijażu dziennego?",
+    "answers": [
+      "Maskę odżywczą.",
+      "Krem nawilżający.",
+      "Maskę borowinową.",
+      "Krem liftingujący."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 297,
+    "text": "Dla której cery charakterystyczne jest uczucie pieczenia, mrowienia, ściągania i świądu po zastosowaniu nieodpowiednich kosmetyków lub umyciu twarzy wodą?",
+    "answers": [
+      "Dla cery mieszanej.",
+      "Dla cery dojrzałej.",
+      "Dla cery tłustej.",
+      "Dla cery wrażliwej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 298,
+    "text": "Klientce z licznymi zmarszczkami wokół oczu należy zalecić w warunkach domowych stosowanie między innymi",
+    "answers": [
+      "kremów z kolagenem i elastyną.",
+      "okładów z miłorzębu i świetlika.",
+      "żeli ze świetlikiem i rumiankiem.",
+      "masek z kopru włoskiego i arniki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 299,
+    "text": "Który rodzaj cery ma osoba przejawiająca skłonność do występowania rozszerzonych porów, zaskórników otwartych i zamkniętych w strefie T oraz łuszczenia, uczucia pieczenia i napięcia skóry w pozostałych partiach twarzy?",
+    "answers": [
+      "Suchą.",
+      "Normalną.",
+      "Tłustą.",
+      "Mieszaną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 300,
+    "text": "Przed przystąpieniem do wykonywania makijażu pędzel do nakładania podkładu należy",
+    "answers": [
+      "umyć w wodzie z mydłem i zdezynfekować.",
+      "umyć pod bieżącą wodą i wysterylizować.",
+      "wysterylizować w autoklawie.",
+      "zanurzyć w spirytusie salicylowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 301,
+    "text": "Klientce z blisko osadzonymi oczami należy zalecić, aby podczas makijażu oczu",
+    "answers": [
+      "przyciemniała wewnętrzne kąciki oczu.",
+      "rozjaśniała wewnętrzne kąciki oczu.",
+      "przyciemniała całe powieki górne.",
+      "rozjaśniała całe powieki górne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 302,
+    "text": "Przeciwwskazaniem do wykonania makijażu kamuflującego skóry twarzy jest",
+    "answers": [
+      "opryszczka wargowa.",
+      "ostuda.",
+      "cukrzyca.",
+      "blizna potrądzikowa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 303,
+    "text": "W celu wyjałowienia łyżeczki Unny po zabiegu oczyszczania twarzy należy zastosować sterylizację",
+    "answers": [
+      "wysokotemperaturową.",
+      "radiacyjną.",
+      "niskotemperaturową.",
+      "gazową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 304,
+    "text": "Preparaty kosmetyczne zawierające w swoim składzie bisabolol i srebro, zastosowane w zabiegu pielęgnacyjnym, mają działanie",
+    "answers": [
+      "odżywcze.",
+      "antybakteryjne.",
+      "natłuszczające.",
+      "nawilżające."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 305,
+    "text": "Przeciwwskazaniem do wykonania u klientki zabiegu henny rzęs jest",
+    "answers": [
+      "otarcie naskórka w okolicy brwi.",
+      "zdiagnozowana krótkowzroczność.",
+      "świeża blizna na szyi.",
+      "jęczmień powieki górnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 306,
+    "text": "W makijażu biały korektor w kompakcie należy zastosować w celu",
+    "answers": [
+      "ukrycia przebarwień na skórze twarzy.",
+      "rozświetlenia skóry twarzy.",
+      "kamuflażu teleangiektazji.",
+      "zatuszowania sińców pod oczami."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 307,
+    "text": "W pielęgnacji domowej dojrzałej skóry twarzy należy polecić klientce stosowanie serum zawierającego między innymi:",
+    "answers": [
+      "witaminę A, H, D-pantenol i sole siarki.",
+      "witaminę D, E, ekstrakt z zielonej herbaty i sok z lukrecji.",
+      "witaminę A, C, olej jojoba i koenzym Q10.",
+      "witaminę C, B<sub>6</sub>, wyciąg z arniki górskiej i malwy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 308,
+    "text": "W celu wykonania zabiegu zmniejszającego czynność wydzielniczą gruczołów łojowych, w którym wykorzystuje się prąd wielkiej częstotliwości należy zastosować aparat do",
+    "answers": [
+      "darsonwalizacji.",
+      "mikrodermabrazji.",
+      "galwanizacji.",
+      "kawitacji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 309,
+    "text": "Bardzo jasna, mleczna, porcelanowa cera, włosy ciemne, tęczówki w kolorze fiołkowoniebieskim, ciemnoniebieskim lub brązowym to charakterystyczne cechy typu kolorystycznego określanego jako",
+    "answers": [
+      "lato.",
+      "zima.",
+      "wiosna.",
+      "jesień."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 310,
+    "text": "Podczas wykonywania zabiegu mezoterapii bezigłową głowicę aparatu należy",
+    "answers": [
+      "przemieszczać w dużej odległości od powierzchni skóry.",
+      "przesuwać ruchami okrężnymi lub spiralnymi po skórze.",
+      "naprzemiennie dotykać i odrywać od powierzchni skóry.",
+      "przemieszczać w niewielkiej odległości od powierzchni skóry."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 311,
+    "text": "W zabiegu darsonwalizacji należy posłużyć się aparatem",
+    "answers": [
+      "z głowicą diamentową.",
+      "z głowicą ultradźwiękową.",
+      "z elektrodą wałeczkową.",
+      "z pelotą szklaną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 312,
+    "text": "Jednym z efektów oddziaływania na skórę galwanizacji anodowej jest jej działanie",
+    "answers": [
+      "przekrwienne.",
+      "łagodzące.",
+      "stymulujące.",
+      "regenerujące."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 313,
+    "text": "Która technika masażu polega na ucisku fałdu skóry, zwolnieniu i przesunięciu rąk?",
+    "answers": [
+      "Ugniatanie.",
+      "Oklepywanie.",
+      "Rozcieranie.",
+      "Głaskanie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 314,
+    "text": "Do wyjałowienia głowicy przed zabiegiem mikrodermabrazji diamentowej należy zastosować sterylizację",
+    "answers": [
+      "tlenkiem etylenu.",
+      "kwasem nadoctowym.",
+      "parą wodną pod ciśnieniem.",
+      "formaldehydem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 315,
+    "text": "19-letniej klientce z cerą naczyniową należy zaproponować wykonanie w gabinecie serii zabiegów",
+    "answers": [
+      "ściągająco-normalizujących.",
+      "regeneracyjno-liftingujących.",
+      "dotleniająco-modelujących.",
+      "wyciszająco-nawilżających."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 316,
+    "text": "Roślinne związki biologicznie aktywne o właściwościach przeciwutleniających i uszczelniających naczynia krwionośne to",
+    "answers": [
+      "flawonoidy.",
+      "garbniki.",
+      "azuleny.",
+      "śluzy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 317,
+    "text": "Którą metodę należy zastosować w celu złuszczenia martwych komórek naskórka?",
+    "answers": [
+      "Sonoforezy.",
+      "Brushingu.",
+      "Jonoforezy.",
+      "Mezoterapii."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 318,
+    "text": "Który prąd wykorzystywany jest podczas wykonywania zabiegu darsonwalizacji w gabinecie kosmetycznym?",
+    "answers": [
+      "Stały.",
+      "Zmienny.",
+      "Impulsowy.",
+      "Diadynamiczny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 319,
+    "text": "Korektor w jakim kolorze należy zastosować w celu korekty ziemistej, przyżółconej cery palacza?",
+    "answers": [
+      "Zielonym.",
+      "Niebieskim.",
+      "Fioletowym.",
+      "Żółtym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 320,
+    "text": "Naświetlanie skóry lampą Sollux z filtrem czerwonym podczas wykonywania zabiegów kosmetycznych",
+    "answers": [
+      "łagodzi trądzik różowaty.",
+      "przyspiesza wchłanianie substancji odżywczych.",
+      "zmniejsza wydzielanie łoju.",
+      "łagodzi teleangiektazje."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 321,
+    "text": "Którą elektrodę należy zastosować w zabiegu przeciwłojotokowym skóry twarzy z zastosowaniem prądów dʹArsonvala?",
+    "answers": [
+      "Grzebieniową.",
+      "Wałeczkową.",
+      "Łukową.",
+      "Grzybkową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 322,
+    "text": "Działanie zmniejszające kruchość włosowatych naczyń krwionośnych w preparatach do cery naczyniowej wykazuje",
+    "answers": [
+      "chlorella.",
+      "olej macadamia.",
+      "arnika górska.",
+      "zielona herbata."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 323,
+    "text": "Jeżeli klientka ma cerę atroficzną, to należy doradzić jej wykonywanie demakijażu twarzy",
+    "answers": [
+      "mleczkiem kosmetycznym.",
+      "żelem antybakteryjnym.",
+      "wodą z mydłem.",
+      "płynem micelarnym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 324,
+    "text": "Którym urządzeniem należy posłużyć się w celu określenia stopnia transepidermalnej utraty wody przez naskórek?",
+    "answers": [
+      "Ewaporymetrem.",
+      "Pehametrem.",
+      "Twistometrem.",
+      "Kutometrem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 325,
+    "text": "Klientce z opadającymi kącikami ust należy zaproponować",
+    "answers": [
+      "obrysowanie ust nad czerwienią wargową.",
+      "zaznaczenie łuku Kupidyna na wargach.",
+      "obrysowanie ust po wewnętrznym obrysie czerwieni wargowej.",
+      "obrysowanie ust lekko powyżej ich kącików."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 326,
+    "text": "Który zespół objawów jest charakterystyczny dla trądziku różowatego?",
+    "answers": [
+      "Krostki, grudki, teleangiektazje.",
+      "Grudki, krostki, zaskórniki.",
+      "Guzki, guzy, zaskórniki.",
+      "Krostki, guzy, przetoki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 327,
+    "text": "Którą czynność należy wykonać przed wykonaniem na skórze twarzy klientki zabiegu z zastosowaniem prądu stałego?",
+    "answers": [
+      "Usunąć metalowe przedmioty z pola zabiegowego.",
+      "Nanieść olejek na skórę twarzy klientki.",
+      "Zabezpieczyć oczy klientki okularami ochronnymi.",
+      "Zaaplikować krem natłuszczający na skórę twarzy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 328,
+    "text": "Do aplikacji różu przeznaczony jest pędzel",
+    "answers": [
+      "miękki, skośny na końcu.",
+      "zakończony na prosto, płaski.",
+      "w kształcie wachlarza.",
+      "ostro zakończony."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 329,
+    "text": "Które działanie ma zawarta w składzie pudru sypkiego skrobia ryżowa?",
+    "answers": [
+      "Antyoksydacyjne.",
+      "Matujące.",
+      "Natłuszczające.",
+      "Odżywcze."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 330,
+    "text": "Do aplikacji na twarz podkładu metodą natryskową należy zastosować",
+    "answers": [
+      "aerograf.",
+      "fix-up.",
+      "kajal.",
+      "brązer."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 331,
+    "text": "Które zjawisko jest wykorzystywane podczas zabiegów laserowego usuwania owłosienia na twarzy?",
+    "answers": [
+      "Fototermolizy.",
+      "Kawitacji.",
+      "Mechanotransdukcji.",
+      "Elektroporacji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 332,
+    "text": "W makijażu oczu u osoby noszącej okulary z powodu dalekowzroczności wskazane jest stosowanie cieni",
+    "answers": [
+      "brokatowych.",
+      "opalizujących.",
+      "satynowych.",
+      "perłowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 333,
+    "text": "Przeciwwskazaniem do wykonania waponizacji w zabiegu kosmetycznym są występujące na twarzy klienta",
+    "answers": [
+      "prosaki.",
+      "teleangiektazje.",
+      "zaskórniki.",
+      "rozszerzone pory skóry."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 334,
+    "text": "W celu optycznego skorygowania twarzy klientki w kształcie gruszki, podczas modelowania należy",
+    "answers": [
+      "nałożyć róż poziomo do linii ucha.",
+      "przyciemnić kości żuchwy.",
+      "rozjaśnić kości żuchwy.",
+      "przyciemnić skórę czoła przy linii włosów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 335,
+    "text": "Który preparat należy zastosować w celu nadania skórze jednolitego koloru?",
+    "answers": [
+      "Podkład.",
+      "Puder.",
+      "Kamuflaż.",
+      "Bazę."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 336,
+    "text": "Który rodzaj peelingu mechanicznego należy zastosować w pielęgnacji skóry naczyniowej?",
+    "answers": [
+      "Brusching.",
+      "Oxybrazję.",
+      "Mikrodermabrazję.",
+      "Dermabrazję."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 337,
+    "text": "Stosując ultradźwięki jako środek do odkażania narzędzi, wykorzystuje się metodę dezynfekcji",
+    "answers": [
+      "fizycznej.",
+      "termicznej.",
+      "chemiczno-termicznej.",
+      "chemicznej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 338,
+    "text": "Do usuwania sztucznych rzęs metodą 1:1 należy posłużyć się",
+    "answers": [
+      "oliwką.",
+      "płynem micelarnym.",
+      "śmietanką kosmetyczną.",
+      "removerem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 339,
+    "text": "Korektorem w jakim kolorze należy korygować fioletowe zasinienia pod oczami?",
+    "answers": [
+      "Zielonym.",
+      "Białym.",
+      "Żółtym.",
+      "Niebieskim."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 340,
+    "text": "Które z podanych preparatów należy zastosować podczas wykonywania młodej klientce z widocznymi teleangiektazjami makijażu wieczorowego?",
+    "answers": [
+      "Zielony korektor i fluid kryjący.",
+      "Żółty korektor i fluid matujący.",
+      "Fioletowy korektor i fluid nawilżający.",
+      "Biały korektor i fluid liftingujący."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 341,
+    "text": "Klientce z cerą dojrzałą do domowej pielęgnacji należy polecić stosowanie kremu z wysoką zawartością",
+    "answers": [
+      "wyciągu z aloesu.",
+      "srebra koloidalnego.",
+      "koenzymu Q10.",
+      "alantoiny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 342,
+    "text": "Na czym polega makijaż oczu z efektem flash?",
+    "answers": [
+      "Na użyciu jednego koloru cienia i rozświetleniu środka powiek ruchomych.",
+      "Na aplikacji cienia w ciemnym kolorze na całych powiekach ruchomych.",
+      "Na modelowaniu powiek kilkoma kolorami.",
+      "Na nadaniu cieniem kształtu banana w załamaniu powiek i dolnej linii rzęs."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 343,
+    "text": "Czego nie należy stosować do regulacji łuku brwiowego w przypadku skóry dojrzałej i wiotkiej?",
+    "answers": [
+      "Nitki.",
+      "Trymera.",
+      "Wosku.",
+      "Pęsety."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 344,
+    "text": "Rumień fotochemiczny występuje podczas zabiegów kosmetycznych z zastosowaniem",
+    "answers": [
+      "prądu stałego.",
+      "promieniowania IR.",
+      "promieniowania UV.",
+      "prądu zmiennego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 345,
+    "text": "Zastosowanie na skórze twarzy klientki pre peelu przed planowanym zabiegiem peelingu chemicznego ma na celu",
+    "answers": [
+      "odtłuszczenie skóry.",
+      "zdezynfekowanie skóry.",
+      "tonizowanie skóry.",
+      "natłuszczenie skóry."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 346,
+    "text": "U klienta z cerą naczyniową w zabiegach fizykalnych nie należy stosować",
+    "answers": [
+      "darsonwalizacji.",
+      "peelingu kawitacyjnego.",
+      "sonoforezy.",
+      "jonoforezy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 347,
+    "text": "Którego typu kolorystycznego dotyczy podany opis? Cera w odcieniu ciepłym beżowym, często rumieniące się policzki, włosy w odcieniu złocistego blondu, tęczówki niebieskie.",
+    "answers": [
+      "Zimy.",
+      "Jesieni.",
+      "Lata.",
+      "Wiosny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 348,
+    "text": "Metodą profilometrii z użyciem odcisku silikonowego należy posłużyć się podczas oceny",
+    "answers": [
+      "gładkości skóry.",
+      "nawilżenia skóry.",
+      "natłuszczenia skóry.",
+      "odczynu skóry."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 349,
+    "text": "O co należy zapytać w wywiadzie kosmetycznym w celu wykluczenia przeciwwskazań do przeprowadzenia zabiegu mikrodermabrazji diamentowej?",
+    "answers": [
+      "O występowanie łuszczycy.",
+      "O grubość naskórka.",
+      "O obecność elementów metalowych w tkankach.",
+      "O stosowaną dietę."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 350,
+    "text": "Cechami charakterystycznymi której cery jest brak elastyczności, regres tkanki tłuszczowej i stopniowy zanik przydatków skóry?",
+    "answers": [
+      "Suchej.",
+      "Wrażliwej.",
+      "Tłustej.",
+      "Atroficznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 351,
+    "text": "Podczas zdobienia paznokci metodą stampingu wzór na pomalowaną płytkę paznokciową z wzornika należy przenieść za pomocą",
+    "answers": [
+      "magnesu.",
+      "wacika bezpyłowego.",
+      "stempla.",
+      "płytki metalowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 352,
+    "text": "W zabiegu pielęgnacyjnym skóry rąk w celu odbudowy zniszczonego detergentami płaszcza hydrolipidowego skóry, należy zastosować między innymi",
+    "answers": [
+      "maskę z wyciągiem z pokrzywy i związkami cynku.",
+      "balsam z olejem rycynowym i ekstraktem z mięty.",
+      "żel z ekstraktem z nagietka i związkami srebra.",
+      "krem z olejem arganowym i mocznikiem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 353,
+    "text": "Preparat oznaczony którym symbolem należy zastosować do dezynfekcji w celu likwidacji form przetrwalnikowych bakterii?",
+    "answers": [
+      "Symbolem V",
+      "Symbolem B",
+      "Symbolem F",
+      "Symbolem S"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 354,
+    "text": "Do wykonania badania skóry i tkanki podskórnej kończyn dolnych, umożliwiającego ocenę mikrokrążenia, należy zastosować metodę",
+    "answers": [
+      "dermografizmu.",
+      "termografii.",
+      "wideokapilaroskopii.",
+      "bioimpedancji elektrycznej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 355,
+    "text": "W zabiegu miejscowej krioterapii dyszę urządzenia należy trzymać",
+    "answers": [
+      "bezpośrednio przy powierzchni skóry, nieruchomo.",
+      "około 20 cm od powierzchni skóry, nieruchomo.",
+      "około 20 cm od powierzchni skóry, wykonując ruchy okrężne.",
+      "bezpośrednio przy powierzchni skóry, wykonując ruchy przemiatające."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 356,
+    "text": "Do wykonania masażu modelującego sylwetkę z wykorzystaniem podciśnienia należy posłużyć się",
+    "answers": [
+      "kamieniami.",
+      "bańką chińską.",
+      "pałeczkami bambusowymi.",
+      "stemplami."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 357,
+    "text": "Który zabieg należy zastosować w celu usunięcia przebarwień z powierzchni grzbietowych skóry rąk?",
+    "answers": [
+      "Laseroterapię.",
+      "Elektrokoagulację.",
+      "Elektrolizę.",
+      "Diatermię."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 358,
+    "text": "Klientce z problemem zimnych stóp należy zalecić do stosowania preparaty z wyciągami",
+    "answers": [
+      "z kory dębu i szałwii.",
+      "z papryki i rozmarynu.",
+      "z rumianku i kozieradki.",
+      "z lawendy i tymianku."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 359,
+    "text": "Przeciwwskazaniem do polakierowania paznokci jest",
+    "answers": [
+      "bielactwo pospolite paznokci.",
+      "łamliwość paznokci.",
+      "zespół zielonych paznokci.",
+      "kruchość paznokci."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 360,
+    "text": "Przeciwwskazaniem do wykonania zabiegu na zniszczoną i suchą skórę dłoni klientki z wykorzystaniem okluzji z ciepłej maski parafinowej jest",
+    "answers": [
+      "hipopigmentacja skóry rąk.",
+      "kandydoza wewnętrznych powierzchni rąk.",
+      "zwiotczenie zewnętrznych powierzchni rąk.",
+      "hiperpigmentacja skóry rąk."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 361,
+    "text": "Do czego przeznaczona jest kostka Arkady?",
+    "answers": [
+      "Do usuwania hiperkeratoz z pięt.",
+      "Do korygowania wrastających paznokci.",
+      "Do przedłużania naturalnych paznokci.",
+      "Do ustawienia palucha koślawego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 362,
+    "text": "Do wykonania zabiegu na ciało o działaniu intensywnie nawilżającym i zapobiegającym przesuszaniu się naskórka należy zastosować preparat zawierający w swoim składzie między innymi",
+    "answers": [
+      "olejki z lawendy i drzewa herbacianego.",
+      "fitokompleksy z szałwii i kory dębu.",
+      "sorbitol i masło shea.",
+      "wyciągi z arniki i miłorzębu japońskiego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 363,
+    "text": "Klientce, która ma rozdwajające płytki paznokciowe oraz suche, zniszczone skórki okołopaznokciowe należy wykonać manicure",
+    "answers": [
+      "na ciepło.",
+      "hybrydowy.",
+      "japoński.",
+      "tradycyjny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 364,
+    "text": "Przeciwwskazaniem do wykonania zabiegu presoterapii kończyn dolnych jest występowanie u klientki",
+    "answers": [
+      "zakrzepicy żylnej.",
+      "ociężałości kończyn dolnych.",
+      "lipodystrofii tkanki łącznej.",
+      "obrzęków pourazowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 365,
+    "text": "Do wykonania zabiegu brązującego ciało metodą natryskową z wykorzystaniem aerografu należy dobrać",
+    "answers": [
+      "fluid z kaolinem.",
+      "płyn z dihydroksyacetonem.",
+      "fix up z kwasem hialuronowym.",
+      "kajal z olejkiem migdałowym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 366,
+    "text": "W celu optycznego powiększenia małej płytki paznokciowej wskazane jest malowanie lakierem",
+    "answers": [
+      "perłowym dokładnie całego paznokcia.",
+      "ciemnym omijając obłączek paznokcia.",
+      "czerwonym pozostawiając wolne brzegi paznokcia.",
+      "ciemnym środka paznokcia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 367,
+    "text": "W celu oceny elastyczności skóry biustu i dekoltu należy zastosować metodę z wykorzystaniem",
+    "answers": [
+      "meksametru.",
+      "pehametru.",
+      "korneometru.",
+      "ekstensometru."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 368,
+    "text": "W zabiegu skóry rąk, w celu odbudowy zniszczonego detergentami płaszcza hydrolipidowego, należy zastosować między innymi",
+    "answers": [
+      "krem z olejem arganowym i mocznikiem.",
+      "balsam z olejem rycynowym i ekstraktem z mięty.",
+      "maskę z wyciągiem z pokrzywy i związkami cynku.",
+      "żel z ekstraktem z nagietka i związkami srebra."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 369,
+    "text": "Przeciwwskazaniami do przeprowadzenia zabiegu kriolipolizy w obrębie ud i pośladków jest",
+    "answers": [
+      "cellulit lipidowy.",
+      "otyłość hipertroficzna.",
+      "wszczepiony rozrusznik serca.",
+      "obniżona elastyczność skóry."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 370,
+    "text": "W celu wykonania zabiegu złuszczania martwych komórek naskórka skóry pleców za pomocą szczoteczki należy przygotować aparat do",
+    "answers": [
+      "brushingu.",
+      "mikrodermabrazji.",
+      "darsonwalizacji.",
+      "kawitacji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 371,
+    "text": "W celu zmniejszenia objawów fotostarzenia występujących na grzbietowych powierzchniach rąk należy wykonać",
+    "answers": [
+      "manicure hybrydowy.",
+      "kompresjoterapię bierną.",
+      "masaż ultradźwiękowy.",
+      "eksfoliację kwasami."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 372,
+    "text": "Przed przystąpieniem do wykonania zabiegu kawitacji skóry pleców klienta, szpatułę ultradźwiękową należy",
+    "answers": [
+      "przetrzeć tonikiem antybakteryjnym.",
+      "wysterylizować w autoklawie.",
+      "zdezynfekować preparatem do dezynfekcji narzędzi.",
+      "umyć mydłem antybakteryjnym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 373,
+    "text": "Którą maskę należy zastosować podczas wykonywania zabiegu ujędrniająco-modelującego na biust?",
+    "answers": [
+      "Ziołową.",
+      "Gipsową.",
+      "Żelową.",
+      "Kaolinową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 374,
+    "text": "Do dezynfekcji skóry twarzy po zabiegu usuwania prosaków należy użyć roztworu nadtlenku wodoru w stężeniu",
+    "answers": [
+      "9%",
+      "12%",
+      "3%",
+      "2%"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 375,
+    "text": "Klientce z cerą atroficzną należy zaproponować między innymi zabieg",
+    "answers": [
+      "oczyszczający.",
+      "dotleniający.",
+      "odżywczy.",
+      "normalizujący."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 376,
+    "text": "W celu obkurczenia i wzmocnienia ścian naczyń krwionośnych w zabiegu jonoforezy stabilnej stosuje się",
+    "answers": [
+      "sodę oczyszczoną.",
+      "kwas askorbinowy.",
+      "jony cynku.",
+      "jony miedzi."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 377,
+    "text": "Który zabieg wymaga w trakcie jego wykonywania ciągłego zwilżania skóry twarzy wodą, roztworem wodnym chlorku sodu lub tonikiem bezalkoholowym?",
+    "answers": [
+      "Mezoterapia.",
+      "Kawitacja.",
+      "Elektrostymulacja.",
+      "Termoliza."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 378,
+    "text": "Przeciwwskazaniem do wykonania air brushingu jest",
+    "answers": [
+      "ostuda.",
+      "sucha skóra.",
+      "opryszczka.",
+      "tłusta skóra."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 379,
+    "text": "Którą metodę należy zastosować w celu oceny gładkości skóry i głębokości zmarszczek klientki?",
+    "answers": [
+      "Profilometrii.",
+      "Sebumetrii.",
+      "Korneometrii.",
+      "Diaskopii."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 380,
+    "text": "Klientowi z objawami acne vulgaris należy zaproponować zabieg",
+    "answers": [
+      "liftingujący.",
+      "termomodelujący.",
+      "wybielający.",
+      "sebostatyczny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 381,
+    "text": "Naświetlanie promieniowaniem UV należy zaproponować klientce z problemem",
+    "answers": [
+      "teleangiektazji.",
+      "łuszczycy.",
+      "znamion.",
+      "ostudy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 382,
+    "text": "Przeciwwskazaniem do wykonania makijażu oczu metodą smokey eye jest",
+    "answers": [
+      "świeża blizna pod brwią.",
+      "obecność prosaków.",
+      "zespół suchego oka.",
+      "zasiniona powieka."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 383,
+    "text": "Bezpośrednio przed zabiegiem przyklejania kępek rzęs pęsetę należy poddać dezynfekcji",
+    "answers": [
+      "chemiczno-termicznej.",
+      "termicznej.",
+      "radiacyjnej.",
+      "chemicznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 384,
+    "text": "Do pielęgnacji domowej cery atroficznej należy zalecić stosowanie preparatów z zawartością",
+    "answers": [
+      "ekstraktu z pokrzywy.",
+      "glinki zielonej.",
+      "kaolinu.",
+      "ekstraktu z alg brunatnych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 385,
+    "text": "Przed wykonaniem po raz pierwszy u klientki zabiegu farbowania brwi i rzęs, należy przeprowadzić",
+    "answers": [
+      "natłuszczenie skóry twarzy.",
+      "regulację brwi.",
+      "ocenę zabarwienia skóry.",
+      "test płatkowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 386,
+    "text": "Przeprowadzając zabieg pielęgnacyjny na skórze palacza należy zastosować preparaty mające w swoim składzie",
+    "answers": [
+      "garbniki i ceramidy.",
+      "wyciągi z łopianu i lawendy.",
+      "glinkę zieloną i wyciąg z pokrzywy.",
+      "spirulinę i kwas glikolowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 387,
+    "text": "Do zabiegu jonoforezy metodą stabilną należy zastosować",
+    "answers": [
+      "elektrodę wałeczkową.",
+      "głowicę labilną.",
+      "elektrodę Bergoniego.",
+      "szklaną pelotę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 388,
+    "text": "Aerografu należy użyć w celu wykonania klientce",
+    "answers": [
+      "peelingu.",
+      "epilacji.",
+      "face paintingu.",
+      "pomiaru odczynu pH skóry."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 389,
+    "text": "Klientka o ciepłym beżowobrzoskwiniowym odcieniu skóry, włosach z rudawymi refleksami i szarobrązowych oczach reprezentuje typ kolorystyczny",
+    "answers": [
+      "wiosna.",
+      "jesień.",
+      "lato.",
+      "zima."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 390,
+    "text": "W celu rozszerzenia ujść gruczołów łojowych i rozpulchnienia cery tłustej należy zastosować maskę",
+    "answers": [
+      "alginatową.",
+      "peel-off.",
+      "gipsową.",
+      "parafinową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 391,
+    "text": "Kosmetyczka bezpośrednio przed przystąpieniem do zabiegu mikrodermabrazji powinna bezwzględnie",
+    "answers": [
+      "założyć czepek ochronny na włosy.",
+      "ubrać się w fartuch jednorazowy.",
+      "nałożyć rękawiczki bawełniane.",
+      "założyć rękawiczki jednorazowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 392,
+    "text": "W makijażu fikser należy zastosować w celu",
+    "answers": [
+      "utrwalenia makijażu.",
+      "przyciemnienia konturów twarzy.",
+      "rozświetlenia makijażu.",
+      "kamuflażu sińców pod oczami."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 393,
+    "text": "Przed nałożeniem henny na rzęsy należy",
+    "answers": [
+      "podłożyć pod rzęsy natłuszczony podkład.",
+      "przeprowadzić farbowanie brwi.",
+      "zdezynfekować skórę twarzy.",
+      "wykonać regulację łuku brwiowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 394,
+    "text": "Do oceny poziomu natłuszczenia skóry przeznaczony jest",
+    "answers": [
+      "ewaporymetr.",
+      "twistometr.",
+      "korneometr.",
+      "sebumetr."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 395,
+    "text": "Wykonując makijaż klientce, biały korektor należy użyć w celu",
+    "answers": [
+      "rozświetlenia skóry twarzy.",
+      "ukrycia mankamentów.",
+      "konturowania oczu.",
+      "utrwalenia podkładu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 396,
+    "text": "Makijaż oczu u klientki z dalekowzrocznością noszącej okulary należy wykonać",
+    "answers": [
+      "cieniami perłowymi.",
+      "wyraziście z mocną kreską.",
+      "w kolorach pastelowych.",
+      "cieniami opalizującymi."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 397,
+    "text": "W celu ukrycia fioletowych zasinień pod oczami należy zastosować korektor o barwie",
+    "answers": [
+      "żółtej.",
+      "fioletowej.",
+      "zielonej.",
+      "różowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 398,
+    "text": "Białe, drobne punkciki umiejscowione pod naskórkiem najczęściej na powiekach i policzkach, to",
+    "answers": [
+      "kaszaki.",
+      "prosaki.",
+      "zaskórniki.",
+      "piegi."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 399,
+    "text": "Na której ilustracji przedstawiony jest pędzel przeznaczony do aplikacji pudru mineralnego?",
+    "answers": [
+      "Na ilustracji 3.",
+      "Na ilustracji 4.",
+      "Na ilustracji 2.",
+      "Na ilustracji 1."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "frk04/a61_pedzle2.png"
+    },
+    "category": "FRK.04"
+  },
+  {
+    "id": 400,
+    "text": "Kosmetyczną elektrodę wałeczkową przed przystąpieniem wykonania zabiegu należy",
+    "answers": [
+      "poddać sterylizacji radiacyjnej.",
+      "przetrzeć preparatem do dezynfekcji narzędzi.",
+      "wymyć mydłem i wodą.",
+      "wysterylizować w autoklawie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 401,
+    "text": "Do charakterystycznych cech skóry wrażliwej zalicza się między innymi",
+    "answers": [
+      "napięcie i swędzenie.",
+      "świecenie i lepkość w dotyku.",
+      "wiotkość i skłonność do przebarwień.",
+      "cienki naskórek i skłonność do łuszczenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 402,
+    "text": "Przeciwwskazaniem do zabiegu naświetlania promieniowaniem UV w solarium jest",
+    "answers": [
+      "łuszczyca.",
+      "łupież łojotokowy.",
+      "cukrzyca.",
+      "łysienie plackowate."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 403,
+    "text": "Pędzelka w kształcie kulki należy użyć do",
+    "answers": [
+      "aplikacji cieni.",
+      "nakładania korektora.",
+      "rysowania kreski.",
+      "aplikacji pomadki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 404,
+    "text": "Maskę termoaktywną na twarz należy nałożyć bezpośrednio na",
+    "answers": [
+      "wilgotny kompres.",
+      "zwilżoną skórę.",
+      "suchy kompres.",
+      "suchą skórę."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 405,
+    "text": "W wyniku naświetlania promieniami UV na skórze powstaje rumień",
+    "answers": [
+      "termiczny.",
+      "fotochemiczny.",
+      "cieplny.",
+      "galwaniczny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 406,
+    "text": "Najdłużej utrzymujący się efekt usunięcia owłosienia z twarzy daje depilacja",
+    "answers": [
+      "kremem do depilacji.",
+      "pastą cukrową.",
+      "woskiem miękkim.",
+      "laserem diodowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 407,
+    "text": "Do zdezynfekowania stanowiska kosmetycznego przed planowanym zabiegiem należy wybrać metodę",
+    "answers": [
+      "termiczną.",
+      "chemiczną.",
+      "chemiczno-termiczną.",
+      "radiacyjną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 408,
+    "text": "Metodą, która pozwoli ocenić poziom wrażliwości skóry jest",
+    "answers": [
+      "profilometria pośrednia.",
+      "profilometria bezpośrednia.",
+      "dermografizm.",
+      "diaskopia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 409,
+    "text": "Użyte do zabiegu mikrodermabrazji głowice należy",
+    "answers": [
+      "pozostawić do zaschnięcia i oczyścić szczoteczką.",
+      "umyć w wodzie z mydłem.",
+      "wysterylizować w autoklawie.",
+      "zdezynfekować w sanityzatorze."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 410,
+    "text": "Przed zabiegiem darsonwalizacji należy skórę zmyć, a następnie",
+    "answers": [
+      "natłuścić.",
+      "osuszyć.",
+      "nawilżyć kremem.",
+      "pokryć żelem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 411,
+    "text": "W modelowaniu oczu głęboko osadzonych należy",
+    "answers": [
+      "obrysować oczy czarną kredką.",
+      "przyciemnić powieki górne, ruchome.",
+      "nałożyć ciemny cień pod liniami brwi.",
+      "rozjaśnić powieki górne, ruchome."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 412,
+    "text": "Udzielając mężczyźnie porady pielęgnacyjnej dotyczącej tłustej skóry twarzy należy zaproponować między innymi stosowanie kosmetyków o działaniu",
+    "answers": [
+      "silnie natłuszczającym skórę.",
+      "zmniejszającym grubość warstwy rogowej.",
+      "likwidującym przebarwienia skóry.",
+      "mocno wysuszającym i ściągającym skórę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 413,
+    "text": "Przeciwwskazaniem do wykonania farbowania brwi i rzęs między innymi są",
+    "answers": [
+      "przebarwienia.",
+      "świeżo wydepilowane brwi.",
+      "cienkie rzęsy.",
+      "liczne teleangiektazje."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "FRK.04"
+  },
+  {
+    "id": 414,
+    "text": "Klientce z dużymi, wypukłymi oczami należy zaproponować używanie cieni",
+    "answers": [
+      "brokatowych.",
+      "opalizujących.",
+      "perłowych.",
+      "matowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "FRK.04"
+  }
+]
