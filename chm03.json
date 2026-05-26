@@ -1,0 +1,2820 @@
+[
+  {
+    "id": 1,
+    "text": "Na ilustracji przedstawiono sprzęt stosowany do",
+    "answers": [
+      "sublimacji.",
+      "sączenia.",
+      "suszenia.",
+      "destylacji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_sprzet9.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 2,
+    "text": "W laboratorium chemicznym apteczka pierwszej pomocy powinna zawierać",
+    "answers": [
+      "spirytus salicylowy.",
+      "środki opatrunkowe.",
+      "leki nasercowe.",
+      "leki przeciwbólowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 3,
+    "text": "Wyciąg z rozporządzenia Ministra Zdrowia w sprawie pobierania i przechowywania próbek żywności przez zakłady żywienia zbiorowego typu zamkniętego Na opakowaniu przeznaczonym do przechowywania próbki umieszcza się w sposób trwały napis określający zawartość, datę i godzinę przygotowania potrawy oraz imię, nazwisko i stanowisko służbowe osoby, która pobrała próbkę. (…) Miejsce przechowywania próbek musi być tak zabezpieczone, aby dostęp do niego posiadał tylko kierujący zakładem lub osoba przez niego upoważniona. Zgodnie z zamieszczoną treścią Rozporządzenia Ministra Zdrowia na opakowaniu z pobraną próbką żywności należy umieścić napis określający",
+    "answers": [
+      "zawartość, datę przygotowania potrawy, temperaturę przechowywania próbki i stanowisko służbowe próbkobiorcy.",
+      "datę i godzinę przygotowania potrawy, imię, nazwisko i stanowisko służbowe próbkobiorcy oraz temperaturę przechowywania próbki.",
+      "zawartość, datę i godzinę przygotowania potrawy, dane próbkobiorcy – imię, nazwisko i stanowisko służbowe.",
+      "zawartość, datę przygotowania potrawy, dane próbkobiorcy – imię i nazwisko."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 4,
+    "text": "Na ilustracji przedstawiono sprzęt stosowany do sączenia osadu",
+    "answers": [
+      "w podwyższonej temperaturze.",
+      "pod zwiększonym ciśnieniem.",
+      "w stałej temperaturze.",
+      "pod zmniejszonym ciśnieniem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_sprzet10.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 5,
+    "text": "Odczynniki chemiczne, dla których upłynął termin ważności,",
+    "answers": [
+      "należy zutylizować z odpadami chemicznymi.",
+      "można stosować pod warunkiem zachowania czystości substancji.",
+      "można zużyć do końca opakowania.",
+      "należy przechowywać w magazynie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 6,
+    "text": "W celu sprawdzenia stężenia kwasu siarkowego(VI) odważono 1 g badanego kwasu i przeprowadzono analizę miareczkową, w której zużyto 20,4 cm3 roztworu NaOH. Stężenie procentowe badanego kwasu, obliczone na podstawie wzoru wynosi",
+    "answers": [
+      "20,4%",
+      "2,45%",
+      "50,0%",
+      "5,02%"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_wzor4.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 7,
+    "text": "Jeśli na etykiecie opakowania odczynnika chemicznego jest zapis cz.d.a. to oznacza, że odczynnik",
+    "answers": [
+      "zawiera minimum 0,05% zanieczyszczeń.",
+      "zawiera maksymalnie 0,1% zanieczyszczeń.",
+      "zawiera minimum 0,1% zanieczyszczeń.",
+      "zawiera maksymalnie 0,05% zanieczyszczeń."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 8,
+    "text": "300 cm3 zanieczyszczonego benzenu poddano destylacji. Otrzymano 270 cm3 czystej substancji. Wydajność procesu oczyszczania wyniosła",
+    "answers": [
+      "90%",
+      "111%",
+      "80%",
+      "10%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 9,
+    "text": "Naczynia do pobierania i przechowywania próbek ciekłych, przeznaczonych do oznaczenia zawartości krzemionki powinny być wykonane",
+    "answers": [
+      "z tworzyw sztucznych.",
+      "z materiałów nieprzezroczystych.",
+      "ze szkła sodowego.",
+      "ze szkła kwarcowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 10,
+    "text": "W celu rozdzielenia mieszaniny etanolu i wody należy przeprowadzić proces",
+    "answers": [
+      "destylacji.",
+      "ekstrakcji.",
+      "sączenia.",
+      "dekantacji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 11,
+    "text": "W celu pobrania dokładnie 20 cm3 próbki wody do badań analitycznych należy użyć",
+    "answers": [
+      "pipety wielomiarowej o pojemności 25 cm3.",
+      "pipety jednomiarowej o pojemności 20 cm3.",
+      "pipety jednomiarowej o pojemności 10 cm3.",
+      "cylindra miarowego o pojemności 25 cm3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 12,
+    "text": "Który zestaw sprzętu laboratoryjnego służy do sączenia osadów?",
+    "answers": [
+      "Zlewka, lejek, trójnóg, tygiel.",
+      "Zlewka, lejek, waga, bagietka.",
+      "Zlewka, lejek, statyw, bagietka.",
+      "Zlewka, waga, tryskawka, bagietka."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 13,
+    "text": "Procedura nastawiania miana roztworu wodorotlenku sodu na kwas solny Do kolby stożkowej odmierzyć 25 cm3 roztworu HCl o stężeniu 0,20 mol/dm3, dodać 50 cm3 wody destylowanej, 2 krople wskaźnika i dokładnie mieszając miareczkować roztworem NaOH do zmiany barwy roztworu z czerwonej na żółtą. Zgodnie z zamieszczoną procedurą, jako wskaźnika do nastawiania miana roztworu wodorotlenku sodu na kwas solny, należy użyć",
+    "answers": [
+      "fenoloftaleiny.",
+      "oranżu metylowego.",
+      "skrobi.",
+      "chromianu(VI) potasu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 14,
+    "text": "Ilustracja przedstawia fragment szklanej pipety wielomiarowej",
+    "answers": [
+      "klasy jakości D.",
+      "klasy jakości AS.",
+      "skalibrowanej w temperaturze 10°C.",
+      "skalibrowanej na wlew."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_pipeta6.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 15,
+    "text": "W celu wydania świadectwa kontroli jakości odczynnika chemicznego – jodku potasu cz.d.a. przeprowadzono jego analizę. Wymagania oraz wyniki badań zapisano w tabeli: Z analizy danych zawartych w tabeli wynika, że jodek potasu cz.d.a.",
+    "answers": [
+      "spełnia wymagania i można wydać świadectwo jakości.",
+      "nie spełnia wymagań pod względem zawartości metali ciężkich.",
+      "nie spełnia wymagań pod względem zawartości żelaza.",
+      "nie spełnia wymagań pod względem pH i zawartości jodanów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_tabela48.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 16,
+    "text": "Do oczyszczania próbki gazowej służy",
+    "answers": [
+      "zestaw sit.",
+      "chłodnica.",
+      "płuczka.",
+      "rozdzielacz."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 17,
+    "text": "Jaką masę węglanu sodu należy odważyć, aby przygotować 200 cm3 roztworu o stężeniu 8% (m/v)?",
+    "answers": [
+      "16,0 g",
+      "8,0 g",
+      "1,6 g",
+      "9,6 g"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 18,
+    "text": "Odczynniki chemiczne o najwyższym stopniu czystości to odczynniki",
+    "answers": [
+      "spektralnie czyste.",
+      "czyste do analizy.",
+      "chemicznie czyste.",
+      "czyste."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 19,
+    "text": "Do pobierania próbek gazowych stosuje się",
+    "answers": [
+      "aspirator.",
+      "batometr.",
+      "czerpak.",
+      "butelkę."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 20,
+    "text": "Roztwory o dokładnie znanym stężeniu, stosowane w analizie miareczkowej, to",
+    "answers": [
+      "roztwory koloidowe.",
+      "roztwory mianowane.",
+      "roztwory nasycone.",
+      "roztwory niejednorodne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 21,
+    "text": "Z informacji zawartych na przedstawionej etykiecie opakowania odczynnika chemicznego wynika, że azotan(V) srebra jest substancją",
+    "answers": [
+      "łatwopalną, korodującą metale i toksyczną dla środowiska.",
+      "łatwopalną, toksyczną i szkodliwą dla środowiska.",
+      "utleniającą, drażniącą i toksyczną dla środowiska.",
+      "utleniającą, żrącą i szkodliwą dla środowiska."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_etykieta8.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 22,
+    "text": "Ze względu na właściwości higroskopijne tlenek fosforu(V) powinien być przechowywany bez dostępu",
+    "answers": [
+      "powietrza.",
+      "ciepła.",
+      "tlenu.",
+      "światła."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 23,
+    "text": "Przyrząd przedstawiony na rysunku służy do pobierania próbek substancji",
+    "answers": [
+      "ciekłych.",
+      "stałych.",
+      "gazowych.",
+      "mazistych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_przyrzad7.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 24,
+    "text": "Stężenie procentowe roztworu HCl (M=36,46 g/mol) o gęstości 1,19 g/cm3 i stężeniu molowym 12 mol/dm3 wynosi",
+    "answers": [
+      "19,6%",
+      "36,8%",
+      "39,2%",
+      "78,3%"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 25,
+    "text": "Do sprzętu laboratoryjnego metalowego stosowanego w pracach analitycznych należy",
+    "answers": [
+      "statyw.",
+      "bagietka.",
+      "eksykator.",
+      "zlewka."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 26,
+    "text": "Sprzęt laboratoryjny przedstawiony na ilustracji stanowi element zestawu do",
+    "answers": [
+      "pomiaru pH roztworu.",
+      "sączenia.",
+      "ogrzewania.",
+      "ważenia substancji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_element.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 27,
+    "text": "W probówce zmieszano roztwory CuSO4 i NaOH. Otrzymano niebieski osad, który po ogrzaniu zmienił barwę na czarną. Czarnym osadem jest",
+    "answers": [
+      "tlenek miedzi(I)",
+      "tlenek miedzi(II)",
+      "wodorotlenek miedzi(II)",
+      "wodorotlenek miedzi(I)"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 28,
+    "text": "Metodą oczyszczania substancji wykorzystującą różnice w rozpuszczalności składników w danym rozpuszczalniku jest",
+    "answers": [
+      "adsorpcja.",
+      "chromatografia.",
+      "krystalizacja.",
+      "destylacja."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 29,
+    "text": "Pobrane próbki wody do analiz fizykochemicznych transportuje się",
+    "answers": [
+      "w temperaturze 20±3°C, bez dostępu światła.",
+      "w temperaturze 10±3°C, z dostępem światła.",
+      "w temperaturze 5±3°C, bez dostępu światła.",
+      "w temperaturze 15±3°C, z dostępem światła."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 30,
+    "text": "W jakim stosunku objętościowym należy zmieszać roztwór o stężeniu 5 mol/dm3 z wodą destylowaną, aby otrzymać roztwór o stężeniu 3 mol/dm3?",
+    "answers": [
+      "2:3",
+      "3:2",
+      "3:5",
+      "5:3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 31,
+    "text": "Do systemu kanalizacyjnego, w postaci rozcieńczonego roztworu wodnego w ilości nieprzekraczającej jednorazowo 100 g, można wprowadzić",
+    "answers": [
+      "BaCl2",
+      "Pb(NO3)2",
+      "AgF",
+      "NaCl"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 32,
+    "text": "Bezpośrednio po przeprowadzonych pomiarach pH, elektrody należy przemyć",
+    "answers": [
+      "wodą destylowaną.",
+      "roztworem buforowym o określonym pH.",
+      "roztworem chlorku potasu.",
+      "wodą destylowaną z dodatkiem roztworu wzorcowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 33,
+    "text": "Przedstawiony na ilustracji zestaw służy do",
+    "answers": [
+      "ważenia substancji stałej.",
+      "pomiaru pH roztworu.",
+      "miareczkowania alkacymetrycznego.",
+      "pobierania określonej objętości cieczy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_zestaw15.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 34,
+    "text": "Maksymalna średnica ziaren w partii substancji stałej wynosi 0,5 cm. Zgodnie z danymi zawartymi w tabeli próbka pierwotna tej substancji powinna mieć masę minimum",
+    "answers": [
+      "100 g",
+      "2 500 g",
+      "1 000 g",
+      "200 g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_tabela49.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 35,
+    "text": "W celu otrzymania drobnokrystalicznego osadu BaSO4 należy wykonać następujące czynności: Do zlewki odpipetować 20 cm3 roztworu BaCl2, dodać 100 cm3 wody destylowanej oraz kilka kropli roztworu HCl. Zawartość zlewki ogrzać na łaźni wodnej, następnie mieszając dodać 35 cm3 roztworu H2SO4. Mieszaninę ogrzewać na łaźni wodnej przez 1 godzinę. Osad odsączyć i przemyć kilka razy gorącą wodą zakwaszoną kilku kroplami roztworu H2SO4. Zgodnie z zamieszczoną procedurą, do otrzymania osadu BaSO4 niezbędne są:",
+    "answers": [
+      "zlewka, cylindry miarowe o pojemności 25, 50 i 100 cm3, palnik, trójnóg, zestaw do sączenia, sączek „miękki”.",
+      "zlewka, pipeta wielomiarowa o pojemności 25 cm3, cylindry miarowe o pojemności 50 i 100 cm3, łaźnia wodna, bagietka, zestaw do sączenia, sączek „miękki”.",
+      "zlewka, cylindry miarowe o pojemności 25, 50 i 100 cm3, łaźnia wodna, zestaw do sączenia, sączek „twardy”.",
+      "zlewka, cylindry miarowe o pojemności 50 i 100 cm3, pipeta jednomiarowa o pojemności 20 cm3, łaźnia wodna, bagietka, zestaw do sączenia, sączek „twardy”."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 36,
+    "text": "Metodą kwartowania (ćwiartkowania) można zmniejszyć masę próbki ogólnej",
+    "answers": [
+      "ciekłej.",
+      "półciekłej.",
+      "stałej.",
+      "gazowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 37,
+    "text": "Proces rozdzielania mieszaniny niejednorodnej polegający na opadaniu cząstek pod wpływem siły grawitacji to",
+    "answers": [
+      "absorpcja.",
+      "sedymentacja.",
+      "hydratacja.",
+      "dekantacja."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 38,
+    "text": "Czynność wykonywana po pobraniu próbki wody, służąca zachowaniu składu chemicznego w czasie transportu, nosi nazwę",
+    "answers": [
+      "utrwalania.",
+      "mianowania.",
+      "oczyszczania.",
+      "rozcieńczania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 39,
+    "text": "W którym równaniu reakcji następuje zmiana stopni utlenienia pierwiastków?",
+    "answers": [
+      "2KClO3 → 2KCl + 3O2",
+      "BaCl2 + H2SO4 → BaSO4 + 2HCl",
+      "CaCO3 → CaO + CO2",
+      "NaOH + HCl → NaCl + H2O"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 40,
+    "text": "Próbkę przygotowaną z próbki ogólnej, reprezentującą właściwości partii produktu, nazywa się próbką",
+    "answers": [
+      "średnią laboratoryjną.",
+      "wtórną.",
+      "jednostkową.",
+      "pierwotną laboratoryjną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 41,
+    "text": "Fragment Rozporządzenia Ministra Zdrowia w sprawie pobierania i przechowywania próbek żywności przez zakłady żywienia zbiorowego typu zamkniętego (…) Zakład przechowuje próbki, przez co najmniej 3 dni, licząc od chwili, kiedy cała partia została spożyta w miejscu wydzielonym wyłącznie do tego celu oraz w warunkach zapewniających utrzymanie temperatury +4°C lub niższej, w zależności od przechowywanego produktu. Miejsce przechowywania próbek musi być tak zabezpieczone, aby dostęp do niego posiadał tylko kierujący zakładem lub osoba przez niego upoważniona. Który sposób przechowywania próbek żywności jest niezgodny z Rozporządzeniem Ministra Zdrowia?",
+    "answers": [
+      "Przechowywanie w temperaturze maksymalnej +4°C.",
+      "Przechowywanie w specjalnie do tego celu wyznaczonym miejscu, do którego dostęp posiada kierownik zakładu lub osoba  przez niego upoważniona.",
+      "Przechowywanie przez maksymalnie 3 dni od czasu pobrania próbek.",
+      "Przechowywanie przez co najmniej 3 dni od czasu spożycia całej partii żywności."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 42,
+    "text": "Wybrakowany lub uszkodzony sprzęt laboratoryjny oznaczono numerami",
+    "answers": [
+      "II, III i VI",
+      "IV, V i VI",
+      "II, IV i V",
+      "I, II i VI"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_sprzety4.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 43,
+    "text": "Do rozdrabniania niewielkich ilości substancji stałych w laboratorium służy",
+    "answers": [
+      "parownica z łyżeczką porcelanową.",
+      "moździerz z tłuczkiem.",
+      "zlewka z bagietką.",
+      "krystalizator ze szpatułką metalową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 44,
+    "text": "Rozpuszczalność siarczanu(VI) potasu w temperaturze 30°C wynosi 13 g/100 g wody. Jaką masę tej substancji w podanej temperaturze należy rozpuścić w wodzie, aby otrzymać 500 g roztworu nasyconego?",
+    "answers": [
+      "57,5 g",
+      "65,0 g",
+      "52,0 g",
+      "74,4 g"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 45,
+    "text": "Przedstawiony sposób dotyczy pobierania próbki wody do przeprowadzenia badań",
+    "answers": [
+      "mikrobiologicznych.",
+      "w celu oznaczenia zawartości rozpuszczonych gazów.",
+      "fizykochemicznych.",
+      "w celu oznaczenia zawartości metali ciężkich."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_ramka9.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 46,
+    "text": "Otrzymano cztery związki organiczne. Następnie poddano je krystalizacji, wysuszono i dla każdego trzykrotnie oznaczono temperaturę topnienia. Wyniki zestawiono w tabeli.",
+    "answers": [
+      "Mocznik, kwas benzoesowy.",
+      "Acetanilid, kwas salicylowy.",
+      "Kwas benzoesowy, kwas salicylowy.",
+      "Mocznik, acetanilid."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_ramka8.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 47,
+    "text": "Metoda mineralizacji próbki, polegająca na jej spaleniu w piecu muflowym, w temp. 300-500°C i rozpuszczeniu pozostałości po spaleniu w kwasach, celem oznaczenia zawartości metali ciężkich, to mineralizacja",
+    "answers": [
+      "mokra.",
+      "mikrofalowa.",
+      "sucha.",
+      "ciśnieniowa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 48,
+    "text": "Na ilustracji numerami 1, 2 i 3 oznaczono kolejno",
+    "answers": [
+      "nasadkę Claisena, chłodnicę zwrotną i przedłużacz.",
+      "przedłużacz, kolumnę rektyfikacyjną i nasadkę destylacyjną.",
+      "nasadkę destylacyjną, chłodnicę Liebiga i przedłużacz.",
+      "przedłużacz, chłodnicę Liebiga i odbieralnik."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_zestaw14.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 49,
+    "text": "Przyrządem pomiarowym nie jest",
+    "answers": [
+      "termometr.",
+      "pehametr.",
+      "eksykator.",
+      "konduktometr."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 50,
+    "text": "Na ilustracji przedstawiono fragment etykiety odczynnika chemicznego o czystości",
+    "answers": [
+      "spektralnie czysty.",
+      "czysty do analizy.",
+      "czysty.",
+      "techniczny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_etykieta7.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 51,
+    "text": "Odpady laboratoryjne zwierające jony metali ciężkich należy przed wprowadzeniem do odpowiednio oznakowanego pojemnika",
+    "answers": [
+      "rozcieńczyć wodą destylowaną.",
+      "przeprowadzić w trudnorozpuszczalne związki i odsączyć.",
+      "zneutralizować kwasem solnym lub zasadą sodową.",
+      "zasypać wodorowęglanem sodu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 52,
+    "text": "W wyniku reakcji 100 g azotanu(V) ołowiu(II) z jodkiem potasu otrzymano 120 g jodku ołowiu(II). Pb(NO3)2 + 2KI → PbI2 + 2KNO3 (MPb(NO3)2 = 331 g/mol, MKL = 166 g/mol, MPbI2 = 461 g/mol, MKNO3 = 101 g/mol) Wydajność reakcji wyniosła",
+    "answers": [
+      "25%",
+      "42%",
+      "86%",
+      "98%"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 53,
+    "text": "Na ilustracji przedstawiono technikę zmniejszania stałej próbki ogólnej zwaną techniką",
+    "answers": [
+      "przesypywania frakcjonowanego.",
+      "przemiennego usypywania dwóch stożków.",
+      "ćwiartkowania.",
+      "rozdwajania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_ilustracja3.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 54,
+    "text": "Którymi numerami oznaczone są ilustracje przedstawiające przyrządy do pobierania próbek ciał stałych?",
+    "answers": [
+      "III i IV",
+      "I i III",
+      "II i III",
+      "I i II"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_przyrzady.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 55,
+    "text": "Za pomocą przyrządu przedstawionego na ilustracji można pobrać próbkę",
+    "answers": [
+      "gleby.",
+      "wody.",
+      "gazów.",
+      "ścieków."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_przyrzad6.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 56,
+    "text": "Równanie reakcji prażenia węglanu wapnia: CaCO3 → CaO + CO2 (MCaCO3 = 100 g/mol, MCaO = 56 g/mol, MCO2 = 44 g/mol) 200 g węglanu wapnia zawierającego 10% zanieczyszczeń poddano prażeniu. Masa otrzymanego tlenku wapnia wyniosła",
+    "answers": [
+      "31,1 g",
+      "100,8 g",
+      "28,0 g",
+      "112,0 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 57,
+    "text": "Na opakowaniu którego odczynnika powinien znaleźć się piktogram przedstawiony na ilustracji?",
+    "answers": [
+      "Stearynianu sodu.",
+      "Chlorku sodu.",
+      "Wodorotlenku sodu.",
+      "Glukozy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_piktogram5.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 58,
+    "text": "Na ilustracji przedstawiono sprzęt laboratoryjny, za pomocą którego można oznaczyć",
+    "answers": [
+      "pH roztworu.",
+      "gęstość cieczy.",
+      "lepkość cieczy.",
+      "temperaturę roztworu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_sprzet8.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 59,
+    "text": "Jaką objętość zasady sodowej o stężeniu 1,0 mol/dm3 należy dodać do 56,8 g kwasu stearynowego, aby otrzymać mydło sodowe (stearynian sodu)? C17H35COOH + NaOH → C17H35COONa + H2O (MC17H35COOH = 284 g/mol, MC17H35COONa = 306 g/mol, MNaOH = 40 g/mol, MH2O = 18 g/mol)",
+    "answers": [
+      "250 cm3",
+      "100 cm3",
+      "150 cm3",
+      "200 cm3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 60,
+    "text": "W celu uzyskania 500 g mieszaniny oziębiającej o temperaturze -18°C należy zmieszać",
+    "answers": [
+      "384,6 g wody i 115,4 g chlorku amonu.",
+      "250,0 g wody i 250,0 g rodanku amonu.",
+      "375,0 g lodu i 125,0 g chlorku sodu.",
+      "384,6 g lodu i 115,4 g chlorku amonu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_tabela46.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 61,
+    "text": "Na ilustracji przedstawiono przykładowe schematy terenowego pobierania próbek",
+    "answers": [
+      "gleby.",
+      "gazów.",
+      "wody pitnej.",
+      "ścieków."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_schematy.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 62,
+    "text": "Odczynnik, w którym zanieczyszczeń nie można wykryć nawet bardzo czułymi metodami analizy chemicznej, a do jego analizy należy użyć metod wykorzystujących zjawiska fizyczne, należy do klasy czystości",
+    "answers": [
+      "„czysty do analizy”.",
+      "„chemicznie czysty”.",
+      "„techniczny”.",
+      "„czysty”."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 63,
+    "text": "Na ilustracji przedstawiono",
+    "answers": [
+      "wirówkę laboratoryjną.",
+      "łaźnię wodną.",
+      "czaszę grzejną.",
+      "suszarkę laboratoryjną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_ilustracja2.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 64,
+    "text": "Roztwór mianowany z odważki analitycznej należy przygotować",
+    "answers": [
+      "w kolbie stożkowej.",
+      "w zlewce.",
+      "w cylindrze miarowym.",
+      "w kolbie miarowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 65,
+    "text": "W nieopisanej butelce prawdopodobnie znajduje się roztwór o odczynie zasadowym. Wskaż odczynnik, za pomocą którego można to potwierdzić.",
+    "answers": [
+      "Roztwór chlorku potasu o stężeniu 1 mol/dm3.",
+      "Roztwór wodorotlenku potasu o stężeniu 0,5 mol/dm3.",
+      "Roztwór kwasu siarkowego(VI) o stężeniu 2%.",
+      "Alkoholowy roztwór fenoloftaleiny o stężeniu 2%."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 66,
+    "text": "Piktogramy przedstawione na ilustracji, umieszczone na etykiecie opakowania substancji chemicznej oznaczają, że jest ona",
+    "answers": [
+      "toksyczna i działa żrąco na skórę.",
+      "łatwopalna i działa drażniąco na skórę i oczy.",
+      "utleniająca i działa drażniąco na skórę i oczy.",
+      "wybuchowa i rakotwórcza."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_piktogramy9.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 67,
+    "text": "Po zmieszaniu 50 cm3 wody i 50 cm3 alkoholu etylowego objętość otrzymanej mieszaniny jest mniejsza niż 100 cm3. Spowodowane jest to zjawiskiem",
+    "answers": [
+      "desorpcji.",
+      "adsorpcji.",
+      "kontrakcji.",
+      "ekstrakcji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 68,
+    "text": "Na etykiecie odważki analitycznej znajduje się napis: Odważka analityczna azotan(V) srebra(I) AgNO3 0,1 mol/dm3 Z odważki tej można przygotować",
+    "answers": [
+      "jedną kolbę miarową o pojemności 500 cm3 mianowanego roztworu AgNO3 o stężeniu 0,05 mol/dm3.",
+      "dwie kolby miarowe o pojemności 500 cm3 mianowanego roztworu AgNO3 o stężeniu 0,1 mol/dm3.",
+      "cztery kolby miarowe o pojemności 250 cm3 mianowanego roztworu AgNO3 o stężeniu 0,025 mol/dm3.",
+      "jedną kolbę miarową o pojemności 1000 cm3 mianowanego roztworu AgNO3 o stężeniu 0,1 mol/dm3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 69,
+    "text": "Do przygotowania 20 cm3 roztworu HCl (1+1) należy odmierzyć do zlewki w pierwszej kolejności",
+    "answers": [
+      "10 cm3 rozcieńczonego kwasu solnego, a następnie 10 cm3 wody destylowanej.",
+      "10 cm3 wody destylowanej, a następnie 10 cm3 rozcieńczonego kwasu solnego.",
+      "10 cm3 stężonego kwasu solnego, a następnie 10 cm3 wody destylowanej.",
+      "10 cm3 wody destylowanej, a następnie 10 cm3 stężonego kwasu solnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 70,
+    "text": "Wskaż sprzęt laboratoryjny wchodzący w skład zestawu do sączenia pod zmniejszonym ciśnieniem.",
+    "answers": [
+      "Kolba miarowa, lejek szklany, bagietka.",
+      "Kolba ssawkowa, lejek szklany, pompka wodna.",
+      "Kolba ssawkowa, lejek z sitowym dnem, pompka wodna.",
+      "Kolba stożkowa, lejek z sitowym dnem, bagietka."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 71,
+    "text": "Do nastawienia miana kwasu solnego należy przygotować odważkę węglanu sodu o masie około 400 mg. O jakiej dokładności wagę należy zastosować do odważenia węglanu sodu?",
+    "answers": [
+      "0,01 g",
+      "0,001 g",
+      "0,1 g",
+      "1 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 72,
+    "text": "Próbka wody powinna być poddana analizie w czasie nie dłuższym niż",
+    "answers": [
+      "6 godzin.",
+      "1 tydzień.",
+      "1 miesiąc.",
+      "24 godziny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_tabela47.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 73,
+    "text": "Jaką masę siarczanu(VI) miedzi(II)-woda(1/5) należy poddać suszeniu, aby otrzymać 300 g soli bezwodnej? CuSO4 ∙ 5H2O → CuSO4 + 5H2O (MCuSO4 ∙ 5H2O = 249,5 g/mol, MCuSO4 = 159,5 g/mol, MH2O = 18,0 g/mol)",
+    "answers": [
+      "390,5 g",
+      "469,3 g",
+      "584,1 g",
+      "210,0 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 74,
+    "text": "Wskaż zgodny ze sztuką w zawodzie sposób utrwalenia próbki wody dostarczonej do laboratorium.",
+    "answers": [
+      "Schłodzona do temperatury 2-5°C i przechowywana w ciemności.",
+      "Schłodzona do temperatury 2-5°C i utrwalona H2SO4 do pH < 2,0.",
+      "Schłodzona do temperatury 2-5°C.",
+      "Schłodzona do temperatury 2-5°C i utrwalona HNO3 do pH < 2,0."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_tabela47.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 75,
+    "text": "Do mycia szklanych naczyń laboratoryjnych nie można stosować",
+    "answers": [
+      "piasku i ścierających środków myjących.",
+      "roztworu mydła.",
+      "technicznego stężonego kwasu siarkowego(VI).",
+      "alkoholowego roztworu wodorotlenku sodu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 76,
+    "text": "Roztwór dichromianu(VI) potasu w stężonym kwasie siarkowym(VI) stosowany jest w laboratorium do",
+    "answers": [
+      "odkamieniania łaźni wodnych.",
+      "mycia szkła laboratoryjnego.",
+      "roztwarzania stopów.",
+      "wytrącania soli trudno rozpuszczalnych w wodzie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 77,
+    "text": "Próbka wody powinna być dostarczona do laboratorium w butelce",
+    "answers": [
+      "z polietylenu.",
+      "ze szkła.",
+      "ze szkła lub polietylenu.",
+      "ze szkła borokrzemowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_tabela47.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 78,
+    "text": "Podczas nastawiania miana roztworu kwasu solnego na mianowany roztwór zasady sodowej zachodzi reakcja",
+    "answers": [
+      "zobojętniania.",
+      "hydrolizy.",
+      "wytrącania osadu.",
+      "redoks."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 79,
+    "text": "Na ilustracji przedstawiono zestaw do destylacji",
+    "answers": [
+      "frakcyjnej.",
+      "próżniowej.",
+      "prostej.",
+      "z parą wodną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_zestaw14.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 80,
+    "text": "Jaka masę chlorku baru należy rozpuścić w wodzie w celu przygotowania 200 cm3 roztworu o stężeniu 10% i gęstości 1,203 g/cm3?",
+    "answers": [
+      "24,06 g",
+      "18,40 g",
+      "20,00 g",
+      "26,04 g"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 81,
+    "text": "Do wykonania preparatu według zamieszczonej procedury należy przygotować wagę, łyżeczkę, palnik gazowy, trójnóg, bagietkę, szczypce metalowe oraz Procedura otrzymywania tlenku magnezu przez prażenie węglanu magnezu. Odważoną ilość węglanu magnezu ubić dokładnie w tyglu (wcześniej zważonym) i przykryć pokrywką. Początkowo ogrzewać niewielkim kopcącym płomieniem, a następnie gdy tygiel ogrzeje się, ogrzewać silniej w temperaturze czerwonego żaru przez około 20 minut. Po zakończeniu prażenia tygiel odstawić do ostudzenia chroniąc przed wilgocią. Zważyć tygiel z preparatem i obliczyć wydajność.",
+    "answers": [
+      "tygiel, trójkąt ceramiczny, krystalizator.",
+      "tygiel, siatkę grzewczą, eksykator.",
+      "tygiel z pokrywką, siatkę grzewczą, zlewkę z zimną wodą.",
+      "tygiel z pokrywką, trójkąt ceramiczny, eksykator."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 82,
+    "text": "Schemat lejka Büchnera przedstawiono na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_lejki.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 83,
+    "text": "Przewody instalacji gazowej w laboratorium znakuje się zwykle kolorem",
+    "answers": [
+      "żółtym.",
+      "niebieskim.",
+      "szarym.",
+      "zielonym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 84,
+    "text": "Podczas ważenia substancji w naczynku wagowym na wadze technicznej, dla zrównoważenia masy na szalce położono odważniki: 10 g, 5 g, 500 mg, 200 mg, 200 mg, 50 mg, 20 mg, 10 mg i 10 mg. Masa substancji z naczynkiem wyniosła",
+    "answers": [
+      "16,94 g",
+      "15,99 g",
+      "15,94 g",
+      "16,04 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 85,
+    "text": "Piknometr jest przeznaczony do pomiaru",
+    "answers": [
+      "rozpuszczalności.",
+      "lepkości.",
+      "gęstości.",
+      "wilgotności."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 86,
+    "text": "Do sporządzenia 200 g roztworu chlorku potasu o stężeniu 5% (m/m) należy użyć",
+    "answers": [
+      "10 g KCl i 190 g wody.",
+      "5 g KCl i 200 g wody.",
+      "10 g KCl i 200 g wody.",
+      "20 g KCl i 180 g wody."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 87,
+    "text": "Fabrycznie przygotowana odważka analityczna zawiera 0,1 mola EDTA. Dysponując taką jedną odważką analityczną, można przygotować",
+    "answers": [
+      "2000 cm3 roztworu o stężeniu 0,2000 mol/dm3",
+      "500 cm3 roztworu o stężeniu 0,2000 mol/dm3",
+      "1000 cm3 roztworu o stężeniu 0,0100 mol/dm3",
+      "100 cm3 roztworu o stężeniu 0,0100 mol/dm3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 88,
+    "text": "Piktogramem przedstawionym na rysunku znakuje się opakowanie substancji",
+    "answers": [
+      "korodującej metale.",
+      "stwarzającej zagrożenie dla środowiska wodnego.",
+      "wysoce utleniającej.",
+      "o działaniu drażniącym na skórę."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_piktogram5.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 89,
+    "text": "Które z podanych równań reakcji jest reakcją redox?",
+    "answers": [
+      "2 KMnO4 → K2MnO4 + MnO2 + O2",
+      "3 Ca(OH)2 + 2 H3PO4 → Ca3(PO4)2 + 6 H2O",
+      "2 NaOH + CuSO4 → Cu(OH)2 + Na2SO4",
+      "CaCO3 → CaO + CO2"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 90,
+    "text": "Roztworu amoniaku o stężeniu 25% w laboratorium nie należy przechowywać",
+    "answers": [
+      "z dala od źródeł ciepła i promieni słonecznych.",
+      "pod sprawnie działającym wyciągiem.",
+      "w butelce z ciemnego szkła.",
+      "w pobliżu otwartego ognia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 91,
+    "text": "Który z etapów przygotowania próbek do analizy opisano w ramce?",
+    "answers": [
+      "Oznaczanie wilgoci.",
+      "Wstępne suszenie.",
+      "Liofilizację.",
+      "Utrwalanie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_ramka7.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 92,
+    "text": "Na podstawie zamieszczonego rysunku przyporządkuj menisk do cieczy.",
+    "answers": [
+      "1 – jodyna, 2 – woda, 3 – rtęć",
+      "1 – rtęć, 2 – etanol, 3 – roztwór KMnO4",
+      "1 – rtęć, 2 – roztwór KMnO4, 3 – roztwór NaOH",
+      "1 – roztwór NaOH, 2 – jodyna, 3 – woda"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_rysunek8.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 93,
+    "text": "Skrót ”cz.„ umieszczony na etykiecie odczynnika chemicznego oznacza, że",
+    "answers": [
+      "zawartość głównego składnika wynosi 99-99,9%.",
+      "zawartość głównego składnika wynosi 99,9-99,99%.",
+      "odczynnik może być stosowany do analiz spektralnych.",
+      "zawartość zanieczyszczeń może wynosić maksymalnie 0,01-0,001%."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 94,
+    "text": "Na rysunku przedstawiono próbnik do pobierania próbek",
+    "answers": [
+      "sypkich.",
+      "ciastowatych.",
+      "ciekłych.",
+      "w postaci granulatów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_probnik.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 95,
+    "text": "Do sprzętu miarowego zalicza się",
+    "answers": [
+      "zlewkę.",
+      "naczynko wagowe.",
+      "cylinder.",
+      "kolbę stożkową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 96,
+    "text": "Na rysunku przedstawiono zestaw",
+    "answers": [
+      "do ekstrakcji w układzie ciecz-ciało stałe.",
+      "do oczyszczania cieczy w procesie destylacji próżniowej.",
+      "do oznaczania wilgoci w substancjach stałych.",
+      "do ogrzewania cieczy pod chłodnicą zwrotną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_zestaw13.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 97,
+    "text": "Do kalibracji pehametrów służą roztwory *Dwie odpowiedzi są prawidłowe. Zaznacz obie, aby otrzymać punkt.",
+    "answers": [
+      "zasadowe.",
+      "buforowe.",
+      "kwasowe.",
+      "kalibracyjne."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 98,
+    "text": "Próbki do analizy ilościowej pobiera się według schematu przedstawionego na rysunku. Numery 1, 2, 3 i 4 oznaczają próbki",
+    "answers": [
+      "1 – jednostkową, 2 – średnią, 3 – ogólną, 4 – laboratoryjną.",
+      "1 – jednostkową, 2 – ogólną, 3 – średnią, 4 – laboratoryjną.",
+      "1 – pierwotną, 2 – jednostkową, 3 – ogólną, 4 – analityczną.",
+      "1 – pierwotną, 2 – jednostkową, 3 – ogólną, 4 – laboratoryjną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_schemat9.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 99,
+    "text": "Na podstawie informacji zawartych w tabeli, wskaż liczbę próbek pierwotnych, które należy pobrać z partii materiału o objętości 100 m3.",
+    "answers": [
+      "12 próbek.",
+      "50 próbek.",
+      "5 próbek.",
+      "30 próbek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_tabela45.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 100,
+    "text": "Próbka pierwotna jest pobierana",
+    "answers": [
+      "bezpośrednio z próbki ogólnej.",
+      "z próbki do badań.",
+      "w jednym miejscu partii materiału.",
+      "z opakowania pierwotnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 101,
+    "text": "Proces ekstrakcji w sposób ciągły przeprowadza się",
+    "answers": [
+      "w aparacie Soxhleta.",
+      "w zestawie do ogrzewania.",
+      "w rozdzielaczu z korkiem.",
+      "w kolbie płaskodennej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 102,
+    "text": "Proces rozdzielania składników mieszaniny jednorodnej, polegający na usuwaniu jednego lub kilku składników z roztworu lub ciała stałego za pomocą odpowiednio dobranego rozpuszczalnika, to",
+    "answers": [
+      "rektyfikacja.",
+      "ekstrakcja.",
+      "destylacja.",
+      "adsorpcja."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 103,
+    "text": "Gorącą wodą nie należy myć",
+    "answers": [
+      "szkiełka zegarkowego.",
+      "kolby stożkowej.",
+      "zlewki.",
+      "kolby miarowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 104,
+    "text": "Który sprzęt, spośród pokazanych na rysunku, należy zastosować do wykonania miareczkowania?",
+    "answers": [
+      "1, 3 i 5.",
+      "4 i 6.",
+      "1, 2 i 6.",
+      "4 i 5."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_sprzety3.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 105,
+    "text": "Zestaw do sączenia pod zmniejszonym ciśnieniem powinien zawierać między innymi",
+    "answers": [
+      "kolbę ssawkową, lejek Büchnera, płuczkę bezpieczeństwa.",
+      "kolbę stożkową, lejek szklany z sączkiem, pompę próżniową.",
+      "kolbę miarową, lejek Büchnera, pompę próżniową.",
+      "kolbę okrągłodenną, lejek szklany z sączkiem, płuczkę bezpieczeństwa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 106,
+    "text": "Próbkę wody przeznaczoną do oznaczenia zawartości metali poddaje się utrwalaniu za pomocą",
+    "answers": [
+      "kwasu solnego.",
+      "kwasu azotowego(V).",
+      "kwasu fosforowego(V).",
+      "kwasu siarkowego(VI)."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_tabela44.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 107,
+    "text": "W którym wierszu są zapisane nazwy wyłącznie rozpuszczalników palnych?",
+    "answers": [
+      "Heksan, benzen, tetrachlorometan.",
+      "Aceton, etanol, benzen.",
+      "Chloroform, chlorometan, tetrachlorometan.",
+      "Aceton, etanol, chloroform."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_tabela40.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 108,
+    "text": "Do roztwarzania próbek stosuje się wodę królewską, która jest mieszaniną stężonych kwasów",
+    "answers": [
+      "H2SO4 i HCl w stosunku objętościowym 3:1",
+      "HCl i HNO3 w stosunku objętościowym 3:1",
+      "HNO3 i HCl w stosunku objętościowym 3:1",
+      "H2SO4 i HCl w stosunku objętościowym 1:3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 109,
+    "text": "Która metoda umożliwia rozdział mieszaniny wykorzystując różnice w zachowaniu się poszczególnych związków chemicznych w układzie dwufazowym, w którym jedna z faz jest fazą nieruchomą – stacjonarną, a druga porusza się względem pierwszej w określonym kierunku?",
+    "answers": [
+      "Sublimacja.",
+      "Chromatografia.",
+      "Krystalizacja.",
+      "Destylacja."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 110,
+    "text": "Wskaż prawidłowo dobrany sposób kalibracji i zastosowanie szkła miarowego.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_tabela42.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 111,
+    "text": "Krzywa przedstawia zależność rozpuszczalności sacharozy w wodzie od temperatury. Przygotowano cztery nasycone roztwory sacharozy w temperaturach 20°C, 40°C, 60°C, 80°C. W każdym z nich znajduje się 100 g sacharozy. Najmniej wody zawiera roztwór przygotowany w temperaturze",
+    "answers": [
+      "60°C",
+      "80°C",
+      "20°C",
+      "40°C"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_wykres13.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 112,
+    "text": "W jakim stosunku objętościowym należy zmieszać roztwór etanolu o stężeniu 30% (V/V) z roztworem o stężeniu 70% (V/V), aby otrzymać roztwór o stężeniu 50% (V/V)?",
+    "answers": [
+      "2:1",
+      "1:2",
+      "1:1",
+      "3:7"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 113,
+    "text": "Na podstawie informacji zawartych w tabeli wskaż mieszaninę oziębiającą o temperaturze -21°C.",
+    "answers": [
+      "10 g lodu i 3 g chlorku sodu.",
+      "90 g lodu i 30 g chlorku amonu.",
+      "150 g lodu i 50 g chlorku sodu.",
+      "100 g lodu i 30 g chlorku amonu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_tabela43.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 114,
+    "text": "W celu przygotowania roztworu AgNO3 (masa molowa AgNO3 wynosi 169,8 g/mol) o stężeniu 0,1 mol/dm3 należy",
+    "answers": [
+      "odważyć 1,698 g AgNO3, przenieść do kolby miarowej o pojemności 100 cm3, rozpuścić w wodzie destylowanej i uzupełnić kolbę wodą destylowaną do kreski.",
+      "odważyć 169,80 g AgNO3, przenieść do kolby miarowej o pojemności 1000 cm3, rozpuścić w wodzie destylowanej i uzupełnić kolbę wodą destylowaną do kreski.",
+      "odważyć 1,698 g AgNO3, przenieść do kolby miarowej o pojemności 1000 cm3, rozpuścić w wodzie destylowanej i uzupełnić kolbę wodą destylowaną do kreski.",
+      "odważyć 16,98 g AgNO3, przenieść do kolby miarowej o pojemności 100 cm3, rozpuścić w wodzie destylowanej i uzupełnić kolbę wodą destylowaną do kreski."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 115,
+    "text": "Metodą przygotowania próbki do analizy nie jest",
+    "answers": [
+      "miareczkowanie.",
+      "stapianie.",
+      "spopielenie.",
+      "mineralizacja."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 116,
+    "text": "Procesem endotermicznym jest",
+    "answers": [
+      "rozpuszczanie azotanu(V) amonu w wodzie.",
+      "rozpuszczanie wodorotlenku sodu w wodzie.",
+      "roztwarzanie magnezu w kwasie solnym.",
+      "rozcieńczanie stężonego kwasu siarkowego(VI)."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 117,
+    "text": "Które z przedstawionych na rysunku piktogramów powinny znajdować się na etykiecie opakowania benzenu?",
+    "answers": [
+      "Tylko 3 i 4",
+      "Tylko 2 i 4",
+      "1, 3, 4",
+      "3, 4, 5"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_piktogramy8.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 118,
+    "text": "Do sporządzenia mianowanego roztworu KMnO4 potrzebna jest odważka wysuszonego Na2C2O4 o masie około 250 mg, odważona z dokładnością do 1 mg. Prawidłowo przygotowana odważka ma masę",
+    "answers": [
+      "0,025 g",
+      "0,215 g",
+      "2,510 g",
+      "0,251 g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 119,
+    "text": "W trzech probówkach umieszczono roztwory: wodorotlenku sodu, chlorku sodu i kwasu octowego. W celu identyfikacji zbadano ich odczyn za pomocą uniwersalnego papierka wskaźnikowego, a następnie fenoloftaleiny. Barwy wskaźników w badanych roztworach przedstawiono w tabeli: Które ze stwierdzeń wynika z analizy informacji zawartych w tabeli?",
+    "answers": [
+      "W probówce nr 2 znajdował się roztwór o pH powyżej 9.",
+      "W probówce nr 1 znajdował się roztwór o odczynie zasadowym.",
+      "Po zastosowaniu tylko uniwersalnego papierka wskaźnikowego można stwierdzić, że w probówce nr 3 był roztwór wodorotlenku sodu.",
+      "Po zastosowaniu tylko fenoloftaleiny można stwierdzić, że w probówce nr 1 był roztwór chlorku sodu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_tabela41.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 120,
+    "text": "Próbkę wody pobiera się za pomocą",
+    "answers": [
+      "odbieralnika.",
+      "przelewki.",
+      "czerpaka.",
+      "pływaka."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 121,
+    "text": "Próbka mająca na celu ustalenie zawartości składników, których oznaczenia wykonane przez różne laboratoria nie są zgodne, to próbka",
+    "answers": [
+      "laboratoryjna.",
+      "do badań.",
+      "rozjemcza.",
+      "jednostkowa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 122,
+    "text": "Na rysunku przedstawiono ekstraktor Soxhleta. Którym numerem oznaczono rurkę syfonową?",
+    "answers": [
+      "3",
+      "2",
+      "1",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm03/au59_ekstraktor.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 123,
+    "text": "Łaźni wodnej nie należy stosować podczas prac, w których używa się",
+    "answers": [
+      "gliceryny.",
+      "cynku.",
+      "etanolu.",
+      "sodu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 124,
+    "text": "Który lejek zastosowano w zestawie do sączenia, na przedstawionym rysunku?",
+    "answers": [
+      "Büchnera.",
+      "jakościowy.",
+      "Imhoffa.",
+      "ilościowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm03/au59_zestaw2.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 125,
+    "text": "Do przygotowania roztworu wzorcowego potrzebnego do oznaczenia miana należy użyć odczynnika chemicznego o czystości co najmniej",
+    "answers": [
+      "chem.cz.",
+      "cz.d.a.",
+      "cz.",
+      "spekt.cz."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 126,
+    "text": "Naczynia miarowe kalibrowane „na wlew” oznakowane są symbolem",
+    "answers": [
+      "A",
+      "In",
+      "B",
+      "Ex"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 127,
+    "text": "Do przygotowania 200 g roztworu siarczanu(VI) sodu o stężeniu 12% należy użyć (Na – 23 g/mol; S – 32 g/mol; H – 1 g/mol; O – 16 g/mol)",
+    "answers": [
+      "22,4 g Na2SO4·10H2O i 177,6 g H2O",
+      "54,4 g Na2SO4·10H2O i 145,6 g H2O",
+      "56,6 g Na2SO4·10H2O i 143,4 g H2O",
+      "68,5 g Na2SO4·10H2O i 131,5 g H2O"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 128,
+    "text": "W laboratorium analitycznym instalację gazową znakuje się kolorem",
+    "answers": [
+      "czerwonym.",
+      "żółtym.",
+      "niebieskim.",
+      "zielonym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 129,
+    "text": "Z zamieszczonego opisu wynika, że najważniejszą cechą próbki analitycznej jest jej Próbka analityczna to część materiału przeznaczona bezpośrednio do wykonania badania lub obserwacji. Powinna mieć przeciętny skład i właściwości materiału badanego.",
+    "answers": [
+      "rozpuszczalność.",
+      "jednorodność.",
+      "roztwarzalność.",
+      "reprezentatywność."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 130,
+    "text": "Którego odczynnika chemicznego, ze względu na jego silne właściwości higroskopijne, nie należy stosować w analizie miareczkowej jako substancji podstawowej?",
+    "answers": [
+      "NaOH",
+      "Na2C2O4",
+      "Na2B4O7·10H2O",
+      "Na2CO3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 131,
+    "text": "Na dnie eksykatora przedstawionego na rysunku należy umieścić",
+    "answers": [
+      "kamyczki wrzenne.",
+      "kamyczki porcelanowe.",
+      "substancję izolującą.",
+      "substancję pochłaniającą wilgoć."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm03/au59_eksykator.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 132,
+    "text": "W jakiej wzorcowej temperaturze kalibrowane są szklane naczynia miarowe?",
+    "answers": [
+      "21°C",
+      "19°C",
+      "20°C",
+      "25°C"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 133,
+    "text": "Zestaw przedstawiony na rysunku służy do sączenia",
+    "answers": [
+      "na gorąco.",
+      "w obniżonej temperaturze.",
+      "pod zmniejszonym ciśnieniem.",
+      "pod zwiększonym ciśnieniem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm03/au59_zestaw3.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 134,
+    "text": "Środek chemiczny toksyczny dla ludzi, przy pracy, z którym należy zachować szczególną ostrożność, powinien być oznakowany piktogramem przedstawionym na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm03/au59_piktogramy.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 135,
+    "text": "Próbki wody podczas transportu do laboratorium zaleca się schładzać do temperatury",
+    "answers": [
+      "12±1°C",
+      "9±1°C",
+      "16±2°C",
+      "5±3°C"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 136,
+    "text": "Do wyznaczenia gęstości cieczy metodą hydrostatyczną należy wykorzystać",
+    "answers": [
+      "ebuliometr.",
+      "piknometr.",
+      "wagę Mohra.",
+      "wagosuszarkę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 137,
+    "text": "Rysunek przedstawia element zestawu do",
+    "answers": [
+      "destylacji z parą wodną.",
+      "oznaczenia temperatury wrzenia.",
+      "sączenia związków łatwo krystalizujących.",
+      "oznaczenia temperatury topnienia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm03/au59_element.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 138,
+    "text": "W wyniku oczyszczenia 120 g kwasu szczawiowego metodą krystalizacji otrzymano 105 g czystego produktu. Zawartość zanieczyszczeń w kwasie szczawiowym wynosiła",
+    "answers": [
+      "15%",
+      "20%",
+      "12,5%",
+      "87,5%"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 139,
+    "text": "Zamieszczony fragment instrukcji dotyczy Po wprowadzeniu do kolby Kjeldahla próbki badanego materiału, kwasu siarkowego(VI) oraz katalizatora należy łagodnie ogrzewać zawartość kolby palnikiem gazowym. W początkowym okresie ogrzewania zawartość kolby pieni się i ciemnieje. W tym czasie ogrzewanie należy prowadzić bardzo ostrożnie, a nawet z przerwami, aby nie dopuścić do „wychodzenia” czarnobrunatnej masy do szyjki kolby.",
+    "answers": [
+      "mineralizacji próbki na sucho.",
+      "stapiania próbki.",
+      "mineralizacji próbki na mokro.",
+      "wyprażenia próbki do stałej masy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 140,
+    "text": "Którego odczynnika chemicznego, oprócz Na2Cr2O7, należy użyć do przygotowania mieszaniny chromowej służącej do czyszczenia szkła laboratoryjnego?",
+    "answers": [
+      "H2CrO4",
+      "K2CrO4",
+      "HCI",
+      "H2SO4"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 141,
+    "text": "Którego z wymienionych naczyń laboratoryjnych nie należy zastosować do ogrzania 100 cm3wody?",
+    "answers": [
+      "Zlewki o pojemności 150 cm3.",
+      "Zlewki o pojemności 200 cm3.",
+      "Kolby miarowej o pojemności 100 cm3.",
+      "Kolby stożkowej o pojemności 200 cm3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 142,
+    "text": "Na rysunku przedstawiono przyrząd przeznaczony do pobierania próbek",
+    "answers": [
+      "gleby.",
+      "ścieków.",
+      "wody.",
+      "powietrza."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm03/au59_przyrzad.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 143,
+    "text": "W wyniku reakcji chlorku żelaza(III) z wodorotlenkiem potasu wytrąca się wodorotlenek żelaza(III) w postaci",
+    "answers": [
+      "serowatego osadu.",
+      "galaretowatego osadu.",
+      "drobnokrystalicznego osadu.",
+      "grubokrystalicznego osadu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 144,
+    "text": "W celu rozdzielenia zapieczonych połączeń szlifów należy w miejscu ich połączenia wkroplić",
+    "answers": [
+      "wodorotlenek sodu.",
+      "kwas fluorowodorowy.",
+      "glicerynę.",
+      "wodorotlenek potasu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 145,
+    "text": "W jakim celu stosuje się kamyczki wrzenne podczas długotrwałego ogrzewania cieczy?",
+    "answers": [
+      "Zwiększenia powierzchni zetknięcia faz w celu przyspieszenia reakcji.",
+      "Obniżenia temperatury wrzenia cieczy.",
+      "Podniesienia temperatury wrzenia cieczy.",
+      "Zapobiegania miejscowemu przegrzewaniu się cieczy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 146,
+    "text": "Na rysunku przedstawiono typowe podłączenie aparatury do wysokiej próżni. Numerem 1 oznaczono",
+    "answers": [
+      "rotametr.",
+      "termometr.",
+      "manometr.",
+      "barometr."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm03/au59_aparatura.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 147,
+    "text": "Na rysunku przedstawiającym zestaw do dozowania gazów z absorpcją wytworzonych gazów numerami 1, 2 i 3 oznaczono",
+    "answers": [
+      "kolumny absorpcyjne.",
+      "u-rurki.",
+      "płuczki.",
+      "cylindry miarowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm03/au59_zestaw.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 148,
+    "text": "Opis w ramce przedstawia sposób oczyszczania substancji poprzez",
+    "answers": [
+      "destylację.",
+      "ekstrakcję.",
+      "sublimację.",
+      "krystalizację."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm03/au59_opis.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 149,
+    "text": "Woda dwukrotnie destylowana to woda",
+    "answers": [
+      "redestylowana.",
+      "ultraczysta.",
+      "demineralizowana.",
+      "dejonizowana."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 150,
+    "text": "Pozostałości której substancji należy bezwzględnie przekazać do utylizacji?",
+    "answers": [
+      "Chlorku sodu.",
+      "Gliceryny.",
+      "Glukozy.",
+      "Chromianu(VI) potasu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 151,
+    "text": "Średnia masa wody wypływająca z pipety o deklarowanej pojemności 25 cm3, w temperaturze 25°C wynosi 24,80 g. Korzystając z danych zamieszczonych w tabeli wskaż wartość poprawki kalibracyjnej dla tej pipety.",
+    "answers": [
+      "0,10 ml",
+      "0,25 ml",
+      "0,18 ml",
+      "0,16 ml"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm03/au59_tabela.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 152,
+    "text": "Który rysunek przedstawia naczynie miarowe kalibrowane na wlew?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm03/au59_naczynia.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 153,
+    "text": "50 cm3 alkoholu etylowego zmieszano w kolbie miarowej z 50 cm3 wody. W wyniku zjawiska kontrakcji objętość otrzymanego roztworu wyniosła 97,5 cm3. Ile wynosi stężenie procentowe (v/v) roztworu alkoholu w wodzie po zmieszaniu i stężenie procentowe roztworu alkoholu (v/v) po uzupełnieniu kolby wodą do 100 cm3?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm03/au59_tabela2.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 154,
+    "text": "Na podstawie wykresu wskaż substancję, której rozpuszczalność rośnie najszybciej w przedziale temperatury od 10°C do 20°C.",
+    "answers": [
+      "KI",
+      "AgNO3",
+      "(CH3COO)2Ca",
+      "KCIO4"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm03/au59_wykres.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 155,
+    "text": "W celu otrzymania wodorotlenku wapnia odważono 30 g węglanu wapnia, który wyprażono. Powstały tlenek wapnia zalano 100 cm3 wody i otrzymany w ten sposób osad wysuszono i zważono otrzymując 18,5 g wodorotlenku wapnia. Wydajność reakcji wyniosła (Ca – 40 g/mol; O – 16 g/mol; C – 12 g/mol; H – 1 g/mol)",
+    "answers": [
+      "93%",
+      "83%",
+      "75%",
+      "80%"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 156,
+    "text": "Na rysunku przedstawiono aparat",
+    "answers": [
+      "Thielego.",
+      "Orsata.",
+      "Graefego.",
+      "Kippa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm03/au59_aparat.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 157,
+    "text": "Do przeprowadzenia syntezy związku organicznego w temperaturze 150°C należy użyć łaźni",
+    "answers": [
+      "parowej.",
+      "olejowej.",
+      "wodnej.",
+      "powietrznej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 158,
+    "text": "Na rysunku przedstawiono palnik Bunsena. Którym numerem oznaczono element do regulowania dopływu powietrza?",
+    "answers": [
+      "1",
+      "2",
+      "4",
+      "3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm03/au59_palnik.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 159,
+    "text": "Który z wymienionych związków chemicznych można wykorzystać w celu sprawdzenia całkowitego wymycia jonów chlorkowych z osadu?",
+    "answers": [
+      "Al(NO3)3",
+      "Cu(NO3)2",
+      "KNO3",
+      "AgNO3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 160,
+    "text": "Podczas oddzielania osadu od roztworu, po całkowitym przeniesieniu osadu na sączek, w pierwszej kolejności należy go",
+    "answers": [
+      "wysuszyć.",
+      "przemyć.",
+      "wyprażyć.",
+      "zważyć."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 161,
+    "text": "Którego odczynnika należy użyć do przygotowania roztworu wzorcowego, zawierającego jony Fe3+ ?",
+    "answers": [
+      "NH4Fe(SO4)2 · 12H2O cz.",
+      "Fe(OH)3 cz.",
+      "NH4Fe(SO4)2 · 12H2O cz.d.a.",
+      "Fe(OH)3 cz.d.a."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 162,
+    "text": "Aby wykonać czynności analityczne wskazane w ramce, należy użyć:",
+    "answers": [
+      "zlewki, kolby ssawkowej, lejka Büchnera, cylindra miarowego.",
+      "kolby stożkowej, moździerza, lejka Shotta, naczynka wagowego.",
+      "kolby stożkowej, kolby miarowej, pipety, cylindra miarowego.",
+      "kolby miarowej, tygla, pipety, naczynka wagowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_ramka6.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 163,
+    "text": "W celu regeneracji rozpuszczalnika organicznego należy przeprowadzić proces",
+    "answers": [
+      "destylacji.",
+      "odparowania.",
+      "demineralizacji.",
+      "sączenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 164,
+    "text": "Na podstawie informacji zawartych w tabeli określ, który parametr spośród podanych należy oznaczyć w pierwszej kolejności.",
+    "answers": [
+      "Chlor pozostały.",
+      "Kwasowość.",
+      "Chemiczne zapotrzebowanie na tlen (ChZT).",
+      "Mangan."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_tabela39.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 165,
+    "text": "Ile gramów chlorku sodu zawiera 150 g roztworu soli o stężeniu 5% (m/m)?",
+    "answers": [
+      "0,75 g",
+      "0,05 g",
+      "7,50 g",
+      "5,00 g"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 166,
+    "text": "Na rysunku przedstawiono ogrzewanie kolby z cieczą w łaźni",
+    "answers": [
+      "wodnej.",
+      "powietrznej.",
+      "piaskowej.",
+      "olejowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_ogrzewanie.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 167,
+    "text": "Substancja oznakowana za pomocą przedstawionych na rysunku piktogramów jest",
+    "answers": [
+      "drażniąca drogi oddechowe i utleniająca.",
+      "mutagenna i łatwopalna.",
+      "mutagenna i utleniająca.",
+      "drażniąca drogi oddechowe i łatwopalna."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_piktogramy7.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 168,
+    "text": "Wskaż typy reakcji I, II, III na podstawie ich równań chemicznych. I. 2 Mg + O2 → 2 MgO II. Cu(OH)2 → CuO + H2O III. Zn + HCl→ ZnCl2 + H2",
+    "answers": [
+      "I – synteza, II – analiza, III – wymiana podwójna.",
+      "I – synteza, II – analiza, III – wymiana pojedyncza.",
+      "I – wymiana pojedyncza, II – analiza, III – synteza.",
+      "I – wymiana podwójna, II – analiza, III – synteza."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 169,
+    "text": "Na rysunku przedstawiono zestaw do oczyszczania jodu w procesie",
+    "answers": [
+      "sublimacji.",
+      "topnienia.",
+      "rektyfikacji.",
+      "odparowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_zestaw12.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 170,
+    "text": "Procedura oznaczenia kwasowości mleka. Do kolby stożkowej o pojemności 300 cm3 pobrać dokładnie 25 cm3 badanego mleka i rozcieńczyć wodą destylowaną do objętości 50 cm3. Dodać 2-3 krople fenoloftaleiny i miareczkować mianowanym roztworem wodorotlenku sodu do uzyskania lekko różowego zabarwienia. Do wykonania analizy, zgodnie z powyższą procedurą, potrzebne są",
+    "answers": [
+      "pipeta jednomiarowa o pojemności 25 cm3, zlewka o pojemności 300 cm3, biureta.",
+      "pipeta wielomiarowa o pojemności 25 cm3,  kolba  stożkowa  o  pojemności  300  cm3,  biureta, cylinder miarowy o pojemności 100 cm3.",
+      "cylinder miarowy o pojemności 50 cm3, kolba stożkowa o pojemności 300 cm3, biureta.",
+      "pipeta jednomiarowa o pojemności 25 cm3, kolba stożkowa o pojemności 300 cm3, biureta, cylinder miarowy o pojemności 25 cm3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 171,
+    "text": "Wodę stosowaną w laboratorium chemicznym, otrzymaną poprzez przepuszczenie jej przez wymieniacz jonowy, nazywa się wodą",
+    "answers": [
+      "mineralizowaną.",
+      "demineralizowaną.",
+      "destylowaną.",
+      "redestylowaną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 172,
+    "text": "Za pomocą przyrządu przedstawionego na rysunku dokonuje się pomiaru",
+    "answers": [
+      "lepkości cieczy.",
+      "temperatury cieczy.",
+      "gęstości cieczy.",
+      "napięcia powierzchniowego cieczy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_przyrzad5.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 173,
+    "text": "Efekt egzotermiczny towarzyszy procesowi",
+    "answers": [
+      "rozcieńczania stężonego roztworu tiosiarczanu(VI) sodu.",
+      "rozpuszczania azotanu(V) amonu w wodzie.",
+      "rozcieńczania stężonego roztworu kwasu siarkowego(VI).",
+      "rozpuszczania jodku potasu w wodzie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 174,
+    "text": "Etykieta roztworu kwasu azotowego(V) o stężeniu 6 mol/dm3 powinna zawierać nazwę odczynnika oraz",
+    "answers": [
+      "stężenie, podmiot produkcyjny i wykaz zanieczyszczeń.",
+      "masę, stężenie i numer katalogowy.",
+      "masę, datę sporządzenia i numer katalogowy.",
+      "stężenie, zwroty zagrożeń H i datę sporządzenia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 175,
+    "text": "Fabrycznie przygotowana odważka analityczna wodorotlenku sodu zawiera 0,1 mola NaOH. Aby przygotować roztwór wodorotlenku sodu o stężeniu 0,0500 mol/dm3, należy odważkę rozcieńczyć wodą destylowaną w kolbie miarowej o pojemności",
+    "answers": [
+      "2 dm3",
+      "1 dm3",
+      "50 cm3",
+      "500 cm3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 176,
+    "text": "Ile gramów jodku potasu należy rozpuścić w 150 g wody, aby otrzymać roztwór nasycony w temperaturze 25ºC?",
+    "answers": [
+      "340 g",
+      "292 g",
+      "225 g",
+      "280 g"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_wykres10.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 177,
+    "text": "Produktem reakcji miedzi metalicznej ze stężonym kwasem azotowym(V) jest azotan(V) miedzi(II) oraz",
+    "answers": [
+      "tlenek azotu(II) i wodór.",
+      "tlenek azotu(IV) i woda.",
+      "tlenek azotu(II) i woda.",
+      "tlenek azotu(V) i wodór."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 178,
+    "text": "Do reakcji estryfikacji użyto 150 g kwasu benzoesowego (M = 122,12 g/mol), w wyniku której otrzymano czysty preparat benzoesanu metylu (M = 136,2 g/mol). Ile gramów benzoesanu metylu otrzymano, jeżeli reakcja przebiegała z wydajnością 92%?",
+    "answers": [
+      "181,8 g",
+      "167,3 g",
+      "154,3 g",
+      "153,9 g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_reakcja.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 179,
+    "text": "Podczas pobierania próbek wody przeznaczonych do oznaczania składników podatnych na rozkład fotochemiczny należy",
+    "answers": [
+      "stosować opakowania nieprzezroczyste.",
+      "stosować opakowania z jasnego szkła z doszlifowanym korkiem.",
+      "schłodzić próbki do temperatury 10°C.",
+      "zakwasić próbki za pomocą roztworu H3PO4."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 180,
+    "text": "W celu oddzielenia osadu od roztworu metodą sączenia należy wybrać sprzęt oznaczony na rysunku cyframi",
+    "answers": [
+      "1, 3, 4, 6",
+      "3, 4, 5, 6",
+      "1, 2, 4, 5",
+      "2, 4, 5, 6"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_sprzety2.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 181,
+    "text": "28,6 g bezwodnej sody Na2CO3 (MNa2CO3 = 106 g/mol) rozpuszczono w wodzie i zalano wodą wapienną Ca(OH)2. W rezultacie otrzymano 17,2 g CaCO3 (MCaCO3 = 100 g/mol). Wydajność tego procesu wyniosła",
+    "answers": [
+      "36,25%",
+      "63,75%",
+      "30,32%",
+      "69,68%"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 182,
+    "text": "Dokładność odczytu dla wagi analitycznej, której wyświetlacz przedstawiono na rysunku, wynosi",
+    "answers": [
+      "1 mg",
+      "0,1 mg",
+      "0,01 mg",
+      "0,0001 mg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_waga3.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 183,
+    "text": "Do oddzielenia w probówkach osadu AgCl od cieczy macierzystej w laboratorium stosuje się",
+    "answers": [
+      "wytrząsarkę.",
+      "krystalizator.",
+      "wirówkę.",
+      "zestaw sit."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 184,
+    "text": "Stężenie roztworu HNO3 otrzymanego przez zmieszanie 50 cm3 roztworu HNO3 o stężeniu 0,2 mol/dm3 i 25 cm3 roztworu HNO3 o stężeniu 0,5 mol/dm3 wynosi",
+    "answers": [
+      "0,3 mol/dm3",
+      "0,03 mol/dm3",
+      "0,003 mol/dm3",
+      "0,0003 mol/dm3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 185,
+    "text": "Na rysunku przedstawiono zestaw do",
+    "answers": [
+      "krystalizacji.",
+      "destylacji z parą wodną.",
+      "destylacji prostej.",
+      "ekstrakcji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_zestaw11.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 186,
+    "text": "W ramce przedstawiono fragment etykiety odczynnika chemicznego Odczynnik ten może być stosowany do",
+    "answers": [
+      "prac analitycznych i preparatywnych.",
+      "prac analitycznych i syntezy środków farmaceutycznych.",
+      "mycia szkła i kalibracji urządzeń pomiarowych.",
+      "mycia szkła i syntezy środków farmaceutycznych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_etykieta6.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 187,
+    "text": "Której odważki należy użyć do sporządzenia 1 dm3 ściśle 0,0500-molowego roztworu kwasu szczawiowego (MH2C2O4 · 2H2O = 126 g/mol)?",
+    "answers": [
+      "6,3000 g H2C2O4 · 2H2O cz.",
+      "6,300 g H2C2O4 · 2H2O cz.",
+      "6,3000 g H2C2O4 · 2H2O cz.d.a.",
+      "6,3 g H2C2O4 · 2H2O cz.d.a."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 188,
+    "text": "Dekantacja to proces",
+    "answers": [
+      "oddzielania cieczy od osadu, polegający na zlaniu cieczy znad osadu.",
+      "oddzielania cieczy od osadu, polegający na odparowaniu cieczy.",
+      "oddzielania cieczy lub gazu od zawieszonych w nich cząstek ciała stałego, polegający na przepuszczeniu zawiesiny przez przegrodę filtracyjną.",
+      "opadania pod wpływem siły ciężkości cząstek ciała stałego rozproszonych w cieczy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 189,
+    "text": "Do przygotowania 200 g roztworu chromianu(VI) potasu o stężeniu 15% (m/m) należy użyć Przyjąć gęstość wody = 1 g/cm3",
+    "answers": [
+      "30 g K2CrO4 i 200 cm3 wody.",
+      "30 g K2CrO4 i 170 g wody.",
+      "15 g K2CrO4 i 185 g wody.",
+      "15 g K2CrO4 i 185 cm3 wody."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 190,
+    "text": "Na podstawie wyciągu z karty charakterystyki butanolu wskaż piktogram zagrożenia, którym powinien być oznakowany ten odczynnik chemiczny.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_wyciag.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 191,
+    "text": "Do odczynników chemicznych, które należy bezwzględnie pobierać pod włączonym dygestorium, należą roztwory",
+    "answers": [
+      "kwasu cytrynowego o stężeniu 36%.",
+      "etanolu o stężeniu 36%.",
+      "kwasu solnego o stężeniu 36%.",
+      "glicerolu o stężeniu 36%."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 192,
+    "text": "Do kolby destylacyjnej wprowadzono 200 cm3 zanieczyszczonego acetonu o gęstości d = 0,9604 g/cm3 i czystości 90% masowych. W celu oczyszczenia przeprowadzono proces destylacji, w wyniku którego otrzymano 113,74 g czystego acetonu. Straty acetonu w czasie destylacji wyniosły",
+    "answers": [
+      "34,20%",
+      "18,33%",
+      "81,77%",
+      "65,80%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 193,
+    "text": "Posługując się pipetą gazową, pobrano próbkę azotu (MN2 = 28 g/mol) o objętości 250 cm3 w warunkach normalnych. Masa odmierzonego azotu wynosi",
+    "answers": [
+      "0,1563 g",
+      "3,1250 g",
+      "0,3125 g",
+      "1,5635 g"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 194,
+    "text": "Aparaturę, w skład której wchodzi kolumna rektyfikacyjna, stosowaną do rozdzielenia składników mieszaniny cieczy nieznacznie różniących się temperaturami wrzenia, przedstawia rysunek",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_aparatura.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 195,
+    "text": "Fosfor biały, ze względu na jego właściwości, należy przechowywać",
+    "answers": [
+      "w benzenie.",
+      "w benzynie.",
+      "w wodzie.",
+      "w nafcie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 196,
+    "text": "Sporządzono 250 cm3 roztworu glicerolu o gęstości 1,05 g/cm3 w temperaturze 20°C. Korzystając z danych zamieszczonych w tabeli, określ stężenie procentowe sporządzonego roztworu glicerolu.",
+    "answers": [
+      "30%",
+      "10%",
+      "40%",
+      "20%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_tabela38.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 197,
+    "text": "Podczas pipetowania menisk górny ustala się dla roztworów",
+    "answers": [
+      "I2 i KMnO4",
+      "(CH3COO)2Pb i KMnO4",
+      "K2CrO4 i Pb(NO3)2",
+      "I2 i (CH3COO)2Pb"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "CHM.03"
+  },
+  {
+    "id": 198,
+    "text": "Proces przesiewania próbki prowadzi się za pomocą urządzenia przedstawionego na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_urzadzenia.png"
+    },
+    "category": "CHM.03"
+  },
+  {
+    "id": 199,
+    "text": "Przedstawiony na rysunku zagłębnik stosuje się do pobierania próbek",
+    "answers": [
+      "wody.",
+      "ścieków.",
+      "gleby.",
+      "powietrza."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "chm03/a59_zaglebnik.png"
+    },
+    "category": "CHM.03"
+  }
+]
