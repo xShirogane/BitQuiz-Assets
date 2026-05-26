@@ -1,0 +1,5050 @@
+[
+  {
+    "id": 1,
+    "text": "Do wykonania otworu na powierzchni czołowej części jak na przedstawionej ilustracji zastosowano wiercenie, a następnie",
+    "answers": [
+      "pogłębianie.",
+      "szlifowanie.",
+      "rozwiercanie.",
+      "powiercanie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_czesc2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 2,
+    "text": "W celu oczyszczenia powierzchni roboczej pilnika należy zastosować",
+    "answers": [
+      "skrobak trójkątny.",
+      "pilnik zamkowy.",
+      "szczotkę drucianą.",
+      "szczotkę z włosia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 3,
+    "text": "W oparciu o dane w tabeli, dobierz rodzaj kleju do wykonania połączeń stalowych elementów korpusu, narażonego na wibracje i pracującego w środowisku wilgotnym.",
+    "answers": [
+      "Neoprenowy.",
+      "Dyspersyjny.",
+      "Epoksydowy.",
+      "Cyjanokrylowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_tabela50.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 4,
+    "text": "Do wykonania wycięcia w metalowym kolanku wykonanym z blachy 0,5 mm, jak na ilustracji należy użyć wiertła oraz",
+    "answers": [
+      "skrobaka.",
+      "prasy ręcznej.",
+      "przecinaka.",
+      "nożyc ręcznych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_kolanko.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 5,
+    "text": "Do elementów diagnostyki maszyn i urządzeń nie zalicza się badania",
+    "answers": [
+      "hałasu i drgań.",
+      "szczelności.",
+      "stanu powierzchni.",
+      "liczby wyłączeń maszyny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 6,
+    "text": "Wskaż wynik pomiaru wykonanego za pomocą mikromierza, jak na przedstawionej ilustracji.",
+    "answers": [
+      "81,30 mm",
+      "84,82 mm",
+      "84,32 mm",
+      "80,32 mm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_pomiar5.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 7,
+    "text": "Aby zamocować wiertło przedstawione na ilustracji we wrzecionie wiertarki, należy zastosować",
+    "answers": [
+      "tuleję redukcyjną.",
+      "trzpień drążony.",
+      "uchwyt 3-szczękowy.",
+      "oprawkę wiertarską."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_wiertlo2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 8,
+    "text": "Współosiowość osi wałów przekładni po montażu nie można sprawdzić za pomocą",
+    "answers": [
+      "trzpieni pomiarowych.",
+      "suwmiarki uniwersalnej.",
+      "czujnika laserowego.",
+      "czujnika zegarowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 9,
+    "text": "Występowanie tarcia suchego lub granicznego lub płynnego związane jest",
+    "answers": [
+      "z prędkością obrotową przekładni.",
+      "z grubością warstwy smaru.",
+      "z temperaturą pracy elementu.",
+      "z wielkością styku pomiędzy zębami."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 10,
+    "text": "Obróbkę wykańczającą otworu kształtowego części oznaczonego na ilustracji strzałką, należy wykonać pilnikiem",
+    "answers": [
+      "półokrągłym.",
+      "owalnym.",
+      "mieczowym.",
+      "okrągłym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_czesc3.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 11,
+    "text": "Zakład usługowo-mechaniczny dokonuje remontu czterdziestu, dwuwrzecionowych obrabiarek miesięcznie. Na podstawie danych zamieszczonych w tabeli, oblicz czas potrzebny na montaż wszystkich wrzecion.",
+    "answers": [
+      "368,00 godzin.",
+      "62,50 godziny.",
+      "110,00 godzin.",
+      "220,00 godzin."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_tabela52.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 12,
+    "text": "Na podstawie rysunku wskaż wynik pomiaru wykonanego za pomocą suwmiarki warsztatowej.",
+    "answers": [
+      "36,10 mm",
+      "41,00 mm",
+      "53,05 mm",
+      "80,10 mm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_pomiar4.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 13,
+    "text": "Obróbkę wykańczającą powierzchni podstawy czujnika wskazaną strzałką na ilustracji wykonano w operacji",
+    "answers": [
+      "piłowania..",
+      "przeciągania..",
+      "szlifowania..",
+      "nagniatania.."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_podstawa.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 14,
+    "text": "Którego materiału nie stosuje się na łożyska ślizgowe?",
+    "answers": [
+      "Wolframu.",
+      "Boksytu.",
+      "Stopu cyny.",
+      "Stopu aluminium."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 15,
+    "text": "Do sprawdzenia średnicy otworu wykonanego w korpusie maszyny służy",
+    "answers": [
+      "sprawdzian szczękowy.",
+      "liniał sinusowy.",
+      "wałek pomiarowy.",
+      "sprawdzian tłoczkowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 16,
+    "text": "Do łączenia elementów łańcucha należy zastosować połączenie",
+    "answers": [
+      "klinowe.",
+      "sworzniowe.",
+      "wtłaczane.",
+      "skurczowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 17,
+    "text": "Podczas montażu przewodów sztywnych należy",
+    "answers": [
+      "zapewnić wymianę ciepła między cieczą roboczą a otoczeniem.",
+      "chronić przewody przed wpływami wewnętrznymi.",
+      "założyć elastyczne oprawy na przejścia przez przegrody.",
+      "chronić przewody przed stałą temperaturą."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 18,
+    "text": "Metodą czasowego zabezpieczenia antykorozyjnego metali jest",
+    "answers": [
+      "pokrywanie smarem.",
+      "malowanie proszkowe.",
+      "metalizacja natryskowa.",
+      "ochrona katodowa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 19,
+    "text": "W celu wykonania rury okrągłej z blachy należy zastosować",
+    "answers": [
+      "prasę hydrauliczną.",
+      "wytaczarkę..",
+      "frezarkę poziomą.",
+      "walcarkę.."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 20,
+    "text": "Strzałką na ilustracji wskazano powierzchnię, która została wykonana w operacji",
+    "answers": [
+      "frezowania.",
+      "piłowania.",
+      "szlifowania.",
+      "radełkowania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_ilustracja2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 21,
+    "text": "W celu uzyskania dokładnego przylegania powierzchni głowicy zaworu do gniazda zaworowego należy wykonać operację",
+    "answers": [
+      "szlifowania.",
+      "polerowania.",
+      "wytaczania.",
+      "docierania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 22,
+    "text": "Do wykonania wanny przeznaczonej na magazynowanie soku z jabłek należy zastosować stal",
+    "answers": [
+      "chromowo-niklową.",
+      "narzędziową.",
+      "ocynkowaną.",
+      "konstrukcyjną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 23,
+    "text": "Przedstawione na ilustracji narzędzia służą do wykonania operacji",
+    "answers": [
+      "gładzenia.",
+      "skrobania.",
+      "piłowania.",
+      "docierania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_narzedzia11.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 24,
+    "text": "Przedstawiony rysunek jest fragmentem",
+    "answers": [
+      "rysunku montażowego.",
+      "schematu kinematycznego.",
+      "schematu hydraulicznego.",
+      "rysunku instalacyjnego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_rysunek17.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 25,
+    "text": "Regeneracja części maszyn polegająca na pokryciu ich powierzchni warstwą metalu metodą elektrolityczną to",
+    "answers": [
+      "metalizacja natryskowa.",
+      "elektroliza metali.",
+      "pokrywanie galwaniczne.",
+      "malowanie proszkowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 26,
+    "text": "Z którego materiału nie wykonuje się sprężyn?",
+    "answers": [
+      "Stali stopowej.",
+      "Stali narzędziowej.",
+      "Tworzywa sztucznego.",
+      "Żeliwa szarego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 27,
+    "text": "Strzałką na przedstawionej ilustracji wskazano elementy czopa wału, które zostały wykonane w operacji",
+    "answers": [
+      "radełkowania.",
+      "toczenia.",
+      "frezowania.",
+      "piłowania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_wal.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 28,
+    "text": "Na podstawie danych w tabeli, dobierz symbol łożyska wzdłużnego dla wału o średnicy 12 mm. Z uwagi na gabaryty obudowy średnica łożyska nie może być większa niż 28 mm, a jego szerokość większa niż 11 mm.",
+    "answers": [
+      "53202",
+      "51201",
+      "51200",
+      "53201"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_tabela51.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 29,
+    "text": "Klucz, który służy do wykonania połączenia śrubowego ze ściśle określoną wartością momentu przedstawiono",
+    "answers": [
+      "na ilustracji 3.",
+      "na ilustracji 1.",
+      "na ilustracji 2.",
+      "na ilustracji 4."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_klucze4.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 30,
+    "text": "Na rysunku złożeniowym przekładni, łożysko oznaczono cyfrą",
+    "answers": [
+      "1",
+      "4",
+      "2",
+      "3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_przekladnia2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 31,
+    "text": "Który z wymienionych sprawdzianów kontrolnych przedstawiono na ilustracji?",
+    "answers": [
+      "Tłoczkowy do otworów.",
+      "Trzpieniowy do gwintów.",
+      "Pierścieniowy do gwintów.",
+      "Płaskości powierzchni."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_sprawdzian3.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 32,
+    "text": "Tuleję konika na przedstawionej ilustracji oznaczono cyfrą",
+    "answers": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_ilustracja.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 33,
+    "text": "W celu dopuszczenia przyrządu pomiarowego do użytkowania należy przeprowadzić jego",
+    "answers": [
+      "regulację.",
+      "kalibrację.",
+      "konserwację.",
+      "normalizację."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 34,
+    "text": "Który materiał należy zastosować, aby w prosty sposób połączyć rury w procesie lutowania?",
+    "answers": [
+      "Miedź.",
+      "Stal.",
+      "Żeliwo.",
+      "Staliwo."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 35,
+    "text": "Kawitacja to zjawisko występujące podczas pracy",
+    "answers": [
+      "pompy.",
+      "przekładni.",
+      "sprzęgła.",
+      "podnośnika."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 36,
+    "text": "Do przecinania przedmiotów miedzianych należy użyć przecinaka o kącie ostrza",
+    "answers": [
+      "β = 75÷80°",
+      "β = 55÷60°",
+      "β = 45÷50°",
+      "β = 65÷70°"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 37,
+    "text": "Na podstawie danych w tabeli i rysunku, dobierz wymiary wpustu dla wału remontowanej przekładni. Średnica wału wynosi 86 mm.",
+    "answers": [
+      "22 x 14 x 150 mm",
+      "20 x 12 x 100 mm",
+      "28 x 16 x 100 mm",
+      "25 x 14 x 150 mm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_wal2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 38,
+    "text": "Przy wykonywaniu którego połączenia wykorzystywane jest zjawisko rozszerzalności cieplnej metali?",
+    "answers": [
+      "Bagnetowego.",
+      "Kołkowego.",
+      "Nitowanego.",
+      "Skurczowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 39,
+    "text": "Który klucz zastosowano do montażu łożyska jak na przedstawionej ilustracji?",
+    "answers": [
+      "Oczkowy.",
+      "Nastawny.",
+      "Hakowy.",
+      "Trzpieniowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_klucz3.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 40,
+    "text": "Narzędzie skrawające przedstawione na ilustracji stosowane jest w procesie",
+    "answers": [
+      "frezowania.",
+      "piłowania.",
+      "pogłębiania.",
+      "przepychania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_narzedzie6.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 41,
+    "text": "Który gaz wykorzystywany jest w procesie spawania metodą TIG?",
+    "answers": [
+      "Propan.",
+      "Ziemny.",
+      "Argon.",
+      "Butan."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 42,
+    "text": "Który materiał należy zastosować do wykonania rdzeni odlewniczych w metodzie wytapianego modelu?",
+    "answers": [
+      "Drewno.",
+      "Stal.",
+      "Gips.",
+      "Wosk."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 43,
+    "text": "W której z metod obróbki ręcznej wykorzystywana jest pasta z dodatkiem proszku diamentowego?",
+    "answers": [
+      "Nawijania.",
+      "Wiercenia.",
+      "Ścinania.",
+      "Docierania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 44,
+    "text": "Która obróbka umożliwia wykonanie rowka wpustowego na wałkach?",
+    "answers": [
+      "Radełkowanie.",
+      "Toczenie.",
+      "Wytłaczanie.",
+      "Frezowanie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 45,
+    "text": "Korzystając z danych w tabeli, dobierz średnicę elektrody do spawania blachy wykonanej ze stali miękkiej o grubości 4 mm.",
+    "answers": [
+      "1,6 mm",
+      "4,0 mm",
+      "2,5 mm",
+      "2,0 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_tabela47.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 46,
+    "text": "Co należy zrobić z pękniętym hakiem suwnicy?",
+    "answers": [
+      "Zaspawać pęknięcie metodą MIG.",
+      "Używać do całkowitego złamania.",
+      "Regenerować dowolną metodą.",
+      "Bezwzględnie wymienić na nowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 47,
+    "text": "Niedokładność wymiarowa podczas procesu toczenia nie jest spowodowana",
+    "answers": [
+      "intensywnym smarowaniem łożysk tokarki.",
+      "zużyciem prowadnic łoża tokarki.",
+      "złamaniem mechanicznym płytki skrawającej.",
+      "powstawaniem narostu na płytce skrawającej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 48,
+    "text": "Na którym rysunku przedstawiono palnik stosowany podczas spawania acetylenowo-tlenowego?",
+    "answers": [
+      "Na rysunku 2.",
+      "Na rysunku 3.",
+      "Na rysunku 1.",
+      "Na rysunku 4."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_palniki2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 49,
+    "text": "Który zespół tokarki kłowej został na rysunku oznaczony strzałką?",
+    "answers": [
+      "Wrzeciennik.",
+      "Konik.",
+      "Łoże.",
+      "Suport."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_tokarka4.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 50,
+    "text": "Podpórka z zagłębieniem i zakuwnik są narzędziami stosowanymi podczas operacji",
+    "answers": [
+      "przecinania.",
+      "nitowania.",
+      "gwintowania.",
+      "skrobania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 51,
+    "text": "Przedstawiony na rysunku element, umożliwiający przekazanie ruchu obrotowego, to",
+    "answers": [
+      "zabierak.",
+      "oś.",
+      "wałek.",
+      "tarcza."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_element4.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 52,
+    "text": "Środkownik jest przyrządem umożliwiającym",
+    "answers": [
+      "wyznaczenie środka na płaskich powierzchniach wyrobów walcowych.",
+      "montaż wiertła o uchwycie walcowym na wiertarce.",
+      "ruch posuwisto-zwrotny piły ramowej.",
+      "ustawienie w pionie podczas trasowania przedmiotów walcowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 53,
+    "text": "Który zabieg prowadzany na kowadle przedstawiono na rysunku?",
+    "answers": [
+      "Przecinania.",
+      "Kucia.",
+      "Piłowania.",
+      "Ścinania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_zabieg.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 54,
+    "text": "Na której obrabiarce możliwe jest wykonanie rowka o kształcie jaskółczego ogona?",
+    "answers": [
+      "Frezarce pionowej.",
+      "Szlifierce do wałków.",
+      "Wiertarce stołowej.",
+      "Tokarce pociągowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 55,
+    "text": "Który rodzaj rozwiertaka przedstawiono na rysunku?",
+    "answers": [
+      "Stały.",
+      "Stożkowy.",
+      "Nastawny.",
+      "Cylindryczny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_rozwiertak.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 56,
+    "text": "Które z wymienionych elementów są wykonywane w procesie tłoczenia?",
+    "answers": [
+      "Haki holownicze.",
+      "Dźwignie hamulcowe.",
+      "Wały korbowe.",
+      "Karoserie samochodowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 57,
+    "text": "Na którym rysunku przedstawiono imadło maszynowe precyzyjne?",
+    "answers": [
+      "Na rysunku 2.",
+      "Na rysunku 3.",
+      "Na rysunku 1.",
+      "Na rysunku 4."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_imadla4.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 58,
+    "text": "Skręcone sanie narzędziowe jak na przedstawionym rysunku umożliwiają toczenie",
+    "answers": [
+      "otworów.",
+      "gwintów.",
+      "rowków.",
+      "stożków."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_sanie.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 59,
+    "text": "Który materiał wykorzystywany jest do wykonywania odlewanych korpusów obrabiarek skrawających?",
+    "answers": [
+      "Mosiądz ołowiowy.",
+      "Miedź elektrolityczna.",
+      "Żeliwo szare.",
+      "Stal węglowa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 60,
+    "text": "Które połączenia nie są rozłączne?",
+    "answers": [
+      "Wpustowe.",
+      "Kołnierzowe.",
+      "Spawane.",
+      "Zatrzaskowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 61,
+    "text": "Na podstawie danych zawartych w tabeli określ, dla jakiej średnicy D zewnętrznej łożyska, nominalna nośność statyczna wynosi 10 kN.",
+    "answers": [
+      "12 mm",
+      "24 mm",
+      "6 mm",
+      "22 mm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_tabela46.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 62,
+    "text": "Na którym rysunku przedstawiono mikrometr do pomiaru grubości blach lub taśm?",
+    "answers": [
+      "Na rysunku 1.",
+      "Na rysunku 3.",
+      "Na rysunku 4.",
+      "Na rysunku 2."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_mikrometry2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 63,
+    "text": "Stale kwasoodporne stosuje się do wytwarzania",
+    "answers": [
+      "izolacji termicznej.",
+      "aparatury chemicznej.",
+      "odbojników suwnic.",
+      "płytek skrawających."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 64,
+    "text": "W celu poprawy dokładności wymiarowej i kształtowej otworów po operacji wiercenia należy wykonać",
+    "answers": [
+      "nawiercanie.",
+      "wycinanie.",
+      "rozwiercanie.",
+      "przerzynanie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 65,
+    "text": "Który rodzaj obróbki został przedstawiony na rysunku?",
+    "answers": [
+      "Frezowanie współbieżne.",
+      "Struganie poprzeczne.",
+      "Toczenie wzdłużne.",
+      "Dłutowanie przeciwbieżne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_obrobka2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 66,
+    "text": "Elementy miedziane instalacji centralnego ogrzewania łączone są za pomocą",
+    "answers": [
+      "zgrzewania punktowego.",
+      "spawania elektronowego.",
+      "lutowania miękkiego.",
+      "spawania plazmowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 67,
+    "text": "Który zespół mechaniczny obrabiarki przedstawiono na rysunku?",
+    "answers": [
+      "Śrubę pociągową.",
+      "Wrzeciennik.",
+      "Łoże.",
+      "Stół krzyżowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_zespol.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 68,
+    "text": "Przedstawiony symbol graficzny na rysunkach i schematach jest oznaczeniem",
+    "answers": [
+      "dławika.",
+      "zaworu.",
+      "manometru.",
+      "zbiornika."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_symbol.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 69,
+    "text": "W której metodzie służącej do wytworzenia powłoki ochronnej jest wykorzystywany metal?",
+    "answers": [
+      "Powlekania tworzywami.",
+      "Cynkowania ogniowego.",
+      "Napylania elektrostatycznego.",
+      "Napylania fluidyzacyjnego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 70,
+    "text": "Które materiały można poddać procesowi zgrzewania?",
+    "answers": [
+      "Wyłącznie metale.",
+      "Kompozyty na bazie żywic epoksydowych.",
+      "Wyłącznie tworzywa sztuczne.",
+      "Metale i tworzywa sztuczne."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 71,
+    "text": "Jaką nazwę ma oznaczone na rysunku cyfrą 1, narzędzie stosowane w procesie obróbki rur?",
+    "answers": [
+      "Nożyce krążkowe.",
+      "Wycinak płaski.",
+      "Brzeszczot piły.",
+      "Przecinak ręczny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_narzedzie5.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 72,
+    "text": "Z którego materiału wykonuje się najczęściej nakładki miękkie na szczęki imadła?",
+    "answers": [
+      "Ze stali narzędziowej.",
+      "Z żeliwa.",
+      "Z aluminium.",
+      "Ze staliwa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 73,
+    "text": "Negatywny wpływ na zużycie powierzchni przyłożenia płytek skrawających ma",
+    "answers": [
+      "obniżenie temperatury skrawania.",
+      "zwiększenie sztywności obrabiarki.",
+      "zwiększenie intensywności chłodzenia.",
+      "zwiększenie prędkości skrawania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 74,
+    "text": "Na którym rysunku przedstawiono szczypce do montażu pierścieni osadczych zewnętrznych?",
+    "answers": [
+      "Na rysunku 4.",
+      "Na rysunku 1.",
+      "Na rysunku 3.",
+      "Na rysunku 2."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_szczypce.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 75,
+    "text": "Na którym rysunku przedstawiono klucz oczkowy?",
+    "answers": [
+      "Na rysunku 1.",
+      "Na rysunku 2.",
+      "Na rysunku 3.",
+      "Na rysunku 4."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_klucze3.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 76,
+    "text": "Przymiar kreskowy umożliwia pomiar",
+    "answers": [
+      "chropowatości.",
+      "długości.",
+      "osiowości.",
+      "poziomu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 77,
+    "text": "Utworzenie połączenia na skutek tarcia występuje w procesie",
+    "answers": [
+      "klejenia.",
+      "spawania.",
+      "lutowania.",
+      "zgrzewania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 78,
+    "text": "Brak smarowania łożysk ślizgowych w prasach hydraulicznych może skutkować",
+    "answers": [
+      "wydajniejszą pracą prasy hydraulicznej.",
+      "większą dokładnością procesu prasowania.",
+      "uszkodzeniem elementów ruchomych.",
+      "cichszą pracą elementów ruchomych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 79,
+    "text": "Na którym schemacie obróbki skrawaniem przedstawiony jest proces przecinania wykonywany na strugarce?",
+    "answers": [
+      "Na schemacie 2.",
+      "Na schemacie 3.",
+      "Na schemacie 1.",
+      "Na schemacie 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_schematy.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 80,
+    "text": "Szybki pomiar na stanowisku produkcyjnym jest wykonywany za pomocą",
+    "answers": [
+      "mikroskopów warsztatowych.",
+      "sprawdzianów stanowiskowych.",
+      "areometrów rotacyjnych.",
+      "maszyn współrzędnościowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 81,
+    "text": "Metodą połączenia drewna z tworzywami sztucznymi jest",
+    "answers": [
+      "lutowanie.",
+      "zgrzewanie.",
+      "spawanie.",
+      "klejenie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 82,
+    "text": "Na rysunku przedstawiono wykonywanie gwintów w procesie",
+    "answers": [
+      "toczenia.",
+      "tłoczenia.",
+      "frezowania.",
+      "walcowania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_rysunek.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 83,
+    "text": "Wytarcie ciągadła ciągarki prowadzi do",
+    "answers": [
+      "ograniczenia ilości wiórów w procesie ciągnienia.",
+      "zwiększenia dokładności wymiarowej elementów ciągnionych.",
+      "niedokładności wymiarowych w elementach ciągnionych.",
+      "poprawy odprowadzania powstającego ciepła."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 84,
+    "text": "Który element wiertarki stojakowej oznaczono na rysunku strzałką?",
+    "answers": [
+      "Kolumnę.",
+      "Pokrętło.",
+      "Stół.",
+      "Wrzeciennik."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_rysunek2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 85,
+    "text": "Wosk jako materiał stosowany do wykonania modeli jest wykorzystywany w metodzie odlewania",
+    "answers": [
+      "precyzyjnego.",
+      "ciągłego.",
+      "ciśnieniowego.",
+      "odśrodkowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 86,
+    "text": "W którym procesie obróbki stosowane jest narzędzie przedstawione na rysunku?",
+    "answers": [
+      "Szlifowania wałków.",
+      "Radełkowania powierzchni.",
+      "Wykrawania otworów.",
+      "Ciągnienia drutów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_narzedzie4.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 87,
+    "text": "Przedstawiony na rysunku przyrząd pomiarowy służy do",
+    "answers": [
+      "sprawdzania chropowatości.",
+      "pomiaru głębokości.",
+      "pomiaru kąta.",
+      "wyznaczania linii równoległych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_przyrzad3.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 88,
+    "text": "Supertwarde materiały narzędziowe są stosowane do wytwarzania",
+    "answers": [
+      "opakowań próżniowych.",
+      "elementów wibroizolacyjnych.",
+      "korpusów maszyn.",
+      "narzędzi skrawających."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 89,
+    "text": "Na rysunku przedstawiono mechanizm",
+    "answers": [
+      "zapadkowy.",
+      "bloczkowy.",
+      "łańcuchowy.",
+      "korbowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_mechanizm.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 90,
+    "text": "Koła zębate stosowane w sprzęcie RTV i AGD wykonywane są najczęściej",
+    "answers": [
+      "z materiałów narzędziowych.",
+      "z tworzyw sztucznych.",
+      "z cyn lutowniczych.",
+      "z proszków ściernych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 91,
+    "text": "Na rysunku przedstawiono narzędzie stosowane w procesie",
+    "answers": [
+      "gwintowania.",
+      "wiercenia.",
+      "pogłębiania.",
+      "rozwiercania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_narzedzie3.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 92,
+    "text": "Proces piaskowania umożliwia",
+    "answers": [
+      "usunięcie zanieczyszczeń z powierzchni materiału.",
+      "wytwarzanie tarcz ściernych przez wbijanie ścierniwa w metal.",
+      "zmianę struktury krystalicznej metali.",
+      "naniesienie powłoki ochronnej na materiał."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 93,
+    "text": "Przyrząd przedstawiony na rysunku stosowany jest do",
+    "answers": [
+      "pomiaru spoin.",
+      "określania płaskości powierzchni.",
+      "sprawdzania gwintów.",
+      "pomiaru głębokości otworów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_przyrzad2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 94,
+    "text": "Środkownik umożliwia wyznaczenie",
+    "answers": [
+      "środka płaskich powierzchni przedmiotów walcowych.",
+      "płaskości powierzchni.",
+      "długości powierzchni cylindrycznych wałków.",
+      "średnicy rowków wewnętrznych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 95,
+    "text": "Którą parę materiałów można łączyć za pomocą spawania metodą TIG?",
+    "answers": [
+      "Stal-stal.",
+      "Stal-polimer.",
+      "Stal-szkło.",
+      "Stal-drewno."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 96,
+    "text": "Który zabieg obróbki skrawaniem przedstawiono na rysunku?",
+    "answers": [
+      "Ścinanie ręczne płaszczyzn.",
+      "Prostowanie blach.",
+      "Przerzynanie ręczne.",
+      "Piłowanie płaszczyzn."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_zabieg.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 97,
+    "text": "W których obrabiarkach jest stosowany stół obrotowo-podziałowy?",
+    "answers": [
+      "W ciągarkach.",
+      "We frezarkach.",
+      "W walcarkach.",
+      "W wytłaczarkach."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 98,
+    "text": "W celu wykonania połączenia gwintowego o określonym momencie dokręcenia należy zastosować klucz",
+    "answers": [
+      "rurowy.",
+      "płasko-oczkowy.",
+      "nasadkowy.",
+      "dynamometryczny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 99,
+    "text": "Wykonanie rowka wpustowego w wałku odbywa się w procesie",
+    "answers": [
+      "frezowania.",
+      "wtryskiwania.",
+      "ciągnienia.",
+      "walcowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 100,
+    "text": "Określ sposób naprawy zerwanej śruby.",
+    "answers": [
+      "Połączenie kołkiem zerwanych części.",
+      "Skrócenie długości zerwanej części.",
+      "Wymiana na nową.",
+      "Spawanie z zerwanym łbem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 101,
+    "text": "Przedstawiony na rysunku element jest stosowany do",
+    "answers": [
+      "usuwania wierteł z uchwytów.",
+      "podparcia elementów obrabianych.",
+      "punktowania środków otworów.",
+      "mocowania płyt stalowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_element2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 102,
+    "text": "Wzrost temperatury łożysk ponad dopuszczalną normę świadczy",
+    "answers": [
+      "o wydłużeniu ich żywotności.",
+      "o prawidłowej ich pracy.",
+      "o postępującym zużyciu.",
+      "o prawidłowym smarowaniu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 103,
+    "text": "Rączki pilników ślusarskich wykonuje się",
+    "answers": [
+      "z żeliwa.",
+      "z mosiądzu.",
+      "ze stali.",
+      "z drewna."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 104,
+    "text": "W celu odkręcenia śruby przedstawionej na rysunku stosuje się klucz",
+    "answers": [
+      "nastawny.",
+      "imbusowy.",
+      "płaski.",
+      "torx."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_sruba.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 105,
+    "text": "Które połączenie należy do nierozłącznych?",
+    "answers": [
+      "Gwintowe.",
+      "Wpustowe.",
+      "Klejone.",
+      "Kołkowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 106,
+    "text": "Stal szybkotnąca wykorzystywana jest do wykonywania",
+    "answers": [
+      "blach trapezowych.",
+      "noży tokarskich.",
+      "profili zamkniętych.",
+      "rur ciągnionych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 107,
+    "text": "Rysunek przedstawia element stosowany w połączeniach",
+    "answers": [
+      "śrubowych.",
+      "kołkowych.",
+      "kołnierzowych.",
+      "wpustowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_element3.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 108,
+    "text": "Który klucz służy do mocowania przedmiotów w uchwycie tokarskim?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_klucze.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 109,
+    "text": "Narzędzie przedstawione na rysunku stosuje się podczas",
+    "answers": [
+      "gratowania.",
+      "rozkuwania.",
+      "prostowania.",
+      "przecinania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_narzedzie2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 110,
+    "text": "Przyrząd przedstawiony na rysunku umożliwia kształtowanie",
+    "answers": [
+      "blach.",
+      "wałków.",
+      "rur.",
+      "tulei."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_przyrzad.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 111,
+    "text": "Powstawanie narostu prowadzi do",
+    "answers": [
+      "zmniejszenia odchyłek kształtu i wymiarów części obrabianych.",
+      "powstawania odchyłek kształtu i wymiarów powierzchni obrabianych.",
+      "zwiększenia twardości materiału obrabianego.",
+      "poprawy odprowadzenia ciepła z ostrzy skrawających."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 112,
+    "text": "Oznaczenia TIG, MIG oraz MMA dotyczą połączeń",
+    "answers": [
+      "klejonych.",
+      "zgrzewanych.",
+      "spawanych.",
+      "nitowanych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 113,
+    "text": "Do prawidłowego ustawienia maszyn na stanowisku roboczym niezbędne jest zastosowanie",
+    "answers": [
+      "macek.",
+      "średnicówki.",
+      "poziomnicy.",
+      "mikrometru."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 114,
+    "text": "Guma jest materiałem szeroko stosowanym w wytwarzaniu",
+    "answers": [
+      "elektrod otulonych.",
+      "felg samochodowych.",
+      "frezów walcowych.",
+      "wibroizolatorów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 115,
+    "text": "Na rysunku przedstawiono narzędzie stosowane podczas",
+    "answers": [
+      "nawiercania.",
+      "rozwiercania.",
+      "wiercenia.",
+      "pogłębiania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_narzedzie.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 116,
+    "text": "Koła zębate są wykonywane w procesach toczenia oraz",
+    "answers": [
+      "tłoczenia i przeciągania.",
+      "frezowania i dłutowania.",
+      "kalandrowania i szlifowania.",
+      "wytłaczania i frezowania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 117,
+    "text": "Jaką nazwę nosi element tokarki przedstawiony na rysunku?",
+    "answers": [
+      "Uchwyt trójszczękowy.",
+      "Przekładnia gitarowa.",
+      "Imak narzędziowy.",
+      "Suport narzędziowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_element.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 118,
+    "text": "Na rysunku przedstawiono obcinak stosowany do cięcia",
+    "answers": [
+      "płyt.",
+      "rur.",
+      "prętów.",
+      "blach."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_obcinak.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 119,
+    "text": "Z którego materiału wykonano płytkę skrawającą przedstawioną na rysunku?",
+    "answers": [
+      "Ze stali węglowej.",
+      "Z węglików spiekanych.",
+      "Z żeliwa szarego.",
+      "Z aluminium hutniczego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_plytka.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 120,
+    "text": "Element stosowany w połączeniach nitowych przedstawiono na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_elementy.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 121,
+    "text": "Które z wymienionych części maszyn nie podlegają naprawie?",
+    "answers": [
+      "Korpusy.",
+      "Łożyska toczne.",
+      "Prowadnice.",
+      "Koła zębate."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 122,
+    "text": "Odbiór ostateczny maszyn po naprawie głównej odbywa się na stanowisku",
+    "answers": [
+      "napraw.",
+      "prób.",
+      "roboczym.",
+      "montażu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 123,
+    "text": "Połączenie, polegające na jednoczesnym nagrzaniu oprawy i oziębieniu czopa podczas montażu, nazywa się",
+    "answers": [
+      "kombinowanym.",
+      "skurczowym.",
+      "roztłaczanym.",
+      "rozprężnym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 124,
+    "text": "W którym procesie należy wykonać hak przedstawiony na rysunku?",
+    "answers": [
+      "Walcowania wzdłużnego.",
+      "Kucia matrycowego.",
+      "Termoformowania.",
+      "Odlewania kokilowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_hak.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 125,
+    "text": "Jako narzędzie do wykonywania otworów w blachach na prasie mimośrodowej stosowany jest",
+    "answers": [
+      "przepychacz.",
+      "frez.",
+      "przeciągacz.",
+      "wykrojnik."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 126,
+    "text": "Oprawkę piłki ręcznej do cięcia metali przedstawionej na rysunku wykonuje się",
+    "answers": [
+      "ze stali niestopowej ogólnego przeznaczenia.",
+      "ze stopu miedzi i cynku.",
+      "z żeliwa szarego.",
+      "ze stali stopowej narzędziowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_oprawka.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 127,
+    "text": "Pomiar gorących elementów w procesie kucia swobodnego ręcznego wykonuje się za pomocą",
+    "answers": [
+      "suwmiarki.",
+      "przymiaru kreskowego.",
+      "taśmy mierniczej.",
+      "macek."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 128,
+    "text": "Który klucz zastosowano do montażu łożyska przedstawionego na rysunku?",
+    "answers": [
+      "Hakowy.",
+      "Oczkowy.",
+      "Nastawny.",
+      "Trzpieniowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_rysunek12.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 129,
+    "text": "Gorące powietrze jako źródło ciepła w procesie spawania stosuje się do łączenia",
+    "answers": [
+      "żeliw szarych.",
+      "stali kwasoodpornych.",
+      "brązów odlewniczych.",
+      "tworzyw sztucznych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 130,
+    "text": "Który rodzaj procesu technologicznego należy zastosować do wykonania metalowych elementów obudowy komputera?",
+    "answers": [
+      "Cięcie laserowe.",
+      "Druk 3D.",
+      "Odlewanie.",
+      "Obróbkę plastyczną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 131,
+    "text": "Podczas wykonywania klucza oczkowego przedstawionego na rysunku zastosowano procesy",
+    "answers": [
+      "dłutowania i frezowania.",
+      "kucia swobodnego i frezowania.",
+      "tłoczenia i przepychania.",
+      "kucia matrycowego i przeciągania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_klucz.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 132,
+    "text": "Do przyczyn powstawania uszkodzeń podczas produkcji nie zalicza się",
+    "answers": [
+      "błędów montażu.",
+      "błędów konserwacji.",
+      "błędów użytkownika.",
+      "wadliwego oświetlenia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 133,
+    "text": "Do mechanicznego przesuwu sań suportu wzdłużnego tokarki stosuje się",
+    "answers": [
+      "wrzeciono skrętne.",
+      "krzyż maltański.",
+      "przekładnię łańcuchową.",
+      "mechanizm śrubowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 134,
+    "text": "W wyniku której obróbki zostały ukształtowane przedstawione prowadnice tokarki?",
+    "answers": [
+      "Przeciągania.",
+      "Frezowania.",
+      "Strugania.",
+      "Przepychania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_rysunek8.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 135,
+    "text": "Urwane piły taśmowe do cięcia metali łączy się metodą",
+    "answers": [
+      "zgrzewania iskrowego.",
+      "spawania gazowego.",
+      "klejenia elastycznego.",
+      "lutowania twardego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 136,
+    "text": "Zgrubne wykonanie rowków w płycie, jak na przedstawionym rysunku, odbywa się w procesie",
+    "answers": [
+      "wycinania.",
+      "wykrawania.",
+      "ścinania.",
+      "docierania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_rysunek5.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 137,
+    "text": "Cynkowanie ogniowe zalicza się do ochrony antykorozyjnej powierzchni i polega na",
+    "answers": [
+      "nałożeniu powłoki metalowej.",
+      "nałożeniu powłoki niemetalowej.",
+      "wytworzeniu powłoki metalowej.",
+      "wytworzeniu powłoki niemetalowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 138,
+    "text": "W procesie naprawy pękniętego korpusu żeliwnego metodą spawania na gorąco, temperaturę określa się za pomocą",
+    "answers": [
+      "termometru rtęciowego.",
+      "wykresu żelazo-węgiel.",
+      "tabeli barw metalu przy nagrzewaniu.",
+      "kredki termoindykatorowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 139,
+    "text": "Które elementy maszyn naprawia się, wykorzystując procesy strugania, szlifowania, skrobania lub docierania?",
+    "answers": [
+      "Zawory.",
+      "Wałki.",
+      "Prowadnice.",
+      "Łożyska."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 140,
+    "text": "Których z wymienionych zamocowań nie zalicza się do elastycznych?",
+    "answers": [
+      "Hydraulicznych.",
+      "Dźwigniowych.",
+      "Sprężynowych.",
+      "Pneumatycznych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 141,
+    "text": "Wskazanie śruby mikrometrycznej przedstawionej na rysunku wynosi",
+    "answers": [
+      "5,18 mm",
+      "5,68 mm",
+      "4,68 mm",
+      "4,18 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_sruba.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 142,
+    "text": "Liniał krawędziowy oznaczony na rysunku strzałką zastosowano do sprawdzenia",
+    "answers": [
+      "kształtu zarysu.",
+      "prostoliniowości powierzchni.",
+      "prostopadłości powierzchni.",
+      "bicia osiowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_rysunek11.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 143,
+    "text": "Pomiar grubości zęba koła zębatego wykonuje się przy użyciu",
+    "answers": [
+      "suwmiarki do kół zębatych.",
+      "suwmiarki uniwersalnej.",
+      "sprawdzianu szczękowego.",
+      "wzornika uniwersalnego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 144,
+    "text": "Podczas pomiaru luzu szczelinomierzem okazało się, że płytka 0,20 mm łatwo wchodzi w szczelinę i wyczuwa się jeszcze luz, a płytka 0,30 mm nie wchodzi wcale. Określ wielkość luzu szczeliny.",
+    "answers": [
+      "0,25 mm",
+      "0,35 mm",
+      "0,15 mm",
+      "0,40 mm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 145,
+    "text": "Przedstawione na rysunku elementy należą do wyposażenia normalnego",
+    "answers": [
+      "szlifierki bezkłowej.",
+      "frezarki pionowej.",
+      "strugarki wzdłużnej.",
+      "tokarki uniwersalnej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_elementy.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 146,
+    "text": "Przedstawiony na rysunku przyrząd służy do",
+    "answers": [
+      "naciągu łańcucha.",
+      "montażu łożyska tocznego.",
+      "ściągania klinów.",
+      "montażu paska klinowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_przyrzad.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 147,
+    "text": "Który przyrząd kontrolno-pomiarowy służy do stwierdzenia pęknięć na wale korbowym?",
+    "answers": [
+      "Defektoskop elektromagnetyczny.",
+      "Sprawdzian do gwintów zewnętrznych.",
+      "Wzorzec chropowatości.",
+      "Suwmiarka uniwersalna."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 148,
+    "text": "Do wykonania cięcia krążka blachy jak na rysunku, zastosowano",
+    "answers": [
+      "nożyce krążkowe.",
+      "nożyce gilotynowe.",
+      "przecinarkę taśmową.",
+      "przecinarkę tarczową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_rysunek10.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 149,
+    "text": "Na rysunku pokazano czynność sprawdzania płaskości powierzchni przy użyciu",
+    "answers": [
+      "liniału krawędziowego.",
+      "przymiaru kreskowego.",
+      "pryzmy traserskiej.",
+      "kątownika krawędziowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_rysunek7.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 150,
+    "text": "Które z połączeń wykazują zalety dużej zdolności elastycznego odkształcenia się oraz powrotu do pierwotnego kształtu?",
+    "answers": [
+      "Roztłaczane.",
+      "Gumowe.",
+      "Klejone.",
+      "Nitowane."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 151,
+    "text": "Którą obrabiarkę należy zastosować do wykonania otworu piasty, jak na przedstawionym rysunku?",
+    "answers": [
+      "Przeciągarkę.",
+      "Wypalarkę plazmową.",
+      "Elektrodrążarkę.",
+      "Strugarkę wzdłużną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_piasta.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 152,
+    "text": "Korpusy wrzecienników obrabiarek skrawających wykonuje się",
+    "answers": [
+      "z żeliwa.",
+      "ze stali narzędziowej.",
+      "z duraluminium.",
+      "ze znalu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 153,
+    "text": "Który mikrometr należy zastosować do pomiaru grubości ścianki rur?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_mikrometry.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 154,
+    "text": "Jeżeli po zakończonej pracy w bruzdach pilników pozostaną opiłki metalu, to należy je",
+    "answers": [
+      "oczyścić szczotką drucianą.",
+      "oczyścić palnikiem gazowym.",
+      "zmyć naftą.",
+      "zakonserwować olejem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 155,
+    "text": "Długie śruby (tzw. szpilki) wykonuje się metodą",
+    "answers": [
+      "wiercenia.",
+      "frezowania.",
+      "dłutowania.",
+      "walcowania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 156,
+    "text": "Które narzędzie zastosowano do obróbki gniazda zgodnie z przedstawionym rysunkiem?",
+    "answers": [
+      "Skrobak.",
+      "Frez.",
+      "Narzynkę.",
+      "Docierak."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_rysunek6.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 157,
+    "text": "Które z wymienionych rodzajów połączeń rozłącznych stosuje się w montażu przewodów rurowych?",
+    "answers": [
+      "Wpustowe.",
+      "Wtłaczane.",
+      "Śrubowe.",
+      "Klejone."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 158,
+    "text": "Na rysunku przedstawiono sposób kształtowania gwintu w procesie",
+    "answers": [
+      "walcowania.",
+      "toczenia.",
+      "przeciągania.",
+      "frezowania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_rysunek9.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 159,
+    "text": "Kołki rozcięte (przykład na rysunku) wykonuje się",
+    "answers": [
+      "z mosiądzu.",
+      "ze stali sprężynowej.",
+      "z duraluminium.",
+      "ze stali narzędziowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_kolek.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 160,
+    "text": "Z jaką dokładnością można wykonać pomiar, używając suwmiarki przedstawionej na rysunku?",
+    "answers": [
+      "0,10 mm",
+      "0,02 mm",
+      "0,20 mm",
+      "0,05 mm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_suwmiarka.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 161,
+    "text": "Do wykonania otworu na powierzchni czołowej części jak na przedstawionym rysunku zastosowano wiercenie, a następnie",
+    "answers": [
+      "pogłębianie.",
+      "rozwiercanie.",
+      "szlifowanie.",
+      "powiercanie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_czesc.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 162,
+    "text": "Skrót DTR oznacza",
+    "answers": [
+      "Dokumentację Techniczno-Ruchową.",
+      "Discrete Track Recording.",
+      "dodatkowy tryb roboczy.",
+      "tryb pracy rotacyjnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 163,
+    "text": "Narzędzie skrawające przedstawione na rysunku stosowane jest w procesie",
+    "answers": [
+      "frezowania.",
+      "piłowania.",
+      "przepychania.",
+      "pogłębiania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_narzedzie.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 164,
+    "text": "Na rysunku złożeniowym przekładni, łożysko oznaczono numerem",
+    "answers": [
+      "1",
+      "3",
+      "4",
+      "2"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_rysunek3.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 165,
+    "text": "Aby zamocować wiertło przedstawione na rysunku we wrzecionie wiertarki, należy zastosować",
+    "answers": [
+      "tuleję redukcyjną.",
+      "trzpień drążony.",
+      "uchwyt 3-szczękowy.",
+      "oprawkę wiertarską."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_wiertlo.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 166,
+    "text": "Obróbkę wykańczającą powierzchni podstawy czujnika wskazaną strzałką na rysunku wykonano w operacji",
+    "answers": [
+      "piłowania.",
+      "przeciągania.",
+      "szlifowania.",
+      "nagniatania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_podstawa.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 167,
+    "text": "Na podstawie rysunku wskaż wynik pomiaru wykonanego za pomocą mikrometru.",
+    "answers": [
+      "84,32 mm",
+      "81,30 mm",
+      "84,82 mm",
+      "80,32 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_pomiar2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 168,
+    "text": "Współosiowości osi wałów przekładni po montażu nie można sprawdzić za pomocą",
+    "answers": [
+      "czujnika zegarowego.",
+      "trzpieni pomiarowych.",
+      "suwmiarki uniwersalnej.",
+      "czujnika laserowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 169,
+    "text": "Obróbkę wykańczającą otworu kształtowego w części, oznaczonego na rysunku strzałką, należy wykonać pilnikiem",
+    "answers": [
+      "półokrągłym.",
+      "okrągłym.",
+      "owalnym.",
+      "nożowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_czesc2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 170,
+    "text": "W oparciu o dane w tabeli dobierz rodzaj kleju do wykonania połączeń stalowych elementów korpusu, narażonego na wibracje i pracującego w środowisku wilgotnym.",
+    "answers": [
+      "Dyspersyjny.",
+      "Cyjanokrylowy.",
+      "Epoksydowy.",
+      "Neoprenowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_tabela.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 171,
+    "text": "W celu wykonania rury okrągłej należy zastosować",
+    "answers": [
+      "wytaczarkę.",
+      "walcarkę.",
+      "prasę hydrauliczną.",
+      "frezarkę poziomą."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 172,
+    "text": "Na podstawie danych w tabeli i na rysunku, dobierz wymiary wpustu dla wału remontowanej przekładni. Średnica wału wynosi 86 mm.",
+    "answers": [
+      "20 x 12 x 100 mm",
+      "25 x 14 x 150 mm",
+      "28 x 16 x 100 mm",
+      "22 x 14 x 150 mm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_tabela2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 173,
+    "text": "Strzałką na przedstawionym rysunku wskazano elementy czopa wału, które zostały wykonane w operacji",
+    "answers": [
+      "toczenia.",
+      "frezowania.",
+      "piłowania.",
+      "radełkowania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_wal.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 174,
+    "text": "Który z wymienionych sprawdzianów kontrolnych przedstawiono na rysunku?",
+    "answers": [
+      "Tłoczkowy do otworów.",
+      "Trzpieniowy do gwintów.",
+      "Płaskości powierzchni.",
+      "Pierścieniowy do gwintów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_sprawdzian.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 175,
+    "text": "Który klucz służy do wykonania połączenia śrubowego ze ściśle określoną wartością momentu?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_klucze.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 176,
+    "text": "Przedstawione na rysunku narzędzia służą do wykonania operacji",
+    "answers": [
+      "docierania.",
+      "skrobania.",
+      "piłowania.",
+      "gładzenia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_narzedzia.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 177,
+    "text": "Do wykonania wycięcia w metalowym kolanku wykonanym z blachy 0,5 mm, jak na rysunku należy użyć wiertła oraz",
+    "answers": [
+      "przecinaka.",
+      "prasy ręcznej.",
+      "nożyc ręcznych.",
+      "skrobaka."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_kolanko.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 178,
+    "text": "Tuleję konika na przedstawionym rysunku oznaczono numerem",
+    "answers": [
+      "4",
+      "2",
+      "3",
+      "1"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_rysunek.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 179,
+    "text": "Przy wykonywaniu którego połączenia wykorzystuje się zjawisko rozszerzalności cieplnej metali?",
+    "answers": [
+      "Skurczowego.",
+      "Spawanego.",
+      "Kołkowego.",
+      "Zgrzewanego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 180,
+    "text": "Na podstawie danych w tabeli dobierz łożysko wzdłużne dla wału o średnicy 12 mm. Z uwagi na gabaryty obudowy średnica łożyska nie może być większa niż 28 mm, a jego szerokość większa niż 11 mm.",
+    "answers": [
+      "51201",
+      "51200",
+      "53201",
+      "53202"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_tabela3.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 181,
+    "text": "Strzałką na rysunku wskazano powierzchnię, która została wykonana w operacji",
+    "answers": [
+      "szlifowania.",
+      "frezowania.",
+      "radełkowania.",
+      "piłowania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_rysunek2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 182,
+    "text": "Jakiego rodzaju podtrzymkę przedstawiono na rysunku?",
+    "answers": [
+      "Narzędziową.",
+      "Stałą.",
+      "Aktywną.",
+      "Ruchomą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_podtrzymka2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 183,
+    "text": "Łączniki gumowe jako elementy podatne stosowane są w celu",
+    "answers": [
+      "multiplikacji drgań przekazywanych wewnątrz korpusów maszyn.",
+      "wzmocnienia amplitudy drgań przekazywanych wewnątrz maszyn.",
+      "ograniczenia drgań przekazywanych pomiędzy częściami maszyn.",
+      "zwiększenia amplitudy drgań części maszyn oraz ich ram nośnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 184,
+    "text": "Który z rysunków przedstawia pogłębiacz stożkowy?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_rysunki5.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 185,
+    "text": "Farby proszkowe są wykorzystywane w procesie",
+    "answers": [
+      "napylania.",
+      "anodowania.",
+      "miedziowania.",
+      "cynkowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 186,
+    "text": "Na rysunku przedstawiono podkładkę",
+    "answers": [
+      "zębatą.",
+      "klinową.",
+      "sprężynową.",
+      "kwadratową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_podkladka.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 187,
+    "text": "Która z metod łączenia materiałów umożliwia połączenie ze sobą drewna oraz tworzywa sztucznego?",
+    "answers": [
+      "Spawanie elektrodą otuloną.",
+      "Zgrzewanie elektryczne oporowe.",
+      "Klejenie na zimno.",
+      "Lutowanie gazowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 188,
+    "text": "Z którego materiału nie wytwarza się narzędzi przeznaczonych do obróbki skrawaniem?",
+    "answers": [
+      "Polichlorku winylu.",
+      "Azotku boru.",
+      "Diamentu.",
+      "Węglika krzemu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 189,
+    "text": "Który zabieg ślusarski przedstawiono na rysunku?",
+    "answers": [
+      "Ścinanie płaszczyzn.",
+      "Przerzynanie ręczne.",
+      "Docieranie płaskie.",
+      "Kucie swobodne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_zabieg2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 190,
+    "text": "Na rysunku przedstawiono symbol graficzny będący oznaczeniem",
+    "answers": [
+      "pompy o stałej wydajności.",
+      "cylindra jednostronnego działania.",
+      "śruby pociągowej z rowkiem wpustowym.",
+      "zbiornika bezciśnieniowego z odprowadzeniem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_symbol2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 191,
+    "text": "Który materiał stosowany jest do wykonania modelu odlewniczego w metodzie wytapianego modelu?",
+    "answers": [
+      "Papier.",
+      "Żeliwo.",
+      "Drewno.",
+      "Wosk."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 192,
+    "text": "Na odchyłkę kształtu powierzchni obrabianych nie ma wpływu",
+    "answers": [
+      "zużycie krawędzi skrawającej.",
+      "powstawanie narostu.",
+      "zastosowanie cieczy chłodzących.",
+      "odkształcenie plastyczne ostrza narzędzia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 193,
+    "text": "Które połączenia należą do rozłącznych?",
+    "answers": [
+      "Klejone.",
+      "Zgrzewane.",
+      "Lutowane.",
+      "Gwintowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 194,
+    "text": "Na rysunku przedstawiono proces wiercenia z mocowaniem przedmiotu obrabianego za pomocą",
+    "answers": [
+      "konika tokarskiego.",
+      "pryzmy z chomątkiem.",
+      "zabieraka czołowego.",
+      "imadła ślusarskiego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_proces3.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 195,
+    "text": "Którą metodę wykonywania uzębień przedstawiono na rysunku?",
+    "answers": [
+      "Dłutowanie.",
+      "Odlewanie.",
+      "Napawanie.",
+      "Walcowanie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_metoda.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 196,
+    "text": "Który proces przeróbki plastycznej umożliwia wykonanie kuli hakowej (patrz rysunek) haka holowniczego?",
+    "answers": [
+      "Walcowanie kształtowe.",
+      "Kucie matrycowe.",
+      "Ciągnienie swobodne.",
+      "Wyciskanie na prasach."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_hak.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 197,
+    "text": "Wiertło stopniowe do blach przedstawiono na rysunku oznaczonym literą",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_wiertla3.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 198,
+    "text": "Podczas spawania gazowego wykorzystywana jest mieszanina",
+    "answers": [
+      "acetylenu i tlenu.",
+      "azotu i tlenu.",
+      "argonu i acetylenu.",
+      "acetylenu i helu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 199,
+    "text": "Z którego materiału należy wykonać nóż tokarski przeznaczony do obróbki stali?",
+    "answers": [
+      "Aluminium hutniczego.",
+      "Żeliwa szarego.",
+      "Stali szybkotnącej.",
+      "Włókna węglowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 200,
+    "text": "Cyna jest spoiwem stosowanym podczas procesu",
+    "answers": [
+      "wytłaczania.",
+      "lutowania.",
+      "kalandrowania.",
+      "nawęglania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 201,
+    "text": "W celu odkręcenia nakrętki przedstawionej na rysunku stosuje się klucz",
+    "answers": [
+      "sześciokątny.",
+      "torx.",
+      "hakowy.",
+      "imbusowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_nakretka.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 202,
+    "text": "Przyrząd przedstawiony na rysunku służy do",
+    "answers": [
+      "cięcia.",
+      "prostowania.",
+      "trasowania.",
+      "spawania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_przyrzad6.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 203,
+    "text": "Który przyrząd obróbkowy przedstawiono na rysunku?",
+    "answers": [
+      "Stół pionizujący.",
+      "Obrotnicę uniwersalną.",
+      "Podzielnicę uniwersalną.",
+      "Imadło samonastawne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_przyrzad7.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 204,
+    "text": "Na rysunku przedstawiono",
+    "answers": [
+      "średnicówkę.",
+      "szczelinomierz.",
+      "wysokościomierz.",
+      "kątomierz uniwersalny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_rysunek16.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 205,
+    "text": "Na rysunku przedstawiono połączenie",
+    "answers": [
+      "kielichowe.",
+      "wielokarbowe.",
+      "kołkowe.",
+      "skręcane."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_polaczenie7.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 206,
+    "text": "Rozwiercanie jest stosowane w celu",
+    "answers": [
+      "poprawy dokładności wymiarowej otworów po procesie wiercenia.",
+      "zmniejszenia dokładności wymiarowej otworów nawiercanych.",
+      "umożliwienia zastosowania docieraków płaskich w otworach.",
+      "zwiększenia chropowatości powierzchni otworów wierconych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 207,
+    "text": "Część roboczą wierteł do metali wykonuje się ze stali",
+    "answers": [
+      "szybkotnącej.",
+      "nierdzewnej.",
+      "stopowej.",
+      "węglowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 208,
+    "text": "Który element należy bezwzględnie wymienić na nowy w przypadku zużycia?",
+    "answers": [
+      "Łoże strugarki wzdłużnej.",
+      "Nóż tnący matrycy giętarskiej.",
+      "Hak suwnicy bramowej.",
+      "Segment formy wtryskowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 209,
+    "text": "Które części są wykonywane w procesie dłutowania metodą Maaga?",
+    "answers": [
+      "Tuleje.",
+      "Koła zębate.",
+      "Kołki ustalające.",
+      "Wały."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 210,
+    "text": "Który element szlifierki do płaszczyzn przedstawiono na rysunku?",
+    "answers": [
+      "Stół magnetyczny.",
+      "Ściernicę tarczową.",
+      "Sanie suportu wzdłużnego.",
+      "Wrzeciennik przesuwny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_element5.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 211,
+    "text": "Wytarcie prowadnic łoża tokarki prowadzi do powstawania",
+    "answers": [
+      "gładkiej powierzchni elementów obrabianych na tokarkach.",
+      "niewielkiej ilości wiórów podczas procesu skrawania.",
+      "minimalnej ilości ciepła w materiale obrabianym.",
+      "niedokładności wymiarowej podczas procesu toczenia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 212,
+    "text": "Na podstawie danych w tabeli określ wartość współczynnika tarcia µ połączeń wtłaczanych podczas demontażu dla materiału części łączonych stal-stal i zastosowanego oleju maszynowego.",
+    "answers": [
+      "0,30",
+      "0,14",
+      "0,12",
+      "0,20"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_tabela49.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 213,
+    "text": "Elementem której z obrabiarek jest stół krzyżowy?",
+    "answers": [
+      "Piły taśmowej pionowej.",
+      "Frezarki wspornikowej.",
+      "Wytłaczarki planetarnej.",
+      "Wtryskarki dźwigniowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 214,
+    "text": "Która obrabiarka umożliwia jednoczesne wykonanie wielu otworów?",
+    "answers": [
+      "Dłutownica pionowa.",
+      "Wiertarka wielowrzecionowa.",
+      "Tokarka rewolwerowa.",
+      "Cykliniarka tarczowa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 215,
+    "text": "Stępienie ostrzy narzędzi skrawających prowadzi do",
+    "answers": [
+      "zwiększenia zużycia energii elektrycznej przez obrabiarkę.",
+      "zmniejszenia kosztów jednostkowych produkcji.",
+      "zmniejszenia ilości podawanego płynu chłodzącego narzędzie.",
+      "zwiększenia wydajności obrabiarek konwencjonalnych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 216,
+    "text": "Sprawdziany stanowiskowe umożliwiają określenie",
+    "answers": [
+      "wszystkich wymiarów wykonywanej części.",
+      "kluczowych wymiarów części na stanowisku roboczym.",
+      "pełnej geometrii wykonywanej części w warunkach laboratoryjnych.",
+      "wad ukrytych struktury materiału obrabianego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 217,
+    "text": "Proces spawania elektrodami otulonymi oznaczony jest skrótem",
+    "answers": [
+      "CVD",
+      "PVD",
+      "MMA",
+      "MAG"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 218,
+    "text": "W celu wyznaczenia osi symetrii powierzchni czołowej wałka należy zastosować",
+    "answers": [
+      "przymiar kreskowy.",
+      "środkownik.",
+      "liniał.",
+      "kątownik."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 219,
+    "text": "Sprawdzian przedstawiony na rysunku jest wykorzystywany podczas wykonywania",
+    "answers": [
+      "powierzchni stożków ściętych.",
+      "rowków teowych.",
+      "gwintów wewnętrznych.",
+      "gwintów zewnętrznych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_sprawdzian2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 220,
+    "text": "Otwory przelotowe o przekroju kwadratowym są wykonywane w procesie",
+    "answers": [
+      "lutowania.",
+      "przeciągania.",
+      "anodowania.",
+      "zgrzewania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 221,
+    "text": "Podczas trasowania niektórych wyrobów walcowych jako podstawkę stosuje się",
+    "answers": [
+      "kątownik.",
+      "cyrkiel.",
+      "liniał.",
+      "pryzmę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 222,
+    "text": "Przedstawiony na ilustracji element jest stosowany do",
+    "answers": [
+      "podparcia elementów toczonych.",
+      "mocowania płyt stalowych.",
+      "punktowania środków otworów.",
+      "usuwania wierteł z uchwytów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_element7.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 223,
+    "text": "Na ilustracji przedstawiono przyrząd stosowany podczas",
+    "answers": [
+      "nawiercania.",
+      "pogłębiania.",
+      "rozwiercania.",
+      "wiercenia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_przyrzad10.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 224,
+    "text": "Przyrząd przedstawiony na ilustracji umożliwia kształtowanie",
+    "answers": [
+      "rur.",
+      "wałków.",
+      "tulei.",
+      "blach."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_przyrzad11.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 225,
+    "text": "Który element wiertarki kolumnowej oznaczono na ilustracji strzałką?",
+    "answers": [
+      "Wrzeciennik.",
+      "Kolumnę.",
+      "Stół.",
+      "Pokrętło."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_wiertarka5.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 226,
+    "text": "Który zabieg przedstawiono na rysunku?",
+    "answers": [
+      "Przerzynanie ręczne.",
+      "Ścinanie ręczne płaszczyzn.",
+      "Prostowanie blach.",
+      "Piłowanie płaszczyzn."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_zabieg3.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 227,
+    "text": "Do prawidłowego ustawienia maszyny na stanowisku roboczym niezbędne jest zastosowanie",
+    "answers": [
+      "średnicówki dwupunktowej.",
+      "macek zewnętrznych.",
+      "mikrometru wewnętrznego.",
+      "poziomnicy maszynowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 228,
+    "text": "Jaką nazwę nosi element tokarki przedstawiony na ilustracji?",
+    "answers": [
+      "Uchwyt trójszczękowy.",
+      "Imak narzędziowy.",
+      "Suport narzędziowy.",
+      "Przekładnia gitarowa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_element6.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 229,
+    "text": "Koła zębate są wykonywane w procesie toczenia oraz",
+    "answers": [
+      "frezowania i dłutowania.",
+      "wytłaczania i frezowania.",
+      "kalandrowania i szlifowania.",
+      "tłoczenia i przeciągania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 230,
+    "text": "Dobierz metodę połączenia drewna z tworzywem sztucznym.",
+    "answers": [
+      "Lutowanie.",
+      "Spawanie.",
+      "Klejenie.",
+      "Zgrzewanie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 231,
+    "text": "Wosk jako materiał stosowany do wykonania modelu jest wykorzystywany w metodzie odlewania",
+    "answers": [
+      "precyzyjnego.",
+      "odśrodkowego.",
+      "ciągłego.",
+      "ciśnieniowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 232,
+    "text": "Na ilustracji przedstawiono wykonywanie gwintów w procesie",
+    "answers": [
+      "walcowania.",
+      "toczenia.",
+      "tłoczenia.",
+      "frezowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_proces6.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 233,
+    "text": "Guma jest materiałem szeroko stosowanym w produkcji",
+    "answers": [
+      "wibroizolatorów.",
+      "felg samochodowych.",
+      "frezów walcowych.",
+      "elektrod otulonych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 234,
+    "text": "Z którego materiału wykonano płytkę skrawającą przedstawioną na ilustracji?",
+    "answers": [
+      "Z aluminium hutniczego.",
+      "Z węglików spiekanych.",
+      "Z żeliwa szarego.",
+      "Ze stali węglowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_plytka3.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 235,
+    "text": "Narzędzie przedstawione na ilustracji stosuje się podczas",
+    "answers": [
+      "przecinania.",
+      "prostowania.",
+      "rozkuwania.",
+      "gratowania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_narzedzie8.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 236,
+    "text": "Na ilustracji przedstawiono narzędzie stosowane w procesie",
+    "answers": [
+      "gwintowania.",
+      "pogłębiania.",
+      "rozwiercania.",
+      "wiercenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_narzedzie9.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 237,
+    "text": "Na ilustracji przedstawiono obcinak stosowany w cięciu",
+    "answers": [
+      "blach stalowych.",
+      "rur miedzianych.",
+      "płyt wiórowych.",
+      "prętów niklowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_obcinak.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 238,
+    "text": "Który klucz służy do obsługi uchwytu tokarskiego?",
+    "answers": [
+      "Klucz 4.",
+      "Klucz 1.",
+      "Klucz 2.",
+      "Klucz 3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_klucze7.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 239,
+    "text": "Którą parę materiałów można łączyć za pomocą spawania TIG?",
+    "answers": [
+      "Stal-drewno.",
+      "Stal-stal.",
+      "Stal-tworzywo sztuczne.",
+      "Stal-szkło."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 240,
+    "text": "Dobierz element stosowany w połączeniach nitowych.",
+    "answers": [
+      "Element 1.",
+      "Element 3.",
+      "Element 2.",
+      "Element 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_elementy5.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 241,
+    "text": "W którym procesie obróbki stosowane jest narzędzie przedstawione na ilustracji?",
+    "answers": [
+      "Ciągnienia drutów.",
+      "Szlifowania wałków.",
+      "Radełkowania powierzchni.",
+      "Wykrawania otworów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_narzedzie10.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 242,
+    "text": "Wzrost temperatury łożysk ponad dopuszczalną normę świadczy o",
+    "answers": [
+      "prawidłowej ich pracy.",
+      "wydłużeniu ich żywotności.",
+      "postępującym zużyciu.",
+      "prawidłowym smarowaniu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 243,
+    "text": "W celu wykonania połączenia gwintowego o określonym momencie dokręcenia, należy zastosować klucz",
+    "answers": [
+      "rurowy.",
+      "nasadkowy.",
+      "dynamometryczny.",
+      "płasko-oczkowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 244,
+    "text": "Do czego stosuje się przedstawiony na rysunku przyrząd?",
+    "answers": [
+      "Do pomiaru spoin.",
+      "Do sprawdzania gwintów.",
+      "Do pomiaru głębokości otworów.",
+      "Do określania płaskości powierzchni."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_przyrzad12.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 245,
+    "text": "Koła zębate stosowane w sprzęcie RTV i AGD wykonywane są najczęściej z",
+    "answers": [
+      "materiałów narzędziowych.",
+      "cyn lutowniczych.",
+      "proszków ściernych.",
+      "tworzyw sztucznych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 246,
+    "text": "Rysunek przedstawia element stosowany w połączeniu",
+    "answers": [
+      "kołnierzowym.",
+      "śrubowym.",
+      "kołkowym.",
+      "wpustowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_element8.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 247,
+    "text": "Z którego materiału nie wykonuje się izolacji termicznych rur?",
+    "answers": [
+      "Polietylenu.",
+      "Poliuretanu.",
+      "Polistyrenu.",
+      "Poliwęglanu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 248,
+    "text": "Ilustracja przedstawia podkładkę",
+    "answers": [
+      "zębatą.",
+      "kwadratową.",
+      "klinową.",
+      "sprężynową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_podkladka.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 249,
+    "text": "Rysunek przedstawia symbol",
+    "answers": [
+      "zbiornika bezciśnieniowego z odprowadzeniem.",
+      "pompy o stałej wydajności.",
+      "cylindra jednostronnego działania.",
+      "śruby pociągowej z rowkiem wpustowym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_symbol2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 250,
+    "text": "Który materiał stosowany jest do wykonania modelu odlewniczego w metodzie wypalanego modelu?",
+    "answers": [
+      "Drewno.",
+      "Styropian.",
+      "Papier.",
+      "Żeliwo."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 251,
+    "text": "Która ilustracja przedstawia wiertło stopniowe do blach?",
+    "answers": [
+      "Ilustracja B.",
+      "Ilustracja A.",
+      "Ilustracja D.",
+      "Ilustracja C."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_wiertla4.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 252,
+    "text": "Rysunek przedstawia proces wiercenia z zamocowaniem przedmiotu za pomocą",
+    "answers": [
+      "pryzmy.",
+      "zabieraka.",
+      "konika.",
+      "imadła."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_proces3.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 253,
+    "text": "W celu wyznaczenia środka powierzchni czołowej wałka należy zastosować",
+    "answers": [
+      "liniał.",
+      "przymiar kreskowy.",
+      "kątownik.",
+      "środkownik."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 254,
+    "text": "Stępienie narzędzi skrawających prowadzi do",
+    "answers": [
+      "zwiększenia wydajności obrabiarek konwencjonalnych.",
+      "zmniejszenia kosztów jednostkowych roboczogodzin.",
+      "zmniejszenia ilości podawanego płynu chłodzącego narzędzie.",
+      "zwiększenia zużycia energii elektrycznej przez obrabiarkę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 255,
+    "text": "Którą metodę wykonywania uzębień przedstawia rysunek?",
+    "answers": [
+      "Dłutowanie.",
+      "Odlewanie.",
+      "Walcowanie.",
+      "Napawanie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_metoda.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 256,
+    "text": "Który element szlifierki do płaszczyzn przedstawiono na ilustracji?",
+    "answers": [
+      "Przesuwny wrzeciennik.",
+      "Stół magnetyczny.",
+      "Ściernicę tarczową.",
+      "Sanie stołu prostokątnego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_element5.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 257,
+    "text": "Jak nazywa się zabieg przedstawiony na rysunku?",
+    "answers": [
+      "Docieranie płaskie.",
+      "Kucie swobodne.",
+      "Przerzynanie ręczne.",
+      "Ścinanie płaszczyzn."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_zabieg2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 258,
+    "text": "Rysunek przedstawia połączenie",
+    "answers": [
+      "wielokarbowe.",
+      "kołkowe.",
+      "kielichowe.",
+      "skręcane."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_polaczenie7.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 259,
+    "text": "Który proces przeróbki plastycznej umożliwia wykonanie kuli hakowej, haka holowniczego?",
+    "answers": [
+      "Wyciskanie na prasach.",
+      "Ciągnienie swobodne.",
+      "Kucie matrycowe.",
+      "Walcowanie kształtowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_hak.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 260,
+    "text": "Jakiego rodzaju podtrzymkę przedstawiono na ilustracji?",
+    "answers": [
+      "Ruchomą.",
+      "Narzędziową.",
+      "Aktywną.",
+      "Stałą."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_podtrzymka3.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 261,
+    "text": "Którą skrótową nazwę nosi proces spawania elektrodami otulonymi?",
+    "answers": [
+      "MMA",
+      "PVD",
+      "CVD",
+      "MAG"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 262,
+    "text": "Na podstawie tabeli określ wartość współczynnika tarcia  połączeń wtłaczanych podczas demontażu dla materiału części łączonych stal-stal i zastosowanego oleju maszynowego.",
+    "answers": [
+      "0,14",
+      "0,12",
+      "0,20",
+      "0,30"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_tabela56.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 263,
+    "text": "W celu odkręcenia nakrętki pokazanej na ilustracji stosuje się klucz",
+    "answers": [
+      "hakowy.",
+      "torx.",
+      "sześciokątny.",
+      "imbusowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_nakretka.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 264,
+    "text": "Na ilustracji przedstawiono",
+    "answers": [
+      "szczelinomierz.",
+      "średnicówkę.",
+      "wysokościomierz.",
+      "kątomierz uniwersalny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_ilustracja4.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 265,
+    "text": "Przyrząd przedstawiony na ilustracji służy do",
+    "answers": [
+      "prostowania.",
+      "cięcia.",
+      "trasowania.",
+      "spawania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_przyrzad6.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 266,
+    "text": "Sprawdzian przedstawiony na ilustracji jest wykorzystywany podczas wykonywania",
+    "answers": [
+      "powierzchni stożków ściętych.",
+      "gwintów wewnętrznych.",
+      "gwintów zewnętrznych.",
+      "rowków teowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_sprawdzian2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 267,
+    "text": "Który przyrząd przedstawiono na ilustracji?",
+    "answers": [
+      "Stół pionizujący.",
+      "Obrotnicę uniwersalną.",
+      "Imadło samonastawne.",
+      "Podzielnicę uniwersalną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_przyrzad14.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 268,
+    "text": "Z jaką dokładnością można wykonać pomiar używając suwmiarki przedstawionej na rysunku?",
+    "answers": [
+      "0,01 mm",
+      "0,10 mm",
+      "0,05 mm",
+      "0,02 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_suwmiarka.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 269,
+    "text": "Podczas wykonania klucza oczkowego, pokazanego na rysunku, zastosowano procesy",
+    "answers": [
+      "kucia swobodnego i frezowania.",
+      "tłoczenia i przepychania.",
+      "dłutowania i frezowania.",
+      "kucia matrycowego i przeciągania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_klucz4.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 270,
+    "text": "Przedstawione na rysunku narzędzie oznaczone strzałką zastosowano do pomiaru",
+    "answers": [
+      "tolerancji bicia.",
+      "tolerancji pozycji.",
+      "odchyłki prostoliniowości.",
+      "odchyłki płaskości."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_walek5.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 271,
+    "text": "Które części maszyn naprawia się wykorzystując procesy strugania, szlifowania, skrobania lub docierania?",
+    "answers": [
+      "Wałki.",
+      "Łożyska.",
+      "Zawory.",
+      "Prowadnice."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 272,
+    "text": "Jeżeli po zakończonej pracy w bruzdach pilnika pozostaną opiłki metalu, to należy je",
+    "answers": [
+      "zakonserwować wazeliną.",
+      "wymyć rozpuszczalnikiem.",
+      "oczyścić szczotką drucianą.",
+      "przemyć gorącą wodą."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 273,
+    "text": "Do spawania którego materiału, jako źródło ciepła stosuje się gorące powietrze?",
+    "answers": [
+      "Stali kwasoodpornych.",
+      "Brązów odlewniczych.",
+      "Tworzyw sztucznych.",
+      "Żeliw szarych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 274,
+    "text": "Zgrubny pomiar gorących elementów wykonywanych w procesie kucia ręcznego wykonuje się za pomocą",
+    "answers": [
+      "przymiaru kreskowego.",
+      "suwmiarki.",
+      "macek.",
+      "taśmy mierniczej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 275,
+    "text": "Do wykonywania haka, pokazanego na rysunku, należy użyć narzędzia w postaci",
+    "answers": [
+      "oprawki.",
+      "matrycy.",
+      "noża.",
+      "formy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_hak2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 276,
+    "text": "Który z rodzajów połączeń rozłącznych stosuje się w montażu przewodów rurowych?",
+    "answers": [
+      "Wtłaczane.",
+      "Wpustowe.",
+      "Klejone.",
+      "Śrubowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 277,
+    "text": "W wyniku której obróbki zostały ukształtowane przedstawione prowadnice?",
+    "answers": [
+      "Frezowania.",
+      "Przepychania.",
+      "Strugania.",
+      "Przeciągania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_obrobka5.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 278,
+    "text": "Który z przyrządów kontrolno-pomiarowych służy do zlokalizowania pęknięć w wale korbowym?",
+    "answers": [
+      "Wzorzec chropowatości.",
+      "Suwmiarka uniwersalna.",
+      "Sprawdzian do gwintów zewnętrznych.",
+      "Defektoskop elektromagnetyczny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 279,
+    "text": "Które narzędzie zastosowano do obróbki gniazda pokazanego na rysunku?",
+    "answers": [
+      "Frez.",
+      "Docierak.",
+      "Skrobak.",
+      "Narzynkę."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_obrobka4.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 280,
+    "text": "W której obrabiarce stosuje się przedstawione na rysunku elementy?",
+    "answers": [
+      "We frezarce pionowej.",
+      "W tokarce uniwersalnej.",
+      "W szlifierce bezkłowej.",
+      "W strugarce wzdłużnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_elementy4.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 281,
+    "text": "Narzędziem stosowanym do wykonywania otworów w blachach na prasach mimośrodowych jest",
+    "answers": [
+      "frez.",
+      "wykrojnik.",
+      "wiertło lufowe.",
+      "nóż tokarski."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 282,
+    "text": "Podczas naprawy pękniętego korpusu żeliwnego, metodą spawania na gorąco, do określenia temperatury używa się",
+    "answers": [
+      "kredki termoindykatorowej.",
+      "termometru rtęciowego.",
+      "wykresu żelazo-węgiel.",
+      "tabeli barw metalu przy nagrzewaniu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 283,
+    "text": "Zgrubne wykonanie rowków w płycie, pokazane na rysunku, odbywa się w procesie",
+    "answers": [
+      "docierania.",
+      "wycinania.",
+      "wykrawania.",
+      "ścinania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_proces4.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 284,
+    "text": "Połączenie polegające na jednoczesnym nagrzaniu oprawy i oziębieniu czopa podczas montażu nazywa się",
+    "answers": [
+      "rozprężnym.",
+      "skurczowym.",
+      "roztłaczanym.",
+      "kombinowanym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 285,
+    "text": "Które z połączeń wykazują zalety dużej zdolności elastycznego odkształcenia się oraz powrotu do pierwotnego kształtu ?",
+    "answers": [
+      "Gumowe.",
+      "Klejone.",
+      "Nitowane.",
+      "Roztłaczane."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 286,
+    "text": "Podczas pomiaru luzu szczelinomierzem, okazało się, że płytka 0,2 łatwo wchodzi w szczelinę i wyczuwa się jeszcze luz, a płytka 0,3 nie wchodzi wcale. Określ wielkość luzu szczeliny.",
+    "answers": [
+      "0,35 mm",
+      "0,20 mm",
+      "0,25 mm",
+      "0,30 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 287,
+    "text": "Którą obrabiarkę należy zastosować do wykonania wielowypustu piasty przedstawionej na rysunku?",
+    "answers": [
+      "Wypalarkę plazmową.",
+      "Elektrodrążarkę.",
+      "Strugarkę wzdłużną.",
+      "Przeciągarkę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_piasta.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 288,
+    "text": "Na śrubie mikrometrycznej przedstawionej na rysunku, wymiar wynosi",
+    "answers": [
+      "4,68 mm",
+      "4,18 mm",
+      "45,68 mm",
+      "45,18 mm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_sruba2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 289,
+    "text": "Pomiar grubości zębów kół zębatych wykonuje się przy użyciu",
+    "answers": [
+      "suwmiarki uniwersalnej.",
+      "sprawdzianu tłoczkowego.",
+      "wzornika uniwersalnego.",
+      "suwmiarki modułowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 290,
+    "text": "Do wykonania cięcia krążka blachy, pokazanego na rysunku, zastosowano",
+    "answers": [
+      "nożyce gilotynowe.",
+      "przecinarkę taśmową.",
+      "przecinarkę tarczową.",
+      "nożyce krążkowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_ciecie2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 291,
+    "text": "Wrzecienniki obrabiarek skrawających wykonuje się",
+    "answers": [
+      "z duraluminium.",
+      "z żeliwa.",
+      "ze stali narzędziowej.",
+      "ze znalu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 292,
+    "text": "Których zamocowań nie zalicza się do elastycznych?",
+    "answers": [
+      "Hydraulicznych.",
+      "Sprężynowych.",
+      "Pneumatycznych.",
+      "Dźwigniowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 293,
+    "text": "Na rysunku przedstawiono sposób wykonania gwintu z zastosowaniem obróbki",
+    "answers": [
+      "frezowania.",
+      "walcowania.",
+      "przeciągania.",
+      "toczenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_obrobka6.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 294,
+    "text": "Których z wymienionych części maszyn nie naprawia się stosując regenerację?",
+    "answers": [
+      "Kół zębatych.",
+      "Prowadnic.",
+      "Łożysk tocznych.",
+      "Korpusów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 295,
+    "text": "Oprawkę piłki ręcznej do cięcia metali, wskazanej na rysunku strzałką, wykonuje się",
+    "answers": [
+      "ze stopów miedzi i cynku.",
+      "z żeliwa lub staliwa.",
+      "ze stali stopowej narzędziowej.",
+      "ze stali niestopowej ogólnego przeznaczenia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_pilka2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 296,
+    "text": "Liniał krawędziowy wskazany strzałką zastosowano do sprawdzenia",
+    "answers": [
+      "wygięcia elementu.",
+      "bicia osiowego.",
+      "prostoliniowości powierzchni.",
+      "prostopadłości elementu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_walek5.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 297,
+    "text": "Które narzędzie zastosowano do obróbki gniazda zgodnie z przedstawioną ilustracją?",
+    "answers": [
+      "Narzynkę.",
+      "Docierak.",
+      "Frez.",
+      "Skrobak."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_rysunek6.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 298,
+    "text": "Który klucz zastosowano do montażu łożyska przedstawionego na ilustracji?",
+    "answers": [
+      "Oczkowy.",
+      "Trzpieniowy.",
+      "Nastawny.",
+      "Hakowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_rysunek12.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 299,
+    "text": "Kołki rozcięte (przykład na ilustracji) wykonuje się",
+    "answers": [
+      "z mosiądzu.",
+      "ze stali sprężynowej.",
+      "ze stali narzędziowej.",
+      "z duraluminium."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_kolek.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 300,
+    "text": "Do zamocowań elastycznych nie zalicza się elementów",
+    "answers": [
+      "pneumatycznych.",
+      "dźwigniowych.",
+      "sprężynowych.",
+      "hydraulicznych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 301,
+    "text": "Którą obrabiarkę należy zastosować do wykonania otworu piasty, jak na przedstawionej ilustracji?",
+    "answers": [
+      "Elektrodrążarkę.",
+      "Przeciągarkę.",
+      "Strugarkę wzdłużną.",
+      "Wypalarkę plazmową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_piasta.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 302,
+    "text": "Zgrubny pomiar gorących elementów w procesie kucia swobodnego ręcznego wykonuje się za pomocą",
+    "answers": [
+      "przymiaru kreskowego.",
+      "macek.",
+      "taśmy mierniczej.",
+      "suwmiarki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 303,
+    "text": "Oprawkę piłki ręcznej do cięcia metali przedstawionej na ilustracji wykonuje się",
+    "answers": [
+      "ze stali niestopowej ogólnego przeznaczenia.",
+      "ze stopu miedzi i cynku.",
+      "ze stali stopowej narzędziowej.",
+      "z żeliwa szarego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_oprawka.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 304,
+    "text": "Jako narzędzie do wykonywania otworów na prasie mimośrodowej stosowany jest",
+    "answers": [
+      "przepychacz.",
+      "frez.",
+      "przeciągacz.",
+      "wykrojnik."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 305,
+    "text": "Liniał krawędziowy oznaczony na ilustracji strzałką zastosowano do sprawdzenia",
+    "answers": [
+      "kształtu zarysu.",
+      "bicia osiowego.",
+      "prostoliniowości powierzchni.",
+      "prostopadłości powierzchni."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_rysunek11.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 306,
+    "text": "Zgrubne wykonanie rowków w płycie jak na przedstawionej ilustracji, odbywa się w procesie",
+    "answers": [
+      "docierania.",
+      "ścinania.",
+      "wykrawania.",
+      "wycinania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_rysunek5.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 307,
+    "text": "Pomiar grubości zęba koła zębatego wykonuje się",
+    "answers": [
+      "sprawdzianem szczękowym.",
+      "suwmiarką uniwersalną.",
+      "suwmiarką do kół zębatych.",
+      "wzornikiem uniwersalnym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 308,
+    "text": "Na ilustracji przedstawiono sposób kształtowania gwintu w procesie",
+    "answers": [
+      "toczenia.",
+      "frezowania.",
+      "walcowania.",
+      "przeciągania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_rysunek9.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 309,
+    "text": "W wyniku której obróbki zostały ukształtowane przedstawione na ilustracji prowadnice tokarki?",
+    "answers": [
+      "Przeciągania.",
+      "Przepychania.",
+      "Strugania.",
+      "Frezowania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_rysunek8.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 310,
+    "text": "Podczas wykonywania klucza oczkowego przedstawionego na ilustracji zastosowano procesy",
+    "answers": [
+      "dłutowania i frezowania.",
+      "tłoczenia i przepychania.",
+      "kucia matrycowego i przeciągania.",
+      "kucia swobodnego i frezowania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_klucz.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 311,
+    "text": "Z jaką dokładnością można wykonać pomiar, używając suwmiarki przedstawionej na ilustracji?",
+    "answers": [
+      "0,20 mm",
+      "0,10 mm",
+      "0,05 mm",
+      "0,02 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_suwmiarka.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 312,
+    "text": "W którym procesie należy wykonać hak przedstawiony na ilustracji?",
+    "answers": [
+      "Termoformowania.",
+      "Walcowania wzdłużnego.",
+      "Odlewania kokilowego.",
+      "Kucia matrycowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_hak.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 313,
+    "text": "Na ilustracji pokazano czynność sprawdzania płaskości powierzchni z zastosowaniem",
+    "answers": [
+      "przymiaru kreskowego.",
+      "pryzmy traserskiej.",
+      "kątownika krawędziowego.",
+      "liniału krawędziowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_rysunek7.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 314,
+    "text": "Przedstawiony na ilustracji przyrząd służy do",
+    "answers": [
+      "montażu łożyska tocznego.",
+      "ściągania klinów.",
+      "naciągu łańcucha.",
+      "montażu paska klinowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_przyrzad.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 315,
+    "text": "Do wykonania cięcia krążka blachy jak na ilustracji, zastosowano",
+    "answers": [
+      "nożyce krążkowe.",
+      "nożyce gilotynowe.",
+      "przecinarkę taśmową.",
+      "przecinarkę tarczową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_rysunek10.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 316,
+    "text": "Przedstawione na ilustracji elementy należą do wyposażenia normalnego",
+    "answers": [
+      "frezarki pionowej.",
+      "tokarki uniwersalnej.",
+      "szlifierki bezkłowej.",
+      "strugarki wzdłużnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_elementy.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 317,
+    "text": "Mikromierz do pomiaru grubości rur przedstawiono",
+    "answers": [
+      "na ilustracji 4.",
+      "na ilustracji 1.",
+      "na ilustracji 3.",
+      "na ilustracji 2."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_mikrometry2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 318,
+    "text": "Wskazanie śruby mikrometrycznej przedstawionej na ilustracji wynosi",
+    "answers": [
+      "5,68 mm",
+      "4,18 mm",
+      "4,68 mm",
+      "5,18 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/mg20_sruba.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 319,
+    "text": "Z jaką dokładnością można wykonać pomiar używając suwmiarki przedstawionej na ilustracji?",
+    "answers": [
+      "0,02 mm",
+      "0,50 mm",
+      "0,05 mm",
+      "0,01 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_suwmiarka.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 320,
+    "text": "Którą obrabiarkę stosuje się w celu wykonania rowków w części pokazanej na ilustracji?",
+    "answers": [
+      "Strugarkę wzdłużną.",
+      "Przeciągarkę.",
+      "Wiertarkę.",
+      "Wypalarkę plazmową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_czesc4.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 321,
+    "text": "Odczytaj wskazanie śruby mikrometrycznej przedstawionej na rysunku.",
+    "answers": [
+      "4,68 mm",
+      "45,68 mm",
+      "45,18 mm",
+      "4,18 mm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_sruba2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 322,
+    "text": "Które narzędzie zastosowano do obróbki otworu pokazanego na rysunku?",
+    "answers": [
+      "Skrobak.",
+      "Docierak.",
+      "Frez.",
+      "Narzynkę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_obrobka4.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 323,
+    "text": "W oparciu o dane w tabeli, dobierz rodzaj kleju do wypełnienia niewielkiego pęknięcia w pokrywie stalowej narażonej na wibracje i umieszczonej w środowisku wilgotnym.",
+    "answers": [
+      "Neoprenowy.",
+      "Cyjanokrylowy.",
+      "Dyspersyjny.",
+      "Epoksydowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_tabela53.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 324,
+    "text": "Oprawkę piłki ręcznej wskazanej na rysunku strzałką wykonuje się",
+    "answers": [
+      "ze stali niestopowej ogólnego przeznaczenia.",
+      "ze stopów miedzi i cynku.",
+      "z żeliwa lub staliwa.",
+      "ze stali stopowej narzędziowej do pracy na gorąco."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_pilka.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 325,
+    "text": "Które narzędzie kontrolno-pomiarowe służy do stwierdzenia pęknięć na wale korbowym?",
+    "answers": [
+      "Wzorzec chropowatości.",
+      "Suwmiarka uniwersalna.",
+      "Defektoskop elektromagnetyczny.",
+      "Sprawdzian do gwintów zewnętrznych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 326,
+    "text": "Na rysunku pokazano proces wykonywania gwintów z zastosowaniem",
+    "answers": [
+      "przeciągania.",
+      "toczenia.",
+      "walcowania.",
+      "frezowania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_proces5.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 327,
+    "text": "Pomiar głowy zęba koła zębatego wykonuje się przy użyciu",
+    "answers": [
+      "suwmiarki modułowej.",
+      "przyrządu mikrometryczno-czujnikowego.",
+      "wzornika uniwersalnego.",
+      "suwmiarki uniwersalnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 328,
+    "text": "Wykonywanie zgrubnego pomiaru gorących elementów podczas kucia ręcznego dokonuje się za pomocą",
+    "answers": [
+      "przymiaru kreskowego.",
+      "macek.",
+      "suwmiarki.",
+      "taśmy mierniczej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 329,
+    "text": "Na której ilustracji przedstawiono narzędzie przeznaczone do lutowania?",
+    "answers": [
+      "Na ilustracji 1.",
+      "Na ilustracji 4.",
+      "Na ilustracji 3.",
+      "Na ilustracji 2."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_narzedzia13.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 330,
+    "text": "Dobierz narzędzie do wykonania procesu skrobania powierzchni.",
+    "answers": [
+      "Narzędzie 3.",
+      "Narzędzie 4.",
+      "Narzędzie 2.",
+      "Narzędzie 1."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_narzedzia12.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 331,
+    "text": "Jaki rodzaj procesu technologicznego należy zastosować do wykonania metalowych elementów obudowy komputera?",
+    "answers": [
+      "Przeróbka plastyczna.",
+      "Druk 3D.",
+      "Odlewanie.",
+      "Obróbka skrawaniem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 332,
+    "text": "Które części maszyn naprawia się stosując procesy strugania, szlifowania i skrobania?",
+    "answers": [
+      "Wałki.",
+      "Zawory.",
+      "Prowadnice.",
+      "Łożyska."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 333,
+    "text": "Elementem budowy frezarki wskazanym na ilustracji strzałką jest",
+    "answers": [
+      "prowadnica.",
+      "wspornik.",
+      "podtrzymka.",
+      "wrzeciennik."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_frezarka3.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 334,
+    "text": "Przyrząd przedstawiony na ilustracji stosuje się do pomiaru",
+    "answers": [
+      "modułu zębów.",
+      "spoin spawalniczych.",
+      "głębokości otworów.",
+      "chropowatości powierzchni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_przyrzad8.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 335,
+    "text": "Który mikromierz należy zastosować do pomiaru grubości ścianki rur?",
+    "answers": [
+      "Mikromierz 3.",
+      "Mikromierz 2.",
+      "Mikromierz 1.",
+      "Mikromierz 4."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_mikromierze.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 336,
+    "text": "Na rysunku pokazano czynność sprawdzania płaskości powierzchni z zastosowaniem",
+    "answers": [
+      "usztywnionego płaskownika.",
+      "pryzmy traserskiej.",
+      "przymiaru kreskowego.",
+      "liniału krawędziowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_czynnosc.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 337,
+    "text": "Który zespół mechaniczny stanowi wyposażenie tokarki uniwersalnej?",
+    "answers": [
+      "Zespół mechaniczny 1.",
+      "Zespół mechaniczny 4.",
+      "Zespół mechaniczny 3.",
+      "Zespół mechaniczny 2."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_zespoly.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 338,
+    "text": "Jeżeli po skończonej pracy w bruzdach pilników pozostaną opiłki, to należy je usunąć",
+    "answers": [
+      "palnikiem gazowym.",
+      "szczotką drucianą.",
+      "płynem do naczyń.",
+      "gorącą wodą."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MEC.08"
+  },
+  {
+    "id": 339,
+    "text": "Podczas wykonania klucza oczkowego, pokazanego na ilustracji, zastosowano procesy",
+    "answers": [
+      "kucia matrycowego i przeciągania.",
+      "dłutowania i frezowania.",
+      "tłoczenia i przepychania.",
+      "kucia swobodnego i frezowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_klucz4.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 340,
+    "text": "Na podstawie fragmentu dokumentacji szlifierki taśmowej odczytaj długość taśmy szlifierskiej.",
+    "answers": [
+      "100 mm",
+      "75 mm",
+      "1 070 mm",
+      "2 000 mm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_tabela55.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 341,
+    "text": "Wykonanie zgrubne rowków w płycie, przedstawione na rysunku, odbywa się w procesie",
+    "answers": [
+      "wykrawania.",
+      "docierania.",
+      "wycinania.",
+      "ścinania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_proces4.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 342,
+    "text": "W której obrabiarce stosuje się przedstawione na ilustracji oprzyrządowanie?",
+    "answers": [
+      "We frezarce pionowej.",
+      "W szlifierce bezkłowej.",
+      "W strugarce wzdłużnej.",
+      "W tokarce uniwersalnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_oprzyrzadowanie.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 343,
+    "text": "Pokazane na ilustracji łączenie odbywa się techniką",
+    "answers": [
+      "zgrzewania punktowego.",
+      "spawania gazowego.",
+      "zgrzewania liniowego.",
+      "spawania elektrycznego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mec08/m20_laczenie2.png"
+    },
+    "category": "MEC.08"
+  },
+  {
+    "id": 344,
+    "text": "Do wykonywania otworów na prasie mimośrodowej jako narzędzie stosuje się",
+    "answers": [
+      "nóż tokarski.",
+      "wiertło lufowe.",
+      "frez.",
+      "wykrojnik."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MEC.08"
+  }
+]
