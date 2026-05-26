@@ -1,0 +1,3670 @@
+[
+  {
+    "id": 1,
+    "text": "Szkodnik zbóż przedstawiony na ilustracji, to",
+    "answers": [
+      "wciornastek.",
+      "mszyca.",
+      "ploniarka.",
+      "skrzypionka."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_szkodnik5.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 2,
+    "text": "Na ilustracji pokazano sposób",
+    "answers": [
+      "korygowania karpiowatości grzbietu w okresie wzrostu zwierzęcia.",
+      "przygotowywania zwierząt wystawowych do trzymania głowy na wysokości grzbietu.",
+      "pomocy przy trudnych porodach.",
+      "poskromienia jałówki przy korekcji racic."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_ilustracja.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 3,
+    "text": "Pierwszym zabiegiem wykonywanym u prosiąt po porodzie jest",
+    "answers": [
+      "kastracja knurków.",
+      "podanie preparatu żelazowego.",
+      "przycinanie kiełków.",
+      "skrócenie i dezynfekcja pępowiny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 4,
+    "text": "Siew nasion zbóż ozimych należy wykonać",
+    "answers": [
+      "w pierwszym tygodniu po wykonaniu orki siewnej.",
+      "po 6 – 8 tygodniach od wykonania orki siewnej i zastosowania wału Campbella.",
+      "bezpośrednio po orce siewnej.",
+      "po 2–3 tygodniach od wykonania orki siewnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 5,
+    "text": "W uprawie pszenicy ozimej, w fazach rozwojowych oznaczonych na rysunku literami X i Y, można wykonać zabieg",
+    "answers": [
+      "nawożenia fosforowego i potasowego.",
+      "bronowania pielęgnacyjnego.",
+      "stosowania retardantów.",
+      "dolistnego nawożenia mikronawozami."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_rysunek2.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 6,
+    "text": "Na podstawie instrukcji oblicz, ile wapna hydratyzowanego należy użyć do przygotowania 4 litrów mleczka wapiennego, potrzebnego do dezynfekcji kojca dla cieląt. Instrukcja przygotowania mleczka wapiennego 1. Do wody dodać świeżego wapna hydratyzowanego (nigdy odwrotnie) w proporcji: na 1kilogram wapna przypada 5 litrów wody. 2. Otrzymany roztwór – farba wapienna – wymieszać i przecedzić przez sito w celu wyłapania niezlasowanego wapna lub innych zanieczyszczeń mechanicznych.",
+    "answers": [
+      "800 g",
+      "400 g",
+      "600 g",
+      "200 g"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 7,
+    "text": "Najlepszym przedplonem w uprawie rzepaku ozimego jest",
+    "answers": [
+      "rzepak jary.",
+      "pszenica jara.",
+      "burak cukrowy.",
+      "jęczmień ozimy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 8,
+    "text": "Opisane zachowanie oraz wygląd krowy wskazują na wystąpienie",
+    "answers": [
+      "wzdęcia żwacza.",
+      "choroby motyliczej.",
+      "tężyczki pastwiskowej.",
+      "niestrawności zasadowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_ramka7.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 9,
+    "text": "Oblicz, ile ton kiszonki z kukurydzy można zmagazynować w silosie o wymiarach 2 m x10 m x 36 m, jeżeli 1 m3 kiszonki z kukurydzy waży 0,6 tony.",
+    "answers": [
+      "432 t",
+      "720 t",
+      "1 200 t",
+      "600 t"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 10,
+    "text": "Uszeregowane zboża według kryterium, od najwyższych do najniższych wymagań glebowych, przedstawia wariant",
+    "answers": [
+      "II",
+      "I",
+      "III",
+      "IV"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_tabela71.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 11,
+    "text": "O wadliwym działaniu sieci drenarskiej świadczy",
+    "answers": [
+      "intensywny odpływ wody z wylotów drenarskich w czasie obfitego deszczu.",
+      "wypływanie z wylotu drenarskiego przejrzystej, czystej wody.",
+      "brak lub niewielki odpływ wody z wylotów drenarskich w czasie obfitego deszczu.",
+      "szybkie obsychanie gleby wiosną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 12,
+    "text": "Wystąpienie w pryzmie ziarna zbóż groźnych dla bezpieczeństwa żywności mykotoksyn, może być spowodowane",
+    "answers": [
+      "stosowaniem w uprawie tradycyjnego płodozmianu.",
+      "spadkiem wilgotności ziarna poniżej 15% i obniżeniem temperatury poniżej 10°C.",
+      "zawilgoceniem ziarna i wzrostem jego temperatury powyżej 25°C.",
+      "uprawą odmian zbóż o wysokiej odporności na fuzariozę kłosów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 13,
+    "text": "Pokazane na rysunku urządzenie służy do",
+    "answers": [
+      "wydzielenia kojczyka dla prosiąt ssących.",
+      "dzielenia powierzchni owczarni na sektory technologiczne.",
+      "dzielenia powierzchni pastwiska na kwatery dla opasów.",
+      "wydzielenia powierzchni dla źrebiąt w biegalni dla klaczy karmiących."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_urzadzenie4.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 14,
+    "text": "Na podstawie danych zawartych w tabeli wskaż mikroelement, którego niedobór w glebie może spowodować największy spadek plonu wymienionych zbóż.",
+    "answers": [
+      "Bor.",
+      "Żelazo.",
+      "Mangan.",
+      "Miedź."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_tabela70.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 15,
+    "text": "Rolą czerwonych krwinek jest",
+    "answers": [
+      "transport składników pokarmowych do komórek mięśniowych.",
+      "transport tlenu z płuc do komórek.",
+      "zwiększenie krzepliwości krwi.",
+      "obrona organizmu przed bakteriami chorobotwórczymi."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 16,
+    "text": "Jeśli w uprawie buraków cukrowych termin zastosowania obornika zbiega się z zabiegiem wapnowania, to należy",
+    "answers": [
+      "bezpośrednio po nawożeniu obornikiem zastosować nawozy wapniowe.",
+      "wymieszać nawozy wapniowe i fosforowe i po 4 tygodniach wykonać nawożenie obornikiem.",
+      "wykonać oba zabiegi jednocześnie.",
+      "wykonać wapnowanie i po upływie co najmniej 2 tygodni, zastosować obornik."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 17,
+    "text": "Największą zawartość skrobi powinny mieć ziemniaki przeznaczone do produkcji",
+    "answers": [
+      "frytek.",
+      "chipsów.",
+      "krochmalu ziemniaczanego.",
+      "suszu ziemniaczanego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 18,
+    "text": "Określ, na którą pozycję należy nastawić zasuwę rozsiewacza nawozów, żeby przy prędkości 12 km/h uzyskać dawkę wysiewu 400 kg.",
+    "answers": [
+      "49",
+      "47,5",
+      "53",
+      "50,5"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_tabela72.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 19,
+    "text": "Tucznik przyrósł 80 kg w okresie 100 dni tuczu. Pobrał w tym czasie 250 kilogramów mieszanki pełnoporcjowej. Oblicz średnie zużycie paszy na 1 kilogram masy ciała tucznika.",
+    "answers": [
+      "1,25 kg",
+      "3,50 kg",
+      "3,13 kg",
+      "2,50 kg"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 20,
+    "text": "Hodowca tuczników, z siedzibą stada na terenie obszaru zapowietrzonego, po dokonaniu uboju gospodarskiego obowiązany jest zgłosić zdarzenie do",
+    "answers": [
+      "Kierownika Biura Powiatowego ARiMR w terminie 24 godzin.",
+      "Powiatowego Lekarza Weterynarii w terminie 14 dni.",
+      "Kierownika Biura Powiatowego ARiMR do 7 dni od zaistnienia zdarzenia.",
+      "Powiatowego Lekarza Weterynarii nie później niż w dniu uboju."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_ramka6.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 21,
+    "text": "Do czyszczenia na sucho roślin okopowych przeznaczonych na pasze służą",
+    "answers": [
+      "płuczki bębnowe.",
+      "kolumny parnikowe.",
+      "rozdrabniacze bijakowe.",
+      "otrząsaczo-siekacze."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 22,
+    "text": "Na podstawie Założeń produkcyjnych tuczu mlecznego koźląt oblicz zapotrzebowanie na mleko dla grupy 30 koźląt w tuczu mlecznym.",
+    "answers": [
+      "7 200 litrów.",
+      "3 600 litrów.",
+      "1 800 litrów.",
+      "14 400 litrów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_tabela74.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 23,
+    "text": "Spadek temperatury poniżej -20°C, przy braku pokrywy śnieżnej, powoduje w zasiewach rzepaku ozimego straty na skutek",
+    "answers": [
+      "wysmalania.",
+      "wyprzenia.",
+      "wymarzania.",
+      "wymakania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 24,
+    "text": "Przedstawiony zestaw przeznaczony jest do oznaczenia w mleku",
+    "answers": [
+      "zawartości substancji hamujących.",
+      "obecności bakterii.",
+      "jednostek białka.",
+      "obecności komórek somatycznych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_zestaw.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 25,
+    "text": "W ekologicznym chowie owiec można stosować",
+    "answers": [
+      "zielonkę i siano pozyskane z naturalnych łąk i pastwisk.",
+      "pasze uzyskane z roślin genetycznie modyfikowanych.",
+      "pasze stymulujące wzrost i wydajność.",
+      "syntetyczne zamienniki pasz naturalnych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 26,
+    "text": "Prędkość ruchu powietrza w pomieszczeniach dla warchlaków w okresie letnim powinna wynosić",
+    "answers": [
+      "0,40 m/sek",
+      "0,15 m/sek",
+      "0,20 m/sek",
+      "0,30 m/sek"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_tabela75.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 27,
+    "text": "Po wykonaniu oprysku środkami chemicznej ochrony roślin pozostałość cieczy roboczej należy",
+    "answers": [
+      "przekazać innemu użytkownikowi.",
+      "rozcieńczyć wodą i zużyć na polu gdzie wykonywano zabieg.",
+      "zlać do szczelnego naczynia i zwrócić sprzedawcy.",
+      "wylać na gruntach oddalonych od przebywania ludzi i zwierząt."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 28,
+    "text": "Przy produkcji sianokiszonki w balotach, do zbioru zielonki należy zastosować",
+    "answers": [
+      "prasę zwijającą.",
+      "przyczepę zbierającą.",
+      "sieczkarnię polową.",
+      "prasę silosującą."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 29,
+    "text": "W ochronie roślin, stosowanie zdrowego i czystego materiału siewnego w celu ograniczenia występowania chorób, należy do metod",
+    "answers": [
+      "agrotechnicznych.",
+      "biologicznych.",
+      "mechanicznych.",
+      "hodowlanych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 30,
+    "text": "Mięsny kierunek użytkowania reprezentują rasy zwierząt gospodarskich wymienione w grupie",
+    "answers": [
+      "IV",
+      "II",
+      "I",
+      "III"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_tabela73.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 31,
+    "text": "Wskaż ustawienie dźwigni skrzyni przekładniowej siewnika przy wysiewie żyta w ilości 155 kg/ha.",
+    "answers": [
+      "C-1",
+      "B-4",
+      "B-3",
+      "B-5"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_tabela76.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 32,
+    "text": "Głównym składnikiem pokarmowym w ziarnie zbóż są",
+    "answers": [
+      "witaminy.",
+      "białka.",
+      "tłuszcze.",
+      "węglowodany."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 33,
+    "text": "Wiosną na łąkach kośnych położonych na glebach torfowych, w celu usunięcia z gleby zbędnego powietrza i regeneracji systemów korzeniowych traw, należy wykonać",
+    "answers": [
+      "włókowanie.",
+      "orkę wiosenną.",
+      "orkę melioracyjną.",
+      "wałowanie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 34,
+    "text": "Do współpracy z pielnikiem w międzyrzędziach o szerokości 45 cm należy zastosować ciągnik o rozstawie kół",
+    "answers": [
+      "170 cm",
+      "125 cm",
+      "135 cm",
+      "150 cm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 35,
+    "text": "Przygotowując do prac polowych ciągnik, który wcześniej pracował w transporcie, należy wyposażyć go w",
+    "answers": [
+      "wąskie opony i podwyższyć ciśnienie.",
+      "szerokie opony i podwyższyć ciśnienie.",
+      "wąskie opony i obniżyć ciśnienie.",
+      "szerokie opony i obniżyć cienienie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 36,
+    "text": "Prawidłową wysokość ogłowienia buraków cukrowych przeznaczonych do sprzedaży przedstawia ilustracja numer",
+    "answers": [
+      "II",
+      "III",
+      "IV",
+      "I"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_buraki2.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 37,
+    "text": "Oznaczona numerem 2 partia ciała konia to",
+    "answers": [
+      "kłąb.",
+      "lędźwie.",
+      "pęcina.",
+      "kolano."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_kon2.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 38,
+    "text": "Materiałem, z którego wykonuje się obudowy skrzyń biegów ciągników rolniczych, jest",
+    "answers": [
+      "staliwo.",
+      "żeliwo.",
+      "surówka.",
+      "stal."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 39,
+    "text": "Miodowy zapach ziarna zbóż w magazynie wskazuje na",
+    "answers": [
+      "obecność rozkruszka mącznego.",
+      "zachodzący proces fermentacji.",
+      "porażenie śniecią cuchnącą.",
+      "nieprawidłowy proces suszenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 40,
+    "text": "Ilustracja przedstawia świnię rasy",
+    "answers": [
+      "hampshire.",
+      "wielkiej białej polskiej.",
+      "duroc.",
+      "złotnickiej pstrej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_swinia.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 41,
+    "text": "Na podstawie instrukcji oblicz, ile wapna hydratyzowanego należy użyć do przygotowania 4 litrów mleczka wapiennego, potrzebnego do dezynfekcji kojca dla cieląt.",
+    "answers": [
+      "400 g",
+      "800 g",
+      "200 g",
+      "600 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_instrukcja2.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 42,
+    "text": "W danym roku kalendarzowym, termin na dokonanie spisu bydła przybywającego w siedzibie stada, upływa",
+    "answers": [
+      "31 grudnia danego roku.",
+      "31 stycznia następnego roku.",
+      "7 stycznia następnego roku.",
+      "30 listopada danego roku."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 43,
+    "text": "Przedstawione na rysunku narzędzie jest przeznaczone do",
+    "answers": [
+      "ługowania słomy.",
+      "transportu balotów sianokiszonki.",
+      "rozdrabniania bel siana.",
+      "wybierania kiszonki z silosu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_narzedzie.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 44,
+    "text": "Przyczyną nieprawidłowego działania systemu odwadniania za pomocą rowów otwartych może być",
+    "answers": [
+      "obsianie skarp rowów nasionami traw i roślin motylkowatych.",
+      "zarastanie dna rowów i skarp roślinnością.",
+      "faszynowanie brzegów rowów.",
+      "stosowanie urządzeń piętrzących i przepustów na rowach."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 45,
+    "text": "Desykację roślin motylkowatych grubonasiennych przeprowadza się w celu",
+    "answers": [
+      "przyspieszenia wschodów.",
+      "pobudzenia nasion do kiełkowania.",
+      "ochrony roślin przed chorobami.",
+      "przyspieszenia i wyrównania dojrzewania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 46,
+    "text": "Zalecany zakres ciśnień roboczych na skali manometru opryskiwacza wskazuje kolor",
+    "answers": [
+      "zielony.",
+      "biały.",
+      "czerwony.",
+      "żółty."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_manometr.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 47,
+    "text": "Poidło przeznaczone jest do samoobsługowego pojenia",
+    "answers": [
+      "loch prośnych.",
+      "bydła opasowego.",
+      "krów mlecznych.",
+      "kur niosek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_poidlo4.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 48,
+    "text": "Nasiona przeznaczone do siewu w gospodarstwie ekologicznym mogą być",
+    "answers": [
+      "otoczkowane z dodatkiem mikroelementów.",
+      "zaprawiane środkami syntetycznymi.",
+      "zaprawiane wapnem hydratyzowanym.",
+      "modyfikowane genetycznie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 49,
+    "text": "Przedstawiony zabieg oceny materiału siewnego z własnego rozmnożenia pozwala określić",
+    "answers": [
+      "masę tysiąca nasion.",
+      "czystość nasion.",
+      "energię i zdolność kiełkowania.",
+      "tożsamość odmianową roślin."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_zabieg.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 50,
+    "text": "Przygotowanie maszyn i narzędzi uprawowych do przechowania posezonowego jest wystarczające, gdy",
+    "answers": [
+      "zostaną umyte, wysuszone, a powierzchnie robocze zostaną zabezpieczone smarem konserwacyjnym.",
+      "bezpośrednio po zakończeniu prac odstawione zostaną na miejsce przechowywania sprzętu.",
+      "oczyści się je zgrubnie z resztek gleby i ustawi na placu postojowym.",
+      "zostaną wymyte wodą pod ciśnieniem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 51,
+    "text": "Wskaż zestaw gazów, których stężenie w budynkach inwentarskich jest normowane i należy utrzymywać je na poziomie nieszkodliwym dla zwierząt.",
+    "answers": [
+      "Amoniak, metan, siarkowodór.",
+      "Amoniak, dwutlenek węgla, siarkowodór.",
+      "Amoniak, dwutlenek węgla, metan.",
+      "Amoniak, tlenek węgla, siarkowodór."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 52,
+    "text": "Sianokiszonka z traw łąkowych należy do pasz",
+    "answers": [
+      "objętościowych.",
+      "treściwych.",
+      "mineralnych.",
+      "syntetycznych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 53,
+    "text": "Określ termin pierwszej kontroli skuteczności inseminacji (na podstawie objawów rui u lochy), której zabieg wykonano 2 sierpnia.",
+    "answers": [
+      "Około 27 grudnia.",
+      "Około 10 lipca.",
+      "Około 23 sierpnia.",
+      "Około 12 września."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 54,
+    "text": "Mała czarna mucha, której larwy podgryzają liść sercowy zbóż, to",
+    "answers": [
+      "niezmiarka paskowana.",
+      "ploniarka zbożówka.",
+      "pryszczarek heski.",
+      "omacnica prosowianka."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_mucha.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 55,
+    "text": "Wskaż roślinę odpowiednią do uprawy na glebach żyznych, o uregulowanych stosunkach wodno-powietrznych i odczynie zbliżonym do zasadowego (pH 6,5 – 7,5).",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_rosliny.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 56,
+    "text": "W celu wzbogacenia dawki pokarmowej w składniki mineralne i witaminy należy zastosować",
+    "answers": [
+      "enzymy.",
+      "antybiotyki.",
+      "probiotyki.",
+      "premiksy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 57,
+    "text": "Oblicz maksymalną ilość mocznika pastewnego w dawce dla krowy o masie ciała 600 kg, jeśli dzienne dopuszczalne pobranie mocznika przez krowę wynosi 1 g na każde 4 kg masy ciała.",
+    "answers": [
+      "1 200 g",
+      "600 g",
+      "150 g",
+      "40 g"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 58,
+    "text": "Zbyt intensywne nawożenie trwałych użytków zielonych, zwłaszcza azotem, może spowodować w runi wyginięcie",
+    "answers": [
+      "traw azotolubnych, zwłaszcza kupkówki.",
+      "ziół.",
+      "roślin motylkowatych.",
+      "chwastów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 59,
+    "text": "Ogiery hodowlane powinny być utrzymywane",
+    "answers": [
+      "w indywidualnych boksach.",
+      "w stajniach wolnowybiegowych.",
+      "we wspólnych biegalniach.",
+      "na pastwisku razem z klaczami."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 60,
+    "text": "Ziarno zbóż stosowane w żywieniu trzody chlewnej należy przed skarmianiem",
+    "answers": [
+      "namoczyć.",
+      "rozdrobnić.",
+      "toastować.",
+      "prażyć."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 61,
+    "text": "Wskaż zgodną z budową kolejność narządów w układzie pokarmowym.",
+    "answers": [
+      "Jama gębowa, gardło, przełyk, żołądek, jelito cienkie, jelito grube.",
+      "Jama gębowa, gardło, żołądek, przełyk, jelito grube, jelito cienkie.",
+      "Jama gębowa, przełyk, gardło, żołądek, jelito grube, jelito cienkie.",
+      "Jama gębowa, przełyk, gardło, żołądek, jelito cienkie, jelito grube."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 62,
+    "text": "Zdjęcie przedstawia buhaja rasy",
+    "answers": [
+      "Charolaise.",
+      "Limousine.",
+      "Piemontese.",
+      "Simental."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_buhaj2.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 63,
+    "text": "Użytkowanie rozpłodowe ogierów ras gorącokrwistych rozpoczyna się w wieku",
+    "answers": [
+      "36 – 48 miesięcy.",
+      "12 – 18 miesięcy.",
+      "6 – 12 miesięcy.",
+      "18 – 24 miesięcy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 64,
+    "text": "Zaletą przechowywania ziarna zbóż w silosach metalowych lejowych jest",
+    "answers": [
+      "ograniczona pojemność.",
+      "łatwość czyszczenia.",
+      "wymagana duża powierzchnia zabudowy.",
+      "uproszczony wysyp ziarna."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 65,
+    "text": "Oblicz ilość suchej masy w dawce pokarmowej dla krowy o masie ciała 600 kg, której dzienna wydajność wynosi 25 kg mleka. Sucha masa (kg) = (0,025 × mc) + (0,1 × y) mc = masa ciała (kg) y = dzienna produkcja mleka (kg)",
+    "answers": [
+      "2,50 kg",
+      "25,00 kg",
+      "15,00 kg",
+      "17,50 kg"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 66,
+    "text": "Oblicz wskaźnik częstotliwości oproszeń lochy, której fazy cyklu rozpłodowego przedstawiono w tabeli.",
+    "answers": [
+      "2,2",
+      "2,8",
+      "2,3",
+      "3,2"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_tabela57.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 67,
+    "text": "Największe zapotrzebowanie ziemniaków na wodę w okresie wegetacji występuje w fazie",
+    "answers": [
+      "zawiązywania i formowania bulw.",
+      "dojrzewania i zbioru bulw.",
+      "od sadzenia do końca wschodów.",
+      "od wschodów do kwitnienia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 68,
+    "text": "Oblicz maksymalną liczbę brojlerów kurzych w wieku 6 tygodni, zapewniającą dobrostan ptaków, utrzymywanych w kurniku o wymiarach 86 m x 13 m.",
+    "answers": [
+      "39 130 szt.",
+      "19 006 szt.",
+      "1 118 szt.",
+      "24 596 szt."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_tabela58.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 69,
+    "text": "W jajnikach samic przebiega proces",
+    "answers": [
+      "rozwoju płodu.",
+      "transportu zarodka do macicy.",
+      "zapłodnienia.",
+      "wytwarzania i dojrzewania komórek jajowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 70,
+    "text": "Jajo kurze konsumpcyjne różni się od wylęgowego",
+    "answers": [
+      "wartością odżywczą.",
+      "masą.",
+      "barwą skorupy.",
+      "stanem tarczki zarodkowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 71,
+    "text": "Wysoka zawartość włókna w dawce pokarmowej zwierząt gospodarskich, najbardziej ogranicza strawność paszy w żywieniu",
+    "answers": [
+      "koni.",
+      "owiec.",
+      "bydła.",
+      "świń."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 72,
+    "text": "W uprawie pszenicy jarej nawozy azotowe stosuje się w dwóch dawkach. Przedsiewnie zastosowano 120 kg/ha saletry amonowej (34% N). Oblicz, ile należy zastosować mocznika (46% N) w drugiej dawce, jeżeli potrzeby nawozowe pszenicy wynoszą 110 kg N/ha.",
+    "answers": [
+      "Około 150 kg/ha",
+      "Około 120 kg/ha",
+      "Około 239 kg/ha",
+      "Około 204 kg/ha"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 73,
+    "text": "Określ optymalną temperaturę w kojcu dla warchlaków odsadzonych w 35 dniu życia.",
+    "answers": [
+      "23°C",
+      "25°C",
+      "18°C",
+      "21°C"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_tabela59.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 74,
+    "text": "Które narzędzie przedstawione na rysunku stosowane jest do mechanicznego zwalczania chwastów w uprawie zbóż?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_narzedzia3.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 75,
+    "text": "Na podstawie danych zawartych w tabeli, wskaż dopuszczalne terminy stosowania gnojowicy na łące.",
+    "answers": [
+      "1 marca – 20 października",
+      "1 listopada – 1 marca",
+      "1 marca – 31 października",
+      "1 marca – 30 listopada"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_tabela56.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 76,
+    "text": "Orkę głęboką wykonuje się",
+    "answers": [
+      "przed zimą na polach, na których planuje się siew roślin jarych.",
+      "latem, po zbiorze zbóż.",
+      "wiosną, przed siewem roślin jarych.",
+      "jesienią, przed siewem roślin ozimych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 77,
+    "text": "Gorączka, gwałtowny spadek mleczności oraz pęcherze na błonie śluzowej jamy gębowej, skórze wymienia i w okolicy racic u krów są objawem",
+    "answers": [
+      "ochwatu.",
+      "grudy.",
+      "pryszczycy.",
+      "brucelozy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 78,
+    "text": "Zamieszczone przyrządy przeznaczone są do zabiegów wykonywanych w pielęgnacji",
+    "answers": [
+      "jagniąt.",
+      "cieląt.",
+      "prosiąt.",
+      "źrebiąt."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_przyrzady2.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 79,
+    "text": "Stosowanie w żywieniu bydła, śrutowanego lub gniecionego ziarna zbóż i nasion roślin strączkowych powoduje u zwierząt",
+    "answers": [
+      "nadmierne zakwaszenie żwacza.",
+      "zwiększenie strawności składników pokarmowych.",
+      "powstawanie biegunek.",
+      "zwiększone wydzielanie śliny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 80,
+    "text": "Obniżenie normy wysiewu ziarna zbóż, a tym samym mniejsza liczba źdźbeł, powoduje",
+    "answers": [
+      "zwiększenie ryzyka porażenia przez choroby grzybowe.",
+      "zwiększenie ilości ziaren w kłosie.",
+      "słabsze wykształcenie systemu korzeniowego.",
+      "pogorszenie wentylacji łanu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 81,
+    "text": "Skracanie ogonków u prosiąt powinno się wykonywać",
+    "answers": [
+      "po odsadzeniu od lochy.",
+      "po przeniesieniu miotu do kojca grupowego.",
+      "przed ukończeniem 7 dnia życia.",
+      "po ukończeniu 3 tygodnia życia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 82,
+    "text": "Narzędziem uprawowym zastępującym pracę pługa jest",
+    "answers": [
+      "kultywator podorywkowy.",
+      "agregat doprawiający glebę.",
+      "kultywator z zębami sprężynowymi.",
+      "brona aktywna z wałem kruszącym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 83,
+    "text": "Końcowym produktem trawienia białka w jelicie cienkim u zwierząt monogastrycznych są",
+    "answers": [
+      "aminokwasy.",
+      "kwasy tłuszczowe.",
+      "cukry proste.",
+      "polipeptydy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 84,
+    "text": "Kiszonka z całych roślin kukurydzy jest paszą",
+    "answers": [
+      "treściwą białkową.",
+      "objętościową soczystą.",
+      "treściwą węglowodanową.",
+      "objętościową suchą."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 85,
+    "text": "W kopcu tradycyjnym, przeznaczonym do zimowego przechowywania ziemniaków, do uformowania warstwy oznaczonej literą X należy użyć",
+    "answers": [
+      "folii osłonowej.",
+      "ziemi.",
+      "słomy żytniej.",
+      "agrowłókniny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_kopiec.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 86,
+    "text": "Rośliną wymagającą co najmniej czteroletniej przerwy w uprawie na tym samym polu jest",
+    "answers": [
+      "pszenica ozima.",
+      "kukurydza.",
+      "burak pastewny.",
+      "żyto."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 87,
+    "text": "Przedstawiony na ilustracjach szkodnik rzepaku to",
+    "answers": [
+      "pchełka rzepakowa.",
+      "chowacz podobnik.",
+      "słodyszek rzepakowy.",
+      "pryszczarek kapustnik."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_szkodnik2.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 88,
+    "text": "Proces uszlachetniania materiału siewnego, przedstawiony na ilustracji, stosuje się w przygotowaniu do siewu nasion",
+    "answers": [
+      "koniczyny.",
+      "buraka.",
+      "rzepaku.",
+      "kukurydzy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_ilustracja.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 89,
+    "text": "Chwytak przedstawiony na ilustracji przeznaczony jest do załadunku",
+    "answers": [
+      "balotów cylindrycznych.",
+      "kiszonki z kukurydzy.",
+      "balotów sześciennych.",
+      "ziemniaków i buraków."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_chwytak.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 90,
+    "text": "W klatkowym systemie utrzymania kur niosek, niejednorodne rozdrobnienie mieszanki treściwej, w której jest zbyt duży udział drobnej frakcji, może spowodować",
+    "answers": [
+      "zwiększenie poziomu spożycia wody.",
+      "zmniejszenie spożycia paszy.",
+      "poprawę rozwoju żołądka mięśniowego.",
+      "zmniejszenie ilości pyłów w kurniku."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 91,
+    "text": "Oblicz zapotrzebowanie na azot, na 1 ha uprawy pszenicy chlebowej odmiany Owacja, zakładając uzyskanie plonu na poziomie 9,0 t/ha.",
+    "answers": [
+      "99 kg",
+      "270 kg",
+      "180 kg",
+      "216 kg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_tabela12.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 92,
+    "text": "Przepływ wody w poidłach dla prosiąt po odsadzeniu, przy prawidłowo wyregulowanej instalacji wodnej, powinien wynosić",
+    "answers": [
+      "0,5 ÷ 0,8 l/min",
+      "0,9 ÷ 1,2 l/min",
+      "< 0,5 l/min",
+      "> 4 l/min"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_tabela19.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 93,
+    "text": "Wskaż, w którym pomieszczeniu zachowane są optymalne warunki temperatury i wilgotności dla tuczników.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_tabela18.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 94,
+    "text": "Oblicz maksymalną liczbę kur nieśnych utrzymywanych w systemie podłogowym w kurniku o wymiarach 50 x 15 m, jeśli obsada wynosi max. 9 szt./m2.",
+    "answers": [
+      "750 szt.",
+      "6 750 szt.",
+      "3 750 szt.",
+      "450 szt."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 95,
+    "text": "Na podstawie przedstawionego fragmentu kalendarza pokryć i wycieleń, ustal optymalny termin zasuszenia krowy pokrytej 2 marca.",
+    "answers": [
+      "11 października.",
+      "2 stycznia.",
+      "27 listopada.",
+      "11 grudnia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_tabela16.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 96,
+    "text": "Które zboże jare ma największe wymagania wodne i najmniejsze wymagania glebowe?",
+    "answers": [
+      "Jęczmień.",
+      "Proso.",
+      "Pszenica.",
+      "Owies."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 97,
+    "text": "Najbardziej mrozoodpornym zbożem ozimym jest",
+    "answers": [
+      "żyto.",
+      "pszenica.",
+      "jęczmień.",
+      "pszenżyto."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 98,
+    "text": "W okresie dojrzewania zbóż silny wiatr i krótkotrwały, intensywny deszcz mogą powodować",
+    "answers": [
+      "równomierne dojrzewanie ziarna.",
+      "ograniczenie porastania ziarna w kłosach.",
+      "zahamowanie wzrostu pędu głównego.",
+      "wyleganie źdźbłowe roślin."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 99,
+    "text": "W uprawie rzepaku ozimego obornik można stosować pod orkę",
+    "answers": [
+      "przedsiewną.",
+      "przedzimową.",
+      "wiosenną.",
+      "odwrotkę."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 100,
+    "text": "Charakterystyczne zachowanie się samicy w obecności samca: przysiadanie, unoszenie ogona, oddawanie niewielkich ilości moczu i uwidocznienie sromu (tzw. „błyskanie” sromem), to objawy rui u",
+    "answers": [
+      "lochy.",
+      "kozy.",
+      "klaczy.",
+      "krowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 101,
+    "text": "Na podstawie danych z tabeli wskaż preparat, który należy zastosować przed zbiorem rzepaku, w celu przyśpieszenia dojrzewania nasion.",
+    "answers": [
+      "Inazuma 130 WG",
+      "Reglone 200 SL",
+      "Navigator 360 SL",
+      "Agristar 250 SC"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_tabela13.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 102,
+    "text": "Owcę w typie użytkowym kożuchowym przedstawia ilustracja",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_owce.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 103,
+    "text": "Na podstawie danych zawartych w tabeli wybierz mieszankę pełnoporcjową dla kurcząt brojlerów na I okres tuczu.",
+    "answers": [
+      "DKA-Grower",
+      "DKA-Starter",
+      "Pre-DJ",
+      "DKM-1"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_tabela15.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 104,
+    "text": "Głębokość siewu nasion kukurydzy zależy od",
+    "answers": [
+      "typu hodowlanego odmiany.",
+      "zwięzłości gleby i stanu jej uwilgotnienia.",
+      "kierunku użytkowania.",
+      "klasy wczesności uprawianej odmiany."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 105,
+    "text": "Dobierz z tabeli pestycyd do zwalczania chwastu przedstawionego na ilustracji.",
+    "answers": [
+      "Orkan 330 SL",
+      "Jenot 100 EC",
+      "Axial 50 EC",
+      "Herbistar 200 EC"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_chwast.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 106,
+    "text": "Przegląd techniczny instalacji solarnej powinno się przeprowadzać raz na",
+    "answers": [
+      "rok.",
+      "dwa lata.",
+      "pięć lat.",
+      "pół roku."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 107,
+    "text": "Masa początkowa bukata w danej klasie wiekowej i produkcyjnej jest równa 85 kg. Masa końcowa wynosi 450 kg. Średni czas trwania danego typu opasu wynosi 12 miesięcy. Oblicz dobowe przyrosty masy ciała.",
+    "answers": [
+      "1 000 g",
+      "600 g",
+      "800 g",
+      "750 g"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 108,
+    "text": "Kolczyk przedstawiony na ilustracji przeznaczony jest do identyfikacji",
+    "answers": [
+      "świń.",
+      "owiec.",
+      "kóz.",
+      "bydła."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_kolczyk.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 109,
+    "text": "Kozy rasy burskiej użytkuje się w kierunku",
+    "answers": [
+      "puchowym.",
+      "mlecznym.",
+      "mięsnym.",
+      "wełnistym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 110,
+    "text": "Podczas prac polowych w celu zwiększenia siły uciągu ciągnika należy",
+    "answers": [
+      "zwiększyć ciśnienie w oponach.",
+      "zwiększyć prędkość jazdy agregatu.",
+      "dociążyć koła napędowe.",
+      "zastosować wąskie opony."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 111,
+    "text": "Nawożenie obornikiem można stosować bezpośrednio przed uprawą",
+    "answers": [
+      "lucerny.",
+      "peluszki.",
+      "kukurydzy.",
+      "bobiku."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 112,
+    "text": "Przy sprzedaży do rzeźni bydło powinno posiadać",
+    "answers": [
+      "indywidualne paszporty.",
+      "ocenę użytkowości mięsnej.",
+      "udokumentowane pochodzenie.",
+      "świadectwa urodzenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 113,
+    "text": "Pokazana na ilustracjach maszyna służy do",
+    "answers": [
+      "siekania pasz objętościowych.",
+      "gniecenia ziarna na płatki.",
+      "mieszania komponentów pasz.",
+      "cięcia słomy na sieczkę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_maszyna2.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 114,
+    "text": "W celu zmniejszenia skutków stresu odsadzonych prosiąt należy",
+    "answers": [
+      "najpierw odłączyć prosięta najcięższe, potem średnie, a na końcu najlżejsze.",
+      "zabrać lochę z kojca i pozostawić w nim prosięta przez 10 do 14 dni.",
+      "zabrać jednocześnie cały miot od lochy.",
+      "najpierw odsadzić prosięta najsilniejsze, a po kilku dniach pozostałe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 115,
+    "text": "W celu zapobiegania zatruciom pokarmowym ludzi i zwierząt po spożyciu roślin, na których wykonano zabiegi chemicznej ochrony, wymagane jest",
+    "answers": [
+      "zachowanie okresu prewencji.",
+      "stosowanie pestycydów systemicznych.",
+      "stosowanie rotacji pestycydów.",
+      "zachowanie okresu karencji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 116,
+    "text": "Na podstawie danych zawartych w tabeli oblicz koszt środków ochrony roślin zastosowanych w produkcji jęczmienia jarego na powierzchni uprawy 5 ha.",
+    "answers": [
+      "1 690,00 zł",
+      "338,00 zł",
+      "118,20 zł",
+      "591,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_tabela14.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 117,
+    "text": "Wskaż magazyn zbożowy, w którym zachowane są normy przechowywania ziarna pszenicy.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_tabele.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 118,
+    "text": "Powierzchnia zbiornika chłodzącego, która wchodzi w bezpośredni kontakt z mlekiem pochodzącym z udoju, powinna być wykonana",
+    "answers": [
+      "z pianki poliuretanowej.",
+      "ze stali nierdzewnej.",
+      "z żeliwa.",
+      "z mosiądzu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 119,
+    "text": "Silosy zbożowe należy lokalizować od płyty gnojowej w odległości nie mniejszej niż",
+    "answers": [
+      "5 m",
+      "15 m",
+      "50 m",
+      "10 m"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_schemat2.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 120,
+    "text": "Na schemacie szkieletu ptaka strzałką oznaczono",
+    "answers": [
+      "kość ramieniową.",
+      "kość kruczą.",
+      "kość udową.",
+      "grzebień mostka."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_schemat.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 121,
+    "text": "Na podstawie przedstawionego schematu organizacji żywienia koni, oblicz ile kilogramów siana należy podać sześciu koniom na ostatni odpas, jeśli dzienna dawka siana wynosi 30 kg/szt.",
+    "answers": [
+      "5 kg",
+      "36 kg",
+      "6 kg",
+      "30 kg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_tabela17.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 122,
+    "text": "Korzystając z danych zawartych w tabeli, określ dzienną dawkę energii oraz białka, które pobrała locha w 95 dniu ciąży.",
+    "answers": [
+      "71,9 MJ EM oraz 762 g białka",
+      "38 MJ EM oraz 112 g białka",
+      "37,1 MJ EM oraz 123 g białka",
+      "37,1 MJ EM oraz 393,5 g białka"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_tabela5.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 123,
+    "text": "Wałek skrzyni biegów wykonany jest",
+    "answers": [
+      "z mosiądzu.",
+      "z ołowiu.",
+      "z miedzi.",
+      "ze stali."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_walek.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 124,
+    "text": "W celu utrzymania przepustowości rowu melioracyjnego przedstawionego na ilustracji należy",
+    "answers": [
+      "Zmniejszyć jego szerokość.",
+      "Wzmocnić skarpy przez posadzenie krzewów.",
+      "Zmniejszyć odpływ wody z wylotów drenarskich.",
+      "Wykosić roślinność ze skarp i dna rowu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_row.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 125,
+    "text": "Oblicz zapotrzebowanie na paszę dla brojlera o masie ciała 2,1 kg, jeżeli na 1 kg jego przyrostu zużycie wynosi 2 kg paszy.",
+    "answers": [
+      "2,0 kg",
+      "4,2 kg",
+      "2,2 kg",
+      "4,4 kg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 126,
+    "text": "Wskaż działania dotyczące poprawy funkcjonowania urządzeń wodociągowych, które należy podjąć w hali udojowej, jeżeli na podstawie badania próbki wody stwierdzono jej twardość 20°.",
+    "answers": [
+      "Zainstalowanie stacji uzdatniania wody.",
+      "Zastosowanie w instalacji wodociągowej rur o większej średnicy.",
+      "Zainstalowanie wodomierza o większej dokładności.",
+      "Przeprowadzenie dezynfekcji instalacji wodociągowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_tabela9.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 127,
+    "text": "Na ilustracji przedstawiono elementy",
+    "answers": [
+      "instalacji kanalizacyjnej chlewni.",
+      "systemu drenarskiego.",
+      "deszczowni.",
+      "systemu zadawania pasz."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_elementy.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 128,
+    "text": "Wskaż odpowiednie zmianowanie dla gospodarstwa położonego na glebach lekkich.",
+    "answers": [
+      "Owies, żyto, łubin żółty, ziemniaki.",
+      "Żyto, owies, łubin żółty, ziemniaki.",
+      "Ziemniaki, łubin żółty, owies, żyto.",
+      "Ziemniaki, owies, łubin żółty, żyto."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 129,
+    "text": "Paszą objętościową jest",
+    "answers": [
+      "susz ziemniaczany.",
+      "ziarno kukurydzy.",
+      "śruta sojowa.",
+      "siano z lucerny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 130,
+    "text": "Maszyna przedstawiona na ilustracji służy do",
+    "answers": [
+      "zaprawiania ziarna.",
+      "owijania bel podsuszonej zielonki.",
+      "rozdrabniania okopowych.",
+      "workowania ziemniaków."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_maszyna.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 131,
+    "text": "Określ ustawienie dźwigni skrzyni przekładniowej oraz bieg przekładni bezstopniowej przy wysiewie rzepaku w ilości 6 kg/ha.",
+    "answers": [
+      "12 i II",
+      "14 i I",
+      "12 i I",
+      "14 i II"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_tabela10.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 132,
+    "text": "W przypadku wystąpienia w budynkach dla drobiu piórojadów, należy w celu ich zlikwidowania przeprowadzić zabieg",
+    "answers": [
+      "deratyzacji.",
+      "dezynfekcji.",
+      "dekornizacji.",
+      "dezynsekcji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 133,
+    "text": "Staw pęcinowy jest usytuowany",
+    "answers": [
+      "powyżej stawu kolanowego.",
+      "poniżej stawu nadgarstkowego.",
+      "poniżej stawu koronowego.",
+      "powyżej stawu skokowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 134,
+    "text": "Do zwalczania perzu metodą chemiczną stosuje się",
+    "answers": [
+      "fumiganty.",
+      "repelenty.",
+      "fungicydy.",
+      "herbicydy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 135,
+    "text": "Który nawóz można stosować dolistnie, łącznie z pestycydami?",
+    "answers": [
+      "Saletrzak.",
+      "Mocznik.",
+      "Superfosfat.",
+      "Sól potasową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 136,
+    "text": "Określ datę odsadzenia prosiąt od lochy, która wyprosiła się 20 lipca, jeżeli prosięta przybywają z matką 28 dni.",
+    "answers": [
+      "24 sierpnia.",
+      "17 sierpnia.",
+      "20 sierpnia.",
+      "11 sierpnia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 137,
+    "text": "Na podstawie informacji podanych na etykiecie-instrukcji stosowania zaprawy nasiennej oblicz, ile preparatu oraz wody należy użyć do zaprawienia 4 ton ziarna jęczmienia jarego? INSTRUKCJA STOSOWANIA FUNGICYDU DO ZAPRAWIANIA ZIARNA ZBÓŻ Środek grzybobójczy w formie płynnego koncentratu przeznaczony do zaprawiania ziarna siewnego pszenicy ozimej i jarej, jęczmienia ozimego i jarego, pszenżyta jarego i owsa Zalecana dawka dla jednorazowego zastosowania: 100 ml/100 kg ziarna z dodatkiem 500-900 ml wody",
+    "answers": [
+      "2 l preparatu i 2 - 3,6 l wody.",
+      "5 l preparatu i 50 - 90 l wody.",
+      "4 l preparatu i 20 - 36 l wody.",
+      "3 l preparatu i 5 - 9 l wody."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 138,
+    "text": "Leukocyty są odpowiedzialne w organizmie zwierząt za",
+    "answers": [
+      "produkcję fibrynogenu.",
+      "krzepliwość krwi.",
+      "reakcje odpornościowe.",
+      "transport tlenu do komórek."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 139,
+    "text": "W przypadku zgubienia kolczyka przez kozę kupioną w Holandii hodowca powinien",
+    "answers": [
+      "złożyć w Biurze Powiatowym ARiMR zamówienie na jego duplikat, a po otrzymaniu kolczyka z tym samym numerem, założyć go kozie.",
+      "założyć nowy kolczyk w ciągu 7 dni.",
+      "w ciągu 180 dni zgłosić zakup zwierzęcia i wystąpić o nowy kolczyk.",
+      "zgłosić zakup zwierzęcia w Biurze Powiatowym ARiMR w ciągu 30 dni."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_ramka.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 140,
+    "text": "W gospodarstwie utrzymywanych jest 60 krów. Jedna krowa produkuje w ciągu roku 10 t obornika. Na jaką powierzchnię gruntów ornych można zastosować obornik, jeśli zaplanowana dawka wynosi 30 t/ha.",
+    "answers": [
+      "20 ha",
+      "2 ha",
+      "180 ha",
+      "90 ha"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 141,
+    "text": "Obsada zwierząt w gospodarstwach ekologicznych nie powinna przekraczać 2 SD/1 ha. Określ, które gospodarstwo spełnia wymagania obsady zwierząt dla gospodarstw ekologicznych?",
+    "answers": [
+      "Gospodarstwo IV.",
+      "Gospodarstwo III.",
+      "Gospodarstwo II.",
+      "Gospodarstwo I."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_tabela7.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 142,
+    "text": "Objętość silosu potrzebnego do zmagazynowania 6000 dt, jeżeli 1 m3 kiszonki waży około 650 kg, wynosi",
+    "answers": [
+      "ok. 600 m3",
+      "ok. 650 m3",
+      "ok. 1083 m3",
+      "ok. 923 m3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 143,
+    "text": "Fitting wykonywany na zwierzętach obejmuje swoim zakresem",
+    "answers": [
+      "czynności pielęgnacyjne przed aukcją lub wystawą.",
+      "zabiegi po udoju związane z wymieniem.",
+      "zabiegi rehabilitacyjne koni po urazach kończyn.",
+      "metody leczenia i korygowania wad kończyn."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 144,
+    "text": "Który z dostępnych w gospodarstwie środków chemicznej ochrony roślin stosuje się w uprawie pszenicy ozimej w celu ochrony przed chorobami grzybowymi?",
+    "answers": [
+      "Adexar Plus.",
+      "Fastac 10 AC.",
+      "Klerat K.",
+      "Biathlon 4 D."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_tabela3.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 145,
+    "text": "Przegląd techniczny ciągnika, który powinien być najczęściej wykonywany to",
+    "answers": [
+      "P-1",
+      "P-2",
+      "P-3",
+      "P-4"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 146,
+    "text": "Urządzenie przedstawione na ilustracji służy do przetwarzania",
+    "answers": [
+      "energii elektrycznej w cieplną.",
+      "energii słonecznej w cieplną.",
+      "energii słonecznej w elektryczną.",
+      "biogazu w energię elektryczną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_urzadzenie.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 147,
+    "text": "Przedstawione logo umieszczone na etykiecie opakowania ziemniaków oznacza, że",
+    "answers": [
+      "mają Chronioną Nazwę Pochodzenia.",
+      "są one produktem ekologicznym.",
+      "mają Chronione Oznaczenie Geograficzne.",
+      "są one produktem regionalnym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_logo.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 148,
+    "text": "Na glebach ciężkich, w celu poprawy warunków wodno-powietrznych, należy zastosować",
+    "answers": [
+      "wapnowanie.",
+      "głęboszowanie.",
+      "iłowanie.",
+      "glinowanie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 149,
+    "text": "Określ głębokość siewu pszenicy na podstawie zamieszczonego zestawienia.",
+    "answers": [
+      "8 – 9 cm",
+      "6 – 7 cm",
+      "4 – 6 cm",
+      "2 – 4 cm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_tabela2.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 150,
+    "text": "Paszporty dla koni huculskich wydaje",
+    "answers": [
+      "Ministerstwo Rolnictwa.",
+      "Polski Klub Wyścigów Konnych.",
+      "Polski Związek Hodowców Koni.",
+      "Agencja Restrukturyzacji i Modernizacji Rolnictwa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 151,
+    "text": "Oblicz wartość sprzedaży brutto 40 sztuk jagniąt o masie ciała 45 kg/szt., jeżeli cena netto wynosi 6,0 zł/ kg, a stawka podatku VAT 8%.",
+    "answers": [
+      "19 440 zł",
+      "11 664 zł",
+      "10 800 zł",
+      "18 000 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 152,
+    "text": "Rasy przeżuwaczy użytkowane w kierunku mlecznym to:",
+    "answers": [
+      "jersey, saaneńska, fryzyjska.",
+      "charolaise, alpejska, ile de france.",
+      "polska czerwona, burska, merynos.",
+      "hereford, kaszmirska, czarnogłówka."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 153,
+    "text": "Określ dawkę cieczy roboczej dla opryskiwacza, w którym zastosowano rozpylacze żółte (rozmiar 02) przy prędkości roboczej 6 km/h i ciśnieniu cieczy 2 bary.",
+    "answers": [
+      "146 l/ha",
+      "111 l/ha",
+      "130 l/ha",
+      "120 l/ha"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_tabela11.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 154,
+    "text": "Określ minimalną powierzchnię kojca dla tucznika o masie ciała 80 kg zapewniającą dobrostan zwierząt.",
+    "answers": [
+      "0,55 m2/szt.",
+      "0,30 m2/szt.",
+      "1,00 m2/szt.",
+      "0,40 m2/szt."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_tabela6.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 155,
+    "text": "Wskaż odmianę kukurydzy o najdłuższym okresie wegetacji.",
+    "answers": [
+      "Sumaris – FAO 250",
+      "Garrido – FAO 240",
+      "Ronaldinio – FAO 260",
+      "Agro Vitallo – FAO 280"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_tabela.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 156,
+    "text": "Przedstawione na ilustracji zmiany na liściach kukurydzy wskazują na niedobór",
+    "answers": [
+      "azotu.",
+      "miedzi.",
+      "fosforu.",
+      "potasu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_zmiany.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 157,
+    "text": "Szkodnik przedstawiony na ilustracji to",
+    "answers": [
+      "słodyszek rzepakowy.",
+      "stonka kukurydziana.",
+      "stonka ziemniaczana.",
+      "skrzypionka."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_szkodnik.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 158,
+    "text": "Przenośnik typu Delta jest wykorzystywany",
+    "answers": [
+      "w magazynach pasz.",
+      "do usuwania gnojowicy.",
+      "w paszociągach.",
+      "do transportu jaj."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 159,
+    "text": "W oparciu o dane zawarte w tabeli określ maksymalną temperaturę transportu mleka surowego przeznaczonego do sprzedaży bezpośredniej.",
+    "answers": [
+      "7°C",
+      "3°C",
+      "6°C",
+      "4°C"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_tabela8.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 160,
+    "text": "Na podstawie danych zawartych w tabeli, oblicz potrzebną ilość wapnia w czystym składniku (CaO) na pole o powierzchni 5 ha. Wapnowana będzie gleba ciężka, dla której ocenę potrzeb zabiegu określono jako “potrzebne”.",
+    "answers": [
+      "18 t",
+      "10 t",
+      "5 t",
+      "15 t"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "rol04/rl3_tabela4.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 161,
+    "text": "W gospodarstwach o dużym udziale trwałych użytków zielonych podstawową paszą stosowaną w opasie bydła jest",
+    "answers": [
+      "kiszonka z prasowanych wysłodków buraczanych.",
+      "sianokiszonka z traw.",
+      "kiszonka GPS.",
+      "kiszonka z kukurydzy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 162,
+    "text": "Który pług stosuje się do orki gleb zadarnionych, zakorzenionych i z dużą ilością kamieni?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_plugi.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 163,
+    "text": "W okresie 305-dniowej laktacji najwyższą wydajność mleczną krowy osiągają",
+    "answers": [
+      "w drugim miesiącu po wycieleniu.",
+      "w szóstym miesiącu laktacji.",
+      "bezpośrednio po wycieleniu.",
+      "dwa tygodnie przed zasuszeniem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 164,
+    "text": "Poidło przedstawione na ilustracji przeznaczone jest do pojenia",
+    "answers": [
+      "prosiąt.",
+      "cieląt.",
+      "piskląt.",
+      "jagniąt."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_poidlo3.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 165,
+    "text": "W kosiarkach rotacyjnych bębnowych zmianę wysokości koszenia, z mniejszej na większą, można uzyskać poprzez",
+    "answers": [
+      "założenie dodatkowych pierścieni dystansowych.",
+      "zmianę prędkości obrotowej bębnów.",
+      "wymontowanie pierścieni dystansowych.",
+      "regulację odległości talerzy względem siebie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 166,
+    "text": "W gospodarstwie ekologicznym dozwolone jest w żywieniu trzody chlewnej stosowanie",
+    "answers": [
+      "syntetycznych zamienników pasz naturalnych.",
+      "stymulatorów wzrostu.",
+      "mączek rybnych.",
+      "pasz z roślin genetycznie modyfikowanych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 167,
+    "text": "Przyczyną nierównomiernego uziarnienia kolb kukurydzy przedstawionych na ilustracji może być",
+    "answers": [
+      "nadmiar boru przy jednoczesnym niedoborze fosforu oraz potasu.",
+      "stosowanie systemu dzielonych dawek nawozów azotowych.",
+      "brak opadów i wysokie temperatury w okresie kwitnienia.",
+      "zwiększenie ilości wysiewu i obsady roślin."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_kukurydza.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 168,
+    "text": "Przy planowaniu ścieżek technologicznych podczas siewu zbóż należy wziąć pod uwagę",
+    "answers": [
+      "szerokość roboczą siewnika i opryskiwacza.",
+      "jakość gleby na polu.",
+      "szerokość roboczą kombajnu do zbioru roślin.",
+      "wielkość rozstawy redlic w siewniku."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 169,
+    "text": "Na podstawie podanych założeń przygotowania opryskiwacza do pracy oblicz wydatek cieczy z jednego rozpylacza.",
+    "answers": [
+      "1,0 l/min",
+      "6,0 l/min",
+      "0,5 l/min",
+      "2,0 l/min"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_wzor3.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 170,
+    "text": "W organizmach zwierząt funkcje przedstawione na schemacie spełnia układ",
+    "answers": [
+      "krwionośny.",
+      "pokarmowy.",
+      "oddechowy.",
+      "wydalniczy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_schemat15.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 171,
+    "text": "W gospodarstwie prowadzona jest produkcja tuczników w cyklu otwartym od 30 kg do 110 kg. Średnie zużycie paszy przez jednego tucznika w okresie tuczu wynosi 245 kg. Oceń efektywność tuczu.",
+    "answers": [
+      "Dobra.",
+      "Dostateczna.",
+      "Bardzo dobra.",
+      "Dopuszczająca."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_tabela55.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 172,
+    "text": "Do chemicznej ochrony roślin przed mszycami stosuje się",
+    "answers": [
+      "nematocydy.",
+      "fungicydy.",
+      "insektycydy.",
+      "herbicydy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 173,
+    "text": "Przy sprzedaży jałówki hodowlanej dokumentem potwierdzającym pochodzenie zwierzęcia jest",
+    "answers": [
+      "świadectwo rodowodowe.",
+      "Karta Jałówki – Krowy.",
+      "raport z próbnego doju RW-2.",
+      "karta wsadowa księgi rejestracji bydła."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 174,
+    "text": "Chwast przedstawiony na ilustracji to",
+    "answers": [
+      "tasznik pospolity.",
+      "fiołek polny.",
+      "żółtlica drobnokwiatowa.",
+      "komosa biała."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_chwast9.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 175,
+    "text": "W gospodarstwie rolnym, w którym ilość wyprodukowanego obornika przekroczy dawkę 170 kg N/ha użytków rolnych, rolnik powinien",
+    "answers": [
+      "zmienić system utrzymania zwierząt na bezściołowy.",
+      "zmniejszyć obsadę zwierząt.",
+      "wprowadzić dodatkowy plan nawożenia.",
+      "zwiększyć dawkę nawożenia roślin obornikiem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 176,
+    "text": "Pokazany na ilustracji sprzęt potrzebny jest w chowie bydła do",
+    "answers": [
+      "obcinania rogów u dorosłych osobników.",
+      "pomocy przy wzdęciach żwacza.",
+      "pomocy przy porodach krów.",
+      "korekcji racic."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_sprzet.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 177,
+    "text": "Przenośnik przedstawiony na ilustracji ma zastosowanie w gospodarstwie rolnym do",
+    "answers": [
+      "usuwania odchodów w oborach.",
+      "transportu pasz objętościowych suchych.",
+      "transportu ziarna zbóż w silosach.",
+      "dozowania paszy w wozach paszowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_przenosnik3.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 178,
+    "text": "Ilustracja przedstawia krowę rasy",
+    "answers": [
+      "Charolaise.",
+      "Hereford.",
+      "Limousine.",
+      "Piemontese."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_krowa6.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 179,
+    "text": "Do produkcji wełny mieszanej odpowiednią rasą owiec jest",
+    "answers": [
+      "polska owca nizinna.",
+      "wrzosówka.",
+      "merynos polski.",
+      "polska owca długowełnista."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 180,
+    "text": "Na schemacie rozmieszczenia narządów wewnętrznych w budowie krowy strzałką oznaczono",
+    "answers": [
+      "płuca.",
+      "nerki.",
+      "serce.",
+      "żołądek."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_schemat14.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 181,
+    "text": "Wysiew ziarna zbóż na glebach ciężkich, przy zbyt dużej wilgotności gleby, może powodować",
+    "answers": [
+      "rozwój zgorzeli siewek.",
+      "skrócenie okresu wschodów.",
+      "wykształcenie zbyt dużej liczby korzeni zarodkowych.",
+      "zwiększenie obsady roślin."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 182,
+    "text": "W celu ograniczenia kanibalizmu i pterofagii w hodowli drobiu zaleca się pomalowanie szyb w oknach i stosowanie żarówek do oświetlenia pomieszczeń w kolorze",
+    "answers": [
+      "białym.",
+      "niebieskim.",
+      "czerwonym.",
+      "zielonym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 183,
+    "text": "Skutecznym sposobem ograniczenia liczby komórek somatycznych w mleku krów jest",
+    "answers": [
+      "wykonywanie bezpośrednio po doju dezynfekcji strzyków.",
+      "po zakończeniu doju w ciągu dwóch godzin schłodzenie mleka do temperatury 3-5°C.",
+      "przechowywanie mleka po udoju w szczelnie zamkniętych zbiornikach.",
+      "stosowanie metody natychmiastowego zasuszania krów bez użycia antybiotyków."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 184,
+    "text": "Ilustracja przedstawia kozę w typie użytkowym",
+    "answers": [
+      "mięsnym.",
+      "wełnistym.",
+      "mlecznym.",
+      "puchowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_koza.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 185,
+    "text": "Która roślina jest najlepszym przedplonem w uprawie rzepaku?",
+    "answers": [
+      "Rzepak ozimy.",
+      "Koniczyna czerwona.",
+      "Buraki cukrowe.",
+      "Jęczmień ozimy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_tabela53.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 186,
+    "text": "Optymalnym terminem stosowania wapna nawozowego w uprawie bobiku po pszenicy jarej jest wykonanie zabiegu w okresie zespołu uprawek",
+    "answers": [
+      "przedsiewnych jesiennych.",
+      "przedsiewnych wiosennych.",
+      "pielęgnacyjnych.",
+      "pożniwnych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 187,
+    "text": "W celu przygotowania pługa do przechowywania, po zakończonym sezonie roboczym, należy powierzchnie robocze oczyścić i zabezpieczyć",
+    "answers": [
+      "smarem konserwacyjnym.",
+      "zużytym olejem zmieszanym ze smarem.",
+      "olejem przekładniowym.",
+      "przepalonym olejem silnikowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 188,
+    "text": "Oblicz minimalną powierzchnię wybiegu dla stada 20 szt. kóz i dwóch kozłów zapewniającą dobrostan zwierząt.",
+    "answers": [
+      "68 m2",
+      "80 m2",
+      "12 m2",
+      "92 m2"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_ramka5.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 189,
+    "text": "Rolnik ryczałtowy przy sprzedaży podatnikowi VAT, wytworzonych produktów pochodzenia roślinnego, ma obowiązek",
+    "answers": [
+      "posiadać konto w banku.",
+      "wystawić fakturę VAT.",
+      "żądania faktury VAT RR od nabywcy jego produktów.",
+      "prowadzić ewidencję sprzedaży i zakupów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 190,
+    "text": "Orka głęboka jest zabiegiem wykonywanym w zespole uprawek",
+    "answers": [
+      "pożniwnych.",
+      "przedsiewnych jesiennych.",
+      "przedzimowych.",
+      "pielęgnacyjnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 191,
+    "text": "Stosowanie do siewu nasion bobiku samokończącego ma na celu",
+    "answers": [
+      "osiągnięcie wyższego plonu nasion.",
+      "osiągnięcie wcześniejszego dojrzewania roślin.",
+      "zmniejszenie porażenia przez choroby grzybowe.",
+      "wydłużenie okresu wegetacji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 192,
+    "text": "W gospodarstwach położonych na glebach lekkich i lekko kwaśnych, w których prowadzona jest produkcja miodu, rośliną odpowiednią do uprawy jest",
+    "answers": [
+      "lucerna.",
+      "gryka.",
+      "bobik.",
+      "rzepak."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 193,
+    "text": "Znakowanie kolczykami nowonarodzonych cieląt należy wykonać najpóźniej",
+    "answers": [
+      "do 180 dni od urodzenia.",
+      "do końca drugiego tygodnia życia.",
+      "do 7 dni po urodzeniu cielęcia.",
+      "w ciągu 24 godzin po urodzeniu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 194,
+    "text": "Najniższe straty jakościowe podczas produkcji i przechowywania kiszonki powstają w silosach",
+    "answers": [
+      "wieżowych gazoszczelnych.",
+      "komorowych.",
+      "przejazdowych.",
+      "wieżowych otwartych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_tabela54.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 195,
+    "text": "Oblicz, ilość potrzebnego preparatu do wykonania suchej dezynfekcji ściółki, w kojcu porodowym o powierzchni 3,5 m2 dla lochy, jeżeli optymalna dawka preparatu wynosi 100 g/1 m2 podłogi.",
+    "answers": [
+      "100 g",
+      "1 000 g",
+      "700 g",
+      "350 g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 196,
+    "text": "Na podstawie zamieszczonego kalendarza pokryć i wyproszeń ustal datę przeprowadzenia lochy inseminowanej 22 lutego do kojca porodowego, w terminie siedmiu dni przed spodziewanym porodem.",
+    "answers": [
+      "10 czerwca",
+      "17 czerwca",
+      "11 sierpnia",
+      "1 lipca"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_kalendarz.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 197,
+    "text": "Oblicz, ile kilogramów kiszonki z kukurydzy o zawartości 30% suchej masy, maksymalnie można podać krowie ważącej 600 kg, jeżeli dzienne zapotrzebowanie na suchą masę wynosi 3,5% jej masy ciała.",
+    "answers": [
+      "21 kg",
+      "30 kg",
+      "45 kg",
+      "70 kg"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 198,
+    "text": "Ziarno przedstawione na ilustracji należy do pasz",
+    "answers": [
+      "objętościowych soczystych.",
+      "treściwych białkowych.",
+      "treściwych energetycznych.",
+      "objętościowych suchych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_ziarno2.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 199,
+    "text": "W przypadku opóźnionego terminu siewu pszenicy ozimej należy",
+    "answers": [
+      "zmniejszyć obsadę roślin.",
+      "zachować standardową normę wysiewu nasion dla terminu optymalnego.",
+      "zwiększyć normę wysiewu nasion.",
+      "zmniejszyć ilość wysiewanych nasion na hektar."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 200,
+    "text": "Zaświadczenie dla rolnika uprawniające do stosowania środków ochrony roślin, wydane w dniu 20.02.2018 roku, zachowuje ważność do dnia",
+    "answers": [
+      "20.02.2019 r.",
+      "20.02.2021 r.",
+      "20.02.2023 r.",
+      "20.08.2018 r."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 201,
+    "text": "Który wariant zapewnia optymalne warunki podkiełkowania sadzeniaków?",
+    "answers": [
+      "I",
+      "IV",
+      "II",
+      "III"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_tabela68.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 202,
+    "text": "Zwiększenie przyczepności kół napędowych ciągnika można osiągnąć przez",
+    "answers": [
+      "zmniejszenie powierzchni styku kół z podłożem.",
+      "obniżenie ciśnienia w ogumieniu.",
+      "zastosowanie węższych opon.",
+      "obniżenie środka ciężkości ciągnika."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 203,
+    "text": "Mechaniczne zwalczanie chwastów w uprawie pszenicy jarej należy wykonać w fazie",
+    "answers": [
+      "strzelania w źdźbło.",
+      "strzelania w źdźbło do początku kłoszenia.",
+      "krzewienia.",
+      "krzewienia i strzelania w źdźbło."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 204,
+    "text": "Zdjęcie przedstawia owcę w typie użytkowym",
+    "answers": [
+      "mięsnym.",
+      "kożuchowym.",
+      "wełnistym.",
+      "mlecznym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_owca2.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 205,
+    "text": "Wiatr odgrywa pozytywną rolę przede wszystkim w okresie kwitnienia",
+    "answers": [
+      "owsa.",
+      "żyta.",
+      "jęczmienia.",
+      "pszenicy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 206,
+    "text": "W celu przykrycia nasion po siewie stosuje się brony",
+    "answers": [
+      "zębowe ciężkie.",
+      "sprężynowe.",
+      "aktywne.",
+      "zębowe lekkie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 207,
+    "text": "W rolnictwie dyrektywę azotanową stosuje się w celu",
+    "answers": [
+      "zmniejszenia emisji szkodliwych gazów w budynkach inwentarskich.",
+      "zachowania dobrostanu zwierząt gospodarskich.",
+      "ochrony wód gruntowych.",
+      "poprawy jakości produktów zwierzęcych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 208,
+    "text": "Zapotrzebowanie pokarmowe lochy karmiącej zależy od",
+    "answers": [
+      "liczebności miotu.",
+      "długości okresu laktacji.",
+      "częstotliwości oproszeń.",
+      "technologii żywienia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 209,
+    "text": "Tuleja o barwie żółtopomarańczowej, przedstawiona na ilustracji, została wykonana",
+    "answers": [
+      "z żeliwa.",
+      "ze stali.",
+      "z mosiądzu.",
+      "ze staliwa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_tuleja.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 210,
+    "text": "Celem otoczkowania nasion buraków cukrowych jest",
+    "answers": [
+      "zwiększenie ilości pestycydów wprowadzanych do gleby.",
+      "przyspieszenie okresu wykonania przerywki.",
+      "opóźnienie wschodów.",
+      "możliwość zastosowania siewu precyzyjnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 211,
+    "text": "Przedstawiona kolejność następujących po sobie zespołów uprawek poprzedza siew",
+    "answers": [
+      "rzepaku ozimego.",
+      "owsa.",
+      "żyta.",
+      "pszenicy ozimej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_schemat10.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 212,
+    "text": "Przed rozpoczęciem wybierania gnojowicy ze zbiornika należy ją",
+    "answers": [
+      "rozcieńczyć.",
+      "napowietrzyć.",
+      "oczyścić z części stałych.",
+      "ujednorodnić."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 213,
+    "text": "Kolczyk przedstawiony na ilustracji przeznaczony jest do oznakowania",
+    "answers": [
+      "trzody chlewnej.",
+      "owiec.",
+      "kóz.",
+      "bydła."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_kolczyk3.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 214,
+    "text": "Sianokiszonkę z traw owiniętą w baloty pierwszego czerwca, można przeznaczyć do skarmiania zwierząt",
+    "answers": [
+      "około 6 tygodni po sporządzeniu.",
+      "bezpośrednio po owinięciu folią.",
+      "dopiero w okresie żywienia zimowego.",
+      "po dwóch tygodniach po sporządzeniu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 215,
+    "text": "Wiosenną pielęgnację użytków zielonych położonych na glebach organicznych i silnie próchnicznych należy rozpocząć od",
+    "answers": [
+      "bronowania i nawożenia fosforowo-potasowego.",
+      "bronowania i wapnowania.",
+      "włókowania i wałowania.",
+      "włókowania i nawożenia obornikiem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 216,
+    "text": "Rozstaw kół w ciągniku, przeznaczonym do zabiegów pielęgnacyjnych wykonywanych w uprawie buraków o szerokości międzyrzędzi 45 cm, powinien wynosić",
+    "answers": [
+      "155 cm",
+      "135 cm",
+      "125 cm",
+      "145 cm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 217,
+    "text": "Zaobserwowane zachowanie i objawy u konia użytego do pracy po kilkudniowym odpoczynku wskazują na wystąpienie",
+    "answers": [
+      "mięśniochwatu.",
+      "ochwatu.",
+      "zagwożdżenia.",
+      "grudy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_opis.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 218,
+    "text": "Określ optymalną temperaturę dla lochy w laktacji przebywającej w kojcu porodowym.",
+    "answers": [
+      "12°C",
+      "15°C",
+      "28°C",
+      "20°C"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_tabela69.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 219,
+    "text": "Buraki i kukurydza są nieodpowiednimi przedplonami w uprawie zbóż ozimych, ze względu na",
+    "answers": [
+      "krótki okres wegetacyjny.",
+      "duże zachwaszczenie gleby.",
+      "późne zejście z pola.",
+      "pobranie z gleby dużej ilości składników pokarmowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 220,
+    "text": "W celu ograniczenia strat ziemniaków, powodowanych przez choroby okresu przechowywania, należy",
+    "answers": [
+      "okrywać kopce warstwą słomy o grubości około 10 cm oraz 5 cm warstwą ziemi.",
+      "bezpośrednio po zbiorze okrywać przesortowane bulwy folią i ziemią.",
+      "zbiór przeprowadzać w warunkach suchych i przy temperaturze powyżej 10°C.",
+      "uprawiać ziemniaki na glebach zwięzłych i gliniastych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 221,
+    "text": "Główny proces trawienia włókna u konia odbywa się w",
+    "answers": [
+      "jelicie ślepym.",
+      "prostnicy.",
+      "jelicie cienkim.",
+      "żołądku."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 222,
+    "text": "Zdrowym, dorosłym koniom ziarno owsa należy podawać",
+    "answers": [
+      "gniecione.",
+      "moczone przez 3 – 4 dni.",
+      "w całości.",
+      "po ześrutowaniu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 223,
+    "text": "Pokazane na ilustracji koło nosowe założono krowie w celu",
+    "answers": [
+      "ochrony śluzawicy przed urazami mechanicznymi.",
+      "pomocy w sortowaniu pasz objętościowych ze stołu paszowego.",
+      "zabezpieczenia przed samozdajaniem.",
+      "przeciwdziałania wydmuchiwaniu mieszanek sypkich z koryt."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_kolo.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 224,
+    "text": "Skuteczną metodą zwalczania wołka zbożowego w napełnionym silosie jest",
+    "answers": [
+      "dezynfekcja pomieszczenia.",
+      "zwiększenie temperatury przechowywania.",
+      "fumigacja magazynu środkiem do dezynsekcji zbóż.",
+      "zastosowanie karmnika deratyzacyjnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 225,
+    "text": "Automatyczne poidła dzwonowe przeznaczone są do pojenia",
+    "answers": [
+      "bydła.",
+      "owiec.",
+      "drobiu.",
+      "koni."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 226,
+    "text": "Na opakowaniu jaj przeznaczonych do sprzedaży strzałka wskazuje oznaczenie",
+    "answers": [
+      "klasy wagowej.",
+      "logo producenta.",
+      "systemu chowu niosek.",
+      "klasy jakościowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_jaja.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 227,
+    "text": "Oblicz, jaką ilość azotu należy zastosować w uprawie 1 hektara kukurydzy na kiszonkę z całych roślin, jeżeli przewidywany plon zielonki wynosi 40 t/ha?",
+    "answers": [
+      "140 kg/ha",
+      "52 kg/ha",
+      "560 kg/ha",
+      "252 kg/ha"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_tabela67.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 228,
+    "text": "Najlepsze warunki dobrostanu krów mlecznych zapewnia obora",
+    "answers": [
+      "wolnostanowiskowa na głębokiej ściółce.",
+      "uwięziowa bezściołowa.",
+      "wolnostanowiskowa bezściołowa.",
+      "stanowiskowa na płytkiej ściółce."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 229,
+    "text": "Wysokość położenia belki opryskiwacza nad opryskiwaną powierzchnią zależy od",
+    "answers": [
+      "liczby dysz wypryskujących ciecz.",
+      "szerokości roboczej belki.",
+      "kąta strumienia rozpylanej cieczy.",
+      "liczby krążków wytryskowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 230,
+    "text": "Wiosną, w celu przyspieszenia rozpoczęcia wegetacji ozimin, najlepiej zastosować nawożenie azotowe w postaci",
+    "answers": [
+      "siarczanu amonu.",
+      "saletry amonowej.",
+      "mocznika.",
+      "superfosfatu pojedynczego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 231,
+    "text": "Na schemacie czaszki ogiera literą X oznaczono zęby",
+    "answers": [
+      "przedtrzonowe.",
+      "siekacze.",
+      "kły.",
+      "trzonowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_schemat11.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 232,
+    "text": "Laboratoryjna ocena wartości siewnej nasion obejmuje oznaczenie",
+    "answers": [
+      "barwy i kształtu.",
+      "stopnia kwalifikacji.",
+      "zdolności kiełkowania.",
+      "wielkości nasion."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 233,
+    "text": "Nasiona przedstawione na ilustracji, należą do pasz",
+    "answers": [
+      "objętościowych suchych.",
+      "objętościowych soczystych.",
+      "treściwych niskobiałkowych.",
+      "treściwych wysokobiałkowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_nasiona.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 234,
+    "text": "Ilustracja przedstawia kury rasy",
+    "answers": [
+      "Zielononóżka kuropatwiana.",
+      "Leghorn.",
+      "Polbar.",
+      "Rhode Island Red."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_kury2.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 235,
+    "text": "Przy sprzedaży ziarna pszenicy do młyna, wadą dyskwalifikującą jest",
+    "answers": [
+      "obecność żywych szkodników.",
+      "przechowywanie zboża przez rok bez dostępu powietrza.",
+      "przewietrzanie zboża w trakcie przechowywania.",
+      "mechaniczne czyszczenie ziarna."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 236,
+    "text": "Szkodnik przedstawiony na ilustracji, to",
+    "answers": [
+      "drutowiec.",
+      "mątwik ziemniaczany.",
+      "skrzypionka.",
+      "chowacz czterozębny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_szkodnik4.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 237,
+    "text": "Źrebięta od klaczy odsadza się w wieku",
+    "answers": [
+      "3 miesięcy.",
+      "6 miesięcy.",
+      "12 miesięcy.",
+      "9 miesięcy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 238,
+    "text": "Ilustracja przedstawia połączenie",
+    "answers": [
+      "nitowane.",
+      "sworzniowe.",
+      "gwintowe.",
+      "spawane."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_polaczenie.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 239,
+    "text": "Gleby piaszczysto-gliniaste o odczynie lekko kwaśnym są odpowiednie do uprawy",
+    "answers": [
+      "lucerny.",
+      "ziemniaków.",
+      "buraków cukrowych.",
+      "koniczyny czerwonej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 240,
+    "text": "Najmniejsze wymagania glebowe wśród roślin motylkowatych drobnonasiennych posiadają",
+    "answers": [
+      "komonica i seradela.",
+      "seradela i lucerna.",
+      "seradela i koniczyna czerwona.",
+      "komonica i koniczyna czerwona."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 241,
+    "text": "Nasiona przedstawione na ilustracji należą do pasz",
+    "answers": [
+      "objętościowych soczystych.",
+      "treściwych niskobiałkowych.",
+      "treściwych wysokobiałkowych.",
+      "objętościowych suchych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_nasiona.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 242,
+    "text": "Na schemacie czaszki ogiera literą X oznaczono",
+    "answers": [
+      "zęby trzonowe.",
+      "siekacze.",
+      "kły.",
+      "zęby przedtrzonowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_schemat11.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 243,
+    "text": "W celu ograniczenia strat ziemniaków powodowanych przez choroby okresu przechowywania należy",
+    "answers": [
+      "okrywać kopce warstwą słomy o grubości około 10 cm oraz warstwą ziemi o grubości 5 cm.",
+      "uprawiać ziemniaki na glebach zwięzłych i gliniastych.",
+      "bezpośrednio po zbiorze okrywać przesortowane bulwy folią i ziemią.",
+      "zbiór przeprowadzać w warunkach suchych i przy temperaturze powyżej 10°C."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 244,
+    "text": "Sianokiszonkę z traw owiniętą w baloty pierwszego czerwca można przeznaczyć do skarmiania zwierząt",
+    "answers": [
+      "po dwóch tygodniach po sporządzeniu.",
+      "bezpośrednio po owinięciu folią.",
+      "około 6 tygodni po sporządzeniu.",
+      "dopiero w okresie żywienia zimowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 245,
+    "text": "Najkorzystniejszym przedplonem dla kukurydzy uprawianej, jako plon wtóry jest",
+    "answers": [
+      "żyto poplonowe.",
+      "rzepak ozimy.",
+      "jęczmień jary.",
+      "pszenica ozima."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 246,
+    "text": "Ilustracja przedstawia owcę w typie użytkowym",
+    "answers": [
+      "mlecznym.",
+      "kożuchowym.",
+      "wełnistym.",
+      "mięsnym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_owca2.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 247,
+    "text": "Przedstawione na ilustracji zmiany, występujące na młodych liściach kukurydzy, wskazują na niedobór",
+    "answers": [
+      "azotu.",
+      "fosforu.",
+      "magnezu.",
+      "potasu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_zmiany2.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 248,
+    "text": "Zdrowym, dorosłym koniom należy podawać ziarno owsa",
+    "answers": [
+      "moczone przez 3 – 4 dni.",
+      "po ześrutowaniu.",
+      "w całości.",
+      "gniecione."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 249,
+    "text": "Wiosną, w celu przyspieszenia rozpoczęcia wegetacji ozimin najlepiej zastosować nawożenie azotowe w postaci",
+    "answers": [
+      "mocznika.",
+      "superfosfatu pojedynczego.",
+      "saletry amonowej.",
+      "siarczanu amonu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 250,
+    "text": "Oblicz, jaką ilość azotu należy zastosować w uprawie 1 hektara kukurydzy na kiszonkę z całych roślin, jeżeli przewidywany plon zielonki wynosi 40 t/ha.",
+    "answers": [
+      "52 kg/ha",
+      "252 kg/ha",
+      "140 kg/ha",
+      "560 kg/ha"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_tabela36.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 251,
+    "text": "Celem kalibracji opryskiwacza polowego jest",
+    "answers": [
+      "regulacja podzespołów roboczych.",
+      "określenie wydatku cieczy na jeden hektar.",
+      "sprawdzenie ciśnienia oprysku.",
+      "sprawdzenie wydatku jednostkowego rozpylacza."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 252,
+    "text": "Kolektor płaski służy do wykorzystania energii",
+    "answers": [
+      "słonecznej.",
+      "ruchu wody.",
+      "wiatru.",
+      "różnicy poziomu wody."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 253,
+    "text": "Jaja przeznaczone do sprzedaży w klasie wagowej L są oznaczone cyfrą",
+    "answers": [
+      "II",
+      "III",
+      "I",
+      "IV"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_jaja2.png"
+    },
+    "category": "ROL.04"
+  },
+  {
+    "id": 254,
+    "text": "Bezpośrednio przed sprzedażą bydła rzeźnego do zakładów ubojowych zwierzęta należy",
+    "answers": [
+      "przegłodzić.",
+      "dodatkowo nakarmić.",
+      "wymyć.",
+      "obficie napoić."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 255,
+    "text": "Sianokiszonkę z traw w balotach, zebraną pierwszego czerwca, można przeznaczyć do skarmiania zwierząt",
+    "answers": [
+      "po dwóch tygodniach po sporządzeniu.",
+      "około 6 tygodni po sporządzeniu.",
+      "bezpośrednio po owinięciu folią.",
+      "dopiero w okresie żywienia zimowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 256,
+    "text": "Buraki i kukurydza są nieodpowiednimi przedplonami w uprawie zbóż ozimych ze względu na",
+    "answers": [
+      "późne zejście z pola.",
+      "krótki okres wegetacyjny.",
+      "pobranie z gleby dużej ilości składników pokarmowych.",
+      "duże zachwaszczenie gleby."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ROL.04"
+  },
+  {
+    "id": 257,
+    "text": "Tuleja przegubu kosiarki rotacyjnej, przedstawiona na ilustracji, została wykonana",
+    "answers": [
+      "ze staliwa.",
+      "z żeliwa.",
+      "ze stali.",
+      "z mosiądzu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "rol04/r3_tuleja.png"
+    },
+    "category": "ROL.04"
+  }
+]
