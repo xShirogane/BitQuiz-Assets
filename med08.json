@@ -1,0 +1,3580 @@
+[
+  {
+    "id": 1,
+    "text": "Dawka graniczna wyrażona jako dawka skuteczna (efektywna), dla osób zawodowo narażonych na działanie promieniowania jonizującego wynosi w ciągu roku kalendarzowego",
+    "answers": [
+      "15 mSv",
+      "20 mSv",
+      "6 mSv",
+      "8 mSv"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 2,
+    "text": "W którym okresie ciąży wykonanie u kobiety zdjęcia rentgenowskiego klatki piersiowej jest najbardziej szkodliwe dla płodu?",
+    "answers": [
+      "Między 4 a 12 tygodniem ciąży.",
+      "Między 13 a 18 tygodniem ciąży.",
+      "Między 19 a 25 tygodniem ciąży.",
+      "Między 26 a 40 tygodniem ciąży."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 3,
+    "text": "W technice napromieniania SSD mierzona jest odległość źródła promieniowania",
+    "answers": [
+      "od stołu aparatu terapeutycznego.",
+      "od punktu zdefiniowanego na skórze pacjenta.",
+      "od izocentrum aparatu terapeutycznego.",
+      "od napromienianego guza."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 4,
+    "text": "Zgodnie z obowiązującą procedurą radiologiczną zdjęcie jamy brzusznej przy podejrzeniu zapalenia nerek zostanie wykonane w projekcji",
+    "answers": [
+      "AP na leżąco.",
+      "PA na leżąco.",
+      "AP na stojąco.",
+      "PA na stojąco."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 5,
+    "text": "Promieniowanie rentgenowskie jest",
+    "answers": [
+      "strumieniem protonów.",
+      "falą ultradźwiękową.",
+      "strumieniem elektronów.",
+      "falą elektromagnetyczną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 6,
+    "text": "Emisja fali elektromagnetycznej występuje w procesie rozpadu promieniotwórczego",
+    "answers": [
+      "beta minus.",
+      "alfa.",
+      "gamma.",
+      "beta plus."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 7,
+    "text": "Która składowa prawidłowej krzywej EKG odpowiada powolnej repolaryzacji komór mięśnia sercowego?",
+    "answers": [
+      "Załamek Q",
+      "Załamek P",
+      "Odcinek TP",
+      "Odcinek ST"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 8,
+    "text": "W badaniu audiometrycznym do oceny przewodnictwa kostnego wybranego ucha słuchawkę kostną należy przyłożyć do",
+    "answers": [
+      "guza czołowego.",
+      "nasady nosa.",
+      "wyrostka sutkowatego.",
+      "guzowatości potylicznej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 9,
+    "text": "Który artefakt wskazano strzałkami na obrazie USG nerki?",
+    "answers": [
+      "Podwójne odbicie.",
+      "Wzmocnienie akustyczne.",
+      "Cień akustyczny.",
+      "Ogon komety."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obraz36.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 10,
+    "text": "Za wyrównanie ciśnienia między uchem środkowym a otoczeniem odpowiada",
+    "answers": [
+      "narząd Cortiego.",
+      "trąbka słuchowa.",
+      "błona bębenkowa.",
+      "przewód słuchowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 11,
+    "text": "Przedstawiony obraz radiologiczny został zarejestrowany podczas badania jelita",
+    "answers": [
+      "cienkiego po doodbytniczym podaniu środka kontrastującego.",
+      "grubego po doodbytniczym podaniu środka kontrastującego.",
+      "cienkiego po doustnym podaniu środka kontrastującego.",
+      "grubego po doustnym podaniu środka kontrastującego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obraz28.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 12,
+    "text": "Badanie gęstości mineralnej kości metodą densytometrii należy wykonać",
+    "answers": [
+      "z bliższego końca kości strzałkowej.",
+      "z bliższego końca kości udowej.",
+      "z dalszego końca kości udowej.",
+      "z dalszego końca kości strzałkowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 13,
+    "text": "Cholangiografia to badanie radiologiczne",
+    "answers": [
+      "dróg moczowych.",
+      "dróg żółciowych.",
+      "pęcherza moczowego.",
+      "pęcherzyka żółciowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 14,
+    "text": "Rozpraszanie promieniowania X, w wyniku którego następuje zwiększenie długości fali promieniowania, to zjawisko",
+    "answers": [
+      "Boltzmana.",
+      "Comptona.",
+      "Maxwella.",
+      "Bragga."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 15,
+    "text": "Do badania mammograficznego w projekcji skośnej przyśrodkowo-bocznej kąt lampy powinien być ustawiony w zakresie",
+    "answers": [
+      "10°÷15°",
+      "40°÷60°",
+      "20°÷35°",
+      "65°÷70°"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 16,
+    "text": "Po wykonanej radioterapii do dokumentacji pacjenta należy wpisać dawkę promieniowania w jednostce",
+    "answers": [
+      "Kiur (Ci)",
+      "Bekerel (Bq)",
+      "Grej (Gy)",
+      "Siwert (Sv)"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 17,
+    "text": "Który radiofarmaceutyk należy podać pacjentowi w scyntygrafii perfuzyjnej mózgu?",
+    "answers": [
+      "I-123 NaI",
+      "Tc-99m HM-PAO",
+      "I-131 NaI",
+      "Tc-99m MDP"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 18,
+    "text": "Osłony na gonady dla osób dorosłych powinny posiadać równoważnik osłabienia promieniowania nie mniejszy niż",
+    "answers": [
+      "0,75 mm Pb",
+      "1,00 mm Pb",
+      "0,35 mm Pb",
+      "0,50 mm Pb"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 19,
+    "text": "Na radiogramie stopy uwidocznione jest złamanie trzonu",
+    "answers": [
+      "II kości śródstopia.",
+      "paliczka bliższego palca III.",
+      "III kości śródstopia.",
+      "paliczka bliższego palca II."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_radiogram16.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 20,
+    "text": "Na obrazie MR jamy brzusznej strzałką wskazano",
+    "answers": [
+      "śledzionę.",
+      "wątrobę.",
+      "trzustkę.",
+      "nerkę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obraz34.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 21,
+    "text": "Podczas wykonywania zdjęcia rentgenowskiego klatki piersiowej w rzucie tylno-przednim w celu ochrony radiologicznej pacjenta należy zastosować",
+    "answers": [
+      "fartuch ołowiowy założony z tyłu pacjenta.",
+      "półfartuch ołowiowy założony z tyłu pacjenta.",
+      "półfartuch ołowiowy założony z przodu pacjenta.",
+      "fartuch ołowiowy założony z przodu pacjenta."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 22,
+    "text": "Na obrazie TK kręgosłupa strzałką zaznaczono wyrostek",
+    "answers": [
+      "poprzeczny.",
+      "stawowy.",
+      "żebrowy.",
+      "kolczysty."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obraz27.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 23,
+    "text": "W badaniu EKG różnice potencjałów pomiędzy lewym podudziem a lewym przedramieniem rejestruje odprowadzenie",
+    "answers": [
+      "aVL",
+      "aVR",
+      "III",
+      "I"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 24,
+    "text": "Miejscem wykonania pomiaru densytometrycznego z kości przedramienia jest",
+    "answers": [
+      "koniec dalszy kości promieniowej strony niedominującej.",
+      "środek trzonu kości promieniowej strony niedominującej.",
+      "koniec dalszy kości promieniowej strony dominującej.",
+      "środek trzonu kości promieniowej strony dominującej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 25,
+    "text": "Jednostką indukcji magnetycznej jest",
+    "answers": [
+      "kulomb (C)",
+      "tesla (T)",
+      "weber (Wb)",
+      "om (Ω)"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 26,
+    "text": "W badaniu cystografii wstępującej środek kontrastowy należy podać",
+    "answers": [
+      "bezpośrednio do układu kielichowo-miedniczkowego.",
+      "wstecznie do moczowodu.",
+      "przez powłoki skórne do miedniczki nerkowej.",
+      "bezpośrednio do pęcherza moczowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 27,
+    "text": "Na ilustracji przedstawiono przygotowanie paacjenta do badania",
+    "answers": [
+      "KTG",
+      "EMG",
+      "ERG",
+      "EEG"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_przygotowanie.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 28,
+    "text": "Który parametr ekspozycji ma decydujący wpływ na kontrast obrazu rentgenowskiego?",
+    "answers": [
+      "Odległość źródła promieniowania od detektora [cm].",
+      "Filtracja [mm Al].",
+      "Napięcie na lampie [kV].",
+      "Iloczyn natężenia promieniowania i czasu [mAs]."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 29,
+    "text": "Celem radioterapii paliatywnej nie jest",
+    "answers": [
+      "przedłużenie życia.",
+      "trwałe wyleczenie.",
+      "zmniejszenie dolegliwości bólowych.",
+      "zahamowanie procesu nowotworowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 30,
+    "text": "Powierzchnia gabinetu rentgenowskiego, w którym zainstalowany jest aparat rentgenowski wyposażony w oddzielną lampę, powinna wynosić minimum",
+    "answers": [
+      "10 m2",
+      "15 m2",
+      "20 m2",
+      "18 m2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 31,
+    "text": "Szczytowy przepływ wydechowy zarejestrowany w trakcie badania maksymalnie natężonego wydechu w badaniu spirometrycznym jest oznaczany skrótem",
+    "answers": [
+      "PIF",
+      "PEF",
+      "FRC",
+      "FVC"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 32,
+    "text": "Na radiogramie TK głowy strzałką zaznaczono",
+    "answers": [
+      "przegrodę nosową.",
+      "zatokę klinową.",
+      "zbiornik wielki.",
+      "zatokę sitową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_radiogram17.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 33,
+    "text": "Koronarografia jest radiologicznym zabiegiem diagnostycznym pozwalającym ocenić drożność",
+    "answers": [
+      "tętnic obwodowych.",
+      "żył wieńcowych.",
+      "tętnic wieńcowych.",
+      "żył obwodowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 34,
+    "text": "Zarejestrowane na elektrokardiogramie miarowe fale f w kształcie „zębów piły” poprzedzielane prawidłowymi zespołami QRS są charakterystyczne dla",
+    "answers": [
+      "migotania komór.",
+      "napadowego częstoskurczu nadkomorowego.",
+      "trzepotania przedsionków.",
+      "wielokształtnego częstoskurczu przedsionkowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 35,
+    "text": "Technikę bramkowania oddechowego stosuje się w badaniu MR",
+    "answers": [
+      "miednicy małej.",
+      "gruczołu piersi.",
+      "klatki piersiowej.",
+      "kręgosłupa L-S."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 36,
+    "text": "Które badanie, zgodnie z zakresem kompetencji, może samodzielnie wykonać technik elektroradiolog?",
+    "answers": [
+      "Jednokontrastowe badanie żołądka.",
+      "Pielografię.",
+      "Bronchoskopię.",
+      "Zdjęcie klatki piersiowej z kontrastem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 37,
+    "text": "W obrazowaniu MR wykorzystuje się moment magnetyczny",
+    "answers": [
+      "elektronów.",
+      "neutronów.",
+      "protonów.",
+      "pozytonów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 38,
+    "text": "W badaniu EEG w systemie „10-20” elektrody w okolicy skroniowej oznaczone są literą",
+    "answers": [
+      "F",
+      "O",
+      "T",
+      "P"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 39,
+    "text": "W celu maksymalnego ograniczenia dawki promieniowania badanie rentgenowskie u dzieci należy wykonać",
+    "answers": [
+      "z kratką przeciwrozproszeniową i przy zwiększonej filtracji.",
+      "z kratką przeciwrozproszeniową i przy zmniejszonej filtracji.",
+      "bez kratki przeciwrozproszeniowej i przy zwiększonej filtracji.",
+      "bez kratki przeciwrozproszeniowej i przy zmniejszonej filtracji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 40,
+    "text": "Który obszar napromieniania wskazano na ilustracji strzałką?",
+    "answers": [
+      "Obszar napromieniany.",
+      "Obszar leczony.",
+      "Zaplanowany obszar napromieniania.",
+      "Kliniczny obszar napromieniania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_ilustracja.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 41,
+    "text": "Do środków kontrastujących negatywnych należą",
+    "answers": [
+      "podtlenek azotu i siarczan baru.",
+      "powietrze i podtlenek azotu.",
+      "związki jodu i siarczan baru.",
+      "siarczan baru i dwutlenek węgla."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 42,
+    "text": "Na obrazie cyfrowej angiografii subtrakcyjnej strzałką zaznaczono",
+    "answers": [
+      "pień płucny.",
+      "tętnicę szyjną wspólną prawą.",
+      "pień ramienno-głowowy.",
+      "żyłę płucną górną prawą."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obraz19.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 43,
+    "text": "Na zarejestrowanych obrazach badania renoscyntygraficznego widać, że prawa nerka pacjenta",
+    "answers": [
+      "nie gromadzi radioznacznika.",
+      "wykazuje opóźnione wydalanie radioznacznika.",
+      "wykazuje opóźnione gromadzenie radioznacznika.",
+      "gromadzi prawidłowo radioznacznik."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obrazy7.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 44,
+    "text": "W badaniu mammograficznym jedną z podstawowych projekcji jest projekcja",
+    "answers": [
+      "zrotowana.",
+      "dolinowa.",
+      "styczna.",
+      "kraniokaudalna."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 45,
+    "text": "Który system informatyczny służy do archiwizacji i transmisji obrazów radiologicznych?",
+    "answers": [
+      "DICOM",
+      "HL7",
+      "IHE",
+      "PACS"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 46,
+    "text": "W scyntygrafii serca metoda bramkowanej akwizycji SPECT umożliwia między innymi ocenę frakcji wyrzutowej",
+    "answers": [
+      "lewego przedsionka.",
+      "prawego przedsionka.",
+      "prawej komory.",
+      "lewej komory."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 47,
+    "text": "W diagnostyce mammograficznej punktowy ucisk sutka stosuje się w projekcji",
+    "answers": [
+      "bocznej.",
+      "stycznej.",
+      "celowanej.",
+      "dolinowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 48,
+    "text": "Który materiał światłoczuły należy zastosować w rentgenodiagnostyce analogowej, by zminimalizować dawkę promieniowania jonizującego otrzymaną przez pacjenta?",
+    "answers": [
+      "Film z folią wolframowo-wapniową.",
+      "Film jednostronnie pokryty emulsją.",
+      "Film z folią z pierwiastkami ziem rzadkich.",
+      "Film bez folii wzmacniającej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 49,
+    "text": "W brachyterapii MDR stosowane są dawki promieniowania",
+    "answers": [
+      "od 0,5 do 1,0 Gy/h",
+      "od 0,01 do 0,1 Gy/h",
+      "od 2,0 do 12 Gy/h",
+      "od 0,2 do 0,4 Gy/h"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 50,
+    "text": "Rutynowe badanie koronarografii prawej tętnicy wieńcowej wykonywane jest w rzucie skośnym przednim",
+    "answers": [
+      "prawym pod kątem 60º.",
+      "prawym pod kątem 45º.",
+      "lewym pod kątem 60º.",
+      "lewym pod kątem 45º."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 51,
+    "text": "Jednym z kryteriów poprawnie wykonanego badania spirometrycznego jest czas trwania natężonego wydechu, który powinien wynosić u osób powyżej 10 roku życia co najmniej",
+    "answers": [
+      "2 sekundy.",
+      "6 sekund.",
+      "4 sekundy.",
+      "3 sekundy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 52,
+    "text": "W zapisie EKG załamki P dodatnie w odprowadzeniu I i II, a ujemne w aVR oraz częstotliwość rytmu mniejsza niż 60/min wskazują na",
+    "answers": [
+      "przyspieszony rytm zatokowy.",
+      "zwolniony rytm zatokowy.",
+      "zahamowanie zatokowe.",
+      "niemiarowość zatokową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 53,
+    "text": "Który radioizotop jest stosowany w diagnostyce i terapii raka tarczycy?",
+    "answers": [
+      "131I",
+      "186Re",
+      "223Ra",
+      "133Xe"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 54,
+    "text": "Na radiogramie uwidoczniono",
+    "answers": [
+      "zwichnięcie stawu ramiennego w projekcji przednio-tylnej.",
+      "zwichnięcie stawu ramiennego w projekcji barkowo-pachowej.",
+      "prawidłowy obraz stawu ramiennego w projekcji przednio-tylnej.",
+      "prawidłowy obraz stawu ramiennego w projekcji barkowo-pachowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_radiogram11.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 55,
+    "text": "W radiografii mianem SID określa się",
+    "answers": [
+      "odległość między obiektem badanym a detektorem obrazu.",
+      "system automatycznej kontroli ekspozycji.",
+      "system automatycznej regulacji jasności.",
+      "odległość między źródłem promieniowania a detektorem obrazu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 56,
+    "text": "Na obrazie TK nadgarstka uwidocznione jest złamanie kości",
+    "answers": [
+      "łódeczkowatej.",
+      "główkowatej.",
+      "haczykowatej.",
+      "księżycowatej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obraz20.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 57,
+    "text": "Ultrasonograficzne środki kontrastowe to",
+    "answers": [
+      "nietoksyczne mikropęcherzyki gazu podawane dożylnie.",
+      "toksyczne mikropęcherzyki gazu podawane doustnie.",
+      "toksyczne mikropęcherzyki gazu podawane dożylnie.",
+      "nietoksyczne mikropęcherzyki gazu podawane doustnie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 58,
+    "text": "Na radiogramie strzałką oznaczono",
+    "answers": [
+      "kość łódkowatą.",
+      "staw skokowo-piętowy.",
+      "kość sześcienną.",
+      "głowę kości skokowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_radiogram12.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 59,
+    "text": "Którą tętnicę zaznaczono strzałką na obrazie MR?",
+    "answers": [
+      "Nerkową lewą.",
+      "Śledzionową.",
+      "Krezkową dolną.",
+      "Krezkową górną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obraz21.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 60,
+    "text": "Pielografia zstępująca umożliwia diagnostykę",
+    "answers": [
+      "dróg moczowych po przezskórnym podaniu środka kontrastującego do miedniczki.",
+      "pęcherza moczowego po podaniu środka kontrastującego przez cewnik.",
+      "układu naczyniowego po dożylnym podaniu środka kontrastującego.",
+      "miąższu nerek po dożylnym podaniu środka kontrastującego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 61,
+    "text": "Jak oznacza się w systemie międzynarodowym czwarty górny ząb mleczny po stronie prawej?",
+    "answers": [
+      "84",
+      "54",
+      "24",
+      "14"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 62,
+    "text": "Wysoką rozdzielczość przestrzenną obrazowania MR uzyskuje się przez",
+    "answers": [
+      "zmniejszenie wielkości FoV i zwiększenie matrycy obrazującej.",
+      "zwiększenie wielkości FoV i zwiększenie matrycy obrazującej.",
+      "zmniejszenie wielkości FoV i zmniejszenie matrycy obrazującej.",
+      "zwiększenie wielkości FoV i zmniejszenie matrycy obrazującej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 63,
+    "text": "W jakiej pozycji układa się pacjenta do standardowego badania MR kręgosłupa szyjnego?",
+    "answers": [
+      "Na brzuchu, nogami do magnesu.",
+      "Na brzuchu, głową do magnesu.",
+      "Na plecach, głową do magnesu.",
+      "Na plecach, nogami do magnesu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 64,
+    "text": "Obiektywną metodą badania słuchu jest audiometria",
+    "answers": [
+      "wysokoczęstotliwościowa.",
+      "mowy.",
+      "tonalna.",
+      "impedancyjna."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 65,
+    "text": "Największa wartość energii promieniowania stosowanego w radioterapii jest generowana przy użyciu",
+    "answers": [
+      "przyspieszacza liniowego.",
+      "radioaktywnego cezu-137.",
+      "aparatu rentgenowskiego.",
+      "aparatu kobaltowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 66,
+    "text": "Jak określa się rekonstrukcję obrazów TK, której wynikiem są obrazy dwuwymiarowe tworzone w dowolnej płaszczyźnie przez wtórną obróbkę zestawionych ze sobą wielu przekrojów poprzecznych?",
+    "answers": [
+      "Cieniowanych powierzchni SSD.",
+      "Maksymalnej intensywności MIP.",
+      "Odwzorowania objętości VTR.",
+      "Wielopłaszczyznowa MPR."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 67,
+    "text": "Do wykonania stomatologicznego zdjęcia rentgenowskiego techniką kąta prostego promień centralny należy ustawić prostopadle do",
+    "answers": [
+      "dwusiecznej kąta zawartego między filmem a osią zęba.",
+      "płaszczyzny zgryzu.",
+      "linii Campera.",
+      "filmu rentgenowskiego i osi długiej zęba."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 68,
+    "text": "Nieostrość geometryczna obrazu rentgenowskiego zależy od",
+    "answers": [
+      "wielkości ziarna luminoforu folii wzmacniającej.",
+      "grubości emulsji błony rentgenowskiej.",
+      "wielkości ogniska optycznego.",
+      "ilości promieniowania rozproszonego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 69,
+    "text": "Co jest przyczyną artefaktu widocznego na obrazie MR?",
+    "answers": [
+      "Ruch narządu lub pacjenta.",
+      "Pulsacyjny przepływ krwi.",
+      "Zjawisko zaniku sygnału.",
+      "Zjawisko zawijania fazy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obraz22.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 70,
+    "text": "W pozytonowej emisyjnej tomografii komputerowej PET radioznacznik podawany jest pacjentowi najczęściej",
+    "answers": [
+      "domięśniowo.",
+      "doodbytniczo.",
+      "doustnie.",
+      "dożylnie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 71,
+    "text": "Który narząd został uwidoczniony na przedstawionym obrazie scyntygraficznym?",
+    "answers": [
+      "Wątroba.",
+      "Płuca.",
+      "Trzustka.",
+      "Serce."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obraz23.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 72,
+    "text": "Promieniowanie jonizujące pośrednio to`",
+    "answers": [
+      "promieniowanie α",
+      "promieniowanie β+",
+      "promieniowanie γ",
+      "promieniowanie β-"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 73,
+    "text": "Droga przewodnictwa powietrznego fali akustycznej przebiega przez",
+    "answers": [
+      "ucho środkowe, ucho wewnętrzne i kości czaszki.",
+      "ucho zewnętrzne, ucho środkowe i ucho wewnętrzne.",
+      "ucho wewnętrzne i kości czaszki.",
+      "ucho zewnętrzne, ucho środkowe i kości czaszki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 74,
+    "text": "W badaniu MR nadgarstka w ułożeniu na supermana pacjent leży na",
+    "answers": [
+      "brzuchu, głową do magnesu, a badana kończyna jest wyciągnięta wzdłuż tułowia.",
+      "plecach, głową do magnesu, a badana kończyna jest wyciągnięta za głową.",
+      "brzuchu, głową do magnesu, a badana kończyna jest wyciągnięta za głową.",
+      "plecach, głową do magnesu, a badana kończyna jest wyciągnięta wzdłuż tułowia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 75,
+    "text": "W badaniu EKG punktem przyłożenia odprowadzenia przedsercowego C2 jest",
+    "answers": [
+      "IV międzyżebrze przy prawym brzegu mostka.",
+      "rzut koniuszka serca.",
+      "okolica wyrostka mieczykowatego.",
+      "IV międzyżebrze przy lewym brzegu mostka."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 76,
+    "text": "Odprowadzenie EKG mierzące różnicę potencjałów między lewym podudziem a prawym przedramieniem oznacza się jako",
+    "answers": [
+      "aVL",
+      "III",
+      "aVF",
+      "II"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 77,
+    "text": "W badaniu MR czas repetycji TR jest parametrem określającym odstęp czasu między",
+    "answers": [
+      "dwoma kolejnymi impulsami pobudzającymi RF90°",
+      "dwoma kolejnymi impulsami pobudzającymi RF180°",
+      "impulsem inwersji 90° a czasem powstania sygnału (echa).",
+      "impulsem inwersji 180° a czasem powstania sygnału (echa)."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 78,
+    "text": "Jak oznacza się w radioterapii obszar tkanek zawierający GTV i mikrorozsiewy w fazie niewykrywalnej klinicznie?",
+    "answers": [
+      "CTV",
+      "TV",
+      "PTV",
+      "IV"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 79,
+    "text": "Parametr spirometryczny czynnościowa pojemność zalegająca oznaczany jest skrótem",
+    "answers": [
+      "TLC",
+      "FRC",
+      "RV",
+      "TV"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 80,
+    "text": "Do zdjęcia rentgenowskiego kręgosłupa piersiowego w projekcji AP pacjenta należy ułożyć",
+    "answers": [
+      "na plecach, tak by promień centralny padał na środek mostka.",
+      "na brzuchu, tak by promień centralny padał na rękojeść mostka.",
+      "na plecach, tak by promień centralny padał na wyrostek mieczykowaty mostka.",
+      "na brzuchu, tak by promień centralny padał nieco powyżej mostka."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 81,
+    "text": "Które środki kontrastujące wykorzystywane są w diagnostyce rezonansem magnetycznym?",
+    "answers": [
+      "Środki na bazie siarczanu baru.",
+      "Środki na bazie gadolinu.",
+      "Jodowe, nierozpuszczalne w wodzie.",
+      "Jodowe, rozpuszczalne w wodzie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 82,
+    "text": "Folia wzmacniająca umieszczona w kasecie rentgenowskiej emituje pod wpływem promieniowania X światło",
+    "answers": [
+      "ultrafioletowe, umożliwiające zmniejszenie dawki promieniowania do wykonania badania.",
+      "widzialne, wymagające zwiększenia dawki promieniowania do wykonania badania.",
+      "widzialne, umożliwiające zmniejszenie dawki promieniowania do wykonania badania.",
+      "ultrafioletowe, wymagające zwiększenia dawki promieniowania do wykonania badania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 83,
+    "text": "Na radiogramie stopy strzałką wskazano kość",
+    "answers": [
+      "klinowatą boczną.",
+      "łódkowatą.",
+      "sześcienną.",
+      "klinowatą przyśrodkową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_radiogram19.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 84,
+    "text": "Zamieszczony rentgenogram został zarejestrowany podczas wykonania",
+    "answers": [
+      "angiografii nerkowej TK.",
+      "angiografii nerkowej.",
+      "urografii.",
+      "urografii TK."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_rentgenogram4.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 85,
+    "text": "W jaki sposób należy ustawić promień centralny w stosunku do ramienia i przedramienia, by wykonać zdjęcie rentgenograficzne stawu łokciowego u pacjenta z przykurczem?",
+    "answers": [
+      "Prostopadle do kości ramiennej.",
+      "Prostopadle do kości promieniowej.",
+      "W dwusiecznej kąta zawartego między ramieniem a przedramieniem.",
+      "W dwusiecznej kąta zawartego między kasetą a kością ramienną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 86,
+    "text": "W standardowym badaniu EEG elektrody P3, P4 i Pz umieszcza się na skórze głowy pacjenta nad",
+    "answers": [
+      "płatami potylicznymi.",
+      "korą płatów czołowych.",
+      "płatami ciemieniowymi.",
+      "płatami skroniowymi."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 87,
+    "text": "Na ilustracji przedstawiono pozycjonowanie pacjentki do badania mammograficznego w projekcji",
+    "answers": [
+      "kleopatry.",
+      "dolinowej.",
+      "skośnej.",
+      "stycznej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_pozycjonowanie.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 88,
+    "text": "Zadaniem technika elektroradiologa w pracowni naczyniowej jest",
+    "answers": [
+      "przygotowanie niezbędnych narzędzi.",
+      "przygotowanie cewników.",
+      "wprowadzenie cewnika w światło naczyń.",
+      "nadzorowanie czynności aparatury rentgenowskiej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 89,
+    "text": "Obrazowanie w sekwencjach STIR, FLAIR, SE wykonywane jest w badaniu",
+    "answers": [
+      "PET",
+      "TK",
+      "USG",
+      "MR"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 90,
+    "text": "W medycznym przyspieszaczu liniowym jest generowana wiązka fotonów o energii w zakresie",
+    "answers": [
+      "1 ÷ 3 MeV",
+      "4 ÷ 25 MeV",
+      "50 ÷ 100 MeV",
+      "0,1 ÷ 0,5 MeV"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 91,
+    "text": "Na radiogramie stawu barkowego strzałką wskazano",
+    "answers": [
+      "guzek mniejszy kości ramiennej.",
+      "wyrostek barkowy łopatki.",
+      "wyrostek kruczy łopatki.",
+      "guzek większy kości ramiennej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_radiogram18.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 92,
+    "text": "Na ilustracji przedstawiono zjawisko",
+    "answers": [
+      "tworzenia par.",
+      "emisji fotonu.",
+      "fotoelektryczne.",
+      "anihilacji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_rycina2.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 93,
+    "text": "Glukoza podawana pacjentowi w badaniu PET jest znakowana radioaktywnym",
+    "answers": [
+      "torem.",
+      "fluorem.",
+      "technetem.",
+      "fosforem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 94,
+    "text": "W pozytonowej tomografii emisyjnej PET zostaje zarejestrowane promieniowanie powstające podczas",
+    "answers": [
+      "anihilacji pary elektron-pozyton.",
+      "rozpraszania culombowskiego.",
+      "anihilacji pary proton-antyproton.",
+      "rozpraszania comptonowskiego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 95,
+    "text": "Do zdjęcia rentgenowskiego żeber przednich w projekcji skośnej pacjenta należy ustawić",
+    "answers": [
+      "tyłem do lampy rentgenowskiej, stroną badaną oddaloną od kasety.",
+      "tyłem do lampy rentgenowskiej, stroną badaną bliżej kasety.",
+      "przodem do lampy rentgenowskiej, stroną badaną oddaloną od kasety.",
+      "przodem do lampy rentgenowskiej, stroną badaną bliżej kasety."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 96,
+    "text": "Którą strukturę anatomiczną uwidoczniono na zamieszczonym obrazie USG?",
+    "answers": [
+      "Pęcherz moczowy z kamieniami.",
+      "Pęcherzyk żółciowy z kamieniami.",
+      "Nerkę lewą ze złogami.",
+      "Ciężarną macicę z czterema płodami."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obraz5.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 97,
+    "text": "Na obrazie MR kręgosłupa lędźwiowego strzałką wskazano",
+    "answers": [
+      "osteofit na poziomie L4-L5",
+      "przepuklinę na poziomie L2-L3",
+      "przepuklinę na poziomie L4-L5",
+      "osteofit na poziomie L2-L3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obraz35.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 98,
+    "text": "W celu wyeliminowania zakłóceń obrazu MR przez sygnały pochodzące z tkanki tłuszczowej, stosuje się",
+    "answers": [
+      "obrazowanie T1 - zależne.",
+      "sekwencje FLAIR.",
+      "obrazowanie PD - zależne.",
+      "sekwencje STIR."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 99,
+    "text": "Podczas wykonywania zdjęcia rentgenowskiego lewobocznego czaszki promień centralny powinien przebiegać",
+    "answers": [
+      "od prawej do lewej strony czaszki, prostopadle do płaszczyzny czołowej.",
+      "od prawej do lewej strony czaszki, prostopadle do płaszczyzny strzałkowej.",
+      "od lewej do prawej strony czaszki, prostopadle do płaszczyzny czołowej.",
+      "od lewej do prawej strony czaszki, prostopadle do płaszczyzny strzałkowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 100,
+    "text": "Zgodnie z procedurą wzorcową w badaniu MR należy ułożyć pacjenta na brzuchu do diagnostyki",
+    "answers": [
+      "jamy brzusznej.",
+      "stawu barkowego.",
+      "kręgosłupa szyjnego.",
+      "gruczołu piersiowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 101,
+    "text": "Brachyterapia wewnątrzjamowa jest wykorzystywana podczas leczenia nowotworu",
+    "answers": [
+      "krtani.",
+      "piersi.",
+      "gałki ocznej.",
+      "szyjki macicy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 102,
+    "text": "Który typ głowicy ultrasonograficznej przedstawiono na ilustracji?",
+    "answers": [
+      "Sektorową.",
+      "Konweksową.",
+      "Liniową.",
+      "Endokawitarną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_glowica.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 103,
+    "text": "„Ognisko zimne” w obrazie scyntygraficznym określa się jako",
+    "answers": [
+      "obszar gromadzący znacznik jak reszta miąższu.",
+      "zmianę o większej aktywności hormonalnej.",
+      "obszar niegromadzący radioznacznika.",
+      "zmianę najczęściej o charakterze łagodnym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 104,
+    "text": "W systemie międzynarodowym czwarty górny ząb mleczny po stronie lewej oznacza się symbolem",
+    "answers": [
+      "74",
+      "24",
+      "14",
+      "64"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 105,
+    "text": "Na obrazie radiologicznym nadgarstka uwidoczniono złamanie nasady",
+    "answers": [
+      "bliższej kości łokciowej.",
+      "dalszej kości ramiennej.",
+      "bliższej kości ramiennej.",
+      "dalszej kości promieniowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obraz29.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 106,
+    "text": "W których projekcjach wykonuje się standardowe badanie mammograficzne?",
+    "answers": [
+      "Kaudokranialnej i zrotowanej.",
+      "Kaudokranialnej i skośnej przyśrodkowo-bocznej.",
+      "Kraniokaudalnej i zrotowanej.",
+      "Kraniokaudalnej i skośnej przyśrodkowo-bocznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 107,
+    "text": "Do badania MR nadgarstka pacjenta należy ułożyć",
+    "answers": [
+      "na brzuchu, badana ręka ułożona wzdłuż ciała.",
+      "na plecach, badana ręka ułożona wzdłuż ciała.",
+      "na brzuchu, badana ręka wyciągnięta ponad głowę.",
+      "na plecach, badana ręka wyciągnięta ponad głowę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 108,
+    "text": "Zdjęcie rentgenowskie nadgarstka w przywiedzeniu dołokciowym jest wykonywane w celu uwidocznienia kości",
+    "answers": [
+      "grochowatej.",
+      "łódeczkowatej.",
+      "haczykowatej.",
+      "księżycowatej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 109,
+    "text": "W leczeniu izotopowym tarczycy podaje się",
+    "answers": [
+      "doustnie emiter promieniowania alfa.",
+      "doustnie emiter promieniowania beta.",
+      "dożylnie emiter promieniowania alfa.",
+      "dożylnie emiter promieniowania beta."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 110,
+    "text": "Na radiogramie TK głowy strzałką wskazano",
+    "answers": [
+      "zatokę klinową.",
+      "zbiornik wielki.",
+      "zatokę sitową.",
+      "przegrodę nosową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_radiogram17.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 111,
+    "text": "Objawem późnego odczynu popromiennego po teleradioterapii jest",
+    "answers": [
+      "rumień i swędzenie skóry.",
+      "zwłóknienie skóry.",
+      "brak apetytu.",
+      "wymioty i biegunka."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 112,
+    "text": "Wskazaniem do wykonania scyntygrafii perfuzyjnej płuc jest",
+    "answers": [
+      "gruźlica płuc.",
+      "zatorowość płucna.",
+      "ciężkie nadciśnienie płucne.",
+      "ropień płuca."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 113,
+    "text": "Na obrazie rezonansu magnetycznego głowy strzałką wskazano zatokę",
+    "answers": [
+      "szczękową.",
+      "strzałkową.",
+      "czołową.",
+      "klinową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obraz30.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 114,
+    "text": "Pielografia to badanie układu",
+    "answers": [
+      "płciowego.",
+      "moczowego.",
+      "limfatycznego.",
+      "pokarmowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 115,
+    "text": "Zarejestrowany na obrazie TK artefakt jest spowodowany",
+    "answers": [
+      "ruchem mimowolnym.",
+      "wysokim stężeniem środka cieniującego.",
+      "nieliniowym osłabieniem wiązki.",
+      "metalowym implantem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_artefakt.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 116,
+    "text": "Ile razy i jak zmieni się wartość natężenia promieniowania X przy zwiększeniu odległości OF ze 100 cm do 200 cm?",
+    "answers": [
+      "Dwukrotnie się zwiększy.",
+      "Dwukrotnie się zmniejszy.",
+      "Czterokrotnie się zmniejszy.",
+      "Czterokrotnie się zwiększy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 117,
+    "text": "Podczas wykonywania zdjęcia rentgenowskiego klatki piersiowej w celu ochrony radiologicznej pacjenta należy zastosować",
+    "answers": [
+      "półfartuch ołowiowy założony z tyłu pacjenta.",
+      "fartuch ołowiowy założony z przodu pacjenta.",
+      "półfartuch ołowiowy założony z przodu pacjenta.",
+      "fartuch ołowiowy założony z tyłu pacjenta."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 118,
+    "text": "Standardowe badanie USG średniej wielkości piersi wykonuje się głowicą w zakresie częstotliwości",
+    "answers": [
+      "7,5-15 MHz",
+      "4,5-7 MHz",
+      "2-3,5 MHz",
+      "0,5-1 MHz"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 119,
+    "text": "Na ilustracji przedstawiono ułożenie pacjenta do zdjęcia rentgenowskiego",
+    "answers": [
+      "grzbietowo-dłoniowego kości śródręcza.",
+      "bocznego kciuka.",
+      "bocznego kości śródręcza.",
+      "dłoniowo-grzbietowego kciuka."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_ulozenie2.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 120,
+    "text": "Chorobą układu oddechowego typu obturacyjnego jest",
+    "answers": [
+      "mukowiscydoza.",
+      "gruźlica płuc.",
+      "sarkoidoza.",
+      "pylica płuc."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 121,
+    "text": "Świeżo wynaczyniona krew na obrazach TK głowy bez podania środka kontrastowego ukazuje się jako obszar",
+    "answers": [
+      "normodensyjny.",
+      "hipodensyjny.",
+      "hiperdensyjny.",
+      "izodensyjny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 122,
+    "text": "Parametr SNR w obrazowaniu MR oznacza",
+    "answers": [
+      "stosunek sygnału do szumu.",
+      "grubość obrazowanej warstwy.",
+      "wielkość pola widzenia.",
+      "rozmiar matrycy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 123,
+    "text": "Do zadań technika elektroradiologa w pracowni hemodynamicznej należy",
+    "answers": [
+      "ustalanie ilości kontrastu.",
+      "podanie operatorowi cewnika.",
+      "przygotowanie stolika zabiegowego.",
+      "dokumentowanie obrazów ICUS."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 124,
+    "text": "Strzykawka automatyczna do podawania kontrastu jest stosowana przy wykonywaniu",
+    "answers": [
+      "histerosalpingografii.",
+      "koronarografii.",
+      "cystografii mikcyjnej.",
+      "wlewu doodbytniczego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 125,
+    "text": "Który detektor w radiografii wymaga laserowego czytnika obrazu?",
+    "answers": [
+      "Detektor selenowy.",
+      "Płyta fosforowa.",
+      "Detektor krzemowy.",
+      "Błona halogenosrebrowa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 126,
+    "text": "Która sekwencja w obrazowaniu MR jest stosowana do uwidocznienia naczyń krwionośnych?",
+    "answers": [
+      "TOF",
+      "DWI",
+      "EPI",
+      "STIR"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 127,
+    "text": "Którą strukturę anatomiczną i w jakiej projekcji uwidoczniono na radiogramie?",
+    "answers": [
+      "Guz piętowy w projekcji osiowej.",
+      "Wyrostek dziobiasty w projekcji skośnej.",
+      "Staw kolanowy w projekcji tunelowej.",
+      "Wyrostek łokciowy w projekcji osiowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_radiogram21.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 128,
+    "text": "Na wykresie EKG zaznaczono",
+    "answers": [
+      "odcinek PQ",
+      "odstęp PQ",
+      "odcinek ST",
+      "odstęp QT"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_wykres.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 129,
+    "text": "Wskazaniem do zastosowania brachyterapii w leczeniu radykalnym jest rak",
+    "answers": [
+      "jajnika.",
+      "nerki.",
+      "szyjki macicy.",
+      "jamy ustnej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 130,
+    "text": "W radioterapii hadronowej leczenie odbywa się przy użyciu",
+    "answers": [
+      "aparatu rentgenowskiego.",
+      "mobetronu.",
+      "aparatu kobaltowego.",
+      "cyklotronu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 131,
+    "text": "Na radiogramie żuchwy uwidoczniono złamanie w okolicy",
+    "answers": [
+      "lewego wyrostka kłykciowego.",
+      "lewej gałęzi żuchwy.",
+      "prawego wyrostka kłykciowego.",
+      "prawej gałęzi żuchwy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_radiogram20.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 132,
+    "text": "Na obrazie uwidoczniono złamanie kompresyjne kręgu",
+    "answers": [
+      "Th12",
+      "L1",
+      "L2",
+      "Th11"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obraz31.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 133,
+    "text": "Który radioizotop jest stosowany w scyntygrafii perfuzyjnej mózgu?",
+    "answers": [
+      "123J",
+      "94mTc",
+      "99mTc",
+      "131J"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 134,
+    "text": "Podczas badania gammakamerą źródłem promieniowania jest",
+    "answers": [
+      "detektor.",
+      "pacjent.",
+      "fotopowielacz.",
+      "kolimator."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 135,
+    "text": "Testy podstawowe z zakresu geometrii pola rentgenowskiego, przeznaczone do sprawdzenia zgodności pola wiązki promieniowania rentgenowskiego z symulacją świetlną, są wykonywane raz",
+    "answers": [
+      "w roku.",
+      "w kwartale.",
+      "w tygodniu.",
+      "w miesiącu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 136,
+    "text": "Na scyntygramie tarczycy został uwidoczniony guzek",
+    "answers": [
+      "gorący w płacie lewym.",
+      "zimny w płacie prawym.",
+      "gorący w płacie prawym.",
+      "zimny w płacie lewym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_scyntygram4.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 137,
+    "text": "Ilustracja przedstawia pozycjonowanie pacjentki do badania mammograficznego w projekcji",
+    "answers": [
+      "kleopatry.",
+      "dolinowej.",
+      "bocznej.",
+      "stycznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_pozycjonowanie2.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 138,
+    "text": "Który radiofarmaceutyk może zostać podany pacjentowi w scyntygrafii perfuzyjnej mózgu?",
+    "answers": [
+      "Tc-99m MDP",
+      "I-131 NaI",
+      "I-123 NaI",
+      "Tc-99m HMPAO"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 139,
+    "text": "Który radioizotop jest emiterem promieniowania alfa?",
+    "answers": [
+      "18F",
+      "131I",
+      "223Ra",
+      "99mTc"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 140,
+    "text": "Zamieszczone na ilustracji obrazy dotyczą badania",
+    "answers": [
+      "audiometrycznego.",
+      "scyntygraficznego.",
+      "densytometrycznego.",
+      "dopplerowskiego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obrazy.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 141,
+    "text": "Na przedstawionym radiogramie TK głowy strzałką zaznaczono",
+    "answers": [
+      "zatokę sitową.",
+      "zbiornik wielki.",
+      "zatokę klinową.",
+      "przegrodę nosową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_radiogram17.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 142,
+    "text": "Które ciało obce w obszarze badania nie stanowi przeciwwskazania do wykonania MR?",
+    "answers": [
+      "Wszczepiony rozrusznik serca.",
+      "Metalowy opiłek w oku.",
+      "Tytanowa endoproteza stawu biodrowego.",
+      "Wszczepiony stymulator układu nerwowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 143,
+    "text": "W celu oceny wieku kostnego u dziecka praworęcznego, wykonuje się pojedyncze zdjęcie w projekcji",
+    "answers": [
+      "P-A ręki lewej.",
+      "P-A ręki prawej.",
+      "A-P ręki lewej.",
+      "A-P ręki prawej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 144,
+    "text": "Które zdjęcie RTG stawu łokciowego zostało wykonane w projekcji skośnej w rotacji zewnętrznej?",
+    "answers": [
+      "Zdjęcie 2.",
+      "Zdjęcie 4.",
+      "Zdjęcie 3.",
+      "Zdjęcie 1."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_zdjecia3.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 145,
+    "text": "Na zamieszczonej ilustracji przedstawiono ułożenie pacjenta do wykonania zdjęcia rentgenowskiego",
+    "answers": [
+      "stopy.",
+      "śródstopia.",
+      "palców stopy.",
+      "kości piętowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_ulozenie.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 146,
+    "text": "Na zamieszczonym obrazie RM nadgarstka lewego strzałką wskazano kość",
+    "answers": [
+      "księżycowatą.",
+      "łódeczkowatą.",
+      "haczykowatą.",
+      "główkowatą."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obraz11.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 147,
+    "text": "W obrazowaniu MR do uwidocznienia naczyń krwionośnych jest stosowana sekwencja",
+    "answers": [
+      "STIR",
+      "TOF",
+      "EPI",
+      "DWI"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 148,
+    "text": "W badaniu EKG elektrodę przedsercową V4 należy umocować",
+    "answers": [
+      "w 5-tej przestrzeni międzyżebrowej w linii pachowo-przedniej lewej.",
+      "w 4-tej przestrzeni międzyżebrowej przy lewym brzegu mostka.",
+      "w 4-tej przestrzeni międzyżebrowej przy prawym brzegu mostka.",
+      "w 5-tej przestrzeni międzyżebrowej w linii środkowo-obojczykowej lewej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 149,
+    "text": "W przedstawionym na ilustracji obrazie badania angiograficznego uwidoczniono",
+    "answers": [
+      "cystę mózgu.",
+      "tętniaka naczyń mózgowych.",
+      "guza mózgu.",
+      "stenozę naczyń mózgowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obraz39.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 150,
+    "text": "W badaniu EEG elektrody referencyjne przymocowane do płatka ucha to",
+    "answers": [
+      "P3, P4",
+      "Fp1,Fp2",
+      "A1, A2",
+      "C3, C4"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 151,
+    "text": "Która przyczyna spowodowała powstanie artefaktu widocznego na zamieszczonym obrazie MR?",
+    "answers": [
+      "Nieprawidłowa kalibracja aparatu.",
+      "Zły dobór cewki gradientowej.",
+      "Niejednorodność pola magnetycznego.",
+      "Wymiary obiektu przekroczyły pole widzenia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_artefakt2.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 152,
+    "text": "Kryterium rozpoznawczym dla fali δ (delta) w badaniu EKG jest",
+    "answers": [
+      "obniżenie odcinka ST.",
+      "zazębienie na ramieniu wstępującym załamka R.",
+      "zazębienie na ramieniu zstępującym załamka R.",
+      "uniesienie odcinka ST."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 153,
+    "text": "Na zamieszczonym rentgenogramie strzałką zaznaczono",
+    "answers": [
+      "rozszczep łuku.",
+      "kręgozmyk kręgu L5 względem S1.",
+      "dyskopatię L5 – S1.",
+      "przerwanie ciągłości łuku."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_rentgenogram3.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 154,
+    "text": "Na zamieszczonym przekroju poprzecznym TK kręgosłupa szyjnego strzałką wskazano",
+    "answers": [
+      "guzek tylny kręgu szczytowego.",
+      "ząb kręgu obrotowego.",
+      "rdzeń kręgowy.",
+      "otwór kręgu szczytowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_przekroj4.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 155,
+    "text": "W systemie międzynarodowym ząb pierwszy przedtrzonowy po stronie lewej oznacza się symbolem",
+    "answers": [
+      "24",
+      "84",
+      "14",
+      "54"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 156,
+    "text": "W technice napromieniania SSD mierzona jest odległość źródła promieniowania od",
+    "answers": [
+      "napromienianego guza.",
+      "punktu zdefiniowanego na skórze pacjenta.",
+      "stołu aparatu terapeutycznego.",
+      "izocentrum aparatu terapeutycznego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 157,
+    "text": "Głowica typu convex w USG służy do badania",
+    "answers": [
+      "układu mięśniowo-szkieletowego.",
+      "gruczołu piersiowego.",
+      "tarczycy.",
+      "jamy brzusznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 158,
+    "text": "Na zamieszczonym obrazie radiologicznym nadgarstka strzałką wskazano kość",
+    "answers": [
+      "łódeczkowatą.",
+      "księżycowatą.",
+      "grochowatą.",
+      "haczykowatą."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obraz15.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 159,
+    "text": "Na obrazie rezonansu magnetycznego strzałką wskazano patologiczny kręg",
+    "answers": [
+      "L1",
+      "Th10",
+      "L3",
+      "Th8"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obraz7.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 160,
+    "text": "Dobierz dla standardowego pacjenta projekcję, pozycję i sposób ułożenia kasety o wymiarach 30 cm x 40 cm do zdjęcia przeglądowego układu moczowego.",
+    "answers": [
+      "2, 4, 5",
+      "1, 4, 6",
+      "1, 3, 5",
+      "2, 3, 6"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_tabela2.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 161,
+    "text": "Przy ułożeniu do zdjęcia kręgów szyjnych CIII-CVII w projekcji przednio-tylnej lampa może być odchylona o kąt",
+    "answers": [
+      "10÷15° dogłowowo.",
+      "40÷45° doogonowo.",
+      "10÷15° doogonowo.",
+      "40÷45° dogłowowo."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 162,
+    "text": "Którą strukturę anatomiczną oznaczono na zamieszczonym obrazie rezonansu magnetycznego?",
+    "answers": [
+      "Guzek mniejszy kości ramiennej.",
+      "Guzek większy kości ramiennej.",
+      "Głowę kości ramiennej.",
+      "Trzon kości ramiennej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obraz8.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 163,
+    "text": "Brachyterapia polegająca na wielokrotnym wsuwaniu i wysuwaniu źródła promieniowania do tego samego aplikatora nosi nazwę",
+    "answers": [
+      "MDR",
+      "HDR",
+      "LDR",
+      "PDR"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 164,
+    "text": "W systemie międzynarodowym czwarty górny ząb mleczny po stronie prawej oznacza się symbolem",
+    "answers": [
+      "84",
+      "24",
+      "14",
+      "54"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 165,
+    "text": "Przedstawiony obraz został zarejestrowany podczas wykonania",
+    "answers": [
+      "tomografii komputerowej.",
+      "badania radioizotopowego.",
+      "rezonansu magnetycznego.",
+      "pozytronowej tomografii emisyjnej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obraz38.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 166,
+    "text": "Technik elektroradiolog do badania MR kręgosłupa lędźwiowego powinien ułożyć pacjenta",
+    "answers": [
+      "na plecach, głową do magnesu, ręce za głową.",
+      "na brzuchu, nogami do magnesu, ręce za głową.",
+      "na brzuchu, nogami do magnesu, ręce wzdłuż tułowia.",
+      "na plecach, głową do magnesu, ręce wzdłuż tułowia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 167,
+    "text": "Ligand stosuje się",
+    "answers": [
+      "w rezonansie magnetycznym jako środek kontrastujący pozytywny.",
+      "w medycynie nuklearnej jako nośnik radiofarmceutyku.",
+      "w radiologii klasycznej jako środek kontrastujący negatywny.",
+      "w radiologii klasycznej jako środek kontrastujący pozytywny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 168,
+    "text": "W badaniu PET stosuje się tylko radioizotopy emitujące",
+    "answers": [
+      "neutrony.",
+      "elektrony.",
+      "pozytony.",
+      "cząstki alfa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 169,
+    "text": "W leczeniu izotopowym tarczycy należy podać",
+    "answers": [
+      "dożylnie emiter promieniowania beta.",
+      "doustnie emiter promieniowania beta.",
+      "doustnie emiter promieniowania alfa.",
+      "dożylnie emiter promieniowania alfa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 170,
+    "text": "Na zamieszczonym obrazie TK strzałką zaznaczono zatokę",
+    "answers": [
+      "czołową w przekroju czołowym.",
+      "szczękową w przekroju czołowym.",
+      "czołową w przekroju strzałkowym.",
+      "szczękową w przekroju strzałkowym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obraz6.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 171,
+    "text": "Hiperfrakcjonowanie dawki w radioterapii oznacza napromienienie pacjenta",
+    "answers": [
+      "2-3 razy w tygodniu.",
+      "raz w tygodniu.",
+      "2-3 razy dziennie.",
+      "raz dziennie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 172,
+    "text": "Rytm alfa i beta rejestruje się podczas badania",
+    "answers": [
+      "EKG",
+      "USG",
+      "EEG",
+      "HSG"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 173,
+    "text": "W standardowym badaniu elektrokardiograficznym elektrodę C4 należy umieścić",
+    "answers": [
+      "w V międzyżebrzu w linii środkowo-obojczykowej lewej.",
+      "w V międzyżebrzu w linii przedniej pachowej.",
+      "w IV międzyżebrzu przy lewym brzegu mostka.",
+      "w IV międzyżebrzu przy prawym brzegu mostka."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 174,
+    "text": "Parametrem krwi, który powinien zostać oznaczony u pacjenta przed wykonaniem badania MR z kontrastem jest",
+    "answers": [
+      "kreatynina.",
+      "bilirubina.",
+      "fibrynogen.",
+      "hemoglobina."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 175,
+    "text": "Przyczyną zaniku kostnego jest",
+    "answers": [
+      "utrata macierzy kostnej.",
+      "duży i częsty wysiłek.",
+      "przedawkowanie spożycia wapnia.",
+      "nadmiar witaminy D3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 176,
+    "text": "Na zamieszczonym radiogramie strzałką oznaczono kość",
+    "answers": [
+      "łódkowatą.",
+      "sześcienną.",
+      "łódeczkowatą.",
+      "grochowatą."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_radiogram3.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 177,
+    "text": "Które odprowadzenie elektrokardiograficzne przedstawiono na ilustracji?",
+    "answers": [
+      "Odprowadzenie aVL",
+      "Odprowadzenie I",
+      "Odprowadzenie II",
+      "Odprowadzenie aVR"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_odprowadzenie.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 178,
+    "text": "W sekwencji echa spinowego obraz T2-zależny uzyskuje się przy czasie repetycji TR",
+    "answers": [
+      "od 500 ms do 700 ms",
+      "poniżej 400 ms",
+      "powyżej 2 000 ms",
+      "od 800 ms do 900 ms"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 179,
+    "text": "Skrótem HRCT (High Resolution Computed Tomography) określa się tomografię komputerową",
+    "answers": [
+      "wysokiej rozdzielczości.",
+      "wiązki stożkowej 3D.",
+      "spiralną.",
+      "wielorzędową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 180,
+    "text": "Pomiaru impedancji akustycznej ucha środkowego dokonuje się podczas badania",
+    "answers": [
+      "tympanometrycznego.",
+      "otoemisji akustycznych.",
+      "audiometrii tonalnej.",
+      "potencjałów wywołanych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 181,
+    "text": "Szczytowy przepływ wydechowy zarejestrowany w trakcie badania maksymalnie natężonego wydechu jest oznaczany skrótem",
+    "answers": [
+      "PIF",
+      "FRC",
+      "PEF",
+      "FVC"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 182,
+    "text": "Na którym obrazie rentgenowskim sutka uwidoczniono zmianę patologiczną w obrębie węzłów chłonnych?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obrazy9.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 183,
+    "text": "Na radiogramie uwidoczniono złamanie",
+    "answers": [
+      "trzonu kości łokciowej.",
+      "nasady dalszej kości promieniowej.",
+      "nasady dalszej kości łokciowej.",
+      "trzonu kości promieniowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_zlamanie4.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 184,
+    "text": "Na przekroju poprzecznym TK kręgosłupa szyjnego strzałką wskazano",
+    "answers": [
+      "guzek tylny kręgu szczytowego.",
+      "rdzeń kręgowy.",
+      "otwór kręgu szczytowego.",
+      "ząb kręgu obrotowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_przekroj2.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 185,
+    "text": "Wskaż przyczynę powstania artefaktu widocznego na obrazie MR.",
+    "answers": [
+      "Wymiary obiektu przekroczyły pole widzenia.",
+      "Błędny dobór cewki gradientowej.",
+      "Nieprawidłowa kalibracja aparatu.",
+      "Niejednorodność pola magnetycznego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_artefakt2.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 186,
+    "text": "Artefakty zarejestrowane na elektrokardiogramie zostały wywołane przez",
+    "answers": [
+      "stymulator serca.",
+      "uszkodzone przewody.",
+      "nieprawidłowe przyłożenie elektrody.",
+      "silne drżenie mięśniowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_elektrokardiogram7.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 187,
+    "text": "Na przekroju poprzecznym TK mózgu strzałką wskazano obszar",
+    "answers": [
+      "hyperdensyjny w móżdżku.",
+      "hyperdensyjny w płacie czołowym.",
+      "hypodensyjny w móżdżku.",
+      "hypodensyjny w płacie czołowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_przekroj3.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 188,
+    "text": "Wskazaniem do wykonania scyntygrafii perfuzyjnej jest",
+    "answers": [
+      "ciężkie nadciśnienie płucne.",
+      "zapalenie płuc.",
+      "ropień płuca.",
+      "zatorowość płucna."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 189,
+    "text": "Pomiar densytometryczny BMD metodą DXA z kręgosłupa powinien obejmować kręgi",
+    "answers": [
+      "Th11 - L2",
+      "L1 - L4",
+      "Th9 - Th12",
+      "L3 - S1"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 190,
+    "text": "W której technice obrazowania zostają zarejestrowane jednocześnie dwa przeciwbieżne kwanty promieniowania gamma o równej energii 511 keV?",
+    "answers": [
+      "Tomografii emisyjnej pojedynczego fotonu.",
+      "Scyntygrafii dynamicznej.",
+      "Tomografii komputerowej.",
+      "Pozytonowej tomografii emisyjnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 191,
+    "text": "Na ilustracji przedstawiono przygotowanie pacjenta do badania",
+    "answers": [
+      "EMG",
+      "EEG",
+      "ERG",
+      "KTG"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_przygotowania.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 192,
+    "text": "Który program wtórnej rekonstrukcji obrazów TK pozwala na odwzorowanie wnętrza jelita grubego, tchawicy i oskrzeli?",
+    "answers": [
+      "Rekonstrukcja wielopłaszczyznowa MPR.",
+      "Wirtualna endoskopia VE.",
+      "Prezentacja trójwymiarowa 3D.",
+      "Projekcja maksymalnej intensywności MIP."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 193,
+    "text": "Na obrazie scyntygrafii perfuzyjnej serca strzałką wskazano ścianę",
+    "answers": [
+      "przednią serca.",
+      "boczną serca.",
+      "przegrodową serca.",
+      "dolną serca."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obraz37.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 194,
+    "text": "Na którym obrazie MR jest widoczne pasmo saturacji?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obrazy10.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 195,
+    "text": "Który system informatyczny jest wykorzystywany do archiwizowania i przesyłania obrazów na stacje diagnostyczne w standardzie DICOM?",
+    "answers": [
+      "HIS",
+      "HER",
+      "PACS",
+      "RIS"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 196,
+    "text": "Na scyntygramie tarczycy uwidoczniono guzek",
+    "answers": [
+      "zimny w płacie lewym.",
+      "gorący w płacie lewym.",
+      "zimny w płacie prawym.",
+      "gorący w płacie prawym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_scyntygram4.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 197,
+    "text": "Technik elektroradiolog do badania MR kręgosłupa lędźwiowego powinien ułożyć pacjenta:",
+    "answers": [
+      "na plecach, głową do magnesu, ręce wzdłuż tułowia.",
+      "na brzuchu, nogami do magnesu, ręce wzdłuż tułowia.",
+      "na plecach, głową do magnesu, ręce za głową.",
+      "na brzuchu, nogami do magnesu, ręce za głową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 198,
+    "text": "Parametrem krwi, który powinien zostać oznaczony u pacjenta przed wykonaniem badania MR z kontrastem, jest",
+    "answers": [
+      "hemoglobina.",
+      "kreatynina.",
+      "fibrynogen.",
+      "bilirubina."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 199,
+    "text": "Powierzchnia gabinetu rentgenowskiego, w którym zainstalowany jest aparat rentgenowski wyposażony w oddzielną lampę, nie może być mniejsza niż",
+    "answers": [
+      "15 m2",
+      "10 m2",
+      "18 m2",
+      "20 m2"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 200,
+    "text": "Na obrazie ultrasonograficznym jamy brzusznej strzałką wskazano",
+    "answers": [
+      "pęcherzyk żółciowy.",
+      "wątrobę.",
+      "nerkę.",
+      "ogon trzustki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obraz33.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 201,
+    "text": "W standardowym badaniu EEG elektrody P3, P4 i Pz umieszcza się na skórze głowy pacjenta nad płatami",
+    "answers": [
+      "czołowymi.",
+      "potylicznymi.",
+      "skroniowymi.",
+      "ciemieniowymi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 202,
+    "text": "W badaniu EKG odprowadzenie I rejestruje różnicę potencjałów między",
+    "answers": [
+      "prawym a lewym przedramieniem.",
+      "prawym przedramieniem a lewym podudziem.",
+      "prawym podudziem a lewym przedramieniem.",
+      "prawym a lewym podudziem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 203,
+    "text": "W celu wykonania badania scyntygraficznego układu kostnego radiofarmaceutyk należy podać pacjentowi",
+    "answers": [
+      "dożylnie.",
+      "domięśniowo.",
+      "podskórnie.",
+      "doustnie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 204,
+    "text": "Na obrazie TK kręgosłupa strzałką wskazano wyrostek",
+    "answers": [
+      "kolczysty.",
+      "stawowy.",
+      "poprzeczny.",
+      "żebrowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obraz27.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 205,
+    "text": "Kolonoskopia to badanie, które ma na celu ocenę błony śluzowej",
+    "answers": [
+      "dwunastnicy.",
+      "żołądka.",
+      "jelita grubego.",
+      "jelita cienkiego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 206,
+    "text": "W przypadku migotania komór w zapisie EKG występuje",
+    "answers": [
+      "wysoki załamek Q.",
+      "regularna fala sinusoidalna.",
+      "wysoki załamek T.",
+      "nieregularna fala w kształcie sinusoidy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 207,
+    "text": "W zapisie EKG zespół QRS odzwierciedla",
+    "answers": [
+      "wyłącznie depolaryzację mięśnia komór.",
+      "wyłącznie repolaryzację mięśnia komór.",
+      "repolaryzację mięśnia przedsionków i mięśnia komór.",
+      "depolaryzację mięśnia przedsionków i mięśnia komór."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 208,
+    "text": "Przedstawiony obraz został zarejestrowany podczas wykonywania",
+    "answers": [
+      "badania radioizotopowego.",
+      "rezonansu magnetycznego.",
+      "tomografii komputerowej.",
+      "pozytonowej tomografii emisyjnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obraz32.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 209,
+    "text": "Jak zgodnie ze standardem należy ustawić pacjenta do badania rentgenowskiego w skosie tylnym prawym?",
+    "answers": [
+      "Tyłem do kasety, lewa strona przylega do kasety, prawa strona odwiedziona od kasety.",
+      "Tyłem do kasety, prawa strona przylega do kasety, lewa strona odwiedziona od kasety.",
+      "Przodem do kasety, lewa strona przylega do kasety, prawa strona odwiedziona od kasety.",
+      "Przodem do kasety, prawa strona przylega do kasety, lewa strona odwiedziona od kasety."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 210,
+    "text": "Wskazaniem do wykonania badania spirometrycznego jest",
+    "answers": [
+      "przewlekła choroba obturacyjna płuc.",
+      "krwioplucie niejasnego pochodzenia.",
+      "zapalenie płuc.",
+      "odma opłucnowa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 211,
+    "text": "Podczas teleradioterapii piersi lewej narządem krytycznym jest",
+    "answers": [
+      "trzustka.",
+      "nerka.",
+      "wątroba.",
+      "serce."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 212,
+    "text": "W badaniu PET CT wykorzystuje się radioizotopy emitujące promieniowanie",
+    "answers": [
+      "alfa.",
+      "beta minus.",
+      "gamma.",
+      "beta plus."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 213,
+    "text": "Rumień skóry pojawiający się podczas radioterapii jest objawem",
+    "answers": [
+      "późnego odczynu miejscowego.",
+      "ostrego odczynu ogólnoustrojowego.",
+      "ostrego odczynu miejscowego.",
+      "późnego odczynu ogólnoustrojowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 214,
+    "text": "W których projekcjach podstawowych wykonuje się standardowe badanie mammograficzne?",
+    "answers": [
+      "Skośnej i Kleopatry.",
+      "Kraniokaudalnej i stycznej.",
+      "Kraniokaudalnej i skośnej.",
+      "Stycznej i Kleopatry."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 215,
+    "text": "Na elektrokardiogramie strzałki wskazują załamki",
+    "answers": [
+      "Q i P",
+      "R i P",
+      "Q i T",
+      "S i T"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_elektrokardiogram5.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 216,
+    "text": "Na obrazie rezonansu magnetycznego strzałką oznaczono wyrostek kolczysty kręgu",
+    "answers": [
+      "piersiowego w płaszczyźnie strzałkowej.",
+      "szyjnego w płaszczyźnie strzałkowej.",
+      "szyjnego w płaszczyźnie czołowej.",
+      "piersiowego w płaszczyźnie czołowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obraz26.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 217,
+    "text": "Który wynik badania tympanometrycznego potwierdza, że słuch badanego pacjenta jest w granicach normy?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_badania.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 218,
+    "text": "W zapisie EKG załamek U występuje bezpośrednio po załamku",
+    "answers": [
+      "P, u wszystkich pacjentów.",
+      "T, u wszystkich pacjentów.",
+      "T, tylko u niektórych pacjentów.",
+      "P, tylko u niektórych pacjentów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 219,
+    "text": "Podczas którego badania zostały zarejestrowane przedstawione obrazy?",
+    "answers": [
+      "Ultrasonografii tarczycy.",
+      "Scyntygrafii nerek.",
+      "Tomografii nerek.",
+      "Scyntygrafii tarczycy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obrazy8.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 220,
+    "text": "Standardowo do wykonania których zdjęć należy zastosować kratkę przeciwrozproszeniową?",
+    "answers": [
+      "Czaszki i stawu skokowego.",
+      "Jamy brzusznej i stawu łokciowego.",
+      "Czaszki i jamy brzusznej.",
+      "Klatki piersiowej i nadgarstka."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 221,
+    "text": "W której projekcji należy wykonać badanie radiologiczne kręgosłupa lędźwiowego, by na otrzymanym zdjęciu wyrostki kręgów lędźwiowych układały się w charakterystyczny kształt piesków (teriera szkockiego)?",
+    "answers": [
+      "Skośnej.",
+      "PA",
+      "AP",
+      "Bocznej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 222,
+    "text": "Na obrazie radiologicznym uwidoczniono złamanie kości",
+    "answers": [
+      "piszczelowej.",
+      "sześciennej.",
+      "skokowej.",
+      "strzałkowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obraz24.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 223,
+    "text": "W scyntygrafii perfuzyjnej płuc pacjentowi podawany jest radioizotop",
+    "answers": [
+      "123I dożylnie.",
+      "99mTc dożylnie.",
+      "99mTc wziewnie.",
+      "123I wziewnie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 224,
+    "text": "Hiperfrakcjonowanie dawki w teleradioterapii polega na napromienianiu 2 do 3 razy dziennie dawką frakcyjną",
+    "answers": [
+      "mniejszą niż 2 Gy bez zmiany całkowitego czasu leczenia.",
+      "większą niż 2 Gy i wydłużeniu całkowitego czasu leczenia.",
+      "większą niż 2 Gy bez zmiany całkowitego czasu leczenia.",
+      "mniejszą niż 2 Gy i wydłużeniu całkowitego czasu leczenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 225,
+    "text": "Który stan patologiczny został zarejestrowany podczas wykonywania badania EKG?",
+    "answers": [
+      "Migotanie komór.",
+      "Migotanie przedsionków.",
+      "Trzepotanie przedsionków.",
+      "Dodatkowe pobudzenia komorowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_badanie3.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 226,
+    "text": "W zapisie EKG prawidłowego rytmu zatokowego wszystkie załamki P są",
+    "answers": [
+      "dodatnie w odprowadzeniach I, aVR i ujemne w odprowadzeniach II, III.",
+      "ujemne w odprowadzeniach I, II i dodatnie w odprowadzeniu aVR.",
+      "dodatnie w odprowadzeniach I, II i ujemne w odprowadzeniu aVR.",
+      "ujemne w odprowadzeniach I, aVR i dodatnie w odprowadzeniach II, III."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 227,
+    "text": "Która metoda leczenia onkologicznego zaliczana jest do leczenia systemowego?",
+    "answers": [
+      "Brachyterapia.",
+      "Teleradioterapia.",
+      "Chirurgia.",
+      "Chemioterapia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 228,
+    "text": "W audiometrii badanie polegające na maskowaniu (zagłuszaniu) tonów szumem białym to próba",
+    "answers": [
+      "Langenbecka.",
+      "Rinnego.",
+      "Webera.",
+      "Fowlera."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 229,
+    "text": "Którą metodą i w której płaszczyźnie zostało wykonane badanie stawu kolanowego zobrazowane na zdjęciach?",
+    "answers": [
+      "TK, w płaszczyźnie strzałkowej.",
+      "TK, w płaszczyźnie czołowej.",
+      "MR, w płaszczyźnie strzałkowej.",
+      "MR, w płaszczyźnie czołowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_zdjecia.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 230,
+    "text": "Które badanie zostało zarejestrowane na przedstawionym radiogramie?",
+    "answers": [
+      "Jamy brzusznej wykonane poziomą wiązką promieniowania.",
+      "Płuc wykonane metodą Przybylskiego.",
+      "Dróg żółciowych metodą cholangiografii śródoperacyjnej.",
+      "Układu moczowego z użyciem środka kontrastującego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_radiogram13.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 231,
+    "text": "Podczas wykonywania zdjęć wewnątrzustnych zębów górnych linia Campera powinna przebiegać w stosunku do płaszczyzny podłogi",
+    "answers": [
+      "prostopadle.",
+      "pod kątem 30°.",
+      "równolegle.",
+      "pod kątem 50°."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 232,
+    "text": "Które odprowadzenie w badaniu EKG rejestruje różnice potencjałów pomiędzy lewym a prawym przedramieniem?",
+    "answers": [
+      "I",
+      "aVL",
+      "aVR",
+      "III"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 233,
+    "text": "Limfografia to badanie kontrastowe",
+    "answers": [
+      "ślinianek.",
+      "rdzenia kręgowego.",
+      "układu oddechowego.",
+      "układu chłonnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 234,
+    "text": "Na jakim etapie procesu karcynogenezy dochodzi do inwazji miejscowej nowotworu i tworzenia przerzutów odległych?",
+    "answers": [
+      "Inicjacji.",
+      "Konwersji.",
+      "Promocji.",
+      "Progresji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 235,
+    "text": "Który narząd został oznaczony strzałką na obrazie rezonansu magnetycznego?",
+    "answers": [
+      "Śledziona.",
+      "Trzustka.",
+      "Nerka.",
+      "Wątroba."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_obraz25.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 236,
+    "text": "Którą metodą zostało wykonane badanie kręgosłupa zobrazowane na zdjęciu?",
+    "answers": [
+      "Tomografii komputerowej.",
+      "Scyntygrafii statycznej.",
+      "Radiologii klasycznej.",
+      "Rezonansu magnetycznego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_zdjecie.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 237,
+    "text": "Przedstawiony zapis elektrokardiograficzny może wskazywać na",
+    "answers": [
+      "blok lewej odnogi pęczka Hisa.",
+      "zawał tylnej ściany serca.",
+      "blok prawej odnogi pęczka Hisa.",
+      "zawał przedniej ściany serca."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_zapis2.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 238,
+    "text": "W radiologii analogowej lampy rentgenowskiej z tubusem używa się do wykonania zdjęcia",
+    "answers": [
+      "bocznego czaszki.",
+      "wewnątrzustnego zębów.",
+      "osiowego czaszki.",
+      "PA zatok."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 239,
+    "text": "Jak przebiega promień centralny w projekcji AP czaszki?",
+    "answers": [
+      "Od tyłu ku przodowi, prostopadle do płaszczyzny strzałkowej.",
+      "Od przodu ku tyłowi, prostopadle do płaszczyzny strzałkowej.",
+      "Od przodu ku tyłowi, prostopadle do płaszczyzny czołowej.",
+      "Od tyłu ku przodowi, prostopadle do płaszczyzny czołowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 240,
+    "text": "Radiogram jamy brzusznej uwidacznia",
+    "answers": [
+      "złogi w nerkach.",
+      "złogi w pęcherzyku żółciowym.",
+      "połknięte ciało obce.",
+      "perforację przewodu pokarmowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_radiogram14.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 241,
+    "text": "Chirurgiczne operacje cytoredukcyjne stosowane w onkologii mają na celu usunięcie",
+    "answers": [
+      "tylko węzła wartowniczego.",
+      "części nowotworu.",
+      "wszystkich węzłów chłonnych.",
+      "całego nowotworu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 242,
+    "text": "Jak konwencjonalnie frakcjonuje się dawkę w teleradioterapii?",
+    "answers": [
+      "Jeden raz dziennie, przez pięć dni w tygodniu.",
+      "Dwa razy dziennie, przez siedem dni w tygodniu.",
+      "Jeden raz dziennie, przez siedem dni w tygodniu.",
+      "Dwa razy dziennie, przez pięć dni w tygodniu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 243,
+    "text": "Standardowe badanie urografii polega na podaniu pacjentowi środka kontrastującego",
+    "answers": [
+      "dożylnie i wykonaniu serii zdjęć jamy brzusznej w projekcji AP.",
+      "doustnie i wykonaniu jednego zdjęcia jamy brzusznej w projekcji PA.",
+      "dożylnie i wykonaniu jednego zdjęcia jamy brzusznej w projekcji AP.",
+      "doustnie i wykonaniu serii zdjęć jamy brzusznej w projekcji PA."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 244,
+    "text": "Który marker oznaczany jest w badaniach diagnostycznych raka gruczołu krokowego?",
+    "answers": [
+      "CEA",
+      "AFP",
+      "βHCG",
+      "PSA"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 245,
+    "text": "Rak drobnokomórkowy i rak niedrobnokomórkowy to postacie organiczne nowotworów złośliwych",
+    "answers": [
+      "płuc.",
+      "piersi.",
+      "tarczycy.",
+      "prostaty."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 246,
+    "text": "Teleradioterapia 4D na etapie planowania leczenia wykorzystuje obrazy",
+    "answers": [
+      "tomografii komputerowej, wykonane w fazie oddechowej.",
+      "tomografii komputerowej, wykonane przy wstrzymanym oddechu.",
+      "klasycznej rentgenografii, wykonane przy wstrzymanym oddechu.",
+      "klasycznej rentgenografii, wykonane w fazie oddechowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 247,
+    "text": "Źródłem promieniowania protonowego stosowanego w radioterapii jest",
+    "answers": [
+      "cyklotron.",
+      "przyspieszacz liniowy.",
+      "cyberknife.",
+      "bomba kobaltowa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 248,
+    "text": "Skrótem CTV w radioterapii oznacza się",
+    "answers": [
+      "zaplanowany obszar napromieniania.",
+      "obszar guza.",
+      "obszar leczony.",
+      "kliniczny obszar napromieniania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 249,
+    "text": "Który artefakt uwidoczniono na skanie RM głowy?",
+    "answers": [
+      "Zawijanie obrazu.",
+      "Przesunięcie chemiczne.",
+      "Efekt uśrednienia.",
+      "Poruszenie pacjenta."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_skan4.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 250,
+    "text": "Do zdjęcia rentgenowskiego żeber w projekcji skośnej tylnej pacjenta należy ustawić",
+    "answers": [
+      "przodem do lampy rentgenowskiej, stroną badaną bliżej kasety.",
+      "tyłem do lampy rentgenowskiej, stroną badaną bliżej kasety.",
+      "przodem do lampy rentgenowskiej, stroną badaną oddaloną od kasety.",
+      "tyłem do lampy rentgenowskiej, stroną badaną oddaloną od kasety."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 251,
+    "text": "Które informacje należy zamieścić na strzykawce z radiofarmaceutykiem przygotowanym przez technika elektroradiologa?",
+    "answers": [
+      "Czas okresu inkubacji, stężenie, inicjały technika.",
+      "Czas okresu inkubacji, radioaktywność, inicjały technika.",
+      "Typ radiofarmaceutyku, radioaktywność, godzina przygotowania.",
+      "Typ radiofarmaceutyku, stężenie, godzina przygotowania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 252,
+    "text": "Które zaburzenie rytmu serca zarejestrowano na elektrokardiogramie?",
+    "answers": [
+      "Blok prawej odnogi pęczka Hisa.",
+      "Częstoskurcz komorowy.",
+      "Migotanie przedsionków.",
+      "Blok przedsionkowo-komorowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med08/z21_elektrokardiogram6.png"
+    },
+    "category": "MED.08"
+  },
+  {
+    "id": 253,
+    "text": "Badanie gęstości mineralnej kości metodą DXA należy wykonać",
+    "answers": [
+      "z bliższego końca kości udowej.",
+      "z bliższego końca kości strzałkowej.",
+      "z dalszego końca kości strzałkowej.",
+      "z dalszego końca kości udowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 254,
+    "text": "W scyntygrafii wykorzystywane są głównie radioizotopy emitujące promieniowanie",
+    "answers": [
+      "gamma.",
+      "beta.",
+      "neutronowe.",
+      "alfa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 255,
+    "text": "Audiometria impedancyjna polega na pomiarze",
+    "answers": [
+      "przewodnictwa kostnego.",
+      "oporu akustycznego i ciśnienia w uchu środkowym.",
+      "oporu akustycznego i ciśnienia w uchu zewnętrznym.",
+      "przewodnictwa powietrznego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 256,
+    "text": "Podczas badania EEG w systemie „10-20” literą A oznacza się elektrody",
+    "answers": [
+      "pośrodkowe.",
+      "skroniowe.",
+      "móżdżkowe.",
+      "uszne."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.08"
+  },
+  {
+    "id": 257,
+    "text": "Fotostymulacja wykonywana jest podczas badania",
+    "answers": [
+      "ENG",
+      "KTG",
+      "EEG",
+      "EMG"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.08"
+  }
+]
