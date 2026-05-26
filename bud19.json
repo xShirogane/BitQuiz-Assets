@@ -1,0 +1,4287 @@
+[
+  {
+    "id": 1,
+    "text": "Wskaż atrybut, którym opisuje się oznaczenie klasy bonitacyjnej w zbiorze danych ewidencji gruntów i budynków.",
+    "answers": [
+      "OZU",
+      "OKU",
+      "OZK",
+      "OFU"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 2,
+    "text": "Jakim kolorem należy nanieść wyniki wywiadu terenowego na kopii mapy zasadniczej?",
+    "answers": [
+      "Czarnym.",
+      "Zielonym.",
+      "Czerwonym.",
+      "Brązowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 3,
+    "text": "Na którym rysunku przedstawiono fragment mapy klasyfikacji?",
+    "answers": [
+      "Na rysunku 4.",
+      "Na rysunku 1.",
+      "Na rysunku 2.",
+      "Na rysunku 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_mapy2.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 4,
+    "text": "Kiedy wyznaczone punkty graniczne wymagają ponownego pomiaru w oparciu o geodezyjną lub pomiarową osnowę poziomą?",
+    "answers": [
+      "Zawsze po zamarkowaniu lub zastabilizowaniu wyznaczonych punktów granicznych.",
+      "Tylko w przypadku odtwarzania pomiarowej osnowy poziomej.",
+      "Jeżeli punkty graniczne zostały wyznaczone na podstawie wskazań właściciela.",
+      "Zawsze po wyznaczeniu punktów granicznych na podstawie sprzecznych dokumentów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 5,
+    "text": "Geodeta nie zna adresu zamieszkania właściciela działki, której granice będą ustalane. Jak długo powinno być wywieszone zawiadomienie o czynnościach ustalenia przebiegu granic działek ewidencyjnych na tablicy ogłoszeń w starostwie?",
+    "answers": [
+      "Co najmniej przez 14 dni.",
+      "Co najmniej przez 7 dni.",
+      "Co najmniej przez 21 dni.",
+      "Co najmniej przez 30 dni."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 6,
+    "text": "W którym dziale księgi wieczystej nieruchomości gruntowej znajdują się dane przedstawione w tabeli?",
+    "answers": [
+      "IV",
+      "III",
+      "I",
+      "II"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_tabela11.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 7,
+    "text": "Kto upoważnia geodetę do przeprowadzenia czynności rozgraniczeniowych, w sytuacji przedstawionej na rysunku?",
+    "answers": [
+      "Wojewoda Mazowiecki.",
+      "Właściciel działki 10.",
+      "Właściciel działki 11.",
+      "Wójt Gminy Olszanka."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_rysunek9.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 8,
+    "text": "Czego dotyczy przedstawiony fragment protokołu granicznego?",
+    "answers": [
+      "Oświadczenia strony dotyczącego przebiegu granic.",
+      "Wyniku wywiadu terenowego.",
+      "Opisu sposobu ustalenia oraz przebiegu ustalonych granic.",
+      "Oceny dokumentów stanowiących podstawę ustalenia przebiegu granic."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_protokol9.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 9,
+    "text": "Geodeta wykonuje połączenie działek nr 880/13, 881/13 i 881/14 przedstawionych na zamieszczonym fragmencie mapy. Numer 881/14 stanowi ostatni numer działki w obrębie. Który numer powinna mieć nadany działka po połączeniu?",
+    "answers": [
+      "882",
+      "881/15",
+      "880/14",
+      "900"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_mapa9.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 10,
+    "text": "Nieruchomość może zostać wywłaszczona na rzecz gminy, jeżeli jest niezbędna na cel budowy",
+    "answers": [
+      "prywatnego ośrodka zdrowia.",
+      "stacji benzynowej.",
+      "pawilonu handlowego.",
+      "publicznego przedszkola."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 11,
+    "text": "Na podstawie fragmentu miejscowego planu zagospodarowania przestrzennego wskaż przeznaczenie działki ewidencyjnej o numerze 163.",
+    "answers": [
+      "Obszar usług komercyjnych.",
+      "Obszar mieszkaniowo - usługowy.",
+      "Obszar urządzeń komunikacyjnych - parkingi.",
+      "Obszar usług publicznych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_plan4.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 12,
+    "text": "Nieprzekraczalna data doręczenia właścicielom działek przedstawionego zawiadomienia, o czynnościach podjętych w celu ustalenia przebiegu granic działek ewidencyjnych, upływa",
+    "answers": [
+      "09.02.2026 r.",
+      "17.01.2026 r.",
+      "09.01.2026 r.",
+      "05.02.2026 r."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_zawiadomienie3.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 13,
+    "text": "Wykonanie terenowej weryfikacji oraz geodezyjnych pomiarów uzupełniających w odniesieniu do zmienionych konturów użytków gruntowych, jest przeprowadzane w ramach",
+    "answers": [
+      "inwentaryzacji ewidencji gruntów i budynków.",
+      "klasyfikacji gleboznawczej gruntów.",
+      "ustalenia przebiegu granic.",
+      "modernizacji ewidencji gruntów i budynków."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 14,
+    "text": "Geodezyjny pomiar sytuacyjny punktów i znaków granicznych powinien zapewniać określenie ich położenia w stosunku do osnowy geodezyjnej 1 klasy z błędem średnim nieprzekraczającym * Zdający otrzymuje punkt niezależnie od udzielonej odpowiedzi.",
+    "answers": [
+      "0,30 m \nB. 0,40 m \nC. 0,50 m \nD. 0,60 m"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 15,
+    "text": "W przedstawionym identyfikatorze działki ewidencyjnej cyfra oznaczona kolorem czerwonym określa 040101_1.0003.925",
+    "answers": [
+      "kod gminy.",
+      "kod powiatu.",
+      "typ gminy.",
+      "typ powiatu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 16,
+    "text": "Które wymiary nowo wydzielonej działki na terenie zabudowy mieszkaniowej jednorodzinnej i zagrodowej w gminie Kęty, zgodnie z Uchwałą Nr XXVII/319/06, spełniają warunek realizacji zabudowy na tej działce?",
+    "answers": [
+      "23 × 25 m",
+      "21 × 31 m",
+      "18 × 30 m",
+      "22 × 27 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_uchwala.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 17,
+    "text": "Jeżeli punkty graniczne są ujawnione w ewidencji gruntów i budynków, jednak nie były w przeszłości przedmiotem stabilizacji, to należy wykonać ich",
+    "answers": [
+      "wznowienie.",
+      "wyznaczenie.",
+      "aktualizację.",
+      "modernizację."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 18,
+    "text": "Na podstawie przedstawionego rysunku wskaż numery działek, których właścicieli należy zawiadomić o czynnościach przyjęcia granic nieruchomości nr 28 objętej podziałem, jeżeli brak jest dokumentacji zawierającej wiarygodne dane dotyczące przebiegu granicy tej nieruchomości.",
+    "answers": [
+      "26, 27, 28, 29, 98, 99 i 612",
+      "28, 29, 99 i 612",
+      "26, 27, 29, 98, 99 i 612",
+      "28, 29 i 612"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_rysunek8.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 19,
+    "text": "W jakich jednostkach i z jaką precyzją zapisu należy wpisać pole powierzchni działki w Wykazie zmian danych ewidencyjnych, stanowiących załącznik do mapy z projektem podziału nieruchomości?",
+    "answers": [
+      "0,0001 ha",
+      "0,0001 m2",
+      "0,01 m2",
+      "0,01 ha"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 20,
+    "text": "Osobą odpowiedzialną za złożenie we właściwym sądzie wniosku o ujawnienie w księdze wieczystej przystąpienia do scalenia i podziału nieruchomości jest",
+    "answers": [
+      "wójt.",
+      "właściciel nieruchomości.",
+      "użytkownik nieruchomości.",
+      "geodeta."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 21,
+    "text": "Co należy wpisać w przeglądarce ksiąg wieczystych w polu oznaczonym cyfrą 2 na przedstawionym widoku okna dialogowego, jeżeli szukana księga wieczysta ma numer RZ1Z/00035879/1?",
+    "answers": [
+      "00035879/1",
+      "RZ1Z/00035879/1",
+      "RZ1Z",
+      "00035879"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_okno.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 22,
+    "text": "Przedstawiony fragment wypełnionego formularza to część",
+    "answers": [
+      "aktu ugody.",
+      "protokołu granicznego.",
+      "wezwania do stawienia się na gruncie.",
+      "zgłoszenia pracy geodezyjnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_formularz3.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 23,
+    "text": "Które oznaczenie użytku wymaga uzupełnienia o klasyfikację gleboznawczą gruntów?",
+    "answers": [
+      "Br",
+      "Bp",
+      "Ba",
+      "Bi"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 24,
+    "text": "Na podstawie informacji zawartych w tabeli określ, od którego z uczestników scalenia nie jest wymagana zgoda w związku z różnicą powierzchni wydzielonych gruntów.",
+    "answers": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_tabela12.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 25,
+    "text": "Którego dokumentu nie sporządza się w obecności stron podczas rozgraniczenia nieruchomości?",
+    "answers": [
+      "Wykazu zmian danych ewidencyjnych.",
+      "Aktu ugody.",
+      "Szkicu granicznego.",
+      "Protokołu granicznego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 26,
+    "text": "W arkuszu danych ewidencyjnych dotyczących lokalu mieszkalnego, którego rzut przedstawiono na rysunku, w pozycji: Pole powierzchni użytkowej w m2, należy wpisać",
+    "answers": [
+      "56,54",
+      "66,44",
+      "57,24",
+      "58,54"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_rzut.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 27,
+    "text": "Geodeta wykonał inwentaryzację powykonawczą na działce nr 879. Który symbol rodzaju użytku gruntowego powinien wpisać w kolumnie OFU w przedstawionym fragmencie Wykazu zmian danych ewidencyjnych dotyczących tej działki dla terenu przedstawionego na ilustracji?",
+    "answers": [
+      "Ba",
+      "Bi",
+      "Bz",
+      "Bp"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_wykaz2.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 28,
+    "text": "Osobom które otrzymały nowe nieruchomości, wydzielone w wyniku scalenia i podziału, została naliczona opłata adiacencka z tytułu wzrostu wartości nieruchomości. Ustaloną kwotę osoby te powinny zapłacić",
+    "answers": [
+      "uprawnionemu geodecie.",
+      "powiatowi.",
+      "gminie.",
+      "Skarbowi Państwa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 29,
+    "text": "Graficznym dokumentem sporządzanym podczas czynności ustalenia przebiegu granic działek ewidencyjnych obrazującym usytuowanie punktów granicznych jest",
+    "answers": [
+      "wyrys z mapy ewidencyjnej.",
+      "wypis z mapy ewidencyjnej.",
+      "szkic sytuacyjny.",
+      "szkic graniczny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 30,
+    "text": "Jak nazywa się szkic przedstawiony na rysunku?",
+    "answers": [
+      "Szkic graniczny.",
+      "Szkic inwentaryzacyjny.",
+      "Szkic tyczenia.",
+      "Szkic dokumentacyjny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_szkic5.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 31,
+    "text": "Na którym rysunku została przedstawiona sytuacja, w której należy zrealizować podział działki nr 122 w trybie postępowania administracyjnego i zatwierdzić w drodze decyzji projekt podziału tej nieruchomości?",
+    "answers": [
+      "Na rysunku 1.",
+      "Na rysunku 3.",
+      "Na rysunku 2.",
+      "Na rysunku 4."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_rysunki4.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 32,
+    "text": "W którym przypadku geodeta ma obowiązek odroczyć wykonanie czynności ustalenia przebiegu granic i zawiadomić o tym właściwy organ?",
+    "answers": [
+      "Jedna ze stron jest nieobecna i nie usprawiedliwiła swojej nieobecności.",
+      "Stroną postępowania jest osoba niepełnoletnia i jest reprezentowana przez pełnomocnika.",
+      "Nie jest możliwe ustalenie osób uprawnionych do wystąpienia jako strona.",
+      "Strony kwestionują przebieg granicy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 33,
+    "text": "Podczas których prac geodezyjnych nie sporządza się protokołu, którego przykład przedstawiono w tabeli?",
+    "answers": [
+      "Modernizacji ewidencji gruntów i budynków.",
+      "Aktualizacji operatu ewidencyjnego.",
+      "Postępowania rozgraniczeniowego.",
+      "Zakładania ewidencji gruntów i budynków."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_protokol11.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 34,
+    "text": "Wywłaszczana na rzecz Skarbu Państwa nieruchomość gruntowa nr 167 stanowi własność gminy i jest dodatkowo obciążona służebnością gruntową na rzecz właściciela nieruchomości nr 166. Odszkodowanie za wywłaszczenie nieruchomości nr 167 otrzyma",
+    "answers": [
+      "tylko Marcin Król.",
+      "gmina i spółka „Nowy dom”.",
+      "tylko gmina.",
+      "tylko spółka „Nowy dom”."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_mapa24.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 35,
+    "text": "Pani Zofia Kowalska, właścicielka nieruchomości nr 500, przekazała prawo własności do tej nieruchomości swojemu synowi Janowi Kowalskiemu w zamian za dożywotnie utrzymanie. Które działy przedstawionej księgi wieczystej ulegną zmianie?",
+    "answers": [
+      "I i III",
+      "II i III",
+      "I i II",
+      "II i IV"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_protokol4.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 36,
+    "text": "W którym oknie dialogowym programu do graficznego tworzenia map przedstawiono parametry linii do narysowania służebności gruntowej na mapie do celów prawnych?",
+    "answers": [
+      "W oknie 1.",
+      "W oknie 2.",
+      "W oknie 4.",
+      "W oknie 3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_okna.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 37,
+    "text": "Na podstawie fragmentu mapy wskaż klasoużytki wchodzące w skład działki ewidencyjnej nr 209/2?",
+    "answers": [
+      "LsV, ŁV i PsV",
+      "RV, ŁV i PsV",
+      "ŁV, LsV, PsV i Lz-PsV",
+      "ŁV, LsV, PsV i LzV"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_mapa21.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 38,
+    "text": "Przedstawione opracowanie to",
+    "answers": [
+      "wykaz synchronizacyjny.",
+      "mapa z projektem podziału nieruchomości.",
+      "miejscowy plan zagospodarowania przestrzennego.",
+      "wstępny projekt podziału nieruchomości."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_opracowanie2.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 39,
+    "text": "Na podstawie zamieszczonych w tabeli przeliczników powierzchni użytków rolnych oraz wypisu z rejestru gruntów i wzoru, określ rodzaj i klasę bonitacyjną użytku gruntowego działki nr 415 położonej w IV okręgu podatkowym, której powierzchnia w hektarach przeliczeniowych wynosi 1,5250 ha. Wzór: ha przeliczeniowe = ha fizyczne × przelicznik klasy gleby",
+    "answers": [
+      "ŁIII",
+      "RIIIb",
+      "RIIIa",
+      "PsII"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_tabela10.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 40,
+    "text": "Które użytki gruntowe oznaczane są w ewidencji gruntów i budynków symbolem literowym Ba?",
+    "answers": [
+      "Tereny przemysłowe.",
+      "Inne tereny zabudowane.",
+      "Zurbanizowane tereny niezabudowane.",
+      "Tereny mieszkaniowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 41,
+    "text": "Identyfikatory jednostek rejestrowych budynków przyjmują postać",
+    "answers": [
+      "WWPPGG_R.XXXX.GNr",
+      "WWPPGG_R.XXXX.NDZ",
+      "WWPPGG_R.XXXX.LNr",
+      "WWPPGG_R.XXXX.BNr"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 42,
+    "text": "Ocena wartości gleb pod względem użytkowym oraz geneza ich powstania decydują o podziale gleb na",
+    "answers": [
+      "rodzaje.",
+      "klasy bonitacyjne.",
+      "typy.",
+      "klasy przydatności rolniczej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 43,
+    "text": "Wstępny projekt podziału nieruchomości sporządzany jest na kopii mapy",
+    "answers": [
+      "glebowo-rolnej.",
+      "topograficznej.",
+      "zasadniczej.",
+      "sytuacyjnej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 44,
+    "text": "Wypis z rejestru gruntów nie może zostać wydany na wniosek",
+    "answers": [
+      "pełnomocnika właściciela nieruchomości.",
+      "każdej zainteresowanej osoby.",
+      "właściciela nieruchomości.",
+      "osoby mającej interes prawny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 45,
+    "text": "Jeżeli oznaczenie nieruchomości wykazane w ewidencji gruntów i budynków nie jest zgodne z oznaczeniem w księdze wieczystej, należy sporządzić wykaz",
+    "answers": [
+      "zmian danych ewidencyjnych.",
+      "numeracji działek.",
+      "synchronizacyjny.",
+      "zmian gruntowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 46,
+    "text": "Stan prawny nieruchomości, przed przystąpieniem do jej podziału, ustala geodeta na podstawie przedstawionego przez właściciela",
+    "answers": [
+      "odpisu z księgi wieczystej.",
+      "oświadczenia notarialnego.",
+      "dowodu osobistego.",
+      "postanowienia administracyjnego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 47,
+    "text": "Na podstawie przedstawionego fragmentu mapy glebowo-rolniczej wskaż numer konturu, do którego należy kompleks żytni dobry.",
+    "answers": [
+      "12",
+      "39",
+      "5",
+      "58"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_mapa58.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 48,
+    "text": "Odrębną jednostkę rejestrową lokalu w bazie danych ewidencyjnych zakłada się dla",
+    "answers": [
+      "wszystkich lokali stanowiących współwłasność.",
+      "lokali stanowiących odrębną nieruchomość.",
+      "lokali o nieustalonym stanie prawnym.",
+      "wszystkich lokali w obrębie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 49,
+    "text": "Dokumentem stanowiącym podstawę ustalenia przebiegu granicy jest",
+    "answers": [
+      "pisemne oświadczenie właściciela.",
+      "odpis księgi wieczystej.",
+      "szkic graniczny.",
+      "wypis z rejestru gruntów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 50,
+    "text": "Projekt ustalenia klasyfikacji gruntów sporządza",
+    "answers": [
+      "klasyfikator.",
+      "starosta.",
+      "geodeta.",
+      "wójt."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 51,
+    "text": "Jeżeli użytek gruntowy w działce nr 521/1 na mapie ewidencyjnej został oznaczony symbolem literowym S-ŁII, to które z oznaczeń należy wpisać do części opisowej bazy w kolumnie OZK?",
+    "answers": [
+      "Ł",
+      "ŁII",
+      "II",
+      "S"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_tabela17.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 52,
+    "text": "Ustalenia przebiegu granic działek ewidencyjnych dokonuje geodeta na podstawie zgodnych wskazań właścicieli tych działek, potwierdzonych ich podpisami złożonymi w protokole",
+    "answers": [
+      "ustalenia przebiegu granic działek ewidencyjnych.",
+      "z czynności wyznaczenia i utrwalenia nowych punktów granicznych.",
+      "granicznym.",
+      "z czynności wyznaczenia punktów granicznych ujawnionych w ewidencji gruntów i budynków."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 53,
+    "text": "Jakie znaki naziemne nie powinny być użyte do stabilizowania punktów granicznych?",
+    "answers": [
+      "Namalowane.",
+      "Żelbetowe.",
+      "Betonowe.",
+      "Kamienne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 54,
+    "text": "W jakim terminie, od dnia otrzymania zawiadomienia, mogą być zgłaszane przez wnioskodawcę zastrzeżenia do projektu ustalenia klasyfikacji gruntów?",
+    "answers": [
+      "28 dni.",
+      "14 dni.",
+      "60 dni.",
+      "30 dni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 55,
+    "text": "Którym symbolem w ewidencji gruntów oznaczane są grunty zajęte pod groble na terenach stawów rybackich?",
+    "answers": [
+      "Wg",
+      "Ws",
+      "W",
+      "Wsr"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 56,
+    "text": "Na przedstawionym fragmencie mapy glebowo-rolniczej czerwoną strzałką wskazano",
+    "answers": [
+      "klasę gruntu ornego.",
+      "numer odkrywki glebowej.",
+      "numer obrębu.",
+      "oznaczenie rodzaju gleby."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_mapa59.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 57,
+    "text": "Nieruchomość może być wywłaszczona tylko na rzecz Skarbu Państwa albo na rzecz",
+    "answers": [
+      "spółdzielni mieszkaniowej.",
+      "byłego właściciela nieruchomości.",
+      "wspólnoty gruntowej.",
+      "jednostki samorządu terytorialnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 58,
+    "text": "Na mapie sporządzonej w skali 1:500 wrysowana została działka o wymiarach 20×24 mm. Ile wynoszą rzeczywiste wymiary tej działki w terenie?",
+    "answers": [
+      "100,00×120,00 m",
+      "20,00×24,00 m",
+      "10,00×12,00 m",
+      "40,00×48,00 m"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 59,
+    "text": "Które numery działek należy wpisać w Wykazie zmian danych ewidencyjnych, w zaznaczonych kolorem czerwonym polach tabeli?",
+    "answers": [
+      "12/1, 12/2",
+      "3/1, 3/2",
+      "10/1, 10/2",
+      "8/1, 8/2"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_wykaz22.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 60,
+    "text": "Do której grupy rejestrowej, w ewidencji gruntów i budynków, zalicza się osoby fizyczne?",
+    "answers": [
+      "Do grupy 7.",
+      "Do grupy 1.",
+      "Do grupy 3.",
+      "Do grupy 10."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 61,
+    "text": "Operat opisowo-kartograficzny w ewidencji gruntów i budynków prowadzony jest dla",
+    "answers": [
+      "każdego konturu klasyfikacyjnego.",
+      "każdego obrębu ewidencyjnego.",
+      "każdego obszaru urbanistycznego w miastach.",
+      "każdej jednostki administracyjnej w miastach."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 62,
+    "text": "Na mapie z projektem podziału nieruchomości nowe granice przedstawia się w kolorze",
+    "answers": [
+      "czarnym.",
+      "brązowym.",
+      "czerwonym.",
+      "zielonym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 63,
+    "text": "Który symbol rodzaju użytku gruntowego należy wpisać w zaznaczonym kolorem czerwonym polu Wykazu zmian danych ewidencyjnych, jeśli budowa drogi publicznej na działce nr 189 została zakończona?",
+    "answers": [
+      "B",
+      "dr",
+      "Ti",
+      "K"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_wykaz21.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 64,
+    "text": "Podczas rozgraniczenia nieruchomości na gruncie została zawarta ugoda, jednak następnego dnia jedna ze stron wycofała zgodę na ustalony przebieg granicy. W tej sytuacji ustalenia spornej granicy powinien dokonać",
+    "answers": [
+      "sąd.",
+      "wojewoda.",
+      "geodeta.",
+      "burmistrz."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 65,
+    "text": "Aktualizacja operatu ewidencyjnego jest dokonywana niezwłocznie od chwili otrzymania przez starostę dokumentów określających zmiany danych ewidencyjnych, ale nie później niż w ciągu",
+    "answers": [
+      "14 dni.",
+      "30 dni.",
+      "7 dni.",
+      "3 dni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 66,
+    "text": "Którego z wymienionych podmiotów nie wykazuje się w ewidencji gruntów i budynków?",
+    "answers": [
+      "Jednostki organizacyjnej sprawującej trwały zarząd nieruchomością.",
+      "Użytkownika wieczystego nieruchomości.",
+      "Właściciela nieruchomości.",
+      "Osoby, której przysługuje lokatorskie spółdzielcze prawo do lokalu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 67,
+    "text": "Co należy wpisać w przeglądarce ksiąg wieczystych w polu oznaczonym cyfrą 3 na zamieszczonym widoku okna dialogowego, jeżeli szukana księga wieczysta ma numer KR1P/00012345/7?",
+    "answers": [
+      "7",
+      "KR1P",
+      "00012345/7",
+      "12345"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_okno3.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 68,
+    "text": "Jak nazywa się metoda obliczania pola powierzchni użytków na podstawie wielkości pozyskanych tylko z mapy?",
+    "answers": [
+      "Graficzna.",
+      "Analityczna.",
+      "Analityczna kombinowana.",
+      "Analityczno-graficzna."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 69,
+    "text": "Który dokument stanowi podstawę wpisu do księgi wieczystej?",
+    "answers": [
+      "Umowa cywilno-prawna sporządzona na piśmie.",
+      "Ugoda zawarta w postępowaniu spadkowym.",
+      "Oświadczenie właściciela.",
+      "Prawomocne orzeczenie sądowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 70,
+    "text": "W przypadku połączenia co najmniej dwóch sąsiadujących działek ewidencyjnych, nowo powstałą działkę oznacza się numerem",
+    "answers": [
+      "większym spośród dotychczasowych numerów działek, stanowiącym ułamek zwykły.",
+      "mniejszym spośród dotychczasowych numerów działek, stanowiącym ułamek zwykły.",
+      "kolejnym, niewykorzystanym w danej jednostce ewidencyjnej, stanowiącym liczbę naturalną.",
+      "kolejnym, niewykorzystanym w danym obrębie, stanowiącym liczbę naturalną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 71,
+    "text": "Z jaką precyzją określa się pole powierzchni działki ewidencyjnej?",
+    "answers": [
+      "0,1 m2",
+      "1 m2",
+      "0,01 m2",
+      "100 m2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 72,
+    "text": "Wskaż fragment mapy, na którym przedstawiono dopuszczalny podział działki rolnej nr 250, z zachowaniem kryterium minimalnej powierzchni oraz dostępu do drogi?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_mapy6.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 73,
+    "text": "Wywłaszczenie nieruchomości następuje za odszkodowaniem na rzecz osoby wywłaszczonej. Wysokość odszkodowania ustala",
+    "answers": [
+      "starosta.",
+      "burmistrz.",
+      "rzeczoznawca majątkowy.",
+      "uprawniony geodeta."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 74,
+    "text": "Po ilu latach od wykonania urządzeń melioracji przeprowadzana jest z urzędu gleboznawcza klasyfikacja gruntów dla terenów zmeliorowanych?",
+    "answers": [
+      "Po 4 latach.",
+      "Po 5 latach.",
+      "Po 3 latach.",
+      "Po 2 latach."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 75,
+    "text": "W którym dziale księgi wieczystej znajdują się zapisy praw dotyczących służebności obciążających nieruchomość?",
+    "answers": [
+      "I-O",
+      "III",
+      "I-Sp",
+      "II"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 76,
+    "text": "Księgi wieczyste prowadzone są przez sądy",
+    "answers": [
+      "rejonowe.",
+      "administracyjne.",
+      "okręgowe.",
+      "apelacyjne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 77,
+    "text": "Wglądu do ksiąg wieczystych może dokonać",
+    "answers": [
+      "każdy zainteresowany.",
+      "tylko właściciel nieruchomości.",
+      "tylko pełnomocnik właściciela nieruchomości.",
+      "tylko rzeczoznawca majątkowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 78,
+    "text": "Minimalne powierzchnie nowo wydzielonych działek określone są",
+    "answers": [
+      "w postanowieniu o warunkach zabudowy i zagospodarowania nieruchomości.",
+      "w decyzji zatwierdzającej wstępny projekt podziału nieruchomości.",
+      "w miejscowym planie zagospodarowania przestrzennego.",
+      "w postanowieniu o wszczęciu postępowania podziałowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 79,
+    "text": "Zgodność projektowanego podziału z miejscowym planem zagospodarowania przestrzennego urząd potwierdza w formie",
+    "answers": [
+      "decyzji.",
+      "postanowienia.",
+      "akceptacji burmistrza.",
+      "pisemnej zgody."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 80,
+    "text": "Na której ilustracji przedstawiono fragment mapy klasyfikacji?",
+    "answers": [
+      "Na ilustracji 3.",
+      "Na ilustracji 2.",
+      "Na ilustracji 4.",
+      "Na ilustracji 1."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_mapy.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 81,
+    "text": "Po dokonaniu czynności scalenia i podziału nieruchomości jej wartość wzrosła z 20 000,00 zł do 25 000,00 zł. Oblicz maksymalną wysokość opłaty adiacenckiej.",
+    "answers": [
+      "5 000,00 zł",
+      "1 000,00 zł",
+      "2 500,00 zł",
+      "1 500,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 82,
+    "text": "W czasie wywiadu terenowego podczas podziału działki nr 19/2 geodeta nie odnalazł dwóch znaków granicznych w miejscach oznaczonych na przedstawionej mapie z wywiadu. Punkty te były ustalone w ramach wcześniejszego opracowania, a w Państwowym Zasobie Geodezyjnym i Kartograficznym istnieją materiały pozwalające na ich odtworzenie. Którą procedurę należy zastosować?",
+    "answers": [
+      "Ustalenie granic.",
+      "Rozgraniczenie nieruchomości.",
+      "Wyznaczenie punktów granicznych.",
+      "Wznowienie znaków granicznych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_mapa22.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 83,
+    "text": "Fragment którego protokołu przedstawiono w ramce?",
+    "answers": [
+      "Przyjęcia granic nieruchomości podlegającej podziałowi.",
+      "Utrwalenia na gruncie nowo wyznaczonych punktów granicznych.",
+      "Wyznaczenia punktów granicznych.",
+      "Ustalenia przebiegu granic działek ewidencyjnych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_protokol6.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 84,
+    "text": "Do trwałej stabilizacji punktów granicznych nie można użyć materiału przedstawionego na",
+    "answers": [
+      "ilustracji 3.",
+      "ilustracji 2.",
+      "ilustracji 1.",
+      "ilustracji 4."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_rysunki2.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 85,
+    "text": "Podczas ustalenia przebiegu granic na gruncie stawił się Adam Król oraz pełnomocnik Pani Anny Gerna. W której kolumnie fragmentu przedstawionego Protokołu ustalenia przebiegu granic działek ewidencyjnych należy dokonać wpisu o ich obecności?",
+    "answers": [
+      "W kol. 09",
+      "W kol. 10",
+      "W kol. 07",
+      "W kol. 05"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_protokol5.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 86,
+    "text": "Jakim kolorem wkreśla się numery nowych działek na mapie z projektem podziału nieruchomości?",
+    "answers": [
+      "Niebieskim.",
+      "Czerwonym.",
+      "Zielonym.",
+      "Czarnym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 87,
+    "text": "Który symbol rodzaju użytku gruntowego należy wpisać w zaznaczonym kolorem czerwonym polu Wykazu zmian danych ewidencyjnych, jeśli budowa drogi publicznej na działce nr 1246 została zakończona?",
+    "answers": [
+      "B",
+      "dr",
+      "Ti",
+      "K"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_wykaz3.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 88,
+    "text": "Który warunek musi być spełniony, aby możliwy był podział nieruchomości gruntowej zabudowanej, powodujący również podział budynku na dwie części?",
+    "answers": [
+      "Budynek ma minimum trzech właścicieli.",
+      "Budynek posiada dwa identyfikatory.",
+      "Budynek posiada dwie kondygnacje nadziemne.",
+      "Budynek spełnia warunki techniczne podziału."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 89,
+    "text": "Na podstawie informacji zawartych w tabeli wskaż numer uczestnika scalenia, któremu bez jego zgody zostały prawidłowo wydzielone grunty po scaleniu.",
+    "answers": [
+      "2",
+      "4",
+      "1",
+      "3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_tabela7.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 90,
+    "text": "Umieszczona w opisie fragmentu mapy glebowo-rolniczej liczba 14 oznacza",
+    "answers": [
+      "numer odkrywki.",
+      "numer konturu.",
+      "klasę bonitacyjną.",
+      "powierzchnię konturu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_mapa56.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 91,
+    "text": "Na podstawie przedstawionej Informacji o działce określ typ gminy, w której położona jest działka 17.",
+    "answers": [
+      "Obszar wiejski w gminie miejsko-wiejskiej.",
+      "Gmina miejska.",
+      "Miasto w gminie miejsko-wiejskiej.",
+      "Gmina miejsko-wiejska."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_informacja.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 92,
+    "text": "Przedstawiona tabela, sporządzona przez geodetę, stanowi fragment wykazu",
+    "answers": [
+      "zmian gruntowych.",
+      "zmian danych ewidencyjnych.",
+      "gruntów.",
+      "synchronizacyjnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_tabela6.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 93,
+    "text": "W przypadku braku dokumentów stwierdzających przebieg granic działek ewidencyjnych granice te wykazuje się w ewidencji na podstawie geodezyjnych pomiarów terenowych lub fotogrametrycznych. Przed wykonaniem tych pomiarów należy przeprowadzić czynności",
+    "answers": [
+      "utrwalenia granic działek ewidencyjnych.",
+      "przyjęcia granic nieruchomości.",
+      "ustalenia przebiegu granic działek ewidencyjnych.",
+      "okazania granic nieruchomości."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 94,
+    "text": "Jak powinien postąpić geodeta, jeśli podczas rozgraniczenia nieruchomości dowody są sprzeczne, a sąsiedzi zgadzają się co do przebiegu granicy według stanu użytkowania?",
+    "answers": [
+      "Spisać ugodę między stronami.",
+      "Wstrzymać postępowanie rozgraniczeniowe.",
+      "Skierować sprawę do sądu.",
+      "Ustalić granice według zgodnego oświadczenia stron."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 95,
+    "text": "Istniejących w terenie punktów granicznych stabilizowanych trwale nie zaznacza się na",
+    "answers": [
+      "szkicu granicznym.",
+      "szkicu polowym.",
+      "mapie topograficznej.",
+      "mapie wywiadu terenowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 96,
+    "text": "Na podstawie przedstawianego fragmentu Protokołu badania księgi wieczystej określ, w którym dziale księgi wieczystej powinien znajdować się zamieszczony opis? PROTOKÓŁ BADANIA KSIĘGI WIECZYSTEJ Nieodpłatna dożywotnia służebność osobista na rzecz Moniki Stal polegająca na prawie korzystania z jednego pokoju, kuchni, przedpokoju i łazienki, znajdujących się na parterze budynku położonego w Nidzicy przy ul. Westerplatte 8.",
+    "answers": [
+      "I-O – OZNACZENIE NIERUCHOMOŚCI",
+      "IV – HIPOTEKA",
+      "II – WŁASNOŚĆ",
+      "III – PRAWA, ROSZCZENIA I OGRANICZENIA"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 97,
+    "text": "Które punkty graniczne ustalone w wyniku czynności ustalenia przebiegu granic działek ewidencyjnych mogą zostać trwale zastabilizowane na koszt zainteresowanych podmiotów?",
+    "answers": [
+      "Punkty graniczne, których położenie wskazały strony.",
+      "Punkty ustalone według zgodnego oświadczenia stron.",
+      "Punkty ustalone według ostatniego spokojnego stanu posiadania.",
+      "Punkty uszkodzone lub zniszczone, których położenie jest sprzeczne z istniejącą dokumentacją."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 98,
+    "text": "W której sytuacji sprawa dotycząca rozgraniczenia nieruchomości przekazywana jest z urzędu do rozpatrzenia sądowi?",
+    "answers": [
+      "Stwierdzono wadliwe wykonanie czynności przez geodetę w trakcie ustalania przebiegu granic.",
+      "Nie została wniesiona zaliczka na pokrycie kosztów wynagrodzenia geodety.",
+      "Wystąpił spór między właścicielami nieruchomości i nie została zawarta ugoda.",
+      "Jedna ze stron nie stawiła się na gruncie w celu ustalenia przebiegu granic."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 99,
+    "text": "Na którym rysunku przedstawiono przykładowe oznaczenie graficzne konturu klasyfikacyjnego?",
+    "answers": [
+      "Na rysunku 1.",
+      "Na rysunku 2.",
+      "Na rysunku 3.",
+      "Na rysunku 4."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_oznaczenia.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 100,
+    "text": "Co należy wpisać w przeglądarce ksiąg wieczystych w polu oznaczonym cyfrą 2 na zamieszczonym widoku okna dialogowego, jeżeli szukana księga wieczysta ma numer RZ1Z/00035879/1?",
+    "answers": [
+      "RZ1Z/00035879/1",
+      "00035879/1",
+      "RZ1Z",
+      "00035879"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_okno.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 101,
+    "text": "W którym dziale księgi wieczystej nieruchomości obciążonej znajdzie się zapis dotyczący służebności przedstawionej na fragmencie mapy zasadniczej?",
+    "answers": [
+      "I-Sp",
+      "III",
+      "I-O",
+      "II"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_mapa14.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 102,
+    "text": "Identyfikator obiektu w postaci WWPPGG_R, gdzie „WW” – kod województwa, „PP” – kod powiatu, „GG” – kod gminy, „R” rodzaj jednostki, w bazie danych ewidencyjnych określa",
+    "answers": [
+      "jednostkę ewidencyjną.",
+      "budynek ewidencyjny.",
+      "obręb ewidencyjny.",
+      "działkę ewidencyjną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 103,
+    "text": "Na mapie sporządzonej w skali 1:500 wrysowana została działka o powierzchni 480 mm2. Ile wynosi rzeczywista powierzchnia tej działki w terenie?",
+    "answers": [
+      "0,0012 ha",
+      "0,2400 ha",
+      "0,0120 ha",
+      "0,0240 ha"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 104,
+    "text": "Graficznym dokumentem sporządzanym podczas czynności ustalenia przebiegu granic działek ewidencyjnych, obrazującym usytuowanie punktów granicznych, jest",
+    "answers": [
+      "wypis z mapy ewidencyjnej.",
+      "szkic graniczny.",
+      "wyrys z mapy ewidencyjnej.",
+      "szkic sytuacyjny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 105,
+    "text": "W ewidencji gruntów i budynków w działce nr 926/2 znajduje się użytek gruntowy RIVb. W terenie stwierdzono zmianę sposobu użytkowania tej działki w związku z zabudowaniem jej domem jednorodzinnym. Które oznaczenia należy wpisać w zaznaczone kolorem czerwonym pola tabeli (kolejno od lewej)?",
+    "answers": [
+      "R, B, −",
+      "R, B, IVb",
+      "R, R, IVb",
+      "B, −, −"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_tabela5.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 106,
+    "text": "Wszczęcie postępowania wywłaszczeniowego należy poprzedzić",
+    "answers": [
+      "wykonaniem rozgraniczenia nieruchomości.",
+      "rokowaniami o nabycie nieruchomości.",
+      "pomiarem granic nieruchomości.",
+      "wykonaniem podziału nieruchomości."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 107,
+    "text": "Na podstawie przedstawionych Szczegółowych zasad i warunków scalenia i podziału nieruchomości objętych planem wskaż, która działka nie może być wydzielona. * Dwie odpowiedzi są prawidłowe. Zaznacz obie, aby otrzymać punkt.",
+    "answers": [
+      "Działka o wymiarach 25×45 m, na terenie zabudowy mieszkaniowej wielorodzinnej.",
+      "Działka o wymiarach 20×40 m, na terenie zabudowy mieszkaniowej jednorodzinnej.",
+      "Działka o wymiarach 35×35 m, na terenie ogródków działkowych.",
+      "Działka o wymiarach 35×40 m, na terenie usług gastronomii."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_ramka3.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 108,
+    "text": "Na co najmniej ile dni przed wyznaczonym terminem podjęcia czynności ustalenia przebiegu granic działek ewidencyjnych należy dostarczyć stronom zawiadomienie o planowanych czynnościach?",
+    "answers": [
+      "7 dni.",
+      "3 dni.",
+      "14 dni.",
+      "21 dni."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 109,
+    "text": "Którym atrybutem opisuje się oznaczenie klasy bonitacyjnej w zbiorze danych ewidencji gruntów i budynków?",
+    "answers": [
+      "OFU",
+      "OZU",
+      "OKU",
+      "OZK"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 110,
+    "text": "Dokumentem potwierdzającym prawo własności do nieruchomości jest",
+    "answers": [
+      "zaświadczenie o płaceniu podatków.",
+      "wypis z katastru nieruchomości.",
+      "odpis z księgi wieczystej.",
+      "ustne oświadczenie właściciela."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 111,
+    "text": "Jeżeli w księdze wieczystej nieruchomość podlegająca podziałowi posiada inną powierzchnię niż w ewidencji gruntów i budynków, to na mapie z projektem podziału nieruchomości należy umieścić wykaz",
+    "answers": [
+      "powierzchni.",
+      "synchronizacyjny.",
+      "zmian danych ewidencyjnych.",
+      "właścicieli i władających."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 112,
+    "text": "Który z dokumentów stanowi podstawę do wprowadzenia zmian w bazie danych ewidencyjnych w związku z rozgraniczeniem nieruchomości?",
+    "answers": [
+      "Decyzja o rozgraniczeniu nieruchomości.",
+      "Sprawozdanie techniczne.",
+      "Operat techniczny.",
+      "Zgłoszenie pracy geodezyjnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 113,
+    "text": "W którym dziale księgi wieczystej, prowadzonej dla nieruchomości służebnej, znajdują się informacje dotyczące służebności gruntowej?",
+    "answers": [
+      "IV",
+      "I",
+      "III",
+      "II"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 114,
+    "text": "Które dokumenty mogą być wykorzystane przy odszukiwaniu w terenie punktów granicznych?",
+    "answers": [
+      "Rejestry gruntów.",
+      "Wykazy gruntów.",
+      "Skorowidze działek.",
+      "Zarysy pomiarowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 115,
+    "text": "Która część identyfikatora działki ewidencyjnej 160412_4.0001.1234 stanowi numer ewidencyjny obrębu ewidencyjnego?",
+    "answers": [
+      "2",
+      "1",
+      "3",
+      "4"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_identyfikator.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 116,
+    "text": "Jeżeli podczas wywiadu terenowego, związanego z przygotowaniem wstępnego projektu podziału geodeta zauważył w terenie szczegóły sytuacyjne, które podlegają pomiarowi i nie są wniesione na mapę, to musi wykonać pomiary",
+    "answers": [
+      "ewidencyjne.",
+      "modernizacyjne.",
+      "okresowe.",
+      "aktualizacyjne."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 117,
+    "text": "Obiekt budowlany zlokalizowany na działce 147/3 to budynek",
+    "answers": [
+      "biurowy.",
+      "magazynowy.",
+      "mieszkalny.",
+      "gospodarczy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_mapa49.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 118,
+    "text": "Położenie punktów granicznych względem najbliżej położonych punktów poziomej osnowy geodezyjnej określa się z dokładnością do",
+    "answers": [
+      "0,20 m",
+      "0,25 m",
+      "0,10 m",
+      "0,15 m"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 119,
+    "text": "Na zamieszczonym fragmencie mapy glebowo-rolniczej czerwoną strzałką wskazano",
+    "answers": [
+      "klasę gruntu ornego.",
+      "numer obrębu.",
+      "oznaczenie rodzaju gleby.",
+      "numer odkrywki glebowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_mapa47.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 120,
+    "text": "Na podstawie fragmentu mapy z projektem podziału nieruchomości rolnej na dwie działki o jednakowej powierzchni i fragmentu wykazu zmian danych ewidencyjnych określ, w której tabeli przedstawiono w sposób prawidłowy zapis stanu nowego.",
+    "answers": [
+      "W tabeli 3.",
+      "W tabeli 4.",
+      "W tabeli 2.",
+      "W tabeli 1."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_projekt3.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 121,
+    "text": "W którym urzędzie można pozyskać aktualny wypis z rejestru gruntów dla nieruchomości położonej w gminie wiejskiej?",
+    "answers": [
+      "W Starostwie Powiatowym.",
+      "W Urzędzie Miasta.",
+      "W Wojewódzkim Ośrodku Dokumentacji.",
+      "W Urzędzie Marszałkowskim."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 122,
+    "text": "Jakim kolorem należy zaznaczyć treści projektowane na mapie do celów prawnych?",
+    "answers": [
+      "Zielonym.",
+      "Brązowym.",
+      "Niebieskim.",
+      "Czerwonym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 123,
+    "text": "Korzystając z danych zawartych w tabeli, oblicz wartość szacunkową konturu o powierzchni 330 000 m2, stanowiącego klasę bonitacyjną V.",
+    "answers": [
+      "6 600 jednostek szacunkowych.",
+      "66 jednostek szacunkowych.",
+      "66 000 jednostek szacunkowych.",
+      "660 jednostek szacunkowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_tabela8.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 124,
+    "text": "W trakcie której pracy geodezyjnej może być zawarta przed geodetą ugoda, która ma moc ugody sądowej?",
+    "answers": [
+      "Scalenia i wymiany gruntów.",
+      "Podziału działki.",
+      "Scalenia i podziału nieruchomości.",
+      "Rozgraniczenia nieruchomości."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 125,
+    "text": "Który gatunek gleby znajduje się na obszarze konturu klasyfikacyjnego oznaczonego na fragmencie mapy czerwoną strzałką?",
+    "answers": [
+      "Piaski luźne.",
+      "Żwiry gliniaste.",
+      "Gliny lekkie.",
+      "Gliny ciężkie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_mapa48.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 126,
+    "text": "Który tytuł należy nadać zamieszczonej mapie, sporządzonej do celów prawnych?",
+    "answers": [
+      "Mapa do ustalenia służebności przesyłu.",
+      "Mapa do ustalenia służebności przejazdu.",
+      "Mapa do ustalenia służebności przegonu.",
+      "Mapa do ustalenia służebności przechodu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_mapa50.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 127,
+    "text": "Na podstawie aktu własności ziemi określ tryb, w którym nastąpiło nabycie prawa własności przez Amalię i Józefa Mleczko.",
+    "answers": [
+      "Nadania.",
+      "Zamiany.",
+      "Dziedziczenia.",
+      "Wywłaszczenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_akt2.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 128,
+    "text": "Na którym rysunku przedstawiono poprawnie zaktualizowaną numeryczną mapę ewidencyjną, jeżeli stwierdzono, że na działce nr 265 nie ma budynku gospodarczego?",
+    "answers": [
+      "Na rysunku 4.",
+      "Na rysunku 2.",
+      "Na rysunku 3.",
+      "Na rysunku 1."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_mapy5.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 129,
+    "text": "Zamieszczony wykaz zmian danych ewidencyjnych dotyczących działki nr 12 zawiera dane ustalone w wyniku",
+    "answers": [
+      "rozgraniczenia nieruchomości.",
+      "podziału nieruchomości.",
+      "scalenia nieruchomości.",
+      "wywłaszczenia nieruchomości."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_wykaz19.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 130,
+    "text": "Podczas czynności odszukiwania znaków granicznych działki nr 123 geodeta stwierdził, że jeden ze znaków został przesunięty. Jeżeli istnieje dokumentacja pozwalająca na określenie pierwotnego położenia tego znaku, to geodeta powinien wykonać",
+    "answers": [
+      "wznowienie znaków granicznych.",
+      "rozgraniczenie nieruchomości.",
+      "tylko scalenie gruntów.",
+      "scalenie i podział nieruchomości."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 131,
+    "text": "Na działce nr 506/10 zakończono budowę oczyszczalni ścieków. Który użytek gruntowy uwzględniający aktualny stan zagospodarowania i użytkowania terenu należy wydzielić w granicach ogrodzenia budynku oczyszczalni?",
+    "answers": [
+      "Ł",
+      "R",
+      "Br",
+      "Ba"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_mapa55.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 132,
+    "text": "Protokół sporządzony w wyniku badania księgi wieczystej dla nieruchomości gruntowej nie zawiera informacji dotyczących",
+    "answers": [
+      "rodzaju nieruchomości.",
+      "wartości szacunkowej działki.",
+      "położenia nieruchomości.",
+      "powierzchni działki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 133,
+    "text": "Która z zasad prowadzenia ewidencji gruntów i budynków zobowiązuje organy prowadzące do sprawdzania zgodności danych ewidencyjnych ze stanem faktycznym i prawnym oraz do wprowadzania wszelkich zaistniałych zmian tych danych?",
+    "answers": [
+      "Jednolitości.",
+      "Aktualności.",
+      "Jawności.",
+      "Wiarygodności."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 134,
+    "text": "Wykonano kalibrację cyfrowego obrazu rastrowego mapy analogowej w skali 1:1000. Na podstawie otrzymanych średnich błędów transformacji oraz fragmentu rozporządzenia określ, która kalibracja wykonana została z prawidłową dokładnością.",
+    "answers": [
+      "1,00 m",
+      "0,76 m",
+      "0,42 m",
+      "0,37 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_ramka3.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 135,
+    "text": "Na podstawie zamieszczonego fragmentu opracowania geodezyjnego określ, które klasoużytki wchodzą w skład działki ewidencyjnej nr 506/7.",
+    "answers": [
+      "PsIV, RV",
+      "RIIIb, RV, ŁIV",
+      "ŁIV, RIIIb",
+      "ŁIV, PsIV, RV"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_opracowanie3.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 136,
+    "text": "Do której klasy bonitacyjnej zaliczane są czarnoziemy, gleby orne najlepsze?",
+    "answers": [
+      "II",
+      "I",
+      "IIIa",
+      "IVb"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 137,
+    "text": "Na podstawie fragmentu miejscowego planu zagospodarowania przestrzennego oraz legendy, określ przeznaczenie działki o numerze 177/2.",
+    "answers": [
+      "Pod zabudowę usługową komercyjną.",
+      "Pod zabudowę mieszkaniową wielorodzinną o podwyższonym standardzie.",
+      "Pod zabudowę wielofunkcyjną mieszkaniowo-usługową.",
+      "Pod zabudowę mieszkaniową jednorodzinną o podwyższonym standardzie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_plan4.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 138,
+    "text": "Jak nazywa się dokument sporządzony przez geodetę w procedurze podziału nieruchomości?",
+    "answers": [
+      "Protokół przyjęcia granic nieruchomości.",
+      "Zestawienie gruntów.",
+      "Akt ugody.",
+      "Opinia geodety."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 139,
+    "text": "Na podstawie którego z wymienionych dokumentów można wprowadzić zmianę w bazie danych katastru nieruchomości podczas aktualizacji tej bazy?",
+    "answers": [
+      "Wykazu działek ewidencyjnych sporządzonego dla danego obrębu.",
+      "Wykazu zmian danych ewidencyjnych załączonego do decyzji o podziale nieruchomości.",
+      "Umowy wstępnej kupna-sprzedaży nieruchomości zawartej przez strony.",
+      "Oświadczenia właściciela nieruchomości o oddaniu jej w użyczenie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 140,
+    "text": "Uprawniony geodeta może wstrzymać czynności ustalenia przebiegu granicy w postępowaniu rozgraniczeniowym w przypadku usprawiedliwionego niestawiennictwa strony na gruncie maksymalnie na okres",
+    "answers": [
+      "7 dni.",
+      "1 miesiąca.",
+      "2 miesięcy.",
+      "14 dni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 141,
+    "text": "W trakcie której z prac geodezyjnych przeprowadza się szacunek porównawczy gruntów?",
+    "answers": [
+      "Wznowienia punktów granicznych.",
+      "Rozgraniczenia nieruchomości.",
+      "Podziału nieruchomości.",
+      "Scalenia gruntów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 142,
+    "text": "Zamieszczony fragment numerycznej księgi wieczystej jest prowadzony dla nieruchomości",
+    "answers": [
+      "budynkowej.",
+      "gruntowej.",
+      "rolnej.",
+      "lokalowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_ksiega6.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 143,
+    "text": "Którym symbolem literowym oznacza się grunty rolne zabudowane?",
+    "answers": [
+      "Br",
+      "Bi",
+      "Ba",
+      "B"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 144,
+    "text": "Zamieszczone opracowanie to",
+    "answers": [
+      "wykaz synchronizacyjny.",
+      "miejscowy plan zagospodarowania przestrzennego.",
+      "wstępny projekt podziału nieruchomości.",
+      "mapa z projektem podziału nieruchomości."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_opracowanie2.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 145,
+    "text": "Po podziale działki ewidencyjnej numer 11 na dwie części, nowopowstałe działki powinny otrzymać numery",
+    "answers": [
+      "12/1, 12/2",
+      "11/2, 11/3",
+      "11/1, 11/2",
+      "12/1, 13/1"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 146,
+    "text": "Na podstawie danych zamieszczonych w tabeli określ, w której sytuacji grunty przed i po scaleniu posiadają równą wartość szacunkową.",
+    "answers": [
+      "W sytuacji III.",
+      "W sytuacji I.",
+      "W sytuacji IV.",
+      "W sytuacji II."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_tabela4.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 147,
+    "text": "W miejscowym planie zagospodarowania terenu działka nr 100 jest w całości przeznaczona na poszerzenie istniejącej drogi. Która praca na pewno nie będzie wykonywana przy wywłaszczeniu tej nieruchomości?",
+    "answers": [
+      "Wznowienie granic.",
+      "Podział działki.",
+      "Rozgraniczenie nieruchomości.",
+      "Regulacja stanu prawnego nieruchomości."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 148,
+    "text": "Na podstawie przedstawionej mapy oraz notatki z wizji terenowej wskaż użytek gruntowy i klasę bonitacyjną, które należy ustalić na działce nr 366 podczas aktualizacji użytków gruntowych ujawnionych w ewidencji gruntów i budynków.",
+    "answers": [
+      "Br-RIVa",
+      "Ba-RIVa",
+      "Ps-PsIV",
+      "S-PsIV"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_mapa8.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 149,
+    "text": "Na przedstawionej mapie klasyfikacji strzałką wskazano oznaczenie",
+    "answers": [
+      "rodzaju gleby.",
+      "rodzaju użytku.",
+      "klasy bonitacyjnej.",
+      "typu gleby."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_mapa19.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 150,
+    "text": "Które punkty graniczne działki powinny zostać trwale zastabilizowane podczas procedury ustalenia granic?",
+    "answers": [
+      "Punkty położone w bliskiej odległości od budynków.",
+      "Wszystkie punkty graniczne.",
+      "Punkty graniczne wybrane przez geodetę.",
+      "Punkty graniczne zgodnie wskazane przez strony."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 151,
+    "text": "Która część identyfikatora działki ewidencyjnej 160412_4.0001.1234 stanowi jej numer?",
+    "answers": [
+      "4",
+      "1",
+      "2",
+      "3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_identyfikator.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 152,
+    "text": "Zgodnie z przedstawionym fragmentem mapy klasyfikacji z zaznaczonymi zmianami po ponownej klasyfikacji gruntów, w skład działki ewidencyjnej nr 54 wchodzą następujące kontury klasyfikacyjne:",
+    "answers": [
+      "PsIV, PsV, PsIII, LsIV",
+      "PsIV, PsV, RIVa, LsIV",
+      "PsV, RIVa, PsIII, LsIV",
+      "PsIV, RIVa, PsIII, LsIV"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_mapa6.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 153,
+    "text": "Na podstawie przedstawionego fragmentu mapy ewidencyjnej oraz listy dopuszczalnych wartości atrybutu dla rodzaju budynku według KŚT określ, ile wynosi wartość atrybutu dla budynku znajdującego się na działce nr 452 według klasyfikacji środków trwałych, którą należy wpisać w danych przedmiotowych o budynku.",
+    "answers": [
+      "103",
+      "110",
+      "106",
+      "107"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_mapa20.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 154,
+    "text": "Które dokumenty należy dołączyć do wniosku o wywłaszczenie części nieruchomości?",
+    "answers": [
+      "Mapę z podziałem i rejestrem nieruchomości oraz decyzję zatwierdzającą podział nieruchomości.",
+      "Kopię uprawnień zawodowych osoby przeprowadzającej wywłaszczenie nieruchomości.",
+      "Mapę z wykazem nieruchomości objętych wywłaszczeniem.",
+      "Umowę o nabycie praw związanych z nieruchomością zawartą pomiędzy starostą i właścicielem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 155,
+    "text": "Który symbol na przedstawionym fragmencie mapy klasyfikacji oznacza rodzaj użytku gruntowego?",
+    "answers": [
+      "IVa",
+      "R",
+      "240",
+      "6c"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_mapa18.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 156,
+    "text": "Jak powinien postąpić geodeta, jeżeli podczas rozgraniczenia nieruchomości na gruncie powstał spór graniczny i nie została zawarta ugoda?",
+    "answers": [
+      "Spisać akt ugody między stronami.",
+      "Ustalić granice według stanu użytkowania.",
+      "Opracować opinię dotycząca przebiegu granic.",
+      "Wstrzymać postępowanie rozgraniczeniowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 157,
+    "text": "W czasie wywiadu terenowego podczas podziału działki nr 19/2 geodeta nie odnalazł dwóch znaków granicznych w miejscach oznaczonych na przedstawionej mapie porównania z terenem. Punkty te były ustalone w ramach wcześniejszego opracowania, a w Państwowym Zasobie Geodezyjnym i Kartograficznym istnieją materiały pozwalające na ich odtworzenie. Którą procedurę należy zastosować?",
+    "answers": [
+      "Wyznaczenie punktów granicznych.",
+      "Rozgraniczenie nieruchomości.",
+      "Ustalenie granic.",
+      "Wznowienie znaków granicznych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_mapa11.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 158,
+    "text": "Pani Zofia Kowalska, właścicielka nieruchomości nr 500, przekazała prawo własności do tej nieruchomości swojemu synowi Janowi Kowalskiemu, w zamian za dożywotnie utrzymanie. Które działy poniższej księgi wieczystej ulegną zmianie?",
+    "answers": [
+      "I-O i II",
+      "II i III",
+      "II i IV",
+      "I-Sp i III"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_protokol4.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 159,
+    "text": "Wskaż czynności wykonywane przez geodetę upoważnionego przez właściwy organ do przeprowadzenia scalenia i wymiany gruntów.",
+    "answers": [
+      "Ujawnienie nowego stanu posiadania w księgach wieczystych.",
+      "Zatwierdzenie projektu scalenia lub wymiany gruntów.",
+      "Szacowanie gruntów i opracowanie projektu scalenia.",
+      "Rozpatrywanie zastrzeżeń do projektu scalenia gruntów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 160,
+    "text": "Mapa z projektem podziału nieruchomości powinna być opracowana w skali dostosowanej do obszaru nieruchomości objętej projektem podziału oraz nie mniejsza niż",
+    "answers": [
+      "1:5000",
+      "1:500",
+      "1:1000",
+      "1:2000"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 161,
+    "text": "Sporządzenie mapy z projektem podziału nieruchomości należy poprzedzić wykonaniem czynności",
+    "answers": [
+      "przyjęcia przebiegu granic działek ewidencyjnych.",
+      "przyjęcia granic nieruchomości podlegającej podziałowi.",
+      "ustalenia przebiegu granic działek podlegających podziałowi.",
+      "ustalenia przebiegu granic działek ewidencyjnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 162,
+    "text": "Wyrys z katastru nieruchomości, dołączony do projektu uchwały o przystąpieniu do scalenia i podziału nieruchomości, zawiera",
+    "answers": [
+      "granice gruntów przeznaczone na cele nierolnicze.",
+      "granice gruntów objętych scaleniem i podziałem nieruchomości.",
+      "projektowany podział nieruchomości.",
+      "projektowane drogi i urządzenia techniczne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 163,
+    "text": "W celu ustalenia granic działki nr 501 geodeta zawiadomił właściciela działki nr 52/7 oraz nr 501. Na podstawie przedstawionego rysunku i wypisu z rejestru gruntów wskaż, kogo powinien jeszcze zawiadomić geodeta.",
+    "answers": [
+      "Zofię Kowalską, Marię Nowak i Marka Kocota.",
+      "Zofię Kowalską i Marię Nowak.",
+      "Zofię Kowalską.",
+      "Marię Nowak."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_wypis4.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 164,
+    "text": "Na podstawie danych zawartych w tabeli oblicz całkowitą powierzchnię użytków należących do grupy gruntów zabudowanych i zurbanizowanych.",
+    "answers": [
+      "0,8700 ha",
+      "1,4300 ha",
+      "6,7500 ha",
+      "6,3950 ha"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_tabela3.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 165,
+    "text": "Na podstawie przedstawionego fragmentu miejscowego planu zagospodarowania przestrzennego wskaż przeznaczenie działki ewidencyjnej o numerze 163.",
+    "answers": [
+      "Obszar usług komercyjnych.",
+      "Obszar mieszkaniowo - usługowy.",
+      "Obszar usług publicznych.",
+      "Obszar urządzeń komunikacyjnych - parkingi."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_plan4.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 166,
+    "text": "Modernizacja ewidencji gruntów i budynków należy do zadań",
+    "answers": [
+      "starosty.",
+      "wójta.",
+      "właściciela działki.",
+      "burmistrza."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 167,
+    "text": "Na rysunku przedstawiono kontur budynku o powierzchni 120 m2, obliczonej na podstawie wykonanych pomiarów. Jest to jego powierzchnia",
+    "answers": [
+      "użytkowa.",
+      "zabudowy.",
+      "netto.",
+      "całkowita."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_kontur.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 168,
+    "text": "Na rysunku przedstawiono fragment mapy z projektem",
+    "answers": [
+      "podziału nieruchomości.",
+      "połączenia nieruchomości.",
+      "rozgraniczenia nieruchomości.",
+      "ustalenia służebności gruntowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_mapa17.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 169,
+    "text": "W którym oknie dialogowym programu do graficznego tworzenia map przedstawiono parametry linii do narysowania istniejącej służebności gruntowej na mapie do celów prawnych?",
+    "answers": [
+      "W oknie 2.",
+      "W oknie 1.",
+      "W oknie 4.",
+      "W oknie 3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_okna.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 170,
+    "text": "Którego elementu nie zawiera treść protokołu granicznego?",
+    "answers": [
+      "Opisu wzajemnych ustępstw stron.",
+      "Pouczenia strony o możliwości przekazania sprawy sądowi.",
+      "Opisu przebiegu granic.",
+      "Informacji dotyczących stron oraz ich pełnomocników."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 171,
+    "text": "Wskaż czynność, której geodeta nie wykonuje na gruncie podczas ustalania przebiegu granic nieruchomości.",
+    "answers": [
+      "Przeprowadzenie wywiadu terenowego.",
+      "Analiza dokumentów uzyskanych z ksiąg wieczystych.",
+      "Sprawdzenie obecności i ustalenie tożsamości stron.",
+      "Przyjęcie pełnomocnictwa udzielonego przez strony."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 172,
+    "text": "Mapą do celów prawnych jest mapa * Dwie odpowiedzi są prawidłowe. Zaznacz obie, aby otrzymać punkt.",
+    "answers": [
+      "klasyfikacyjna.",
+      "topograficzna.",
+      "glebowo-rolnicza.",
+      "do zasiedzenia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 173,
+    "text": "Pola powierzchni działek ewidencyjnych, obliczane ze współrzędnych prostokątnych punktów granicznych, należy zapisywać z precyzją",
+    "answers": [
+      "1 ha",
+      "0,01 ha",
+      "0,001 ha",
+      "0,0001 ha"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 174,
+    "text": "Ile wynosi maksymalny dopuszczalny odstęp między znakami granicznymi umieszczanymi podczas rozgraniczania nieruchomości?",
+    "answers": [
+      "50 m",
+      "100 m",
+      "200 m",
+      "150 m"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 175,
+    "text": "Grunty pod wodami powierzchniowymi stojącymi w ewidencji gruntów oznaczane są symbolem",
+    "answers": [
+      "Wp",
+      "Ws",
+      "Wsr",
+      "W"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 176,
+    "text": "Operat ewidencji gruntów i budynków jest zakładany, prowadzony i aktualizowany oddzielnie dla poszczególnych",
+    "answers": [
+      "działek ewidencyjnych.",
+      "jednostek rejestrowych.",
+      "obrębów ewidencyjnych.",
+      "grup rejestrowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 177,
+    "text": "Który dokument nie stanowi podstawy ustalenia przebiegu granic nieruchomości?",
+    "answers": [
+      "Mapa zasadnicza.",
+      "Plan zagospodarowania terenu.",
+      "Mapa ewidencyjna.",
+      "Plan parcelacyjny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 178,
+    "text": "Minimalna powierzchnia sadu wykazywanego w ewidencji gruntów wynosi",
+    "answers": [
+      "0,0010 ha",
+      "0,0100 ha",
+      "0,1000 ha",
+      "0,0500 ha"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 179,
+    "text": "Mapa do celów prawnych nie zawiera",
+    "answers": [
+      "tytułu mapy i jej skali.",
+      "daty opracowania mapy.",
+      "współrzędnych punktów osnowy.",
+      "numerów porządkowych nieruchomości."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 180,
+    "text": "Które dane wykazuje się w ewidencji gruntów i budynków?",
+    "answers": [
+      "Adresy zameldowania dzierżawców.",
+      "Daty nabycia praw własności.",
+      "Adresy tymczasowego zamieszkania właścicieli.",
+      "Rodzaje i gatunki gleb."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 181,
+    "text": "Najpóźniej na ile dni przed terminem rozprawy należy dostarczyć stronom wezwanie do udziału przy ustalaniu przebiegu granicy nieruchomości?",
+    "answers": [
+      "7 dni",
+      "21 dni",
+      "14 dni",
+      "5 dni"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 182,
+    "text": "Którego elementu nie zawiera mapa z projektem podziału nieruchomości?",
+    "answers": [
+      "Numeru uprawnień zawodowych osoby, która wykonała mapę.",
+      "Wykazu zmian gruntowych.",
+      "Szkicu orientacyjnego w skali umożliwiającej zlokalizowanie nieruchomości.",
+      "Oznaczenia typu i podtypu gleby."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 183,
+    "text": "Na przedstawionym profilu glebowym cyfrą 4 oznaczono poziom",
+    "answers": [
+      "gleby organicznej.",
+      "skały macierzystej.",
+      "próchniczy.",
+      "wzbogacenia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_profil4.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 184,
+    "text": "Miejscowy plan zagospodarowania przestrzennego uchwalany jest przez",
+    "answers": [
+      "radę gminy.",
+      "wojewodę.",
+      "prezydenta miasta.",
+      "burmistrza."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 185,
+    "text": "Głównymi obiektami powierzchniowymi mapy glebowo-rolniczej są",
+    "answers": [
+      "kontury użytków gruntowych.",
+      "kompleksy glebowe.",
+      "kontury klasyfikacyjne.",
+      "kompleksy przydatności rolniczej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 186,
+    "text": "Na podstawie zamieszczonego fragmentu Wykazu zmian danych ewidencyjnych dotyczących budynku wskaż numer obrębu ewidencyjnego, w którym usytuowany jest ten budynek.",
+    "answers": [
+      "0022",
+      "5.0022",
+      "2.0022",
+      "141906"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_wykaz20.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 187,
+    "text": "Nieruchomość może być wywłaszczona na rzecz",
+    "answers": [
+      "inwestora.",
+      "Skarbu Państwa.",
+      "osoby fizycznej.",
+      "dewelopera."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 188,
+    "text": "Celem modernizacji bazy danych ewidencji gruntów i budynków nie jest",
+    "answers": [
+      "poprawa funkcjonowania informatycznego systemu obsługującego bazę danych.",
+      "uzupełnienie bazy danych ewidencyjnych.",
+      "poprawa obsługi interesantów.",
+      "utworzenie pełnego zakresu zbiorów danych ewidencyjnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 189,
+    "text": "Który zakres zmian nie podlega zgłoszeniu w ewidencji gruntów i budynków?",
+    "answers": [
+      "Scalenie gruntów.",
+      "Zmiana liczby mieszkańców w lokalu.",
+      "Wywłaszczenie nieruchomości.",
+      "Zmiana klasy bonitacyjnej gruntu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 190,
+    "text": "Który dokument nie jest dla geodety podstawą ustalenia stanu prawnego nieruchomości w postępowaniu rozgraniczeniowym?",
+    "answers": [
+      "Decyzja administracyjna.",
+      "Wypis z aktu notarialnego.",
+      "Ugoda sądowa.",
+      "Mapa ewidencyjna."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 191,
+    "text": "Na podstawie zamieszczonych w tabeli przeliczników powierzchni użytków rolnych oraz fragmentu mapy określ, ile wynosi hektar przeliczeniowy dla działki nr 25, jeżeli jest ona położona w II okręgu podatkowym.",
+    "answers": [
+      "2,6250 ha",
+      "2,4750 ha",
+      "2,7000 ha",
+      "2,3250 ha"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_tabela15.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 192,
+    "text": "W którym dziale księgi wieczystej znajdują się szczegółowe dane dotyczące położenia nieruchomości oraz jej powierzchni?",
+    "answers": [
+      "II",
+      "III",
+      "I-Sp",
+      "I-O"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 193,
+    "text": "Wstępny projekt podziału nieruchomości wykonuje się na kopii mapy",
+    "answers": [
+      "glebowo-rolniczej.",
+      "zasadniczej.",
+      "topograficznej.",
+      "klasyfikacyjnej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 194,
+    "text": "TERYT to krajowy",
+    "answers": [
+      "system rejestracji podmiotów gospodarki narodowej.",
+      "rejestr urzędowy podziału terytorialnego.",
+      "system ewidencji gruntów i budynków.",
+      "rejestr urzędowy podmiotów gospodarki narodowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 195,
+    "text": "Przeznaczenie terenu oraz zasady jego zagospodarowania określone są",
+    "answers": [
+      "na mapie ewidencyjnej.",
+      "na mapie podziału administracyjnego.",
+      "w miejscowym planie zagospodarowania przestrzennego.",
+      "w studium uwarunkowań i kierunków zagospodarowania przestrzennego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 196,
+    "text": "Identyfikator obiektu powierzchniowego w postaci WWPPGG_R.XXXX w bazie danych ewidencyjnych określa",
+    "answers": [
+      "działkę ewidencyjną.",
+      "jednostkę rejestrową gruntów.",
+      "obręb ewidencyjny.",
+      "jednostkę ewidencyjną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 197,
+    "text": "Wszczęcie postępowania scaleniowego następuje w drodze",
+    "answers": [
+      "postanowienia starosty.",
+      "uchwały wszystkich uczestników scalenia.",
+      "decyzji co najmniej 40% uczestników scalenia.",
+      "decyzji rady scalenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 198,
+    "text": "Mapy ewidencyjne w skali 1:5 000 należą do grupy map",
+    "answers": [
+      "gospodarczych.",
+      "inżynieryjno-gospodarczych.",
+      "społeczno-gospodarczych.",
+      "przyrodniczych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 199,
+    "text": "W którym oknie dialogowym programu do graficznego tworzenia map przedstawiono parametry linii do narysowania na mapie do celów prawnych służebności gruntowej ujawnionej w księdze wieczystej?",
+    "answers": [
+      "W oknie 1.",
+      "W oknie 2.",
+      "W oknie 3.",
+      "W oknie 4."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_okna2.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 200,
+    "text": "W celu ustalenia przebiegu granicy między punktami granicznymi 1 i 2, których położenie przedstawiono na zamieszczonym szkicu, geodeta powinien zawiadomić",
+    "answers": [
+      "Krystynę Bronek, Mariusza Wajdę, Stefana Gądka, Andrzeja Rybkę i Gminę Dąbrowa Górnicza.",
+      "tylko Gminę Dąbrowa Górnicza.",
+      "Krystynę Bronek, Stefana Gądka, Andrzeja Rybkę i Gminę Dąbrowa Górnicza.",
+      "tylko Krystynę Bronek."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_szkic6.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 201,
+    "text": "Jak nazywa się szkic przedstawiony na załączonym rysunku?",
+    "answers": [
+      "Szkic tyczenia.",
+      "Szkic graniczny.",
+      "Szkic dokumentacyjny.",
+      "Szkic inwentaryzacyjny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_szkic5.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 202,
+    "text": "Na podstawie zamieszczonego Wykazu zmian danych ewidencyjnych określ całkowitą powierzchnię gruntów zadrzewionych i zakrzewionych na użytkach rolnych w stanie nowym.",
+    "answers": [
+      "0,1300 ha",
+      "0,2300 ha",
+      "0,1700 ha",
+      "0,1900 ha"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_wykaz7.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 203,
+    "text": "Przedstawiony dokument to fragment protokołu",
+    "answers": [
+      "utrwalenia na gruncie punktów granicznych.",
+      "wznowienia znaków granicznych.",
+      "przyjęcia granic nieruchomości.",
+      "granicznego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_protokol10.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 204,
+    "text": "Po podziale działki ewidencyjnej numer 12 na dwie części, nowopowstałe działki powinny otrzymać numery",
+    "answers": [
+      "12A, 12B",
+      "12, 13",
+      "12/1, 13/1",
+      "12/1, 12/2"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 205,
+    "text": "Właściciel działki nr 206/1, przedstawionej na rysunku, zlecił geodecie ustalenie granic tej działki. Po analizie materiałów z PZGiK oraz wywiadzie terenowym geodeta stwierdził, że punkty 82, 83, 84 i 85 zostały uprzednio ustalone i zastabilizowane, jednak zostały uszkodzone i aktualnie nie istnieją w terenie. Którą procedurę powinien zastosować geodeta?",
+    "answers": [
+      "Podziału nieruchomości.",
+      "Wyznaczenia punktów granicznych.",
+      "Ustalenia przebiegu granic działek ewidencyjnych.",
+      "Wznowienia znaków granicznych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_rysunek6.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 206,
+    "text": "Na działce z zabudową siedliskową wybudowano kolejny budynek gospodarczy. Na podstawie przedstawionego Wykazu zmian danych ewidencyjnych dotyczących działki określ, którą zmianę zapisano w wykazie.",
+    "answers": [
+      "Zwiększyło się pole powierzchni gruntów rolnych zabudowanych.",
+      "Zwiększyło się pole powierzchni działki.",
+      "Zmieniła się klasa bonitacyjna użytku gruntowego w działce.",
+      "Zmienił się rodzaj użytku gruntowego w działce."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_wykaz5.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 207,
+    "text": "Przedstawiony fragment numerycznej księgi wieczystej jest prowadzony dla nieruchomości",
+    "answers": [
+      "budynkowej.",
+      "lokalowej.",
+      "rolnej.",
+      "gruntowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_ksiega6.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 208,
+    "text": "W skład obrębu wchodzi 5 działek na gruntach ornych klasy IIIa o powierzchni 5 ha każda. Ile wynosi wartość całego obrębu, jeżeli wartość szacunkowa 1 ha gruntów ornych klasy IIIa wynosi 100 jednostek szacunkowych?",
+    "answers": [
+      "2 500 j.sz.",
+      "20 500 j.sz.",
+      "250 j.sz.",
+      "200 500 j.sz."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 209,
+    "text": "W ewidencji gruntów i budynków nie wykazuje się sadów o powierzchni mniejszej niż",
+    "answers": [
+      "0,0001 ha",
+      "0,0010 ha",
+      "0,1000 ha",
+      "0,0100 ha"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 210,
+    "text": "Postępowanie w sprawie ustalenia gleboznawczej klasyfikacji gruntów wszczyna i prowadzi",
+    "answers": [
+      "wójt.",
+      "starosta.",
+      "wojewoda.",
+      "burmistrz."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 211,
+    "text": "Na którym fragmencie mapy przedstawiono dopuszczalny podział działki rolnej o numerze ewidencyjnym 250, z zachowaniem kryterium minimalnej powierzchni oraz dostępu do drogi?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_mapy6.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 212,
+    "text": "Które znaki naziemne nie powinny być użyte do stabilizowania punktów granicznych?",
+    "answers": [
+      "Kamienne.",
+      "Namalowane.",
+      "Betonowe.",
+      "Żelbetowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 213,
+    "text": "Przedstawione wezwanie powinno być doręczone pani Annie Nowak najpóźniej do",
+    "answers": [
+      "17.01.2024 r.",
+      "09.01.2024 r.",
+      "24.01.2024 r.",
+      "23.01.2024 r."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_wezwanie3.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 214,
+    "text": "Osobami biorącymi udział w czynnościach ustalenia przebiegu granicy, zgodnie z przedstawionym fragmentem Protokołu z czynności ustalenia przebiegu granic działki ewidencyjnej, byli",
+    "answers": [
+      "Michał Karcz, Jadwiga Kowal i Stefan Kowal.",
+      "Karolina Karcz, Łukasz Karcz, Jadwiga Kowal i Stefan Kowal.",
+      "Karolina Karcz, Jadwiga Kowal i Stefan Kowal.",
+      "Michał Karcz, Karolina Karcz, Jadwiga Kowal i Stefan Kowal."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_protokol7.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 215,
+    "text": "Który symbol na przedstawionym fragmencie mapy oznacza rodzaj użytku gruntowego?",
+    "answers": [
+      "IVa",
+      "6c",
+      "R",
+      "240"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_mapa18.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 216,
+    "text": "W którym oknie dialogowym programu do graficznego tworzenia map przedstawiono parametry linii do narysowania ujawnionej w księdze wieczystej służebności gruntowej na mapie do celów prawnych?",
+    "answers": [
+      "W oknie 4.",
+      "W oknie 3.",
+      "W oknie 2.",
+      "W oknie 1."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_okna.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 217,
+    "text": "W którym dziale księgi wieczystej znajdują się zamieszczone w tabeli informacje?",
+    "answers": [
+      "I-Sp – SPIS PRAW ZWIĄZANYCH Z WŁASNOŚCIĄ",
+      "II – WŁASNOŚĆ",
+      "I-O – OZNACZENIE NIERUCHOMOŚCI",
+      "III – PRAWA, ROSZCZENIA I OGRANICZENIA"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_tabela8.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 218,
+    "text": "Właściciel działki nr 206/1, przedstawionej na rysunku, zlecił geodecie ustalenie granic działki. Po analizie materiałów z PZGiK oraz wywiadzie terenowym geodeta stwierdził, że punkty 82, 83, 84 i 85 zostały uprzednio ustalone i zastabilizowane, jednak zostały uszkodzone i aktualnie nie istnieją w terenie. Którą procedurę powinien zastosować geodeta?",
+    "answers": [
+      "Podziału nieruchomości.",
+      "Wznowienia znaków granicznych.",
+      "Ustalenia przebiegu granic działek ewidencyjnych.",
+      "Wyznaczenia punktów granicznych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_rysunek6.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 219,
+    "text": "Na przedstawionym fragmencie miejscowego planu zagospodarowania przestrzennego zieloną, ciągłą, pogrubioną linią zaznaczono tereny przeznaczone do zabudowy",
+    "answers": [
+      "przemysłowej.",
+      "zagrodowej.",
+      "mieszkaniowej jednorodzinnej.",
+      "mieszkaniowej wielorodzinnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_plan5.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 220,
+    "text": "Na podstawie przedstawianego fragmentu Protokołu badania księgi wieczystej określ, w którym dziale księgi wieczystej zamieszczono powyższy wpis.",
+    "answers": [
+      "I-O – OZNACZENIE NIERUCHOMOŚCI",
+      "II – WŁASNOŚĆ",
+      "IV – HIPOTEKA",
+      "III – PRAWA, ROSZCZENIA I OGRANICZENIA"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_protokol7.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 221,
+    "text": "Co powinien zrobić geodeta, jeśli podczas zawiadamiania stron o podjęciu czynności ustalenia przebiegu granic działek ewidencyjnych okazało się, że właściciel jednej z działek nie żyje?",
+    "answers": [
+      "Wstrzymać czynności ustalenia granic do czasu ustalenia spadkobierców prawomocnym wyrokiem sądu.",
+      "Zwrócić się do starosty o zamieszczenie takiego zawiadomienia na tablicy informacyjnej właściwego starostwa powiatowego.",
+      "Zawiadomić tylko pozostałych sąsiadów.",
+      "Odstąpić od czynności ustalenia przebiegu wszystkich granic."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 222,
+    "text": "Kto zawiadamia zainteresowane osoby o wyłożeniu do wglądu projektu operatu opisowo-kartograficznego modernizacji bazy danych ewidencji gruntów i budynków?",
+    "answers": [
+      "Geodeta.",
+      "Wójt.",
+      "Starosta.",
+      "Sołtys."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 223,
+    "text": "Na podstawie przedstawionego fragmentu miejscowego planu zagospodarowania przestrzennego wskaż wymiary działki, która nie może zostać wydzielona pod zabudowę jednorodzinną wolnostojącą.",
+    "answers": [
+      "19 × 45 m",
+      "20 × 30 m",
+      "21 × 40 m",
+      "22 × 40 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_plan6.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 224,
+    "text": "Na podstawie zamieszczonego szkicu określ, którą czynność należy wykonać w celu stabilizacji punktów granicznych o numerach 58, 59 i 60, jeżeli nie odnaleziono palików drewnianych w terenie?",
+    "answers": [
+      "Wznowienie znaków granicznych.",
+      "Rozgraniczenie nieruchomości.",
+      "Ustalenie przebiegu granic działek.",
+      "Wyznaczenie punktów granicznych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_szkic12.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 225,
+    "text": "Który dokument nie stanowi załącznika do protokołu ustalenia przebiegu granic działek ewidencyjnych?",
+    "answers": [
+      "Pełnomocnictwo od nieobecnego właściciela działki.",
+      "Wynik analizy dostępnych dokumentów i oświadczeń stron.",
+      "Szkic z podpisami obecnych stron.",
+      "Wykaz zmian danych ewidencyjnych dotyczących działki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 226,
+    "text": "Który symbol rodzaju użytku gruntowego należy wpisać w zaznaczonym polu przedstawionego Wykazu zmian danych ewidencyjnych, jeśli budowa drogi publicznej na działce nr 1246 została zakończona?",
+    "answers": [
+      "B",
+      "Ti",
+      "dr",
+      "K"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_wykaz14.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 227,
+    "text": "Z nieruchomości nr 1253 należy wydzielić działkę nr 1253/B stanowiącą do 33% jej powierzchni. Na podstawie rysunku ustal numery działek, których właścicieli należy zawiadomić o czynnościach przyjęcia granic dzielonej nieruchomości w przypadku braku w dokumentacji wiarygodnego sposobu określającego jej przebieg.",
+    "answers": [
+      "1252, 1253, 1254, 1246 i 1257/1",
+      "1253, 1254, 1246 i 1257/1",
+      "1253, 1254 i 1257/1",
+      "1252, 1253 i 1254"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_mapa54.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 228,
+    "text": "Której z wymienionych czynności geodeta nie wykonuje podczas wyznaczania punktów granicznych?",
+    "answers": [
+      "Nadania punktom granicznym nowych numerów.",
+      "Zawiadomienia stron o czynnościach w terenie.",
+      "Wywiadu terenowego.",
+      "Sporządzenia szkicu wyznaczenia punktów granicznych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 229,
+    "text": "Na obszarze przedstawionym na ilustracji budowa nowej drogi rozdzieliła działki rolne stanowiące do tej pory jedną całość. Którą procedurę należy zastosować, aby nowy układ działek pozwalał wszystkim właścicielom na pełne korzystanie ze swoich nieruchomości?",
+    "answers": [
+      "Scalenie i wymianę gruntów.",
+      "Wznowienie punktów granicznych.",
+      "Podział nieruchomości.",
+      "Rozgraniczenie nieruchomości."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_ilustracja.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 230,
+    "text": "Co powinien zrobić geodeta, który podczas wywiadu terenowego stwierdził, że na terenie działki nr 5467 brakuje sadu wykazanego na przedstawionym fragmencie mapy?",
+    "answers": [
+      "Złożyć zawiadomienie do właściwego urzędu gminy.",
+      "Przeprowadzić klasyfikację gruntów na działce ze względu na konieczność zmiany użytku.",
+      "Sporządzić wykaz synchronizacyjny.",
+      "Sporządzić wykaz zmian danych ewidencyjnych dotyczących działki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_mapa52.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 231,
+    "text": "Na którym rysunku przedstawiono okno dialogowe programu graficznego, przedstawiające parametry linii do narysowania projektowanych granic wydzielanej działki, na mapie z projektem podziału nieruchomości?",
+    "answers": [
+      "Na rysunku 2.",
+      "Na rysunku 4.",
+      "Na rysunku 1.",
+      "Na rysunku 3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_okna2.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 232,
+    "text": "Które atrybuty powinny zostać wpisane w zaznaczonych polach tabeli, jeżeli zamieszczony Wykaz zmian danych ewidencyjnych dotyczy drewnianego, parterowego budynku mieszkalnego, którego budowa została już zakończona?",
+    "answers": [
+      "poz. 3 - 1, poz. 6 - 1, poz. 7 - 2",
+      "poz. 3 - 1, poz. 6 - 2, poz. 7 - 2",
+      "poz. 3 - 2, poz. 6 - 0, poz. 7 - 2",
+      "poz. 3 - 2, poz. 6 - 1, poz. 7 - 2"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_wykaz15.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 233,
+    "text": "Którą z wymienionych czynności wykonuje geodeta podczas prac związanych z modernizacją ewidencji gruntów i budynków?",
+    "answers": [
+      "Pomiar wszystkich punktów granicznych.",
+      "Podział nieruchomości.",
+      "Rozgraniczenie nieruchomości.",
+      "Ustalenie przebiegu granic działek ewidencyjnych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 234,
+    "text": "Który symbol na załączonym fragmencie mapy klasyfikacji oznacza rodzaj użytku gruntowego?",
+    "answers": [
+      "6c",
+      "R",
+      "IVa",
+      "240"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_mapa51.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 235,
+    "text": "Który z wymienionych dokumentów sporządza geodeta podczas rozgraniczenia nieruchomości?",
+    "answers": [
+      "Protokół ustalenia przebiegu granic działek ewidencyjnych.",
+      "Odpis z księgi wieczystej.",
+      "Akt ugody.",
+      "Protokół z przyjęcia granic nieruchomości."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 236,
+    "text": "Geodeta ustalił granicę działki przebiegającą przez punkty 101, 102, 103. Punkty te zastabilizował granicznikami betonowymi i wykonał ich pomiar odbiornikiem GNSS. Które kody ZRD i STB powinien im nadać i wpisać do przedstawionego dokumentu?",
+    "answers": [
+      "ZRD – 2, STB – 5",
+      "ZRD – 5, STB – 2",
+      "ZRD – 1, STB – 3",
+      "ZRD – 3, STB – 1"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_dokument5.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 237,
+    "text": "W czasie ustalenia przebiegu granic działek ewidencyjnych geodeta odnalazł w terenie palik drewniany. Obydwie strony, zainteresowane przebiegiem granic, zaakceptowały go jako ślad graniczny. Który kod atrybutu stabilizacji STB powinien nadać geodeta temu punktowi?",
+    "answers": [
+      "1 – brak informacji.",
+      "2 – niestabilizowany.",
+      "3 – stabilizowany znakiem naziemnym.",
+      "5 – stabilizowany znakiem podziemnym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 238,
+    "text": "Protokół Wyznaczenia punktów granicznych jest sporządzany w sytuacji, kiedy punkty graniczne",
+    "answers": [
+      "nie są ustalone i nie były stabilizowane.",
+      "nie są ustalone ale były stabilizowane.",
+      "są ustalone, nie były stabilizowane i nie istnieją w terenie.",
+      "są ustalone, były stabilizowane i istnieją w terenie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 239,
+    "text": "Który symbol rodzaju użytku gruntowego należy przyporządkować do terenu przedstawionego na fragmencie ortofotomapy?",
+    "answers": [
+      "Bz",
+      "Bp",
+      "Ba",
+      "Bi"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_ortofotomapa2.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 240,
+    "text": "W wyniku przeprowadzenia czynności ustalenia przebiegu granic nastąpiła zmiana pola powierzchni działki. Który z dokumentów powinien sporządzić geodeta, w celu wprowadzenia zmian w bazie danych ewidencji gruntów i budynków?",
+    "answers": [
+      "Wykaz synchronizacyjny.",
+      "Wykaz gruntów.",
+      "Wykaz zmian danych ewidencyjnych.",
+      "Wypis z rejestru gruntów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 241,
+    "text": "Wykaz zmian danych ewidencyjnych dotyczących działki przedstawia połączenie działek ewidencyjnych nr 802 i 803. Który numer należy nadać działce po połączeniu, jeśli ostatnim numerem działki w obrębie jest 1000?",
+    "answers": [
+      "802/1",
+      "803/1",
+      "1001",
+      "1000"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_wykaz18.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 242,
+    "text": "Dla którego ze stabilizowanych punktów wykazanych w tabeli odchylenie liniowe wyznaczone na podstawie porównania danych z pomiaru kontrolnego oraz danych pozyskanych z PZGiK przekracza wartość dopuszczalną?",
+    "answers": [
+      "Nr 101",
+      "Nr 102",
+      "Nr 103",
+      "Nr 104"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_tabela13.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 243,
+    "text": "Który kod cyfrowy jest poprawnie zapisanym identyfikatorem działki ewidencyjnej?",
+    "answers": [
+      "100611_5.0011.574/4",
+      "100611_5.574.4",
+      "10.0611.5_0011.574_4",
+      "100611_5.574/4"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 244,
+    "text": "Ile izb należy wpisać w kartotece zakładanej dla lokalu, którego rzut przedstawiono na rysunku?",
+    "answers": [
+      "2 izby.",
+      "5 izb.",
+      "4 izby.",
+      "3 izby."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_rzut4.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 245,
+    "text": "Jeżeli podział nieruchomości polega na wydzieleniu działki o powierzchni stanowiącej 20% powierzchni działki podlegającej podziałowi, to protokół z czynności przyjęcia granic nieruchomości podlegającej podziałowi należy sporządzić dla",
+    "answers": [
+      "wszystkich granic.",
+      "spornych granic.",
+      "odcinków, dla których strony nie kwestionują ich przebiegu.",
+      "odcinków, do których dochodzą projektowane granice."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 246,
+    "text": "Na podstawie fragmentu miejscowego planu zagospodarowania przestrzennego oraz legendy, określ przeznaczenie działki o numerze 152/8.",
+    "answers": [
+      "Pod zabudowę mieszkaniowo-usługową.",
+      "Pod zabudowę usługową komercyjną.",
+      "Pod zabudowę mieszkaniową o podwyższonym standardzie.",
+      "Pod zabudowę mieszkaniową jednorodzinną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_plan4.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 247,
+    "text": "Korzystając z danych zawartych w tabeli, oblicz wartość szacunkową konturu o powierzchni 220 000 m2, stanowiącego klasę bonitacyjną IVa.",
+    "answers": [
+      "11 000 jednostek szacunkowych.",
+      "836 jednostek szacunkowych.",
+      "8 360 jednostek szacunkowych.",
+      "1 100 jednostek szacunkowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_tabela8.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 248,
+    "text": "Do której klasy bonitacyjnej zaliczane są gleby orne bardzo dobre?",
+    "answers": [
+      "I",
+      "II",
+      "IV",
+      "IIIa"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 249,
+    "text": "Na podstawie fragmentu mapy z projektem podziału nieruchomości rolnej na dwie działki o jednakowej powierzchni i fragmentu wykazu zmian danych ewidencyjnych wskaż odpowiedni zapis stanu nowego.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_projekt3.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 250,
+    "text": "Protokół przyjęcia granicy nieruchomości należy dołączyć do dokumentacji",
+    "answers": [
+      "z wznowienia znaków granicznych.",
+      "z rozgraniczenia nieruchomości.",
+      "z wyznaczenia punktów granicznych.",
+      "z podziału nieruchomości."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 251,
+    "text": "Który z wymienionych dokumentów jest podstawą zmiany oznaczenia nieruchomości w księdze wieczystej?",
+    "answers": [
+      "Potwierdzenie zameldowania.",
+      "Zaświadczenie o płaceniu podatków.",
+      "Wypis z rejestru gruntów.",
+      "Opinia rzeczoznawcy majątkowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 252,
+    "text": "W obrębie, w którym ostatnim występującym numerem działki jest 403/1, połączono dwie sąsiadujące ze sobą działki ewidencyjne o numerach 22/1 i 22/2. Powstała działka otrzyma numer",
+    "answers": [
+      "22",
+      "403/2",
+      "404",
+      "22/3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 253,
+    "text": "W której tabeli przedstawiono spis działek ewidencyjnych uporządkowany zgodnie z wymaganiami dotyczącymi sporządzania wykazów działek ewidencyjnych?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_tabele5.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 254,
+    "text": "W bazie danych ewidencyjnych użytki ekologiczne będące pastwiskiem oznaczane są",
+    "answers": [
+      "R-E",
+      "E-R",
+      "E-Ps",
+      "Ps-E"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 255,
+    "text": "Na podstawie zamieszczonego fragmentu opracowania geodezyjnego określ, które użytki gruntowe znajdują się w działce ewidencyjnej nr 506/7.",
+    "answers": [
+      "PsIV, RV",
+      "RIIIb, RV, ŁIV",
+      "ŁIV, PsIV",
+      "ŁIV, PsIV, RV"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_opracowanie3.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 256,
+    "text": "Które z podanych informacji dotyczących budynku można odczytać z załączonego fragmentu wypisu z kartoteki budynków?",
+    "answers": [
+      "Budynek posiada funkcje usługową i gospodarczą, ma jedną kondygnację podziemną.",
+      "Budynek został wybudowany w 2008 roku, ma jedną kondygnację nadziemną.",
+      "Budynek posiada funkcję mieszkalną jednorodzinną, ma jedną kondygnację nadziemną.",
+      "Budynek został przebudowany w 2008 roku, ma jedną kondygnację podziemną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_wypis13.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 257,
+    "text": "Wartości skurczu mapy wzdłuż boków ramki sekcyjnej wynoszą odpowiednio: p = 0,14% i q = 0,22%. Skurcz powierzchniowy tej mapy równy jest",
+    "answers": [
+      "0,22%",
+      "0,08%",
+      "0,14%",
+      "0,36%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 258,
+    "text": "Który rodzaj gleby znajduje się na obszarze konturu klasyfikacyjnego oznaczonego na fragmencie mapy czerwoną strzałką?",
+    "answers": [
+      "Piasek gliniasty mocny.",
+      "Ił pylasty.",
+      "Glina lekka.",
+      "Piasek luźny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_mapa48.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 259,
+    "text": "Organem odpowiedzialnym za prowadzenie gleboznawczej klasyfikacji gruntów jest",
+    "answers": [
+      "wójt.",
+      "marszałek województwa.",
+      "wojewoda.",
+      "starosta."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 260,
+    "text": "Który zapis powierzchni użytkowej lokalu nr 1 powinien być wpisany do wypisu z kartoteki lokali, jeżeli wykazana w inwentaryzacji architektoniczno-budowlanej powierzchnia tego lokalu to 71,45 m2?",
+    "answers": [
+      "71,5 m2",
+      "71,4 m2",
+      "71 m2",
+      "71,45 m2"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_wypis12.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 261,
+    "text": "Na podstawie zamieszczonego wypisu z rejestru gruntów określ numery działek ewidencyjnych w jednostce rejestrowej gruntów nr G.234.",
+    "answers": [
+      "10, 14",
+      "74/1, 142",
+      "174, 35",
+      "1475, 1876"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_wypis10.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 262,
+    "text": "Który z wymienionych szkiców nie zawiera informacji istotnych do odszukania znaków granicznych?",
+    "answers": [
+      "Szkic graniczny z operatu rozgraniczenia nieruchomości.",
+      "Szkic osnowy wysokościowej z operatu pomiaru powykonawczego budynku.",
+      "Szkic wyznaczenia nowych granic działki po podziale.",
+      "Szkic z pomiaru podczas modernizacji ewidencji gruntów i budynków."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 263,
+    "text": "W zamieszczonym wypisie z kartoteki budynków zapis „0003” w identyfikatorze budynku oznacza numer",
+    "answers": [
+      "ewidencyjny budynku.",
+      "działki ewidencyjnej.",
+      "arkusza mapy.",
+      "obrębu ewidencyjnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_wypis11.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 264,
+    "text": "Które numery na zamieszczonym fragmencie aktualizacji mapy klasyfikacyjnej oznaczają odkrywki glebowe, dla których zostały sporządzone opisy profilów glebowych (odkrywki podstawowe)?",
+    "answers": [
+      "219, 220",
+      "230, 231",
+      "229, 232, 233",
+      "229, 230, 231, 232, 233"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_mapa29.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 265,
+    "text": "Na podstawie zamieszczonej mapy wskaż klasoużytki występujące na działce 99/7.",
+    "answers": [
+      "PsIV, ŁV, Ws",
+      "PsV, ŁV, Ws",
+      "PsIV, PsV, ŁV",
+      "PsIV, ŁIV, Ws"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_mapa31.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 266,
+    "text": "Który element budynku oznaczany jest na mapach ewidencyjnych za pomocą zamieszczonego znaku kartograficznego?",
+    "answers": [
+      "Taras.",
+      "Wiatrołap.",
+      "Weranda.",
+      "Rampa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_znak.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 267,
+    "text": "Geodeta ma zaprojektować scalenie i podział nieruchomości położonej w strefie miejscowego planu zagospodarowania przestrzennego, scharakteryzowanej na zamieszczonej Karcie terenu. Odczytaj z Karty terenu minimalną szerokość działki dla zabudowy bliźniaczej, jaką powinien zaprojektować geodeta.",
+    "answers": [
+      "18,0 m",
+      "300,0 m",
+      "7,5 m",
+      "12,0 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_karta.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 268,
+    "text": "Podczas ustalania przebiegu granicy na gruncie w toku rozgraniczenia nieruchomości, między sąsiadami wynikł trwały spór, a geodecie nie udało się namówić sąsiadów do podpisania ugody. Do którego organu może zostać przekazana sprawa rozgraniczenia nieruchomości?",
+    "answers": [
+      "Do właściwego starosty.",
+      "Do właściwego wojewody.",
+      "Do właściwego miejscowo sądu rejonowego.",
+      "Do właściwego wojewódzkiego inspektora nadzoru geodezyjnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 269,
+    "text": "Na podstawie zamieszczonego protokołu badania księgi wieczystej, określ w jakim trybie nastąpiło nabycie nieruchomości lokalowej przy ulicy Ateny 2A przez Agnieszkę i Łukasza Dąbek.",
+    "answers": [
+      "Zamiany.",
+      "Dziedziczenia.",
+      "Kupna.",
+      "Darowizny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_protokol6.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 270,
+    "text": "Punktami dostosowania w procesie kalibracji rastra analogowej mapy ewidencyjnej nie mogą być punkty",
+    "answers": [
+      "załamań konturów budynków.",
+      "graniczne wchodzące w skład numerycznych opisów granic.",
+      "załamań konturów użytków.",
+      "przecięcia siatki kwadratów pierworysów map."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 271,
+    "text": "W jakiej formie mogą zostać udostępnione przez starostę dane ewidencyjne?",
+    "answers": [
+      "Oryginału decyzji administracyjnej o zatwierdzeniu projektu podziału nieruchomości.",
+      "Odpisu z jednostki rejestrowej lokali.",
+      "Pliku komputerowego zgodnego ze standardem wymiany danych ewidencyjnych.",
+      "Informacji z projektu operatu opisowo-kartograficznego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 272,
+    "text": "Co stanowi podstawę do wyznaczenia i utrwalenia na gruncie nowych punktów granicznych po podziale działki?",
+    "answers": [
+      "Ostateczna decyzja zatwierdzająca podział nieruchomości.",
+      "Protokół przyjęcia granic nieruchomości.",
+      "Zgoda właściciela działki.",
+      "Protokół graniczny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 273,
+    "text": "Na podstawie zamieszczonego szkicu granicznego określ, jakiego rodzaju stabilizację punktu granicznego nr 119 wykonał geodeta.",
+    "answers": [
+      "Tylko znak nadziemny: bolec żelazny.",
+      "Tylko znak nadziemny: kamień betonowy.",
+      "Znak nadziemny: kamień betonowy, znak podziemny: rurka drenarska (dren).",
+      "Znak nadziemny: kamień betonowy, znak podziemny: butelka."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_szkic8.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 274,
+    "text": "Jakim kolorem należy wpisać i wrysować elementy oznaczone strzałkami na mapie podziału nieruchomości rolnej?",
+    "answers": [
+      "Czarnym.",
+      "Pomarańczowym.",
+      "Brązowym.",
+      "Czerwonym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_mapa32.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 275,
+    "text": "Która z podanych czynności geodety nie jest celem rozgraniczania nieruchomości?",
+    "answers": [
+      "Utrwalenie punktów znakami granicznymi.",
+      "Ustalenie przebiegu granic nieruchomości.",
+      "Aktualizacja przebiegu granic nieruchomości.",
+      "Sporządzenie dokumentacji rozgraniczenia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 276,
+    "text": "Które oznaczenie należy wpisać w wykazie zmian w polu oznaczonym znakiem zapytania?",
+    "answers": [
+      "RV",
+      "R",
+      "Br",
+      "Br-R"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_wykaz8.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 277,
+    "text": "W którym dziale księgi wieczystej znajdują się wpisy dotyczące właściciela i użytkownika wieczystego?",
+    "answers": [
+      "W dziale II",
+      "W dziale I-Sp",
+      "W dziale III",
+      "W dziale I-O"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 278,
+    "text": "Które dane należy umieścić na szkicu granicznym sporządzanym podczas ustalania granic działek ewidencyjnych?",
+    "answers": [
+      "Znaki graniczne i ich numery, numery parcel, miary określające położenie granic.",
+      "Punkty graniczne i ich numery, odległości tych punktów do szczegółów terenowych, numery parcel.",
+      "Punkty graniczne i ich numery, odległości tych punktów do szczegółów terenowych, numery działek ewidencyjnych.",
+      "Znaki osnowy geodezyjnej i ich numery, numery parcel, miary określające położenie granic."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 279,
+    "text": "Pan Nowak od 40 lat jest posiadaczem części nieruchomości w złej wierze. Co powinien zaproponować geodeta, aby Pan Nowak mógł nabyć na własność część nieruchomości?",
+    "answers": [
+      "Wydzielenie części nieruchomości i złożenie wniosku do sądu o jej zasiedzenie.",
+      "Wywłaszczenie nieruchomości.",
+      "Wznowienie granic nieruchomości i wniosek do właściciela o wykup jej części.",
+      "Rozgraniczenie nieruchomości."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 280,
+    "text": "W okienku zaznaczonym strzałką na zrzucie z ekranu wyszukiwarki ksiąg wieczystych wpisany ciąg cyfr to",
+    "answers": [
+      "data założenia księgi.",
+      "kod wydziału Ksiąg Wieczystych który prowadzi księgę.",
+      "numer księgi wieczystej według repertorium.",
+      "liczba kontrolna."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_okienko.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 281,
+    "text": "Przedstawiony w tabeli dokument geodeta powinien dołączyć do operatu",
+    "answers": [
+      "wznowienia granic.",
+      "rozgraniczenia nieruchomości.",
+      "podziału nieruchomości.",
+      "połączenia działek."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_tabela6.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 282,
+    "text": "Wykonano kalibrację cyfrowego obrazu rastrowego mapy analogowej w skali 1:1000. Na podstawie otrzymanych średnich błędów transformacji oraz fragmentu rozporządzenia określ, która kalibracja wykonana jest z prawidłową dokładnością.",
+    "answers": [
+      "1,00 m",
+      "0,37 m",
+      "0,76 m",
+      "0,42 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_ramka3.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 283,
+    "text": "Na podstawie zamieszczonego wykazu zmian danych ewidencyjnych określ, która zmiana dotycząca budynku jest podstawą do aktualizacji operatu ewidencyjnego.",
+    "answers": [
+      "Nadbudowa budynku o 3 kondygnacje w roku 1986.",
+      "Nadbudowa ze zmianą powierzchni zabudowy.",
+      "Zmiana funkcji głównej budynku na budynek o trzech lub więcej mieszkaniach.",
+      "Zmiana funkcji głównej i klasy budynku w roku 2017."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_wykaz7.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 284,
+    "text": "Na podstawie zamieszczonego fragmentu katalogu obiektów bazy danych ewidencyjnych wskaż zestaw użytków, który przyjmuje wartości klas bonitacyjnych: I, II, III, IV, V, VI.",
+    "answers": [
+      "Ł, Ps, Ls, R",
+      "R, S, Ł",
+      "Ł, Ps, Ls, Lz",
+      "S, Ps, Ls"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_katalog.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 285,
+    "text": "Zamieszczony raport z bazy danych ewidencyjnych zawiera wykaz",
+    "answers": [
+      "budynków.",
+      "lokali.",
+      "gruntów.",
+      "działek ewidencyjnych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_raport2.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 286,
+    "text": "Który z wymienionych dokumentów nie może być dla geodety podstawą ustalenia stanu prawnego rozgraniczanej nieruchomości?",
+    "answers": [
+      "Wypis z rejestru gruntów sporządzony dla rozgraniczanej nieruchomości.",
+      "Wypis aktu notarialnego nabycia nieruchomości.",
+      "Prawomocne orzeczenie sądu o nabyciu spadku.",
+      "Ostateczna decyzja administracyjna przekształcenia prawa użytkowania wieczystego w prawo własności."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 287,
+    "text": "Z którego działu KW pochodzą informacje zamieszczone we fragmencie protokołu badania księgi wieczystej?",
+    "answers": [
+      "Z działu IV",
+      "Z działu I-Sp",
+      "Z działu II",
+      "Z działu I-O"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_ramka2.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 288,
+    "text": "Symbolem literowym „t” na mapie ewidencyjnej oznacza się budynki",
+    "answers": [
+      "zabytkowe.",
+      "garaży.",
+      "terminali i dworców.",
+      "stacji transformatorowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 289,
+    "text": "Który z dokumentów kartograficznych stanowi podstawę wpisu danych dotyczących nieruchomości gruntowych w księdze wieczystej?",
+    "answers": [
+      "Kopia mapy topograficznej.",
+      "Wyrys z miejscowego planu zagospodarowania przestrzennego.",
+      "Kopia mapy zasadniczej.",
+      "Wyrys z mapy ewidencyjnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 290,
+    "text": "Do zakładania baz danych ewidencji gruntów i budynków nie wykorzystuje się wyników",
+    "answers": [
+      "pomiarów fotogrametrycznych.",
+      "interpretacji pokrycia terenu ze zdjęć satelitarnych.",
+      "oględzin ewidencjonowanych obiektów.",
+      "terenowych pomiarów geodezyjnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 291,
+    "text": "Geodeta wykonuje w obrębie ewidencyjnym nr 25 połączenie działek 121 i 156/2, należących do jednego właściciela. Od organu prowadzącego ewidencję gruntów i budynków otrzymał informację, że w obrębie nr 25 najwyższy użyty numer działki to 567. Który numer powinien zostać nadany połączonej działce?",
+    "answers": [
+      "121",
+      "567/1",
+      "156/2",
+      "568"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 292,
+    "text": "Które z wymienionych danych opisowo-informacyjnych nie stanowią treści mapy ewidencyjnej?",
+    "answers": [
+      "Numery porządkowe budynków.",
+      "Numery dróg publicznych.",
+      "Numery ewidencyjne budynków.",
+      "Numery najniższych kondygnacji budynków naziemnych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 293,
+    "text": "Na zamieszczonej mapie glebowo-rolniczej cyfra 4, w zaznaczonym na czerwono konturze, oznacza",
+    "answers": [
+      "klasę bonitacyjną gleby.",
+      "numer konturu klasyfikacyjnego.",
+      "typ gleby.",
+      "numer kompleksu przydatności rolniczej gleby."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/b36_mapa30.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 294,
+    "text": "Który dokument należy opracować podczas stabilizacji nowych punktów granicznych zgodnie z decyzją o podziale nieruchomości?",
+    "answers": [
+      "Protokół wznowienia i przyjęcia granic.",
+      "Szkic podstawowy.",
+      "Protokół wyznaczenia i utrwalenia nowych punktów granicznych.",
+      "Szkic dokumentacyjny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 295,
+    "text": "Nieprzekraczalna data doręczenia właścicielom działek przedstawionego zawiadomienia, o czynnościach podjętych w celu ustalenia przebiegu granic działek ewidencyjnych, upływa ZAWIADOMIENIE O czynnościach podjętych w celu ustalenia przebiegu granic działek ewidencyjnych Na podstawie §38 ust. 1 rozporządzenia Ministra Rozwoju Regionalnego i Budownictwa z dnia 27 lipca 2021 r. w sprawie ewidencji gruntów i budynków (Dz. U. z 2021 r. poz. 1390 z poz. zm.) oraz zgłoszenia pracy geodezyjnej w Powiatowym Ośrodku Dokumentacji Geodezyjnej i Kartograficznej w Bielsku-Białej pod nr 164.01.2024 z dnia 08.01.2024 r. uprzejmie zawiadamiam, że w dniu 17.03.2024 r. o godzinie 9.00 odbędzie się ustalenie przebiegu granic działki ewidencyjnej nr 103 z działkami 100/2, 101 i 102. Rozpoczęcie czynności będzie miało miejsce obok budynku mieszkalnego nr 122 na działce ewidencyjnej nr 103. Nieusprawiedliwione niestawiennictwo nie wstrzymuje czynności ustalenia przebiegu granic.",
+    "answers": [
+      "17.02.2024 r.",
+      "09.03.2024 r.",
+      "16.03.2024 r.",
+      "02.03.2024 r."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 296,
+    "text": "Którego elementu nie zawiera treść protokołu granicznego",
+    "answers": [
+      "Opisu wzajemnych ustępstw stron.",
+      "Informacji dotyczących stron oraz ich pełnomocników.",
+      "Opisu przebiegu granic.",
+      "Pouczenia strony o możliwości przekazania sprawy sądowi."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "BUD.19"
+  },
+  {
+    "id": 297,
+    "text": "Który szkic przedstawiono na załączonym rysunku?",
+    "answers": [
+      "Szkic inwentaryzacyjny.",
+      "Szkic graniczny.",
+      "Szkic tyczenia.",
+      "Szkic dokumentacyjny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_szkic5.png"
+    },
+    "category": "BUD.19"
+  },
+  {
+    "id": 298,
+    "text": "Pani Zofia Kowalska, właścicielka nieruchomości nr 500, przekazała prawo własności do tej nieruchomości swojemu synowi Janowi Kowalskiemu, w zamian za dożywotnie utrzymanie. Które działy księgi wieczystej ulegną zmianie?",
+    "answers": [
+      "I-O i II",
+      "I-Sp i III",
+      "II i IV",
+      "II i III"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "bud19/bd32_protokol4.png"
+    },
+    "category": "BUD.19"
+  }
+]
