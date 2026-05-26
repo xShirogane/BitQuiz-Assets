@@ -1,0 +1,6013 @@
+[
+  {
+    "id": 1,
+    "text": "Pracownik odpowiedzialny materialnie, z winy nieumyślnej uszkodził towary. Wartość szkody wyceniono na 12 000,00 zł. Miesięczne wynagrodzenie pracownika to 3 000,00 zł. Wskaż maksymalną kwotę odszkodowania, z tytułu wyrządzonej szkody, którą może domagać się od pracownika pracodawca.",
+    "answers": [
+      "9 000,00 zł",
+      "3 000,00 zł",
+      "1 500,00 zł",
+      "12 000,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 2,
+    "text": "Oblicz cenę netto jednej sztuki sanek.",
+    "answers": [
+      "260,00 zł",
+      "520,00 zł",
+      "400,40 zł",
+      "319,80 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela105.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 3,
+    "text": "Cena sprzedaży netto towaru to 25,00 zł, a cena brutto 30,75 zł. Ile zapłaci klient za towar, w przypadku uzyskania 25% rabatu?",
+    "answers": [
+      "7,69 zł",
+      "23,06 zł",
+      "18,75 zł",
+      "6,25 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 4,
+    "text": "Którą metodę sprzedaży należy zastosować dla towarów z branży jubilerskiej, umieszczanych w gablotach?",
+    "answers": [
+      "Samoobsługową.",
+      "Preselekcyjną.",
+      "Wysyłkową.",
+      "Specjalną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 5,
+    "text": "Klient zakupił rower 20.05.2024 r. Otrzymał paragon i kartę gwarancyjną z określonym terminem gwarancji 1 rok. Dnia 02.06.2025 r. zauważył wadę towaru – niesprawny hamulec. Zgodnie z przepisami klient",
+    "answers": [
+      "może reklamować towar z tytułu niezgodności towaru z umową.",
+      "może reklamować towar z tytułu gwarancji.",
+      "nie ma możliwości reklamowania towaru z tytułu wady.",
+      "nie ma możliwości reklamowania towaru z tytułu rękojmi."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 6,
+    "text": "W sklepie, na wywieszce cenowej towaru, nie musi być umieszczona",
+    "answers": [
+      "cena sprzedaży brutto.",
+      "jednostka miary oferowanego towaru.",
+      "cena zakupu netto.",
+      "nazwa towaru."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 7,
+    "text": "Jednostka posiada w magazynie towary przyjęte dostawami z 10 maja, 15 i 22 czerwca oraz 29 lipca. Przygotowując towary do sprzedaży według metody FIFO na półki w pierwszej kolejności powinny trafić artykuły z dostaw:",
+    "answers": [
+      "15 czerwca i 22 czerwca.",
+      "10 maja i 29 lipca.",
+      "22 czerwca i 29 lipca.",
+      "10 maja i 15 czerwca."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 8,
+    "text": "Termin odstąpienia od umowy zawartej poza lokalem przedsiębiorstwa może zostać wydłużony do 12 miesięcy w przypadku, gdy sprzedawca",
+    "answers": [
+      "poinformuje o możliwości odstąpienia od umowy w ciągu trzech miesięcy od zakupu.",
+      "poinformuje o możliwości odstąpienia od umowy w ciągu miesiąca od zakupu.",
+      "nie dostarczy informacji o możliwości odstąpienia od umowy.",
+      "dostarczy informację o możliwości odstąpienia od umowy wraz z towarem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 9,
+    "text": "Wskaż środki/urządzenia, które umożliwiają transport wewnątrzzakładowy w przedsiębiorstwie handlowym.",
+    "answers": [
+      "Wózki widłowe i taczkowe, inne urządzenia transportu składowo-magazynowego.",
+      "Wózki taczkowe i widłowe, środki transportu morskiego.",
+      "Wózki paletowe i widłowe, środki transportu samochodowego.",
+      "Wózki widłowe, paletowe, inne środki transportu między przedsiębiorstwami."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 10,
+    "text": "Ile wyniesie wartość transakcji na podstawie fragmentu paragonu?",
+    "answers": [
+      "12,98 zł",
+      "14,98 zł",
+      "13,89 zł",
+      "15,89 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_paragon3.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 11,
+    "text": "Zgodnie z informacjami zamieszczonymi na etykietach towarów i kontrolą przeprowadzoną 10 maja 2024 r. wskaż, które produkty nie spełniają norm jakości?",
+    "answers": [
+      "Ser żółty Alek.",
+      "Herbatniki maślane Zizu.",
+      "Twaróg półtłusty.",
+      "Mleko świeże 2%."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_etykiety.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 12,
+    "text": "W który sposób powinny być ułożone towary na półkach sklepowych, w odniesieniu do klientów przywiązanych do marki produktu? * ∆,■,○,♣,♥,► – symboliczne oznaczenie różnych marek towarów",
+    "answers": [
+      "Sposób 4.",
+      "Sposób 1.",
+      "Sposób 2.",
+      "Sposób 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_sposoby.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 13,
+    "text": "Jedna z zasad merchandisingu głosi, że",
+    "answers": [
+      "„najatrakcyjniejsze miejsca ekspozycji znajdują się na górnej i dolnej półce”.",
+      "„najlepsze miejsca na półkach przeznacza się dla najtańszych produktów”.",
+      "„najatrakcyjniejsze miejsce ekspozycji znajduje się na wysokości oczu”.",
+      "„najlepsze miejsca na półkach przeznacza się dla produktów o dużej rotacji”."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 14,
+    "text": "Ile wynosi stawka podatku VAT, przy założeniu, że wartość brutto sprzedaży to 270,00 zł, a kwota podatku VAT to 20,00 zł?",
+    "answers": [
+      "8%",
+      "0%",
+      "23%",
+      "5%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 15,
+    "text": "Dostawca, przyjmując do magazynu zwroty zareklamowanych przez klienta towarów, powinien wystawić dowód",
+    "answers": [
+      "PW (Przychód wewnętrzny).",
+      "PZ (Przyjęcie zewnętrzne).",
+      "WZ (Wydanie zewnętrzne).",
+      "MM (Przesunięcie międzymagazynowe)."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 16,
+    "text": "Jaką minimalną ilość towaru z oferty handlowej musi zamówić klient, aby mógł skorzystać z rabatu stosowanego przez hurtownię?",
+    "answers": [
+      "13 sztuk.",
+      "13 opakowań zbiorczych.",
+      "100 sztuk.",
+      "100 opakowań zbiorczych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_oferta5.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 17,
+    "text": "Klient, który zachowuje się racjonalnie",
+    "answers": [
+      "korzysta z akcji promocyjnych produktów, także tych, których aktualnie nie potrzebuje.",
+      "podąża za modą, naśladuje innych, nie zwraca uwagi na swój interes ekonomiczny.",
+      "tworzy listę zakupów, porównuje ceny, rozsądnie korzysta z promocji towarów.",
+      "podejmuje decyzje zakupowe pod wpływem impulsu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 18,
+    "text": "Którą formę sprzedaży prezentuje fragment rozmowy sprzedażowej? „…Dzień dobry. Jestem przedstawicielem firmy XYZ, kontaktuję się z Państwem, aby zaprezentować ofertę specjalną. Jeżeli zdecydują się Państwo na zakup już dzisiaj, ten odkurzacz możecie nabyć tylko za 4 999,00 zł. Umowę otrzymają Państwo pocztą. Od umowy będzie można odstąpić w ciągu 14 dni….”.",
+    "answers": [
+      "Tradycyjną.",
+      "Komisową.",
+      "Preselekcyjną.",
+      "Telefoniczną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 19,
+    "text": "Symbol umieszczany na opakowaniach niektórych produktów oznacza, że",
+    "answers": [
+      "towar znajdujący się w opakowaniu wykonany jest z wysokiej jakości tworzyw i może być używany wielokrotnie.",
+      "opakowanie produktu wykonane jest z wysokiej jakości tworzyw i może być używane wielokrotnie.",
+      "towar znajdujący się w opakowaniu w wyniku powtórnego przetworzenia nadaje się do ponownego wykorzystania.",
+      "opakowanie produktu w wyniku powtórnego przetworzenia nadaje się do ponownego wykorzystania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_symbol.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 20,
+    "text": "Asortyment towarów spożywczych w hipermarketach, to asortyment",
+    "answers": [
+      "szeroki i głęboki.",
+      "wąski i głęboki.",
+      "szeroki i płytki.",
+      "wąski i płytki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 21,
+    "text": "Hurtownia zakupiła narty u producenta w cenie zakupu netto 600,00 zł/parę, stawka podatku VAT wynosi 23%. Ile wyniesie wartość zysku hurtowni ze sprzedaży 1 pary nart przy założeniu, że zrealizuje zysk wynoszący 40% ceny zakupu?",
+    "answers": [
+      "240,00 zł",
+      "295,20 zł",
+      "442,80 zł",
+      "360,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 22,
+    "text": "Na podstawie fragmentu rozporządzenia, wskaż sposób odprowadzenia przez sprzedawcę utargu dziennego na rachunek bankowy przedsiębiorstwa.",
+    "answers": [
+      "Zależnie od wartości utargu osobiście, bankowozem lub z udziałem konwojentów.",
+      "Za pośrednictwem poczty lub kuriera w dobrze zabezpieczonej kopercie.",
+      "Zawsze za pośrednictwem konwojenta zatrudnionego przez jednostkę handlową.",
+      "Zawsze osobiście, bez względu na wartość uzyskanego utargu ze sprzedaży."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_rozporzadzenie.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 23,
+    "text": "Którą informację powinien przekazać sprzedawca klientowi, zainteresowanemu zakupem towaru przedstawionego na wywieszce cenowej?",
+    "answers": [
+      "Za 0,5 kg masła zapłaci Pan 7,50 zł.",
+      "Za zakup 1 szt. masła, drugie jest gratis.",
+      "Kupując 2 szt. masła zapłaci Pan 7,50 zł.",
+      "Musi kupić Pan co najmniej 2 szt. masła."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_wywieszka.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 24,
+    "text": "Wskaż towar, dla którego wywieszka cenowa została sporządzona zgodnie z przepisami prawa.",
+    "answers": [
+      "Szampon LUX",
+      "Balsam do ciała BEAUTY",
+      "Sok BARTUŚ",
+      "Masło NATURAL"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_wywieszki.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 25,
+    "text": "Na podstawie zamieszczonych informacji ustal rodzaj i wartość różnic inwentaryzacyjnych towarów w magazynie.",
+    "answers": [
+      "Niedobór 200,00 zł, nadwyżka 600,00 zł",
+      "Nadwyżka 800,00 zł",
+      "Niedobór 800,00 zł",
+      "Niedobór 600,00 zł, nadwyżka 200,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela106.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 26,
+    "text": "W przypadku wystąpienia rozbieżności między dokumentacją dostawy a stanem rzeczywistym dostarczonych towarów, należy sporządzić protokół",
+    "answers": [
+      "reklamacji usługi transportu.",
+      "różnic w dostawie.",
+      "zniszczeń towarów.",
+      "różnic inwentaryzacyjnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 27,
+    "text": "Które z zachowań klientów najczęściej powodują powstawanie dysonansu pozakupowego?",
+    "answers": [
+      "Racjonalne.",
+      "Rutynowe.",
+      "Nawykowe.",
+      "Nieracjonalne."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 28,
+    "text": "Przygotowanie towaru do sprzedaży polega między innymi na",
+    "answers": [
+      "analizie stanów magazynowych i składaniu zamówień.",
+      "analizie stanów ewidencyjnych oraz weryfikacji złożonych zamówień.",
+      "ocenie jakości towaru, porcjowaniu i układaniu w pojemnikach.",
+      "ocenie ilości towaru i porównywaniu stanów magazynowych z ewidencją."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 29,
+    "text": "Które zasady przechowywania towarów dotyczą wędlin?",
+    "answers": [
+      "Wysokie temperatury pomieszczeń, ułożone bez opakowań w zaciemnionych miejscach.",
+      "Niskie temperatury pomieszczeń, zamrożone i zawieszone w opakowaniach na hakach.",
+      "Warunki chłodnicze, ułożone bez opakowań, w pojemnikach razem z innymi towarami.",
+      "Warunki chłodnicze, ułożone w pojemnikach, z dala od towarów pochłaniających zapachy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 30,
+    "text": "Ile wynosi wartość podatku VAT należnego po dokonaniu korekty sprzedaży na podstawie fragmentu faktury korygującej?",
+    "answers": [
+      "66,04 zł",
+      "63,56 zł",
+      "41,60 zł",
+      "26,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_faktura22.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 31,
+    "text": "W celu stabilizacji towaru umieszczonego na palecie oraz jego zabezpieczenia przed porysowaniem w czasie transportu, przesyłkę należy",
+    "answers": [
+      "zabezpieczyć łańcuchami uniemożliwiającymi przesuwanie się towaru.",
+      "owinąć folią stretch.",
+      "zapakować do dużej drewnianej skrzyni.",
+      "zawinąć w szary papier."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 32,
+    "text": "Dokumentem, który należy sporządzić w przypadku korekty błędu na fakturze sprzedaży, wysłanej do kontrahenta, polegającego na zastosowaniu dla sprzedanego towaru niewłaściwej stawki podatku VAT, jest",
+    "answers": [
+      "faktura korygująca.",
+      "nota odsetkowa.",
+      "nota korygująca.",
+      "faktura pro-forma."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 33,
+    "text": "Formuła handlowa „LOCO” w transakcjach między kontrahentami oznacza, że zakupiony towar należy odebrać z magazynu",
+    "answers": [
+      "sprzedawcy, a koszt transportu ponosi klient.",
+      "sprzedawcy i na jego koszt.",
+      "klienta i na jego koszt.",
+      "klienta, a koszt transportu ponosi sprzedawca."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 34,
+    "text": "Klient zakupił suszarkę do włosów 15.03.2025 r. W dniu 29.05.2025 zgłosił reklamację towaru do sprzedawcy. Zgodnie z Ustawą o prawach konsumenta sprzedawca ma obowiązek ustosunkować się do złożonej reklamacji najpóźniej w dniu",
+    "answers": [
+      "12.06.2025 r.",
+      "15.06.2025 r.",
+      "01.06.2025 r.",
+      "10.06.2025 r."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 35,
+    "text": "Sprzedawca obsługuje klienta, który nie potrafi podjąć decyzji o zakupie. Widząc zniecierpliwienie innych klientów, powinien powiedzieć",
+    "answers": [
+      "„Proszę się zdecydować, inni też chcą zrobić zakupy”.",
+      "„Proszę przyjść jutro, teraz nie mam czasu, do widzenia”.",
+      "„Inni klienci, którzy kupili ten towar byli z niego bardzo zadowoleni”.",
+      "„Ten towar nie będzie jednak dla pana odpowiedni, do widzenia”."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 36,
+    "text": "Stroną przyjmującą zgłoszenie reklamacyjne klienta z tytułu niezgodności towaru z umową oraz odpowiadającą za wady towaru jest",
+    "answers": [
+      "kurier.",
+      "gwarant.",
+      "producent.",
+      "sprzedawca."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 37,
+    "text": "Które urządzenie techniczne umożliwi sprzedawcy sprawdzenie stanu określonego towaru w magazynie?",
+    "answers": [
+      "Kolektor danych - terminal z czytnikiem kodów kreskowych.",
+      "Metkownica dwurzędowa.",
+      "Kasa fiskalna.",
+      "Drukarka wielofunkcyjna z łączem internetowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 38,
+    "text": "Dokumentem, który może być podstawą do złożenia reklamacji z tytułu udzielonej gwarancji przez producenta, jest",
+    "answers": [
+      "zamówienie.",
+      "karta gwarancyjna.",
+      "oświadczenie kupującego.",
+      "aktualna oferta producenta."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 39,
+    "text": "Głównym zadaniem sprzedawcy w tradycyjnej formie sprzedaży, z rozwiniętą obsługą klienta jest",
+    "answers": [
+      "przygotowanie ofert handlowych i wysyłanie ich do klientów.",
+      "prowadzenie rozmowy sprzedażowej i inkasowanie należności za zakupy.",
+      "zapewnienie klientom swobodnego dostępu do towarów.",
+      "zarejestrowanie sprzedaży w kasie, bez udzielania poradnictwa sprzedażowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 40,
+    "text": "Ile wyniesie stan końcowy gotówki w kasie obliczony na podstawie zamieszczonych informacji o dokonanych transakcjach?",
+    "answers": [
+      "3 000,00 zł",
+      "5 100,00 zł",
+      "3 300,00 zł",
+      "1 200,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela107.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 41,
+    "text": "Dokumentem potwierdzającym wpłatę utargu w kasie banku na rachunek bieżący jednostki handlowej jest",
+    "answers": [
+      "polecenie przelewu.",
+      "przekaz pocztowy.",
+      "wpłata gotówkowa.",
+      "asygnata kasowa KP."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 42,
+    "text": "Który z wymienionych efektów zostanie osiągnięty przez właściwe przygotowanie towarów do sprzedaży?",
+    "answers": [
+      "Wydłużenie procesu sprzedaży.",
+      "Powstanie ubytków towarowych.",
+      "Skrócenie czasu sprzedaży.",
+      "Obniżenie kultury sprzedaży."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 43,
+    "text": "Odzież i obuwie należy przechowywać w magazynach",
+    "answers": [
+      "podziemnych.",
+      "zamkniętych.",
+      "otwartych.",
+      "specjalnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 44,
+    "text": "Na podstawie zamieszczonego fragmentu faktury oblicz jaką kwotę brutto zapłaci klient.",
+    "answers": [
+      "842,55 zł",
+      "811,05 zł",
+      "685,00 zł",
+      "584,25 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_faktura13.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 45,
+    "text": "Do którego etapu rozmowy sprzedażowej należy przyporządkować wypowiedź sprzedawcy: Proszę się nie obawiać. Ten model odkurzacza dzięki specjalnym filtrom dostosowanym dla osób uczulonych na kurz i roztocza pozwoli Panu na jego bezpieczne użytkowanie?",
+    "answers": [
+      "Wyjaśnienie wątpliwości.",
+      "Prezentacja towaru.",
+      "Zamknięcie sprzedaży.",
+      "Rozpoznanie potrzeb."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 46,
+    "text": "Która informacja zgodnie z przepisami prawa musi być umieszczona na wywieszce cenowej w sklepie detalicznym?",
+    "answers": [
+      "Data przydatności do użycia.",
+      "Data produkcji.",
+      "Cena jednostkowa brutto.",
+      "Cena jednostkowa netto."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 47,
+    "text": "Którą formę sprzedaży należy zastosować w osiedlowym sklepie spożywczym, o dużej powierzchni sprzedażowej, aby zapewnić klientom bezpośredni kontakt z towarem?",
+    "answers": [
+      "Tradycyjną.",
+      "Samoobsługową.",
+      "Specjalną.",
+      "Preselekcyjną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 48,
+    "text": "W celu poinformowania klientów instytucjonalnych o ofercie handlowej hurtowni i warunkach jej realizacji należy",
+    "answers": [
+      "rozdawać ulotki w centrum miasta.",
+      "umieścić bilbord przy głównej ulicy miasta.",
+      "zorganizować prezentację w hurtowni.",
+      "wysłać ofertę handlową kontrahentom."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 49,
+    "text": "Który artykuł spożywczy może być sprzedawany w samoobsłudze?",
+    "answers": [
+      "Sałatki i surówki na wagę.",
+      "Ciasto drożdżowe do porcjowania.",
+      "Żywe ryby i owoce morza.",
+      "Kawa rozpuszczalna w słoiku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 50,
+    "text": "Zgodnie z zasadą komplementarności obok zielonych kwiatów doniczkowych należy umieścić",
+    "answers": [
+      "kwiaty sztuczne.",
+      "bukiety z kwiatów ciętych.",
+      "odżywki do roślin.",
+      "sadzonki drzew i krzewów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 51,
+    "text": "Przechowywanie ziemniaków w zaciemnionym i chłodnym pomieszczeniu zapobiega zmianom biologicznym takim jak",
+    "answers": [
+      "wysychanie.",
+      "kiełkowanie.",
+      "gnicie.",
+      "bulwienie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 52,
+    "text": "Którą z wymienionych czynności magazynier powinien wykonać w pierwszej kolejności podczas dostawy towarów?",
+    "answers": [
+      "Przeprowadzenie odbioru ilościowego.",
+      "Sporządzenie dokumentacji przyjęcia towarów.",
+      "Sporządzenie protokołu różnic w dostawie.",
+      "Przekazanie towarów do miejsca składowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 53,
+    "text": "Zgodnie z ustawą o pozasądowym rozwiązywaniu sporów konsumenckich z dnia 23 września 2016, Dz.U.2016, poz.1823 przedsiębiorca jest zobowiązany udzielić odpowiedzi na reklamację konsumenta od dnia jej otrzymania w terminie",
+    "answers": [
+      "14 dni.",
+      "7 dni.",
+      "30 dni.",
+      "21 dni."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 54,
+    "text": "W pobliżu niepakowanych wyrobów cukierniczych można przechowywać",
+    "answers": [
+      "mięso świeże.",
+      "chleb i bułki.",
+      "wyroby tytoniowe.",
+      "marchew i ziemniaki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 55,
+    "text": "Jaki rabat przy uwzględnieniu warunków transportu, zostanie udzielony stałemu klientowi kupującemu towary o wartości 4 678,00 zł?",
+    "answers": [
+      "3% i dowóz gratis.",
+      "13% i dowóz gratis.",
+      "15% i dowóz 100 zł.",
+      "18% i dowóz 50 zł."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela76.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 56,
+    "text": "Płyty DVD w ofercie księgarni stanowią asortyment",
+    "answers": [
+      "płytki.",
+      "uzupełniający.",
+      "wąski.",
+      "podstawowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 57,
+    "text": "Który sposób informowania o nowej ofercie hurtowni tkanin ułatwi klientom instytucjonalnym decyzję o złożeniu zamówienia?",
+    "answers": [
+      "Katalog z próbkami.",
+      "Ulotka informacyjna.",
+      "Gazetka reklamowa.",
+      "Rozmowa telefoniczna."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 58,
+    "text": "Które z wymienionych owoców, w stanie świeżym, należą do owoców nietrwałych?",
+    "answers": [
+      "Banany.",
+      "Melony.",
+      "Maliny.",
+      "Jabłka."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 59,
+    "text": "Podczas inwentaryzacji w sklepie stwierdzono niedobór w kwocie 2 400,00 zł. Ustal wysokość odszkodowania, jakie każdy z pracowników jest zobowiązany ponieść z tytułu powstałego niedoboru.",
+    "answers": [
+      "Kierownik - 720,00 zł; sprzedawca - 1 440,00 zł; młodszy sprzedawca - 240,00 zł",
+      "Kierownik - 480,00 zł; sprzedawca - 480,00 zł; młodszy sprzedawca - 480,00 zł",
+      "Kierownik - 720,00 zł; sprzedawca - 480,00 zł; młodszy sprzedawca - 240,00 zł",
+      "Kierownik - 480,00 zł; sprzedawca - 1 440,00 zł; młodszy sprzedawca - 520,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela74.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 60,
+    "text": "Po otrzymaniu zamówienia od klienta w pierwszej kolejności należy",
+    "answers": [
+      "potwierdzić realizację zamówienia.",
+      "wysłać towary, które znajdują się w magazynie.",
+      "przygotować fakturę sprzedaży.",
+      "sprawdzić możliwość realizacji zamówienia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 61,
+    "text": "Na podstawie danych zamieszczonych w tabeli ustal charakter i wartość różnicy inwentaryzacyjnej towarów.",
+    "answers": [
+      "Nadwyżka o wartości 48,00 zł",
+      "Niedobór o wartości 12,00 zł",
+      "Nadwyżka o wartości 12,00 zł",
+      "Niedobór o wartości 48,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela75.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 62,
+    "text": "Po wykryciu wad zasadniczych w oferowanym towarze sprzedawca powinien",
+    "answers": [
+      "obniżyć cenę sprzedaży towaru.",
+      "wycofać towar ze sprzedaży.",
+      "wykorzystać towar w akcji promocyjnej.",
+      "zażądać wymiany towaru u dostawcy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 63,
+    "text": "Ustal cenę sprzedaży brutto towaru, którego cena zakupu netto wynosi 56,00 zł, marża liczona do ceny sprzedaży netto wynosi 30%, a podatek VAT 23%.",
+    "answers": [
+      "98,40 zł",
+      "72,80 zł",
+      "80,00 zł",
+      "89,54 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 64,
+    "text": "W celu zabezpieczenia przed uszkodzeniem mechanicznym szklanego wazonu przewożonego samochodem dostawczym do klienta, należy go opakować",
+    "answers": [
+      "folią bąbelkową.",
+      "folią translucentną.",
+      "w torbę papierową.",
+      "w arkusz papieru."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 65,
+    "text": "Umieszczone na wystawie modne zestawy odzieżowe, sprzedawane w cenie promocyjnej, to towary",
+    "answers": [
+      "wybieralne.",
+      "impulsy.",
+      "magnesy.",
+      "luksusowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 66,
+    "text": "Odbiór jakościowy dostarczonych książek polega na",
+    "answers": [
+      "analizie dokumentów towarzyszących dostawie.",
+      "sprawdzeniu liczby opakowań zbiorczych.",
+      "przeliczeniu dostarczonych książek.",
+      "ocenie organoleptycznej książek."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 67,
+    "text": "Dokumentem potwierdzającym przyjęcie zakupionych od dostawcy towarów do magazynu jest",
+    "answers": [
+      "faktura zakupu.",
+      "protokół odbioru.",
+      "przyjęcie wewnętrzne.",
+      "przyjęcie zewnętrzne."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 68,
+    "text": "Klientowi, który zamierza kupić przewodnik po Wrocławiu, sprzedawca może zaoferować jako artykuł komplementarny",
+    "answers": [
+      "plan Wrocławia.",
+      "obraz z widokiem okolic Wrocławia.",
+      "mapę samochodową Polski.",
+      "przewodnik po Karkonoszach."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 69,
+    "text": "Zgodnie z przepisami dotyczącymi rękojmi w przypadku stwierdzenia wady fizycznej nowego towaru sprzedawca odpowiada wobec konsumenta od momentu wydania towaru do",
+    "answers": [
+      "2 lat.",
+      "5 lat.",
+      "0,5 roku.",
+      "1 roku."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 70,
+    "text": "Klient poszukujący nowości w różnych dziedzinach, charakteryzujący się relatywnie wysokim statusem społecznym i materialnym, podejmujący decyzje szybko i akceptujący propozycję zakupu nowych towarów, to",
+    "answers": [
+      "maruder.",
+      "innowator.",
+      "naśladowca.",
+      "poszukiwacz."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 71,
+    "text": "Cenę netto towaru, wynoszącą 50,00 zł obniżono o 5%, a następnie o 10%. Stawka podatku VAT na ten towar wynosi 23%. Oblicz cenę brutto towaru po zastosowanych obniżkach.",
+    "answers": [
+      "52,58 zł",
+      "42,50 zł",
+      "52,28 zł",
+      "42,75 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 72,
+    "text": "W sklepie AGD klient kupił telewizor i odkurzacz. Na podstawie oferty sklepu przedstawionej w tabeli wskaż, ile zapłaci klient za zakupione towary po uzyskaniu rabatu.",
+    "answers": [
+      "960,00 zł za telewizor oraz 476,00 zł za odkurzacz.",
+      "960,00 zł za telewizor oraz 680,00 zł za odkurzacz.",
+      "672,00 zł za telewizor oraz 476,00 zł za odkurzacz.",
+      "672,00 zł za telewizor oraz 680,00 zł za odkurzacz."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela72.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 73,
+    "text": "Ceny jednostkowe nie muszą być umieszczane na wywieszkach cenowych towarów",
+    "answers": [
+      "których cena jednostkowa jest identyczna z ceną sprzedaży.",
+      "nieżywnościowych sprzedawanych w sklepach dyskontowych.",
+      "spożywczych o terminie ważności poniżej miesiąca.",
+      "niepełnowartościowych, których cena została obniżona."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 74,
+    "text": "W oparciu o dane zamieszczone w tabeli, oszacuj maksymalną wartość ubytków towarowych, jeżeli w hurtowni kosmetycznej stosującej sprzedaż tradycyjną, obrót pomiędzy kolejnymi inwentaryzacjami wyniósł 500 000,00 zł.",
+    "answers": [
+      "1 000,00 zł",
+      "1 500,00 zł",
+      "1 150,00 zł",
+      "1 750,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela73.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 75,
+    "text": "Na podstawie danych z tabeli oblicz kwotę reszty, jaką otrzyma klient, który kupił: 1 szampon rumiankowy, 5 mydeł w kostce, 1 mydło w płynie, 2 płyny do kąpieli i zapłacił banknotem 200-złotowym.",
+    "answers": [
+      "150,78 zł",
+      "53,50 zł",
+      "49,22 zł",
+      "146,50 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela77.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 76,
+    "text": "Cena sprzedaży kurtki skórzanej wynosi 615,00 zł i zawiera 23% podatku VAT. Oblicz kwotę podatku VAT.",
+    "answers": [
+      "473,55 zł",
+      "500,00 zł",
+      "115,00 zł",
+      "141,45 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 77,
+    "text": "Po zakończeniu sprzedaży w danym dniu kierownik sklepu ma obowiązek wydrukować z kasy fiskalnej raport",
+    "answers": [
+      "obrotowy.",
+      "dobowy.",
+      "zmianowy.",
+      "kasowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 78,
+    "text": "W celu zabezpieczenia przed kradzieżą drobnej biżuterii w salonie jubilerskim należy zastosować",
+    "answers": [
+      "pudełka zabezpieczające.",
+      "zamykaną gablotę.",
+      "zabezpieczenia miękkie.",
+      "klipsy antykradzieżowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 79,
+    "text": "Które z wymienionych towarów są wrażliwe na niską wilgotność powietrza?",
+    "answers": [
+      "Cement i zaprawy klejowe.",
+      "Tkaniny i artykuły odzieżowe.",
+      "Świeże owoce i warzywa.",
+      "Książki i wyroby papiernicze."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 80,
+    "text": "Wskaż towar, który zgodnie z prawem konsumenckim jest towarem niezgodnym z umową.",
+    "answers": [
+      "Zakupiona przez konsumenta bluza jest na niego za mała.",
+      "Na obudowie lodówki jest rysa i z tego powodu obniżono jej cenę.",
+      "W trakcie użytkowania łopaty została uszkodzona na niej warstwa farby.",
+      "Buty jesienno-zimowe przemakają przy kontakcie ze śniegiem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 81,
+    "text": "Towary przecenione umieszczone na szczytach regałów tworzą ekspozycję",
+    "answers": [
+      "promocyjną.",
+      "towarów markowych.",
+      "tematyczną.",
+      "nowości."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 82,
+    "text": "Dla którego etapu rozmowy sprzedażowej charakterystyczny jest zwrot Poszukuję najnowszej powieści Olgi Tokarczuk?",
+    "answers": [
+      "Wyjaśnienie wątpliwości.",
+      "Prezentowanie towaru.",
+      "Rozpoznanie potrzeb.",
+      "Przedstawienie korzyści."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 83,
+    "text": "Na podstawie danych z tabeli ustal wartości niedoborów i nadwyżek inwentaryzacyjnych.",
+    "answers": [
+      "Nadwyżka o wartości 58,00 zł i niedobór o wartości 15,00 zł.",
+      "Niedobór o wartości 58,00 zł i nadwyżka o wartości 15,00 zł.",
+      "Nadwyżka o wartości 43,00 zł i niedobór o wartości 30,00 zł.",
+      "Niedobór o wartości 43,00 zł i nadwyżka o wartości 30,00 zł."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han01/au20_tabela13.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 84,
+    "text": "Który z wymienionych sposobów informowania klientów o ofercie umożliwi klientom indywidualnym zapoznanie się z nowym asortymentem internetowego sklepu odzieżowego?",
+    "answers": [
+      "Oferta w formie listu handlowego wysłana faxem.",
+      "Ulotka informacyjna wysłana pocztą.",
+      "Newsletter wysłany na adresy e-mailowe.",
+      "Przedstawienie oferty w formie telemarketingu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 85,
+    "text": "Ustalony przez kierownika sklepu stały zapas gotówki w kasie, niezbędny do wydawania reszty klientom, to",
+    "answers": [
+      "pogotowie kasowe.",
+      "manko.",
+      "superata.",
+      "utarg dzienny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 86,
+    "text": "Kupujący chętnie podjął rozmowę ze sprzedawcą, kierując ją również na tematy osobiste. Takie zachowanie jest charakterystyczne dla klienta",
+    "answers": [
+      "rozmownego.",
+      "nieufnego.",
+      "niecierpliwego.",
+      "zdecydowanego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 87,
+    "text": "Wskaż czynność wykonywaną podczas przygotowania serów żółtych dostarczanych w blokach do sprzedaży w sklepie samoobsługowym.",
+    "answers": [
+      "Przeprowadzenie odbioru ilościowego wstępnego.",
+      "Rozmieszczenie bloków sera na regałach chłodniczych w magazynie.",
+      "Dzielenie na części i porcjowanie sera.",
+      "Kontrola jakości serów eksponowanych na sali sprzedażowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 88,
+    "text": "Magazynier, który zestawił asortyment towarów zgodnie ze zleceniem wewnętrznym, sporządzonym na podstawie zamówienia odbiorcy, dokonał",
+    "answers": [
+      "sprawdzenia dokumentów dostawy.",
+      "kompletacji towarów.",
+      "segregowania towarów.",
+      "kontroli jednostek ładunkowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 89,
+    "text": "Brakującym elementem przedstawionej wywieszki cenowej opakowania cukierków oferowanych w sklepie detalicznym jest",
+    "answers": [
+      "informacja o składzie produktu.",
+      "termin przydatności.",
+      "cena jednostkowa brutto za kilogram.",
+      "data produkcji danej partii towaru."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han01/au20_ramka2.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 90,
+    "text": "W pozycji Do zapłaty słownie należy wpisać kwotę",
+    "answers": [
+      "Trzysta siedemdziesiąt osiem zł 00/100 gr",
+      "Trzysta dziewięćdziesiąt jeden zł 50/100 gr",
+      "Czterysta trzydzieści zł 50/100 gr",
+      "Trzysta pięćdziesiąt zł 00/100 gr"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/au20_faktura.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 91,
+    "text": "Które z wymienionych towarów powinny być przechowywane na najniższej półce regału w sklepie spożywczym?",
+    "answers": [
+      "Napoje owocowe w kartonikach po 200 ml.",
+      "Przyprawy w torebkach papierowych po 20 g.",
+      "Kawa rozpuszczalna w słoikach szklanych, o masie 200 g.",
+      "Woda mineralna w 5-litrowych butelkach plastikowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 92,
+    "text": "Korzystając z informacji zawartych w przedstawionej kartotece magazynowej, ustal ilość tkaniny bawełnianej przyjętej do magazynu na podstawie dowodu PZ 2/04/2020.",
+    "answers": [
+      "80 m.b.",
+      "230 m.b.",
+      "153 m.b.",
+      "100 m.b."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han01/au20_tabela11.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 93,
+    "text": "Który z wymienionych towarów wymaga oznaczenia opakowania transportowego przedstawionym znakiem manipulacyjnym?",
+    "answers": [
+      "Patelnia kamienna.",
+      "Miska plastikowa.",
+      "Puszka metalowa.",
+      "Wazon szklany."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han01/au20_znak.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 94,
+    "text": "Podczas odbioru dostarczonych towarów stwierdzono nieprawidłowości związane z ich ilością. W opisanej sytuacji należy sporządzić",
+    "answers": [
+      "notę korygującą.",
+      "protokół różnic.",
+      "dokument magazynowy PW.",
+      "specyfikację towarową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 95,
+    "text": "W sklepie zastosowano promocję na płyty CD i DVD, której zasady zamieszczono w przedstawionej ofercie handlowej. Ustal ile zapłaci klient, jeżeli wybrał płyty w cenie: 39,99 zł, 67,98 zł, 38,99 zł oraz 49,98 zł.",
+    "answers": [
+      "128,96 zł",
+      "196,94 zł",
+      "157,95 zł",
+      "156,95 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han01/au20_ramka.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 96,
+    "text": "Kierownik sklepu i 6 sprzedawców są odpowiedzialni za powierzone mienie zgodnie z umową o wspólnej odpowiedzialności materialnej. Odpowiedzialność kierownika określono na 20%, a za pozostałą wartość niedoboru odpowiadają w równych częściach sprzedawcy. Podczas inwentaryzacji stwierdzono niedobór w kwocie 1 500,00 zł. Ustal wartość odpowiedzialności przypadającą na jednego sprzedawcę.",
+    "answers": [
+      "250,00 zł",
+      "300,00 zł",
+      "171,43 zł",
+      "200,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 97,
+    "text": "Forma sprzedaży, którą należy zastosować w sklepie odzieżowym, by pozyskać klientów spoza rynku lokalnego to sprzedaż",
+    "answers": [
+      "samoobsługowa.",
+      "tradycyjna.",
+      "preselekcyjna.",
+      "internetowa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 98,
+    "text": "Błędnie wpisaną stawkę podatku VAT na fakturze należy poprawić przez wystawienie",
+    "answers": [
+      "noty korygującej przez sprzedającego.",
+      "noty korygującej przez kupującego.",
+      "faktury korygującej przez kupującego.",
+      "faktury korygującej przez sprzedającego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 99,
+    "text": "Który z wymienionych warunków sprzedaży jest skierowany do hurtowni mebli?",
+    "answers": [
+      "Przy zakupie mebli w naszym sklepie firmowym dodatkowy rabat na oświetlenie.",
+      "Darmowy projekt zestawu mebli dopasowany do każdego pomieszczenia.",
+      "Przy zakupie mebli systemowych z najnowszego katalogu montaż gratis.",
+      "Przy zakupie powyżej 10 zestawów mebli tego samego rodzaju 10% rabatu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 100,
+    "text": "Na podstawie danych z tabeli ustal kwotę do zapłaty w przypadku, gdy klient zdecydował się na płatność kartą kredytową w sklepie internetowym.",
+    "answers": [
+      "323,40 zł",
+      "330,00 zł",
+      "335,00 zł",
+      "340,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han01/au20_tabela14.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 101,
+    "text": "Któremu z wymienionych typów klientów sprzedawca powinien polecić model telefonu komórkowego przeceniony ze względu na wyprzedaż starych modeli?",
+    "answers": [
+      "Innowatorowi.",
+      "Liderowi.",
+      "Naśladowcy.",
+      "Maruderowi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 102,
+    "text": "Cenę sprzedaży netto towaru, wynoszącą 2 500,00 zł obniżono o 20%, a następnie o 5%. Stawka podatku VAT na ten towar wynosi 23%. Oblicz cenę sprzedaży brutto towaru po obu obniżkach.",
+    "answers": [
+      "2 337,00 zł",
+      "3 075,00 zł",
+      "2 460,00 zł",
+      "1 900,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 103,
+    "text": "Który z wymienionych czynników negatywnie wpływa na jakość mąki przechowywanej w magazynie?",
+    "answers": [
+      "Niska wilgotność względna powietrza.",
+      "Sąsiedztwo produktów wydzielających zapachy.",
+      "Brak dostępu światła słonecznego do magazynu.",
+      "Temperatura w magazynie powyżej 15°C."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 104,
+    "text": "W jakim terminie konsument, który kupił buty w sklepie internetowym, ma prawo do odstąpienia od umowy bez podania przyczyny?",
+    "answers": [
+      "14 dni roboczych od dnia zapłaty za towar.",
+      "30 dni roboczych od dnia wydania towaru.",
+      "14 dni kalendarzowych od dnia dostarczenia towaru.",
+      "30 dni kalendarzowych od dnia zakupu towaru."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 105,
+    "text": "Które z wymienionych produktów powinny być oznaczone znakiem CE potwierdzającym zgodność wyrobu z wymogami UE?",
+    "answers": [
+      "Artykuły odzieżowe.",
+      "Sprzęt AGD i RTV.",
+      "Książki i czasopisma.",
+      "Meble wypoczynkowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 106,
+    "text": "Odbiór ilościowy wstępny dostawy karmy dla kotów w saszetkach po 100 g dostarczonych w opakowaniach zbiorczych polega na",
+    "answers": [
+      "sprawdzeniu zawartości opakowań zbiorczych.",
+      "przeliczeniu ilości saszetek w każdym opakowaniu zbiorczym.",
+      "przeliczeniu liczby opakowań zbiorczych.",
+      "sprawdzeniu, czy opakowania jednostkowe nie są uszkodzone."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 107,
+    "text": "Które z wymienionych towarów należy umieścić obok siebie, jeżeli ekspozycja jest przygotowywana zgodnie z zasadą komplementarności?",
+    "answers": [
+      "Kawy i herbaty.",
+      "Czekolady różnych firm.",
+      "Mięsa i przyprawy do mięs.",
+      "Jogurty z różną zawartością tłuszczu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 108,
+    "text": "W oparciu o dane zamieszczone w tabeli ustal maksymalną wartość niedoboru mieszczącego się w granicach przyjętych norm ubytków dla owoców sprzedawanych w sklepie ogólnospożywczym, jeżeli wielkość obrotu w analizowanym okresie wyniosła 10 000,00 zł.",
+    "answers": [
+      "80,00 zł",
+      "60,00 zł",
+      "450,00 zł",
+      "500,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han01/au20_tabela12.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 109,
+    "text": "Klient sklepu odzieżowego stwierdził, że w kupowanej przez niego marynarce brakuje kilku guzików. W związku z ujawnieniem się wady sprzedawca powinien",
+    "answers": [
+      "wycofać całą partię marynarek ze sprzedaży.",
+      "zastosować rabat przy sprzedaży całej partii marynarek.",
+      "obniżyć cenę sprzedaży niepełnowartościowej marynarki.",
+      "zwrócić uszkodzoną marynarkę dostawcy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 110,
+    "text": "Przedstawiona w ramce charakterystyka dotyczy towarów",
+    "answers": [
+      "szczególnej potrzeby.",
+      "magnesów.",
+      "wybieralnych.",
+      "impulsowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han01/au20_ramka3.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 111,
+    "text": "W którym z wymienionych przypadków możliwe jest wystawienie faktury zbiorczej przez hurtownię?",
+    "answers": [
+      "Hurtownia dokonała sprzedaży firmie Adam - 12 marca, 26 marca i 17 kwietnia.",
+      "Hurtownia dokonała sprzedaży firmie Adam - 2 marca i 29 marca oraz firmie Brokuł - 17 kwietnia.",
+      "Hurtownia dokonała sprzedaży firmie Adam - 12 marca i 2 kwietnia oraz firmie Brokuł - 17 marca.",
+      "Hurtownia dokonała sprzedaży firmie Brokuł - 2 marca, 17 marca i 29 marca."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 112,
+    "text": "Które z wymienionych opakowań powinien zastosować sprzedawca, aby zabezpieczyć figurkę porcelanową przed uszkodzeniem podczas transportu?",
+    "answers": [
+      "Torbę tekstylną.",
+      "Torebkę foliową.",
+      "Folię termokurczliwą.",
+      "Opakowanie tekturowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 113,
+    "text": "Który z wymienionych typów sera należy do serów podpuszczkowych twardych?",
+    "answers": [
+      "Camembert.",
+      "Ementaler.",
+      "Bryndza.",
+      "Brie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 114,
+    "text": "Typową formą informowania o nowościach w ofercie małego butiku odzieżowego o zasięgu lokalnym jest",
+    "answers": [
+      "emisja reklamy dotyczącej nowości w telewizji ogólnopolskiej.",
+      "ekspozycja nowości w oknie wystawowym butiku.",
+      "wysłanie oferty handlowej z katalogiem nowości.",
+      "umieszczenie reklamy dotyczącej nowości w Internecie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 115,
+    "text": "Które z wymienionych towarów podczas przechowywania muszą być zabezpieczone przed ekspozycją na światło słoneczne?",
+    "answers": [
+      "Rośliny doniczkowe.",
+      "Wyroby stalowe.",
+      "Wyroby ceramiczne.",
+      "Artykuły odzieżowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 116,
+    "text": "Którym z wymienionych zwrotów sprzedawca powinien zwrócić się do awanturującej się klientki?",
+    "answers": [
+      "Niech pani przestanie do mnie krzyczeć.",
+      "Nie ma pani racji.",
+      "Proszę wrócić jak się pani uspokoi.",
+      "Rozumiem pani odczucia związane z ..."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 117,
+    "text": "Klient zakupił aparat fotograficzny, na który producent udzielił dwuletniej gwarancji. Klient może skorzystać z praw przysługujących mu w ramach gwarancji, gdy aparat",
+    "answers": [
+      "różni się funkcjami od opisu tego modelu w katalogu.",
+      "został zagubiony w niewyjaśnionych okolicznościach.",
+      "uległ uszkodzeniu w wyniku upadku podczas użytkowania.",
+      "ma zbyt skomplikowany sposób obsługi."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 118,
+    "text": "Po kradzieży z włamaniem do sklepu, przed przystąpieniem do sprzedaży, należy przeprowadzić inwentaryzację",
+    "answers": [
+      "okresową z całkowitym przerwaniem sprzedaży.",
+      "nadzwyczajną z całkowitym przerwaniem sprzedaży.",
+      "zdawczo-odbiorczą z częściową przerwą w sprzedaży.",
+      "kontrolną bez przerw w sprzedaży."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 119,
+    "text": "Przedsiębiorstwo, które umieszcza towary w strefie składowej magazynu zgodnie z ciężarem ładunku, stosuje metodę lokalizacji według",
+    "answers": [
+      "kompletów.",
+      "poziomów składowania.",
+      "wielkości pobrań.",
+      "częstotliwości pobrań."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 120,
+    "text": "Który element systemu ochrony towarów należy zastosować, aby zabezpieczyć spodnie przed kradzieżą w sklepie odzieżowym?",
+    "answers": [
+      "Zamykaną gablotę ekspozycyjną.",
+      "Klips zabezpieczający na nogawce spodni.",
+      "Kasetę zabezpieczającą, w której są zaprezentowane spodnie.",
+      "Linkę z systemem aktywującym łączącą spodnie z regałem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 121,
+    "text": "Dokumentami związanymi z transakcją zakupu towarów są",
+    "answers": [
+      "wydanie na zewnątrz i przyjęcie zewnętrzne.",
+      "faktura i raport obrotów.",
+      "faktura i przyjęcie zewnętrzne.",
+      "raport obrotów i arkusz spisu z natury."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 122,
+    "text": "Podczas odbioru dostarczonego towaru zauważono uszkodzenie opakowania zbiorczego. Odbiorca w pierwszej kolejności powinien",
+    "answers": [
+      "niezwłocznie sprawdzić zawartość opakowania zbiorczego.",
+      "przyjąć towar bez dodatkowych czynności kontrolnych.",
+      "odmówić przyjęcia dostarczonego towaru.",
+      "sporządzić protokół reklamacji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 123,
+    "text": "W celu udokumentowania przemieszczenia towaru w obrębie własnych magazynów tego samego przedsiębiorstwa należy wystawić dokument",
+    "answers": [
+      "Wydanie zewnętrzne.",
+      "Przesunięcie międzymagazynowe.",
+      "Przychód wewnętrzny.",
+      "Przyjęcie z zewnątrz."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 124,
+    "text": "Dla którego z wymienionych towarów wymagane jest oznaczenie terminu przydatności do spożycia?",
+    "answers": [
+      "Octu winnego.",
+      "Gumy do żucia.",
+      "Sera białego.",
+      "Soli kuchennej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 125,
+    "text": "Klient dokonał zakupu 2 kg jabłek oraz 1,5 kg marchwi. Zgodnie z przedstawionym cennikiem łączna wartość brutto zakupu wyniesie",
+    "answers": [
+      "7,40 zł",
+      "7,77 zł",
+      "7,66 zł",
+      "7,55 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/au20_tabela3.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 126,
+    "text": "Dla których z wymienionych towarów wskazana jest sprzedaż subskrypcyjna?",
+    "answers": [
+      "Obuwia.",
+      "Kosmetyków.",
+      "Serii wydawnictw książkowych.",
+      "Sprzętu elektronicznego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 127,
+    "text": "Klientka zakupiła w sklepie w cenach brutto: sukienkę za 140,00 zł oraz torebkę damską za 88,00 zł. Po przyznaniu 30% rabatu od wartości całego zakupu brutto klientka zapłaci",
+    "answers": [
+      "168,40 zł",
+      "293,40 zł",
+      "159,60 zł",
+      "228,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 128,
+    "text": "Który z wymienionych dokumentów stanowi podstawę do zgłoszenia reklamacji z tytułu niezgodności zamówionej ilości towaru z ilością dostarczoną?",
+    "answers": [
+      "Faktura zakupu.",
+      "Przyjęcie zewnętrzne.",
+      "Wydanie zewnętrzne.",
+      "Protokół różnic."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 129,
+    "text": "Cena sprzedaży spodni wynosi 75,00 zł. Sprzedawca obniżył cenę spodni o 20%, a następnie podniósł ją o 10%. Jaka jest obecna cena sprzedaży spodni?",
+    "answers": [
+      "52,50 zł",
+      "66,00 zł",
+      "60,00 zł",
+      "72,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 130,
+    "text": "Na podstawie przedstawionego fragmentu dokumentu ustal wartość netto przyjętego zamówienia na towary i opakowania łącznie.",
+    "answers": [
+      "1 050,00 zł",
+      "100,00 zł",
+      "150,00 zł",
+      "1 000,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han01/au20_tabela2.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 131,
+    "text": "Podczas którego etapu procesu sprzedaży wykonywane są dozowanie, pakowanie i etykietowanie towarów?",
+    "answers": [
+      "Organizowania sprzedaży.",
+      "Prezentacji towaru.",
+      "Planowania sprzedaży.",
+      "Reklamowania towaru."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 132,
+    "text": "Pracownik, który na skutek niewykonania lub nienależytego wykonania obowiązków pracowniczych ze swej winy wyrządził pracodawcy szkodę, ponosi odpowiedzialność materialną, która nie może przekroczyć kwoty jego wynagrodzenia",
+    "answers": [
+      "miesięcznego.",
+      "czteromiesięcznego.",
+      "dwumiesięcznego.",
+      "trzymiesięcznego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 133,
+    "text": "Klient złożył zamówienie na 210 szt. długopisów i 60 szt. ołówków. Ile maksymalnie opakowań zbiorczych towarów można sprzedać klientowi zgodnie z jego zamówieniem i obecnym stanem magazynu?",
+    "answers": [
+      "7 opakowań długopisów, 2 opakowania ołówków.",
+      "5 opakowań długopisów, 3 opakowania ołówków.",
+      "7 opakowań długopisów, 3 opakowania ołówków.",
+      "5 opakowań długopisów, 2 opakowania ołówków."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han01/au20_tabela9.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 134,
+    "text": "Które z urządzeń służących do ekspozycji towarów na sali sprzedażowej przedstawiono na rysunku?",
+    "answers": [
+      "Gondolę.",
+      "Witrynę.",
+      "Ladę.",
+      "Stojak."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han01/au20_urzadzenie.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 135,
+    "text": "Botulizm to schorzenie wywołane spożyciem niewłaściwie przechowywanych",
+    "answers": [
+      "kaszy gryczanej.",
+      "konserw rybnych.",
+      "jaj surowych.",
+      "maślanki odtłuszczonej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 136,
+    "text": "Do obsługi klienta w kwiaciarni specjalizującej się w artystycznych kompozycjach florystycznych należy zastosować sprzedaż",
+    "answers": [
+      "samoobsługową.",
+      "preselekcyjną.",
+      "z automatów.",
+      "tradycyjną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 137,
+    "text": "Pracownik, któremu zgodnie z podpisanym oświadczeniem o odpowiedzialności materialnej powierzono pieniądze z obowiązkiem ich zwrotu albo rozliczenia, po ich utracie odpowiada za powstałą szkodę",
+    "answers": [
+      "wspólnie z pracodawcą.",
+      "w połowie, jeśli pieniądze ukradziono.",
+      "samodzielnie.",
+      "solidarnie z innymi pracownikami."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 138,
+    "text": "Która grupa produktów powinna być przechowywana w sklepie w ladach chłodniczych?",
+    "answers": [
+      "Pomidory i banany.",
+      "Ryż i makaron.",
+      "Wędliny i wędzone ryby.",
+      "Cukier puder i kryształ."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 139,
+    "text": "W witrynach ze szklanymi półkami, ladach przeszklonych podświetlanych i gablotach przeszklonych zamykanych najczęściej prezentuje się",
+    "answers": [
+      "krawaty.",
+      "sprzęt AGD.",
+      "zegarki.",
+      "telewizory."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 140,
+    "text": "Które z wymienionych produktów zagrożone są w wyniku nieprawidłowego przechowywania wystąpieniem w nich moli spożywczych?",
+    "answers": [
+      "Świeże owoce.",
+      "Konserwy mięsne.",
+      "Produkty mleczne.",
+      "Produkty zbożowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 141,
+    "text": "Na podstawie przedstawionego fragmentu protokołu odbioru ustal łączną liczbę opakowań zbiorczych przyjętych do sklepu.",
+    "answers": [
+      "33 opakowania zbiorcze.",
+      "35 opakowań zbiorczych.",
+      "32 opakowania zbiorcze.",
+      "40 opakowań zbiorczych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han01/au20_protokol.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 142,
+    "text": "Pracownik wystawiając ostatni dowód księgowy Wz – Wydanie zewnętrzne oznaczył go numerem 14/01/2020. Który numer należy nadać dowodowi Wz kolejno sporządzonemu w tym samym miesiącu?",
+    "answers": [
+      "14/01",
+      "15/2020",
+      "14/01/2020",
+      "15/01/2020"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 143,
+    "text": "Który rower sprzedawca powinien polecić klientce szukającej sprzętu dla 10-letniego dziecka o wzroście 140 cm i wysokości kroku 58 cm?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/au20_tabela7.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 144,
+    "text": "Które spośród wymienionych towarów mogą być poddane całościowej kontroli wykonywanej podczas odbioru jakościowego?",
+    "answers": [
+      "Banany i pomarańcze.",
+      "Mąka i cukier w opakowaniach kilogramowych.",
+      "Płyny do naczyń i ręczniki papierowe.",
+      "Radia i słuchawki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 145,
+    "text": "Opakowanie śledzi zawiera informacje przedstawione w tabeli. Jaką wartość energetyczną i ile gramów tłuszczów zawiera 200 g śledzi?",
+    "answers": [
+      "312 kcal i 30 g",
+      "30 kcal i 312 g",
+      "156 kcal i 15 g",
+      "15 kcal i 156 g"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han01/au20_tabela8.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 146,
+    "text": "Który schemat przedstawia rozmieszczenie towarów na regale sprzedażowym według grup asortymentowych oraz masy?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han01/au20_tabela6.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 147,
+    "text": "Cena zakupu towaru netto wynosi 13,00 zł, a cena sprzedaży netto 21,45 zł. Ustal stosowaną przez sprzedawcę wartość procentową marży handlowej liczonej od ceny zakupu netto (metoda „od sta”).",
+    "answers": [
+      "65%",
+      "165%",
+      "119%",
+      "19%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 148,
+    "text": "Która z przedstawionych etykiet umieszczonych przy towarze oferowanym w sklepie spożywczym została sporządzona właściwie?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han01/au20_tabela4.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 149,
+    "text": "Które z wymienionych dóbr są względem siebie komplementarne?",
+    "answers": [
+      "Samochód i paliwo silnikowe.",
+      "Benzyna i gaz.",
+      "Samochód i rower.",
+      "Kawa i herbata."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 150,
+    "text": "Najczęściej stosowaną metodą wyceny towarów, polegającą na podwyższeniu ceny nabycia o marżę handlową, jest metoda oparta na",
+    "answers": [
+      "cenach konkurencji.",
+      "informacji zwrotnej od klientów.",
+      "percepcji wartości klienta.",
+      "kosztach."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 151,
+    "text": "O które z wymienionych cech lodówki zapyta w pierwszej kolejności klient kierujący się przy zakupie motywami racjonalnymi?",
+    "answers": [
+      "Kolor i znana nazwa producenta.",
+      "Wielkość i kolor.",
+      "Cena i klasa energetyczna.",
+      "Częstotliwość sprzedaży i dodatkowe funkcje lodówki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 152,
+    "text": "Przy obsłudze którego z wymienionych typów klienta czas obsługi sprzedażowej może zostać istotnie skrócony?",
+    "answers": [
+      "Milczącego.",
+      "Nieufnego.",
+      "Zdecydowanego.",
+      "Niezdecydowanego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 153,
+    "text": "W celu powiadomienia klientów o wprowadzeniu nowego asortymentu do sprzedaży należy sporządzić",
+    "answers": [
+      "ofertę sprzedaży.",
+      "fakturę pro forma.",
+      "zapytanie ofertowe.",
+      "protokół reklamacyjny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 154,
+    "text": "Którą z wymienionych czynności powinien wykonać sprzedawca w przypadku, gdy klient nie odebrał zakupionego telewizora?",
+    "answers": [
+      "Oddać towar na przechowanie na koszt nabywcy.",
+      "Wystawić towar do sprzedaży, bez powiadamiania nabywcy.",
+      "Dostarczyć towar kupującemu na własny koszt.",
+      "Oddać towar na przechowanie na własny koszt."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 155,
+    "text": "Na podstawie przedstawionego fragmentu zamówienia oblicz łączną wartość brutto wszystkich zamówionych towarów.",
+    "answers": [
+      "92,88 zł",
+      "105,78 zł",
+      "86,00 zł",
+      "103,68 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han01/au20_tabela10.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 156,
+    "text": "Ile wynosi waga tara towaru, na etykiecie którego umieszczono informacje: waga netto 880 g, waga brutto 1 020 g?",
+    "answers": [
+      "880 g",
+      "140 g",
+      "1 900 g",
+      "1 020 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 157,
+    "text": "Która z przedstawionych charakterystyk dotyczy sprzedaży z automatów?",
+    "answers": [
+      "Sprzedaż całodobowa drobnych towarów, brak sprzedawcy.",
+      "Towary codziennego zakupu, swobodny dostęp do towaru.",
+      "Bezpośredni kontakt ze sprzedawcą, niewielka powierzchnia.",
+      "Szeroki asortyment, brak sprzedawcy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 158,
+    "text": "Klient kupił za gotówkę 30 sztuk bluzek damskich w cenie netto 75,00 zł. Stawka podatku VAT wynosi 23%. Który z przedstawionych rabatów przysługuje klientowi?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han01/au20_tabela5.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 159,
+    "text": "W celu uzyskania informacji na temat asortymentu sprzedawanych towarów, ich cen i warunków sprzedaży, należy wysłać do kontrahenta",
+    "answers": [
+      "zapytanie ofertowe.",
+      "folder informacyjny.",
+      "specyfikację towarową.",
+      "ofertę sprzedaży."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 160,
+    "text": "Przedstawiony piktogram umieszczany na opakowaniach oznacza",
+    "answers": [
+      "<em>Chronić przed upadkiem</em>.",
+      "<em>Środek ciężkości</em>.",
+      "<em>Górą nie przewracać</em>.",
+      "<em>Tu otwierać</em>."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_piktogram.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 161,
+    "text": "Klient zakupił: – 6 czekolad po 2,50 zł/szt., – 2 kg mandarynek po 3,00 zł/kg, – 3 jogurty naturalne po 2,00 zł/szt. Za zakupy zapłacił sprzedawcy banknotem 50,00 zł. Ile reszty powinien otrzymać klient?",
+    "answers": [
+      "23,00 zł",
+      "29,00 zł",
+      "38,00 zł",
+      "35,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 162,
+    "text": "Wskaż rysunek przedstawiający opakowanie specjalne.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_opakowania.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 163,
+    "text": "Cena sprzedaży netto 1 kilograma ryb wynosi 16,00 zł, a cena sprzedaży brutto wynosi 16,80 zł. Którą stawką podatku VAT opodatkowany jest ten towar?",
+    "answers": [
+      "23%",
+      "0%",
+      "5%",
+      "8%"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 164,
+    "text": "W wyniku inwentaryzacji stwierdzono niedobór towarów o wartości 440,00 zł. Którą kwotą zostanie obciążony pracownik materialnie odpowiedzialny, jeżeli wartość sprzedaży w sklepie wyniosła 40 000,00 zł, a limit ubytków na pokrycie niedoborów wynosi 0,3% obrotu?",
+    "answers": [
+      "132,00 zł",
+      "120,00 zł",
+      "320,00 zł",
+      "440,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 165,
+    "text": "Na rysunku przedstawiono",
+    "answers": [
+      "terminal płatniczy.",
+      "tester banknotów.",
+      "kasę fiskalną.",
+      "czytnik kodów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_rysunek3.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 166,
+    "text": "Który z wymienionych produktów został zakonserwowany metodą biologiczną?",
+    "answers": [
+      "Ogórki kiszone.",
+      "Mleko pasteryzowane.",
+      "Konserwa mięsna.",
+      "Dżem jagodowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 167,
+    "text": "Świeże mięso powinno być przechowywane w temperaturze",
+    "answers": [
+      "0°C ÷ 3°C",
+      "-1°C ÷ 5°C",
+      "-6°C ÷ -4°C",
+      "4°C ÷ 6°C"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela65.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 168,
+    "text": "Czynnością związaną z przygotowaniem towaru do sprzedaży jest",
+    "answers": [
+      "rejestracja obrotu w kasie.",
+      "sortowanie.",
+      "inwentaryzacja.",
+      "pobranie zapłaty za towar."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 169,
+    "text": "Którego numeru identyfikacyjnego, składającego się z czterech cyfr, będzie musiał użyć pracownik, odprowadzając utarg do wpłatomatu?",
+    "answers": [
+      "NIK",
+      "PIN",
+      "NIP",
+      "VAT"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 170,
+    "text": "Która oferta handlowa dostawcy jest najkorzystniejsza cenowo przy zakupie 100 kostek masła?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela69.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 171,
+    "text": "Na podstawie zamieszczonego fragmentu faktury ustal kwotę do zapłaty za zakupione towary.",
+    "answers": [
+      "1 230,00 zł",
+      "2 460,00 zł",
+      "3 690,00 zł",
+      "3 000,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_faktura12.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 172,
+    "text": "Która zasada bazuje na założeniu, że towary, które pojawiły się w magazynie najwcześniej, opuszczą go jako pierwsze?",
+    "answers": [
+      "HIFO",
+      "FIFO",
+      "LIFO",
+      "LOFO"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 173,
+    "text": "Oblicz cenę sprzedaży netto zmywarki przy założeniu, że cena zakupu netto wynosi 1 250,00 zł, a marża w wysokości 20% liczona jest od ceny zakupu netto.",
+    "answers": [
+      "1 250,00 zł",
+      "1 000,00 zł",
+      "1 500,00 zł",
+      "250,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 174,
+    "text": "Na podstawie zestawienia utargu ustal kwotę, którą odprowadzi sprzedawca do banku.",
+    "answers": [
+      "71 000,00 zł",
+      "76 000,00 zł",
+      "74 000,00 zł",
+      "79 000,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela71.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 175,
+    "text": "Ile wyniesie kwota podatku VAT ze sprzedaży towaru o wartości netto 27 500,00 zł, jeżeli towar objęty jest 8% stawką podatku VAT?",
+    "answers": [
+      "2 037,04 zł",
+      "5 142,28 zł",
+      "2 200,00 zł",
+      "6 325,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 176,
+    "text": "Dziś pomarańcze sprzedajemy w promocyjnej cenie. Którą technikę argumentacji zastosował sprzedawca?",
+    "answers": [
+      "Prezentacji.",
+      "Argumentacji cenowej.",
+      "Koncentracji.",
+      "Zadawania pytań."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 177,
+    "text": "Sklep zamówił 6 opakowań jednolitrowych mleka 2%. Na podstawie przedstawionych rysunków dostarczonych towarów określ, ile opakowań jednolitrowych mleka 2% należy przyjąć do sklepu zgodnie z zamówieniem oraz zasadami odbioru jakościowego towarów.",
+    "answers": [
+      "4 opakowania.",
+      "5 opakowań.",
+      "3 opakowania.",
+      "6 opakowań."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_rysunki2.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 178,
+    "text": "Na podstawie zamieszczonego wykresu ustal, jaki odsetek stanowią klienci, którzy bardzo ostrożnie nastawieni są do nowości, czyli nabywają produkt jako ostatni.",
+    "answers": [
+      "34,0%",
+      "16,0%",
+      "13,5%",
+      "2,5%"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_wykres.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 179,
+    "text": "Urządzeniem do transportu pionowego w wielkopowierzchniowych obiektach handlowych jest",
+    "answers": [
+      "przenośnik rolkowy.",
+      "wózek paletowy ręczny.",
+      "wózek dwukołowy.",
+      "winda osobowa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 180,
+    "text": "Przedstawiona etykieta dotyczy sprzętu",
+    "answers": [
+      "ratowniczego.",
+      "pożarniczego.",
+      "elektrycznego.",
+      "wspinaczkowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_etykieta.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 181,
+    "text": "W ilu egzemplarzach wystawiana jest faktura w sklepie detalicznym?",
+    "answers": [
+      "Co najmniej w czterech.",
+      "Co najmniej w trzech.",
+      "Co najmniej w dwóch.",
+      "Tylko w jednym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 182,
+    "text": "Wydruk z kasy fiskalnej potwierdzający transakcję kupna-sprzedaży to",
+    "answers": [
+      "paragon.",
+      "faktura.",
+      "przelew.",
+      "rachunek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 183,
+    "text": "Zamieszczona procedura obsługi klienta dotyczy sprzedaży",
+    "answers": [
+      "tradycyjnej.",
+      "internetowej.",
+      "samoobsługowej.",
+      "preselekcyjnej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_ramka5.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 184,
+    "text": "Kompensata oznacza",
+    "answers": [
+      "rozliczenie utargu.",
+      "przejęcie długu.",
+      "pokrycie niedoboru nadwyżką towaru.",
+      "wpłatę utargu do banku."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 185,
+    "text": "Ustal cenę sprzedaży netto towaru, jeżeli cena sprzedaży brutto towaru wynosi 1 050,00 zł, a sprzedaż towaru objęta jest 5% stawką podatku VAT.",
+    "answers": [
+      "1 000,00 zł",
+      "1 050,00 zł",
+      "52,50 zł",
+      "50,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 186,
+    "text": "Na podstawie danych zamieszczonych w tabeli, ustal wartość różnic inwentaryzacyjnych towarów.",
+    "answers": [
+      "Niedobór wafli karmelowych 72,00 zł i nadwyżka wafli kakaowych 20,00 zł.",
+      "Nadwyżka wafli karmelowych 72,00 zł i nadwyżka wafli kakaowych 20,00 zł.",
+      "Nadwyżka wafli karmelowych 72,00 zł i niedobór wafli kakaowych 20,00 zł.",
+      "Niedobór wafli karmelowych 72,00 zł i niedobór wafli kakaowych 20,00 zł."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela66.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 187,
+    "text": "Który towar powinien zaproponować sprzedawca klientowi, mającemu zamiar zakupić energooszczędną pralkę do niewielkiej łazienki?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela68.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 188,
+    "text": "Ustal cenę sprzedaży brutto sukienki jeżeli, cena sprzedaży netto wynosi 600,00 zł, a sprzedaż sukienek objęta jest 23% stawką podatku VAT.",
+    "answers": [
+      "177,22 zł",
+      "138,00 zł",
+      "738,00 zł",
+      "779,22 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 189,
+    "text": "Niezamierzony wcześniej zakup towaru spowodowany niską ceną, uzyskanym rabatem i udzieloną gwarancją jest motywem zachowania",
+    "answers": [
+      "nawykowego.",
+      "emocjonalnego.",
+      "fizjologicznego.",
+      "refleksyjnego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 190,
+    "text": "Urządzeniem usprawniającym bieżącą i systematyczną kontrolę stanu ilości towarów jest",
+    "answers": [
+      "higrometr.",
+      "terminal płatniczy.",
+      "tensator.",
+      "inwentaryzator."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 191,
+    "text": "Który zestaw towarów może być umieszczony na półce sklepowej obok siebie?",
+    "answers": [
+      "Ryby, mięso i nabiał.",
+      "Owoce, warzywa i cukier.",
+      "Dżemy, musli i płatki śniadaniowe.",
+      "Mąka, kasze i przyprawy ziołowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 192,
+    "text": "Do której grupy artykułów należy zaliczyć balsam do ciała?",
+    "answers": [
+      "Perfumeryjnych.",
+      "Pielęgnacyjnych.",
+      "Higienicznych.",
+      "Makijażowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 193,
+    "text": "Zakupiony towar w sklepie internetowym można zwrócić bez podawania przyczyny w ciągu",
+    "answers": [
+      "15 dni.",
+      "10 dni.",
+      "30 dni.",
+      "14 dni."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 194,
+    "text": "Ustal łączną wartość zamieszczonego zamówienia.",
+    "answers": [
+      "400,00 zł",
+      "500,00 zł",
+      "1 000,00 zł",
+      "1 900,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela70.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 195,
+    "text": "W przedstawionym zgłoszeniu reklamacyjnym brakuje informacji dotyczącej",
+    "answers": [
+      "wady towaru.",
+      "ceny towaru.",
+      "nazwy towaru.",
+      "ilości towaru."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_ramka6.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 196,
+    "text": "Którą technikę argumentacji stosuje sprzedawca, jeżeli skłania klienta do udzielania krótkich odpowiedzi TAK lub NIE?",
+    "answers": [
+      "Cenową.",
+      "Kompensacyjną.",
+      "Koncentracji.",
+      "Alternatywną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 197,
+    "text": "Na podstawie danych w tabeli ustal kwotę limitu ubytków, która może wystąpić w sklepie.",
+    "answers": [
+      "2 000,00 zł",
+      "1 000,00 zł",
+      "1 835,00 zł",
+      "1 850,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela67.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 198,
+    "text": "Choinkę ozdobną zalicza się do artykułu",
+    "answers": [
+      "pierwszej potrzeby.",
+      "sezonowego.",
+      "podstawowego.",
+      "luksusowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 199,
+    "text": "Którą formę sprzedaży prezentuje fragment rozmowy sprzedażowej? …Dzień dobry. Jestem przedstawicielem firmy XYZ, kontaktuję się z Państwem, aby zaprezentować ofertę specjalną. Jeżeli zdecydują się Państwo na zakup już dzisiaj, ten odkurzacz możecie nabyć tylko za 4 999,00 zł. Umowę otrzymają Państwo pocztą. Od umowy będzie można odstąpić w ciągu 14 dni…. .",
+    "answers": [
+      "Telefoniczną.",
+      "Komisową.",
+      "Preselekcyjną.",
+      "Tradycyjną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 200,
+    "text": "Do czynności związanych z przyjmowaniem do sklepu zakupionych towarów nie zalicza się sprawdzenia",
+    "answers": [
+      "ilości towaru z dokumentami towarzyszącymi dostawie.",
+      "stanów magazynowych w celu określenia zapotrzebowania na towary.",
+      "zgodności pozycji asortymentowych ze złożonym zamówieniem.",
+      "jakości dostarczonych towarów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 201,
+    "text": "W jaki sposób powinny być ułożone towary na półkach sklepowych, w odniesieniu do klientów przywiązanych do marki produktu?",
+    "answers": [
+      "Sposób 1.",
+      "Sposób 3.",
+      "Sposób 2.",
+      "Sposób 4."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_schematy2.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 202,
+    "text": "Które z wymienionych dokumentów są bezpośrednio związane z dostawą towarów dla odbiorcy?",
+    "answers": [
+      "Faktura i dowód dostawy.",
+      "Zamówienie i oferta handlowa.",
+      "Faktura i oferta handlowa.",
+      "Zamówienie i dowód dostawy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 203,
+    "text": "Jaką informację powinien przekazać sprzedawca klientowi, zainteresowanemu zakupem towaru przedstawionego na wywieszce cenowej?",
+    "answers": [
+      "Musi kupić Pan co najmniej 2 szt. masła.",
+      "7,50 za zakup 1 szt. masła, drugie jest gratis.",
+      "Za 0,5 kg masła zapłaci Pan 7,50 zł.",
+      "Kupując 2 szt. masła zapłaci Pan 7,50 zł."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_ramka8.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 204,
+    "text": "Formuła handlowa LOCO w transakcjach miedzy kontrahentami oznacza, że zakupiony towar należy odebrać z magazynu",
+    "answers": [
+      "klienta, koszt transportu ponosi sprzedawca.",
+      "klienta i na jego koszt.",
+      "sprzedawcy i na jego koszt.",
+      "sprzedawcy, koszt transportu ponosi klient."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 205,
+    "text": "W której sytuacji sprzedawca może odmówić przyjęcia zapłaty kartą płatniczą?",
+    "answers": [
+      "Transakcji na kwotę poniżej 100 zł.",
+      "Zakupu towarów sprowadzanych na zamówienie.",
+      "Gdy klient przy pierwszej próbie potwierdzenia transakcji wpisał nieprawidłowy PIN.",
+      "Posługiwania się kartą płatniczą przez osobę nieuprawnioną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 206,
+    "text": "Pracownik odpowiedzialny materialnie z winy nieumyślnej uszkodził towary. Wartość szkody wyceniono na 12 000,00 zł. Miesięczne wynagrodzenie pracownika to 3000,00 zł. Wskaż maksymalną kwotę odszkodowania, z tytułu wyrządzonej szkody, której może domagać się od pracownika pracodawca.",
+    "answers": [
+      "3 000,00 zł",
+      "9 000,00 zł",
+      "1 500,00 zł",
+      "12 000,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 207,
+    "text": "W jakim terminie od dnia złożenia przez konsumenta oświadczenia o odstąpieniu od umowy zakupu, przedsiębiorca ma obowiązek zwrócić konsumentowi zapłaconą przez niego kwotę?",
+    "answers": [
+      "Nie później niż w terminie 30 dni.",
+      "Nie później niż w terminie 14 dni.",
+      "Nie później niż w terminie 7 dni.",
+      "Nie później niż w terminie 21 dni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 208,
+    "text": "Stroną przyjmującą zgłoszenie reklamacyjne klienta z tytułu rękojmi oraz odpowiadającą za wady towaru jest",
+    "answers": [
+      "sprzedawca.",
+      "producent.",
+      "kurier.",
+      "gwarant."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 209,
+    "text": "Klient zakupił rower 20.05.2023 r. Otrzymał paragon i kartę gwarancyjną z określonym terminem gwarancji 1 rok. Dnia 10.06.2024 r. zauważył wadę towaru – niesprawny hamulec. Zgodnie z przepisami klient",
+    "answers": [
+      "nie ma możliwości reklamowania towaru z tytułu rękojmi.",
+      "nie ma możliwości reklamowania towaru z tytułu wady.",
+      "może reklamować towar z tytułu niezgodności towaru z umową.",
+      "może reklamować towar z tytułu gwarancji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 210,
+    "text": "Klient zakupił suszarkę do włosów 15.03.2024 r. W dniu 29.05.2024 zgłosił reklamację towaru do sprzedawcy. Zgodnie z Ustawą o prawach konsumenta sprzedawca ma obowiązek ustosunkować się do złożonej reklamacji najpóźniej w dniu",
+    "answers": [
+      "12.06.2024 r.",
+      "01.06.2024 r.",
+      "15.06.2024 r.",
+      "10.06.2024 r."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 211,
+    "text": "W sytuacji zwrotu wadliwego towaru przez odbiorcę sprzedawca powinien sporządzić fakturę",
+    "answers": [
+      "prowizoryczną.",
+      "korygującą.",
+      "pro-formę.",
+      "zbiorczą."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 212,
+    "text": "Umieszczając obok siebie na sprzęcie wystawienniczym płaszcze, szale i nakrycia głowy, sprzedawca zastosował zasadę",
+    "answers": [
+      "substytucyjności.",
+      "dostępności towarów.",
+      "komplementarności.",
+      "przejrzystości."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 213,
+    "text": "Która forma sprzedaży jest stosowana w punktach handlu detalicznego o podwyższonym poziomie obsługi klientów, oczekujących luksusowych warunków obsługi w zamian za wyższe ceny?",
+    "answers": [
+      "Preselekcyjna.",
+      "Samoobsługowa.",
+      "Tradycyjna z rozwiniętą obsługą klienta.",
+      "Tradycyjna ze zredukowaną obsługą klienta."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 214,
+    "text": "Dla którego etapu rozmowy sprzedażowej charakterystyczny jest przedstawiony zwrot? Sukienka ta wykonana jest z lnu, jej rozmiar to 38, posiadamy kilka wersji kolorystycznych.",
+    "answers": [
+      "Rozpoznania potrzeb.",
+      "Wyjaśnienia wątpliwości.",
+      "Prezentacji towaru.",
+      "Ustalenia korzyści."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 215,
+    "text": "Badanie surowego mięsa metodą organoleptyczną odbywa się za pomocą",
+    "answers": [
+      "zmysłów wzroku, smaku i słuchu.",
+      "specjalistycznych urządzeń laboratoryjnych.",
+      "specjalistycznych odczynników chemicznych.",
+      "zmysłów wzroku, węchu i dotyku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 216,
+    "text": "Który z towarów wyprodukowano z surowca pochodzenia roślinnego?",
+    "answers": [
+      "Bluzkę z bawełny.",
+      "Sweter z wełny.",
+      "Czapkę z moheru.",
+      "Szalik z jedwabiu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 217,
+    "text": "W którym z wymienionych przypadków należy wystawić fakturę korygującą?",
+    "answers": [
+      "Faktura sprzedaży zawiera błędny numer NIP wystawcy.",
+      "Faktura sprzedaży nie została podpisana przez odbiorcę.",
+      "Na fakturze sprzedaży błędnie ustalono sposób zapłaty.",
+      "Na fakturze błędnie ustalono cenę jednostkową towaru."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 218,
+    "text": "Który dokument powinien wystawić pracownik przyjmujący do magazynu zwrot reklamowanego towaru?",
+    "answers": [
+      "Pz Przyjęcie zewnętrzne.",
+      "Zw Zwrot wewnętrzny.",
+      "Pw Przyjęcie wewnętrzne.",
+      "Wz Wydanie zewnętrzne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 219,
+    "text": "Sklep odzieżowy mający w swojej ofercie wyłącznie okrycia wierzchnie dla mężczyzn, w różnych fasonach, rozmiarach i kolorach, posiada asortyment",
+    "answers": [
+      "szeroki i płytki.",
+      "wąski i płytki.",
+      "wąski i głęboki.",
+      "szeroki i głęboki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 220,
+    "text": "Ustal wartość brutto sprzedanych batonów kakaowych na podstawie przedstawionego fragmentu faktury.",
+    "answers": [
+      "39,20 zł",
+      "49,20 zł",
+      "18,00 zł",
+      "44,28 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_faktura21.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 221,
+    "text": "W grudniu przyjęto do magazynu 700 kartonów mleka o pojemności 1 litra, a wydano 750 kartonów tego mleka. Oblicz stan zapasu mleka na koniec grudnia, jeżeli jego zapas na dzień 1 grudnia wynosił 150 sztuk.",
+    "answers": [
+      "50 litrów.",
+      "200 litrów.",
+      "150 litrów.",
+      "100 litrów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 222,
+    "text": "Przedstawiony znak umieszczany na opakowaniach towarów oznacza, że",
+    "answers": [
+      "towar jest bezpieczny w użytkowaniu.",
+      "towar spełnia wszystkie wymogi związane z przepisami o kontroli towarów paczkowanych.",
+      "opakowanie towaru jest ekologiczne.",
+      "towar paczkowany został wyprodukowany bez użycia konserwantów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_znak6.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 223,
+    "text": "Konserwowanie produktów spożywczych, polegające na kilkukrotnym ogrzewaniu ich do temperatury nie wyższej niż 100°C w odstępach dobowych, określane jest jako",
+    "answers": [
+      "blanszowanie.",
+      "tyndalizacja.",
+      "liofilizacja.",
+      "sterylizacja."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 224,
+    "text": "W celu zabezpieczenia przed kradzieżą książek wyeksponowanych na sali sprzedażowej, należy zastosować",
+    "answers": [
+      "kasetę zabezpieczającą.",
+      "klips zabezpieczający z aktywatorem.",
+      "system elektroniczny zawierający czujnik i elastyczny kabel.",
+      "etykietę zabezpieczającą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 225,
+    "text": "Na podstawie zawartych w tabeli danych z inwentaryzacji przeprowadzonej w hurtowni artykułów biurowych, określ wartość niedoboru towarów.",
+    "answers": [
+      "140,00 zł",
+      "70,00 zł",
+      "360,00 zł",
+      "440,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela103.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 226,
+    "text": "Klient zapłacił za zakupiony towar banknotem 200 zł i otrzymał od sprzedawcy 40,40 zł reszty. Klient dokonał zakupu towarów o wartości",
+    "answers": [
+      "140,40 zł",
+      "159,60 zł",
+      "160,60 zł",
+      "149,40 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 227,
+    "text": "Oferowane w sklepie mięsnym przyprawy do potraw to asortyment",
+    "answers": [
+      "dodatkowy.",
+      "podstawowy.",
+      "uzupełniający.",
+      "kompleksowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 228,
+    "text": "Bluzka nie może być czyszczona chemicznie, jeżeli na etykiecie towarowej umieszczony został znak przedstawiony",
+    "answers": [
+      "na ilustracji 1.",
+      "na ilustracji 2.",
+      "na ilustracji 3.",
+      "na ilustracji 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_znaki11.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 229,
+    "text": "Bezpłatne opakowanie powinien otrzymać klient, który",
+    "answers": [
+      "zakupił towar sprzedawany luzem.",
+      "poprosił o zapakowanie towaru w torbę ozdobną.",
+      "zapomniał zabrać torby z domu.",
+      "poprosił o torbę wykonaną z materiału ekologicznego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 230,
+    "text": "Na podstawie przedstawionej oferty określ, od jakiej minimalnej wartości zakupu netto wody gazowanej stałemu klientowi zostanie przyznany rabat.",
+    "answers": [
+      "85,00 zł",
+      "123,00 zł",
+      "75,00 zł",
+      "100,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_oferta4.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 231,
+    "text": "Cechą sprzedaży ratalnej jest to, że klient",
+    "answers": [
+      "deklaruje zakup określonego towaru i dokonuje przedpłaty.",
+      "otrzymuje towar przed uregulowaniem należności.",
+      "sukcesywnie otrzymuje zamówiony towar.",
+      "reguluje należność za pomocą gotówki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 232,
+    "text": "Który wózek widłowy powinien być używany wyłącznie w magazynie otwartym?",
+    "answers": [
+      "Napędowy akumulatorowy.",
+      "Napędowy spalinowy.",
+      "Beznapędowy pneumatyczny.",
+      "Beznapędowy hydrauliczny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 233,
+    "text": "Które z wymienionych towarów znajdujących się w hurtowni spożywczej nie wymagają zabezpieczenia przed wchłanianiem wilgoci?",
+    "answers": [
+      "Cukry.",
+      "Kasze.",
+      "Przyprawy.",
+      "Wędliny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 234,
+    "text": "Który rodzaj rabatu zastosował sprzedawca w przedstawionej ofercie sprzedaży?",
+    "answers": [
+      "Wartościowy.",
+      "Sezonowy.",
+      "Funkcjonalny.",
+      "Ilościowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_oferta3.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 235,
+    "text": "Które informacje należy umieścić na wywieszce cenowej cukierków sprzedawanych na wagę w sklepie detalicznym?",
+    "answers": [
+      "Nazwę towaru, jednostkę miary, cenę brutto.",
+      "Nazwę towaru, jednostkę miary, cenę netto.",
+      "Stawkę VAT, nazwę towaru, cenę netto.",
+      "Stawkę VAT, nazwę producenta, cenę brutto."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 236,
+    "text": "Na podstawie danych przedstawionych w tabeli oblicz wartość netto zamówionego serka wiejskiego.",
+    "answers": [
+      "37,50 zł",
+      "7 500,50 zł",
+      "1 875,00 zł",
+      "125,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela104.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 237,
+    "text": "Którego z drukowanych środków informowania klientów o ofercie handlowej dotyczy przedstawiony opis? Kilkustronicowy środek informowania klientów o ofercie, wydawany cyklicznie, prezentujący działania promocyjne placówki, najczęściej drukowany na papierze słabej jakości.",
+    "answers": [
+      "Gazetki reklamowej.",
+      "Folderu reklamowego.",
+      "Katalogu.",
+      "Ulotki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 238,
+    "text": "Ustal kwotę należności ogółem za 200 ryz papieru ksero formatu A4, jeżeli cena jednostkowa netto ryzy wynosi 14,00 zł, a stawka podatku VAT 23%.",
+    "answers": [
+      "263,22 zł",
+      "295,20 zł",
+      "2 800,00 zł",
+      "3 444,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 239,
+    "text": "Które z wymienionych towarów można przechowywać w pobliżu wyrobów tytoniowych?",
+    "answers": [
+      "Ryby.",
+      "Warzywa.",
+      "Przyprawy.",
+      "Wina."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 240,
+    "text": "Który ze sposobów zachowania charakteryzuje klienta zdecydowanego?",
+    "answers": [
+      "Ponaglanie sprzedawcy i próba ominięcia kolejki.",
+      "Bezkrytyczne przyjęcie informacji podanych przez sprzedawcę.",
+      "Kierowanie się do artykułów, którymi jest zainteresowany i zadawanie rzeczowych pytań o produkt.",
+      "Precyzowanie swoich potrzeb przy sceptycznym podejściu do sprzedawcy i prezentowanych towarów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 241,
+    "text": "Na podstawie przedstawionego fragmentu faktury zakupu ustal cenę brutto jednego młynka elektrycznego.",
+    "answers": [
+      "42,35 zł",
+      "55,00 zł",
+      "67,65 zł",
+      "73,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_faktura20.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 242,
+    "text": "Bluzka damska kosztowała 220 zł. Jej cenę obniżono o 20%. Ile wynosi cena bluzki po obniżce?",
+    "answers": [
+      "176,00 zł",
+      "220,00 zł",
+      "150,00 zł",
+      "200,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 243,
+    "text": "Na podstawie przedstawionego fragmentu Kodeksu pracy, ustal wysokość odszkodowania należnego właścicielowi sklepu za powstały zawiniony niedobór towarów o wartości 1 500,00 zł, jeżeli miesięczne wynagrodzenie sprzedawcy odpowiedzialnego za niedobór wynosi 4 500,00 zł. Fragment Kodeksu pracy (…) Art. 119. Odszkodowanie ustala się w wysokości wyrządzonej szkody, jednak nie może ono przewyższać kwoty trzymiesięcznego wynagrodzenia przysługującego pracownikowi w dniu wyrządzenia szkody. (…)",
+    "answers": [
+      "3 000,00 zł",
+      "4 500,00 zł",
+      "1 500,00 zł",
+      "13 500,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 244,
+    "text": "Promowanie sprzedaży poprzez atrakcyjną prezentację towarów w sklepach oznacza stosowanie",
+    "answers": [
+      "merchandisingu.",
+      "leasingu.",
+      "faktoringu.",
+      "franchisingu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 245,
+    "text": "Klient dokonujący zakupu energooszczędnego piecyka do ogrzewania mieszkania kieruje się motywem",
+    "answers": [
+      "emocjonalnym.",
+      "społecznym.",
+      "irracjonalnym.",
+      "racjonalnym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 246,
+    "text": "Przedstawiony na ilustracji piktogram, umieszczany na opakowaniach, oznacza",
+    "answers": [
+      "chronić przed upadkiem.",
+      "środek ciężkości.",
+      "tu otwierać.",
+      "górą nie przewracać."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_piktogram.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 247,
+    "text": "Ile wyniesie kwota podatku VAT, jeżeli wartość netto towaru to 27 500,00 zł, a towar objęty jest 8% stawką podatku VAT?",
+    "answers": [
+      "25 300,00 zł",
+      "2 037,03 zł",
+      "27 662,97 zł",
+      "2 200,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 248,
+    "text": "Na której ilustracji przedstawione jest opakowanie specjalne?",
+    "answers": [
+      "Na Ilustracji 4.",
+      "Na Ilustracji 1.",
+      "Na Ilustracji 2.",
+      "Na Ilustracji 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_opakowania2.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 249,
+    "text": "Który dokument należy wystawić w przypadku przesunięcia towaru pomiędzy dwiema placówkami magazynowymi tego samego przedsiębiorstwa handlowego?",
+    "answers": [
+      "MM",
+      "RW",
+      "WZ",
+      "PZ"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 250,
+    "text": "Pojęcie kompensata oznacza",
+    "answers": [
+      "wpłatę utargu do banku.",
+      "niedobór gotówki w kasie.",
+      "pokrycie niedoboru nadwyżką towaru.",
+      "rozliczenie utargu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 251,
+    "text": "Przedstawiona procedura obsługi klienta dotyczy sprzedaży",
+    "answers": [
+      "internetowej.",
+      "tradycyjnej.",
+      "preselekcyjnej.",
+      "samoobsługowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_ramka7.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 252,
+    "text": "Która ilustracja przedstawia symbol informujący klienta, że obuwie wykonane jest z nielakierowanej skóry?",
+    "answers": [
+      "Ilustracja 2.",
+      "Ilustracja 3.",
+      "Ilustracja 1.",
+      "Ilustracja 4."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_symbole.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 253,
+    "text": "W celu potwierdzenia transakcji kupna-sprzedaży na kasie fiskalnej należy wydrukować",
+    "answers": [
+      "rachunek.",
+      "paragon.",
+      "przelew.",
+      "fakturę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 254,
+    "text": "Którego numeru identyfikacyjnego, składającego się z czterech cyfr, należy użyć podczas wprowadzania utargu do wpłatomatu?",
+    "answers": [
+      "PIN",
+      "NIP",
+      "PESEL",
+      "REGON"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 255,
+    "text": "W wyniku inwentaryzacji stwierdzono niedobór towarów o wartości 440,00 zł. Wskaż kwotę, którą zostanie obciążony pracownik materialnie odpowiedzialny, jeżeli wartość sprzedaży w sklepie wyniosła 40 000,00 zł, a limit ubytków na pokrycie niedoborów wynosi 0,3% obrotu?",
+    "answers": [
+      "132,00 zł",
+      "120,00 zł",
+      "440,00 zł",
+      "320,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 256,
+    "text": "W automatach z gorącymi napojami asortyment towarowy jest",
+    "answers": [
+      "szeroki i głęboki.",
+      "wąski i głęboki.",
+      "wąski i płytki.",
+      "szeroki i płytki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 257,
+    "text": "Urządzeniem służącym do transportu pionowego towarów w wielkopowierzchniowych obiektach handlowych jest",
+    "answers": [
+      "wózek paletowy ręczny.",
+      "przenośnik rolkowy.",
+      "wózek dwukołowy.",
+      "winda osobowa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 258,
+    "text": "Klientowi, który jest na diecie bezglutenowej, należy zaproponować mąkę",
+    "answers": [
+      "kukurydzianą.",
+      "orkiszową.",
+      "żytnią.",
+      "pszeną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 259,
+    "text": "Którą technikę argumentacji przedstawia zamieszczony opis? Opis techniki argumentacji Sprzedawca rozpoznaje, która cecha towaru jest kluczowa dla klienta i skupia uwagę klienta, podając argumenty istotne właśnie z tego punktu widzenia.",
+    "answers": [
+      "Kompensacyjną.",
+      "Koncentracji.",
+      "Cenową.",
+      "Alternatywną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 260,
+    "text": "W celu uzyskania informacji od sprzedawcy na temat oferowanych przez niego towarów, ich cen i warunków sprzedaży, należy wysłać do kontrahenta",
+    "answers": [
+      "zapytanie ofertowe.",
+      "ofertę sprzedaży.",
+      "specyfikację towarową.",
+      "folder informacyjny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 261,
+    "text": "Wskaż ofertę handlową, która jest najkorzystniejsza cenowo przy zakupie 100 sztuk towarów.",
+    "answers": [
+      "Oferta 4.",
+      "Oferta 2.",
+      "Oferta 1.",
+      "Oferta 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela100.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 262,
+    "text": "Zgodnie z przedstawionym zestawieniem utargu, sprzedawca powinien odprowadzić do banku kwotę",
+    "answers": [
+      "71 000,00 zł",
+      "122 000,00 zł",
+      "111 000,00 zł",
+      "76 000,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela102.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 263,
+    "text": "Na podstawie przedstawionego fragmentu dokumentu ustal łączną wartość zamówienia.",
+    "answers": [
+      "300,00 zł",
+      "1 900,00 zł",
+      "1 000,00 zł",
+      "600,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela101.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 264,
+    "text": "08.05.2023 r. klient kupił towar w sklepie osiedlowym. 10.05.2023 r. zauważył wadę tego towaru i tego samego dnia złożył reklamację w sklepie. Ostateczną datą rozpatrzenia reklamacji tego towaru jest",
+    "answers": [
+      "10.05.2024 r.",
+      "08.05.2024 r.",
+      "24.05.2023 r.",
+      "22.05.2023 r."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 265,
+    "text": "Na podstawie danych zawartych w tabeli wskaż towar, który sprzedawca powinien zaproponować klientowi, zamierzającemu kupić energooszczędną pralkę do małej łazienki.",
+    "answers": [
+      "Pralka 4.",
+      "Pralka 2.",
+      "Pralka 1.",
+      "Pralka 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela99.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 266,
+    "text": "Towar zakupiony w sklepie internetowym można zwrócić bez podawania przyczyny w ciągu",
+    "answers": [
+      "30 dni.",
+      "15 dni.",
+      "14 dni.",
+      "10 dni."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 267,
+    "text": "Oblicz cenę sprzedaży netto zmywarki przy założeniu, że cena zakupu netto wynosi 1 250,00 zł, a narzut w wysokości 20% liczony jest od ceny zakupu netto.",
+    "answers": [
+      "250,00 zł",
+      "1 500,00 zł",
+      "1 250,00 zł",
+      "1 000,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 268,
+    "text": "Który z wymienionych towarów należy zabezpieczyć przed kradzieżą stosując etykietę antykradzieżową?",
+    "answers": [
+      "Pralinki.",
+      "Spodnie.",
+      "Lodówkę.",
+      "Perfumy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 269,
+    "text": "Którą z wymienionych jednostek miary należy umieścić na wywieszkach cenowych dotyczących towarów sprzedawanych na wagę?",
+    "answers": [
+      "Sztuka.",
+      "Litr.",
+      "Kilogram.",
+      "Metr bieżący."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 270,
+    "text": "Którym motywem kierował się klient podczas opisanej sytuacji zakupowej? Klient kupił towar, którego wcześniej nie planował nabyć. Swoją decyzję podjął pod wpływem niskiej ceny tego towaru i udzielonego rabatu.",
+    "answers": [
+      "Ekonomicznym.",
+      "Nawykowym.",
+      "Refleksyjnym.",
+      "Fizjologicznym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 271,
+    "text": "W przedstawionym fragmencie faktury, w pozycji do zapłaty należy wpisać kwotę",
+    "answers": [
+      "2 460,00 zł",
+      "3 690,00 zł",
+      "3 000,00 zł",
+      "1 230,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_faktura19.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 272,
+    "text": "Na ilustracji przedstawiono",
+    "answers": [
+      "kasę fiskalną.",
+      "czytnik kodów.",
+      "terminal płatniczy.",
+      "tester banknotów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_ilustracja.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 273,
+    "text": "Która zasada bazuje na założeniu, że towary przyjęte do magazynu najwcześniej opuszczą go jako pierwsze?",
+    "answers": [
+      "FIFO",
+      "HIFO",
+      "LIFO",
+      "LOFO"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 274,
+    "text": "Ustal wartość sprzedaży brutto 2 sztuk sukienek, jeżeli cena sprzedaży netto 1 sztuki wynosi 600,00 zł, a sprzedaż sukienek objęta jest 23% stawką podatku VAT.",
+    "answers": [
+      "276,00 zł",
+      "738,00 zł",
+      "1 476,00 zł",
+      "1 223,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 275,
+    "text": "Lampki choinkowe należy zaliczyć do grupy artykułów",
+    "answers": [
+      "sezonowych.",
+      "luksusowych.",
+      "pierwszej potrzeby.",
+      "podstawowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 276,
+    "text": "Klient dokonał zakupów zgodnie z przedstawioną listą i zapłacił sprzedawcy banknotem 50,00 zł. Ile reszty powinien otrzymać klient? Lista zakupów klienta 6 czekolad w cenie 3,50 zł/szt. 2 kg mandarynek w cenie 6,00 zł/kg 1 jogurt naturalny w cenie 4,00 zł/szt.",
+    "answers": [
+      "37,00 zł",
+      "29,00 zł",
+      "13,00 zł",
+      "17,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 277,
+    "text": "Cena sprzedaży netto kalkulatora wynosi 16,00 zł, a cena sprzedaży brutto wynosi 16,80 zł. Którą stawką podatku VAT opodatkowany jest ten towar?",
+    "answers": [
+      "0%",
+      "5%",
+      "23%",
+      "8%"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 278,
+    "text": "Hurtownia WAMER prowadzi ewidencję towarów w cenach zakupu netto. Na podstawie fragmentu faktury zakupu ustal cenę lampy podłogowej MIRA, którą należy wpisać wystawiając dowód magazynowy Pz.",
+    "answers": [
+      "200,00 zł",
+      "150,00 zł",
+      "240,00 zł",
+      "180,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_faktura17.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 279,
+    "text": "Który wózek widłowy powinien być stosowany wyłącznie w magazynie otwartym?",
+    "answers": [
+      "Napędowy akumulatorowy.",
+      "Beznapędowy hydrauliczny.",
+      "Napędowy spalinowy.",
+      "Beznapędowy pneumatyczny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 280,
+    "text": "W wyniku powodzi część towarów znajdujących się w magazynie została zalana i uległa całkowitemu zniszczeniu. Powstały niedobór określany jest jako",
+    "answers": [
+      "niezawiniony.",
+      "pozorny.",
+      "naturalny.",
+      "zawiniony."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 281,
+    "text": "Korzystając z danych zawartych w tabeli oblicz kwotę należności, którą powinien zapłacić klient za zakupione 0,5 kg kaszy, 3 kg grochu i 0,30 kg żurawiny.",
+    "answers": [
+      "42,00 zł",
+      "25,00 zł",
+      "20,00 zł",
+      "38,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela94.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 282,
+    "text": "Który formularz należy wykorzystać w celu udokumentowania dostaw i wydawania towarów?",
+    "answers": [
+      "Fakturę zakupu.",
+      "Kartotekę magazynową.",
+      "Rejestr zakupu VAT.",
+      "Arkusz spisu z natury."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 283,
+    "text": "Ustal cenę netto towaru i wartość netto towaru, które należy wpisać do przedstawionej faktury sprzedaży.",
+    "answers": [
+      "Cena netto towaru 320,00 zł, wartość netto towaru 160,00 zł",
+      "Cena netto towaru 36,80 zł, wartość netto towaru 196,80 zł",
+      "Cena netto towaru 80,00 zł, wartość netto towaru 160,00 zł",
+      "Cena netto towaru 75,77 zł, wartość netto towaru 151,54 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_faktura18.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 284,
+    "text": "Wskaż przedstawiony na schemacie etap wydania towaru z magazynu, polegający na łączeniu artykułów pochodzących z różnych zamówień, które zostaną wysłane w tym samym kierunku.",
+    "answers": [
+      "Weryfikacja dokumentacji i przygotowanie wysyłek.",
+      "Konsolidacja towarów.",
+      "Pakowanie wysyłek.",
+      "Załadunek samochodów ciężarowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_schemat5.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 285,
+    "text": "W hurtowni pracuje 3 magazynierów, którzy podpisali umowę o wspólnej odpowiedzialności materialnej w równych proporcjach. W wyniku inwentaryzacji stwierdzono niedobór w wysokości 15 000,00 zł, w tym powstały z winy pracowników w wysokości 12 000,00 zł. Każdy z pracowników odpowiada za niedobór w kwocie",
+    "answers": [
+      "5 000,00 zł",
+      "9 000,00 zł",
+      "3 000,00 zł",
+      "4 000,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 286,
+    "text": "Na podstawie informacji zawartych w tabeli, wskaż symbol opakowania, którego nie należy stosować w kontakcie z żywnością.",
+    "answers": [
+      "LDPE",
+      "PS",
+      "HDPE",
+      "PP"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela93.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 287,
+    "text": "Sprzęt przedstawiony na rysunku jest używany przez pracownika działu",
+    "answers": [
+      "rybnego.",
+      "mięsnego.",
+      "chemicznego.",
+      "kosmetycznego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_sprzet2.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 288,
+    "text": "Które z wymienionych towarów można umieścić na regale sklepowym obok pieczywa?",
+    "answers": [
+      "Owoce.",
+      "Płatki śniadaniowe.",
+      "Przyprawy.",
+      "Wędzone ryby."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 289,
+    "text": "Na podstawie informacji przestawionych w tabeli wskaż towar, na który obowiązuje stawka 8% podatku VAT.",
+    "answers": [
+      "Towar 4.",
+      "Towar 2.",
+      "Towar 1.",
+      "Towar 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela96.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 290,
+    "text": "Która forma odprowadzenia utargu wymaga specjalnego przygotowania pieniędzy, polegającego na sortowaniu według nominałów, pakowaniu w papier, oklejaniu taśmą papierową, opieczętowywaniu i opisaniu paczek z pieniędzmi?",
+    "answers": [
+      "Wpłata inkasentowi.",
+      "Wpłata do wpłatomatu.",
+      "Wpłata do banku.",
+      "Wpłata na poczcie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 291,
+    "text": "Podczas odbioru ilościowego towarów, sprawdzeniu podlega",
+    "answers": [
+      "wygląd towarów.",
+      "ilość dostarczonych opakowań zbiorczych.",
+      "poprawność oznakowania opakowania.",
+      "właściwości towarów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 292,
+    "text": "7 listopada 2022 roku klient zakupił odkurzacz elektryczny, a 12 grudnia 2022 roku w ramach gwarancji wymienił wadliwy sprzęt na nowy. Ostateczny termin odpowiedzialności sprzedawcy z tytułu rękojmi za wady rzeczy sprzedanej mija",
+    "answers": [
+      "7 listopada 2023 r.",
+      "7 listopada 2024 r.",
+      "12 grudnia 2023 r.",
+      "12 grudnia 2024 r."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 293,
+    "text": "Dokument magazynowy Wz sporządzany jest podczas",
+    "answers": [
+      "reklamacji towarów.",
+      "przyjęcia zamówienia towarów.",
+      "wydania towarów z magazynu.",
+      "sprzedaży towarów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 294,
+    "text": "Cyfra kontrolna w kodzie kreskowym, potwierdzająca poprawność skanowania towaru, umieszczona jest",
+    "answers": [
+      "jako ostatnia.",
+      "po cyfrze określającej kraj pochodzenia.",
+      "po cyfrze określającej nazwę producenta.",
+      "jako pierwsza."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 295,
+    "text": "Nabywca otrzymał fakturę z błędną ceną towaru. Który dokument należy wystawić, aby poprawić zaistniały błąd?",
+    "answers": [
+      "Notę korygującą.",
+      "Rachunek.",
+      "Fakturę korygującą.",
+      "Paragon fiskalny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 296,
+    "text": "Warunek, zgodnie z którym sprzedawca na własny koszt zobowiązany jest dostarczyć zamówiony towar do miejsca wskazanego przez odbiorcę, określa się pojęciem",
+    "answers": [
+      "skonto.",
+      "loco.",
+      "inkaso.",
+      "franco."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 297,
+    "text": "Którą formę sprzedaży należy zastosować w sklepie mięsnym dla wyrobów nieporcjowanych?",
+    "answers": [
+      "Tradycyjną.",
+      "Mieszaną.",
+      "Preselekcyjną.",
+      "Samoobsługową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 298,
+    "text": "Które opakowanie patyczków kosmetycznych należy zaproponować klientce poszukującej produktu najkorzystniejszego cenowo?",
+    "answers": [
+      "150 szt. w cenie 3,10 zł",
+      "80 szt. w cenie 1,40 zł",
+      "100 szt. w cenie 1,60 zł",
+      "120 szt. w cenie 2,30 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 299,
+    "text": "Którą z wymienionych form sprzedaży należy zastosować w handlu, umożliwiającym dostęp do określonych towarów i usług przez uiszczanie regularnej, cyklicznej opłaty abonamentowej?",
+    "answers": [
+      "Sprzedaż tradycyjną.",
+      "Sprzedaż subskrypcyjną.",
+      "Preselekcję.",
+      "Samoobsługę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 300,
+    "text": "Oblicz cenę sprzedaży netto towaru, jeżeli cena zakupu netto wynosi 40,00 zł, a marża w wysokości 20% liczona jest od ceny sprzedaży netto.",
+    "answers": [
+      "60,00 zł",
+      "48,00 zł",
+      "32,00 zł",
+      "50,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 301,
+    "text": "Przedsiębiorstwo handlowe stosuje przedstawione zasady sprzedaży ratalnej. Ile będzie wynosić druga rata, jeżeli klient zamierza kupić towar w cenie 1250,00 zł? Zasady sprzedaży ratalnej w przedsiębiorstwie handlowym 1. Pierwsza wpłata wynosi 20% wartości towaru 2. Prowizja 0% 3. Odsetki 0% 4. Pozostała należność rozłożona jest na 10 równych miesięcznych rat.",
+    "answers": [
+      "100,00 zł",
+      "250,00 zł",
+      "150,00 zł",
+      "125,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 302,
+    "text": "Towar przed obniżką kosztował 200,00 zł. Sprzedawca na ten towar udzielił rabatu 20%. Ile zapłaci klient za dwie sztuki towaru w obniżonej cenie?",
+    "answers": [
+      "480,00 zł",
+      "400,00 zł",
+      "320,00 zł",
+      "160,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 303,
+    "text": "Którą z wymienionych mąk sprzedawca powinien wskazać klientowi zainteresowanemu zakupem produktu bezglutenowego?",
+    "answers": [
+      "Orkiszową.",
+      "Żytnią.",
+      "Jaglaną.",
+      "Pszenną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 304,
+    "text": "Które zabezpieczenie przed kradzieżą należy zastosować w przypadku smartfona, aby jednocześnie zapewnić klientowi możliwość zapoznania się z jego funkcjami?",
+    "answers": [
+      "Gablotę zamykaną.",
+      "Klips sklepowy.",
+      "Zabezpieczenie kabelkowe.",
+      "Pierścień antykradzieżowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 305,
+    "text": "Hurtownia kupuje towar w cenie 2,00 zł netto za sztukę. Koszty zakupu przypadające na jedną sztukę wynoszą 0,50 zł, a planowany zysk jednostkowy wynosi 50% ceny zakupu netto. Ile wynosi cena sprzedaży netto towaru?",
+    "answers": [
+      "3,00 zł",
+      "2,50 zł",
+      "5,00 zł",
+      "3,50 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 306,
+    "text": "Klient za zakupy w sklepie internetowym zapłacił przy użyciu smartfona, korzystając z mobilnej aplikacji bankowej, która pozwala płacącemu uzyskać jednorazowy kod do potwierdzenia zgody na obciążenie swego konta. Którą metodę płatności zastosował kupujący?",
+    "answers": [
+      "Przelew tradycyjny.",
+      "P24NOW",
+      "BLIK",
+      "Kartę debetową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 307,
+    "text": "Która z ilustracji przedstawia owoce wymagające dostosowania do samoobsługowej formy sprzedaży?",
+    "answers": [
+      "Ilustracja 4.",
+      "Ilustracja 2.",
+      "Ilustracja 1.",
+      "Ilustracja 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_owoce2.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 308,
+    "text": "Do której z wymienionych grup artykułów należy zaliczyć balsam do ciała?",
+    "answers": [
+      "Perfumeryjnych.",
+      "Higienicznych.",
+      "Makijażowych.",
+      "Pielęgnacyjnych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 309,
+    "text": "Na podstawie danych przedstawionych w tabeli oszacuj maksymalną wartość ubytków towarowych, jeżeli obrót w sklepie ogólnospożywczym stosującym sprzedaż samoobsługową wyniósł 32 000,00 zł.",
+    "answers": [
+      "256,00 zł",
+      "224,00 zł",
+      "128,00 zł",
+      "160,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela95.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 310,
+    "text": "Który z wymienionych dokumentów powinien wystawić kasjer, inkasując należność w formie gotówkowej?",
+    "answers": [
+      "Dowód KW",
+      "Dowód KP",
+      "Dowód Pz",
+      "Dowód Wz"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 311,
+    "text": "Sklep spożywczy oferujący świeże ryby na wagę powinien zastosować sprzedaż",
+    "answers": [
+      "preselekcyjną.",
+      "tradycyjną.",
+      "wysyłkową.",
+      "samoobsługową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 312,
+    "text": "Na podstawie fragmentu artykułu określ, do którego typu klientek kierowana jest akcja promocyjna. Fragment artykułu prasowego Obecnie wiele kobiet przy zakupach zwraca szczególną uwagę na poziom obsługi i porady, z których może skorzystać w salonie. Ponieważ wiele kobiet nosi źle dobrany biustonosz, w naszym sklepie stanie Mobilna Przymierzalnia, w której każda kobieta będzie mogła skorzystać z profesjonalnej porady brafittingowej. Konsultantki wiodącej marki będą doradzać klientkom jak odpowiednio dobrać biustonosz oraz pomogą wybrać, zależnie od sylwetki, bieliznę modelującą.",
+    "answers": [
+      "Zdecydowanych.",
+      "Oczekujących doradztwa.",
+      "Konserwatywnych.",
+      "Reagujących emocjonalnie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 313,
+    "text": "Obowiązkowym raportem fiskalnym, wykonywanym na kasie rejestrującej, jest raport",
+    "answers": [
+      "dobowy.",
+      "roczny.",
+      "sprzedaży.",
+      "kasjerów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 314,
+    "text": "Którą instytucję charakteryzuje przedstawiony opis? Charakterystyka instytucji Centralny organ administracji rządowej, stojący na straży praw konsumentów i konkurencji. Organ ten nie zajmuje się sprawami indywidualnych kupujących, skargę można wnieść tylko wtedy, gdy naruszone zostały interesy zbiorowe większej liczby konsumentów.",
+    "answers": [
+      "Inspekcję Handlową.",
+      "Państwową Inspekcję Pracy.",
+      "Urząd Ochrony Konkurencji i Konsumentów.",
+      "Powiatowego Rzecznika Praw Konsumenta."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 315,
+    "text": "Którą zasadę prezentacji towarów przestawia zamieszczony opis? W drogerii na najbardziej widocznej półce umieszczone są najdroższe kosmetyki, a tuż pod nią artykuły również drogie, lecz znacznie tańsze od kosmetyków umieszczonych powyżej. Na pozostałych, mniej widocznych półkach, znajdują się towary tanie, co sprawia, że ceny towarów na półce drugiej wydają się niższe.",
+    "answers": [
+      "Prawej ręki.",
+      "Kontrastu.",
+      "Poruszania się wzdłuż ścian i unikania centralnych miejsc.",
+      "Czytania półki tak jak książki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 316,
+    "text": "Cena zakupu netto spodni wynosi 120,00 zł za sztukę, marża w wysokości 30% liczona jest od ceny zakupu netto, a stawka VAT wynosi 23%. Oblicz cenę sprzedaży brutto tych spodni.",
+    "answers": [
+      "191,88 zł",
+      "156,00 zł",
+      "147,60 zł",
+      "173,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 317,
+    "text": "Który z wymienionych produktów sprzedawca powinien zaproponować klientce poszukującej mięsa o najniższej wartości kalorycznej?",
+    "answers": [
+      "Schab wieprzowy.",
+      "Pierś z indyka.",
+      "Gicz cielęcą.",
+      "Udziec jagnięcy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 318,
+    "text": "Które z wymienionych opakowań są najwłaściwsze do dystrybucji i wykonywania czynności manipulacyjnych?",
+    "answers": [
+      "Jednostkowe.",
+      "Transportowe.",
+      "Bezzwrotne.",
+      "Zbiorcze."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 319,
+    "text": "Pasta do butów w sklepie obuwniczym stanowi asortyment",
+    "answers": [
+      "produkcyjny.",
+      "podstawowy.",
+      "uzupełniający.",
+      "obowiązkowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 320,
+    "text": "Regularna cena butów wynosiła 320,00 zł. Obniżono ją o 20%. Ile wynosi cena obuwia po obniżce?",
+    "answers": [
+      "384,00 zł",
+      "300,00 zł",
+      "256,00 zł",
+      "64,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 321,
+    "text": "Cena jednostkowa towarów sprzedawanych według długości dotyczy ceny za",
+    "answers": [
+      "1 kilogram.",
+      "1 metr bieżący.",
+      "1 litr.",
+      "1 metr kwadratowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 322,
+    "text": "Przedstawiony na ilustracji sprzęt jest używany przez pracownika działu",
+    "answers": [
+      "kosmetycznego.",
+      "nabiałowego.",
+      "mięsnego.",
+      "chemicznego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_sprzet.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 323,
+    "text": "Zgodnie z informacjami zawartymi we fragmencie faktury sprzedaży, w pozycji Wartość sprzedaży netto w zł należy wpisać kwotę",
+    "answers": [
+      "21,62",
+      "23,50",
+      "115,62",
+      "94,00"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela87.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 324,
+    "text": "Manekiny, na których eksponowana jest odzież w sklepach samoobsługowych i preselekcyjnych, należy ustawiać bezpośrednio na podłodze lub na",
+    "answers": [
+      "regałach.",
+      "podestach.",
+      "ladach.",
+      "gondolach."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 325,
+    "text": "Który z wymienionych dokumentów potwierdza przyjęcie zakupionego towaru do magazynu?",
+    "answers": [
+      "WZ – Wydanie Zewnętrzne.",
+      "RW – Rozchód Wewnętrzny.",
+      "PW – Przyjęcie Wewnętrzne.",
+      "PZ – Przyjęcie Zewnętrzne."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 326,
+    "text": "Kiosk z gazetami oferuje asortyment",
+    "answers": [
+      "wąski i płytki.",
+      "szeroki i płytki.",
+      "szeroki i głęboki.",
+      "wąski i głęboki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 327,
+    "text": "Podstawą opodatkowania podatkiem VAT jest",
+    "answers": [
+      "koszt zakupu towarów i usług.",
+      "wartość netto towarów i usług.",
+      "cena hurtowa zakupu towarów i usług.",
+      "wartość brutto towarów i usług."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 328,
+    "text": "Przedstawiony na rysunku znak, umieszczany na metce wyrobu, oznacza, że towar został wykonany z tkaniny zawierającej 100%",
+    "answers": [
+      "poliestru.",
+      "bawełny.",
+      "lnu.",
+      "wełny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_znak2.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 329,
+    "text": "Zgodnie z zasadami rozmieszczania wybranych grup towarowych, bułki i chleb można układać w sąsiedztwie",
+    "answers": [
+      "mięsa wołowego.",
+      "ryb wędzonych.",
+      "serów dojrzewających.",
+      "owoców świeżych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela84.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 330,
+    "text": "Sprzedawca, umieszczając obok siebie na sprzęcie wystawienniczym obuwie ze skóry naturalnej i sztucznej, zastosował zasadę",
+    "answers": [
+      "dostępności towarów.",
+      "kolejności dostaw.",
+      "substytucyjności.",
+      "komplementarności."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 331,
+    "text": "Przedstawiony opis dotyczy klienta Dokładny, analityczny, szybko wychwytuje szczegóły, do podjęcia decyzji potrzebuje dużo dodatkowych szczegółów.",
+    "answers": [
+      "stałego.",
+      "dominującego.",
+      "zdecydowanego.",
+      "ostrożnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 332,
+    "text": "Klient zamówił 4 sztuki krzeseł tapicerowanych. Na podstawie przedstawionej oferty oblicz, ile wyniesie należność netto za zamówione towary.",
+    "answers": [
+      "600,00 zł",
+      "400,00 zł",
+      "360,00 zł",
+      "540,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela86.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 333,
+    "text": "Który z wymienionych artykułów, odpowiednio przechowywanych, jest przydatny do spożycia przez najdłuższy okres?",
+    "answers": [
+      "Śmietana 18%.",
+      "Mleko UHT 0,5%.",
+      "Mleko świeże 3,2%.",
+      "Mleko pasteryzowane."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 334,
+    "text": "W hurtowni wystąpił pożar magazynu, w którym przechowywane były towary. Sytuacja ta wymaga przeprowadzenia inwentaryzacji",
+    "answers": [
+      "ciągłej.",
+      "okresowej.",
+      "doraźnej.",
+      "cyklicznej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 335,
+    "text": "Warunek dostawy FRANCO oznacza, że koszty transportu towarów pokrywa",
+    "answers": [
+      "sprzedawca.",
+      "przewoźnik.",
+      "odbiorca.",
+      "bank."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 336,
+    "text": "Który z wymienionych towarów powinien wskazać sprzedawca klientowi zainteresowanemu zakupem napoju niefermentowanego?",
+    "answers": [
+      "Mleko zagęszczone.",
+      "Maślankę.",
+      "Jogurt owocowy.",
+      "Kefir."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 337,
+    "text": "Na podstawie danych przedstawionych w tabeli ustal, które działanie podjął sprzedawca względem ceny towaru.",
+    "answers": [
+      "Podwyższył cenę o 25%.",
+      "Obniżył cenę o 20%.",
+      "Obniżył cenę o 25%.",
+      "Podwyższył cenę o 20%."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela82.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 338,
+    "text": "Prawo do skorzystania z uprawnień z tytułu niezgodności towaru z umową przysługuje klientowi sklepu stacjonarnego w okresie",
+    "answers": [
+      "24 miesięcy od wydania towaru.",
+      "14 dni od wydania towaru.",
+      "12 miesięcy od wydania towaru.",
+      "7 dni od wydania towaru."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 339,
+    "text": "Wskaż kolejność etapów przeprowadzania rozmowy handlowej, zgodną z zasadami sprzedaży.",
+    "answers": [
+      "Przekonywanie do dalszych zakupów, ustalenie potrzeb klienta, ustalenie i pobranie należności, prezentacja towaru, wyjaśnienie wątpliwości.",
+      "Przekonywanie do dalszych zakupów, wyjaśnienie wątpliwości, ustalenie i pobranie należności, prezentacja towaru, ustalenie potrzeb klienta.",
+      "Ustalenie potrzeb klienta, prezentacja towaru, przekonywanie do dalszych zakupów, ustalenie i pobranie należności, wyjaśnienie wątpliwości.",
+      "Ustalenie potrzeb klienta, prezentacja towaru, wyjaśnienie wątpliwości, ustalenie i pobranie należności, przekonywanie do dalszych zakupów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 340,
+    "text": "Odbiór ilościowy szczegółowy polega między innymi na skontrolowaniu",
+    "answers": [
+      "stanu opakowań zbiorczych.",
+      "wyglądu towarów.",
+      "trwałości towarów.",
+      "wymiarów opakowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 341,
+    "text": "Której formy zapłaty za towar użył klient, dokonując zakupu artykułów zgodnie z przedstawionym paragonem?",
+    "answers": [
+      "Karty płatniczej.",
+      "Gotówki.",
+      "Czeku rozrachunkowego.",
+      "Karty kredytowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_paragon2.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 342,
+    "text": "Artykuły spożywcze, dla których producent określił temperaturę przechowywania niższą niż otoczenia, należy przechowywać",
+    "answers": [
+      "w gablotach oszklonych.",
+      "w ladach chłodniczych.",
+      "na paletach uniwersalnych.",
+      "na regałach metalowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 343,
+    "text": "Towar oferowany do sprzedaży w cenie promocyjnej należy oznaczyć poprzez umieszczenie na jego wywieszce",
+    "answers": [
+      "wyłącznie nowej ceny promocyjnej.",
+      "większej ceny promocyjnej niż obowiązująca przed zmianą.",
+      "wyłącznie ceny obowiązującej przed zmianą.",
+      "przekreślonej dotychczasowej ceny i nowej ceny promocyjnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 344,
+    "text": "Który opis zachowania dotyczy klienta niecierpliwego?",
+    "answers": [
+      "Spieszy się, jest nerwowy, przestępuje w kolejce z nogi na nogę.",
+      "Patrzy w podłogę, niechętnie odpowiada na zadane pytania.",
+      "Zagaduje sprzedawcę nie tylko na temat towarów, długo ogląda asortyment.",
+      "Podejmuje decyzje dopiero po poradzie sprzedawcy, jest spokojny i opanowany."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 345,
+    "text": "Odpowiedzialność materialną pracowników w punktach sprzedaży detalicznej regulują przepisy Kodeksu",
+    "answers": [
+      "wykroczeń.",
+      "pracy.",
+      "karnego.",
+      "cywilnego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 346,
+    "text": "Którą z wymienionych form sprzedaży należy zastosować w stacjonarnym handlu detalicznym?",
+    "answers": [
+      "Wysyłkową.",
+      "Obwoźną.",
+      "Internetową.",
+      "Preselekcyjną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 347,
+    "text": "Który z wymienionych towarów należy przechowywać z zachowaniem optymalnej wilgotności na poziomie 85% – 90%?",
+    "answers": [
+      "Miód lipowy.",
+      "Cukier miałki.",
+      "Morele suszone.",
+      "Maliny mrożone."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela83.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 348,
+    "text": "Ograniczona odpowiedzialność materialna pracowników sklepu za powierzone mienie dotyczy",
+    "answers": [
+      "odzieży i obuwia ochronnego.",
+      "towarów i obuwia ochronnego.",
+      "odzieży roboczej i towarów.",
+      "towarów i opakowań."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 349,
+    "text": "Nabywca otrzymał fakturę z błędnym NIP-em. Który dokument należy wystawić, aby poprawić zaistniały błąd?",
+    "answers": [
+      "Notę korygującą.",
+      "Paragon fiskalny.",
+      "Fakturę pro forma.",
+      "Rachunek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 350,
+    "text": "Która z zaprezentowanych ofert jest najkorzystniejsza dla klienta zamierzającego kupić 5 sztuk pralek, stosując jako główne kryterium wyboru koszt oferty?",
+    "answers": [
+      "Oferta 3.",
+      "Oferta 4.",
+      "Oferta 1.",
+      "Oferta 2."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela85.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 351,
+    "text": "Polskim wyspecjalizowanym organem kontroli, powołanym do ochrony interesów i praw konsumentów oraz interesów gospodarczych państwa, jest",
+    "answers": [
+      "Państwowa Inspekcja Pracy.",
+      "Inspekcja Handlowa.",
+      "Urząd Skarbowy.",
+      "Powiatowy Rzecznik Praw Konsumenta."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 352,
+    "text": "Na rysunku przedstawiono znak",
+    "answers": [
+      "zasadniczy.",
+      "niebezpieczeństwa.",
+      "reklamowy.",
+      "manipulacyjny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_znak7.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 353,
+    "text": "Suma wartości należnego podatku od towarów i usług dla towarów A i B, zgodnie z danymi zawartymi w tabeli, wynosi",
+    "answers": [
+      "4 650,00 zł",
+      "2 700,00 zł",
+      "3 450,00 zł",
+      "2 300,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela88.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 354,
+    "text": "Zasada łańcucha chłodniczego wymaga zatwierdzenia",
+    "answers": [
+      "rodzaju czynnika chłodniczego.",
+      "warunków temperaturowych.",
+      "wielkości przestrzeni magazynowej.",
+      "standardu środka transportu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 355,
+    "text": "Zasada składowania towarów pierwsze weszło, pierwsze wyszło dotyczy przede wszystkim",
+    "answers": [
+      "artykułów szkolnych.",
+      "biżuterii luksusowej.",
+      "trwałych wyrobów cukierniczych.",
+      "mięsa i wędlin."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 356,
+    "text": "Który z wymienionych systemów stosowany jest do pakowania napojów, mleka, soku w opakowanie składające się z tektury i cienkiej folii?",
+    "answers": [
+      "Blister-pack.",
+      "Transwrap.",
+      "Flowpack.",
+      "Tetra-pack."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 357,
+    "text": "Klientka w sklepie mięsnym kupiła 0,5 kg szynki wiejskiej w cenie 35,00 zł/kg oraz 2,5 kg kiełbasy śląskiej w cenie 20,00 zł/kg. Zapłaciła banknotem 100 zł. Ile reszty należy wydać klientce?",
+    "answers": [
+      "55,00 zł",
+      "35,00 zł",
+      "32,50 zł",
+      "67,50 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 358,
+    "text": "Który dokument należy sporządzić dokonując wpłaty do banku utargu dziennego?",
+    "answers": [
+      "Dowód wpłaty gotówkowej.",
+      "Polecenie przelewu.",
+      "Dowód KW - kasa wypłaci.",
+      "Dowód KP - kasa przyjmie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 359,
+    "text": "Magazynami półotwartymi są",
+    "answers": [
+      "zasieki.",
+      "kopce.",
+      "silosy.",
+      "piwnice."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 360,
+    "text": "W związku z sezonową wyprzedażą, ceny obuwia obniżono o 15%. Kozaki damskie, których cena przed obniżką wynosiła 150,00 zł, będą kosztowały",
+    "answers": [
+      "165,00 zł",
+      "172,50 zł",
+      "135,00 zł",
+      "127,50 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 361,
+    "text": "Oblicz cenę sprzedaży netto towaru, którego cena zakupu netto wynosiła 20 zł, a marża w wysokości 20% liczona jest od ceny sprzedaży netto.",
+    "answers": [
+      "25,00 zł",
+      "19,80 zł",
+      "20,20 zł",
+      "24,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 362,
+    "text": "Podświetlana od wewnątrz tablica reklamowa określana jest jako",
+    "answers": [
+      "baner.",
+      "infoscreen.",
+      "citylight.",
+      "afisz."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 363,
+    "text": "Której z wymienionych informacji sprzedawca nie jest zobowiązany podawać klientom sklepu spożywczego?",
+    "answers": [
+      "Informacji o składnikach odżywczych towaru.",
+      "Terminu przydatności do spożycia.",
+      "Cen obowiązujących w innych sklepach.",
+      "Informacji o pochodzeniu towaru."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 364,
+    "text": "Które towary można umieścić na regale sklepowym obok pieczywa?",
+    "answers": [
+      "Tartą bułkę i płatki śniadaniowe.",
+      "Wędliny i ryby.",
+      "Sosy i przyprawy.",
+      "Warzywa i owoce."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 365,
+    "text": "Klient zakupił towary przedstawione w tabeli i zapłacił za nie banknotem o nominale 100 zł. Kwota reszty, którą powinien otrzymać klient wynosi",
+    "answers": [
+      "67,00 zł",
+      "64,00 zł",
+      "42,00 zł",
+      "36,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela81.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 366,
+    "text": "Cena sprzedaży kurtki skórzanej wynosi 615,00 zł i zawiera 23% podatku VAT. Kwotą podatku VAT jest",
+    "answers": [
+      "756,00 zł",
+      "141,45 zł",
+      "473,55 zł",
+      "115,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 367,
+    "text": "W dniu 10 lutego 2021 r., klient kupił odkurzacz poza lokalem sklepowym i nie został poinformowany przez sprzedającego o przysługującym mu prawie odstąpienia od umowy. Termin odstąpienia od tej umowy upływa dnia",
+    "answers": [
+      "24 lutego 2022 r.",
+      "31 grudnia 2022 r.",
+      "10 marca 2021 r.",
+      "24 lutego 2021 r."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 368,
+    "text": "Przedstawiona charakterystyka dotyczy asortymentu Opis rodzaju asortymentu Zestaw towarów obejmujący duży wybór w ramach poszczególnych grup towarowych.",
+    "answers": [
+      "głębokiego.",
+      "wąskiego.",
+      "szerokiego.",
+      "płytkiego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 369,
+    "text": "Klient zakupił maszynę do szycia, na którą otrzymał trzyletnią gwarancję. Po dwóch latach i dwóch miesiącach użytkowania zgodnego z przeznaczeniem, maszyna przestała działać. Do którego z wymienionych żądań ma prawo klient?",
+    "answers": [
+      "Naprawy towaru z tytułu gwarancji.",
+      "Wymiany towaru na nowy z tytułu niezgodności towaru z umową.",
+      "Zwrotu pieniędzy za zakupiony towar z tytułu niezgodności towaru z umową.",
+      "Obniżenia ceny towaru z tytułu wystąpienia usterki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 370,
+    "text": "Którą zasadę rozmieszczania towarów zastosował sprzedawca, umieszczając na wystawie płaszcze i nakrycia głowy?",
+    "answers": [
+      "Komplementarności.",
+      "Kolejności dostaw.",
+      "Substytucyjności.",
+      "Łatwej dostępności."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 371,
+    "text": "Podział lokalu sklepowego na strefę dla sprzedawcy i strefę dla klienta oraz brak bezpośredniego kontaktu klienta z towarem są cechami sprzedaży",
+    "answers": [
+      "tradycyjnej.",
+      "samoobsługowej.",
+      "internetowej.",
+      "preselekcyjnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 372,
+    "text": "Któremu z procesów należy poddać wędliny, aby można było je sprzedawać na stanowisku samoobsługowym?",
+    "answers": [
+      "Porcjowaniu.",
+      "Segregowaniu.",
+      "Kompletowaniu.",
+      "Sortowa.niu"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 373,
+    "text": "Która czynność wykonywana przez sprzedawcę nie dotyczy realizacji zamówienia klienta?",
+    "answers": [
+      "Wykładanie towaru na półki sklepowe.",
+      "Prezentacja towaru.",
+      "Inkaso należności.",
+      "Wydanie dowodu sprzedaży."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 374,
+    "text": "Przedstawiona charakterystyka dotyczy klienta Klient spodziewa się, że będzie oszukany przez sprzedawcę. Uważa, że w innym punkcie sprzedaży będzie lepiej obsłużony i kupi towar tańszy oraz lepszej jakości.",
+    "answers": [
+      "niezdecydowanego.",
+      "nieufnego.",
+      "rozmownego.",
+      "niecierpliwego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 375,
+    "text": "Pracownik sklepu AGD przywłaszczył sobie blender, co zarejestrował monitoring sklepowy. Za wyrządzoną szkodę poniesie on odpowiedzialność materialną, na zasadzie winy",
+    "answers": [
+      "domniemanej pełnej.",
+      "udowodnionej nieumyślnej.",
+      "udowodnionej umyślnej.",
+      "domniemanej ograniczonej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 376,
+    "text": "Dnia 10 maja, klient złożył reklamację na bluzę sportową, którą kupił 26 kwietnia, żądając wymiany towaru na nowy. Wykorzystując zamieszczony kalendarz ustal, do kiedy sprzedawca ma obowiązek rozpatrzenia tej reklamacji.",
+    "answers": [
+      "Do 10 maja.",
+      "Do 26 maja.",
+      "Do 10 czerwca.",
+      "Do 24 maja."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_kalendarz.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 377,
+    "text": "Dla którego z pism charakterystyczny jest zamieszczony zwrot? Dostawa towaru odbędzie się dnia 10 maja, poniedziałek, w godz. 1000 – 1500",
+    "answers": [
+      "Specyfikacji towarowej.",
+      "Zamówienia.",
+      "Zapytania ofertowego.",
+      "Potwierdzenia zamówienia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 378,
+    "text": "Jogurty należy przechowywać",
+    "answers": [
+      "na paletach uniwersalnych.",
+      "w kontenerach.",
+      "w ladach chłodniczych.",
+      "w gablotach oszklonych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 379,
+    "text": "Który towar jest przykładem podstawowej jednostki asortymentu w sklepie obuwniczym?",
+    "answers": [
+      "Pasta do butów.",
+      "Wkładki do butów.",
+      "Tenisówki.",
+      "Sznurowadła."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 380,
+    "text": "Który zestaw towarów należy przechowywać w magazynach zamkniętych?",
+    "answers": [
+      "Cegły i płytki ceramiczne.",
+      "Panele ścienne i podłogowe.",
+      "Piasek i stal.",
+      "Armaturę sanitarną i dachówki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 381,
+    "text": "Który produkt może być przechowywany poza urządzeniami chłodniczymi na półkach sklepowych?",
+    "answers": [
+      "Surowy sok marchwiowy.",
+      "Mleko pasteryzowane w plastikowych butelkach.",
+      "Ser żółty w plastrach hermetycznie opakowany.",
+      "Śmietanka do kawy UHT."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 382,
+    "text": "Które z zamieszczonych w tabeli czynności powinien wykonać sprzedawca, przygotowując towary do sprzedaży?",
+    "answers": [
+      "Czynności: 2, 3 i 5.",
+      "Czynności: 1, 4 i 5.",
+      "Czynności: 1, 2 i 4.",
+      "Czynności: 2, 3 i 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela78.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 383,
+    "text": "Która czynność nie jest związana z przyjmowaniem do sklepu zakupionych towarów?",
+    "answers": [
+      "Sprawdzenie stanów magazynowych w celu określenia zapotrzebowania na towary.",
+      "Porównanie ilości towaru z dokumentami towarzyszącymi dostawie.",
+      "Weryfikacja zgodności pozycji asortymentowych ze złożonym zamówieniem.",
+      "Ocena jakości dostarczonych towarów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 384,
+    "text": "Do sklepu zakupiono spodnie w cenie zakupu netto 100,00 zł za sztukę. Marża w wysokości 20% liczona jest od ceny zakupu netto, a stawka podatku VAT wynosi 23%. Cena sprzedaży brutto tych spodni wynosi",
+    "answers": [
+      "153,75 zł",
+      "120,00 zł",
+      "143,00 zł",
+      "147,60 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 385,
+    "text": "W przedstawionej fakturze, w pozycji Wartość z podatkiem VAT, dla stawki 5% należy wpisać wartość",
+    "answers": [
+      "126,00 zł",
+      "114,00 zł",
+      "80,10 zł",
+      "206,10 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_faktura14.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 386,
+    "text": "Który znak manipulacyjny oznacza, że opakowanie towaru zostało hermetycznie zamknięte?",
+    "answers": [
+      "Znak 1.",
+      "Znak 2.",
+      "Znak 3.",
+      "Znak 4."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_znaki10.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 387,
+    "text": "Towarem wyprodukowanym z surowca pochodzenia roślinnego jest",
+    "answers": [
+      "koszula z bawełny.",
+      "sweter z wełny.",
+      "bluzka z jedwabiu.",
+      "czapka z moheru."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 388,
+    "text": "Odbiór jakościowy dostarczonych do sklepu butów polega na",
+    "answers": [
+      "analizie dokumentów towarzyszących dostawie.",
+      "ocenie organoleptycznej butów.",
+      "sprawdzeniu liczby opakowań zbiorczych.",
+      "przeliczeniu dostarczonych butów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 389,
+    "text": "Na podstawie analizy danych przedstawionych w tabeli wskaż towar, którego niedobór ma wartość większą niż 15,00 zł.",
+    "answers": [
+      "Ołówki.",
+      "Długopisy.",
+      "Zeszyty.",
+      "Notatniki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela79.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 390,
+    "text": "W którym z wymienionych przypadków należy przeprowadzić inwentaryzację nadzwyczajną?",
+    "answers": [
+      "Po włamaniu do sklepu i kradzieży.",
+      "Na koniec roku kalendarzowego.",
+      "Po przyjęciu do magazynu zakupionego towaru.",
+      "Przy przekazywaniu odpowiedzialności za towary innemu pracownikowi sklepu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 391,
+    "text": "Której zasady powinien przestrzegać sprzedawca, aby nie mieć trudności ze znalezieniem odpowiedniego towaru na zapleczu sklepu?",
+    "answers": [
+      "Towary przechowywać w stałych miejscach.",
+      "Towary ciężkie układać na najniższych półkach.",
+      "Towary z późniejszych dostaw układać za towarami z dostaw wcześniejszych.",
+      "Towary wymagające niskiej temperatury przechowywać w chłodniach."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 392,
+    "text": "Na podstawie danych zamieszczonych w tabeli oblicz kwotę należności za zakupy.",
+    "answers": [
+      "34,50 zł",
+      "26,50 zł",
+      "37,00 zł",
+      "29,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela80.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 393,
+    "text": "Który dokument należy sporządzić, aby potwierdzić dokonanie sprzedaży?",
+    "answers": [
+      "Paragon fiskalny.",
+      "Kartotekę magazynową.",
+      "Pz - przyjęcie zewnętrzne.",
+      "Wz – wydanie zewnętrzne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 394,
+    "text": "Towarem należącym do grupy warzyw kapustnych jest",
+    "answers": [
+      "szpinak.",
+      "sałata.",
+      "patison.",
+      "brokuł."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 395,
+    "text": "Do sklepu perfumeryjnego z tradycyjną formą sprzedaży wszedł klient, który zamierza kupić prezent dla swojej córki. Wskaż kolejność czynności, w jakiej powinna przebiegać obsługa tego klienta.",
+    "answers": [
+      "Ustalenie potrzeb, prezentacja produktów, wyjaśnienie wątpliwości, inkaso należności, zachęcenie do dalszych zakupów.",
+      "Ustalenie potrzeb, wyjaśnienie wątpliwości, prezentacja produktów, inkaso należności, zachęcenie do dalszych zakupów.",
+      "Ustalenie potrzeb, prezentacja produktów, zachęcenie do dalszych zakupów, wyjaśnienie wątpliwości, inkaso należności.",
+      "Ustalenie potrzeb, zachęcenie do dalszych zakupów, prezentacja produktów, wyjaśnienie wątpliwości, inkaso należności."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 396,
+    "text": "Sprzedawca odpowiada wobec konsumenta za sprzedany towar, jeżeli wada zostanie stwierdzona w okresie",
+    "answers": [
+      "dwóch lat od dnia wydania towaru.",
+      "jednego roku od dnia wydania towaru.",
+      "dwóch lat od dnia sprzedania towaru.",
+      "jednego roku od dnia sprzedania towaru."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 397,
+    "text": "Którą stawką VAT opodatkowany jest towar, jeżeli jego cena sprzedaży netto wynosi 25,00 zł, a ceną sprzedaży brutto jest 27,00 zł?",
+    "answers": [
+      "23%",
+      "0%",
+      "8%",
+      "5%"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 398,
+    "text": "Książki należy magazynować w pomieszczeniu, które zapewnia utrzymanie",
+    "answers": [
+      "wysokiej temperatury.",
+      "niskiej wilgotności powietrza.",
+      "małej cyrkulacji powietrza.",
+      "dużego nasłonecznienia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 399,
+    "text": "Materiały budowlane, takie jak wapno i cement, należy przechowywać w magazynach",
+    "answers": [
+      "zamkniętych.",
+      "półotwartych.",
+      "otwartych.",
+      "specjalnych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 400,
+    "text": "Na podstawie fragmentu faktury ustal łączną wartość brutto wszystkich zakupionych towarów.",
+    "answers": [
+      "3 000,00 zł",
+      "1 230,00 zł",
+      "3 690,00 zł",
+      "2 460,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_faktura16.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 401,
+    "text": "Odbiór jakościowy dostarczonej partii kozaków damskich polega między innymi na",
+    "answers": [
+      "sprawdzeniu kozaków metodami organoleptycznymi.",
+      "przeliczeniu wszystkich par dostarczonych kozaków.",
+      "przeliczeniu ilości dostarczonych opakowań zbiorczych.",
+      "sprawdzeniu szczelności opakowań zbiorczych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 402,
+    "text": "Oblicz cenę sprzedaży netto towaru, jeżeli cena zakupu netto wynosi 70,00 zł, a marża w wysokości 30% liczona jest od ceny zakupu netto.",
+    "answers": [
+      "100,00 zł",
+      "86,10 zł",
+      "91,00 zł",
+      "111,93 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 403,
+    "text": "Sytuacja, w której klientowi sprzedawane towary podaje wyłącznie ekspedientka jest charakterystyczna dla sprzedaży",
+    "answers": [
+      "samoobsługowej.",
+      "tradycyjnej..",
+      "preselekcyjnej.",
+      "według wzorów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 404,
+    "text": "W którym przypadku sprzedawca może odmówić przyjęcia zapłaty kartą płatniczą?",
+    "answers": [
+      "Posługiwania się kartą płatniczą przez osobę nieuprawnioną.",
+      "Gdy klient przy pierwszej próbie potwierdzenia transakcji wpisał błędny PIN.",
+      "Transakcji na kwotę poniżej 100 zł.",
+      "Zakupu towarów sprowadzanych na zamówienie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 405,
+    "text": "Które informacje powinny znaleźć się na wywieszce cenowej umieszczonej przy szamponach w sklepie detalicznym?",
+    "answers": [
+      "Jednostka miary, stawka VAT, cena netto.",
+      "Jednostka miary, data ważności, cena netto.",
+      "Składniki towaru, stawka VAT, cena brutto.",
+      "Nazwa towaru, jednostka miary, cena brutto."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 406,
+    "text": "W celu uzyskania informacji na temat oferowanych przez sprzedawcę towarów, ich cen i warunków sprzedaży, należy wysłać do niego",
+    "answers": [
+      "zapytanie ofertowe.",
+      "ofertę sprzedaży.",
+      "folder informacyjny.",
+      "specyfikację towarową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 407,
+    "text": "W hurtowni pracuje 4 magazynierów, którzy podpisali umowę o wspólnej odpowiedzialności materialnej w równych proporcjach. W wyniku inwentaryzacji stwierdzono niedobór w wysokości 5 250,00 zł, w tym powstały z winy pracowników w wysokości 4 000,00 zł. Każdy z pracowników odpowiada za niedobór w kwocie",
+    "answers": [
+      "1 250,00 zł",
+      "4 000,00 zł",
+      "1 000,00 zł",
+      "5 250,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 408,
+    "text": "W sklepie na koniec dnia pracy kasjera, po przeliczeniu pieniędzy w kasie okazało się, że jest ich więcej niż wynika z raportu kasowego. Taką sytuację należy określić mianem",
+    "answers": [
+      "manka.",
+      "superaty.",
+      "niedoboru.",
+      "reszty."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 409,
+    "text": "Na podstawie danych zawartych w tabeli ustal charakter różnic inwentaryzacyjnych.",
+    "answers": [
+      "Niedobór bluzek i skarpetek oraz nadwyżka spódnic.",
+      "Niedobór skarpetek i spódnic oraz nadwyżka bluzek.",
+      "Niedobór skarpetek oraz nadwyżka spódnic i bluzek.",
+      "Niedobór bluzek oraz nadwyżka spódnic i skarpetek."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela89.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 410,
+    "text": "Na najwyższych półkach sklepowych powinny znaleźć się artykuły",
+    "answers": [
+      "o wysokiej jakości.",
+      "o największej sprzedaży.",
+      "o dużych gabarytach.",
+      "o najniższej cenie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 411,
+    "text": "W związku ze zmianą osoby materialnie odpowiedzialnej za towary znajdujące się w sklepie, należy przeprowadzić inwentaryzację",
+    "answers": [
+      "ciągłą.",
+      "zdawczo-odbiorczą.",
+      "okresową planową.",
+      "wyrywkową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 412,
+    "text": "Rejestrując na kasie fiskalnej pogotowie kasowe, należy wystawić",
+    "answers": [
+      "raport obrotów.",
+      "potwierdzenie wpłaty.",
+      "paragon fiskalny.",
+      "raport dobowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 413,
+    "text": "Które z wymienionych towarów należy wydawać z magazynu według zasady FEFO?",
+    "answers": [
+      "Papier ksero.",
+      "Mleko świeże.",
+      "Płaszcze wełniane.",
+      "Spodnie lniane."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 414,
+    "text": "Do czynności związanych z prezentacją towaru nie zalicza się",
+    "answers": [
+      "przedstawienia korzyści wynikających z użytkowania towaru.",
+      "omówienia sposobu użytkowania towaru.",
+      "sporządzenia faktury za sprzedany towar.",
+      "ustalenia oczekiwań klienta związanych z zakupem towaru."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 415,
+    "text": "Na koniec rozmowy sprzedażowej, kasjer żegnający klienta powinien",
+    "answers": [
+      "zaproponować towar w promocyjnej cenie.",
+      "zapytać o plany związane z zakupionym towarem.",
+      "zapewnić o dobrej jakości towarów.",
+      "zaprosić do ponownych zakupów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 416,
+    "text": "Klienta, który chce odnowić żeliwną ławkę ogrodową należy poinformować, że powinien kupić",
+    "answers": [
+      "lakierobejcę.",
+      "farbę do drewna.",
+      "środek przeciwpleśniowy.",
+      "impregnat do metalu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 417,
+    "text": "Zgodnie z zasadą komplementarności, na sali sprzedażowej należy obok siebie ułożyć",
+    "answers": [
+      "płyny do kąpieli i serwetki.",
+      "pomidory i jabłka.",
+      "książki i długopisy.",
+      "buty i sznurówki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 418,
+    "text": "W jaki sposób powinien zachować się sprzedawca w sklepie samoobsługowym, gdy klientka próbuje rozmawiać na tematy osobiste?",
+    "answers": [
+      "Zachęcać do kontynuowania rozmowy, zadając liczne pytania otwarte.",
+      "Skierować rozmowę na temat zakupu i zadawać konkretne pytania wymagające krótkiej odpowiedzi.",
+      "Zaprzyjaźnić się z klientką, by namówić ją do zakupu najdroższego towaru.",
+      "Szczerze odpowiadać na wszystkie pytania klientki, by jej nie zniechęcić do zakupów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 419,
+    "text": "Które z wymienionych opakowań powinien zastosować sprzedawca, aby przygotować serwis obiadowy do transportu?",
+    "answers": [
+      "Opakowanie tekturowe.",
+      "Torebkę foliową.",
+      "Torbę tekstylną.",
+      "Folię termokurczliwą."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 420,
+    "text": "Cena sprzedaży brutto proszku do prania wynosi 55,35 zł, stawka podatku VAT 23%. Oblicz kwotę podatku VAT.",
+    "answers": [
+      "10,35 zł",
+      "12,73 zł",
+      "32,35 zł",
+      "45,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 421,
+    "text": "Okres odpowiedzialności sprzedawcy z tytułu rękojmi za wady fizyczne i prawne sprzedanego nowego fabrycznie towaru wynosi",
+    "answers": [
+      "3 lata od wydania rzeczy.",
+      "2 lata od wydania rzeczy.",
+      "1 rok od wydania rzeczy.",
+      "6 miesięcy od wydania rzeczy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 422,
+    "text": "Klient dokonał zakupu aparatu fotograficznego w sklepie internetowym. Potwierdził znajomość regulaminu sklepu, zawierającego informację o możliwości odstąpienia od umowy zakupu. Klient może zrezygnować z zakupu bez podania przyczyny w ciągu",
+    "answers": [
+      "14 dni.",
+      "30 dni.",
+      "3 dni.",
+      "7 dni."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 423,
+    "text": "W celu zapoznania klientów z działaniem nowego modelu odkurzacza, sklep powinien zastosować aktywizację sprzedaży poprzez",
+    "answers": [
+      "rozdanie bezpłatnych próbek.",
+      "zastosowanie promocji cenowej.",
+      "zaoferowanie kuponu rabatowego.",
+      "przeprowadzenie pokazu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 424,
+    "text": "Batoniki i gumy do żucia eksponowane są przy kasach w sklepach samoobsługowych, w celu oddziaływania na klienta jako towary",
+    "answers": [
+      "impulsy.",
+      "luksusowe.",
+      "magnesy.",
+      "przymusowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 425,
+    "text": "Na podstawie informacji zamieszczonych w załączonym cenniku wskaż towar, na który obowiązuje stawka podatku VAT w wysokości 5%.",
+    "answers": [
+      "Towar 2.",
+      "Towar 4.",
+      "Towar 1.",
+      "Towar 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela92.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 426,
+    "text": "Regularna cena brutto ekspresu wynosiła 1500,00 zł. Obniżono ją o 25%. Ile powinien zapłacić klient za dwa ekspresy w obniżonej cenie?",
+    "answers": [
+      "1 125,00 zł",
+      "2 250,00 zł",
+      "3 000,00 zł",
+      "750,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 427,
+    "text": "W ofercie skierowanej do potencjalnego nabywcy nie należy podawać informacji",
+    "answers": [
+      "o cenie netto towarów.",
+      "o cenie kartotekowej towarów.",
+      "o stawce podatku VAT.",
+      "o warunkach płatności."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 428,
+    "text": "Który towar przygotowany jest do sprzedaży w sklepie samoobsługowym?",
+    "answers": [
+      "Samochód osobowy.",
+      "20-kilogramowy krąg sera.",
+      "Bela płótna w kwiaty.",
+      "4-litrowy płyn do spryskiwaczy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 429,
+    "text": "Do warzyw strączkowych zalicza się",
+    "answers": [
+      "soję.",
+      "pomidory.",
+      "ogórki.",
+      "ziemniaki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 430,
+    "text": "W magazynie Hurtowni WYSTRÓJ WNĘTRZ na dzień 04.05.2022 r. znajdowało się 20 m.b. zasłon. Na podstawie załączonego dokumentu PZ ustal wielkość zapasu zasłon w magazynie na dzień 05.05.2022 r.",
+    "answers": [
+      "35 m.b.",
+      "20 m.b.",
+      "50 m.b.",
+      "70 m.b."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_dokument11.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 431,
+    "text": "Które z wymienionych artykułów stanowią asortyment uzupełniający w sklepie papierniczym?",
+    "answers": [
+      "Kalkulatory.",
+      "Bloki rysunkowe.",
+      "Brystole.",
+      "Zeszyty."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 432,
+    "text": "Które z wymienionych zachowań klienta świadczy o finalizowaniu przez niego transakcji kupna towaru?",
+    "answers": [
+      "Krytykowanie jakości towaru.",
+      "Poszukiwanie informacji o towarach substytucyjnych.",
+      "Dopytywanie o ostateczną cenę towaru.",
+      "Unikanie kontaktu wzrokowego ze sprzedawcą."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 433,
+    "text": "Ile reszty powinien otrzymać klient, jeżeli za towary wymienione w tabeli dokona zapłaty banknotem o nominale 100,00 zł?",
+    "answers": [
+      "76,80 zł",
+      "63,20 zł",
+      "23,20 zł",
+      "36,80 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela90.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 434,
+    "text": "Właściciel sklepu spożywczego zamówił 30 kg mąki, 40 opakowań cukierków, 35 szt. litrowych butelek soku pomarańczowego, 50 szt. litrowych butelek soku jabłkowego i 25 kg cukru. Towary dostarczono zgodnie z zamieszczonym fragmentem faktury zakupu. Pracownik przeprowadzający odbiór ilościowy powinien stwierdzić, że",
+    "answers": [
+      "dostarczono zbyt dużo towarów z grupy słodycze.",
+      "dostarczono za mało towarów z grupy napoje.",
+      "ilość dostarczonych towarów z grupy artykuły sypkie jest nieprawidłowa.",
+      "ilość dostarczonych towarów jest zgodna z zamówieniem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_faktura15.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 435,
+    "text": "Na podstawie przedstawionego fragmentu ewidencji sprzedaży VAT ustal wartość należnego podatku od towarów i usług.",
+    "answers": [
+      "850,00 zł",
+      "3 910,00 zł",
+      "1 810,00 zł",
+      "1 360,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_tabela91.png"
+    },
+    "category": "HAN.01"
+  },
+  {
+    "id": 436,
+    "text": "Degustacja towarów w punkcie sprzedaży detalicznej jest formą",
+    "answers": [
+      "promocji sprzedaży.",
+      "reklamy.",
+      "sponsoringu.",
+      "sprzedaży osobistej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HAN.01"
+  },
+  {
+    "id": 437,
+    "text": "Przedstawiony na ilustracji klips służy do zabezpieczenia przed kradzieżą",
+    "answers": [
+      "butelki perfum.",
+      "kolczyków ze złota.",
+      "zestawu książek.",
+      "płyty CD."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "han01/a18_klips.png"
+    },
+    "category": "HAN.01"
+  }
+]
