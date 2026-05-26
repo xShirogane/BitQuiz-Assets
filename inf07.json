@@ -1,0 +1,5050 @@
+[
+  {
+    "id": 1,
+    "text": "Jaki będzie koszt materiałów zużytych do wykonania 20 kabli typu patchcord o długości 50 cm?",
+    "answers": [
+      "72,00 zł",
+      "104,00 zł",
+      "52,00 zł",
+      "92,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_tabela14.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 2,
+    "text": "Jak oznacza się na schematach sieci LAN punkty rozdzielcze (dystrybucyjne) znajdujące się na poszczególnych piętrach budynku zgodnie z normą PN-EN 50173?",
+    "answers": [
+      "MDF (Main Distribution Frame)",
+      "CD (Campus Distribution)",
+      "BD (Building Distributor)",
+      "FD (Floor Distribution)"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 3,
+    "text": "Który z adresów IPv4 jest adresem publicznym?",
+    "answers": [
+      "10.0.3.42",
+      "192.168.0.4",
+      "194.204.152.34",
+      "172.16.32.7"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 4,
+    "text": "Usługa serwerowa stosowana do automatycznej konfiguracji interfejsów sieciowych stacji klienckich to",
+    "answers": [
+      "DHCP (Dynamic Host Configuration Protocol)",
+      "RIP (Routing Information Protocol)",
+      "SIP (Session Initiation Protocol)",
+      "ICMP (Internet Control Message Protocol)"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 5,
+    "text": "Adresem rozgłoszeniowym (broadcast) dla hosta o adresie IP 192.168.35.202 z 26 – bitową maską jest",
+    "answers": [
+      "192.168.35.0",
+      "192.168.35.192",
+      "192.168.35.255",
+      "192.168.35.63"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 6,
+    "text": "Oznaczenie wtyku zwanego popularnie RJ45 to",
+    "answers": [
+      "8P4C (8 Position 4 Contact)",
+      "4P4C (4 Position 4 Contact)",
+      "4P8C (4 Position 8 Contact)",
+      "8P8C (8 Position 8 Contact)"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 7,
+    "text": "Zamieszczona specyfikacja sprzętowa dotyczy",
+    "answers": [
+      "modemu ADSL.",
+      "przełącznika.",
+      "konwertera mediów.",
+      "bramki VOIP."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_specyfikacja.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 8,
+    "text": "Po wpisaniu adresu HTTP w przeglądarce internetowej wyświetla się błąd „403 Forbidden”, który oznacza, że",
+    "answers": [
+      "karta sieciowa ma błędnie nadany adres IP.",
+      "użytkownik nie ma uprawnień do żądanego zasobu.",
+      "ograniczono wielkość wysyłanych danych przez klienta.",
+      "nie ma pliku docelowego na serwerze."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 9,
+    "text": "W wyniku uszkodzenia kabla typu skrętka utracono połączenie między przełącznikiem a stacją roboczą. Który przyrząd pomiarowy należy zastosować aby zlokalizować i usunąć usterkę bez wymiany całego kabla?",
+    "answers": [
+      "Multimetr.",
+      "Miernik mocy.",
+      "Reflektometr TDR.",
+      "Analizator widma."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 10,
+    "text": "Pierwsze znaki heksadecymalne adresu IPv6 typu link-local to",
+    "answers": [
+      "FF30",
+      "3000",
+      "FE80",
+      "2000"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 11,
+    "text": "Jakie jest główne zadanie protokołu ICMP?",
+    "answers": [
+      "Automatyczna adresacja hostów.",
+      "Szyfrowanie połączeń zdalnych.",
+      "Kontrola transmisji w sieci.",
+      "Transfer poczty elektronicznej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 12,
+    "text": "Rekord typu A serwera DNS",
+    "answers": [
+      "przechowuje alias nazwy domeny.",
+      "przechowuje informację o nadrzędnym serwerze DNS.",
+      "mapuje nazwę domeny DNS na nazwę serwera poczty.",
+      "mapuje nazwę hosta na odpowiadający jej 32-bitowy adres IPv4."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 13,
+    "text": "Ile komputerów można zaadresować w sieci z maską 255.255.255.224?",
+    "answers": [
+      "27 komputerów.",
+      "32 komputery.",
+      "25 komputerów.",
+      "30 komputerów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 14,
+    "text": "Katalog Nakładów Rzeczowych przy projektowaniu sieci jest stosowany do",
+    "answers": [
+      "zdefiniowania wytycznych dla wykonawcy.",
+      "rysowania schematów sieci.",
+      "kosztorysowania robót.",
+      "opracowywania powykonawczych pomiarów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 15,
+    "text": "Aby komputery udostępniały swoje dane w sieci, nie mogą mieć przypisanych tych samych",
+    "answers": [
+      "masek podsieci.",
+      "adresów IP.",
+      "serwerów DNS.",
+      "grup roboczych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 16,
+    "text": "Wynik wykonania którego polecenia sieciowego systemu z rodziny Windows jest przedstawiony na rysunku?",
+    "answers": [
+      "route print",
+      "net view",
+      "arp -a",
+      "net session"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_zrzut4.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 17,
+    "text": "Jak nazywa się oprogramowanie serwerowe systemu Linux umożliwiające współpracę z grupą roboczą i domenami Windows?",
+    "answers": [
+      "Samba",
+      "Apache",
+      "CUPS",
+      "NTP"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 18,
+    "text": "Z jaką prędkością realizowana jest transmisja danych w standardzie 1000Base-T?",
+    "answers": [
+      "1 MB/s",
+      "1 GB/s",
+      "1 Mbit/s",
+      "1 Gbit/s"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 19,
+    "text": "Którym poleceniem systemu Linux można sprawdzić trasę pakietu do docelowego urządzenia?",
+    "answers": [
+      "traceroute",
+      "tracert",
+      "netstat",
+      "pathping"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 20,
+    "text": "Który z programów nie jest stosowany do zdalnego zarządzania komputerami w sieci?",
+    "answers": [
+      "UltraVNC",
+      "Rdesktop",
+      "Team Viewer",
+      "Virtualbox"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 21,
+    "text": "Na którym domyślnym porcie działa serwer WWW stosujący domyślny protokół HTTPS w standardowej konfiguracji?",
+    "answers": [
+      "110",
+      "443",
+      "20",
+      "80"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 22,
+    "text": "Adresem IPv4 urządzenia pracującego w sieci 10.100.0.0/18 jest",
+    "answers": [
+      "10.100.192.254",
+      "10.100.64.254",
+      "10.100.128.254",
+      "10.100.32.254"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 23,
+    "text": "Który z protokołów jest stosowany w telefonii internetowej?",
+    "answers": [
+      "FTP",
+      "HTTP",
+      "NetBEUI",
+      "SIP"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 24,
+    "text": "Jaka jest długość maski sieci w adresach klasy B?",
+    "answers": [
+      "8 bitów.",
+      "12 bitów.",
+      "24 bity.",
+      "16 bitów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 25,
+    "text": "Jak nazywa się atak w sieci lokalnej polegający na próbie podszycia się pod kogoś innego?",
+    "answers": [
+      "Flood ping",
+      "DDoS",
+      "Phishing",
+      "Spoofing"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 26,
+    "text": "Podczas próby uzyskania połączenia z serwerem FTP uwierzytelnianie anonimowe nie powiodło się, natomiast próba autoryzacji przy pomocy loginu i hasła kończy się powodzeniem. Jaka jest możliwa przyczyna zaistniałej sytuacji?",
+    "answers": [
+      "Błędnie ustawione uprawnienia do zasobu.",
+      "Wyłączona usługa FTP.",
+      "Wyłączone uwierzytelnianie anonimowe na serwerze.",
+      "Brak żądanego zasobu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 27,
+    "text": "W sieciach bezprzewodowych Ad-Hoc IBSS (Independent Basic Service Set) stosowana jest fizyczna topologia",
+    "answers": [
+      "siatki.",
+      "pierścienia.",
+      "magistrali.",
+      "gwiazdy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 28,
+    "text": "Jednym ze sposobów utrudnienia niepowołanym osobom dostępu do sieci bezprzewodowej jest",
+    "answers": [
+      "wyłączenie szyfrowania.",
+      "zmiana standardu szyfrowania z WPA na WEP.",
+      "zmiana kanału nadawania sygnału.",
+      "wyłączenie rozgłaszania identyfikatora sieci."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 29,
+    "text": "Do monitorowania stanu urządzeń w sieci jest stosowane oprogramowanie działające w oparciu o protokół",
+    "answers": [
+      "SNMP (Simple Network Management Protocol)",
+      "SMTP (Simple Mail Transport Protocol)",
+      "FTP (File Transfer Protocol)",
+      "STP (Spanning Tree Protocol)"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 30,
+    "text": "Które bity w 48 bitowym adresie sprzętowym MAC są identyfikatorem producenta?",
+    "answers": [
+      "Ostatnie 8 bitów.",
+      "Ostatnie 24 bity.",
+      "Pierwsze 24 bity.",
+      "Pierwsze 8 bitów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 31,
+    "text": "Który protokół nie jest stosowany do konfiguracji wirtualnej sieci prywatnej?",
+    "answers": [
+      "L2TP",
+      "SNMP",
+      "PPTP",
+      "SSTP"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 32,
+    "text": "Program Wireshark jest stosowany do",
+    "answers": [
+      "projektowania sieci komputerowych.",
+      "monitorowania stanu urządzeń sieciowych.",
+      "analizy przesyłanych w sieci pakietów.",
+      "sprawdzania przepustowości łączy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 33,
+    "text": "Jakie jest zastosowanie noża uderzeniowego?",
+    "answers": [
+      "Do montażu złącza F na kablu koncentrycznym.",
+      "Do cięcia przewodów światłowodowych.",
+      "Do montażu skrętki w gniazdach sieciowych.",
+      "Do cięcia przewodów miedzianych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 34,
+    "text": "Która usługa działa na porcie 3389?",
+    "answers": [
+      "DHCP (Dynamic Host Configuration Protocol)",
+      "TFTP (Trivial File Transfer Protocol)",
+      "RDP (Remote Desktop Protocol)",
+      "DNS (Domain Name System)"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 35,
+    "text": "Jaka jest wartość dopuszczalnej długości kabla typu skrętka pomiędzy panelem krosowniczym a gniazdem abonenckim według normy PN-EN 50174-2?",
+    "answers": [
+      "50 m",
+      "10 m",
+      "100 m",
+      "90 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 36,
+    "text": "W systemach Windows profil tymczasowy użytkownika jest",
+    "answers": [
+      "wczytywany do systemu z serwera, określa konkretne ustawienia  dla pojedynczych użytkowników i całych grup.",
+      "wczytywany do systemu, jeśli błąd uniemożliwia wczytanie profilu mobilnego użytkownika.",
+      "tworzony przez administratora systemu i przechowywany na serwerze.",
+      "tworzony podczas pierwszego logowania do komputera i przechowywany na lokalnym dysku twardym komputera."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 37,
+    "text": "Do połączenia ze sobą dwóch przełączników na odległość 200 m oraz aby zapewnić przepustowość minimalną 200 Mbit/s, należy zastosować",
+    "answers": [
+      "kabel koncentryczny 50 Ω.",
+      "światłowód.",
+      "skrętkę UTP.",
+      "skrętkę STP."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 38,
+    "text": "Urządzenie przedstawione na rysunku jest stosowane do",
+    "answers": [
+      "zamiany transmisji sygnału kablem światłowodowym na skrętkę.",
+      "wzmocnienia sygnału.",
+      "rozdzielenia sygnału.",
+      "zabezpieczenia przed niepożądanym dostępem z sieci."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_urzadzenie15.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 39,
+    "text": "Na rysunku przedstawiony jest symbol graficzny",
+    "answers": [
+      "zapory sieciowej.",
+      "mostu sieciowego.",
+      "rutera.",
+      "przełącznika."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_symbol6.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 40,
+    "text": "Jak oznaczona jest skrętka bez ekranu zewnętrznego z każdą parą w osobnym ekranie z folii?",
+    "answers": [
+      "F/UTP",
+      "F/STP",
+      "S/FTP",
+      "U/FTP"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 41,
+    "text": "Licencja typu TRIAL umożliwia użytkowanie oprogramowania",
+    "answers": [
+      "przez określony czas (np. 3 miesiące).",
+      "tylko do celów niekomercyjnych.",
+      "przez dowolny czas, z możliwością modyfikacji.",
+      "w ograniczonym zakresie, np. przez wyłączenie pewnych funkcji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 42,
+    "text": "Które polecenie umożliwi wyświetlenie konfiguracji interfejsu sieciowego w systemie Linux?",
+    "answers": [
+      "ipconfig",
+      "iproute show",
+      "ipaddr show",
+      "traceroute"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 43,
+    "text": "Po zainstalowaniu roli Hyper-V na serwerze Windows jest możliwe",
+    "answers": [
+      "szybkie zdalne wdrażanie systemów operacyjnych Windows na komputerach w sieci.",
+      "centralne zarządzanie i obsługę rozproszonych aplikacji biznesowych.",
+      "zautomatyzowanie i uproszczenie zarządzania kluczami licencji zbiorczych.",
+      "tworzenie maszyn wirtualnych i ich zasobów oraz zarządzanie nimi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 44,
+    "text": "Które urządzenie należy zastosować aby podłączyć sieć lokalną do Internetu dostarczanego przez operatora telekomunikacyjnego?",
+    "answers": [
+      "Punkt dostępu.",
+      "Przełącznik warstwy 3.",
+      "Ruter ADSL.",
+      "Konwerter mediów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 45,
+    "text": "Do zabezpieczenia systemu Windows przed włamaniami przez ograniczenie ilości nieudanego logowania się do systemu, należy skonfigurować",
+    "answers": [
+      "Panel Sterowania, Zaporę systemu Windows.",
+      "Zasady grup, Opcje zabezpieczeń.",
+      "Panel Sterowania, Konta użytkowników.",
+      "Zasady grup, Zasady konta."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 46,
+    "text": "Główną funkcją monitora, będącego częścią oprogramowania antywirusowego, jest",
+    "answers": [
+      "kontrola bieżących operacji komputera podczas uruchamiania i pracy aplikacji.",
+      "okresowe skanowanie plików znajdujących się na dysku twardym komputera.",
+      "zabezpieczanie poczty internetowej przed niepożądanymi wiadomościami.",
+      "zabezpieczanie systemu operacyjnego przed włamaniami z sieci komputerowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 47,
+    "text": "Przeciążenie w sieci lokalnej LAN można wykryć za pomocą",
+    "answers": [
+      "miernika uniwersalnego.",
+      "diodowego testera okablowania.",
+      "reflektometru optycznego OTDR.",
+      "analizatora protokołów sieciowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 48,
+    "text": "Zastosowanie którego standardu sieci bezprzewodowej umożliwia uzyskanie przepustowości powyżej 54 Mbps?",
+    "answers": [
+      "IEEE 802.11b",
+      "IEEE 802.11g",
+      "IEEE 802.11n",
+      "IEEE 802.11a"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 49,
+    "text": "Prefix adresu lokalnego dla łącza (Link-LocalAddress) IPv6 to",
+    "answers": [
+      "fe80/10",
+      "ff00/8",
+      "fc00/7",
+      "fec0/10"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 50,
+    "text": "W sieci o adresie 192.168.0.64/26 drukarka sieciowa ma otrzymać ostatni z dostępnej puli adresów. Który to adres?",
+    "answers": [
+      "192.168.0.254",
+      "192.168.0.126",
+      "192.168.0.94",
+      "192.168.0.190"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 51,
+    "text": "Na zrzucie ekranowym zostało przedstawione menu konfiguracyjne",
+    "answers": [
+      "Karty sieciowej.",
+      "Punktu dostępu.",
+      "Rutera.",
+      "Przełącznika."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_zrzut4.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 52,
+    "text": "Rysunek przedstawia jedno z okien programu Netspot. Program ten został zastosowany w celu",
+    "answers": [
+      "sprawdzenia połączenia z wybranym hostem.",
+      "analizy poziomu sygnału określonej sieci WiFi.",
+      "przechwycenia pakietów transmitowanych w sieci.",
+      "identyfikacji łącza sieci."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_okno.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 53,
+    "text": "Aby przechwycić i przeglądać pakiety transmitowane w sieci, należy zastosować program",
+    "answers": [
+      "puTTy",
+      "FileZilla",
+      "WireShark",
+      "CuteFTP"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 54,
+    "text": "Na serwerze Windows udostępniono w sieci folder C:\\dane z prawami do zmiany i odczytu dla wszystkich użytkowników. Użytkownik na stacji roboczej może wyświetlać zawartość folderu, ale nie może zapisać w nim swoich plików. Co może być przyczyną takiej sytuacji?",
+    "answers": [
+      "Brak uprawnień do modyfikacji w zabezpieczeniach folderu na serwerze.",
+      "Brak uprawnień do zmiany w udostępnianiu folderu na serwerze.",
+      "Zablokowane konto użytkownika na stacji roboczej.",
+      "Zablokowane konto użytkownika na serwerze."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 55,
+    "text": "Poleceniem netstat w systemie Windows można sprawdzić",
+    "answers": [
+      "ustawienia interfejsów sieciowych komputera.",
+      "trasę połączenia z wybranym adresem IP.",
+      "aktywne połączenia sieciowe komputera.",
+      "zapisy w tablicy rutingu komputera."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 56,
+    "text": "Która para protokołów należy do warstwy transportowej modelu ISO/OSI?",
+    "answers": [
+      "TCP i UDP (Transmission Control Protocol i User DatagramProtocol).",
+      "IP i IPX (Internet Protocol i Internetwork Packet Exchange).",
+      "ARP i RARP (Address Resolution Protocol i Reverse Address Resolution Protocol).",
+      "ICMP i RIP (Internet Control Message Protocol I Routing Information Protocol)."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 57,
+    "text": "W biurze rachunkowym należy skonfigurować punkt dostępu oraz skonfigurować i podłączyć do sieci bezprzewodowej trzy komputery i drukarkę z WiFi. Cena usługi konfiguracji elementów sieci to 50 zł od komputera, 50 zł za drukarkę i 100 zł za punkt dostępu. Jaki będzie całkowity koszt prac serwisowych?",
+    "answers": [
+      "200 zł",
+      "300 zł",
+      "100 zł",
+      "250 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 58,
+    "text": "Na rysunku jest przedstawiona konfiguracja interfejsu sieciowego komputera. Komputer może się łączyć z innymi komputerami w sieci lokalnej, ale nie może się połączyć z ruterem i siecią rozległą. Jeżeli maska podsieci IPv4 jest prawidłowa, to błędny jest adres",
+    "answers": [
+      "IPv4 komputera.",
+      "serwera DNS.",
+      "serwera WINS.",
+      "bramy domyślnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_konfiguracja5.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 59,
+    "text": "Które urządzenie umożliwia wydzielenie grup komputerów podłączonych do niego i pracujących w sieci o tym samym adresie IPv4 w taki sposób aby komunikacja pomiędzy komputerami zachodziła tylko i wyłącznie w obrębie danej grupy?",
+    "answers": [
+      "Punkt dostępu.",
+      "Ruter z WiFi",
+      "Konwerter mediów.",
+      "Przełącznik zarządzalny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 60,
+    "text": "W celu umożliwienia użytkownikom sieci lokalnej przeglądania stron WWW protokołami HTTP i HTTPS, zapora sieciowa musi przepuszczać ruch na portach",
+    "answers": [
+      "80 i 434",
+      "90 i 443",
+      "90 i 434",
+      "80 i 443"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 61,
+    "text": "We wtyku 8P8C, zgodnie z normą TIA/EIA-568-A, sekwencja T568A, para przewodów biało-pomarańczowy/pomarańczowy jest podłączona do styków",
+    "answers": [
+      "3 i 5",
+      "3 i 6",
+      "1 i 2",
+      "4 i 6"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 62,
+    "text": "Którą funkcję rutera sprawdzano za pomocą przedstawionych na rysunku poleceń?",
+    "answers": [
+      "Zapory sieciowej.",
+      "Serwera DHCP.",
+      "Quality of Service.",
+      "Przekierowania portów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_zrzut5.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 63,
+    "text": "Który rysunek przedstawia topologię fizyczną magistrali?",
+    "answers": [
+      "Rysunek 4",
+      "Rysunek 2",
+      "Rysunek 1",
+      "Rysunek 3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_topologie3.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 64,
+    "text": "W sieci lokalnej serwer ma adres IP 192.168.1.103 a stacja robocza 192.168.1.108. Wynik polecenia ping wykonanego na serwerze i stacji roboczej jest pokazany na zrzucie ekranowym. Co może być przyczyną tego, że serwer nie odpowiada na to polecenie?",
+    "answers": [
+      "Zablokowane połączenie dla protokołu ICMP na serwerze.",
+      "Wyłączona zapora sieciowa na serwerze.",
+      "Zablokowane połączenie dla protokołu ICMP na stacji roboczej.",
+      "Wyłączona zapora sieciowa na stacji roboczej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_zrzut7.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 65,
+    "text": "Dlaczego adres 192.168.100.127 nie może być przydzielony jako adres komputera w sieci 192.168.100.0/25?",
+    "answers": [
+      "Nie należy do zakresu adresów tej sieci.",
+      "Jest adresem rozgłoszeniowym tej sieci.",
+      "Jest adresem pętli zwrotnej komputera.",
+      "Nie jest adresem prywatnym sieci."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 66,
+    "text": "Do ilu sieci należą komputery o adresach IPv4 przedstawionych w tabeli?",
+    "answers": [
+      "Czterech.",
+      "Trzech.",
+      "Jednej.",
+      "Dwóch."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_tabela9.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 67,
+    "text": "Którą maskę należy zastosować, aby komputery o adresach IPv4, przedstawionych w tabeli, były przydzielone do właściwych sieci?",
+    "answers": [
+      "255.255.255.224",
+      "255.255.255.240",
+      "255.255.255.192",
+      "255.255.255.128"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_tabela8.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 68,
+    "text": "Na schemacie ideowym będącym częścią projektu lokalnej sieci komputerowej, odcinki oznaczone jako A i B oznaczają",
+    "answers": [
+      "okablowanie pionowe.",
+      "okablowanie poziome.",
+      "A − okablowanie pionowe, B − okablowanie poziome.",
+      "A − okablowanie poziome, B − okablowanie pionowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_schemat5.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 69,
+    "text": "Określenie hypervisor oznacza",
+    "answers": [
+      "główny katalog plików w systemie Linux.",
+      "wbudowane konto administratora w systemie Linux.",
+      "program niezbędny do zarządzania procesami wirtualizacji.",
+      "wbudowane konto administratora w systemie wirtualnym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 70,
+    "text": "Serwerem DNS dla systemu Linux jest",
+    "answers": [
+      "bind.",
+      "samba.",
+      "vsftpd.",
+      "apache."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 71,
+    "text": "Stacja robocza należy do sieci lokalnej o adresie IP 172.16.0.0/18. Maska sieci zapisana w postaci dziesiętnej to",
+    "answers": [
+      "255.255.192.0",
+      "255.255.255.192",
+      "255.255.128.0",
+      "255.255.255.128"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 72,
+    "text": "Ile symboli przełącznika zawiera schemat sieci przedstawionej na rysunku?",
+    "answers": [
+      "Dwa symbole.",
+      "Jeden symbol.",
+      "Cztery symbole.",
+      "Trzy symbole."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_siec3.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 73,
+    "text": "Parametrem określającym stosunek liczby otrzymanych błędnych bitów do całkowitej liczby otrzymanych bitów jest",
+    "answers": [
+      "Propagation Delay Skew.",
+      "Near End Crosstalk.",
+      "Bit Error Rate.",
+      "Return Loss."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 74,
+    "text": "Zgodnie z normą EN-50173, klasa D skrętki komputerowej obejmuje aplikacje wykorzystujące pasmo częstotliwości",
+    "answers": [
+      "do 100 MHz",
+      "do 16 MHz",
+      "do 100 kHz",
+      "do 1 MHz"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 75,
+    "text": "Po zainstalowaniu na serwerze Windows roli usług domenowych Active Directory istnieje możliwość",
+    "answers": [
+      "centralnego zarządzania użytkownikami i komputerami.",
+      "automatycznego przydzielania adresów IP komputerom w sieci.",
+      "współużytkowania plików znajdujących się na serwerze.",
+      "udostępnienia użytkownikom witryny internetowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 76,
+    "text": "W budynku produkcyjnym, w którym pracują urządzenia elektryczne mogące wytwarzać zakłócenia elektromagnetyczne, jako medium transmisyjne w sieci komputerowej należy zastosować",
+    "answers": [
+      "kabel U-UTP kategorii 6 lub fale radiowe 2,4 GHz.",
+      "światłowód jednomodowy lub kabel U-UTP kategorii 5e.",
+      "światłowód jednomodowy lub fale radiowe 2,4 GHz.",
+      "kabel S-FTP kategorii 5e lub światłowód."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 77,
+    "text": "IMAP (Internet Message Access Protocol) jest protokołem",
+    "answers": [
+      "odbierania poczty email.",
+      "transmisji plików przez Internet.",
+      "wysyłania poczty email.",
+      "przesyłania wiadomości tekstowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 78,
+    "text": "Które polecenie systemu Windows zostało zastosowane do sprawdzenia połączenia z serwerem DNS?",
+    "answers": [
+      "tracert",
+      "ping",
+      "nslookup",
+      "route"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_zrzut6.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 79,
+    "text": "Do synchronizacji zegarów stacji roboczych w sieci z serwerem NCP, służy protokół",
+    "answers": [
+      "Internet Group Management Protocol",
+      "Simple Mail Transfer Protocol",
+      "Internet Control Message Protocol",
+      "Simple Network Time Protocol"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 80,
+    "text": "Które z urządzeń służy do testowania okablowania UTP?",
+    "answers": [
+      "4",
+      "3",
+      "1",
+      "2"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_urzadzenia.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 81,
+    "text": "Administrator zaobserwował nadmierny ruch w sieci lokalnej i podejrzewa włamanie. Które narzędzie pomoże zdiagnozować ten problem?",
+    "answers": [
+      "Polecenie tracert.",
+      "Program Wireshark.",
+      "Program McAfee.",
+      "Polecenie ipconfig."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 82,
+    "text": "Wykonanie którego polecenia wymusi aktualizację wszystkich zasad grupy w systemie Windows, niezależnie od tego, czy zostały one zmienione?",
+    "answers": [
+      "gpupdate /sync",
+      "gpupdate /wait",
+      "gpupdate /force",
+      "gpupdate /boot"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 83,
+    "text": "W systemie Windows narzędziem do obsługi skryptów wiersza poleceń, które umożliwia wyświetlanie lub modyfikowanie konfiguracji sieciowej aktualnie uruchomionego komputera, jest",
+    "answers": [
+      "ipconfig",
+      "netstat",
+      "nslookup",
+      "netsh"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 84,
+    "text": "Mechanizm integracji sieci komputerowych, polegający na transferze pakietów wersji protokołu IPv4 przez infrastrukturę wersji protokołu IPv6 i na odwrót, jest nazywany",
+    "answers": [
+      "mapowaniem.",
+      "translacją protokołów.",
+      "tunelowaniem.",
+      "podwójnego stosu IP"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 85,
+    "text": "Na którym rysunku przedstawiono topologię gwiazdy?",
+    "answers": [
+      "1",
+      "4",
+      "2",
+      "3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_topologie2.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 86,
+    "text": "Począwszy od Windows Serwer 2008, kupując konkretną edycję systemu, nabywca uzyskuje prawa do określonej liczby instalacji w środowisku fizycznym i środowisku wirtualnym. Która wersja systemu pozwala na nieograniczoną ilość instalacji wirtualnych serwera?",
+    "answers": [
+      "Windows Server Essential.",
+      "Windows Server Standard.",
+      "Windows Server Foundation.",
+      "Windows Server Datacenter."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 87,
+    "text": "Którego elementu dokumentacji lokalnej sieci komputerowej nie zawiera dokumentacja powykonawcza?",
+    "answers": [
+      "Kosztorysu wstępnego.",
+      "Opisu okablowania.",
+      "Norm i zaleceń technicznych.",
+      "Wyników pomiarów i testów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 88,
+    "text": "Aby tylko urządzenia z wybranym adresem fizycznym mogły się połączyć z siecią WiFi, należy skonfigurować w punkcie dostępowym",
+    "answers": [
+      "bezpieczniejsze szyfrowanie.",
+      "zaporę sieciową.",
+      "strefę zdemilitaryzowaną.",
+      "filtrowanie adresów MAC."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 89,
+    "text": "Scentralizowaną kontrolę uprawnień i możliwości użytkowników i komputerów w sieci z serwerem Windows umożliwiają",
+    "answers": [
+      "zasady grupy.",
+      "ustawienia przydziałów.",
+      "zasady zabezpieczeń.",
+      "listy dostępu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 90,
+    "text": "Administrator planuje adresację IP w firmie. Ma do dyspozycji pulę adresów 172.16.0.0/16, którą należy podzielić na 10 podsieci z taką samą ilością hostów. Którą maskę zastosuje?",
+    "answers": [
+      "255.255.240.0",
+      "255.255.192.0",
+      "255.255.224.0",
+      "255.255.128.0"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 91,
+    "text": "Wskaż protokół, którego komunikaty są wykorzystywane przez polecenie ping",
+    "answers": [
+      "ARP",
+      "DNS",
+      "ICMP",
+      "TCP"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 92,
+    "text": "Urządzeniem sieciowym, które udostępnia zasoby sieci lokalnej innym urządzeniom posiadającym bezprzewodowe karty sieciowe, jest",
+    "answers": [
+      "panel krosowy.",
+      "przełącznik.",
+      "punkt dostępu.",
+      "koncentrator."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 93,
+    "text": "Wskaż poprawny adres hosta.",
+    "answers": [
+      "192.169.192.0/18",
+      "192.168.192.0/18",
+      "128.129.0.0/9",
+      "128.128.0.0/9"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 94,
+    "text": "Użytkownik domeny podczas logowania widzi komunikat przedstawiony na rysunku, co oznacza, że użytkownik nie ma",
+    "answers": [
+      "uprawnień do logowania się w domenie.",
+      "utworzonego profilu mobilnego.",
+      "konta w domenie.",
+      "uprawnień do folderu z profilem mobilnym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_komunikat2.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 95,
+    "text": "Którego medium transmisyjnego należy użyć do podłączenia urządzeń sieciowych odległych od siebie o 110 m, w pomieszczeniach, gdzie występują zakłócenia EMI?",
+    "answers": [
+      "Skrętki ekranowanej STP",
+      "Światłowodu jednodomowego.",
+      "Fal radiowych.",
+      "Kabla współosiowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 96,
+    "text": "Wynik wykonania którego polecenia widoczny jest na fragmencie zrzutu z ekranu?",
+    "answers": [
+      "ipconfig",
+      "ipconfig /all",
+      "netstat -r",
+      "netstat -a"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_zrzut2.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 97,
+    "text": "Do adresów IPv6 nie należy adres typu",
+    "answers": [
+      "unicast.",
+      "anycast.",
+      "broadcast.",
+      "multicast."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 98,
+    "text": "Na ile równych podsieci można podzielić sieć o adresie 192.168.100.0/24 przy zastosowaniu maski 255.255.255.192?",
+    "answers": [
+      "2 podsieci.",
+      "8 podsieci.",
+      "4 podsieci.",
+      "16 podsieci."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 99,
+    "text": "W której warstwie modelu sieci TCP/IP pracuje protokół DHCP?",
+    "answers": [
+      "Internetu.",
+      "Transportowej.",
+      "Aplikacji.",
+      "Łącza danych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 100,
+    "text": "W sieci lokalnej są używane adresy prywatne. Aby uzyskać połączenie z serwerem dostępnym przez sieć Internet, należy",
+    "answers": [
+      "przypisać adres publiczny jako drugi adres karty sieciowej na każdym hoście.",
+      "dodać drugą kartę sieciową z adresem publicznym do każdego hosta.",
+      "skonfigurować sieci wirtualne w sieci lokalnej.",
+      "skonfigurować translację NAT na ruterze brzegowym lub serwerze."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 101,
+    "text": "Urządzenie przedstawione na zdjęciu to",
+    "answers": [
+      "przełącznik.",
+      "media konwerter.",
+      "most.",
+      "ruter z WiFi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_urzadzenie.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 102,
+    "text": "Który z adresów jest adresem prywatnym definiowanym przez dokument RFC 1918?",
+    "answers": [
+      "172.0.0.1",
+      "171.0.0.1",
+      "172.16.0.1",
+      "172.32.0.1"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 103,
+    "text": "Które polecenie należy zastosować w systemie Windows, aby poznać adresy wszystkich kolejnych ruterów przekazujących pakiety z komputera do urządzenia docelowego?",
+    "answers": [
+      "ping",
+      "ipconfig",
+      "arp",
+      "tracert"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 104,
+    "text": "Którą rolę należy zainstalować na serwerze w celu centralnego zarządzania stacjami roboczymi w sieci pod nadzorem Windows Serwer?",
+    "answers": [
+      "Dostęp zdalny",
+      "Serwer Aplikacji",
+      "Usługi domenowe Active Directory",
+      "Usługi zasad sieciowych i dostępu sieciowego"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 105,
+    "text": "Na rysunku przedstawiono fragment pola info programu Wireshark. Którego protokołu jest to komunikat?",
+    "answers": [
+      "DHCP",
+      "DNS",
+      "ICMP",
+      "ARP"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_pole.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 106,
+    "text": "Który standard szyfrowania najskuteczniej zabezpieczy sieć bezprzewodową?",
+    "answers": [
+      "WEP 128",
+      "WPA-PSK(TKIP)",
+      "WEP 64",
+      "WPA2-PSK(AES)"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 107,
+    "text": "Podczas planowania logicznego podziału sieci na podsieci należy uwzględnić",
+    "answers": [
+      "odległości pomiędzy poszczególnymi urządzeniami sieciowymi.",
+      "typ systemu operacyjnego stacji roboczych.",
+      "liczbę hostów w każdej podsieci.",
+      "liczbę portów w przełączniku zarządzalnym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 108,
+    "text": "Ramka z danymi jest wysyłana z komputera K1 do komputera K2. Które adresy źródłowe IP oraz MAC będą w ramce wysyłanej z rutera R1 do R2?",
+    "answers": [
+      "IP – 10.0.0.1; MAC – 1AAAAA",
+      "IP – 192.168.1.10; MAC – CCCCCC",
+      "IP – 10.0.0.1; MAC – CCCCCC",
+      "IP – 192.168.1.10; MAC – 1AAAAA"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_tabela5.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 109,
+    "text": "Wskaż, który z adresów jest adresem rozgłoszeniowym sieci.",
+    "answers": [
+      "10.0.255.127/22",
+      "10.0.255.127/23",
+      "10.0.255.127/24",
+      "10.255.255.127/25"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 110,
+    "text": "W przestawionej na rysunku ramce Ethernet adresem nadawcy i adresem odbiorcy jest",
+    "answers": [
+      "8 bajtowy adres fizyczny.",
+      "32 bitowy adres IPv4.",
+      "48 bitowy adres fizyczny.",
+      "6 bajtowy adres IPv4."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_ramka.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 111,
+    "text": "Który z adresów IPv4 jest adresem bezklasowym?",
+    "answers": [
+      "162.16.0.1/16",
+      "202.168.0.1/25",
+      "11.0.0.1/8",
+      "192.168.0.1/24"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 112,
+    "text": "Jaki jest adres sieci w której pracuje host o adresie 192.168.176.125/26?",
+    "answers": [
+      "192.168.176.192",
+      "192.168.176.0",
+      "192.168.176.64",
+      "192.168.176.128"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 113,
+    "text": "Co oznacza zapis /26 w adresie IPv4 192.168.0.0/26?",
+    "answers": [
+      "Ilość bitów o wartości 0 w adresie.",
+      "Ilość bitów o wartości 0 w masce.",
+      "Ilość bitów o wartości 1 w masce.",
+      "Ilość bitów o wartości 1 w adresie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 114,
+    "text": "Który z zapisów wskazuje folder o nazwie dane udostępniony na dysku sieciowym urządzenia o nazwie serwer1?",
+    "answers": [
+      "C:\\serwer1\\dane",
+      "C:\\dane",
+      "\\\\dane",
+      "\\\\serwer1\\dane"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 115,
+    "text": "Aby otrzymać odpowiedź jak na zrzucie ekranu, należy wydać polecenie",
+    "answers": [
+      "netstat -f",
+      "ipconfig /displaydns",
+      "tracert microsoft.com",
+      "nslookup microsoft.com"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_zrzut3.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 116,
+    "text": "Ruter otrzymał pakiet przeznaczony dla komputera ze zdalnej sieci. Docelowy adres IP nie znajduje się w sieci bezpośrednio podłączonej do rutera i nie ma do niego odniesienia w tablicy routingu. Brama tzw. ostatniej szansy nie istnieje. Co zrobi ruter?",
+    "answers": [
+      "Odeśle pakiet do źródła.",
+      "Odrzuci pakiet.",
+      "Prześle na interfejs wyjściowy do następnego skoku.",
+      "Prześle do hosta w lokalnej sieci."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 117,
+    "text": "Program systemu Linux, którego zadaniem jest filtrowanie ruchu przychodzącego i wychodzącego z danego urządzenia sieciowego, to",
+    "answers": [
+      "iptables",
+      "ifconfig",
+      "chkconfig",
+      "mtr"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 118,
+    "text": "Wiadomości e-mail mogą być dostarczane w domenie do właściwych serwerów poczty dzięki konfiguracji rekordów DNS typu",
+    "answers": [
+      "PTR",
+      "MX",
+      "SOA",
+      "CNAME"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 119,
+    "text": "Na podstawie przedstawionej na rysunku konfiguracji karty sieciowej hosta można stwierdzić, że",
+    "answers": [
+      "adres IPv4 jest przydzielony przez administratora sieci z puli adresów prywatnych.",
+      "host nie ma dostępu do serwera DHCP.",
+      "konfiguracja parametrów sieciowych karty została pobrana z serwera DHCP.",
+      "karta sieciowa jest wyłączona."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_konfiguracja4.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 120,
+    "text": "Na którym rysunku przedstawiono topologię gwiazdy rozszerzonej?",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_topologie2.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 121,
+    "text": "Oprogramowanie do wirtualizacji dostępne jako rola w systemie Windows Serwer 2019 to",
+    "answers": [
+      "VMware",
+      "Hyper-V",
+      "Virtual Box",
+      "Virtual PC"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 122,
+    "text": "Rysunek przedstawia topologię",
+    "answers": [
+      "podwójnego pierścienia.",
+      "magistrali.",
+      "gwiazdy.",
+      "rozszerzonej gwiazdy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_topologia11.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 123,
+    "text": "Które polecenie systemu z rodziny Windows pozwala sprawdzić, przechowywane w pamięci podręcznej komputera, zapamiętane tłumaczenia nazw DNS na adresy IP?",
+    "answers": [
+      "ipconfig /flushdns",
+      "ipconfig /renew",
+      "ipconfig /release",
+      "ipconfig /displaydns"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 124,
+    "text": "Zgodnie z normą PN-EN 50174 rozplot kabla UTP nie powinien być większy niż",
+    "answers": [
+      "30 mm",
+      "20 mm",
+      "10 mm",
+      "13 mm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 125,
+    "text": "Na przedstawionym rysunku urządzeniem, poprzez które połączone są komputery, jest",
+    "answers": [
+      "ruter.",
+      "most.",
+      "regenerator.",
+      "przełącznik."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_schemat8.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 126,
+    "text": "Urządzeniem, które umożliwia komputerom bezprzewodowy dostęp do przewodowej sieci komputerowej, jest",
+    "answers": [
+      "koncentrator.",
+      "regenerator.",
+      "modem.",
+      "punkt dostępu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 127,
+    "text": "Host automatycznie pobiera adres IP z serwera DHCP. W przypadku gdy serwer DHCP ulegnie uszkodzeniu, karcie sieciowej zostanie przypisany adres IP z zakresu",
+    "answers": [
+      "224.0.0.1 ÷ 224.255.255.254",
+      "192.168.0.1 ÷ 192.168.255.254",
+      "127.0.0.1 ÷ 127.255.255.255.254",
+      "169.254.0.1 ÷ 169.254.255.254"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 128,
+    "text": "Strzałka na rysunku przedstawiającym schemat systemu sieciowego według normy PN-EN 50173 wskazuje okablowanie",
+    "answers": [
+      "szkieletowe zewnętrzne.",
+      "poziome.",
+      "pionowe.",
+      "kampusowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_schemat7.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 129,
+    "text": "Ile maksymalnie adresów można przydzielić hostom w sieci 10.0.0.0/22?",
+    "answers": [
+      "512 adresów.",
+      "1 022 adresy.",
+      "510 adresów.",
+      "1 024 adresy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 130,
+    "text": "Usługa serwerowa, która umożliwia udostępnianie linuksowych usług drukowania oraz serwera plików stacjom roboczym Windows, to",
+    "answers": [
+      "Vsftpd",
+      "Postfix",
+      "CUPS",
+      "Samba"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 131,
+    "text": "Zestawienie połączenia między dwoma odległymi hostami, za pośrednictwem publicznej sieci, np. Internet, w taki sposób, że węzły tej sieci są przezroczyste dla przesyłanych w ten sposób pakietów, to",
+    "answers": [
+      "VM (Virtual Machine).",
+      "VPN (Virtual Private Network).",
+      "VLAN (Virtual Lan Area Network).",
+      "VoIP (Voice over Internet Protocol)."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 132,
+    "text": "Aby uruchomić konsolę przedstawioną na rysunku, należy wpisać w wierszu poleceń",
+    "answers": [
+      "gpupdate",
+      "mmc",
+      "eventvwr",
+      "gpedit"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_okno.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 133,
+    "text": "Zgodnie z normą TIA/EIA-568-B.1 kabel UTP 5e z przeplotem jest tworzony poprzez zamianę ułożenia we wtyczce 8P8C następujących par przewodów (odpowiednio według kolorów):",
+    "answers": [
+      "biało-zielony i zielony z biało-niebieskim i niebieskim.",
+      "biało-zielony i zielony z biało-brązowym i brązowym.",
+      "biało-pomarańczowy i pomarańczowy z biało-zielonym i zielonym.",
+      "biało-pomarańczowy i pomarańczowy z biało-brązowym i brązowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 134,
+    "text": "Typ transmisji danych do jednego bądź kilku komputerów w jednej chwili, w której odbiorcy są widziani dla nadawcy jako pojedynczy grupowy odbiorca, to",
+    "answers": [
+      "unicast.",
+      "broadcast.",
+      "anycast.",
+      "multicast."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 135,
+    "text": "Które urządzenie należy podłączyć do sieci lokalnej w miejscu wskazanym na rysunku, aby komputery miały dostęp do Internetu?",
+    "answers": [
+      "Most.",
+      "Ruter.",
+      "Koncentrator.",
+      "Przełącznik."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_siec3.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 136,
+    "text": "W modelu ISO/OSI protokoły TCP i UDP pracują w warstwie",
+    "answers": [
+      "sieci.",
+      "aplikacji.",
+      "łącza danych.",
+      "transportowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 137,
+    "text": "Pełna postać adresu IPv6 2001:0:db8::1410:80ab to",
+    "answers": [
+      "2001:0001:0db8:0000:0000:0000:1410:80ab",
+      "2001:1000:0db8:0000:0000:0000:1410:80ab",
+      "2001:0000:0db8:0000:0000:0000:1410:80ab",
+      "2001:0000:db80:0000:0000:0000:1410:80ab"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 138,
+    "text": "Organizacją publikującą dokumenty RFC (Request For Comments) regulujące rozwój Internetu jest",
+    "answers": [
+      "IETF (Internet Engineering Task Force).",
+      "ANSI (American National Standards Institute).",
+      "ISO (International Organization for Standarization).",
+      "IEEE (The Institute of Electrical and Electronics Engineers)."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 139,
+    "text": "Narzędzie systemów z rodziny Windows stosowane do modyfikowania parametrów pracy interfejsów sieciowych, np. zmiana dynamicznej konfiguracji karty sieciowej na statyczną, to",
+    "answers": [
+      "ipconfig",
+      "nslookup",
+      "netsh",
+      "netstat"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 140,
+    "text": "Na podstawie zrzutu ekranu wskaż, który adres należy zmienić w konfiguracji klienta lub serwera, aby komputer można było podłączyć do domeny?",
+    "answers": [
+      "Adres IPv4 w konfiguracji klienta na 10.0.0.1",
+      "Adres DNS w konfiguracji klienta na 10.0.0.1",
+      "Adres IPv4 w konfiguracji serwera na 10.0.0.10",
+      "Adres DNS w konfiguracji serwera na 10.0.0.1"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_zrzut6.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 141,
+    "text": "Aby zabezpieczyć komunikację terminalową z serwerem, należy użyć połączenia z wykorzystaniem protokołu",
+    "answers": [
+      "SFTP",
+      "SSH",
+      "Telnet",
+      "TFTP"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 142,
+    "text": "Który protokół służy do przesyłania plików na serwer?",
+    "answers": [
+      "FTP (File Transfer Protocol).",
+      "DNS (Domain Name System).",
+      "HTTP (Hyper Text Transfer Protocol).",
+      "DHCP (Dynamic Host Configuration Protocol)."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 143,
+    "text": "Cytat opisuje atak typu Dyn, firma, której serwery DNS zaatakowano, przyznała, że część ataku …. nastąpiła za pomocą różnych urządzeń połączonych z siecią. Ekosystem kamer, czujników, kontrolerów nazywany ogólnie “Internetem rzeczy” został użyty przez przestępców jako botnet − sieć maszyn-zombie. Do tej pory taką rolę pełniły głównie komputery.",
+    "answers": [
+      "DDOS",
+      "DOS",
+      "mail bombing",
+      "flooding"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 144,
+    "text": "Aby serwer Windows mógł zarządzać usługami katalogowymi, należy zainstalować",
+    "answers": [
+      "usługi zarządzania prawami.",
+      "kontroler domeny.",
+      "rolę serwera DHCP.",
+      "rolę serwera Web."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 145,
+    "text": "Które z poleceń systemu Windows należy zastosować, aby otrzymać wynik jak na przedstawionym rysunku?",
+    "answers": [
+      "ping",
+      "tracert",
+      "ipconfig",
+      "netstat"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_zrzut5.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 146,
+    "text": "Do której klasy adresów IPv4 należą adresy zawierające najbardziej znaczące dwa bity o wartości 10?",
+    "answers": [
+      "Klasy D.",
+      "Klasy A.",
+      "Klasy C.",
+      "Klasy B."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 147,
+    "text": "Komputery K1 i K2 nie mogą się komunikować. Adresacja urządzeń jest podana w tabeli. Co należy zmienić, aby przywrócić komunikację w sieci?",
+    "answers": [
+      "Maskę w adresie dla K1.",
+      "Adres bramy dla K2.",
+      "Maskę w adresie dla K2.",
+      "Adres bramy dla K1."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_tabela16.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 148,
+    "text": "Protokół, dzięki któremu po połączeniu z serwerem pocztowym transmitowane są na komputer jedynie same nagłówki wiadomości, a transmisja treści oraz załączników następuje dopiero po otwarciu danego listu, to",
+    "answers": [
+      "POP3",
+      "IMAP",
+      "SMTP",
+      "MIME"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 149,
+    "text": "W trakcie obserwacji pakietów za pomocą sniffera zauważono, że urządzenia komunikują się na portach 20 oraz 21. Oznacza to, zakładając domyślną konfigurację, że obserwowanym protokołem jest protokół",
+    "answers": [
+      "SMTP",
+      "FTP",
+      "SSH",
+      "DHCP"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 150,
+    "text": "Które urządzenie jest stosowane do mocowania kabla w module Keystone?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_urzadzenia.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 151,
+    "text": "Na rysunku jest przedstawiony komunikat pojawiający się po wpisaniu adresu IP podczas konfiguracji połączenia sieciowego na komputerze. Adres IP wprowadzony przez administratora jest adresem IP",
+    "answers": [
+      "komputera.",
+      "rozgłoszeniowym.",
+      "sieci.",
+      "pętli zwrotnej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_okna.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 152,
+    "text": "W adresacji IPv6 typowy podział długości związanej z adresem sieci i identyfikatorem hosta wynosi odpowiednio",
+    "answers": [
+      "64 bity / 64 bity.",
+      "32 bity / 96 bitów.",
+      "16 bitów / 112 bitów.",
+      "96 bitów / 32 bity."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 153,
+    "text": "Który standard specyfikacji IEEE 802.3 należy zastosować w środowisku, w którym występują zakłócenia elektromagnetyczne, jeśli odległość od punktu dystrybucyjnego do punktu abonenckiego wynosi 200 m?",
+    "answers": [
+      "100BaseFX",
+      "100BaseT",
+      "10Base2",
+      "1000BaseTX"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 154,
+    "text": "Profil użytkownika systemu Windows Serwer, który po wylogowaniu nie zapisuje zmian na serwerze i stacji roboczej oraz jest usuwany pod koniec każdej sesji, to profil",
+    "answers": [
+      "mobilny.",
+      "obowiązkowy.",
+      "lokalny.",
+      "tymczasowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 155,
+    "text": "Otwarty (Open Source) serwer WWW, dostępny dla wielu systemów operacyjnych, to",
+    "answers": [
+      "Apache",
+      "WINS",
+      "IIS",
+      "Lynx"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 156,
+    "text": "Która z par: protokół – warstwa, w której pracuje protokół, jest poprawnie połączona według modelu TCP/IP?",
+    "answers": [
+      "RARP – warstwa transportowa.",
+      "DNS – warstwa aplikacji.",
+      "DHCP – warstwa dostępu do sieci.",
+      "TCP – warstwa Internetu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 157,
+    "text": "Znak towarowy dla certyfikowanych produktów opartych na standardach IEEE 802.11 to",
+    "answers": [
+      "GSM",
+      "LTE",
+      "Wi-Fi",
+      "DSL"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 158,
+    "text": "W trakcie tworzenia projektu sieci komputerowej należy w pierwszej kolejności",
+    "answers": [
+      "sporządzić dokumentację powykonawczą.",
+      "przeprowadzić analizę biznesową.",
+      "dobrać urządzenia sieciowe.",
+      "sporządzić kosztorys."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 159,
+    "text": "Komputery K1, K2, K3, K4 są podłączone do interfejsów przełącznika przypisanych do VLAN-ów podanych w tabeli. Które komputery mogą się ze sobą komunikować?",
+    "answers": [
+      "K1 z K3",
+      "K2 z K4",
+      "K1 z K4",
+      "K1 z K2"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_tabela15.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 160,
+    "text": "Który z adresów jest adresem hosta należącego do sieci 10.128.0.0/10?",
+    "answers": [
+      "10.192.255.255",
+      "10.127.255.255",
+      "10.191.255.255",
+      "10.160.255.255"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 161,
+    "text": "Oprogramowanie do wirtualizacji dostępne jako rola w systemie Windows Serwer 2012 to",
+    "answers": [
+      "Hyper-V",
+      "VMware",
+      "Virtual PC",
+      "Virtual Box"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 162,
+    "text": "Urządzenia przedstawione na zdjęciu to",
+    "answers": [
+      "bezprzewodowe karty sieciowe.",
+      "modemy.",
+      "przełączniki.",
+      "adaptery PowerLine."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_adaptery.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 163,
+    "text": "Które z komputerów o adresach IPv4 przedstawionych w tabeli należą do tej samej sieci?",
+    "answers": [
+      "1 i 2",
+      "2 i 3",
+      "3 i 4",
+      "2 i 4"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_tabela18.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 164,
+    "text": "Które urządzenie sieciowe jest widoczne na zdjęciu?",
+    "answers": [
+      "Modem.",
+      "Most.",
+      "Karta sieciowa.",
+      "Przełącznik."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_urzadzenie16.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 165,
+    "text": "Topologia fizyczna, w której wszystkie urządzenia sieciowe są podłączone do jednego urządzenia umieszczonego centralnie względem nich, to topologia",
+    "answers": [
+      "drzewa.",
+      "siatki.",
+      "pierścienia.",
+      "gwiazdy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 166,
+    "text": "Na podstawie tabeli ustal, ile kabli ekranowanych typu skrętka należy poprowadzić w listwie PCV typu LN 25×16.",
+    "answers": [
+      "3 kable.",
+      "5 kabli.",
+      "2 kable.",
+      "4 kable."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_tabela17.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 167,
+    "text": "Który adres wskazuje na to, że komputer pracuje w sieci o adresie IP 192.168.10.64/26?",
+    "answers": [
+      "192.168.10.50",
+      "192.168.10.1",
+      "192.168.10.200",
+      "192.168.10.100"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 168,
+    "text": "Adres rozgłoszeniowy dla sieci 172.30.0.0/16 to",
+    "answers": [
+      "172.30.0.255",
+      "172.255.255.255",
+      "172.0.255.255",
+      "172.30.255.255"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 169,
+    "text": "Która warstwa modelu ISO/OSI definiuje protokół IP (Internet Protocol)?",
+    "answers": [
+      "Warstwa fizyczna.",
+      "Warstwa łącza danych.",
+      "Warstwa transportowa.",
+      "Warstwa sieci."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 170,
+    "text": "Na zrzucie ekranowym jest przedstawiona konfiguracja zasad haseł w zasadach grup systemu Windows. Która z opcji zostanie wdrożona w tej konfiguracji?",
+    "answers": [
+      "Użytkownik nigdy nie musi zmieniać hasła.",
+      "Hasło może zawierać w sobie nazwę konta użytkownika.",
+      "Użytkownik może zmienić hasło na nowe po 8 dniach.",
+      "Hasła użytkownika muszą być zmieniane co 10 dni."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_zrzut8.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 171,
+    "text": "Z którego numeru portu korzysta usługa FTP do przesyłania poleceń?",
+    "answers": [
+      "21",
+      "20",
+      "69",
+      "80"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 172,
+    "text": "Które urządzenie sieciowe umożliwi zamianę sygnału przesyłanego analogową linią telefoniczną na sygnał cyfrowy komputerowej sieci lokalnej?",
+    "answers": [
+      "Konwerter mediów.",
+      "Przełącznik.",
+      "Punkt dostępu.",
+      "Modem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 173,
+    "text": "Medium transmisyjnym, w którym na przesyłany sygnał nie oddziałują zakłócenia elektromagnetyczne, to",
+    "answers": [
+      "światłowód.",
+      "kabel koncentryczny.",
+      "fale radiowe.",
+      "kabel typu skrętka."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 174,
+    "text": "Do konfigurowania interfejsu sieciowego w systemie Linux jest stosowana komenda",
+    "answers": [
+      "ifconfig",
+      "netsh",
+      "netstate",
+      "ipconfig"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 175,
+    "text": "Ile bitów o wartości 1 zawiera standardowa maska adresu IPv4 klasy B?",
+    "answers": [
+      "8 bitów.",
+      "32 bity.",
+      "24 bity.",
+      "16 bitów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 176,
+    "text": "Narzędzie przedstawione na zdjęciu to",
+    "answers": [
+      "nóż monterski.",
+      "zaciskarka.",
+      "ściągacz izolacji.",
+      "narzędzie uderzeniowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_narzedzie2.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 177,
+    "text": "Punkty abonenckie rozmieszczone są równomiernie, do połączenia z najbliższym punktem potrzeba 4 m kabla, a z najdalszym – 22 m. Koszt zakupu 1 m kabla to 1 zł. Ile wyniesie minimalny koszt zakupu kabla UTP do połączenia 10 podwójnych gniazd abonenckich z punktem dystrybucyjnym?",
+    "answers": [
+      "260 zł",
+      "130 zł",
+      "80 zł",
+      "440 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 178,
+    "text": "Ile maksymalnie adresów sieci jest dostępnych w adresacji IP klasy A?",
+    "answers": [
+      "64 adresy.",
+      "254 adresy.",
+      "128 adresów.",
+      "32 adresy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 179,
+    "text": "Protokół, zapewniający wyświetlanie stron www w przeglądarce internetowej za pomocą połączenia szyfrowanego, to",
+    "answers": [
+      "SSH File Transfer Protocol.",
+      "FTP Secure.",
+      "Hypertext Transfer Protocol.",
+      "Hypertext Transfer Protocol Secure."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 180,
+    "text": "Który rysunek przedstawia ułożenie żył przewodu UTP we wtyku 8P8C zgodnie z normą TIA/EIA-568-A, sekwencją T568A?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_wtyki.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 181,
+    "text": "Wspomagający protokół kontrolny stosu TCP/IP, którego funkcją jest wykrywanie oraz dostarczanie informacji o awarii podczas pracy protokołu IP, to",
+    "answers": [
+      "Internet Control Message Protocol (ICMP).",
+      "Routing Information Protocol (RIP).",
+      "Reverse Address Resolution Protocol (RARP).",
+      "Address Resolution Protocol (ARP)."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 182,
+    "text": "Który z adresów jest adresem prywatnym IP?",
+    "answers": [
+      "172.30.10.10",
+      "198.192.15.10",
+      "80.80.10.10",
+      "220.192.164.10"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 183,
+    "text": "Protokół wykorzystywany przez komputery do powiadamiania ruterów w swojej sieci o chęci przyłączenia się do z określonej grupy multicastowej lub odejścia z niej, to",
+    "answers": [
+      "Internet Message Access Protocol (IMAP).",
+      "Transmission Control Protocol (TCP).",
+      "Internet Group Management Protocol (IGMP).",
+      "Interior Gateway Protocol (IGP)."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 184,
+    "text": "Protokół służący do prowadzenia rozmów za pomocą konsoli tekstowej to",
+    "answers": [
+      "Internet Message Access Protocol (IMAP).",
+      "Internet Relay Chat (IRC).",
+      "Voice over IP (VoIP).",
+      "Simple Mail Transfer Protocol (SMTP)."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 185,
+    "text": "By podłączyć drukarkę bez karty sieciowej do przewodowej sieci komputerowej należy zainstalować serwer wydruku z interfejsami",
+    "answers": [
+      "USB i RJ45",
+      "Centronics i USB",
+      "USB i RS232",
+      "Centronics i RJ11"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 186,
+    "text": "Na rysunku jest przedstawiony symbol graficzny",
+    "answers": [
+      "rutera.",
+      "mostu.",
+      "przełącznika.",
+      "koncentratora."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_symbol7.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 187,
+    "text": "Zrzut ekranowy przedstawia wynik wykonania w systemie z rodziny Windows Server polecenia",
+    "answers": [
+      "ping",
+      "nslookup",
+      "tracert",
+      "whois"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_zrzut7.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 188,
+    "text": "Który kabel umożliwia transmisję danych z maksymalną prędkością transmisji wynoszącą 1 Gb/s?",
+    "answers": [
+      "Kabel światłowodowy.",
+      "Skrętka kat. 5e.",
+      "Skrętka kat. 4.",
+      "Kabel współosiowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 189,
+    "text": "Ile punktów rozdzielczych, według normy PN-EN 50174, powinno znajdować się w 3-kondygnacyjnym budynku, jeżeli powierzchnia każdej kondygnacji wynosi około 800 m2?",
+    "answers": [
+      "3",
+      "4",
+      "1",
+      "2"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 190,
+    "text": "Komputer, który uzyskuje adres IP, adres bramy i adresy serwerów DNS automatycznie, łączy się ze wszystkimi komputerami w sieci lokalnej przez adres IP. Komputer ten nie może się połączyć z żadnym hostem w sieci rozległej, ani przez adres URL, ani przez adres IP, co wskazuje na brak w sieci lub awarię",
+    "answers": [
+      "przełącznika.",
+      "serwera DHCP.",
+      "serwera DNS.",
+      "rutera."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 191,
+    "text": "Parametr NEXT oznacza zakłócenie spowodowane wpływem pola elektromagnetycznego",
+    "answers": [
+      "jednej pary kabla na pozostałe pary kabla.",
+      "pozostałych trzech par kabla na badaną parę.",
+      "jednej pary kabla na drugą parę kabla.",
+      "wszystkich par kabla wzajemnie na siebie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 192,
+    "text": "Czteroparowy kabel skręcany, w którym każda para przewodów posiada ekran foliowy i dodatkowo wszystkie pary są ekranowane siatką, to kabel",
+    "answers": [
+      "U/UTP",
+      "SF/UTP",
+      "S/FTP",
+      "F/UTP"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 193,
+    "text": "W ciągu godziny instalator może zamontować 5 gniazd. Jaki jest koszt materiałów oraz zamontowania 20 natynkowych gniazd sieciowych, jeżeli cena 1 gniazda to 5,00 zł a koszt roboczogodziny pracy instalatora to 30,00 zł?",
+    "answers": [
+      "130,00 zł",
+      "350,00 zł",
+      "220,00 zł",
+      "700,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 194,
+    "text": "Simple Mail Transfer Protocol to protokół",
+    "answers": [
+      "synchronizowania czasu pomiędzy komputerami.",
+      "przekazywania poczty elektronicznej w Internecie.",
+      "zarządzania grupami multicastowymi w sieciach opartych na protokole IP.",
+      "obsługi odległego terminala w architekturze klient-serwer."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 195,
+    "text": "Komputer ma pracować w sieci lokalnej o adresie 172.16.0.0/16 i łączyć się z Internetem. Który element konfiguracji karty sieciowej został wpisany nieprawidłowo?",
+    "answers": [
+      "Adresy serwerów DNS.",
+      "Maska podsieci.",
+      "Adres IP.",
+      "Brama domyślna."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_okno2.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 196,
+    "text": "Który moduł zabezpieczeń występuje w pakietach Internet Security (IS), a nie ma go w programach antywirusowych (AV)?",
+    "answers": [
+      "Skaner antywirusowy.",
+      "Monitor antywirusowy.",
+      "Aktualizacja baz wirusów.",
+      "Zapora sieciowa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 197,
+    "text": "W zasadach grup włączono i skonfigurowano opcję „Ustaw ścieżkę profilu mobilnego dla wszystkich użytkowników logujących się do tego komputera”: \\\\serwer\\profile\\%username% W którym folderze serwera będzie się znajdował profil mobilny użytkownika jkowal?",
+    "answers": [
+      "\\profile\\username",
+      "\\profile\\jkowal",
+      "\\profile\\username\\jkowal",
+      "\\profile\\serwer\\username"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 198,
+    "text": "Która rola serwera Windows Server umożliwia scentralizowaną obsługę i konfigurację tymczasowych adresów IP i pokrewnych informacji dla komputerów klienckich?",
+    "answers": [
+      "Usługi pulpitu zdalnego.",
+      "Serwer telnet.",
+      "Usługi udostępniania plików.",
+      "Serwer DHCP."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 199,
+    "text": "Ile maksymalnie komputerów można zaadresować adresami sieci IP z klasy C?",
+    "answers": [
+      "252 komputery.",
+      "256 komputerów.",
+      "255 komputerów.",
+      "254 komputery."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 200,
+    "text": "Który element serwera typu rack można wymieniać bez konieczności zdejmowania górnej obudowy?",
+    "answers": [
+      "Kartę sieciową.",
+      "Pamięć RAM.",
+      "Procesor.",
+      "Dysk twardy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 201,
+    "text": "W systemach z rodziny Windows Server usługa serwera FTP jest definiowana w",
+    "answers": [
+      "serwerze aplikacji.",
+      "usłudze zasad i dostępu sieciowego.",
+      "serwerze sieci Web.",
+      "usłudze plików."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 202,
+    "text": "Która wartość przepływności charakteryzuje standard 1000Base-T?",
+    "answers": [
+      "1 GB/s",
+      "1 MB/s",
+      "1 Gbit/s",
+      "1 Mbit/s"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 203,
+    "text": "Na schemacie znajdują się symbole",
+    "answers": [
+      "3 przełączników i 4 ruterów.",
+      "4 przełączników i 8 ruterów.",
+      "8 przełączników i 3 ruterów.",
+      "4 przełączników i 3 ruterów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_schemat6.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 204,
+    "text": "Metoda dostępu do medium CSMA/CA jest stosowana w sieci o standardzie",
+    "answers": [
+      "IEEE 802.3",
+      "IEEE 802.8",
+      "IEEE 802.1",
+      "IEEE 802.11"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 205,
+    "text": "Na rysunku przedstawiono konfigurację karty sieciowej, której adres MAC ma wartość",
+    "answers": [
+      "0A-00-27-00-00-07",
+      "FE80::E890:BE2B:4C6C:5AA9",
+      "FEC0:0:0:FFFF::2",
+      "192.168.56.1"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_konfiguracja10.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 206,
+    "text": "Protokół, który tłumaczy nazwy domenowe na adresy IP, to",
+    "answers": [
+      "DNS (Domain Name System)",
+      "ICMP (Internet Control Message Protocol)",
+      "ARP (Address Resolution Protocol)",
+      "DHCP (Dynamic Host Configuration Protocol)"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 207,
+    "text": "Który zakres adresów IPv4 można wykorzystać jako adresy prywatne w sieci lokalnej?",
+    "answers": [
+      "127.0.0.0 ÷ 127.255.255.255",
+      "172.16. 0.0 ÷ 172.31.255.255",
+      "168.172.0.0 ÷ 168.172.255.255",
+      "200.186.0.0 ÷ 200.186.255.255"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 208,
+    "text": "Aby w adresie IPv4 wyznaczyć długość prefiksu adresu sieci, należy sprawdzić",
+    "answers": [
+      "liczbę bitów mających wartość 1 w części hosta adresu IPv4.",
+      "liczbę początkowych bitów mających wartość 1 w masce adresu IPv4.",
+      "liczbę bitów mających wartość 0 w dwóch pierwszych oktetach adresu IPv4.",
+      "liczbę bitów mających wartość 0 w trzech pierwszych oktetach adresu IPv4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 209,
+    "text": "Aby wdrożyć usługę zdalnej instalacji systemów operacyjnych na stacjach roboczych należy w Windows Server zainstalować rolę",
+    "answers": [
+      "Application Server",
+      "IIS (Internet Information Services)",
+      "WDS (Usługi wdrażania systemu Windows)",
+      "Hyper-V"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 210,
+    "text": "Jak nazywany jest proces dokładania do danych z warstwy aplikacji informacji związanych z protokołami działającymi na poszczególnych warstwach modelu sieciowego?",
+    "answers": [
+      "Enkapsulacja.",
+      "Segmentacja.",
+      "Dekodowanie.",
+      "Multipleksacja."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 211,
+    "text": "Który protokół jest stosowany do terminalowego łączenia się ze zdalnymi urządzeniami zapewniający transfer zaszyfrowanych danych?",
+    "answers": [
+      "Telnet",
+      "SSL (Secure Socket Layer)",
+      "SSH (Secure Shell)",
+      "Remote"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 212,
+    "text": "Algorytm, który jest stosowany w celu sprawdzenia czy ramka Ethernet nie zawiera błędów, to",
+    "answers": [
+      "CSMA (Carrier Sense Multiple Access)",
+      "MAC (Media Access Control)",
+      "LLC  (Logical Link Control)",
+      "CRC (Cyclic Redundancy Check)"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 213,
+    "text": "Który ze znaków w systemach z rodziny Windows należy zastosować podczas udostępniania zasobu ukrytego w sieci?",
+    "answers": [
+      "$",
+      "?",
+      "#",
+      "@"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 214,
+    "text": "Który protokół jest wykorzystywany do przesyłania plików bez nawiązania połączenia?",
+    "answers": [
+      "HTTP (Hyper Text Transfer Protocol)",
+      "TFTP (Trivial File Transfer Protocol)",
+      "FTP (File Transfer Protocol)",
+      "DNS (Domain Name System)"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 215,
+    "text": "Komputer utracił połączenie z siecią komputerową. Jakie działanie należy wykonać w pierwszej kolejności, aby rozwiązać problem?",
+    "answers": [
+      "Zaktualizować sterownik karty sieciowej.",
+      "Sprawdzić adres IP przypisany do karty sieciowej.",
+      "Przelogować się na innego użytkownika.",
+      "Zaktualizować system operacyjny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 216,
+    "text": "Zjawisko przeniku, występujące w sieciach komputerowych polega na",
+    "answers": [
+      "przenikaniu sygnału pomiędzy sąsiadującymi w kablu parami przewodów.",
+      "stratach sygnału w torze transmisyjnym.",
+      "niejednorodności toru, spowodowanej zmianą geometrii par przewodów.",
+      "opóźnieniach propagacji sygnału w torze transmisyjnym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 217,
+    "text": "Administrator musi podzielić adres 10.0.0.0/16 na 4 równe podsieci o tej samej liczbie hostów. Jaką maskę będą miały te podsieci?",
+    "answers": [
+      "255.255.192.0",
+      "255.255.128.0",
+      "255.255.224.0",
+      "255.255.0.0"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 218,
+    "text": "Jaka jest kolejność części adresu globalnego IPv6 typu unicast przedstawionego na rysunku?",
+    "answers": [
+      "1 - identyfikator podsieci 2 - globalny prefiks 3 - identyfikator interfejsu.",
+      "1 - globalny prefiks, 2 - identyfikator podsieci, 3 - identyfikator interfejsu.",
+      "1 - globalny prefiks 2 - identyfikator interfejsu 3 - identyfikator podsieci.",
+      "1 - identyfikator interfejsu, 2 - globalny prefiks 3 - identyfikator podsieci."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_rysunek5.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 219,
+    "text": "Sieć komputerowa ograniczająca się do komputerów wyłącznie jednej organizacji, w której mogą istnieć usługi, realizowane przez serwery w sieci LAN, np. strony WWW, poczta elektroniczna to",
+    "answers": [
+      "Internet.",
+      "Extranet.",
+      "Infranet.",
+      "Intranet."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 220,
+    "text": "Który akronim określa przepustowość sieci i usługi, których zadaniem jest między innymi nadawanie priorytetu przesyłanym pakietom?",
+    "answers": [
+      "QoS",
+      "STP",
+      "ARP",
+      "PoE"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 221,
+    "text": "Z którym protokołem są związane pojęcia „sequence number” i „acknowledgment number”?",
+    "answers": [
+      "HTTP (Hypertext Transfer Protocol)",
+      "IP (Internet Protocol)",
+      "TCP (Transmission Control Protocol)",
+      "UDP (User Datagram Protocol)"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_zrzut3.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 222,
+    "text": "Który z adresów IP jest adresem hosta pracującego w sieci o adresie 192.168.160.224/28?",
+    "answers": [
+      "192.168.160.240",
+      "192.168.160.192",
+      "192.168.160.225",
+      "192.168.160.239"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 223,
+    "text": "Szkodliwe oprogramowanie, które w celu umożliwienia ataku na zainfekowany komputer może np. otworzyć jeden z portów, to",
+    "answers": [
+      "exploit.",
+      "keylogger.",
+      "trojan.",
+      "wabbit."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 224,
+    "text": "Element zamontowany na stałe, w którym znajduje się zakończenie okablowania strukturalnego poziomego u abonenta, to",
+    "answers": [
+      "punkt rozdzielczy.",
+      "punkt konsolidacyjny.",
+      "gniazdo energetyczne.",
+      "gniazdo teleinformatyczne."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 225,
+    "text": "Aby utworzyć las w strukturze katalogowej AD DS (Active Directory Domain Services), należy utworzyć co najmniej",
+    "answers": [
+      "cztery drzewa domeny.",
+      "dwa drzewa domeny.",
+      "jedno drzewo domeny.",
+      "trzy drzewa domeny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 226,
+    "text": "Zestaw reguł definiujących sposób przesyłania informacji w sieci opisuje",
+    "answers": [
+      "zasada.",
+      "protokół.",
+      "standard.",
+      "reguła."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 227,
+    "text": "Najszybszym sposobem wstawienia skrótu do programu na pulpitach wszystkich użytkowników domenowych będzie",
+    "answers": [
+      "pobranie aktualizacji Windows.",
+      "ponowna instalacja programu.",
+      "mapowanie dysku.",
+      "użycie zasad grupy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 228,
+    "text": "Serwerem DNS w systemie Linux jest",
+    "answers": [
+      "BIND",
+      "CUPS",
+      "APACHE",
+      "ProFTPD"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 229,
+    "text": "Użytkownicy korzystający z sieci WiFi zaobserwowali zaburzenia i częstą utratę połączenia z siecią. Powodem takiego stanu rzeczy może być",
+    "answers": [
+      "zbyt słaby sygnał.",
+      "zły sposób szyfrowania sieci.",
+      "błędne hasło do sieci.",
+      "niedziałający serwer DHCP."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 230,
+    "text": "Komputer lokalny ma adres 192.168.0.5. Po uruchomieniu strony internetowej z tego komputera, która identyfikuje adresy w sieci, podana jest informacja, że adresem komputera jest 195.182.130.24. Oznacza to, że",
+    "answers": [
+      "serwer DHCP zmienił adres w trakcie przesyłania żądania.",
+      "inny komputer podszył się pod adres lokalnego komputera.",
+      "adres został przetłumaczony przez translację NAT.",
+      "serwer WWW widzi inny komputer w sieci."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 231,
+    "text": "Użytkownicy z grupy Pracownicy nie mogą drukować dokumentów przy użyciu serwera wydruku w systemie operacyjnym Windows Server. Mają oni przydzielone uprawnienia tylko „Zarządzanie dokumentami”. Co należy zrobić, aby rozwiązać opisany problem?",
+    "answers": [
+      "Dla grupy Pracownicy należy usunąć uprawnienia „Zarządzanie dokumentami”",
+      "Dla grupy Administratorzy należy usunąć uprawnienia „Zarządzanie drukarkami”",
+      "Dla grupy Pracownicy należy nadać uprawnienia „Drukuj”",
+      "Dla grupy Administratorzy należy usunąć uprawnienia „Drukuj”"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 232,
+    "text": "Który protokół warstwy aplikacji modelu TCP/IP umożliwia klientowi bezpieczne połączenie z serwerem firmowym przez Internet, aby miał on dostęp do zasobów firmowych?",
+    "answers": [
+      "VLAN",
+      "NAT",
+      "FYP",
+      "VPN"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 233,
+    "text": "Aby odczytać adres serwera DNS w konfiguracji karty sieciowej systemu z rodziny Windows należy wykonać polecenie",
+    "answers": [
+      "arp -a",
+      "ping",
+      "ipconfig /all",
+      "ipconfig"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 234,
+    "text": "Jakim kolorem jest oznaczona izolacja żyły skrętki w pierwszym pinie wtyku RJ45 w sekwencji połączeń T568A?",
+    "answers": [
+      "Biało-niebieskim.",
+      "Biało-brązowym.",
+      "Biało-pomarańczowym.",
+      "Biało-zielonym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 235,
+    "text": "Urządzenie sieciowe służące do połączenia 5 komputerów ze sobą w tej samej sieci, tak aby nie występowały kolizje pakietów, to",
+    "answers": [
+      "koncentrator.",
+      "most.",
+      "ruter.",
+      "przełącznik."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 236,
+    "text": "Do ilu sieci należą adresy IPv4 przedstawione w tabeli?",
+    "answers": [
+      "3 sieci.",
+      "5 sieci.",
+      "2 sieci.",
+      "4 sieci."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_tabela13.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 237,
+    "text": "Który zestaw protokołów jest stosowany w procesie komunikacji hosta z serwerem WWW po wpisaniu adresu strony w przeglądarce internetowej hosta?",
+    "answers": [
+      "HTTP, UDP, IP",
+      "HTTP, TCP, IP",
+      "FTP, UDP, IP",
+      "HTTP, ICMP, IP"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 238,
+    "text": "Aby mieć pewność, że komputer otrzyma od serwera DHCP konkretny adres IP trzeba na serwerze zdefiniować",
+    "answers": [
+      "wykluczenie adresu IP komputera.",
+      "pulę adresów IP.",
+      "dzierżawę adresu IP.",
+      "zastrzeżenie adresu IP komputera."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 239,
+    "text": "Który protokół zostanie zastosowany przez administratora w celu zamieszczenia plików na serwerze?",
+    "answers": [
+      "FTP (File Transfer Protocol).",
+      "DNS (DomainName System).",
+      "HTTP (Hyper Text Transfer Protocol).",
+      "DHCP (Domain Host Configuration Protocol)."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 240,
+    "text": "Profil użytkownika systemu Windows Serwer, który nie zapisuje, ani na serwerze ani na stacji roboczej, zmian wprowadzanych do bieżącego pulpitu po wylogowaniu użytkownika, to profil * Dwie odpowiedzi są prawidłowe. Zaznacz obie, aby otrzymać punkt.",
+    "answers": [
+      "mobilny.",
+      "tymczasowy.",
+      "lokalny.",
+      "obowiązkowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 241,
+    "text": "Które narzędzie jest stosowane do mocowania kabla w module Keystone?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "inf07/e13_narzedzia2.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 242,
+    "text": "Który z adresów jest adresem rozgłoszeniowym sieci o adresie 172.16.64.0/26?",
+    "answers": [
+      "172.16.64.0",
+      "172.16.64.63",
+      "172.16.64.255",
+      "172.16.64.192"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 243,
+    "text": "Które urządzenie sieciowe umożliwi komputerom w sieci lokalnej dostęp do sieci Internet z wykorzystaniem przydzielonego tej sieci tylko jednego adresu publicznego?",
+    "answers": [
+      "Koncentrator.",
+      "Ruter.",
+      "Most.",
+      "Przełącznik."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 244,
+    "text": "Z którego protokołu korzystają polecenia ping i tracert (traceroute) przy sprawdzaniu komunikacji z określonym hostem?",
+    "answers": [
+      "IGRP (Interior Gateway Routing Protocol)",
+      "IGMP (Internet Group Management Protocol)",
+      "IDMP (Inter-Domain Routing Protocol)",
+      "ICMP (Internet Control Message Protocol)"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 245,
+    "text": "Równoczesną transmisję danych do wielu użytkowników w tym samym czasie umożliwia",
+    "answers": [
+      "multipleksacja.",
+      "modulacja.",
+      "kodowanie.",
+      "kontrola przepływu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 246,
+    "text": "Ile jest adresów które można przydzielić urządzeniom pracującym w sieci o adresie IP 192.168.10.0/27?",
+    "answers": [
+      "4",
+      "62",
+      "126",
+      "30"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 247,
+    "text": "Dla skrętki UTP minimalny promień zgięcia, jeżeli producent nie zaleci inaczej, przyjmuje się",
+    "answers": [
+      "4 średnice przewodu.",
+      "5 średnic przewodu.",
+      "3 średnice przewodu.",
+      "6 średnic przewodu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 248,
+    "text": "RDP (Remote Destop Protokol) jest protokołem umożliwiającym",
+    "answers": [
+      "dostęp zdalny w systemach Windows.",
+      "przechowywanie informacji o obiektach dostępnych w sieci.",
+      "uzyskanie od serwera danych komunikacyjnych.",
+      "zamianę nazw domenowych na adresy IP."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 249,
+    "text": "W tabeli przedstawiono konfigurację sieciową komputerów. Stacja robocza komunikuje się z serwerem pełniącym rolę kontrolera domeny, natomiast podłączenie stacji roboczej do domeny nie jest możliwe. Którą czynność należy wykonać, aby można było podłączyć stację roboczą do domeny?",
+    "answers": [
+      "Zmienić adres DNS serwera na 192.168.0.2",
+      "Zmienić adres IP serwera na 192.168.0.2",
+      "Zmienić adres DNS stacji roboczej na 192.168.0.1",
+      "Zmienić adres IP stacji roboczej na 192.168.0.1"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_tabela7.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 250,
+    "text": "Wymuszenie odświeżania lokalnych i opartych na usłudze Active Directory ustawień zasad grup w systemach z rodziny Windows Server nastąpi po wykonaniu polecenia",
+    "answers": [
+      "gpupdate /logoff",
+      "gpupdate /sync",
+      "gpupdate /boot",
+      "gpupdate /force"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 251,
+    "text": "Który rekord DNS można wykorzystać do znalezienia dodatkowych nazw hosta lub aliasów dostępnych hostów w domenie?",
+    "answers": [
+      "Rekord PTR",
+      "Rekord CNAME",
+      "Rekord MX",
+      "Rekord A"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 252,
+    "text": "IEEE 802.11ac jest standardem sieci",
+    "answers": [
+      "telefonicznej.",
+      "przewodowej.",
+      "bezprzewodowej.",
+      "światłowodowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 253,
+    "text": "Baza danych MIB agenta SNMP ma strukturę",
+    "answers": [
+      "mieszaną.",
+      "macierzową.",
+      "drzewiastą.",
+      "linio.wą"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 254,
+    "text": "Forma cyberprzestępstwa polegającego na utworzeniu prawie idealnej repliki strony WWW instytucji finansowej, zawierającej odsyłacze kierujące użytkowników bezpośrednio do fałszywej strony WWW, na której oszukiwana osoba wprowadza poufne informacje dotyczące numerów kont bankowych, kart kredytowych, haseł dostępu itp., to",
+    "answers": [
+      "stalking.",
+      "phishing.",
+      "sniffing.",
+      "spoofing."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 255,
+    "text": "Które polecenie systemu Windows należy wpisać, aby otrzymać przedstawione informacje?",
+    "answers": [
+      "net session",
+      "route print",
+      "ipconfig /displaydns",
+      "tracert -d"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_informacje.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 256,
+    "text": "W protokole zarządzania siecią, żądanie zmiany w bazie MIB agenta to komunikat",
+    "answers": [
+      "GetResponse",
+      "SetRequest",
+      "InformRequest",
+      "GetNextRequest"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 257,
+    "text": "Fizyczna topologia sieci komputerowej, którą przedstawiono na rysunku, to topologia",
+    "answers": [
+      "gwiazdy rozszerzonej.",
+      "magistrali.",
+      "pierścienia.",
+      "hierarchiczna."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_topologia.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 258,
+    "text": "Wskaż poprawne przyporządkowanie protokołu do domyślnego numeru portu, na którym on działa.",
+    "answers": [
+      "DNS – 53",
+      "HTTP – 90",
+      "IMAP – 153",
+      "FTP – 23"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 259,
+    "text": "Protokół POP3 jest stosowany do",
+    "answers": [
+      "transmisji i odbiorów plików z odległego systemu.",
+      "wysyłania poczty elektronicznej w Internecie.",
+      "odbierania poczty elektronicznej z serwera.",
+      "wysyłania listów na grupę dyskusyjną i ich odczytywania z grup."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 260,
+    "text": "Licencja na oprogramowanie, za które nie trzeba płacić i można z niego korzystać bez ograniczeń czasowych, bez możliwości zmiany kodu źródłowego oraz bez żadnych dodatkowych ograniczeń, to licencja",
+    "answers": [
+      "shareware.",
+      "adware.",
+      "freeware.",
+      "GNU/GPL."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 261,
+    "text": "Która technologia umożliwia bezpieczną pracę zdalną przez niezabezpieczone łącza?",
+    "answers": [
+      "WEP",
+      "AES",
+      "WPA",
+      "VPN"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 262,
+    "text": "W budynku produkcyjnym należy połączyć przełączniki sieciowe oddalone od siebie o około 200 metrów, stosując medium transmisyjne odporne na zakłócenia elektromagnetyczne i pozwalające na przesyłanie danych z prędkością 1000 Mbps. Które medium transmisyjne spełnia te wymagania?",
+    "answers": [
+      "Fale radiowe 2,4 GHz.",
+      "Kabel UTP kategorii 6.",
+      "Światłowód wielomodowy.",
+      "Kabel FTP kategorii 5."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 263,
+    "text": "Do wykonania pomiarów parametrów torów miedzianych (m.in. NEXT, Wire map, Propagattion Delay Skew), koniecznych przy certyfikacji sieci, należy zastosować",
+    "answers": [
+      "analizator sieci.",
+      "miernik uniwersalny.",
+      "miernik mocy optycznej.",
+      "diodowy tester okablowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 264,
+    "text": "Ile ruterów oraz przełączników warstwy drugiej znajduje się na przedstawionym schemacie?",
+    "answers": [
+      "4 rutery i 12 przełączników.",
+      "6 ruterów i 10 przełączników.",
+      "4 rutery i 10 przełączników.",
+      "6 ruterów i 16 przełączników."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_schemat2.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 265,
+    "text": "Na jednym z komputerów w sieci lokalnej po wpisaniu w przeglądarce internetowej adresu IP serwera WWW, strona wyświetla się prawidłowo, po wpisaniu nazwy domenowej przeglądarka wyświetla komunikat, że ta witryna jest nieosiągalna. Co może być przyczyną błędu, jeżeli na pozostałych komputerach w sieci strona wyświetla się prawidłowo również po wpisaniu nazwy domenowej?",
+    "answers": [
+      "Brak lub błędny adres serwera DNS w ustawieniach protokołu TCP/IP tego komputera.",
+      "Brak lub niewłaściwe sterowniki karty sieciowej tego komputera.",
+      "Uszkodzenie kabla sieciowego pomiędzy tym komputerem a ruterem.",
+      "Brak lub błędny adres bramy w ustawieniach protokołu TCP/IP tego komputera."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 266,
+    "text": "Adres IPv6 2000::/3 należy do zakresu",
+    "answers": [
+      "unikatowych adresów lokalnych.",
+      "adresów lokalnych łącza.",
+      "adresów globalnych.",
+      "adresów grupowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 267,
+    "text": "W jakiej kolejności są wysyłane komunikaty pomiędzy serwerem DHCP a stacją roboczą podczas przydzielania adresu IP stacji roboczej?",
+    "answers": [
+      "Kolejność 3",
+      "Kolejność 4",
+      "Kolejność 1",
+      "Kolejność 2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_komunikaty2.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 268,
+    "text": "Która usługa serwerowa musi być dostępna w sieci, by korzystać z nazw domenowych przy przeglądaniu stron WWW?",
+    "answers": [
+      "DHCP.",
+      "DNS.",
+      "Serwer plików.",
+      "Serwer aplikacji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 269,
+    "text": "W pliku /etc/hosts systemu Linux są umieszczone informacje o adresach",
+    "answers": [
+      "MAC i IP wszystkich urządzeń komputerowych w sieci lokalnej.",
+      "MAC i odpowiadających im nazwach komputerów.",
+      "IP i odpowiadających im nazwach komputerów.",
+      "MAC i odpowiadających im adresach IP."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 270,
+    "text": "Który z adresów przedstawia najkrótszą, poprawną formę zapisu dla adresu IPv6 2001:0db8:0000:0000:0000:0f00:0000:0320?",
+    "answers": [
+      "2001:db8:0:0:0:f00:0:320",
+      "2001:db8::f00:0:320",
+      "2001:db8::f00::320",
+      "2001:0db8::0f00:0:0320"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 271,
+    "text": "Funkcją programu, którego działanie przedstawiono, jest",
+    "answers": [
+      "analiza przesyłanych pakietów danych.",
+      "zabezpieczenie komputera przed intruzami.",
+      "identyfikowanie sieci będących w zasięgu danego komputera.",
+      "ochrona komputera przed szkodliwym oprogramowaniem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_rysunek.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 272,
+    "text": "Protokołem połączeniowym warstwy transportowej modelu ISO/OSI jest",
+    "answers": [
+      "RIP (Routing Information Protocol)",
+      "UDP (User Datagram Protocol)",
+      "TCP (Transmission Control Protocol)",
+      "IPX (Internetwork Packet Exchange)"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 273,
+    "text": "Która edycja systemu Windows Server 2012 nie występuje w kolejnych nowszych wersjach systemu Windows Server?",
+    "answers": [
+      "Essentials",
+      "Standard",
+      "Foundation",
+      "Datacenter"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 274,
+    "text": "Międzynarodową normą dla okablowania strukturalnego, powstałą w oparciu o normy amerykańskie, jest norma",
+    "answers": [
+      "EN 50173 (Information technology – Generic cabling systems)",
+      "TIA/EIA 568A (Commercial Building Telecommunications Cabling Standard)",
+      "ISO/OSI  (Open Systems Interconnection Reference Model)",
+      "ISO/IEC 11801 (Information technology – Generic cabling for customer premises)"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 275,
+    "text": "Jaka będzie wartość netto materiałów do budowy sieci, jeżeli jest potrzebne 120 m kabla UTP kategorii 5e, 5 podwójnych gniazd sieciowych, 10 wtyków RJ45 i kanały naścienne o łącznej długości 20 m? Ceny jednostkowe netto są przedstawione w tabeli.",
+    "answers": [
+      "316 zł",
+      "650 zł",
+      "433 zł",
+      "593 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_tabela3.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 276,
+    "text": "Uniwersalny zapis ścieżki sieciowej profilu mobilnego konta użytkownika na serwerze o nazwie serwer1, z systemem z rodziny Windows Server, ma postać",
+    "answers": [
+      "\\\\serwer1\\profile\\%username%",
+      "\\\\serwer1\\profile\\user",
+      "\\\\serwer1\\profile\\%user%",
+      "\\\\serwer1\\profile\\username"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 277,
+    "text": "Użytkownik ma mieć możliwość otwierania i pobierania z serwera sieciowego dokumentów, bez możliwości zmiany ich treści. Dokumenty znajdują się w udostępnionym zasobie dokumenty z pełnymi prawami dla wszystkich użytkowników. W jaki sposób należy skonfigurować dostęp użytkownika do tych dokumentów?",
+    "answers": [
+      "W zabezpieczeniach folderu nadać mu prawo do modyfikacji.",
+      "W zabezpieczeniach folderu nadać mu prawa tylko do odczytu.",
+      "Przydzielić go do grupy Administratorzy na serwerze.",
+      "Przydzielić go do grupy IUSRS na serwerze."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 278,
+    "text": "Który mechanizm jest alternatywą dla DHCPv6 w procesie przydzielania adresów IPv6?",
+    "answers": [
+      "RR (Router  Renumbering)",
+      "SLAAC (Stateless Address Autoconfiguration)",
+      "ND (Neighbor Discovery)",
+      "MLD (Multicast Listener Discovery)"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 279,
+    "text": "Dostęp z sieci zewnętrznej do usługi sieciowej serwera znajdującego się wewnątrz sieci LAN (np. serwera ftp, serwera www), wymaga skonfigurowania na ruterze funkcji",
+    "answers": [
+      "zarządzania przepustowością łącza.",
+      "agregacji portów.",
+      "przekierowania portów.",
+      "mirroringu portów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 280,
+    "text": "Stacji roboczej został przydzielony adres IP 169.254.100.88. Co może być przyczyną uzyskania przez komputer takiego adresu IP?",
+    "answers": [
+      "Nieosiągalny w sieci ruter.",
+      "Nieosiągalny serwer DHCP.",
+      "Błędnie podany adres IP bramy.",
+      "Błędnie podany adres IP serwera DNS."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 281,
+    "text": "Typem ataku, którego celem jest zablokowanie usług legalnym użytkownikom, uniemożliwiając normalne działanie komputerów i komunikacji urządzeń w sieci, jest",
+    "answers": [
+      "Man-in-the-Middle.",
+      "Brute force.",
+      "Ping sweeps.",
+      "Denial of Service."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 282,
+    "text": "Które oznaczenie zgodnie z normą ISO/IEC 11801:2002 identyfikuje skrętkę foliowaną, czyli są ekranowane folią tylko wszystkie pary żył?",
+    "answers": [
+      "S/FTP",
+      "F/UTP",
+      "U/UTP",
+      "F/FTP"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 283,
+    "text": "Utworzenie symulowanego środowiska komputerowego stanowiącego przeciwieństwo środowiska fizycznego nazywa się",
+    "answers": [
+      "modernizacją.",
+      "aktualizacją.",
+      "wirtualizacją.",
+      "konfiguracją."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 284,
+    "text": "Program umożliwiający przechwytywanie pakietów i monitorowanie ruchu w sieci jest",
+    "answers": [
+      "antywirus.",
+      "skaner sieci.",
+      "Wifi skaner.",
+      "zapora sieciowa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 285,
+    "text": "Po wydaniu polecenia ping komputer K1 otrzymuje odpowiedź zwrotną od komputera K2. Po wydaniu polecenia ping w przeciwnym kierunku komputer K2 nie otrzymuje odpowiedzi od komputera K1. Oba komputery mają zainstalowany system Windows 7 lub 10. Co może być przyczyną zaistniałej sytuacji?",
+    "answers": [
+      "Wyłączona zapora sieciowa na komputerach K1 i K2.",
+      "Nieprawidłowa konfiguracja kart sieciowych komputerów K1 i K2.",
+      "Uszkodzona karta sieciowa komputera K2.",
+      "Skonfigurowane domyślne ustawienia zapory na komputerze K1."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 286,
+    "text": "W systemie Linux BIND jest serwerem",
+    "answers": [
+      "FTP",
+      "http",
+      "DHCP",
+      "DNS"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 287,
+    "text": "W której usłudze serwera można konfigurować parametr TTL?",
+    "answers": [
+      "DHCP",
+      "HTTP",
+      "FTP",
+      "DNS"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 288,
+    "text": "Która norma opisuje standardy instalacji okablowania strukturalnego?",
+    "answers": [
+      "PN-EN 55022",
+      "PN-EN50173",
+      "PN-EN 50310",
+      "PN-EN 50174"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 289,
+    "text": "Usługa umożliwiająca tłumaczenie nazw komputerów na adresy IP to",
+    "answers": [
+      "NIS (Network Information Service)",
+      "DHCP (Dynamic Host Configuration Protocol)",
+      "DNS (Domain Name System)",
+      "WINS (Windows Internet Name Service)"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 290,
+    "text": "Do których komputerów dotrze ramka rozgłoszeniowa wysyłana ze stacji roboczej PC1?",
+    "answers": [
+      "PC2 i PC4",
+      "PC4 i PC5",
+      "PC2 i PC6",
+      "PC3 i PC6"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_schemat4.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 291,
+    "text": "Technologia oparta na architekturze klient–serwer, pozwalająca łączyć się odległym komputerom w sieci przez szyfrowany tunel, nazywa się",
+    "answers": [
+      "VLAN",
+      "WAN",
+      "WLAN",
+      "VPN"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 292,
+    "text": "Protokół stosowany do przekształcania fizycznych adresów MAC na adresy IP w sieciach komputerowych to",
+    "answers": [
+      "DHCP (Dynamic Host Configuration Protocol).",
+      "DNS (Domain Name System).",
+      "RARP (Reverse Address Resolution Protocol).",
+      "ARP (Address Resolution Protocol)."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 293,
+    "text": "Domyślna kolejność przetwarzania zasad grupy w systemie Windows jest następująca:",
+    "answers": [
+      "lokalny komputer – lokacja – domena – jednostka organizacyjna",
+      "jednostka organizacyjna – domena – lokacja – lokalny komputer",
+      "domena – lokacja – jednostka organizacyjna – lokalny komputer",
+      "lokacja – domena – jednostka organizacyjna – lokalny komputer"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 294,
+    "text": "Ile domen rozgłoszeniowych istnieje w sieci o schemacie przedstawionym na rysunku, jeżeli przełączniki pracują w drugiej warstwie modelu ISO/OSI z konfiguracją domyślną?",
+    "answers": [
+      "9",
+      "11",
+      "5",
+      "7"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_siec2.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 295,
+    "text": "Rysunek przedstawia wynik wykonania polecenia systemu Windows",
+    "answers": [
+      "arp -a",
+      "route print",
+      "ping",
+      "tracert"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_rysunek2.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 296,
+    "text": "Usługi pomagające w zapewnieniu odpowiedniej kondycji i odpowiedniego poziomu zabezpieczeń sieci zarządzanej przez Serwer Windows to",
+    "answers": [
+      "Usługi zarządzania prawami dostępu w usłudze Active Directory",
+      "Usługi wdrażania systemu Windows",
+      "Usługi zasad sieciowych i dostępu sieciowego",
+      "Usługi certyfikatów Active Directory"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 297,
+    "text": "Prefiksem stosowanym w adresie autokonfiguracji IPv6 w sieci LAN jest",
+    "answers": [
+      "64",
+      "24",
+      "128",
+      "32"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 298,
+    "text": "Do ilu sieci należą komputery o adresach IP i maskach sieci przedstawionych w tabeli?",
+    "answers": [
+      "2",
+      "3",
+      "5",
+      "4"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_tabela4.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 299,
+    "text": "Klasowy adres 172.16.0.0 zostanie podzielony na równe podsieci, każda o maksymalnej liczbie użytecznych adresów 510. Ile zostanie utworzonych podsieci?",
+    "answers": [
+      "252",
+      "128",
+      "64",
+      "32"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 300,
+    "text": "Aby serwer DNS prawidłowo odwzorowywał nazwy domenowe na adresy IPv6 należy skonfigurować rekord",
+    "answers": [
+      "A",
+      "AAAA",
+      "MX",
+      "CNAME"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 301,
+    "text": "Profil użytkownika, który jest tworzony przez administratora systemu i przechowywany na serwerze, umożliwiający użytkownikowi logowanie na dowolnym komputerze w sieci oraz zmianę ustawień, to",
+    "answers": [
+      "profil mobilny.",
+      "profil obowiązkowy.",
+      "profil tymczasowy.",
+      "profil lokalny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 302,
+    "text": "Urządzenie łączące sieć przewodową z siecią bezprzewodową to",
+    "answers": [
+      "punkt dostępu.",
+      "przełącznik.",
+      "koncentrator.",
+      "most."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 303,
+    "text": "Który z komunikatów wysyła klient DHCP w celu odnowy dzierżawy?",
+    "answers": [
+      "DHCPACK",
+      "DHCPDISCOVER",
+      "DHCPREQUEST",
+      "DHCPNACK"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 304,
+    "text": "Projektując sieć LAN o dużej przepustowości w środowisku, w którym występują duże zakłócenia elektromagnetyczne, jako medium transmisyjne należy zastosować kabel",
+    "answers": [
+      "typu U/FTP.",
+      "współosiowy.",
+      "światłowodowy.",
+      "typu U/UTP."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 305,
+    "text": "Protokół przeznaczony do monitorowania i zarządzania urządzeniami sieciowymi, oparty o architekturę klient-serwer, w którym jeden zarządca kontroluje od kilku do kilkuset agentów to",
+    "answers": [
+      "FTP (File Transfer Protocol).",
+      "HTTP (Hypertext Transfer Protocol).",
+      "SMTP (Simple Mail Transfer Protocol).",
+      "SNMP (Simple Network Management Protocol)."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 306,
+    "text": "Aby uruchomić FTP na serwerze Windows, należy zainstalować rolę",
+    "answers": [
+      "serwera Plików",
+      "serwera DNS",
+      "serwera sieci Web (IIS)",
+      "serwera DHCP"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 307,
+    "text": "Zbiór reguł filtrujących ruch sieciowy w ruterach to",
+    "answers": [
+      "MMC (Microsoft Management Console).",
+      "NNTP (Network News Transfer Protocol).",
+      "ACL (Access Control List).",
+      "ACPI (Advanced Configuration and Power Interface)."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 308,
+    "text": "Ścieżka sieciowa do folderu pliki, udostępnionego pod nazwą dane jako zasób ukryty, to",
+    "answers": [
+      "\\\\pliki$",
+      "\\\\dane",
+      "\\\\pliki",
+      "\\\\dane$"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 309,
+    "text": "Komputer ma problem z komunikacją z komputerem w innej sieci. Która z przedstawionych zmian ustawiania w konfiguracji karty sieciowej rozwiąże problem?",
+    "answers": [
+      "Zmiana maski na 255.255.255.0",
+      "Zmiana maski na 255.0.0.0",
+      "Zmiana adresu serwera DNS na 10.0.0.2",
+      "Zmiana adresu bramy na 10.1.0.2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_konfiguracja3.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 310,
+    "text": "Którym skrótem jest określana sieć, która wykorzystując technologie warstwy 1 i 2 modelu OSI, łączy urządzenia rozmieszczone na dużych obszarach geograficznych?",
+    "answers": [
+      "LAN",
+      "VPN",
+      "WAN",
+      "VLAN"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 311,
+    "text": "Podłączając wszystkie urządzenia sieciowe do przełącznika stosuje się topologię fizyczną",
+    "answers": [
+      "siatki.",
+      "pierścienia.",
+      "gwiazdy.",
+      "magistrali."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 312,
+    "text": "Usługa roli Serwera Windows 2012 zapewniająca obsługę ruterów translacji adresów sieciowych (NAT) i ruterów sieci lokalnych BGP(LAN) to",
+    "answers": [
+      "serwer proxy aplikacji sieci Web.",
+      "Direct Access i VPN (RAS).",
+      "routing.",
+      "przekierowanie HTTP."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 313,
+    "text": "Nazwa domenowa witryny ftp to ftp.biuro.com Co należy wpisać w pasku przeglądarki internetowej, aby wyświetlić zawartość tej witryny?",
+    "answers": [
+      "ftp.ftp.biuro.com",
+      "http.ftp.biuro.com",
+      "http://ftp.biuro.com",
+      "ftp://ftp.biuro.com"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 314,
+    "text": "Aby funkcja rutingu mogła prawidłowo działać na serwerze, musi on być wyposażony",
+    "answers": [
+      "w szybszy procesor.",
+      "w drugą kartę sieciową.",
+      "w dodatkowy dysk twardy.",
+      "w dodatkową pamięć RAM."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 315,
+    "text": "Do której z sieci należy host o adresie 172.16.10.10/22?",
+    "answers": [
+      "172.16.16.0",
+      "172.16.4.0",
+      "172.16.8.0",
+      "172.16.12.0"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 316,
+    "text": "Który z dokumentów nie należy do dokumentacji powykonawczej lokalnej sieci komputerowej?",
+    "answers": [
+      "Specyfikacja materiałowa.",
+      "Schemat sieci LAN.",
+      "Wykaz zastosowanych nazw użytkowników i haseł.",
+      "Specyfikacja techniczna głównych elementów systemu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 317,
+    "text": "Administrator systemu Windows Serwer chce podzielić użytkowników sieci na różne grupy, które mają różne uprawnienia do zasobów sieciowych i na serwerze. Najefektywniej zrobi to instalując rolę",
+    "answers": [
+      "serwera DNS",
+      "usługi domenowe AD",
+      "usługi wdrażania systemu Windows",
+      "serwera DHCP"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 318,
+    "text": "Aby podłączyć sieć lokalną do Internetu należy zastosować",
+    "answers": [
+      "koncentrator.",
+      "most.",
+      "przełącznik.",
+      "ruter."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 319,
+    "text": "Przechwycone przez program Wireshark komunikaty, które zostały przedstawione na rysunku należą do protokołu",
+    "answers": [
+      "FTP",
+      "DHCP",
+      "DNS",
+      "HTTP"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_komunikaty.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 320,
+    "text": "Adresem nieokreślonym protokołu IPv6 jest",
+    "answers": [
+      "2001::/64",
+      "::/128",
+      "FE80::/64",
+      "::1/128"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 321,
+    "text": "Na ile podsieci można podzielić sieć o adresie 192.168.100.0/24 przy zastosowaniu maski 255.255.255.192?",
+    "answers": [
+      "4 podsieci.",
+      "2 podsieci.",
+      "8 podsieci.",
+      "16 podsieci."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 322,
+    "text": "Która edycja systemu Windows Server 2012 nie występuje w Windows Server 2016?",
+    "answers": [
+      "Essentials",
+      "Foundation",
+      "Standard",
+      "Datacenter"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 323,
+    "text": "Którego urządzenia dotyczy opis? Głównym zadaniem tego urządzenia jest spajanie segmentów sieci komputerowej pracujących w drugiej warstwie modelu ISO/OSI. Urządzenie to przekazuje ramki między segmentami sieci z doborem właściwego portu, na który ramka jest przekazywana.",
+    "answers": [
+      "Modemu.",
+      "Punktu dostępu.",
+      "Koncentratora.",
+      "Przełącznika."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 324,
+    "text": "Przedstawiona na rysunku topologia fizyczna drzewa, powstała z połączenia topologii",
+    "answers": [
+      "magistrali i siatki.",
+      "pierścienia i siatki.",
+      "pierścienia i gwiazdy.",
+      "magistrali i gwiazdy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_topologia2.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 325,
+    "text": "Które urządzenie zostało zastosowane do połączenia widocznych na rysunku sieci A i sieci B?",
+    "answers": [
+      "Most.",
+      "Przełącznik.",
+      "Ruter.",
+      "Punktu dostępu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_schemat3.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 326,
+    "text": "Który adres IP jest adresem pętli zwrotnej karty sieciowej komputera?",
+    "answers": [
+      "10.0.0.1",
+      "192.168.0.1",
+      "127.0.0.1",
+      "0.0.0.0"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 327,
+    "text": "Protokołem warstwy aplikacji, który służy do wymiany informacji zarządzających pomiędzy urządzeniami sieciowymi, jest",
+    "answers": [
+      "SFTP",
+      "SNMP",
+      "IMAP",
+      "DHCP"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 328,
+    "text": "Która para protokołów definiuje wysyłanie i odbieranie poczty internetowej?",
+    "answers": [
+      "HTTP i DNS (Hypertext Transfer Protocol i Domain Name System)",
+      "SNTP i FTP (Simple Network Time Protocol i File Transfer Protocol)",
+      "HTTP i DHCP (Hypertext Transfer Protocol i Dynamic Host Configuration Protocol)",
+      "SMTP i IMAP (Simple Mail Transfer Protocol i Internet Message Access Protocol)"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 329,
+    "text": "Do wyświetlenia informacji dotyczących ustawień protokołu TCP/IP karty sieciowej w systemach Windows służy polecenie",
+    "answers": [
+      "ifconfig",
+      "netstat",
+      "msconfig",
+      "ipconfig"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 330,
+    "text": "Do wykrywania programów typu rootkit w systemie komputerowym należy zastosować",
+    "answers": [
+      "program antywirusowy.",
+      "program do skanowania dysku.",
+      "monitor systemu.",
+      "analizator ruchu sieciowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 331,
+    "text": "By sprawdzić listę ruterów pośrednich dla połączenia z określonym hostem w sieci, w systemie Windows należy zastosować polecenie",
+    "answers": [
+      "netstat",
+      "ping",
+      "ipconfig",
+      "tracert"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 332,
+    "text": "Jaka będzie łączna wartość brutto urządzeń koniecznych do budowy sieci lokalnej przedstawionej na rysunku? Komputery i serwer są wyposażone tylko w karty sieciowe Ethernet. Cena brutto karty sieciowej bezprzewodowej wynosi 50,00 zł, rutera z WiFi 140,00 zł, przełącznika 110,00 zł.",
+    "answers": [
+      "540,00 zł",
+      "610,00 zł",
+      "510,00 zł",
+      "640,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_siec.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 333,
+    "text": "Dla adresu IPv4 172.20.0.50/24 adres sieci i adres rozgłoszeniowy przedstawiają adresy",
+    "answers": [
+      "172.0.0.0; 172.0.255.255",
+      "172.20.0.0; 172.20.0.255",
+      "172.0.0,0; 172.255.255.255",
+      "172.20.0.0; 172.20.255.255"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 334,
+    "text": "Podczas negocjacji adresu z wykorzystaniem protokołu DHCP, klient odbiera oferty dzierżawy wysłane z serwerów DHCP na adres rozgłoszeniowy sieci i akceptuje pierwszą otrzymaną ofertę, wysyłając serwerowi komunikat",
+    "answers": [
+      "DHCP Request",
+      "DHCP Ack",
+      "DHCP Offer",
+      "DHCP Discover"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 335,
+    "text": "Norma TIA/EIA-568-B.2 – Commercial Building Telecommunication Cabling Standard, Part II: Balanced Twisted Pair Cabling Components zawiera",
+    "answers": [
+      "opis kanałów telekomunikacyjnych w budynkach mieszkalnych.",
+      "wymagania dotyczące uziemienia w budynkach biurowych.",
+      "informacje na temat komponentów światłowodowych.",
+      "specyfikację parametrów transmisyjnych komponentów kategorii 5e."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 336,
+    "text": "Rekord nazwy kanonicznej CNAME serwera DNS",
+    "answers": [
+      "identyfikuje serwer DNS autorytatywny dla danej domeny.",
+      "mapuje nazwę domeny DNS na jej 32-bitowy adres IPv4.",
+      "mapuje adres IPv4 na nazwę kanoniczną hosta.",
+      "ustanawia alias nazwy domeny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 337,
+    "text": "Którą maskę sieci należy zastosować dla podsieci o adresie 192.168.0.64 i adresie rozgłoszeniowym 192.168.0.127?",
+    "answers": [
+      "255.255.255.128",
+      "255.255.255.0",
+      "255.255.255.224",
+      "255.255.255.192"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 338,
+    "text": "Które polecenie systemu Windows uruchamia przystawkę konfigurowania lokalnych zasad grup?",
+    "answers": [
+      "devmgmt.mfc",
+      "regedit.exe",
+      "gpedit.msc",
+      "dcpromo.exe"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 339,
+    "text": "Ile podsieci można dodatkowo zaadresować wykorzystując zakres adresów prywatnych 192.168.0.0/16, stosując 24-bitową maskę sieci?",
+    "answers": [
+      "8 podsieci.",
+      "65 536 podsieci.",
+      "256 podsieci.",
+      "2048 podsieci."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 340,
+    "text": "Który z symboli urządzeń sieciowych przedstawionych na rysunkach jest symbolem przełącznika?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_symbole.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 341,
+    "text": "Którego programu zadaniem jest przechwytywanie i analizowanie danych przepływających w sieci?",
+    "answers": [
+      "putty",
+      "cuteftp",
+      "acronis",
+      "wireshark"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 342,
+    "text": "Wtyk przedstawiony na rysunku jest zakończeniem kabla",
+    "answers": [
+      "ekranowanego typu „skrętka”.",
+      "światłowodowego.",
+      "nieekranowanego typu „skrętka”.",
+      "koncentrycznego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_wtyk.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 343,
+    "text": "Na serwerze jest zainstalowany kontroler domeny Active Directory dla domeny egzamin.local. Stacja robocza komunikuje się z serwerem, wynik polecenia ping na adres IP serwera jest prawidłowy. Przy próbie podłączenia stacji roboczej do domeny wyświetla się komunikat przedstawiony na rysunku. Jaka jest przyczyna błędu, jeżeli inne stacje można podłączyć do domeny?",
+    "answers": [
+      "Błędny adres bramy w ustawieniach interfejsu sieciowego stacji roboczej.",
+      "Błędny adres serwera DNS w ustawieniach interfejsu sieciowego stacji roboczej.",
+      "Błędny adres bramy w ustawieniach interfejsu sieciowego serwera.",
+      "Błędny adres serwera DNS w ustawieniach interfejsu sieciowego serwera."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_komunikat.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 344,
+    "text": "RDP (Remote Desktop Protocol) jest protokołem umożliwiającym",
+    "answers": [
+      "uzyskanie od serwera danych komunikacyjnych.",
+      "dostęp zdalny w systemach Windows.",
+      "zamianę nazw domenowych na adresy IP.",
+      "przechowywanie informacji o obiektach dostępnych w sieci."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 345,
+    "text": "Programem, ograniczającym dostęp do systemu komputerowego z sieci przez filtrowanie datagramów, jest",
+    "answers": [
+      "monitor systemu.",
+      "zapora sieciowa.",
+      "skaner antywirusowy.",
+      "monitor antywirusowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 346,
+    "text": "Która informacja dotycząca topologii logicznych lub fizycznych jest prawdziwa?",
+    "answers": [
+      "Topologia logiczna jest zawsze taka sama jak topologia fizyczna.",
+      "Topologie fizyczne przedstawiają schemat adresowania sieci.",
+      "Topologię fizyczną wyznaczają trasy przesyłania ramek przez sieć.",
+      "Topologie logiczne definiują używaną metodę kontroli dostępu do nośnika."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 347,
+    "text": "Usługa stosowana do bezpiecznej komunikacji z urządzeniami lub serwerami, używająca domyślnie portu TCP 22, to",
+    "answers": [
+      "SSH",
+      "Telnet",
+      "IPsec",
+      "TLS"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 348,
+    "text": "Firma kupiła nowe, bezprzewodowe karty sieciowe. Po zainstalowaniu tych kart sieciowych użytkownicy nie mogą połączyć się z siecią bezprzewodową 2,4 GHz. Prawdopodobną przyczyną występowania tego problemu jest to, że karty sieciowe obsługują tylko standard",
+    "answers": [
+      "802.11n",
+      "802.11ac",
+      "802.11b",
+      "802.11g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 349,
+    "text": "Który z adresów przedstawia najkrótszą, poprawną formę zapisu dla następującego adresu IPv6 2001:0db8:0000:0000:0000:0f00:0000:0320?",
+    "answers": [
+      "2001:db8:0:0:0:f00:0:320",
+      "2001:0db8::0f00:0:0320",
+      "2001:db8::f00:0:320",
+      "2001:db8::f00::320"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 350,
+    "text": "Uniwersalny wpis ścieżki sieciowej na serwerze o nazwie serwer1 z systemem z rodziny Windows Server do folderu z profilem użytkownika to",
+    "answers": [
+      "\\\\serwer1\\profile\\%user%",
+      "\\\\serwer1\\profile\\%username%",
+      "\\\\serwer1\\profile\\user",
+      "\\\\serwer1\\profile\\username"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 351,
+    "text": "Który protokół jest stosowany do kontroli przepływu pakietów wewnątrz systemu autonomicznego?",
+    "answers": [
+      "SNMP",
+      "ARP",
+      "TCP",
+      "OSPF"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 352,
+    "text": "Aby w systemie Windows sprawdzić, ile ruterów przekazuje dane pomiędzy dwoma hostami, należy na stacji roboczej wykonać polecenie",
+    "answers": [
+      "ipconfig",
+      "tracert",
+      "netstat",
+      "arp"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 353,
+    "text": "Zalecany promień zgięcia dla przewodu UTP powinien być nie mniejszy niż",
+    "answers": [
+      "5 średnic przewodu.",
+      "3 średnice przewodu.",
+      "6 średnic przewodu.",
+      "4 średnice przewodu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 354,
+    "text": "Ruter wybiera trasę dla pakietu na podstawie adresu",
+    "answers": [
+      "docelowego IP",
+      "docelowego MAC",
+      "źródłowego IP",
+      "źródłowego MAC"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 355,
+    "text": "Norma IEEE 802.11ac jest standardem sieci",
+    "answers": [
+      "telefonicznej.",
+      "przewodowej.",
+      "światłowodowej.",
+      "bezprzewodowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 356,
+    "text": "Który protokół definiuje zasady konwersji adresów IP na adresy MAC stosowane w sieciach Ethernet?",
+    "answers": [
+      "TCP",
+      "ARP",
+      "DNS",
+      "IP"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 357,
+    "text": "Aby sieciowy system operacyjny był bezpieczny w pierwszej kolejności, należy zainstalować",
+    "answers": [
+      "analizator pakietów.",
+      "aktualizację systemu.",
+      "oprogramowanie antywirusowe.",
+      "oprogramowanie do zarządzania siecią."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 358,
+    "text": "Które stwierdzenie opisuje sieć wspierającą QoS (Quality of Service)?",
+    "answers": [
+      "Sieć może się rozwijać, aby nadążyć za potrzebami użytkownika.",
+      "Dane przesyłane przez sieć nie są modyfikowane podczas transmisji.",
+      "Sieć zapewnia przewidywalne poziomy usług dla różnych rodzajów ruchu.",
+      "Bardzo mała liczba urządzeń w sieci ulega awarii."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 359,
+    "text": "Łącze dzierżawione to łącze telekomunikacyjne, które",
+    "answers": [
+      "zostało wynajęte od innego operatora w celu przesyłania swojego sygnału o stałej przepustowości.",
+      "umożliwia połączenie użytkownika korzystającego z zasobów sieci zestawione na nieokreślony czas, z wykorzystaniem publicznej sieci telefonicznej.",
+      "zostało wynajęte od innego operatora w celu przesyłania swojego sygnału o zmiennej przepustowości.",
+      "umożliwia połączenie użytkownika korzystającego z zasobów sieci zestawione na określony czas, z wykorzystaniem publicznej sieci telefonicznej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 360,
+    "text": "Proces, który umożliwi równoczesną transmisję danych do wielu użytkowników w tym samym czasie, nazywa się",
+    "answers": [
+      "multipleksacją.",
+      "kodowaniem.",
+      "kontrolą przepływu.",
+      "modulacją."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 361,
+    "text": "Stacja robocza komunikuje się z serwerem pełniącym rolę kontrolera domeny, natomiast przyłączenie stacji roboczej do domeny nie jest możliwe. Którą czynność należy wykonać, aby można było przyłączyć stację roboczą do domeny, według przedstawionej konfiguracji protokołów TCP/IP serwera i stacji roboczej?",
+    "answers": [
+      "Zmienić adres IP serwera na 192.168.0.2",
+      "Zmienić adres DNS stacji roboczej na 192.168.0.1",
+      "Zmienić adres IP stacji roboczej na 192.168.0.1",
+      "Zmienić adres DNS serwera na 192.168.0.2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_konfiguracja2.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 362,
+    "text": "Jaka jest liczba adresów, które można przydzielić urządzeniom pracującym w sieci o adresie IP 192.168.10.0/27?",
+    "answers": [
+      "62",
+      "30",
+      "126",
+      "4"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 363,
+    "text": "Jak nazywa się oprogramowanie stosowane do wirtualizacji maszyn fizycznych, dostępne w dwóch wariantach – jako samodzielna wersja oraz rola w systemie Windows Server 2008 R2?",
+    "answers": [
+      "Vmware",
+      "VirtualBox",
+      "Hyper-V",
+      "Virtual PC"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 364,
+    "text": "Która grupa w usługach Active Directory jest stosowana głównie do przydzielania uprawnień dostępu do zasobów wewnątrz pojedynczej domeny?",
+    "answers": [
+      "Domenowa grupa lokalna.",
+      "Grupa uniwersalna.",
+      "Grupa globalna.",
+      "Wbudowana grupa lokalna."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 365,
+    "text": "Który z adresów jest adresem rozgłoszeniowym sieci 172.16.64.0/26?",
+    "answers": [
+      "172.16.64.0",
+      "172.16.64.63",
+      "172.16.64.255",
+      "172.16.64.192"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 366,
+    "text": "Zbiór oprogramowania, które jest określane jako “godne zaufania”, to",
+    "answers": [
+      "sygnatury antywirusowe.",
+      "uaktualnienia systemu.",
+      "biała lista.",
+      "czarna lista."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 367,
+    "text": "W zapisie standardu 100Base-TX zapis 100 oznacza",
+    "answers": [
+      "maksymalną liczbę węzłów sieci.",
+      "maksymalną długość kabla w metrach.",
+      "numer seryjny standardu.",
+      "maksymalną przepustowość w Mb/s."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 368,
+    "text": "Funkcją programu, którego działanie przedstawiono na rysunku, jest",
+    "answers": [
+      "zabezpieczenie komputera przed intruzami.",
+      "identyfikowanie sieci będących w zasięgu danego komputera.",
+      "ochrona komputera przed szkodliwym oprogramowaniem.",
+      "analiza przesyłanych pakietów danych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "inf07/ee11_rysunek.png"
+    },
+    "category": "INF.07"
+  },
+  {
+    "id": 369,
+    "text": "Zadaniem agenta w protokole SNMP (Simple Network Management Protocol) jest",
+    "answers": [
+      "archiwizowanie informacji.",
+      "utworzenie bazy danych MIB (Management Information Base).",
+      "wizualizacja topologii sieci.",
+      "wyznaczanie trasy do przekazania pakietów od stacji źródłowej do docelowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 370,
+    "text": "W celu wyeliminowania zbyt dużego ruchu rozgłoszeniowego w sieci administrator powinien",
+    "answers": [
+      "zainstalować zaporę sieciową na każdym komputerze.",
+      "zablokować dostęp użytkownikom do sieci.",
+      "uruchomić program przechwytujący pakiety.",
+      "podzielić sieć na wirtualne podsieci zgodnie z potrzebami."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  },
+  {
+    "id": 371,
+    "text": "Która z par: protokół – warstwa, w której pracuje protokół, jest poprawnie połączona według modelu TCP/IP? * Dwie odpowiedzi są poprawne. Zaznacz obie, aby otrzymać punkt.",
+    "answers": [
+      "DNS - warstwa aplikacji.",
+      "RARP – warstwa transportowa.",
+      "DHCP – warstwa dostępu do sieci.",
+      "ICMP - warstwa Internetu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "INF.07"
+  }
+]
