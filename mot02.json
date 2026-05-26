@@ -1,0 +1,3502 @@
+[
+  {
+    "id": 1,
+    "text": "Na fotografii przedstawiono",
+    "answers": [
+      "filtr paliwa.",
+      "przepływomierz powietrza.",
+      "przepustnicę.",
+      "katalizator spalin."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_ilustracja3.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 2,
+    "text": "Napięcie znamionowe pojedynczego ogniwa akumulatora kwasowo-ołowiowego wynosi",
+    "answers": [
+      "6,2 V",
+      "2,1 V",
+      "1,2 V",
+      "4,1 V"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 3,
+    "text": "Który z wymienionych podzespołów pojazdu samochodowego może wymagać okresowo przeglądu i konserwacji?",
+    "answers": [
+      "Czujnik temperatury silnika.",
+      "Katalizator spalin.",
+      "Zawór recyrkulacji spalin.",
+      "Przepływomierz powietrza."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 4,
+    "text": "Który z wymienionych układów pojazdów samochodowych nie wymaga okresowej obsługi serwisowej?",
+    "answers": [
+      "ABS.",
+      "Klimatyzacji.",
+      "Paliwowy.",
+      "Zapłonowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 5,
+    "text": "W celu wykonania pomiaru natężenia prądu pokrętło multimetru należy ustawić w pozycji oznaczonej cyfrą",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_multimetr7.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 6,
+    "text": "Montując kamerę cofania w pojeździe samochodowym należy",
+    "answers": [
+      "zasilić ją bezpośrednio z akumulatora.",
+      "podpiąć przewód sterowania pod wiązkę oświetlenia świateł pozycyjnych.",
+      "zasilić ją z gniazda zapalniczki.",
+      "podpiąć przewód sterowania pod wiązkę oświetlenia cofania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 7,
+    "text": "Oscyloskop jest narzędziem, które służy do diagnozowania",
+    "answers": [
+      "katalizatora spalin.",
+      "czujnika hallotronowego.",
+      "wtryskiwaczy mechanicznych.",
+      "świecy zapłonowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 8,
+    "text": "Wypełniając zlecenie serwisowe należy odnotować",
+    "answers": [
+      "koszty serwisu.",
+      "części do wymiany.",
+      "kwotę rabatu.",
+      "zakres zleconych prac."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 9,
+    "text": "Podczas jazdy, na desce rozdzielczej zaświeciła się kontrolka pokazana na rysunku, która sygnalizuje",
+    "answers": [
+      "aktywację układu ABS.",
+      "awarię układu sterowania silnikiem.",
+      "odłączenie akumulatora.",
+      "awarię alternatora."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_kontrolka7.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 10,
+    "text": "Przewodność elektryczna właściwa to inaczej",
+    "answers": [
+      "napięcie.",
+      "częstotliwość.",
+      "konduktancja.",
+      "natężenie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 11,
+    "text": "Do zdiagnozowania pracy układu chłodzenia nie wykorzystuje się",
+    "answers": [
+      "wakuometru.",
+      "skanera diagnostycznego OBD.",
+      "pirometru.",
+      "termometru."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 12,
+    "text": "Klema pirotechniczna jest elementem odpowiedzialnym za",
+    "answers": [
+      "odłączenie akumulatora podczas kolizji.",
+      "wystrzał poduszek gazowych.",
+      "zablokowanie pasa bezpieczeństwa podczas kolizji.",
+      "podniesienie wydajności akumulatora podczas rozruchu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 13,
+    "text": "Do zweryfikowania sprawności diody prostowniczej, która zamontowana jest w układzie sterowania służy",
+    "answers": [
+      "woltomierz.",
+      "multimetr uniwersalny.",
+      "manometr.",
+      "skaner diagnostyczny OBD."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 14,
+    "text": "Proces oczyszczenia myjką ultradźwiękową wykorzystywany jest przy regeneracji",
+    "answers": [
+      "wtryskiwaczy paliwa.",
+      "podzespołów elektronicznych.",
+      "katalizatora.",
+      "akumulatora."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 15,
+    "text": "Element przedstawiony na fotografii ma zastosowanie jako czujnik",
+    "answers": [
+      "położenia wału.",
+      "ciśnienia oleju.",
+      "biegu wstecznego.",
+      "spalania stukowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_element3.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 16,
+    "text": "Komutator jest jednym z elementów",
+    "answers": [
+      "przekaźnika.",
+      "rozdzielacza zapłonu.",
+      "rozrusznika.",
+      "układu ABS."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 17,
+    "text": "Regulacja obrotów biegu jałowego silnika z zapłonem samoczynnym ZS odbywa się poprzez",
+    "answers": [
+      "zmianę natężenia prądu sterowania wtryskiwaczem.",
+      "zwiększenie ciśnienia paliwa w pompie wysokiego ciśnienia.",
+      "sterowanie przepustnicą.",
+      "sterowanie dawką paliwa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 18,
+    "text": "Który z wymienionych elementów pojazdu samochodowego nie podlega naprawie?",
+    "answers": [
+      "Wtryskiwacz.",
+      "Turbosprężarka.",
+      "Czujnik spalania stukowego.",
+      "Sterownik silnika."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 19,
+    "text": "Podczas naprawy układu zapłonowego uszkodzone świece zapłonowe należy zastąpić",
+    "answers": [
+      "aktualnie dostępnymi w magazynie.",
+      "takimi jak zdemontowane.",
+      "zalecanymi przez producenta pojazdu.",
+      "dowolnymi świecami zapłonowymi."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 20,
+    "text": "Do diagnozy pracy przepływomierza powietrza służy",
+    "answers": [
+      "skaner diagnostyczny.",
+      "manometr.",
+      "areometr.",
+      "stetoskop."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 21,
+    "text": "Na rysunku przedstawiono symbol",
+    "answers": [
+      "silnika elektrycznego prądu stałego.",
+      "silnika elektrycznego prądu przemiennego.",
+      "prądnicy prądu przemiennego.",
+      "prądnicy prądu stałego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_symbol8.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 22,
+    "text": "Gęstość elektrolitu sprawnego i naładowanego akumulatora kwasowo-ołowiawego powinna wynosić około",
+    "answers": [
+      "1,18 g/cm3",
+      "1,10 g/cm3",
+      "1,35 g/cm3",
+      "1,27 g/cm3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 23,
+    "text": "Na schemacie przedstawiono układ",
+    "answers": [
+      "wtryskowy silnika sześciocylindrowego.",
+      "zapłonowy silnika czterocylindrowego.",
+      "zapłonowy silnika sześciocylindrowego.",
+      "wtryskowy silnika czterocylindrowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_uklad12.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 24,
+    "text": "W instalacji oświetlenia zespolonej lampy tylnej stwierdzono nieprawidłowe połączenie z masą pojazdu. Aby przywrócić sprawność instalacji należy oczyścić połączenie z nadwoziem oraz zabezpieczyć",
+    "answers": [
+      "wazeliną techniczną.",
+      "lakierem bezbarwnym.",
+      "wysokogatunkowym smarem maszynowym.",
+      "smarem ŁT-3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 25,
+    "text": "W pojeździe samochodowym przed rozpoczęciem prac blacharskich bezwzględnie należy",
+    "answers": [
+      "odłączyć oświetlenie.",
+      "odłączyć klemy akumulatora.",
+      "wyłączyć zapłon.",
+      "zdemontować zbiornik paliwa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 26,
+    "text": "Do czynności diagnostycznych układu paliwowego nie zaliczamy",
+    "answers": [
+      "wymiany filtra paliwa.",
+      "kontroli wydajności pompy paliwa.",
+      "pomiaru ciśnienia w listwie paliwowej.",
+      "pomiaru czasów wtrysku paliwa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 27,
+    "text": "Przystępując do demontażu silnika w pojeździe samochodowym należy",
+    "answers": [
+      "zabezpieczyć instalację elektryczną silnika lub, jeśli to konieczne, zdemontować ją.",
+      "zdemontować skrzynię biegów.",
+      "wyłączyć zapłon.",
+      "spuścić paliwo ze zbiornika."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 28,
+    "text": "Za pomocą symbolu graficznego przedstawiono",
+    "answers": [
+      "cewkę elektromagnetyczną.",
+      "przekaźnik przełączający.",
+      "kontaktron.",
+      "transformator."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_symbol7.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 29,
+    "text": "Podczas montażu instalacji alarmowej w pojeździe samochodowym należy",
+    "answers": [
+      "zastosować niezależne zasilanie.",
+      "podpiąć się pod dowolny obwód elektryczny.",
+      "zasilić układ bezpośrednio z akumulatora.",
+      "oznaczyć w widoczny sposób przewody instalacji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 30,
+    "text": "Po przeprowadzonej naprawie blacharsko-lakierniczej należy",
+    "answers": [
+      "zabezpieczyć wiązki elektryczne taśmą izolacyjną.",
+      "sprawdzić instalację elektryczną miernikiem uniwersalnym.",
+      "ułożyć instalację elektryczną w sposób uniemożliwiający jej uszkodzenie w  trakcie eksploatacji.",
+      "oczyścić instalację elektryczną z kurzu lakierniczego myjką wysokociśnieniową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 31,
+    "text": "Do naprawy którego z układów nie zaleca się stosowania podzespołów używanych pochodzących z demontażu?",
+    "answers": [
+      "ABS.",
+      "Paliwowego.",
+      "Oświetlenia.",
+      "Zapłonowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 32,
+    "text": "Który z wymienionych elementów pojazdów samochodowych może okresowo wymagać oczyszczenia i kalibracji?",
+    "answers": [
+      "Przepustnica.",
+      "Alternator.",
+      "MAP sensor.",
+      "Rozrusznik."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 33,
+    "text": "W celu zdiagnozowania czujnika uderzenia w układzie SRS należy",
+    "answers": [
+      "przeprowadzić diagnostykę komputerową.",
+      "wymienić czujnik na inny.",
+      "dokonać pomiaru napięcia wyjściowego.",
+      "dokonać pomiaru zmian rezystancji czujnika."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 34,
+    "text": "Jaki będzie całkowity koszt przeglądu okresowego silnika czterocylindrowego o zapłonie iskrowym, jeśli dodatkowo będzie konieczna wymiana świec i przewodów zapłonowych, a czas dodatkowych napraw wynosi 2rbh?",
+    "answers": [
+      "480,00 zł",
+      "1 220,00 zł",
+      "670,00 zł",
+      "620,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_tabela56.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 35,
+    "text": "Amperomierz jest miernikiem, który służy do pomiaru",
+    "answers": [
+      "napięcia na biegunach akumulatora.",
+      "rezystancji cewki przekaźnika.",
+      "natężenia prądu ładowania.",
+      "pojemności kondensatora."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 36,
+    "text": "Przed doładowaniem akumulatora w okresie zimowym należy",
+    "answers": [
+      "wymontować go z komory silnika.",
+      "sprawdzić i uzupełnić poziom elektrolitu.",
+      "zabezpieczyć klemy wazeliną techniczną.",
+      "ogrzać go do temperatury pokojowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 37,
+    "text": "Do okresowych czynności obsługowych układu zapłonowego należy",
+    "answers": [
+      "wymiana cewki wysokiego napięcia.",
+      "regulacja kąta wyprzedzenia zapłonu.",
+      "kontrola i wymiana świec zapłonowych.",
+      "konserwacja modułu zapłonowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 38,
+    "text": "Podczas diagnostyki silnika spalinowego z zapłonem samoczynnym ZS stwierdzono termiczne uszkodzenie – wypalenie tłoka. Prawdopodobną przyczyną jest nieprawidłowa praca",
+    "answers": [
+      "katalizatora.",
+      "układu EGR.",
+      "świec żarowych.",
+      "wtryskiwacza."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 39,
+    "text": "Kontrolę pracy turbosprężarki przeprowadza się",
+    "answers": [
+      "komputerem diagnostycznym OBD.",
+      "analizatorem spalin.",
+      "wakuometrem.",
+      "multimetrem uniwersalnym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 40,
+    "text": "Do zdiagnozowania pracy układu chłodzenia wykorzystuje się",
+    "answers": [
+      "skaner diagnostyczny OBD.",
+      "manometr.",
+      "pirometr.",
+      "termometr."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 41,
+    "text": "Napięcie znamionowe pojedynczego ogniwa akumulatora kwasowo-ołowiowego wynosi około",
+    "answers": [
+      "1,2 V",
+      "4,1 V",
+      "2,1 V",
+      "6,2 V"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 42,
+    "text": "Element przedstawiony na ilustracji ma zastosowanie jako czujnik",
+    "answers": [
+      "ciśnienia oleju.",
+      "spalania stukowego.",
+      "położenia wału.",
+      "biegu wstecznego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_element3.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 43,
+    "text": "Który z wymienionych elementów nie podlega regeneracji?",
+    "answers": [
+      "Wtryskiwacz paliwa.",
+      "Prądnica.",
+      "Turbosprężarka.",
+      "Kurtyna powietrzna."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 44,
+    "text": "Montując kamerę cofania w pojeździe samochodowym, należy",
+    "answers": [
+      "zasilić ją z gniazda zapalniczki.",
+      "zasilić ją bezpośrednio z akumulatora.",
+      "podpiąć przewód sterowania pod wiązkę oświetlenia świateł pozycyjnych.",
+      "podpiąć przewód sterowania pod wiązkę oświetlenia cofania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 45,
+    "text": "Wypełniając zlecenie serwisowe, należy odnotować",
+    "answers": [
+      "koszty serwisu.",
+      "zakres zleconych prac.",
+      "części do wymiany.",
+      "dane właściciela."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 46,
+    "text": "Dopuszczalna wartość emisji tlenków azotu według normy EURO 6 wynosi",
+    "answers": [
+      "100 mg/kWh",
+      "400 mg/kWh",
+      "4000 mg/kWh",
+      "1000 mg/kWh"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 47,
+    "text": "Do czynności diagnostycznych układu paliwowego nie zalicza się",
+    "answers": [
+      "wymiany filtra paliwa.",
+      "pomiaru czasów wtrysku paliwa.",
+      "kontroli wydajności pompy paliwa.",
+      "pomiaru ciśnienia w listwie paliwowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 48,
+    "text": "W instalacji oświetlenia zespolonej lampy tylnej stwierdzono nieprawidłowe połączenie z masą pojazdu. Aby przywrócić sprawność instalacji, należy oczyścić połączenie z nadwoziem oraz zabezpieczyć",
+    "answers": [
+      "smarem ŁT-3.",
+      "lakierem bezbarwnym.",
+      "wazeliną techniczną.",
+      "wysokogatunkowym smarem maszynowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 49,
+    "text": "Na ilustracji przedstawiono",
+    "answers": [
+      "filtr paliwa.",
+      "przepustnicę.",
+      "przepływomierz powietrza.",
+      "katalizator spalin."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_ilustracja3.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 50,
+    "text": "Podczas jazdy samochodem na desce rozdzielczej zaświeciła się zamieszczona kontrolka, która sygnalizuje",
+    "answers": [
+      "awarię alternatora.",
+      "odłączenie akumulatora.",
+      "awarię układu sterowania silnikiem.",
+      "aktywację układu ABS."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_kontrolka7.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 51,
+    "text": "Przystępując do demontażu silnika w pojeździe samochodowym, należy",
+    "answers": [
+      "spuścić paliwo ze zbiornika.",
+      "zdemontować skrzynię biegów.",
+      "wyłączyć zapłon.",
+      "zabezpieczyć instalację elektryczną silnika lub, jeśli to konieczne, ją zdemontować."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 52,
+    "text": "Okresowa obsługa układu zapłonowego obejmuje",
+    "answers": [
+      "wymianę cewki wysokiego napięcia.",
+      "konserwację modułu zapłonowego.",
+      "regulację naprężenia paska alternatora.",
+      "kontrolę i wymianę świec zapłonowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 53,
+    "text": "Jaki będzie całkowity koszt przeglądu okresowego silnika ZI4R, jeśli dodatkowo będzie konieczna wymiana świec i przewodów zapłonowych, a czas dodatkowych napraw wynosi 2 rbh?",
+    "answers": [
+      "1 220,00 zł",
+      "480,00 zł",
+      "620,00 zł",
+      "670,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_tabela49.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 54,
+    "text": "Do zweryfikowania sprawności diody prostowniczej, która zamontowana jest w układzie sterowania, służy",
+    "answers": [
+      "woltomierz.",
+      "manometr.",
+      "skaner diagnostyczny OBD.",
+      "multimetr uniwersalny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 55,
+    "text": "W celu wykonania pomiaru natężenia prądu pokrętło multimetru należy ustawić w pozycji oznaczonej na rysunku cyfrą",
+    "answers": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_multimetr7.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 56,
+    "text": "Na rysunku przedstawiono układ",
+    "answers": [
+      "chłodzenia.",
+      "doładowania.",
+      "klimatyzacji.",
+      "zasilania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mot02/mg12_uklad.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 57,
+    "text": "Którym z przedstawionych przyrządów dokonuje się pomiaru rezystancji w obwodzie?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot02/mg12_przyrzady.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 58,
+    "text": "Na ilustracji przedstawiony jest",
+    "answers": [
+      "regulator ciśnienia paliwa.",
+      "wtryskiwacz elektromagnetyczny.",
+      "zawór recyrkulacji spalin.",
+      "czujnik ciśnienia bezwzględnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot02/mg12_ilustracja.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 59,
+    "text": "Po uruchomieniu silnika zaświeca się przedstawiona na rysunku lampka kontrolna. Sygnalizuje ona",
+    "answers": [
+      "niski poziom płynu w układzie chłodzenia.",
+      "awarię w układzie sterowania silnika.",
+      "załączenie reduktora.",
+      "uszkodzenie w obwodzie  świec żarowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot02/mg12_lampka2.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 60,
+    "text": "Przy przebiegu powyżej 100 000 km w pojeździe z silnikiem o zapłonie samoczynnym doszło do zapełnienia filtra cząstek stałych. W celu usunięcia usterki w pierwszej kolejności należy",
+    "answers": [
+      "dokonać wymiany filtra na nowy.",
+      "zainicjować proces wypalania, używając oprogramowania serwisowego.",
+      "zdemontować filtr z układu wydechowego.",
+      "dokonać chemicznego oczyszczenia tego filtra."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 61,
+    "text": "Procedura sprawdzenia przekaźnika kontaktronowego nie obejmuje pomiaru",
+    "answers": [
+      "impedancji cewki elektromagnetycznej.",
+      "rezystancji styków roboczych w stanie spoczynku.",
+      "rezystancji styków roboczych w stanie załączenia.",
+      "reakcji na zewnętrzne pole magnetyczne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 62,
+    "text": "Na którym rysunku przedstawiony jest wtryskiwacz paliwa?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mot02/mg12_rysunki.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 63,
+    "text": "Na podstawie tabeli wskaż części i materiały eksploatacyjne niezbędne do wykonania naprawy po przeglądzie instalacji elektrycznej pojazdu.",
+    "answers": [
+      "Komplet świec zapłonowych, komplet piór wycieraczek, woda destylowana, płyn do spryskiwaczy.",
+      "Akumulator, prawy reflektor, komplet piór wycieraczek, płyn do spryskiwaczy.",
+      "Woda destylowana, lewy reflektor, komplety piór wycieraczek, płyn do spryskiwaczy, komplet świec zapłonowych.",
+      "Płyn do spryskiwaczy, prawy reflektor, woda destylowana, dwa komplety piór wycieraczek."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot02/mg12_tabela.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 64,
+    "text": "W karcie gwarancyjnej turbosprężarki zamontowanej w pojeździe należy podać",
+    "answers": [
+      "moc silnika pojazdu.",
+      "datę zamontowania turbosprężarki.",
+      "datę pierwszej rejestracji pojazdu.",
+      "dane teleadresowe właściciela pojazdu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 65,
+    "text": "Który z uszkodzonych podzespołów pojazdu samochodowego może być poddany naprawie lub regeneracji?",
+    "answers": [
+      "Cewka zapłonowa.",
+      "Świeca żarowa.",
+      "Czujnik indukcyjny.",
+      "Alternator."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 66,
+    "text": "Na wykresie przedstawiona jest charakterystyka czujnika",
+    "answers": [
+      "indukcyjnego.",
+      "piezoelektrycznego.",
+      "termistorowego.",
+      "hallotronowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot02/mg12_wykres.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 67,
+    "text": "Uzwojenie wzbudzenia w alternatorze znajduje się w podzespole oznaczonym cyfrą",
+    "answers": [
+      "5",
+      "9",
+      "7",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot02/mg12_alternator.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 68,
+    "text": "System SCR w pojeździe jest układem",
+    "answers": [
+      "stabilizacji toru jazdy.",
+      "oczyszczania spalin.",
+      "diagnostyki pokładowej.",
+      "zapobiegającym blokowanie kół pojazdu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 69,
+    "text": "Aby ocenić poprawność pracy sondy lambda, należy się posłużyć",
+    "answers": [
+      "decybelomierzem.",
+      "skanerem OBD.",
+      "anemometrem.",
+      "pirometrem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 70,
+    "text": "Aby zabezpieczyć zamontowany dodatkowo układ podgrzewania dysz spryskiwacza o maksymalnej mocy 50W w 12V instalacji elektrycznej pojazdu, należy zastosować standardowy bezpiecznik o wartości natężenia prądu",
+    "answers": [
+      "5 A",
+      "10 A",
+      "30 A",
+      "20 A"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 71,
+    "text": "W trakcie sprawdzania instalacji oświetlenia pojazdu w prawej lampie zespolonej zaobserwowano równoczesne zapalanie się i przygasanie wszystkich świateł. Objawy te wskazują na",
+    "answers": [
+      "zwarcie w żarówce kierunkowskazu.",
+      "uszkodzone lustro lampy zespolonej.",
+      "uszkodzone połączenie lampy zespolonej z masą pojazdu.",
+      "uszkodzony przerywacz kierunkowskazu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 72,
+    "text": "Przystępując do demontażu alternatora w pojeździe, należy bezwzględnie pamiętać o",
+    "answers": [
+      "zabezpieczeniu wnętrza.",
+      "wyłączeniu wszystkich odbiorników.",
+      "wyłączeniu zapłonu.",
+      "odłączeniu akumulatora."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 73,
+    "text": "Na rysunku przedstawiono schemat",
+    "answers": [
+      "regulatora napięcia.",
+      "przekaźnika typu NC.",
+      "układu prostowniczego.",
+      "przekaźnika typu NO."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot02/mg12_schemat.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 74,
+    "text": "Zaświecenie się w czasie jazdy lampki PRS sygnalizuje awarię systemu * zdający otrzymuje jeden punkt niezależnie od udzielonej odpowiedzi.",
+    "answers": [
+      "hamulcowego. \nB. oczyszczania spalin. \nC. stabilizacji toru jazdy. \nD. poduszek powietrznych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 75,
+    "text": "Po regeneracji przepustnicy silnika spalinowego, w celu zapewnienia prawidłowej pracy jednostki napędowej należy wykonać kalibrację przepustnicy, posługując się",
+    "answers": [
+      "multimetrem uniwersalnym.",
+      "oprogramowaniem diagnostycznym.",
+      "szczelinomierzem.",
+      "lampą stroboskopową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 76,
+    "text": "Na tablicy rozdzielczej wyświetliła się informacja o usterce systemu ABS. Którym przyrządem dokonasz diagnostyki tego układu?",
+    "answers": [
+      "Diagnoskopem systemu OBD.",
+      "Multimetrem uniwersalnym.",
+      "Oscyloskopem elektronicznym.",
+      "Amperomierzem cęgowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 77,
+    "text": "Zaświecenie się w czasie jazdy lampki kontrolnej przedstawionej na rysunku informuje kierowcę o prawdopodobnej usterce w układzie",
+    "answers": [
+      "ABS.",
+      "hamulcowym.",
+      "kierowniczym.",
+      "ESP."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot02/mg12_lampka.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 78,
+    "text": "W pełni naładowany i sprawny akumulator samochodowy na postoju powinien wytwarzać napięcie na poziomie",
+    "answers": [
+      "12,0 V",
+      "12,6 V",
+      "13,4 V",
+      "14,4 V"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 79,
+    "text": "Wartość napięcia na zaciskach akumulatora przy uruchomionym silniku na biegu jałowym powinna wynosić około",
+    "answers": [
+      "14,4 V",
+      "12,6 V",
+      "13,4 V",
+      "12,0 V"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 80,
+    "text": "Wykorzystując informacje zapisane w tabeli oblicz, jaki będzie całkowity koszt usunięcia usterki w systemie parktronic, jeżeli do wymiany są trzy tylne czujniki oraz wiązka elektryczna w zderzaku, a naprawa zajmie 3 godziny.",
+    "answers": [
+      "200,00 PLN",
+      "250,00 PLN",
+      "360,00 PLN",
+      "410,00 PLN"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot02/mg12_tabela3.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 81,
+    "text": "W układzie zasilacza uszkodzony tranzystor można zastąpić",
+    "answers": [
+      "dwiema diodami i tyrystorem.",
+      "jedynie takim samym typem tranzystora.",
+      "dwoma tyrystorami.",
+      "dwiema diodami prostowniczymi."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 82,
+    "text": "Posługując się amperomierzem cęgowym, można dokonać pomiaru",
+    "answers": [
+      "natężenia prądu podczas pracy rozrusznika.",
+      "pracy regulatora napięcia.",
+      "napięcia zasilania układu zapłonowego.",
+      "natężenia prądu w antenie samochodowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 83,
+    "text": "Na podstawie danych w tabeli oblicz, jaki będzie całkowity koszt naprawy silnika R6 2.0 24v, jeżeli stwierdzono uszkodzenie wszystkich świec zapłonowych oraz cewek zapłonowych pierwszego i trzeciego cylindra, a naprawa zajmie dwie godziny.",
+    "answers": [
+      "610,00 PLN",
+      "370,00 PLN",
+      "440,00 PLN",
+      "500,00 PLN"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot02/mg12_tabela2.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 84,
+    "text": "Zakres czynności związanych z obsługą i diagnostyką zdemontowanej pompy paliwa na stanowisku pomiarowym obejmuje sprawdzenie",
+    "answers": [
+      "wydajności pompy.",
+      "filtra paliwa.",
+      "natężenia generowanego hałasu.",
+      "zużycia łożysk."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 85,
+    "text": "Na schemacie alternatora elipsą zaznaczono",
+    "answers": [
+      "szczotki regulatora napięcia.",
+      "układ Graetza.",
+      "mostek prostowniczy alternatora.",
+      "diody obwodu wzbudzenia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot02/mg12_schemat2.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 86,
+    "text": "Po uruchomieniu silnika jest odczuwalne i widoczne na obrotomierzu falowanie obrotów na biegu jałowym. Objawy takie wskazują na",
+    "answers": [
+      "zanieczyszczenie przepustnicy.",
+      "usterkę układu zapłonowego.",
+      "usterkę układu zasilania.",
+      "uszkodzenie sondy lambda."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 87,
+    "text": "Wykonując tzw. test przelewowy dokona się oceny",
+    "answers": [
+      "pojemności skokowej silnika.",
+      "szczelności zaworów głowicy.",
+      "zanieczyszczenia filtra DPF.",
+      "sprawności wtryskiwaczy paliwa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 88,
+    "text": "Pirometrem przedstawionym na rysunku możemy dokonać pomiaru",
+    "answers": [
+      "rezystancji żarnika halogenowego.",
+      "wydajności układu klimatyzacji.",
+      "natężenia przepływu prądu.",
+      "gęstości elektrolitu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot02/mg12_pirometr.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 89,
+    "text": "Symbol graficzny przedstawiony na rysunku oznacza",
+    "answers": [
+      "tyrystor.",
+      "tranzystor.",
+      "diodę prostowniczą.",
+      "przekaźnik NO."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot02/mg12_symbol.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 90,
+    "text": "Podczas jazdy pojawia się informacja o nieprawidłowym działaniu systemu ESP. Przyczyną nieprawidłowego działania tego układu może być",
+    "answers": [
+      "uszkodzenie w układzie czujników ABS.",
+      "nieprawidłowa praca obrotomierza.",
+      "nieprawidłowa praca prędkościomierza.",
+      "nieprawidłowa geometria układu kierowniczego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 91,
+    "text": "W celu sprawdzenia poprawności działania czujnika prędkości obrotowej koła w układzie ABS należy dokonać pomiaru",
+    "answers": [
+      "natężenia prądu, który przez niego przepływa.",
+      "reaktancji pojemnościowej.",
+      "wartości napięcia, jakie jest do niego przyłożone.",
+      "generowanego sygnału wyjściowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 92,
+    "text": "Wartość rezystancji włókna żarnika żarówki samochodowej 12 V o mocy 4 W, pracującej w obwodzie prądu stałego, wynosi",
+    "answers": [
+      "36 Ω",
+      "5 Ω",
+      "12 Ω",
+      "22 Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 93,
+    "text": "Przystępując do demontażu elementów układu SRS, należy",
+    "answers": [
+      "odłączyć sterownik SRS.",
+      "dezaktywować układ SRS przez zdjęcie zasilania z układu.",
+      "wyłączyć zapłon.",
+      "wyłączyć poduszkę czołową pasażera."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 94,
+    "text": "Na ilustracji jest przedstawiony",
+    "answers": [
+      "rozrusznik.",
+      "alternator.",
+      "układ wspomagania.",
+      "silnik nagrzewnicy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mot02/mg12_ilustracja2.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 95,
+    "text": "Zakres czynności związanych z obsługą i diagnostyką zamontowanego w pojeździe alternatora nie obejmuje",
+    "answers": [
+      "oceny pierścieni wirnika.",
+      "sprawdzenia napięcia ładowania.",
+      "kontroli stanu łożysk.",
+      "kontroli koła pasowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 96,
+    "text": "W składzie spalin symbol NOx określa",
+    "answers": [
+      "ilość cząstek stałych.",
+      "współczynnik toksyczności spalin.",
+      "ilość tlenków azotu.",
+      "współczynnik nadmiaru powietrza."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 97,
+    "text": "Podczas naprawy i diagnozowania układu chłodzenia temperaturę poszczególnych podzespołów ocenia się",
+    "answers": [
+      "odczytując wskazania na desce rozdzielczej.",
+      "organoleptycznie.",
+      "termometrem alkoholowym.",
+      "pirometrem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 98,
+    "text": "Jeżeli w układzie klimatyzacji sprężarka załącza się, ilość czynnika jest prawidłowa, a pomimo tego parownik nie schładza się, to prawdopodobną przyczyną usterki jest",
+    "answers": [
+      "wysoka temperatura otoczenia.",
+      "awaria silnika dmuchawy.",
+      "przepalenie bezpiecznika.",
+      "awaria zaworu rozprężnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 99,
+    "text": "Który element nie podlega regeneracji?",
+    "answers": [
+      "Turbosprężarka.",
+      "Alternator.",
+      "Pas bezpieczeństwa z napinaczem.",
+      "Pompa układu wspomagania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 100,
+    "text": "Przebieg sygnału z czujnika hallotronowego przedstawia wykres w kolorze",
+    "answers": [
+      "zielonym.",
+      "niebieskim.",
+      "czerwonym.",
+      "czarnym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_wykres7.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 101,
+    "text": "Działanie sondy lambda można zweryfikować na podstawie",
+    "answers": [
+      "wykonanej analizy spalin.",
+      "odczytów decybelomierza.",
+      "sygnalizacji awarii na desce rozdzielczej.",
+      "odczytów skanera OBD."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 102,
+    "text": "W prądnicach prądu przemiennego (alternatorach) główne uzwojenie robocze zlokalizowane jest w",
+    "answers": [
+      "wirniku.",
+      "stojanie.",
+      "stojanie i mostku prostowniczym.",
+      "stojanie i wirniku."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 103,
+    "text": "Na rysunku przedstawiono",
+    "answers": [
+      "zawór recyrkulacji spalin.",
+      "wtryskiwacz elektromagnetyczny.",
+      "regulator ciśnienia paliwa.",
+      "czujnik temperatury silnika."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_rysunek8.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 104,
+    "text": "Na rysunku rozrusznika cyfrą 4 oznaczono",
+    "answers": [
+      "uzwojenie stojana.",
+      "uzwojenie wirnika.",
+      "cewkę wciągającą.",
+      "komutator."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_rozrusznik2.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 105,
+    "text": "Spalanie mieszanki uwarstwionej jest procesem",
+    "answers": [
+      "charakteryzującym silniki o zapłonie samoczynnym.",
+      "charakteryzującym silniki z wtryskiem bezpośrednim.",
+      "zachodzącym podczas wypalania filtra cząstek stałych.",
+      "niekontrolowanego zapłonu mieszanki paliwowo-powietrznej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 106,
+    "text": "Kolejne obowiązkowe badanie techniczne nowego zarejestrowanego pojazdu należy wykonać w okresie",
+    "answers": [
+      "pięciu lat.",
+      "jednego roku.",
+      "dwóch lat.",
+      "trzech lat."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 107,
+    "text": "Poprawność pracy pompy wysokiego ciśnienia układu commonrail ocenia się za pomocą",
+    "answers": [
+      "analizatora spalin.",
+      "odczytów testera diagnostycznego OBD.",
+      "manometru.",
+      "oscyloskopu diagnostycznego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 108,
+    "text": "Którym przyrządem dokonuje się pomiaru kąta wyprzedzenia zapłonu?",
+    "answers": [
+      "Amperomierzem.",
+      "Miernikiem uniwersalnym.",
+      "Lampą stroboskopową.",
+      "Woltomierzem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 109,
+    "text": "Na rysunku przedstawiono symbol przekaźnika",
+    "answers": [
+      "kontaktronowego.",
+      "przełączającego.",
+      "typu NC.",
+      "typu NO."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_symbol4.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 110,
+    "text": "W karcie gwarancyjnej oraz książce serwisowej nowego pojazdu należy wpisać",
+    "answers": [
+      "datę zakończenia okresu gwarancyjnego.",
+      "datę pierwszego przeglądu.",
+      "moc pojazdu.",
+      "datę sprzedaży pojazdu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 111,
+    "text": "Na przedstawionym schemacie alternatora element obwiedziony czerwoną linią to",
+    "answers": [
+      "uzwojenie wirnika.",
+      "diody prostownicze.",
+      "regulator napięcia.",
+      "uzwojenie stojana."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_schemat37.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 112,
+    "text": "Zaświecenie się na desce rozdzielczej lampki kontrolnej przedstawionej na rysunku informuje kierowcę o",
+    "answers": [
+      "usterce układu sterowania silnika.",
+      "niskim napięciu ładowania akumulatora.",
+      "uszkodzeniu świec zapłonowych.",
+      "awarii układu ABS."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_kontrolka6.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 113,
+    "text": "Po włączeniu świateł mijania reflektory przednie działają poprawnie, ale po włączeniu świateł drogowych świeci tylko lewy reflektor. Usuwanie usterki należy rozpocząć od sprawdzenia",
+    "answers": [
+      "wiązki instalacji elektrycznej.",
+      "sprawności przełącznika świateł.",
+      "bezpieczników.",
+      "żarówki światła drogowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 114,
+    "text": "W naprawianym układzie sterowania uszkodzony przekaźnik przełączający można zastąpić",
+    "answers": [
+      "dowolnym typem przekaźnika.",
+      "przekaźnikiem załączającym.",
+      "przekaźnikiem rozłączającym.",
+      "takim samym typem przekaźnika."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 115,
+    "text": "Przedstawiony symbol graficzny oznacza",
+    "answers": [
+      "czujnik indukcyjny.",
+      "przekaźnik kontaktronowy.",
+      "tyrystor.",
+      "diodę prostowniczą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_symbol5.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 116,
+    "text": "Aby zabezpieczyć zamontowany dodatkowo układ podgrzewania dysz spryskiwaczy o maksymalnej mocy 20 W, należy zastosować standardowy bezpiecznik o wartości",
+    "answers": [
+      "5 A",
+      "10 A",
+      "20 A",
+      "30 A"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 117,
+    "text": "Na podstawie danych przedstawionych w tabeli oceń całkowity koszt naprawy układu wtryskowego silnika ZS R4, jeżeli konieczna jest regeneracja wszystkich wtryskiwaczy, regeneracja pompy paliwa oraz czyszczenie układu paliwowego. Przewidziany czas naprawy wynosi 6 rbh.",
+    "answers": [
+      "1 850,00 zł",
+      "950,00 zł",
+      "2 000,00 zł",
+      "2 100,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_tabela47.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 118,
+    "text": "Aby zastąpić uszkodzony rezystor o wartości 100 Ω należy połączyć",
+    "answers": [
+      "równolegle dwa rezystory o wartości 10 Ω.",
+      "szeregowo dwa rezystory o wartości 50 Ω.",
+      "szeregowo dwa rezystory o wartości 10 Ω.",
+      "równolegle dwa rezystory o wartości 50 Ω."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 119,
+    "text": "Podczas dynamicznego przyspieszania z wydechu silnika o zapłonie samoczynnym ZS wydobywa się dym koloru czarnego. Prawdopodobną przyczyną może być",
+    "answers": [
+      "uszkodzony układ wydechowy.",
+      "niskiej jakości paliwo.",
+      "nieprawidłowa praca układu wtryskowego.",
+      "awaria turbosprężarki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 120,
+    "text": "Podczas pracy układ podgrzewania foteli o mocy 170 W, pracujący w instalacji 12 V, pobiera prąd o natężeniu około",
+    "answers": [
+      "30 A",
+      "15 A",
+      "10 A",
+      "25 A"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 121,
+    "text": "Podczas diagnostyki silnika spalinowego z zapłonem samoczynnym ZS za pomocą skanera diagnostycznego stwierdzono spalanie detonacyjne na jednym z cylindrów. Prawdopodobną przyczyną jest nieprawidłowa praca układu",
+    "answers": [
+      "doładowania.",
+      "ładowania.",
+      "wtryskowego.",
+      "zapłonowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 122,
+    "text": "Przystępując do demontażu rozrusznika z komory silnika, należy bezwzględnie pamiętać, aby",
+    "answers": [
+      "zabezpieczyć wnętrze pojazdu przed zabrudzeniem.",
+      "używać izolowanych narzędzi.",
+      "wyłączyć zapłon.",
+      "odłączyć klemy akumulatora."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 123,
+    "text": "Magistrala CAN (Controller Area Network) charakteryzuje się",
+    "answers": [
+      "siecią czujników diagnostycznych.",
+      "centralną jednostką sterującą (Master).",
+      "dwuprzewodową siecią komunikacyjną.",
+      "siecią światłowodową łączącą sterowniki podrzędne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 124,
+    "text": "Na tablicy rozdzielczej wyświetliła się informacja o usterce systemu ABS. Którym przyrządem wykonuje się diagnostykę tego układu?",
+    "answers": [
+      "Oscyloskopem elektronicznym.",
+      "Amperomierzem cęgowym.",
+      "Multimetrem uniwersalnym.",
+      "Testerem diagnostycznym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 125,
+    "text": "Czujnik hallotronowy w pojeździe spełnia rolę czujnika",
+    "answers": [
+      "położenia wałka rozrządu.",
+      "temperatury silnika.",
+      "położenia pedału sprzęgła.",
+      "ciśnienia układu wtryskowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 126,
+    "text": "W celu zdiagnozowania czujnika hallotronowego w układzie sterowania silnika należy dokonać",
+    "answers": [
+      "wymiany czujnika na inny.",
+      "pomiaru napięcia wyjściowego.",
+      "pomiaru sygnału wyjściowego.",
+      "pomiaru zmiany rezystancji czujnika."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 127,
+    "text": "Pulsacyjne świecenie lampki kontrolnej ESP podczas rozpędzania pojazdu informuje kierowcę o",
+    "answers": [
+      "awarii czujnika obrotu koła kierownicy.",
+      "awarii układu stabilizacji toru jazdy.",
+      "awarii układu wspomagania.",
+      "utracie przyczepności kół do podłoża."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 128,
+    "text": "Urządzeniem przedstawionym na ilustracji można",
+    "answers": [
+      "dokonać pomiaru sprawności akumulatora.",
+      "sprawdzić kąt wyprzedzenia zapłonu.",
+      "sprawdzić stan przewodów zapłonowych.",
+      "dokonać pomiaru natężenia prądu podczas pracy rozrusznika."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_urzadzenie2.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 129,
+    "text": "Na rysunku przedstawiono symbol graficzny",
+    "answers": [
+      "prądnicy prądu przemiennego.",
+      "prądnicy prądu stałego.",
+      "silnika prądu stałego.",
+      "silnika prądu przemiennego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_symbol6.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 130,
+    "text": "W pojeździe z instalacją elektryczną o napięciu znamionowym 12 V, w celu zabezpieczenia dodatkowo zamontowanego systemu oświetlenia przestrzeni ładunkowej o mocy 50 W, należy zastosować standardowy bezpiecznik o wartości",
+    "answers": [
+      "2 A",
+      "10 A",
+      "5 A",
+      "15 A"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 131,
+    "text": "Którym urządzeniem dokonuje się oceny stanu układu czujników parkowania?",
+    "answers": [
+      "Multimetrem uniwersalnym.",
+      "Woltomierzem.",
+      "Diagnoskopem systemu OBD.",
+      "Oscyloskopem elektronicznym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 132,
+    "text": "Zaświecenie się w czasie jazdy lampki kontrolnej przedstawionej na rysunku informuje kierowcę o usterce w układzie",
+    "answers": [
+      "hamulcowym.",
+      "chłodzenia.",
+      "sterowania silnika.",
+      "oświetlenia zewnętrznego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_kontrolka5.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 133,
+    "text": "Na podstawie danych przedstawionych w tabeli oceń całkowity koszt usunięcia usterki układu oświetlenia, jeżeli podczas kolizji doszło do uszkodzenia reflektora prawego, halogenów przeciwmgłowych oraz światła kierunkowskazu w błotniku. Po naprawie należy dokonać ustawienia reflektorów, sama naprawa zajmie 3 rbh pracy.",
+    "answers": [
+      "600,00 zł",
+      "800,00 zł",
+      "900,00 zł",
+      "850,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_tabela48.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 134,
+    "text": "Jaki będzie całkowity koszt przeglądu okresowego silnika ZI4R, jeśli dodatkowo będzie konieczna wymiana świec i przewodów zapłonowych, a czas dodatkowych napraw wynosi 2rbh?",
+    "answers": [
+      "1 220,00 zł",
+      "670,00 zł",
+      "480,00 zł",
+      "620,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_tabela49.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 135,
+    "text": "Który z podzespołów układu zapłonowego wymaga okresowej kontroli lub wymiany?",
+    "answers": [
+      "Cewka wysokiego napięcia.",
+      "Moduł układu zapłonowego.",
+      "Sterownik silnika.",
+      "Świece zapłonowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 136,
+    "text": "Diagnozując działanie układu klimatyzacji, należy sprawdzić",
+    "answers": [
+      "pojemność układu chłodzenia.",
+      "maksymalne obroty sprężarki.",
+      "ciśnienie tłoczenia sprężarki.",
+      "temperaturę czynnika chłodzącego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 137,
+    "text": "Najtrafniejszą diagnozę poprawności działania wtryskiwaczy paliwa silnika wysokoprężnego otrzymuje się przez",
+    "answers": [
+      "badanie na stole probierczym.",
+      "diagnostykę komputerową.",
+      "pomiar pojemności.",
+      "analizę spalin."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 138,
+    "text": "Układ zasilania zamontowanej w samochodzie terenowym wciągarki elektrycznej należy podłączyć",
+    "answers": [
+      "do gniazda zasilania w kabinie o minimalnej mocy 100 W.",
+      "pośrednio do niezależnego zasilania zewnętrznego.",
+      "bezpośrednio do akumulatora z niezależnym zabezpieczeniem.",
+      "do układu zasilania świateł postojowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 139,
+    "text": "Okresowe oczyszczenie gwarantuje poprawną pracę i zapobiega uszkodzeniu",
+    "answers": [
+      "czujnika indukcyjnego.",
+      "pompy paliwa.",
+      "zaworu recyrkulacji spalin.",
+      "wtryskiwaczy paliwa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 140,
+    "text": "Przed przystąpieniem do eksploatacji pojazdu po kilkuletniej przerwie należy",
+    "answers": [
+      "wykonać przegląd układu paliwowego.",
+      "wymienić wszystkie żarówki na nowe.",
+      "poddać rozrusznik i alternator regeneracji.",
+      "wykonać diagnostykę komputerową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 141,
+    "text": "W celu sprawdzenia poprawności działania czujnika temperatury w układzie chłodzenia należy przeprowadzić pomiar",
+    "answers": [
+      "generowanego sygnału wyjściowego.",
+      "zmiany indukcyjności czujnika.",
+      "zmiany rezystancji czujnika.",
+      "zmiany pojemności elektrycznej czujnika."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 142,
+    "text": "Po przeprowadzeniu prac lakierniczych przedziału pasażerskiego pojazdu należy koniecznie",
+    "answers": [
+      "obejrzeć i zabezpieczyć instalację elektryczną taśmą izolacyjną.",
+      "zastosować maty wygłuszające.",
+      "przejrzeć i oczyścić instalacją elektryczną w obrębie naprawy.",
+      "pokryć komorę środkiem przeciwkorozyjnym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 143,
+    "text": "Podczas diagnostyki silnika spalinowego z zapłonem iskrowym ZI stwierdzono falowanie obrotów podczas wciskania pedału hamulca. Prawdopodobną przyczyną jest usterka",
+    "answers": [
+      "układu ABS.",
+      "serwomechanizmu.",
+      "układu wtryskowego.",
+      "sterowania turbosprężarką."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 144,
+    "text": "Jaki będzie ostateczny rachunek za naprawę, jeżeli koszt części zamiennych wyniósł 800 zł, a robocizny 200 zł. Na naprawę udzielono rabatu: 10% na części zamienne oraz 20% na robociznę.",
+    "answers": [
+      "800,00 PLN",
+      "800,00 PLN",
+      "1 000,00 PLN",
+      "900,00 PLN"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 145,
+    "text": "Próba przelewowa jest metodą diagnostyczną stosowaną przy diagnozowaniu",
+    "answers": [
+      "wtryskiwaczy.",
+      "układu korbowo-tłokowego.",
+      "filtra cząstek stałych.",
+      "pompy paliwa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 146,
+    "text": "Przedstawiony na ilustracji element elektroniczny to",
+    "answers": [
+      "dioda prostownicza.",
+      "kondensator.",
+      "rezystor.",
+      "stabilizator."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_element5.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 147,
+    "text": "System BCM Body Control Module w pojeździe jest układem",
+    "answers": [
+      "sterowania układami elektrycznymi nadwozia.",
+      "zapobiegającym blokowaniu kół pojazdu.",
+      "diagnostyki pokładowej.",
+      "awaryjnego hamowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 148,
+    "text": "Jaki będzie całkowity koszt naprawy, jeżeli cena netto części zamiennych wynosi 500 zł, a koszt robocizny 200 zł netto przy stawce VAT 23% na części i 8% na usługę?",
+    "answers": [
+      "861,00 PLN",
+      "831,00 PLN",
+      "756,00 PLN",
+      "700,00 PLN"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 149,
+    "text": "Lampą stroboskopową ocenia się poprawność działania układu",
+    "answers": [
+      "wydechowego.",
+      "zapłonowego.",
+      "doładowania.",
+      "zasilania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 150,
+    "text": "Na tablicy rozdzielczej wyświetliła się informacja o awarii układu ładowania akumulatora. Którym urządzeniem najszybciej można zbadać poprawność pracy układu?",
+    "answers": [
+      "Miernikiem uniwersalnym.",
+      "Amperomierzem cęgowym.",
+      "Diagnoskopem systemu OBD.",
+      "Oscyloskopem elektronicznym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 151,
+    "text": "Którego z wymienionych podzespołów nie należy naprawiać?",
+    "answers": [
+      "Wtryskiwacza paliwa.",
+      "Sterownika silnika.",
+      "Turbosprężarki.",
+      "Modułu ABS."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 152,
+    "text": "Na ilustracji przedstawiono uszkodzenie komutatora wirnika rozrusznika. Najlepszą metodą naprawy tak uszkodzonego rozrusznika będzie",
+    "answers": [
+      "napawanie i obróbka.",
+      "oczyszczenie i wymiana szczotek prądowych.",
+      "wymiana wirnika.",
+      "przetoczenie komutatora."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_wirnik.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 153,
+    "text": "Który z programów komputerowych służy do diagnostyki pojazdu?",
+    "answers": [
+      "KTS 750",
+      "Eurotax",
+      "Grand Theft Auto",
+      "Autodata"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 154,
+    "text": "Diagnostykę katalizatora spalin należy przeprowadzić",
+    "answers": [
+      "w trakcie jazdy testowej.",
+      "na postoju przed uruchomieniem silnika.",
+      "po uruchomieniu i rozgrzaniu silnika.",
+      "po demontażu na stole diagnostycznym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 155,
+    "text": "Wykonując montaż zakupionego zestawu świateł do jazdy dziennej, wartość bezpiecznika zabezpieczającego układ należy dobrać na podstawie",
+    "answers": [
+      "mocy układu świateł mijania.",
+      "przekroju przewodu zasilania.",
+      "dołączonej instrukcji montażu.",
+      "mocy poszczególnych elementów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 156,
+    "text": "Zakres czynności związanych z diagnozowaniem rozrusznika na stanowisku kontrolno-pomiarowym nie obejmuje sprawdzenia",
+    "answers": [
+      "wieńca zębatego na kole zamachowym.",
+      "pracy pod obciążeniem.",
+      "cewki elektromagnetycznej.",
+      "działania mechanizmu sprzęgającego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 157,
+    "text": "Podświetlenie się w czasie jazdy kontrolki widocznej na rysunku sygnalizuje kierowcy",
+    "answers": [
+      "usterkę układu kontroli trakcji.",
+      "usterkę paska wieloklinowego.",
+      "utratę przyczepności kół.",
+      "utratę ciśnienia w jednym z kół."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_kontrolka8.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 158,
+    "text": "Pomiar którego z parametrów zalicza się do zakresu diagnozowania pompy paliwa układu common rail?",
+    "answers": [
+      "Wydajności.",
+      "Siły ssania.",
+      "Ciśnienia tłoczenia.",
+      "Temperatury paliwa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 159,
+    "text": "Diagnozując usterkę magistrali CAN, najlepiej posłużyć się",
+    "answers": [
+      "komputerem diagnostycznym.",
+      "barometrem.",
+      "watomierzem.",
+      "spektrofotometrem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 160,
+    "text": "Bezpiecznik o jakiej wartości prądowej należy zastosować w pojeździe z instalacją 12 V do zabezpieczenia dodatkowo zamontowanego układu o mocy 180 W?",
+    "answers": [
+      "20 A",
+      "10 A",
+      "5 A",
+      "7,5 A"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 161,
+    "text": "Jaki przebieg napięcia przedstawiono na wykresie?",
+    "answers": [
+      "Tętniący.",
+      "Zmienny.",
+      "Przemienny.",
+      "Stały."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_wykres8.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 162,
+    "text": "Konieczność okresowej wymiany świec zapłonowych wynika",
+    "answers": [
+      "z daty przydatności.",
+      "z przepisów prawa.",
+      "z warunków gwarancji.",
+      "ze zużycia eksploatacyjnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 163,
+    "text": "Na schemacie przedstawiono",
+    "answers": [
+      "prądnicę prądu stałego.",
+      "podłączenie silnika trójfazowego w trójkąt.",
+      "podłączenie silnika trójfazowego w gwiazdę.",
+      "ogniwo prądu stałego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_schemat40.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 164,
+    "text": "Przystępując do demontażu elementów układów sterowania silnika i zapłonowego w pojeździe, należy w pierwszej kolejności",
+    "answers": [
+      "podłączyć uziemienie pojazdu.",
+      "odłączyć klemy akumulatora.",
+      "dezaktywować układ komputerem serwisowym.",
+      "zabezpieczyć wnętrze pojazdu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 165,
+    "text": "W trakcie przyjmowania pojazdu do serwisu pracownik powinien zwrócić szczególną uwagę na",
+    "answers": [
+      "stan powłoki lakierniczej.",
+      "stan ogumienia.",
+      "poziom płynów eksploatacyjnych.",
+      "działanie wyposażenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 166,
+    "text": "Jaki będzie całkowity koszt usunięcia usterki układu ABS, jeżeli doszło do uszkodzenia czujnika lewego przedniego koła. Naprawa układu zajmie mechanikowi cztery godziny pracy, a po wykonaniu naprawy konieczne jest usunięcie kodów błędu z pamięci sterownika.",
+    "answers": [
+      "450,00 PLN",
+      "500,00 PLN",
+      "400,00 PLN",
+      "350,00 PLN"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_tabela51.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 167,
+    "text": "Która z wymienionych metod diagnostycznych jest najbardziej precyzyjna?",
+    "answers": [
+      "Wzrokowa.",
+      "Słuchowa.",
+      "Pomiarowa.",
+      "Dotykowa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 168,
+    "text": "Podczas wypełniania zlecenia serwisowego w miejsce opisane jako „Numer identyfikacyjny pojazdu” należy wpisać numer",
+    "answers": [
+      "VIN.",
+      "karty pojazdu.",
+      "dowodu rejestracyjnego.",
+      "rejestracyjny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 169,
+    "text": "Przystępując do naprawy blacharskiej z użyciem palnika plazmowego, należy",
+    "answers": [
+      "osłonić komorę silnika kocem gaśniczym.",
+      "zdemontować układ paliwowy.",
+      "zdemontować instalację elektryczną w obrębie naprawy.",
+      "odłączyć układ poduszek powietrznych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 170,
+    "text": "Którym z wymienionych przyrządów należy się posłużyć wykonując pomiar podciśnienia w układzie sterowania turbosprężarką?",
+    "answers": [
+      "Decybelomierzem.",
+      "Wakuometrem.",
+      "Analizatorem spalin.",
+      "Pirometrem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 171,
+    "text": "W naprawianym układzie zasilania uszkodzony transformator 230V/12 30A można zastąpić transformatorem",
+    "answers": [
+      "230V/24 30A",
+      "230V/12 20A",
+      "230V/24 20A",
+      "230V/12 40A"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 172,
+    "text": "Który z wymienionych układów pojazdów samochodowych nie wymaga okresowej obsługi?",
+    "answers": [
+      "Klimatyzacji.",
+      "Zapłonowy.",
+      "Ładowania.",
+      "Paliwowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 173,
+    "text": "Podczas uruchomienia pojazdu przez okres pięciu sekund świeci się kontrolka ABS. Takie działanie informuje nas o",
+    "answers": [
+      "awarii systemu ABS.",
+      "niskim poziomie płynu hamulcowego.",
+      "awarii układu hamulcowego.",
+      "sprawności systemu ABS."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 174,
+    "text": "Który z wymienionych podzespołów pojazdów samochodowych wymaga okresowej obsługi?",
+    "answers": [
+      "Czujnik układu ABS.",
+      "Aparat zapłonowy.",
+      "Sonda lambda.",
+      "Żarówka H4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 175,
+    "text": "W czasie diagnostyki silnika spalinowego z zapłonem samoczynnym ZS stwierdzono, że podczas zwiększania prędkości obrotowej silnika przewody chłodnicy powietrza są „zasysane”. Świadczy to o uszkodzeniu",
+    "answers": [
+      "układu EGR.",
+      "wtryskiwacza.",
+      "katalizatora.",
+      "turbosprężarki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 176,
+    "text": "Jaki będzie całkowity koszt naprawy silnika ZI6R, jeżeli konieczna jest wymiana świec i przewodów zapłonowych, a czas naprawy wynosi 2 rbh?",
+    "answers": [
+      "460,00 zł",
+      "590,00 zł",
+      "510,00 zł",
+      "390,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_tabela55.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 177,
+    "text": "Wykonanie próby przelewowej pozwala na ocenę stanu",
+    "answers": [
+      "filtra układu paliwowego.",
+      "zaworu regulacji ciśnienia paliwa.",
+      "pompy wysokiego ciśnienia.",
+      "wtryskiwaczy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 178,
+    "text": "Proces oczyszczenia filtra cząstek stałych odbywa się poprzez",
+    "answers": [
+      "zamknięcie zaworu EGR.",
+      "obniżenie temperatury spalin.",
+      "maksymalne otwarcie zaworu EGR.",
+      "podniesienie temperatury spalin."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 179,
+    "text": "Na fotografii przedstawiono wtryskiwacz",
+    "answers": [
+      "benzyny.",
+      "oleju napędowego.",
+      "układu wypalania DPF.",
+      "gazu w instalacji LPG."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_wtryskiwacz.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 180,
+    "text": "Aby poprawnie zdiagnozować przekaźnik elektromagnetyczny nie należy wykonywać pomiaru",
+    "answers": [
+      "zmiany rezystancji cewki w stanie załączenia.",
+      "rezystancji styków roboczych w stanie spoczynku.",
+      "rezystancji styków roboczych w stanie załączenia.",
+      "rezystancji cewki elektromagnetycznej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 181,
+    "text": "Montując w pojeździe samochodowym światła do jazdy dziennej należy je tak skonfigurować, aby",
+    "answers": [
+      "zapalały się po uruchomieniu pojazdu i gasły po włączeniu świateł drogowych.",
+      "świeciły zawsze podczas jazdy.",
+      "zapalały się po uruchomieniu pojazdu i gasły po zmierzchu.",
+      "zapalały się po uruchomieniu pojazdu i gasły po włączeniu świateł mijania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 182,
+    "text": "Aby przywrócić sprawność instalacji elektrycznej, która działa wadliwie na skutek utlenienia się złącz konektorowych należy",
+    "answers": [
+      "polutować i zaizolować złącza konektorowe instalacji.",
+      "wymienić instalację na nową.",
+      "oczyścić złącza mechanicznie lub chemicznie oraz zabezpieczyć preparatem do konserwacji styków.",
+      "wymienić wszystkie połączenia konektorowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 183,
+    "text": "Do czynności obsługowo-konserwacyjnych przepustnicy silnika ZI nie należy",
+    "answers": [
+      "wymiana silnika krokowego.",
+      "weryfikacja luzów.",
+      "kalibracja.",
+      "oczyszczenie z nagaru."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 184,
+    "text": "Do oceny poprawności działania układu ładowania akumulatora wykorzystuje się",
+    "answers": [
+      "manometr.",
+      "pirometr.",
+      "skaner diagnostyczny OBD.",
+      "multimetr."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 185,
+    "text": "Sprawność czujnika indukcyjnego ocenia się poprzez",
+    "answers": [
+      "oględziny wizualne.",
+      "pomiar rezystancji.",
+      "pomiar generowanego napięcia.",
+      "analizę sygnału wyjściowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 186,
+    "text": "Element przedstawiony na rysunku to",
+    "answers": [
+      "przerywacz układu zapłonowego.",
+      "przekaźnik przełączający.",
+      "cewka wysokiego napięcia.",
+      "tranzystor."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_symbol4.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 187,
+    "text": "Na tablicy wskaźników w pojeździe samochodowym pojawia się informacja o usterce systemu ABS. Którym przyrządem określa się usterkę tego układu?",
+    "answers": [
+      "Amperomierzem cęgowym.",
+      "Multimetrem uniwersalnym.",
+      "Oscyloskopem elektronicznym.",
+      "Diagnoskopem systemu OBD."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 188,
+    "text": "Aby wykonać pomiar prądu pobieranego przez odbiornik w instalacji elektrycznej pojazdu samochodowego należy podłączyć",
+    "answers": [
+      "amperomierz szeregowo do odbiornika.",
+      "woltomierz szeregowo do odbiornika.",
+      "amperomierz równolegle do odbiornika.",
+      "woltomierz równolegle do odbiornika."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 189,
+    "text": "Który z wymienionych elementów nie podlega naprawie?",
+    "answers": [
+      "Cewka zapłonowa.",
+      "Pompa wysokiego ciśnienia.",
+      "Wtryskiwacz oleju napędowego.",
+      "Alternator."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 190,
+    "text": "Do naprawy którego z układów należy stosować wyłącznie podzespoły ze świadectwem homologacji?",
+    "answers": [
+      "Paliwowego.",
+      "Oświetlenia.",
+      "Zapłonowego.",
+      "Ładowania akumulatora."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 191,
+    "text": "Podczas montażu w pojeździe samochodowym instalacji zabezpieczającej przed kradzieżą należy",
+    "answers": [
+      "wymienić moduł zapłonowy silnika.",
+      "zastosować odcięcie jednego lub więcej obwodów elektrycznych silnika.",
+      "zasilić ją z niezależnego akumulatora.",
+      "wykonać układ odcinający ładowanie z alternatora."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 192,
+    "text": "W instalacji oświetlenia pojazdu często dochodzi do przepalenia się żarówki jednego z obwodów. Aby w przyszłości zapobiec usterce należy",
+    "answers": [
+      "dokonać przeglądu obwodu i wykonać konserwację styków.",
+      "zastosować żarówkę o większej mocy.",
+      "sprawdzić napięcie ładowania akumulatora.",
+      "wymienić bezpiecznik obwodu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 193,
+    "text": "W celu poprawnego zdiagnozowania pracy katalizatora spalin należy zastosować",
+    "answers": [
+      "komputer diagnostyczny.",
+      "skaner OBD.",
+      "analizator spalin.",
+      "multimetr uniwersalny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 194,
+    "text": "Po wykonaniu regeneracji kompresora klimatyzacji w karcie gwarancyjnej należy odnotować",
+    "answers": [
+      "zakres zleconych prac.",
+      "datę regeneracji i przebieg pojazdu.",
+      "wymieniane części.",
+      "koszty serwisu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 195,
+    "text": "Do okresowych czynności obsługowych układu klimatyzacji nie należy",
+    "answers": [
+      "uzupełnienie czynnika chłodzącego.",
+      "wymiana łożysk kompresora.",
+      "wymiana osuszacza.",
+      "wymiana oleju kompresora."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 196,
+    "text": "Sprawność, którego z podzespołów ocenia się mierząc zmianę jego rezystancji?",
+    "answers": [
+      "Czujnika hallotronowego.",
+      "Czujnika temperatury silnika.",
+      "Diody prostowniczej.",
+      "Cewki elektromagnetycznej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 197,
+    "text": "Areometr służy do oceny",
+    "answers": [
+      "poziomu naładowania akumulatora.",
+      "poprawności funkcjonowania katalizatora.",
+      "higroskopijności płynu hamulcowego.",
+      "stopnia zanieczyszczenia oleju silnikowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 198,
+    "text": "Po zamontowaniu w pojeździe samochodowym zestawu głośnomówiącego należy zgodnie z obowiązującymi przepisami udzielić gwarancji na okres",
+    "answers": [
+      "36 miesięcy.",
+      "10 miesięcy.",
+      "24 miesięcy.",
+      "12 miesięcy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 199,
+    "text": "Przed przystąpieniem w pojeździe samochodowym do renowacji nadwozia z wykorzystaniem procesu piaskowania i lakierowania należy",
+    "answers": [
+      "mechanicznie usunąć ogniska korozji.",
+      "zabezpieczyć wiązki elektryczne taśmą maskującą.",
+      "zdemontować instalację elektryczną i wyposażenie.",
+      "odtłuścić powierzchnię przed rozpoczęciem prac."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 200,
+    "text": "Do czynności diagnostycznych układu zapłonowego nie zalicza się",
+    "answers": [
+      "kontroli przewodów wysokiego napięcia.",
+      "wymiany cewki wysokiego napięcia.",
+      "pomiaru kąta wyprzedzenia zapłonu.",
+      "oceny stanu świec zapłonowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 201,
+    "text": "Kontrolę pracy sondy lambda przeprowadza się",
+    "answers": [
+      "komputerem diagnostycznym OBD.",
+      "multimetrem uniwersalnym.",
+      "manometrem.",
+      "dymomierzem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 202,
+    "text": "Amperomierz cęgowy służy do diagnozowania",
+    "answers": [
+      "akumulatora.",
+      "reflektora.",
+      "rozrusznika.",
+      "pompy paliwa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 203,
+    "text": "W przypadku wystrzelenia poduszek gazowych kierowcy i pasażera w systemie SRS uszkodzone podzespoły należy",
+    "answers": [
+      "naprawić.",
+      "wymienić na nowe.",
+      "poddać regeneracji.",
+      "usunąć z wyposażenia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 204,
+    "text": "Prawidłowa wartość zmiany napięcia na zaciskach akumulatora przy zmiennym obciążeniu instalacji elektrycznej i pracującym silniku powinna zawierać się w przedziale",
+    "answers": [
+      "0 ÷ 0.5 V",
+      "0 ÷ 0.1 V",
+      "0 ÷ 1.5 V",
+      "0 ÷ 1,0 V"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 205,
+    "text": "Przed rozpoczęciem w pojeździe samochodowym prac blacharskich z użyciem zgrzewarki lub spawarki należy zawsze",
+    "answers": [
+      "odłączyć klemy akumulatora.",
+      "zabezpieczyć wnętrze pojazdu.",
+      "zdemontować instalację elektryczną pojazdu.",
+      "podpiąć uziemienie do nadwozia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 206,
+    "text": "Wartość napięcia na zaciskach akumulatora przy uruchomionym silniku na biegu jałowym i sprawnym układzie ładowania powinna wynosić około",
+    "answers": [
+      "13,4 V",
+      "12,0 V",
+      "14,4 V",
+      "12,6 V"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 207,
+    "text": "Napięcie w pełni naładowanego i sprawnego akumulatora samochodowego, po krótkim postoju powinno wynosić około",
+    "answers": [
+      "12,0 V",
+      "14,4 V",
+      "12,6 V",
+      "13,4 V"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 208,
+    "text": "Na tablicy rozdzielczej wyświetliła się informacja o usterce systemu ABS. Którym przyrządem należy wykonać diagnostykę tego układu?",
+    "answers": [
+      "Multimetrem uniwersalnym.",
+      "Diagnoskopem systemu OBD.",
+      "Amperomierzem cęgowym.",
+      "Oscyloskopem elektronicznym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 209,
+    "text": "Zaświecenie się w czasie jazdy lampki SRS sygnalizuje awarię systemu",
+    "answers": [
+      "stabilizacji toru jazdy.",
+      "poduszek powietrznych.",
+      "oczyszczania spalin.",
+      "hamulcowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 210,
+    "text": "Aby zabezpieczyć zamontowany dodatkowo układ podgrzewania dysz spryskiwacza o maksymalnej mocy 50 W w 12 V instalacji elektrycznej pojazdu, należy zastosować standardowy bezpiecznik o wartości natężenia prądu",
+    "answers": [
+      "20 A",
+      "10 A",
+      "30 A",
+      "5 A"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 211,
+    "text": "Na której ilustracji przedstawiony jest wtryskiwacz paliwa?",
+    "answers": [
+      "Na ilustracji 2.",
+      "Na ilustracji 4.",
+      "Na ilustracji 1.",
+      "Na ilustracji 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_ilustracje3.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 212,
+    "text": "Zakres czynności związanych z obsługą i diagnostyką zdemontowanej pompy paliwa na stanowisku pomiarowym nie obejmuje sprawdzenia",
+    "answers": [
+      "osiąganego maksymalnego ciśnienia tłoczenia.",
+      "wydajności pompy.",
+      "filtra paliwa.",
+      "poboru prądu podczas pracy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 213,
+    "text": "W warsztacie codziennie wykonuje się trzy wymiany oleju 10W40, a na każdą wymianę przeznacza się jedno 5 litrowe opakowanie oleju. W czterech samochodach dokonuje się wymiany żarówek typu H7 oraz w pięciu żarówek H4. Warsztat pracuje 6 dni w tygodniu. Tygodniowe zapotrzebowanie na wymienione materiały wynosi",
+    "answers": [
+      "15 pojemników 5 litrowych oleju 10W40, 30 żarówek H7 i 50 żarówek H4.",
+      "18 pojemników 5 litrowych oleju 10W40, 48 żarówek H7 i 60 żarówek H4.",
+      "18 pojemników 5 litrowych oleju 10W40, 50 żarówek H7 i 80 żarówek H4.",
+      "15 pojemników 5 litrowych oleju 10W40, 48 żarówek H7 i 50 żarówek H4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 214,
+    "text": "Wartość rezystancji włókna żarnika standardowej żarówki samochodowej 12VP21 pracującej w obwodzie prądu stałego wynosi około",
+    "answers": [
+      "0,6 Ω",
+      "10,0 Ω",
+      "2,8 Ω",
+      "6,7 Ω"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 215,
+    "text": "Pirometrem przedstawionym na ilustracji można wykonać pomiar",
+    "answers": [
+      "gęstości elektrolitu.",
+      "natężenia przepływającego prądu.",
+      "rezystancji żarnika halogenowego.",
+      "temperatury cieczy w układzie chłodzenia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_pirometr2.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 216,
+    "text": "Świecenie się w czasie jazdy widocznej na rysunku lampki kontrolnej, informuje kierowcę o prawdopodobnej usterce w układzie",
+    "answers": [
+      "ESP",
+      "tłumika końcowego.",
+      "ABS",
+      "oczyszczania spalin."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_lampka.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 217,
+    "text": "Który z podzespołów pojazdu samochodowego, w przypadku stwierdzenia jego uszkodzenia, może być poddany naprawie lub regeneracji?",
+    "answers": [
+      "Czujnik indukcyjny.",
+      "Rozrusznik.",
+      "Przepływomierz powietrza.",
+      "Świeca zapłonowa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 218,
+    "text": "Na przedstawionym schemacie układu chłodzenia pojazdu element oznaczony cyfrą 4 to",
+    "answers": [
+      "pompa cieczy chłodzącej.",
+      "czujnik temperatury.",
+      "termostat.",
+      "zbiornik wyrównawczy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_schemat32.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 219,
+    "text": "Którym z przedstawionych na ilustracjach przyrządów dokonuje się pomiaru rezystancji świecy żarowej?",
+    "answers": [
+      "Przyrządem IV.",
+      "Przyrządem III.",
+      "Przyrządem I.",
+      "Przyrządem II."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_urzadzenia2.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 220,
+    "text": "Rysunek przedstawia wynik pomiaru prądu zasilania zamontowanej w pojeździe samochodowym kamery cofania wykonany multimetrem analogowym na zakresie 15mA. Jaką wartość natężenia prądu wskazuje miernik?",
+    "answers": [
+      "11 mA",
+      "110 mA",
+      "220 mA",
+      "22 mA"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_pomiar5.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 221,
+    "text": "Podczas wypełniania karty gwarancyjnej zamontowanego w pojeździe alternatora należy podać",
+    "answers": [
+      "datę pierwszej rejestracji pojazdu.",
+      "datę zamontowania alternatora.",
+      "moc silnika pojazdu.",
+      "dane teleadresowe właściciela pojazdu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 222,
+    "text": "Na której ilustracji przedstawione jest złącze systemu OBDII?",
+    "answers": [
+      "Na ilustracji II.",
+      "Na ilustracji I.",
+      "Na ilustracji IV.",
+      "Na ilustracji III."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_zlacza3.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 223,
+    "text": "Na zamieszczonym schemacie układu sterowania element oznaczony numerem 11 to",
+    "answers": [
+      "cewka wysokiego napięcia.",
+      "rozdzielacz wtrysku paliwa.",
+      "czujnik indukcyjny.",
+      "sonda lambda."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_schemat34.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 224,
+    "text": "Po uruchomieniu silnika system ABS dokonuje samokontroli i lampka kontrolna układu gaśnie sygnalizując sprawność i gotowość działania. Jednak po przejechaniu kilkunastu metrów lampka kontrolna ABS zapala się ponownie, co sygnalizuje usterkę. Najbardziej prawdopodobną jej przyczyną jest",
+    "answers": [
+      "zbyt wysoka zawartość wody w płynie hamulcowym.",
+      "niski poziom płynu hamulcowego.",
+      "nadmierny luz łożysk kół jezdnych.",
+      "nadmierne zużycie okładzin hamulcowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 225,
+    "text": "Jakie części i materiały eksploatacyjne są niezbędne do wykonania usługi naprawy po wykonanym przeglądzie instalacji elektrycznej samochodu z silnikiem R4 1,6 THP 16V 102 KM?",
+    "answers": [
+      "Komplet świec, pióra wycieraczek, woda destylowana, płyn do spryskiwaczy.",
+      "Płyn do spryskiwaczy, prawy reflektor, woda destylowana, pióra wycieraczek.",
+      "Woda destylowana, lewy reflektor, pióra wycieraczek, płyn do spryskiwaczy.",
+      "Akumulator, prawy reflektor, pióra wycieraczek, płyn do spryskiwaczy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_tabela52.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 226,
+    "text": "Na tablicy rozdzielczej wyświetliła się informacja o usterce systemu poduszek powietrznych. Którym przyrządem dokonuje się diagnostyki tego układu?",
+    "answers": [
+      "Testerem diagnostycznym systemu OBD.",
+      "Amperomierzem cęgowym.",
+      "Multimetrem uniwersalnym.",
+      "Oscyloskopem elektronicznym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 227,
+    "text": "W celu weryfikacji poprawności działania czujnika indukcyjnego należy przeprowadzić pomiar",
+    "answers": [
+      "reaktancji pojemnościowej czujnika.",
+      "wartości napięcia, jakie jest do niego przyłożone.",
+      "generowanego sygnału wyjściowego.",
+      "wartości prądu, który przez niego przepływa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 228,
+    "text": "Wskaż przyrząd służący do pomiaru poboru prądu przez rozrusznik podczas uruchamiania silnika.",
+    "answers": [
+      "Przyrząd I.",
+      "Przyrząd II.",
+      "Przyrząd III.",
+      "Przyrząd IV."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_przyrzady7.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 229,
+    "text": "Po włączeniu lewego kierunkowskazu lub światła hamowania wszystkie świecące się żarówki w zespolonej tylnej lewej lampie zaczynają przygasać. Najbardziej prawdopodobna przyczyna awarii to",
+    "answers": [
+      "uszkodzone połączenie lampy zespolonej z masą pojazdu.",
+      "uszkodzone lustro lampy zespolonej.",
+      "uszkodzony przerywacz kierunkowskazu.",
+      "zwarcie w żarówce kierunkowskazu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 230,
+    "text": "Diody prostownicze w rozłożonym na części alternatorze są oznaczone na schemacie cyfrą",
+    "answers": [
+      "9",
+      "7",
+      "5",
+      "8"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_alternator3.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 231,
+    "text": "W skład obwodu świateł mijania wchodzi przekaźnik oraz osobne bezpieczniki dla lewej i prawej strony pojazdu. Po włączeniu świateł mijania jeden z reflektorów nie świeci. Stwierdzono, że żarówka w reflektorze jest sprawna, co wskazuje na uszkodzenie",
+    "answers": [
+      "styków roboczych przekaźnika.",
+      "cewki przekaźnika.",
+      "bezpiecznika.",
+      "włącznika świateł mijania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 232,
+    "text": "Przy przebiegu powyżej 100 000 km należy sprawdzić poprawność pracy katalizatora spalin. Najbardziej trafną diagnozę uzyska się używając",
+    "answers": [
+      "skanera diagnostycznego OBD.",
+      "decybelomierza.",
+      "hamowni.",
+      "analizatora spalin."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 233,
+    "text": "Procedura sprawdzenia elektromechanicznego przekaźnika typu NO nie obejmuje pomiaru",
+    "answers": [
+      "rezystancji styków roboczych w stanie załączenia.",
+      "wartości prądu płynącego przez styki robocze.",
+      "rezystancji styków roboczych w stanie spoczynku.",
+      "rezystancji zastępczej cewki elektromagnetycznej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 234,
+    "text": "Jaki będzie całkowity koszt usunięcia usterki w systemie parktronic, jeżeli do wymiany będą dwa tylne czujniki, a wiązka instalacji systemu wymaga naprawy?",
+    "answers": [
+      "150,00 PLN",
+      "230,00 PLN",
+      "190,00 PLN",
+      "170,00 PLN"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_tabela54.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 235,
+    "text": "W sprawnej instalacji elektrycznej pojazdu (12 V) podczas pracy silnika przy prędkości obrotowej około 2000 obrotów na minutę, dopuszczalny zakres zmiany napięcia na zaciskach akumulatora pod obciążeniem powinien zawierać się w przedziale",
+    "answers": [
+      "12,1 V-12,9 V",
+      "12,8 V-13,5 V",
+      "14,4 V-15,6 V",
+      "13,6 V-14,6 V"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 236,
+    "text": "W naprawianym układzie zasilacza uszkodzony zintegrowany mostek Graetza można zastąpić",
+    "answers": [
+      "dwiema diodami i tyrystorem.",
+      "trzema tyrystorami.",
+      "dwiema diodami prostowniczymi.",
+      "czterema diodami prostowniczymi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 237,
+    "text": "Po zdemontowaniu i naprawie alternatora poprawność jego pracy należy sprawdzić",
+    "answers": [
+      "pod obciążeniem w pojeździe.",
+      "na stole probierczym pod obciążeniem.",
+      "podczas jazdy testowej.",
+      "na stole warsztatowym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 238,
+    "text": "Podczas diagnostyki silnika spalinowego z zapłonem ZI za pomocą skanera diagnostycznego sprawdzono pracę sondy lambda. Sprawna sonda powinna generować napięcie o wartości",
+    "answers": [
+      "około 1 V",
+      "około 1 mV",
+      "w zakresie od 150 mV do 700 mV",
+      "w zakresie 0-300 mV"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_wykres4.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 239,
+    "text": "System OBD wykorzystuje się do",
+    "answers": [
+      "oczyszczania spalin.",
+      "zapobiegania blokowaniu kół pojazdu.",
+      "niedopuszczenia do nadmiernego poślizgu kół pojazdu podczas przyspieszania.",
+      "diagnostyki pokładowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 240,
+    "text": "Na której ilustracji przedstawiona jest świeca żarowa?",
+    "answers": [
+      "Na ilustracji II.",
+      "Na ilustracji I.",
+      "Na ilustracji IV.",
+      "Na ilustracji III."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_ilustracje2.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 241,
+    "text": "Podczas jazdy pojazdem pojawia się informacja o nieprawidłowym działaniu systemu ESP pomimo, że układ ABS działa poprawnie. Prawdopodobną przyczyną awarii jest",
+    "answers": [
+      "nieprawidłowa praca pompy ABS.",
+      "uszkodzenie czujnika położenia koła kierownicy.",
+      "nieprawidłowa praca prędkościomierza.",
+      "uszkodzenie w układzie czujników ABS."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 242,
+    "text": "Które urządzenie umożliwia wykonanie diagnostyki układu stabilizacji toru jazdy?",
+    "answers": [
+      "Multimetr.",
+      "Tester drgań wymuszonych.",
+      "Decybelomierz.",
+      "Tester diagnostyczny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 243,
+    "text": "Jaki będzie całkowity koszt naprawy w silniku R4 1,4 16v Twin Spark, jeżeli stwierdzono uszkodzenie wszystkich świec oraz przewodów zapłonowych, a po naprawie zostanie wykonane kasowanie błędów z pamięci sterownika i jazda próbna?",
+    "answers": [
+      "370,00 PLN",
+      "690,00 PLN",
+      "420,00 PLN",
+      "530,00 PLN"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_tabela53.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 244,
+    "text": "Przystępując do demontażu rozrusznika w pojeździe należy w pierwszej kolejności",
+    "answers": [
+      "prawidłowo dobrać narzędzia.",
+      "odłączyć klemy akumulatora.",
+      "wyłączyć wszystkie odbiorniki.",
+      "zabezpieczyć wnętrze przed zabrudzeniem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 245,
+    "text": "Aby zabezpieczyć zamontowany dodatkowo układ podgrzewania foteli o maksymalnej mocy 80 W, należy zastosować standardowy bezpiecznik o wartości",
+    "answers": [
+      "10 A",
+      "80 A",
+      "5 A",
+      "20 A"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 246,
+    "text": "Przeprowadzono naprawę rozdzielacza zapłonu silnika spalinowego. Aby ustawić kąt wyprzedzenia zapłonu, należy użyć",
+    "answers": [
+      "lampy stroboskopowej.",
+      "multimetru uniwersalnego.",
+      "szczelinomierza.",
+      "testera diagnostycznego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 247,
+    "text": "Prawidłowa wartość zmiany napięcia na zaciskach akumulatora przy zmiennym obciążeniu i pracującym silniku powinna zawierać się w przedziale",
+    "answers": [
+      "0 ÷ 1,0 V",
+      "0 ÷ 2,0 V",
+      "0 ÷ 0,5 V",
+      "0 ÷ 1,5 V"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 248,
+    "text": "W czasie diagnostyki silnika spalinowego z zapłonem samoczynnym ZS stwierdzono, że podczas zwiększania prędkości obrotowej silnika przewody chłodnicy powietrza są zasysane. Świadczy to o uszkodzeniu",
+    "answers": [
+      "układu EGR.",
+      "katalizatora.",
+      "turbosprężarki.",
+      "wtryskiwacza."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 249,
+    "text": "Sprawność czujnika indukcyjnego nie może być oceniana przez",
+    "answers": [
+      "pomiar generowanego napięcia.",
+      "pomiar rezystancji.",
+      "oględziny wizualne.",
+      "analizę sygnału wyjściowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 250,
+    "text": "W celu przywrócenia sprawność instalacji elektrycznej, która działa wadliwie na skutek utlenienia się złącz konektorowych, należy",
+    "answers": [
+      "wymienić wszystkie połączenia konektorowe.",
+      "polutować i zaizolować złącza konektorowe instalacji.",
+      "oczyścić złącza mechanicznie lub chemicznie oraz zabezpieczyć preparatem do konserwacji styków.",
+      "wymienić instalację na nową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 251,
+    "text": "W celu poprawnego zdiagnozowania przekaźnika elektromagnetycznego nie należy wykonywać pomiaru",
+    "answers": [
+      "rezystancji styków roboczych w stanie spoczynku.",
+      "rezystancji styków roboczych w stanie załączenia.",
+      "rezystancji cewki elektromagnetycznej.",
+      "zmiany rezystancji cewki w stanie załączenia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 252,
+    "text": "Na ilustracji przedstawiono wtryskiwacz",
+    "answers": [
+      "układu wypalania DPF.",
+      "benzyny.",
+      "oleju napędowego.",
+      "gazu w instalacji LPG."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "mot02/m12_wtryskiwacz.png"
+    },
+    "category": "MOT.02"
+  },
+  {
+    "id": 253,
+    "text": "Sprawność którego z podzespołów ocenia się mierząc zmianę jego rezystancji?",
+    "answers": [
+      "Czujnika temperatury silnika.",
+      "Diody prostowniczej.",
+      "Czujnika hallotronowego.",
+      "Cewki elektromagnetycznej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  },
+  {
+    "id": 254,
+    "text": "W celu pomiaru prądu pobieranego przez odbiornik w instalacji elektrycznej pojazdu samochodowego należy podłączyć",
+    "answers": [
+      "amperomierz szeregowo do odbiornika.",
+      "amperomierz równolegle do odbiornika.",
+      "woltomierz równolegle do odbiornika.",
+      "woltomierz szeregowo do odbiornika."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MOT.02"
+  }
+]
