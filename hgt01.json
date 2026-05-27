@@ -1,0 +1,4384 @@
+[
+  {
+    "id": 1,
+    "text": "Urządzenie przedstawione na ilustracji służy do",
+    "answers": [
+      "kruszenia lodu.",
+      "przeciskania ziemniaków.",
+      "miażdżenia przypraw.",
+      "wyciskania pomarańczy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_urzadzenie9.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 2,
+    "text": "Do sporządzenia której potrawy mięso wieprzowe należy rozdrobnić w regularną kostkę 3×3 cm?",
+    "answers": [
+      "Gulaszu.",
+      "Ragout baraniego.",
+      "Paprykarza.",
+      "Boeuf Strogonowa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 3,
+    "text": "Ile maksymalnie nakryć należy zaplanować przy stole o wymiarach 2,6 m x 2,6 m, jeżeli odległości pomiędzy nakryciami wynoszą 60 cm, a skrajne nakrycia ustawione są w odległości 40 cm od krawędzi stołu?",
+    "answers": [
+      "10 nakryć.",
+      "12 nakryć.",
+      "16 nakryć.",
+      "20 nakryć."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 4,
+    "text": "Do tymbalików drobiowych jako dodatek kelner powinien zaproponować",
+    "answers": [
+      "ketchup.",
+      "ocet spirytusowy.",
+      "musztardę.",
+      "ocet balsamiczny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 5,
+    "text": "Na ilustracji przedstawiono sposób podania kawy",
+    "answers": [
+      "espresso.",
+      "po turecku.",
+      "po irlandzku.",
+      "latte macchiato."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_kawa4.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 6,
+    "text": "Które sztućce kelner powinien przygotować do konsumpcji potraw wymienionych w tabeli?",
+    "answers": [
+      "Widelec i nóż do ryby, łyżkę stołową średnią.",
+      "Widelec i nóż do ryby, łyżkę stołową dużą.",
+      "Widelec i nóż stołowy średni, łyżkę stołową dużą.",
+      "Widelec i nóż stołowy średni, łyżkę stołową średnią."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_tabela28.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 7,
+    "text": "Który napój kelner powinien zaproponować do golonki pieczonej?",
+    "answers": [
+      "Piwo grzane.",
+      "Piwo zimne.",
+      "Likier ziołowy.",
+      "Likier owocowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 8,
+    "text": "Urządzenie przedstawione na ilustracji służy do sporządzania",
+    "answers": [
+      "blinów.",
+      "eklerów.",
+      "naleśników.",
+      "gofrów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_urzadzenie8.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 9,
+    "text": "Który stopień usmażenia posiada befsztyk wołowy, jeżeli obsmażany był po 1,5 minuty z każdej strony?",
+    "answers": [
+      "Well done.",
+      "Rare.",
+      "Blue.",
+      "Medium well."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 10,
+    "text": "Który napój mieszany sporządzi barman posługując się normatywem surowcowym zamieszczonym w tabeli?",
+    "answers": [
+      "Manhattan.",
+      "Alexander.",
+      "Kamikaze.",
+      "Gibson."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_receptura3.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 11,
+    "text": "Do sporządzenia której potrawy należy zastosować sprzęt przedstawiony na ilustracji?",
+    "answers": [
+      "Pieczonych szaszłyków.",
+      "Fondue serowego.",
+      "Smażonych kulek mięsnych.",
+      "Gotowanej kukurydzy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_sprzet16.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 12,
+    "text": "Zestaw noży do carvingu przedstawiono na ilustracji",
+    "answers": [
+      "IV",
+      "I",
+      "III",
+      "II"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_noze.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 13,
+    "text": "Likier Amaretto charakteryzuje się posmakiem",
+    "answers": [
+      "anyżu.",
+      "mięty.",
+      "migdałów.",
+      "kawy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 14,
+    "text": "Kawę typu kapucynek należy podać",
+    "answers": [
+      "z małą ilością czekolady.",
+      "z małą ilością śmietanki.",
+      "z dużą ilością czekolady.",
+      "z dużą ilością śmietanki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 15,
+    "text": "Słynny włoski deser o charakterystycznym kawowym smaku to",
+    "answers": [
+      "tort Pavlowa.",
+      "tiramisu.",
+      "tort Sachera.",
+      "churros."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 16,
+    "text": "Do flambirowania naleśników należy użyć",
+    "answers": [
+      "koniaku.",
+      "piwa.",
+      "wina czerwonego.",
+      "wina białego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 17,
+    "text": "W bulionówce należy podać",
+    "answers": [
+      "barszcz ukraiński.",
+      "zupę żółwiową.",
+      "krem ze szparagów.",
+      "rosół z kołdunami."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 18,
+    "text": "Podchodząc z prawej strony gościa, kelner powinien",
+    "answers": [
+      "nalać zupę z wazy.",
+      "podać wyporcjowaną surówkę.",
+      "serwować tort z patery.",
+      "ustawić talerz do pieczywa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 19,
+    "text": "Do warzyw trwałych pod względem czasu przechowywania zalicza się",
+    "answers": [
+      "szpinak.",
+      "brokuł.",
+      "cebulę.",
+      "rzodkiewkę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 20,
+    "text": "Kelner powinien użyć wózka kelnerskiego do obsługi serwisem",
+    "answers": [
+      "rosyjskim.",
+      "niemieckim.",
+      "angielskim.",
+      "francuskim."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 21,
+    "text": "Piwo niepasteryzowane należy przechowywać w ciemnych pomieszczeniach w których panuje temperatura w zakresie",
+    "answers": [
+      "od 13 do 16°C",
+      "od 0 do 1°C",
+      "od 2 do 12°C",
+      "od 17 do 20°C"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 22,
+    "text": "Dla którego systemu ekspedycji charakterystyczne jest wydawanie potraw przez okienko łączące kuchnię z salą konsumencką?",
+    "answers": [
+      "Polskiego.",
+      "Czeskiego.",
+      "Francuskiego.",
+      "Szwedzkiego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 23,
+    "text": "Którą metodę obróbki cieplnej należy zastosować przy sporządzaniu potrawki cielęcej?",
+    "answers": [
+      "Gotowanie.",
+      "Pieczenie.",
+      "Smażenie.",
+      "Duszenie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 24,
+    "text": "Który zestaw bielizny służy do nakrycia stołów bufetowych na przyjęcia okolicznościowe?",
+    "answers": [
+      "Laufry, obrusy i moltony.",
+      "Napperony, skirtingi i moltony.",
+      "Moltony, obrusy i napperony.",
+      "Obrusy, moltony i skirtingi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 25,
+    "text": "Korzystając z informacji zamieszczonych w tabeli, wskaż czas przechowywania kaszy pęczak.",
+    "answers": [
+      "6 miesięcy.",
+      "9 miesięcy.",
+      "5 miesięcy.",
+      "10 miesięcy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_tabela27.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 26,
+    "text": "Który napój gorący sporządza się z przedstawionego w tabeli normatywu surowcowego?",
+    "answers": [
+      "Herbatę po chińsku.",
+      "Herbatę po rosyjsku.",
+      "Herbatę po turecku.",
+      "Herbatę po angielsku."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_normatyw8.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 27,
+    "text": "W barach i cocktail-barach typu francuskiego potrawy i napoje są podawane",
+    "answers": [
+      "z wózka kelnerskiego przez kelnera.",
+      "z wózka kelnerskiego przez bufetowego.",
+      "przy ladzie barowej przez kelnera.",
+      "przy ladzie barowej przez bufetowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 28,
+    "text": "Przedstawiony schemat nakrycia został przygotowany do konsumpcji",
+    "answers": [
+      "zupy, dania głównego, deseru.",
+      "przystawki, zupy, serów.",
+      "zupy, dania głównego, serów.",
+      "przystawki, dania głównego, deseru."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_schemat6.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 29,
+    "text": "Kieliszek przedstawiony na ilustracji ma zastosowanie do serwowania drinków typu",
+    "answers": [
+      "hot.",
+      "long.",
+      "diverse.",
+      "short."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_kieliszek6.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 30,
+    "text": "Do sporządzenia podstawowego sosu holenderskiego, oprócz klarowanego masła, soku z cytryny, wody i soli należy użyć",
+    "answers": [
+      "ugotowanych żółtek.",
+      "oliwy.",
+      "majonezu.",
+      "surowych żółtek."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 31,
+    "text": "Na ilustracji przedstawiono owoce",
+    "answers": [
+      "świeżych fig.",
+      "niedojrzałych granatów.",
+      "dojrzałych mango.",
+      "suszonych karamboli."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_owoce2.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 32,
+    "text": "Do której grupy warzyw należy kalarepa?",
+    "answers": [
+      "Kapustnych.",
+      "Liściowych.",
+      "Owocowych.",
+      "Cebulowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 33,
+    "text": "Którą przyprawę przedstawiono na ilustracji?",
+    "answers": [
+      "Imbir.",
+      "Anyż.",
+      "Kardamon.",
+      "Cynamon."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_przyprawa2.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 34,
+    "text": "Kompot francuski należy wyporcjować do",
+    "answers": [
+      "kompotierki.",
+      "gobletu.",
+      "filiżanki.",
+      "szklanki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 35,
+    "text": "Do sporządzenia grogu należy użyć",
+    "answers": [
+      "wermutu.",
+      "araku.",
+      "ginu.",
+      "likieru."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 36,
+    "text": "Tarcza przedstawiona na ilustracji, stanowiąca element roboczy robota wieloczynnościowego, wykorzystywana jest do sporządzania",
+    "answers": [
+      "mizerii.",
+      "knedli.",
+      "frytek.",
+      "kopytek."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_tarcza.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 37,
+    "text": "Przedstawiony w tabeli fragment karty menu dotyczy",
+    "answers": [
+      "dań głównych mięsnych.",
+      "przystawek zimnych.",
+      "dań głównych rybnych.",
+      "przystawek gorących."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_karta3.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 38,
+    "text": "Którą potrawę mięsną należy wydawać w dwóch sztukach na jedną porcję?",
+    "answers": [
+      "Kotlet pożarski.",
+      "Rumsztyk.",
+      "Medalion.",
+      "Kotlet mielony."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 39,
+    "text": "Świeże pomidory do sporządzenia bruschetty należy rozdrobnić",
+    "answers": [
+      "w concasse.",
+      "w julinie.",
+      "w vichy.",
+      "w brunoise."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 40,
+    "text": "Którą potrawę kelner może sporządzić przy stoliku gościa?",
+    "answers": [
+      "Canelloni.",
+      "Gulasz węgierski.",
+      "Kulebiak.",
+      "Koktajl z kraba."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 41,
+    "text": "Który środek spożywczy należy przechowywać w warunkach chłodniczych?",
+    "answers": [
+      "Camembert.",
+      "Armaniak.",
+      "Pistacje.",
+      "Oliwę."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 42,
+    "text": "Uformowany rumsztyk przeznaczony do obróbki cieplnej powinien mieć kształt",
+    "answers": [
+      "okrągły o grubości 2 cm.",
+      "owalny o grubości 2 cm.",
+      "okrągły o grubości 1 cm.",
+      "owalny o grubości 1 cm."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 43,
+    "text": "Do sporządzenia befsztyka tatarskiego należy użyć",
+    "answers": [
+      "polędwicy wołowej.",
+      "polędwicy wieprzowej.",
+      "łopatki wieprzowej.",
+      "łopatki wołowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 44,
+    "text": "Sposób rozdrabniania pomidorów w kostkę określany jest jako",
+    "answers": [
+      "vichi.",
+      "payssanne.",
+      "julienne.",
+      "concasse."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 45,
+    "text": "Ile równych porcji wina otrzyma się z rozlania 6 litrów wina w kieliszki o pojemności 120 ml?",
+    "answers": [
+      "60 porcji.",
+      "500 porcji.",
+      "600 porcji.",
+      "50 porcji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 46,
+    "text": "Przedstawiony na ilustracji zestaw naczyń wykorzystuje się do podania",
+    "answers": [
+      "kakao smakowego.",
+      "kawy zbożowej.",
+      "czekolady na gorąco.",
+      "kawy espresso."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_zestaw5.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 47,
+    "text": "Kawę espresso należy podać w filiżance o pojemności",
+    "answers": [
+      "250 ml",
+      "120 ml",
+      "200 ml",
+      "50 ml"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 48,
+    "text": "Przedstawiona na ilustracji czynność, to",
+    "answers": [
+      "trybowanie.",
+      "filetowanie.",
+      "flambirowanie.",
+      "tranżerowanie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_czynnosc3.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 49,
+    "text": "Kasze należy przechowywać w magazynach o wilgotności względnej powietrza na poziomie 60% i temperaturze nieprzekraczającej",
+    "answers": [
+      "35°C",
+      "45°C",
+      "15°C",
+      "25°C"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 50,
+    "text": "Ile sztuk noży stołowych średnich powinien przygotować kelner dla 20 osób do konsumpcji potraw wymienionych w tabeli?",
+    "answers": [
+      "40 sztuk.",
+      "20 sztuk.",
+      "60 sztuk.",
+      "80 sztuk."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_tabela26.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 51,
+    "text": "Na podstawie danych zamieszczonych w tabeli, wskaż maksymalny czas przechowywania rolmopsów niepasteryzowanych.",
+    "answers": [
+      "3 miesiące.",
+      "4 miesiące.",
+      "10 dni.",
+      "14 dni."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_tabela24.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 52,
+    "text": "Herbatę po angielsku sporządza się z gorącego naparu herbacianego oraz",
+    "answers": [
+      "bitej śmietanki.",
+      "czekolady.",
+      "konfitur.",
+      "gorącego mleka."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 53,
+    "text": "Liniowy lub schodkowy układ bufetów ekspedycyjnych, należy stosować w systemie obsługi typu",
+    "answers": [
+      "szwedzkiego.",
+      "francuskiego.",
+      "czeskiego.",
+      "polskiego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 54,
+    "text": "Grecka wódka Ouzo posiada charakterystyczny posmak",
+    "answers": [
+      "migdałów.",
+      "jałowca.",
+      "anyżu.",
+      "kminku."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 55,
+    "text": "Na której ilustracji przedstawiono sztućce, które należy wyłożyć na stół, przygotowując nakrycie do konsumpcji ślimaków w muszlach?",
+    "answers": [
+      "Na ilustracji 2.",
+      "Na ilustracji 1.",
+      "Na ilustracji 4.",
+      "Na ilustracji 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_sztucce8.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 56,
+    "text": "Zgodnie z wymogami systemu HACCP do obróbki mięs gotowanych, należy użyć deski koloru",
+    "answers": [
+      "białego.",
+      "niebieskiego.",
+      "brązowego.",
+      "czerwonego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 57,
+    "text": "Likier Bitter campari ma kolor",
+    "answers": [
+      "żółty.",
+      "niebieski.",
+      "czerwony.",
+      "zielony."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 58,
+    "text": "Wymienione w ramce potrawy stanowią fragment karty menu",
+    "answers": [
+      "przystawek zimnych.",
+      "przystawek gorących.",
+      "deserów.",
+      "dań głównych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_ramka5.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 59,
+    "text": "Śniadanie kontynentalne dla 1 osoby zamówione do pokoju hotelowego kelner powinien podać na",
+    "answers": [
+      "wózku serwisowym.",
+      "tacy prostokątnej.",
+      "wózku kelnerskim.",
+      "tacy wiedeńskiej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 60,
+    "text": "Stosując serwis rosyjski na przyjęciu zasiadanym, kelner serwuje potrawy",
+    "answers": [
+      "z półmiska z lewej strony gościa.",
+      "wyporcjowane na talerzach.",
+      "ustawiając półmiski na stole gościa.",
+      "z wózka kelnerskiego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 61,
+    "text": "Polędwicę wołową do sporządzenia carpaccio należy rozdrobnić",
+    "answers": [
+      "w wiórki.",
+      "w kostkę.",
+      "w słupki.",
+      "w plastry."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 62,
+    "text": "Które zjawisko zachodzi w rozdrobnionym świeżym ogórku po dodaniu soli?",
+    "answers": [
+      "Osmozy.",
+      "Dojrzewania.",
+      "Transpiracji.",
+      "Oddychania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 63,
+    "text": "Przeanalizuj informacje zamieszczone w ramce i wskaż ile maksymalnie nakryć należy zaplanować przy stole o długości 2,9 m.",
+    "answers": [
+      "4 nakrycia.",
+      "6 nakryć.",
+      "3 nakrycia.",
+      "8 nakryć."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_ramka4.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 64,
+    "text": "Przedstawioną na ilustracji patelnię należy wykorzystać do sporządzenia",
+    "answers": [
+      "jajecznicy.",
+      "jaj sadzonych.",
+      "jaj poszetowych.",
+      "omletu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_patelnia.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 65,
+    "text": "Urządzenie przedstawione na ilustracji, to",
+    "answers": [
+      "syfon do wody sodowej.",
+      "schładzacz do wina.",
+      "syfon do bitej śmietany.",
+      "dozownik do soków."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_urzadzenie7.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 66,
+    "text": "Którą obróbkę cieplną należy zastosować do sporządzenia tradycyjnego klopsa z mięsnej masy mielonej?",
+    "answers": [
+      "Pieczenie.",
+      "Gotowanie.",
+      "Smażenie.",
+      "Duszenie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 67,
+    "text": "Który napój mieszany jest sporządzany na podstawie normatywu surowcowego zamieszczonego w tabeli?",
+    "answers": [
+      "Manhattan.",
+      "Martini.",
+      "Mojito.",
+      "Margarita."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_tabela25.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 68,
+    "text": "Kawior czerwony jest pozyskiwany z ikry",
+    "answers": [
+      "karpia.",
+      "łososia.",
+      "dorsza.",
+      "jesiotra."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 69,
+    "text": "Przedstawiona na ilustracji czynność, wykonywana przez kelnera na stoliku pomocniczym, jest stosowana w serwisie",
+    "answers": [
+      "rosyjskim.",
+      "niemieckim.",
+      "angielskim.",
+      "francuskim."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_czynnosc4.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 70,
+    "text": "Opalanie cukru na deserze, przed podaniem do konsumpcji, należy wykonać na kremie",
+    "answers": [
+      "cytrynowym.",
+      "bawarskim.",
+      "sułtańskim.",
+      "brulee."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 71,
+    "text": "Na ilustracji przedstawiono",
+    "answers": [
+      "omułki.",
+      "kalmary.",
+      "ślimaki.",
+      "ostrygi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_ilustracja.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 72,
+    "text": "Które właściwości jaj wykorzystuje się podczas sporządzania majonezu?",
+    "answers": [
+      "Emulgujące.",
+      "Zagęszczające.",
+      "Spulchniające.",
+      "Sklejające."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 73,
+    "text": "Sprzęt barmański przedstawiony na ilustracji należy zastosować do",
+    "answers": [
+      "kupażowania.",
+      "muddlerowania.",
+      "garnirowania.",
+      "stirowania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_sprzet15.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 74,
+    "text": "Sporządzone zgodnie z technologią jajo poszetowe powinno mieć białko",
+    "answers": [
+      "lekko ścięte i żółtko płynne.",
+      "ścięte i żółtko półpłynne.",
+      "ścięte i żółtko płynne.",
+      "lekko ścięte i żółtko półpłynne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 75,
+    "text": "Serwisem francuskim należy podać dania",
+    "answers": [
+      "z półmiska z prawej strony gościa.",
+      "z półmiska z lewej strony gościa.",
+      "wyporcjowane na talerzu.",
+      "porcjowane na wózku przy gościu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 76,
+    "text": "Do konsumpcji porcji flaków z boczniaka o pojemności 350 ml, kelner powinien podać łyżkę",
+    "answers": [
+      "stołową średnią.",
+      "specjalną.",
+      "do bulionu.",
+      "stołową dużą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 77,
+    "text": "Do sporządzenia zapiekanki przedstawionej na ilustracji należy wykorzystać makaron",
+    "answers": [
+      "tagliatelle.",
+      "farfalle.",
+      "penne.",
+      "cannelloni."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_zapiekanka.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 78,
+    "text": "Do zamówionego przez gościa gęsiego udka z jabłkami, ziemniaków z wody i zestawu surówek, kelner powinien zaproponować wino",
+    "answers": [
+      "białe wytrawne.",
+      "białe półsłodkie.",
+      "czerwone wytrawne.",
+      "czerwone półsłodkie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 79,
+    "text": "Którą potrawę należy podać z kaszą jęczmienną na sypko?",
+    "answers": [
+      "Paprykarz cielęcy.",
+      "Sznycel ministerski.",
+      "Kotlet schabowy.",
+      "Kotlet de volaille."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 80,
+    "text": "Pracownikiem działu produkcyjnego zakładu gastronomicznego jest",
+    "answers": [
+      "barista.",
+      "sommelier.",
+      "cukiernik.",
+      "barman."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 81,
+    "text": "Gościom preferującym potrawy kuchni hiszpańskiej należy zaproponować",
+    "answers": [
+      "musakę.",
+      "tartę.",
+      "paellę.",
+      "kebabczetę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 82,
+    "text": "Ile kilogramów pieczarek należy przygotować do sporządzenia 22 porcji szaszłyków z pieczarek, jeżeli do sporządzenia 4 porcji potrawy zużyto 400 g tego surowca?",
+    "answers": [
+      "2,2 kg",
+      "1,6 kg",
+      "7,2 kg",
+      "5,5 kg"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 83,
+    "text": "Na której ilustracji przedstawiono owoc papai?",
+    "answers": [
+      "III",
+      "IV",
+      "II",
+      "I"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_owoce.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 84,
+    "text": "Którą metodę zastosował kelner, porcjując tort weselny przy wózku kelnerskim?",
+    "answers": [
+      "Angielską.",
+      "Rosyjską.",
+      "Francuską.",
+      "Niemiecką."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 85,
+    "text": "Którą potrawę należy podać na wygrzanym talerzu?",
+    "answers": [
+      "Ragoût.",
+      "Gazpacho.",
+      "Carpaccio.",
+      "Parfait."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 86,
+    "text": "Do sporządzenia kawy americano kelner powinien wykorzystać",
+    "answers": [
+      "zaparzacz aeropress.",
+      "ekspres ciśnieniowy.",
+      "tygiel miedziany.",
+      "kawiarkę aluminiową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 87,
+    "text": "Które urządzenie z przedstawionych na ilustracji służy do produkcji sorbetów?",
+    "answers": [
+      "IV",
+      "I",
+      "II",
+      "III"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_urzadzenia2.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 88,
+    "text": "Który produkt spożywczy należy przechowywać w warunkach chłodniczych przed otwarciem opakowania?",
+    "answers": [
+      "Ser twarogowy.",
+      "Olej kokosowy.",
+      "Dżem malinowy.",
+      "Mleko instant."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 89,
+    "text": "Na ilustracjach przedstawiono kolejno technikę wykonania jaja",
+    "answers": [
+      "po szkocku.",
+      "po wiedeńsku.",
+      "mollet.",
+      "poszetowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_ilustracje2.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 90,
+    "text": "Napoje gazowane należy nalewać gościowi",
+    "answers": [
+      "ze szklanych dzbanków.",
+      "z kilerów.",
+      "z oryginalnych butelek.",
+      "z karafek."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 91,
+    "text": "W którym systemie samoobsługi, ekspedycja potraw i napojów odbywa się zgodnie z zamieszczonym schematem?",
+    "answers": [
+      "Polskim.",
+      "Francuskim.",
+      "Szwedzkim.",
+      "Czeskim."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_schemat5.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 92,
+    "text": "Kelner powinien zebrać ze stołu menaż z przyprawami oraz koszyk z pieczywem przed podaniem",
+    "answers": [
+      "sałatki z owoców.",
+      "musu z łososia.",
+      "sznycli z indyka.",
+      "kremu z brokułów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 93,
+    "text": "Przedstawiony na ilustracji wyrób cukierniczy został sporządzony z ciasta",
+    "answers": [
+      "drożdżowego.",
+      "zbijanego.",
+      "parzonego.",
+      "piaskowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_wyrob.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 94,
+    "text": "Którego surowca brakuje w przedstawionym normatywie surowcowym do sporządzenia klusek śląskich ze skwarkami?",
+    "answers": [
+      "Mąki ziemniaczanej.",
+      "Sera twarogowego.",
+      "Cukru kryształu.",
+      "Mąki krupczatki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_normatyw7.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 95,
+    "text": "Miseczkę z wodą do płukania palców kelner powinien podać gościom po konsumpcji",
+    "answers": [
+      "główek szparagów z sosem beszamelowym.",
+      "ślimaków zapiekanych z masłem.",
+      "homarów gotowanych z winem.",
+      "serc karczochów z sosem holenderskim."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 96,
+    "text": "Opracowując kartę menu restauracji, potrawę Zabaione należy umieścić w dziale",
+    "answers": [
+      "sałatek.",
+      "zakąsek.",
+      "deserów.",
+      "napojów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 97,
+    "text": "Który sos można sporządzić, wykorzystując wszystkie zamieszczone w tabeli składniki?",
+    "answers": [
+      "Cumberland.",
+      "Remoulade.",
+      "Vinaigrette.",
+      "Ravigotte."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_tabela23.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 98,
+    "text": "Na rysunku przedstawiono składniki kawy",
+    "answers": [
+      "latte.",
+      "ristretto.",
+      "americano.",
+      "mocha."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_kawa3.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 99,
+    "text": "Którą potrawę należy wpisać w kartę menu, jeżeli restauracja zaplanowała poszerzenie oferty o dania kuchni węgierskiej?",
+    "answers": [
+      "Bliny.",
+      "Ratatouille.",
+      "Leczo.",
+      "Małdrzyki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 100,
+    "text": "Przedstawione na ilustracji potrawy na talerzu należy podać gościom, którzy zamówili śniadanie",
+    "answers": [
+      "angielskie.",
+      "greckie.",
+      "wiedeńskie.",
+      "hiszpańskie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_potrawy.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 101,
+    "text": "Przedstawiony na ilustracji sprzęt barmański służy do",
+    "answers": [
+      "mieszania składników.",
+      "wyciskania owoców.",
+      "odmierzania alkoholu.",
+      "kruszenia lodu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_sprzet14.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 102,
+    "text": "Którą metodę obróbki cieplnej należy zastosować, sporządzając klopsiki cielęce?",
+    "answers": [
+      "Duszenie.",
+      "Gotowanie.",
+      "Pieczenie.",
+      "Smażenie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 103,
+    "text": "Do rozdrabniania gotowanych jaj należy użyć deski koloru",
+    "answers": [
+      "żółtego.",
+      "białego.",
+      "brązowego.",
+      "niebieskiego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 104,
+    "text": "Przedstawiony na rysunku element wyposażenia sali restauracyjnej służy do",
+    "answers": [
+      "prezentacji oferowanych przez zakład win.",
+      "sporządzania napojów w obecności gościa.",
+      "transportu potraw na salę konsumencką.",
+      "przechowywania bielizny i zastawy stołowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_element.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 105,
+    "text": "Urządzenie przedstawione na ilustracji należy zastosować do podgrzewania",
+    "answers": [
+      "kawy.",
+      "herbaty.",
+      "wody.",
+      "kakao."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_urzadzenie6.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 106,
+    "text": "Który deser kelner powinien zaproponować gościowi z nietolerancją laktozy?",
+    "answers": [
+      "Sernik wiedeński.",
+      "Suflet jabłkowy.",
+      "Krem bawarski.",
+      "Lody truskawkowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 107,
+    "text": "Które warzywo rozdrabnia się w piórka?",
+    "answers": [
+      "Koper.",
+      "Kapustę.",
+      "Cebulę.",
+      "Marchew."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 108,
+    "text": "Kelner, przyjmując zamówienie w usłudze room service, nie musi uzyskać od gościa hotelowego informacji",
+    "answers": [
+      "o numerze pokoju.",
+      "o numerze telefonu.",
+      "o liczbie zamówionych porcji.",
+      "o godzinie podania posiłku."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 109,
+    "text": "Przedstawione na rysunku nakrycie specjalne zostało przygotowane do konsumpcji",
+    "answers": [
+      "tostów z kawiorem.",
+      "koktajlu z krewetkami.",
+      "raków gotowanych w bulionie.",
+      "małży duszonych w winie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_nakrycie6.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 110,
+    "text": "Który rodzaj bielizny stołowej kelner powinien użyć do dekoracji stołu, a jednocześnie ochrony obrusa przed zabrudzeniem?",
+    "answers": [
+      "Laufer.",
+      "Skirting.",
+      "Napperon.",
+      "Covers."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 111,
+    "text": "Który chwyt sztućców serwisowych powinien zastosować kelner, serwując pieczoną tuszkę turbota z półmiska na talerz konsumenta?",
+    "answers": [
+      "I",
+      "IV",
+      "II",
+      "III"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_chwyty.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 112,
+    "text": "Nóż przedstawiony na rysunku należy zastosować do krojenia",
+    "answers": [
+      "owoców.",
+      "mięs.",
+      "serów.",
+      "wędlin."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_noz3.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 113,
+    "text": "Którą potrawę należy podać na przedstawionym na ilustracji talerzu?",
+    "answers": [
+      "Ostrygi z sosem limonkowym.",
+      "Ślimaki zapiekane w muszlach.",
+      "Uszka z grzybami leśnymi.",
+      "Jaja gotowane na twardo."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_talerz.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 114,
+    "text": "Który dodatek skrobiowy należy polecić gościowi, jeżeli jako danie główne zamówił on sznycla wiedeńskiego?",
+    "answers": [
+      "Ryż na sypko.",
+      "Kluski śląskie.",
+      "Kaszę gryczaną.",
+      "Ziemniaki puree."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 115,
+    "text": "Który ser z przedstawionych na ilustracji należy wykorzystać do sporządzenia sałatki caprese?",
+    "answers": [
+      "IV",
+      "II",
+      "I",
+      "III"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_sery.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 116,
+    "text": "Czerwone wino serwowane metodą francuską typu A do obiadu zasiadanego należy",
+    "answers": [
+      "podać w kieliszku, stojąc z prawej strony gościa.",
+      "podać w kieliszku, stojąc z lewej strony gościa.",
+      "nalać do kieliszka, stojąc z prawej strony gościa.",
+      "nalać do kieliszka, stojąc z lewej strony gościa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 117,
+    "text": "Wyparzanie zastawy stołowej ma na celu",
+    "answers": [
+      "odtłuszczanie powierzchni.",
+      "osuszanie pozostałości detergentu.",
+      "niszczenie flory bakteryjnej.",
+      "usuwanie pozostałości potraw."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 118,
+    "text": "Które nakrycie powinien przygotować kelner, jeżeli gość zamówił spaghetti z grillowaną cukinią podawane metodą niemiecką?",
+    "answers": [
+      "Nakrycie I.",
+      "Nakrycie II.",
+      "Nakrycie III.",
+      "Nakrycie IV."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_nakrycia5.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 119,
+    "text": "Który napój sporządził kelner gościowi, jeżeli do jego podania przygotował przedstawiony na rysunku kieliszek?",
+    "answers": [
+      "Cuba Librę.",
+      "Margaritę.",
+      "Bloody Mary.",
+      "Martini."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_kieliszek5.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 120,
+    "text": "Potrawa sporządzona na podstawie zamieszczonego normatywu surowcowego to kluski",
+    "answers": [
+      "śląskie.",
+      "leniwe.",
+      "kładzione.",
+      "francuskie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_normatyw6.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 121,
+    "text": "Sprzęt przedstawiony na ilustracji należy zastosować do podania",
+    "answers": [
+      "rumu.",
+      "tequili.",
+      "whisky.",
+      "koniaku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_sprzet12.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 122,
+    "text": "Którego zwrotu należy użyć pytając gości o gotowość do złożenia zamówienia?",
+    "answers": [
+      "Czy państwo już wybrali?",
+      "Czy coś państwu podać?",
+      "Czy mogę przyjąć zamówienie?",
+      "Czego państwo sobie życzą?"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 123,
+    "text": "W urządzeniu chłodniczym w temperaturze 4÷8°C należy przechowywać",
+    "answers": [
+      "ryby.",
+      "sałatę.",
+      "bułki.",
+      "lody."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 124,
+    "text": "Pracownik lokalu gastronomicznego, którego zadaniem zawodowym jest dobór i serwowanie win do zamówionych potraw, to",
+    "answers": [
+      "sommelier.",
+      "menager.",
+      "barista.",
+      "barman."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 125,
+    "text": "Do cech osobowych niepożądanych u kelnera należy",
+    "answers": [
+      "opanowanie.",
+      "uczciwość.",
+      "lojalność.",
+      "wyrachowanie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 126,
+    "text": "Na podstawie danych zawartych w tabeli określ maksymalny czas przechowywania brukselki.",
+    "answers": [
+      "4 tygodnie.",
+      "6 miesięcy.",
+      "3 tygodnie.",
+      "7 miesięcy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_tabela22.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 127,
+    "text": "Do wieloporcjowego podania zrazów wołowych zawijanych w sosie własnym z kluskami kładzionymi należy zaplanować",
+    "answers": [
+      "wazę do zupy, podtalerz, łyżkę wazową.",
+      "kociołek do zup, łyżkę wazową.",
+      "półmisek ceramiczny, łyżkę i widelec serwisowe.",
+      "nelsonkę, podstawek, łyżkę serwisową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 128,
+    "text": "Jeśli gość prosi o danie z ryby morskiej to należy zaproponować",
+    "answers": [
+      "szczupaka w sosie szarym.",
+      "karpia panierowanego.",
+      "doradę pieczoną.",
+      "sandacza faszerowanego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 129,
+    "text": "Metodę francuską należy zastosować do podania zupy",
+    "answers": [
+      "pomidorowej czystej.",
+      "krem z porów.",
+      "cebulowej zapiekanej z serem.",
+      "barszczu ukraińskiego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 130,
+    "text": "Blender kielichowy należy zastosować do sporządzenia",
+    "answers": [
+      "Black Russian.",
+      "Grog marynarski.",
+      "Pina Colady.",
+      "Irish Coffee."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 131,
+    "text": "Napój kawowy wykonany zgodnie z zamieszczonym opisem to",
+    "answers": [
+      "latte macchiatto.",
+      "espresso macchiatto.",
+      "caffè mocha.",
+      "caffè frappé."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_opis2.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 132,
+    "text": "System samoobsługowy, w którym potrawy i napoje są wyeksponowane na bufetach wydawczych w jednym ciągu, to system",
+    "answers": [
+      "polski.",
+      "czeski.",
+      "szwedzki.",
+      "francuski."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 133,
+    "text": "Którą potrawę z przedstawionego zamówienia gościa należy podać jako pierwszą?",
+    "answers": [
+      "Gulasz wołowy z kopytkami.",
+      "Surówkę z czerwonej kapusty.",
+      "Bulion drobiowy z kołdunami.",
+      "Sałatę z grillowanym oscypkiem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_zamowienie2.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 134,
+    "text": "Do sałaty z melonem i grillowanym filetem z kurczaka w sosie miodowym należy zaproponować wino",
+    "answers": [
+      "lekkie czerwone.",
+      "lekkie białe.",
+      "ciężkie czerwone.",
+      "ciężkie białe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 135,
+    "text": "Urządzenie przedstawione na ilustracji należy zastosować do sporządzenia",
+    "answers": [
+      "tostów zapiekanych z serem.",
+      "pieczarek duszonych w śmietanie.",
+      "jabłek pieczonych z żurawiną.",
+      "bananów smażonych w cieście."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_urzadzenie5.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 136,
+    "text": "Smażenie należy zastosować do sporządzenia",
+    "answers": [
+      "pieczeni rzymskiej.",
+      "zrazów wołowych.",
+      "klopsa wieprzowego.",
+      "sznycli ministerskich."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 137,
+    "text": "Który z wymienionych surowców niezbędny do wykonania jednej porcji short drinka Blue Kamikaze jest oznaczony „?” w zamieszczonym normatywie surowcowym?",
+    "answers": [
+      "Sok z cytryny.",
+      "Napar z kawy.",
+      "Śmietanka UHT 12%.",
+      "Napój typu cola."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_normatyw5.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 138,
+    "text": "Przyjęciem w formie zasiadanej jest",
+    "answers": [
+      "koktajl party.",
+      "oficjalny obiad.",
+      "aperitif.",
+      "toast."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 139,
+    "text": "Na której ilustracji przedstawiono prawidłowo zaparzone espresso?",
+    "answers": [
+      "IV",
+      "II",
+      "III",
+      "I"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_ilustracje.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 140,
+    "text": "Wskaż opis rewirowego systemu pracy kelnerów.",
+    "answers": [
+      "Kelnerzy wykonują czynności kelnerskie pod nadzorem starszego kelnera, korzystają z pomocy młodszych kelnerów i praktykantów.",
+      "Kelnerzy pracują w zespołach 4-osobowych, w których każdy z nich jest odpowiedzialny za inne czynności związane z obsługą gości.",
+      "Kelnerzy pracują w zespole, mają wspólną odpowiedzialność materialną za powierzony im w komis towar.",
+      "Kelnerzy wykonują wszystkie czynności związane z obsługą gości w wydzielonej części sali konsumenckiej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 141,
+    "text": "W celu usunięcia skórki z pomarańczy i uzyskania cząstek owocu pozbawionych albedo należy zastosować",
+    "answers": [
+      "szypułkowanie.",
+      "filetowanie.",
+      "drylowanie.",
+      "drążenie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 142,
+    "text": "Element bielizny stołowej oznaczony na ilustracji strzałką, to",
+    "answers": [
+      "bieżnik.",
+      "napperon.",
+      "obrus.",
+      "skirting."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_bielizna.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 143,
+    "text": "Który napój należy zaproponować gościom na digestif?",
+    "answers": [
+      "Napój typu cola.",
+      "Lemoniadę.",
+      "Likier ziołowy.",
+      "Wino deserowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 144,
+    "text": "Chwyt sztućców przedstawiony na ilustracji ma zastosowanie przy podawaniu",
+    "answers": [
+      "naleśników.",
+      "kopytek.",
+      "knedli.",
+      "pierogów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_chwyt2.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 145,
+    "text": "Ile kg truskawek należy zaplanować do sporządzenia 200 porcji musu, jeżeli na 4 porcje potrzeba 200 g tego owocu?",
+    "answers": [
+      "100 kg",
+      "0,1 kg",
+      "1 kg",
+      "10 kg"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 146,
+    "text": "Do wykonania drinka muddlerowanego należy użyć sprzętu przedstawionego na rysunku",
+    "answers": [
+      "III",
+      "II",
+      "I",
+      "IV"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_sprzety6.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 147,
+    "text": "Do trybowania tuszki kurczaka należy użyć deski w kolorze",
+    "answers": [
+      "żółtym.",
+      "białym.",
+      "brązowym.",
+      "czerwonym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 148,
+    "text": "Podchodząc z lewej strony gościa, kelner powinien podać",
+    "answers": [
+      "zupę w bulionówce.",
+      "surówkę na talerzu.",
+      "deser w pucharku.",
+      "kawę w filiżance."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 149,
+    "text": "Do flambirowania bananów należy użyć",
+    "answers": [
+      "tequli",
+      "geneveru.",
+      "ginu",
+      "rumu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 150,
+    "text": "Do ekspedycji napojów zimnych na bufecie śniadaniowym jest przeznaczony",
+    "answers": [
+      "ekspozytor.",
+      "dyspenser.",
+      "warnik.",
+      "termos."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 151,
+    "text": "Przedstawiony na ilustracji sprzęt jest wykorzystywany w serwisie",
+    "answers": [
+      "rosyjskim.",
+      "niemieckim.",
+      "angielskim.",
+      "francuskim."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_sprzet13.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 152,
+    "text": "Po zakończeniu pracy w danym dniu kelner powinien",
+    "answers": [
+      "rozliczyć się z gotówki i potwierdzeń płatności bezgotówkowej.",
+      "złożyć serwety indywidualnego użytku i pozostawić je na pomocniku kelnerskim.",
+      "nakryć stoły konsumenckie bielizną stołową na następny dzień.",
+      "ustawić na stołach zastawę stołową i elementy dekoracyjne na kolejny dzień."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 153,
+    "text": "Do ciastka czekoladowego z wiśniami i sosem waniliowym należy wyłożyć",
+    "answers": [
+      "wyłącznie łyżkę deserową.",
+      "widelec do ciast i łyżkę deserową.",
+      "wyłącznie widelec do ciast.",
+      "widelec deserowy i łyżkę deserową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 154,
+    "text": "Za pomocą wywieszki klamkowej gość hotelowy może zamówić do pokoju",
+    "answers": [
+      "śniadanie.",
+      "podwieczorek.",
+      "lunch.",
+      "kolację."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 155,
+    "text": "Które nakrycie należy przygotować dla gościa, który zamówił barszcz czerwony czysty z uszkami, pieczeń ze schabu z frytkami i kalafiorem z wody?",
+    "answers": [
+      "I",
+      "III",
+      "II",
+      "IV"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_nakrycia4.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 156,
+    "text": "Która cecha charakteryzuje świeżą rybę?",
+    "answers": [
+      "Błyszczące oczy.",
+      "Mętny śluz.",
+      "Matowe łuski.",
+      "Brunatne skrzela."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 157,
+    "text": "Który etap obróbki wstępnej marchwi przeznaczonej na surówkę jest oznaczony „?” w przedstawionym schemacie technologicznym?",
+    "answers": [
+      "Płukanie.",
+      "Obieranie.",
+      "Blanszowanie.",
+      "Sortowanie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_schemat4.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 158,
+    "text": "Przy stole zasiadły cztery osoby: kobieta, dziecko, starszy mężczyzna i młodszy mężczyzna. Komu w pierwszej kolejności należy podać kartę menu?",
+    "answers": [
+      "Starszemu mężczyźnie.",
+      "Młodszemu mężczyźnie.",
+      "Dziecku.",
+      "Kobiecie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 159,
+    "text": "Wskaż, na czym polega niezgodność z zasadami tworzenia kart menu, która występuje w zamieszczonym fragmencie karty menu dla dzieci. Fragment karty menu dla dzieci Rosół z kurczaka z kluskami Pulpety drobiowe podane z makaronem i surówką z marchwi Mus malinowy z bitą śmietanką Cena zestawu:18,00 zł",
+    "answers": [
+      "Zupa jest zbyt wysokoenergetyczna.",
+      "Zupa i danie główne sporządzone są z podobnych surowców.",
+      "W nazwie deseru użyto zbędnego zdrobnienia.",
+      "Nazwa dodatku do dania głównego jest niepoprawna językowo."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 160,
+    "text": "Do sporządzenia steków z rostbefu należy zastosować mięso",
+    "answers": [
+      "baranie.",
+      "wieprzowe.",
+      "wołowe.",
+      "cielęce."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 161,
+    "text": "Którą obróbkę termiczną należy zastosować do sporządzania pulpetów mięsnych?",
+    "answers": [
+      "Pieczenie.",
+      "Smażenie.",
+      "Gotowanie.",
+      "Duszenie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 162,
+    "text": "Zestaw których dodatków powinien zaproponować kelner, jeżeli gość zamówił pieczone roladki drobiowe?",
+    "answers": [
+      "Ziemniaki glazurowane w maśle, puree  brokułowe.",
+      "Kasza gryczana, sos grzybowy, marchewka glazurowana.",
+      "Ziemniaki puree, kapustę zasmażaną.",
+      "Kopytka, sos myśliwski, marchewka glazurowana."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 163,
+    "text": "Informacją nieobowiązkową w karcie win jest",
+    "answers": [
+      "nazwa producenta lub eksportera wina.",
+      "nazwa szczepu winogron z których wyprodukowano wino.",
+      "rocznik wina.",
+      "nazwa wina."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 164,
+    "text": "Przeprowadzając obróbkę wstępną marchwi podczas sporządzania surówki, należy wykonać kolejno czynności:",
+    "answers": [
+      "mycia, obierania, rozdrabniania, doprawiania.",
+      "mycia, obierania, sortowania.",
+      "mycia, obierania, płukania, rozdrabniania.",
+      "sortowania, obierania, mycia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 165,
+    "text": "Barwa młodego wina czerwonego charakteryzuje się odcieniem",
+    "answers": [
+      "ceglastym.",
+      "rubinowym.",
+      "fioletowym.",
+      "brunatnym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 166,
+    "text": "Która umiejętność nie ma wpływu na wizerunek zawodowy kelnera?",
+    "answers": [
+      "Profesjonalne prezentowanie menu.",
+      "Identyfikowanie smaków i aromatów.",
+      "Zapewnienie najwyższej jakości obsługi gości.",
+      "Gra na instrumentach klawiszowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 167,
+    "text": "Który element nie jest częścią składową receptury gastronomicznej?",
+    "answers": [
+      "Normatyw surowcowy potrawy.",
+      "Nazwa potrawy.",
+      "Sposób podania potrawy.",
+      "Sposób wykonania potrawy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 168,
+    "text": "Sporządzone kotlety mielone, które nie zostały skierowane do bieżącego spożycia, przygotowując do przechowywania, należy wychłodzić do temperatury",
+    "answers": [
+      "2°C w czasie nie dłuższym niż 3 godziny.",
+      "10°C w czasie nie dłuższym niż 2 godziny.",
+      "4°C w czasie nie dłuższym niż 2 godziny.",
+      "8°C w czasie nie dłuższym niż 3 godziny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 169,
+    "text": "Świeże ostrygi należy podać na półmisku",
+    "answers": [
+      "ustawionym na podgrzewaczu.",
+      "wyłożonym sałatą lodową.",
+      "wyłożonym kruszonym lodem.",
+      "polanym sokiem cytryny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 170,
+    "text": "Za nieprawidłowe podanie konsumentowi dania głównego na zimnym talerzu odpowiada",
+    "answers": [
+      "kucharz.",
+      "kelner.",
+      "pomocnik kucharza.",
+      "kierownik sali."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 171,
+    "text": "Do nakrycia stołu długości 120 cm i szerokości 90 cm, kelner powinien przygotować obrus o wymiarach",
+    "answers": [
+      "długość 180 cm i szerokość 140 cm",
+      "długość 220 cm i szerokość 180 cm",
+      "długość 150 cm i szerokość 120 cm",
+      "długość 180 cm i szerokość 150 cm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 172,
+    "text": "Przedstawioną na rysunku zastawę szklaną kelner użyje do podania",
+    "answers": [
+      "picker uppers.",
+      "party drinks.",
+      "hot drinks.",
+      "coffee drinks."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_zastawa.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 173,
+    "text": "Obowiązkiem kelnerów po zakończonym przyjęciu okolicznościowym jest",
+    "answers": [
+      "zebranie ze stołów zastawy stołowej i jej umycie.",
+      "odkurzenie wykładzin i umycie podłogi w sali bankietowej.",
+      "zabezpieczenie pozostałych po przyjęciu potraw i napojów.",
+      "rozliczenie sprzętu, zastawy i bielizny stołowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 174,
+    "text": "Jaja są głównym składnikiem",
+    "answers": [
+      "musu jabłkowego.",
+      "omletu naturalnego.",
+      "kotleta mielonego.",
+      "budyniu malinowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 175,
+    "text": "Gość na obiad zamówił danie główne z surówką, wino wytrawne i wodę. Kelner obsługując gościa powinien podać potrawy i napoje w następującej kolejności:",
+    "answers": [
+      "woda, \nsurówka, \ndanie główne, \nwino wytrawne.",
+      "danie główne, \nsurówka, \nwino wytrawne, \nwoda.",
+      "woda, \nsurówka, \nwino wytrawne, \ndanie główne.",
+      "surówka, \ndanie główne, \nwino wytrawne, \nwoda."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 176,
+    "text": "Do kolacji zaplanowano napoje: Campari orange na aperitif, dwa rodzaje wina czerwonego i wodę. Kelner przygotowując stół do tego posiłku oprócz gobletu powinien ustawić na stole",
+    "answers": [
+      "szkło do aperitifu, dwa kieliszki do wina czerwonego.",
+      "kieliszek do wina czerwonego.",
+      "dwa kieliszki do wina czerwonego.",
+      "szkło do aperitifu, kieliszek do wina czerwonego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 177,
+    "text": "Kelner, podając potrawy i napoje na przyjęciu rodzinnym, powinien gości obsłużyć w następującej kolejności:",
+    "answers": [
+      "gość honorowy, gospodarze, kobiety, mężczyźni, dzieci.",
+      "gość honorowy, kobiety, mężczyźni, gospodarze, dzieci.",
+      "dzieci, gość honorowy, gospodarze, kobiety, mężczyźni.",
+      "dzieci, gość honorowy, kobiety, mężczyźni, gospodarze."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 178,
+    "text": "Kelner serwując pieczonego pstrąga z dodatkami z półmiska na talerz gościa, rybę powinien ułożyć",
+    "answers": [
+      "na środku w górnej części talerza.",
+      "na środku w dolnej części talerza.",
+      "po prawej stronie w górnej części talerza.",
+      "po lewej stronie w górnej części talerza."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 179,
+    "text": "Które pieczywo nie może być wykorzystane do spożycia?",
+    "answers": [
+      "Z odstającą skórką.",
+      "Przypieczone.",
+      "Czerstwe.",
+      "Z pleśnią na skórce."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 180,
+    "text": "Do kaczki konfitowanej, kelner powinien zaproponować wino",
+    "answers": [
+      "czerwone wytrawne.",
+      "czerwone półsłodkie.",
+      "białe wytrawne.",
+      "białe półsłodkie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 181,
+    "text": "Na podstawie danych zamieszczonych w tabeli, wskaż numer próbki świeżego masła śmietankowego.",
+    "answers": [
+      "3.",
+      "4.",
+      "2.",
+      "1."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_tabela21.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 182,
+    "text": "Którą czynność kelner powinien wykonać podchodząc z prawej strony gościa?",
+    "answers": [
+      "Prezentacja wina w butelce.",
+      "Podanie surówki jako dodatku do dania głównego.",
+      "Przyjęcie zamówienia.",
+      "Serwis potraw z półmiska na talerz gościa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 183,
+    "text": "Na rysunku przedstawiono kieliszek do podania",
+    "answers": [
+      "grappy.",
+      "wina białego.",
+      "wina czerwonego.",
+      "sherry."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_kieliszek4.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 184,
+    "text": "Przy podaniu naleśników flambirowanych, wskazane jest zastosowanie przez kelnera serwisu",
+    "answers": [
+      "amerykańskiego.",
+      "angielskiego.",
+      "francuskiego uproszczonego.",
+      "francuskiego pełnego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 185,
+    "text": "Warzywa korzeniowe w tradycyjnej sałatce jarzynowej należy pokroić w",
+    "answers": [
+      "paski.",
+      "piórka.",
+      "plastry.",
+      "kostkę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 186,
+    "text": "Kelner obsługując gościa w pokoju hotelowym wykorzysta",
+    "answers": [
+      "tacę lub wózek serwisowy.",
+      "wózek chłodniczy do deserów lub bemar.",
+      "wózek kelnerski lub stolik koktajlowy.",
+      "tacę lub pomocnik kelnerski."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 187,
+    "text": "Krytycznym Punktem Kontroli (CCP) podczas transportu zakąsek zimnych w usłudze cateringowej jest",
+    "answers": [
+      "temperatura przechowywania zakąsek.",
+      "czas schładzania zakąsek.",
+      "temperatura przewożenia zakąsek.",
+      "czas przechowywania zakąsek."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 188,
+    "text": "Podczas serwisu angielskiego czynnością niewskazaną jest",
+    "answers": [
+      "filetowanie upieczonej ryby.",
+      "obieranie warzyw.",
+      "dzielenie pieczeni wołowej.",
+      "filetowanie pomarańczy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 189,
+    "text": "Do porcjowania mięsa gotowanego należy użyć deski koloru",
+    "answers": [
+      "żółtego.",
+      "brązowego.",
+      "czerwonego.",
+      "zielonego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 190,
+    "text": "Sztućców serwisowych kelner nie powinien zastosować podając dania serwisem",
+    "answers": [
+      "angielskim.",
+      "francuskim.",
+      "rosyjskim.",
+      "niemieckim."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 191,
+    "text": "Jaki system obsługi zastosowano w restauracji hotelowej, jeśli kelnerzy przyjmują zamówienia na dania gorące i napoje, a sałatki i desery goście sami wybierają i przenoszą na stół z bufetów?",
+    "answers": [
+      "Samoobsługi typu szwedzkiego.",
+      "Samoobsługi typu czeskiego.",
+      "Obsługi kelnerskiej.",
+      "Obsługi mieszanej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 192,
+    "text": "Które urządzenie nie może być wykorzystane do pieczenia ciasta?",
+    "answers": [
+      "Piekarnik.",
+      "Szybkowar.",
+      "Piec konwekcyjny.",
+      "Kuchnia mikrofalowa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 193,
+    "text": "Określ brakującą w przedstawionym schemacie czynność, którą kelner wykona za pomocą przenośnego terminalu kelnerskiego przekazując zamówienia do realizacji.",
+    "answers": [
+      "Wprowadzenie ilości zamówionych potraw, napojów.",
+      "Wprowadzenie wysokości stawek podatku VAT.",
+      "Wprowadzenie daty operacji.",
+      "Wprowadzenie nazwiska kelnera."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_schemat3.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 194,
+    "text": "Które pytanie skierowane do gości przez kelnera przyjmującego zamówienie jest właściwe?",
+    "answers": [
+      "Czy mogę przyjąć zamówienie?",
+      "Czy państwo już wybrali?",
+      "Czy coś państwu podać?",
+      "Czego państwo sobie życzą?"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 195,
+    "text": "Sprzęt przedstawiony na rysunku ma zastosowanie do parzenia",
+    "answers": [
+      "kawy po turecku.",
+      "kawy espresso.",
+      "herbaty ekspresowej.",
+      "herbaty liściastej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_sprzet11.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 196,
+    "text": "Która czynność nie należy do obowiązków kelnera podczas obsługi gości siedzących przy stole podczas przyjęcia zasiadanego?",
+    "answers": [
+      "Realizacja dodatkowych zamówień i życzeń gości.",
+      "Utrzymywanie porządku na bufecie.",
+      "Sprzątanie ze stołu zastawy stołowej po konsumpcji dań.",
+      "Podawanie do stołu potraw i napojów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 197,
+    "text": "Miseczkę z wodą do opłukania opuszków palców kelner powinien podać gościowi do konsumpcji",
+    "answers": [
+      "filetowanych pomarańczy.",
+      "winogron.",
+      "truskawek w czekoladzie.",
+      "bananów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 198,
+    "text": "W jakiej odległości od krawędzi stołu należy ułożyć talerze i sztućce, nakrywając stół na bankiet zasiadany?",
+    "answers": [
+      "3,5 cm",
+      "0,5 cm",
+      "1,5 cm",
+      "2,5 cm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 199,
+    "text": "Zupą niezagęszczaną jest",
+    "answers": [
+      "grochowa.",
+      "consommé z dziczyzny.",
+      "krem z pomidorów.",
+      "krupnik."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 200,
+    "text": "Śmietankę o jakiej zawartości tłuszczu należy wykorzystać do sporządzenia kremu bita śmietana?",
+    "answers": [
+      "30% tłuszczu.",
+      "9% tłuszczu.",
+      "12% tłuszczu.",
+      "18% tłuszczu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 201,
+    "text": "Cechą charakterystyczną świeżego jaja jest",
+    "answers": [
+      "mętne białko.",
+      "rozlane żółtko.",
+      "zerwana chalaza.",
+      "wypukłe żółtko."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 202,
+    "text": "Galantyna to potrawa",
+    "answers": [
+      "duszona.",
+      "pieczona.",
+      "gotowana.",
+      "smażona."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 203,
+    "text": "Stoiskowy system samoobsługowy nazywany jest",
+    "answers": [
+      "czeskim.",
+      "polskim.",
+      "angielskim.",
+      "szwedzkim."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 204,
+    "text": "Na rysunku przedstawiono sposób serwowania potraw serwisem",
+    "answers": [
+      "francuskim.",
+      "rosyjskim.",
+      "niemieckim.",
+      "angielskim."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/tg10_serwis.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 205,
+    "text": "Którą potrawę należy zaproponować konsumentowi stosującemu dietę bogatobiałkową?",
+    "answers": [
+      "Fasolkę po bretońsku.",
+      "Dorsza gotowanego.",
+      "Kaczkę pieczoną.",
+      "Golonkę po bawarsku."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 206,
+    "text": "Nóż przedstawiony na rysunku służy do przygotowania",
+    "answers": [
+      "raków.",
+      "ostryg.",
+      "sushi.",
+      "ryb."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/tg10_noz.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 207,
+    "text": "Na końcu karty win należy umieścić wina",
+    "answers": [
+      "musujące.",
+      "deserowe.",
+      "aperitifowe.",
+      "wzmocnione."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 208,
+    "text": "Sommelier to ekspert, który ma doskonałe rozeznanie w gatunkach, smaku, aromacie i służy umiejętnościami w doborze",
+    "answers": [
+      "kaw.",
+      "wódek.",
+      "win.",
+      "piw."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 209,
+    "text": "Konieczność zidentyfikowania i opisania Krytycznych Punktów Kontroli w zakładzie gastronomicznym określa system",
+    "answers": [
+      "GHP",
+      "QAFP",
+      "GMP",
+      "HACCP"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 210,
+    "text": "Wypiek ciasta drożdżowego odbywa się w zakresie temperatur",
+    "answers": [
+      "180÷200˚C",
+      "140÷160˚C",
+      "100÷120˚C",
+      "220÷240˚C"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 211,
+    "text": "Który alkohol powinien zaproponować konsumentowi kelner po posiłku do kawy?",
+    "answers": [
+      "Koniak.",
+      "Whisky.",
+      "Szampan.",
+      "Wódkę."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 212,
+    "text": "Do sporządzenia koktajlu Margarita wykorzystuje się likier o smaku",
+    "answers": [
+      "kawowym.",
+      "migdałowym.",
+      "pomarańczowym.",
+      "cytrynowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 213,
+    "text": "Do ekspedycji zupy na przyjęciu angielskim należy zastosować",
+    "answers": [
+      "warnik.",
+      "bemar.",
+      "salamander.",
+      "saturator."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 214,
+    "text": "Do wyposażenia zawodowego kelnera należą",
+    "answers": [
+      "taca, trybuszon.",
+      "zapałki, wizytówki.",
+      "zapalniczka, trybuszon.",
+      "taca, zapalniczka."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 215,
+    "text": "Krótkotrwałe obsmażenie bitek wołowych, następnie podlanie bulionem i ogrzewanie pod przykryciem nazywa się",
+    "answers": [
+      "duszeniem.",
+      "grillowaniem.",
+      "gotowaniem.",
+      "blanszowaniem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 216,
+    "text": "Do konsumpcji steka t-bone kelner powinien zaproponować wino",
+    "answers": [
+      "białe wytrawne.",
+      "czerwone wytrawne.",
+      "czerwone musujące.",
+      "białe półwytrawne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 217,
+    "text": "Do krojenia kalmarów należy użyć deski w kolorze",
+    "answers": [
+      "czerwonym.",
+      "niebieskim.",
+      "zielonym.",
+      "brązowym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 218,
+    "text": "Którą metodę obróbki termicznej należy zastosować przygotowując churros, tradycyjną potrawę kuchni hiszpańskiej?",
+    "answers": [
+      "Grillowanie.",
+      "Smażenie.",
+      "Duszenie.",
+      "Gotowanie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 219,
+    "text": "Za właściwe funkcjonowanie restauracji odpowiada",
+    "answers": [
+      "kierownik zmiany.",
+      "kierownik restauracji.",
+      "kucharz.",
+      "kelner."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 220,
+    "text": "Który rodzaj serwisu zastosował kelner, serwując zupę z wazy z lewej strony gościa?",
+    "answers": [
+      "Angielski.",
+      "Rosyjski.",
+      "Francuski.",
+      "Niemiecki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 221,
+    "text": "Przyjmując zamówienie na winiak, kelner powinien zaproponować",
+    "answers": [
+      "gin.",
+      "brandy.",
+      "wiśniówkę.",
+      "tequilę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 222,
+    "text": "Piwo niepasteryzowane należy przechowywać w ciemnych pomieszczeniach w temperaturze",
+    "answers": [
+      "17÷26˚C",
+      "0÷1˚C",
+      "13÷16˚C",
+      "2÷12˚C"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 223,
+    "text": "Surowy schab wieprzowy można przechowywać w lodówce w temperaturze ok.4˚C przez okres do",
+    "answers": [
+      "6 dni.",
+      "4 dni.",
+      "10 dni.",
+      "8 dni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 224,
+    "text": "Podkładka pod obrus układana bezpośrednio na blacie stołu to",
+    "answers": [
+      "molton.",
+      "skirting.",
+      "laufer.",
+      "serwetka."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 225,
+    "text": "Przyjęcie typu Lampka wina (toast) należy zaplanować o godzinie",
+    "answers": [
+      "12:30",
+      "18:30",
+      "16:30",
+      "14:30"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 226,
+    "text": "Do pożądanych umiejętności kelnera nie należy",
+    "answers": [
+      "ignorowanie potrzeb konsumentów.",
+      "współpraca w grupie.",
+      "rozwiązywanie konfliktów.",
+      "utrzymanie pozytywnych relacji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 227,
+    "text": "Sprzęt barmański przedstawiony na rysunku to",
+    "answers": [
+      "shaker.",
+      "jigger.",
+      "dyspenser.",
+      "mudler."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/tg10_sprzet.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 228,
+    "text": "Karta menu przygotowana dla diabetyków to karta",
+    "answers": [
+      "okolicznościowa.",
+      "standardowa.",
+      "specjalna.",
+      "dzienna."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 229,
+    "text": "Płonące lody z owocami kelner powinien podać, stosując serwis",
+    "answers": [
+      "francuski.",
+      "rosyjski.",
+      "niemiecki.",
+      "bufetowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 230,
+    "text": "Który sposób szczypcowy należy zastosować podczas serwowania knedli?",
+    "answers": [
+      "Boczny.",
+      "Płaski.",
+      "Rozwarty.",
+      "Wysoki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 231,
+    "text": "Która czynność wykonywana jest podczas obsługi gości z lewej strony?",
+    "answers": [
+      "Ustawianie talerzy do pieczywa.",
+      "Układanie noży.",
+      "Nalewanie wina.",
+      "Podawanie karty menu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 232,
+    "text": "Świeża ryba powinna charakteryzować się",
+    "answers": [
+      "wzdętym brzuchem.",
+      "mętnymi oczami.",
+      "sprężystym mięsem.",
+      "matową łuską."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 233,
+    "text": "Nadzienie do pielmieni sporządza się z mięsa",
+    "answers": [
+      "wieprzowego i drobiowego.",
+      "wołowego i drobiowego.",
+      "wołowego i jagnięcego.",
+      "wieprzowego i wołowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 234,
+    "text": "W naczyniu przedstawionym na rysunku nie należy serwować",
+    "answers": [
+      "musu.",
+      "kremu.",
+      "sufletu.",
+      "galaretki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/tg10_naczynie.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 235,
+    "text": "Do sporządzenia kawy americano należy użyć espresso oraz",
+    "answers": [
+      "gorącej wody.",
+      "gorącego mleka.",
+      "zimnej wody.",
+      "zimnego mleka."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 236,
+    "text": "Mąka pszenna charakteryzuje się białą barwą z lekkim odcieniem koloru",
+    "answers": [
+      "zielonego.",
+      "żółtego.",
+      "kremowego.",
+      "brązowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 237,
+    "text": "Urządzenie przedstawione na rysunku stosuje się do sporządzania potraw metodą",
+    "answers": [
+      "sous vide.",
+      "duszenia.",
+      "cook & chill.",
+      "pieczenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/tg10_urzadzenie.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 238,
+    "text": "Wymienione potrawy charakterystyczne są dla kuchni Potrawy: Kawior z bagietką Kołduny zapiekane Boeuf Strogonow Bliny z kołdunami",
+    "answers": [
+      "węgierskiej.",
+      "francuskiej.",
+      "rosyjskiej.",
+      "angielskiej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 239,
+    "text": "Do odmierzenia ilości alkoholu podczas sporządzania drinków należy użyć",
+    "answers": [
+      "gobletu.",
+      "highballa.",
+      "jiggera.",
+      "shakera."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 240,
+    "text": "Która z osób zatrudnionych w restauracji należy do grupy pracowników usługowych?",
+    "answers": [
+      "Kucharz.",
+      "Cukiernik.",
+      "Magazynier.",
+      "Sommelier."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 241,
+    "text": "Gościom z Francji do każdego posiłku należy zaproponować",
+    "answers": [
+      "kawę i sok owocowy.",
+      "piwo i wodę gazowaną.",
+      "herbatę i sok warzywny.",
+      "wino i wodę niegazowaną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 242,
+    "text": "Sprzęt służący do przygotowania fondue serowego przedstawiony jest na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_sprzety4.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 243,
+    "text": "Do sporządzenia drinka Bloody Mary należy użyć soku",
+    "answers": [
+      "pomarańczowego.",
+      "jabłkowego.",
+      "buraczanego.",
+      "pomidorowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 244,
+    "text": "Które owoce wykorzystano do dekoracji drinków przedstawionych na rysunku?",
+    "answers": [
+      "Miechunki.",
+      "Karamboli.",
+      "Pitaji.",
+      "Liczi."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_drinki.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 245,
+    "text": "Mycie mechaniczne nie wpływa na jakość sensoryczną",
+    "answers": [
+      "marchwi.",
+      "pomidora.",
+      "ogórka.",
+      "sałaty."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 246,
+    "text": "Korzystając z informacji zawartych w tabeli, oblicz ile kilogramów kwaśnych jabłek potrzeba do sporządzenia 50 porcji surówki z pora.",
+    "answers": [
+      "0,15 kg",
+      "1,20 kg",
+      "1,50 kg",
+      "0,30 kg"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_tabela15.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 247,
+    "text": "Suflet bananowy należy podać gościom metodą",
+    "answers": [
+      "niemiecką.",
+      "angielską.",
+      "rosyjską.",
+      "francuską."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 248,
+    "text": "Jarzyny zamówione jako dodatek do karkówki w sosie pieczeniowym z kluskami kładzionymi należy podać na",
+    "answers": [
+      "oddzielnym talerzu ustawionym powyżej nakrycia.",
+      "oddzielnym talerzu ustawionym po lewej stronie nakrycia.",
+      "talerzu do dania głównego razem z karkówką w sosie i kluskami.",
+      "oddzielnym talerzu ustawionym po prawej stronie nakrycia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 249,
+    "text": "Którą potrawę należy zaliczyć do dań koszernych podawanych w kuchni żydowskiej?",
+    "answers": [
+      "Kaczkę pieczoną z jabłkami.",
+      "Gulasz z szynki wieprzowej.",
+      "Krewetki duszone w białym winie.",
+      "Polędwiczki wieprzowe w sosie pieprzowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 250,
+    "text": "Który deser sporządza się z wymienionych w tabeli surowców?",
+    "answers": [
+      "Kisiel truskawkowy.",
+      "Galaretkę truskawkową.",
+      "Lody truskawkowe.",
+      "Pudding truskawkowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_tabela14.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 251,
+    "text": "Lunch należy podawać w godzinach",
+    "answers": [
+      "10:00÷12:00",
+      "12:00÷15:00",
+      "15:00÷17:00",
+      "7:00÷10:00"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 252,
+    "text": "Na rysunku miejsce ustawienia gobleta do wody oznaczone zostało cyfrą",
+    "answers": [
+      "1",
+      "3",
+      "4",
+      "2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_rysunek3.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 253,
+    "text": "Jednym ze składników sałatki caprese jest ser",
+    "answers": [
+      "camembert.",
+      "mascarpone.",
+      "mozzarella.",
+      "gorgonzola."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 254,
+    "text": "Wyporcjowane musy i kremy należy podawać w",
+    "answers": [
+      "gobletach.",
+      "kokilkach.",
+      "pucharkach.",
+      "gerydonach."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 255,
+    "text": "Kelner porusza się wokół stołu w stronę przeciwną do ruchu wskazówek zegara, jeżeli serwuje gościom",
+    "answers": [
+      "napój w filiżance.",
+      "zakąskę z półmiska.",
+      "zupę z kubka.",
+      "deser w pucharku."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 256,
+    "text": "W brygadowym systemie obsługi konsumentów kelnerzy mogą jednocześnie obsłużyć od",
+    "answers": [
+      "60 do 100 gości.",
+      "20 do 50 gości.",
+      "170 do 200 gości.",
+      "120 do 150 gości."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 257,
+    "text": "Kawa caffe latte powstaje z kawy espresso z dodatkiem",
+    "answers": [
+      "lodów waniliowych.",
+      "skórki cytrynowej.",
+      "syropu czekoladowego.",
+      "spienionego mleka."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 258,
+    "text": "Którą z metod podawania potraw i napojów należy zastosować, jeśli goście zamówili przyjęcie w stylu rodzinnym?",
+    "answers": [
+      "Rosyjską.",
+      "Niemiecką.",
+      "Francuską.",
+      "Angielską."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 259,
+    "text": "Gość, który zamówił omlet biszkoptowy, otrzyma deser",
+    "answers": [
+      "mrożony.",
+      "zimny.",
+      "gorący.",
+      "płonący."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 260,
+    "text": "Który system ekspedycji stosowany w zakładach gastronomicznych samoobsługowych przedstawiony został na rysunku?",
+    "answers": [
+      "Schodkowy.",
+      "Okienkowy.",
+      "Stoiskowy.",
+      "Liniowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_rysunek2.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 261,
+    "text": "Do nakrycia stołu bankietowego o średnicy 185 cm należy przeznaczyć obrus o średnicy",
+    "answers": [
+      "205 cm",
+      "245 cm",
+      "225 cm",
+      "185 cm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 262,
+    "text": "Którą potrawę sporządzi kucharz, posługując się normatywem surowcowym z tabeli?",
+    "answers": [
+      "Kluski leniwe.",
+      "Kopytka.",
+      "Naleśniki z serem.",
+      "Kluski śląskie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_tabela16.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 263,
+    "text": "Typowym daniem śniadaniowym kuchni hiszpańskiej jest",
+    "answers": [
+      "wędzony łosoś ze świeżym koperkiem.",
+      "tost ze świeżymi owocami i bitą śmietaną.",
+      "brązowy kozi ser przygotowany na słodko.",
+      "churros z gorącą czekoladą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 264,
+    "text": "Do sporządzenia 6 porcji Sangrii wykorzystuje się 750 ml wina czerwonego, 240 ml soku pomarańczowego, 40 ml koniaku i 45 g cukru. Oblicz ile wina i soku pomarańczowego należy przygotować do sporządzenia 16 porcji napoju.",
+    "answers": [
+      "Wino czerwone 2 l, sok pomarańczowy 0,64 l",
+      "Wino czerwone 0,2 l, sok pomarańczowy 6,4 l",
+      "Wino czerwone 0,2 l, sok pomarańczowy 0,64 l",
+      "Wino czerwone 2 l, sok pomarańczowy 6,4 l"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 265,
+    "text": "Na którym przyjęciu do zadań kelnera należy roznoszenie na tacach wyporcjowanych napojów i drobnych przekąsek?",
+    "answers": [
+      "Uroczystej kolacji.",
+      "Oficjalnym obiedzie.",
+      "Przyjęciu koktajlowym.",
+      "Przyjęciu mieszanym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 266,
+    "text": "Z którego warzywa nie sporządza się surówek?",
+    "answers": [
+      "Karczocha.",
+      "Kalafiora.",
+      "Kapusty białej.",
+      "Selera naciowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 267,
+    "text": "Przedstawione na rysunku nakrycie przygotowane zostało do podania",
+    "answers": [
+      "ostryg.",
+      "ślimaków.",
+      "langusty.",
+      "kawioru."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_nakrycie5.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 268,
+    "text": "Ragout to potrawa",
+    "answers": [
+      "pieczona.",
+      "duszona.",
+      "gotowana.",
+      "smażona."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 269,
+    "text": "Które elementy wchodzą w skład shakera bostońskiego?",
+    "answers": [
+      "Kubek mikserowy z sitkiem oraz przykrywką.",
+      "Kubek mikserowy, głowica z sitkiem i przykrywką.",
+      "Dwa metalowe kubki mikserowe bez sitka.",
+      "Dwa kubki mikserowe szklany i metalowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 270,
+    "text": "Skrót GMP oznacza",
+    "answers": [
+      "dobrą praktykę higieniczną.",
+      "analizę krytycznych punktów kontroli.",
+      "wyłącznie surowce z upraw ekologicznych.",
+      "dobrą praktykę produkcyjną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 271,
+    "text": "Na podstawie zamieszczonego w tabeli zamówienia wskaż kolejne czynności obsługi gościa serwisem francuskim.",
+    "answers": [
+      "Serwowanie napoju alkoholowego, serwowanie dodatku do zakąski zimnej, przygotowanie nakrycia, serwowanie zakąski.",
+      "Przygotowanie nakrycia, serwowanie napoju alkoholowego, serwowanie zakąski zimnej, serwowanie dodatku do zakąski zimnej.",
+      "Przygotowanie nakrycia, serwowanie dodatku do zakąski zimnej, serwowanie napoju alkoholowego, serwowanie zakąski zimnej.",
+      "Serwowanie dodatku do zakąski zimnej, serwowanie zakąski zimnej, przygotowanie nakrycia, serwowanie napoju alkoholowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_tabela17.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 272,
+    "text": "Pieczywo należy podać gościowi na talerz płaski o średnicy",
+    "answers": [
+      "17 cm",
+      "23 cm",
+      "28 cm",
+      "19 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 273,
+    "text": "Którą technikę przygotowania potrawy przedstawiono na rysunku?",
+    "answers": [
+      "Trybowanie.",
+      "Flambirowanie.",
+      "Tranżerowanie.",
+      "Filetowanie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_technika.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 274,
+    "text": "Na rysunkach przedstawiono kolejne etapy wykonania",
+    "answers": [
+      "twista.",
+      "garni.",
+      "crusty.",
+      "zesta."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_rysunki2.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 275,
+    "text": "Sztućce do pstrąga pieczonego przedstawione są na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_sztucce7.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 276,
+    "text": "Optymalna temperatura przechowywania sera fety wynosi",
+    "answers": [
+      "2 ÷ 6°C",
+      "-1 ÷ 1°C",
+      "14 ÷ 18°C",
+      "8 ÷ 12°C"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 277,
+    "text": "Który proces obróbki cieplnej należy zastosować, sporządzając naleśniki biszkoptowe?",
+    "answers": [
+      "Smażenie.",
+      "Duszenie.",
+      "Pieczenie.",
+      "Gotowanie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 278,
+    "text": "Do krojenia nabiału zgodnie z systemem HACCP należy stosować deski koloru",
+    "answers": [
+      "czerwonego.",
+      "żółtego.",
+      "białego.",
+      "zielonego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 279,
+    "text": "Wskaż patelnię, która przeznaczona jest do sporządzenia jaj sadzonych?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_patelnie.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 280,
+    "text": "Charakterystyczną cechą świeżego jaja jest",
+    "answers": [
+      "przejrzyste białko.",
+      "powiększona komora powietrzna.",
+      "spłaszczone żółtko.",
+      "błyszcząca, śliska skorupa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 281,
+    "text": "Podczas moczenia suchych nasion fasoli białej w wodzie zachodzi zjawisko",
+    "answers": [
+      "osmozy.",
+      "autolizy.",
+      "denaturacji.",
+      "transpiracji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 282,
+    "text": "Do dekoracji bocznych powierzchni stołu bufetowego służy",
+    "answers": [
+      "molton.",
+      "laufer.",
+      "skirting.",
+      "serwetka."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 283,
+    "text": "Zupę z żółwia należy podać konsumentowi w porcelanowej",
+    "answers": [
+      "czarce.",
+      "filiżance.",
+      "bulionówce.",
+      "miseczce."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 284,
+    "text": "Który sposób chwytania sztućców serwisowych należy zastosować podczas serwowania jaja garnirowanego?",
+    "answers": [
+      "Szczypcowy poziomy.",
+      "Szczypcowy rozwarty.",
+      "Szczypcowy boczny.",
+      "Szczypcowy wysoki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 285,
+    "text": "Wskaż warunki, w których należy przechowywać otwarte opakowanie mleka UHT.",
+    "answers": [
+      "16ºC÷20ºC, wilgotność 80%",
+      "9ºC÷12ºC, wilgotność 60%",
+      "13ºC÷15ºC, wilgotność 60%",
+      "5ºC÷8ºC, wilgotność 80%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 286,
+    "text": "Przechowywanie ziemniaków w magazynie warzyw przez 3 miesiące w temperaturze powyżej 10˚C powoduje ich",
+    "answers": [
+      "kiełkowanie.",
+      "dojrzewanie.",
+      "jełczenie.",
+      "utlenianie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 287,
+    "text": "Kelner, przygotowując sałatkę owocową przy konsumencie, stosuje serwis",
+    "answers": [
+      "francuski.",
+      "rosyjski.",
+      "angielski.",
+      "niemiecki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 288,
+    "text": "Barista to osoba zawodowo zajmująca się przygotowaniem oraz podawaniem",
+    "answers": [
+      "wód.",
+      "kaw.",
+      "piw.",
+      "win."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 289,
+    "text": "Rozpoczęcie przyjęcia bufetowego należy zaplanować w godzinach",
+    "answers": [
+      "porannych.",
+      "wieczornych.",
+      "południowych.",
+      "popołudniowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 290,
+    "text": "Który serwis obsługi zastosował kelner podczas przyjęcia zasiadanego, jeżeli konsument pobierał z tacy wyporcjowane wino w kieliszkach?",
+    "answers": [
+      "Angielski.",
+      "Niemiecki.",
+      "Francuski.",
+      "Rosyjski."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 291,
+    "text": "Którego likieru należy użyć do sporządzenia cocktailu Margarita?",
+    "answers": [
+      "Amaretto.",
+      "Malibu.",
+      "Cointreau.",
+      "Mandarinetto."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 292,
+    "text": "Kelner obsługuje gościa z prawej strony,",
+    "answers": [
+      "ustawiając talerzyk do pieczywa.",
+      "podając kartę menu.",
+      "serwując danie z półmiska.",
+      "nalewając zupę z wazy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 293,
+    "text": "Do rozgniatania owoców i świeżych ziół barman powinien użyć",
+    "answers": [
+      "dyspensera.",
+      "muddlera.",
+      "młynka.",
+      "jiggera."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 294,
+    "text": "Składnikami sałatki nicejskiej są: sałata, pomidory, anchois, cebula oraz",
+    "answers": [
+      "śledź.",
+      "tuńczyk.",
+      "łosoś.",
+      "lin."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 295,
+    "text": "Jeśli gość chce zamówić aperitif, to kelner przyjmując zamówienie powinien zaproponować",
+    "answers": [
+      "campari z sokiem pomarańczowym.",
+      "koniak.",
+      "wiśniówkę.",
+      "armaniak z sokiem jabłkowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 296,
+    "text": "Przedstawiony na rysunku tygielek ma zastosowanie do przygotowania kawy po",
+    "answers": [
+      "irlandzku.",
+      "turecku.",
+      "rosyjsku.",
+      "staropolsku."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_tygielek.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 297,
+    "text": "Pozytywna cecha osobowa kelnera, wynikająca z wewnętrznej motywacji do pracy i polegająca na wewnętrznym przekonaniu, że każde zadanie należy wykonać jak najlepiej, to",
+    "answers": [
+      "komunikatywność.",
+      "odpowiedzialność.",
+      "próżność.",
+      "egoizm."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 298,
+    "text": "Umieszczone na etykiecie butelki z winem określenie doux oznacza wino",
+    "answers": [
+      "wytrawne.",
+      "słodkie.",
+      "półwytrawne.",
+      "półsłodkie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 299,
+    "text": "Do zapiekania potraw służy",
+    "answers": [
+      "bemar.",
+      "saturator.",
+      "warnik.",
+      "salamander."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 300,
+    "text": "W systemie produkcji potraw typu cook&chill magazynowanie gotowych potraw odbywa się w zakresie temperatur -1˚C÷3˚C przez okres",
+    "answers": [
+      "9 dni.",
+      "5 dni.",
+      "11 dni.",
+      "7 dni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 301,
+    "text": "Do konsumpcji roladek cielęcych kelner powinien zaproponować wino",
+    "answers": [
+      "białe wytrawne.",
+      "czerwone półwytrawne.",
+      "białe słodkie.",
+      "czerwone wytrawne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 302,
+    "text": "Nóż wykonany z masy perłowej należy podać do konsumpcji",
+    "answers": [
+      "krewetek.",
+      "ryb.",
+      "sushi.",
+      "kawioru."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 303,
+    "text": "Groszek zielony należy gotować w",
+    "answers": [
+      "dużej ilości wody pod przykryciem.",
+      "dużej ilości wody bez przykrycia.",
+      "małej ilości wody bez przykrycia.",
+      "małej ilości wody pod przykryciem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 304,
+    "text": "Do sporządzenia polenty – tradycyjnej potrawy kuchni włoskiej – należy użyć mąki",
+    "answers": [
+      "ryżowej.",
+      "kukurydzianej.",
+      "żytniej.",
+      "pszennej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 305,
+    "text": "Którą metodę obróbki termicznej należy zastosować, przygotowując bliny?",
+    "answers": [
+      "Grillowanie.",
+      "Gotowanie.",
+      "Duszenie.",
+      "Smażenie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 306,
+    "text": "Należy unikać łączenia świeżych pomidorów ze świeżymi ogórkami ze względu na aktywne działanie",
+    "answers": [
+      "zjawiska osmozy.",
+      "procesu fotosyntezy.",
+      "magnezu zawartego w pomidorach.",
+      "enzymu askorbinazy zawartego w ogórkach."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 307,
+    "text": "Charakterystyczną potrawą kuchni włoskiej jest",
+    "answers": [
+      "warennik.",
+      "cymes.",
+      "pielmieni.",
+      "saltimbocca."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 308,
+    "text": "Na przyjęciu weselnym organizowanym w restauracji stosuje się kartę menu",
+    "answers": [
+      "dzienną.",
+      "lunchową.",
+      "okolicznościową.",
+      "specjalną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 309,
+    "text": "Do krojenia szynki wędzonej zgodnie z systemem HACCP należy użyć deski w kolorze",
+    "answers": [
+      "zielonym.",
+      "białym.",
+      "brązowym.",
+      "czerwonym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 310,
+    "text": "Zgodnie z obowiązującym regulaminem bhp pracy kelner może mieć założony na ręku",
+    "answers": [
+      "pierścionek.",
+      "łańcuszek.",
+      "sygnet rodowy.",
+      "zegarek."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 311,
+    "text": "Korzeń chrzanu przechowywany w temperaturze 12˚C, przez okres 7 miesięcy wykazuje znaczny ubytek wody oraz witaminy",
+    "answers": [
+      "D",
+      "C",
+      "H",
+      "B12"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 312,
+    "text": "Który serwis stosowany jest w restauracji, jeśli goście samodzielnie nakładają sobie potrawy na talerz i przenoszą je do stołów konsumenckich?",
+    "answers": [
+      "Bufetowy.",
+      "Angielski.",
+      "Francuski.",
+      "Niemiecki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 313,
+    "text": "Gotowanie próżniowo zapakowanego fileta z kurczaka, umieszczonego w kąpieli wodnej w temperaturze 65ºC przez 2 godziny, to metoda",
+    "answers": [
+      "sous vide.",
+      "duszenia.",
+      "cook&serve.",
+      "blanszowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 314,
+    "text": "Na rysunku przedstawiono podawanie potraw serwisem",
+    "answers": [
+      "francuskim.",
+      "niemieckim.",
+      "angielskim.",
+      "rosyjskim."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt01/t9_serwis.png"
+    },
+    "category": "HGT.01"
+  },
+  {
+    "id": 315,
+    "text": "Konsumentowi stosującemu dietę lekkostrawną nie należy proponować potrawy",
+    "answers": [
+      "gotowanej sous vide.",
+      "gotowanej confit.",
+      "gotowanej w wodzie.",
+      "gotowanej na parze."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 316,
+    "text": "Który alkohol powinien zaproponować kelner konsumentowi do konsumpcji kawioru?",
+    "answers": [
+      "Wino białe półsłodkie.",
+      "Szampan półsłodki.",
+      "Wino czerwone wytrawne.",
+      "Szampan wytrawny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.01"
+  },
+  {
+    "id": 317,
+    "text": "Konsument, który dokonuje wyboru potraw, płaci w kasie i odbiera potrawy przy okienku, korzysta z systemu samoobsługi typu",
+    "answers": [
+      "polskiego.",
+      "czeskiego.",
+      "szwedzkiego.",
+      "francuskiego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.01"
+  }
+]
