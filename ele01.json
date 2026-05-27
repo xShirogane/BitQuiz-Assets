@@ -1,0 +1,4183 @@
+[
+  {
+    "id": 1,
+    "text": "Które z przedstawionych narzędzi jest przeznaczone do demontażu kół zębatych z wałów silników elektrycznych?",
+    "answers": [
+      "Narzędzie 1.",
+      "Narzędzie 2.",
+      "Narzędzie 3.",
+      "Narzędzie 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_narzedzia18.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 2,
+    "text": "Do realizacji układu przedstawionego na schemacie należy zastosować stycznik Q19 z następującą liczbą i rodzajem zestyków:",
+    "answers": [
+      "3NC + 2NO + 1NC",
+      "3NO + 2NO + 1NC",
+      "3NO + 1NO + 2NC",
+      "3NC + 1NO + 2NC"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_uklad29.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 3,
+    "text": "Do czego przeznaczone jest urządzenie przedstawione na ilustracji?",
+    "answers": [
+      "Do demontażu uzwojeń.",
+      "Do nawijania uzwojeń.",
+      "Do wyważania wirników.",
+      "Do montażu nabiegunników."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_urzadzenie14.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 4,
+    "text": "Który z wymienionych materiałów wykazuje się największą konduktywnością?",
+    "answers": [
+      "Stal.",
+      "Nichrom.",
+      "Aluminium.",
+      "Miedź."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 5,
+    "text": "Przed umieszczeniem uzwojenia wsypywanego w żłobkach silnika indukcyjnego należy",
+    "answers": [
+      "wysmarować je lakierem elektroizolacyjnym.",
+      "umieścić w nich kliny zabezpieczające.",
+      "wysmarować je olejem elektroizolacyjnym.",
+      "wyłożyć je izolacją żłobkową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 6,
+    "text": "Który elementy urządzeń przedstawiono na ilustracji?",
+    "answers": [
+      "Złączki skrętne.",
+      "Gniazda bezpiecznikowe.",
+      "Dławiki izolacyjne.",
+      "Mufy przelotowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_elementy3.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 7,
+    "text": "Narzędzie przedstawione na ilustracji przeznaczone jest",
+    "answers": [
+      "do zaciskania końcówek tulejkowych.",
+      "do docinania przewodów.",
+      "do zaciskania końcówek oczkowych.",
+      "do ściągania izolacji z żył przewodów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_narzedzie15.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 8,
+    "text": "Który z wymienionych łączników elektrycznych ma zdolność wyłączania prądów zwarciowych?",
+    "answers": [
+      "Rozłącznik izolacyjny.",
+      "Rozłącznik manewrowy.",
+      "Wyłącznik.",
+      "Odłącznik."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 9,
+    "text": "Narzędzie przestawione na ilustracji przeznaczone jest do",
+    "answers": [
+      "wciskania łożysk.",
+      "profilowania przewodów.",
+      "zaciskania złączek Wago.",
+      "zdejmowania pierścieni Segera."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_narzedzie14.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 10,
+    "text": "Na podstawie zamieszczonych w tabeli wyników pomiarów dotyczących przewodu przedstawionego na ilustracji określ, które z jego żył są ze sobą zwarte.",
+    "answers": [
+      "N i PE",
+      "N i L3",
+      "L1 i PE",
+      "L1 i L3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_pomiary4.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 11,
+    "text": "Na ilustracji przedstawiony jest element",
+    "answers": [
+      "sprzęgła indukcyjnego.",
+      "przekładni ciernej.",
+      "przekładni pasowej.",
+      "sprzęgła kłowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_element23.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 12,
+    "text": "Z którym zaciskiem będzie połączony zacisk 41 stycznika K2 według przedstawionego schematu montażowego?",
+    "answers": [
+      "Z zaciskiem A2 stycznika K1",
+      "Z zaciskiem 22 stycznika K1",
+      "Z zaciskiem 3 listwy zaciskowej X1",
+      "Z zaciskiem 4 listwy zaciskowej X1"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_schemat101.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 13,
+    "text": "Ile wynosi wynik pomiaru suwmiarką odczytany z ilustracji?",
+    "answers": [
+      "15,58 mm",
+      "15,86 mm",
+      "15,80 mm",
+      "15,96 mm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_pomiar5.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 14,
+    "text": "W której jednostce miary wyraża się moment siły z jaką należy dokręcać zaciski śrubowe urządzeń elektrycznych?",
+    "answers": [
+      "Pa",
+      "Nˑm",
+      "kgˑm2",
+      "kg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 15,
+    "text": "Który z wymienionych parametrów można zmierzyć przyrządem przedstawionym na ilustracji?",
+    "answers": [
+      "Rezystancję izolacji.",
+      "Rezystancję uziomu.",
+      "Impedancję pętli zwarcia.",
+      "Reaktancję rozproszenia transformatora."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_przyrzad3.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 16,
+    "text": "Którą funkcję pełnią uzwojenia pomocnicze w silniku prądu stałego?",
+    "answers": [
+      "Wytwarzają napięcie remanentu.",
+      "Zapobiegają rozbieganiu się silnika przy spadku obciążenia.",
+      "Eliminują niekorzystne zjawiska spowodowane oddziaływaniem twornika.",
+      "Zmniejszają rezystancję obwodu twornika."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 17,
+    "text": "Którą linią, według zasad rysunku technicznego, rysuje się niewidoczne zarysy przedmiotów?",
+    "answers": [
+      "Ciągłą cienką.",
+      "Kreskową cienką.",
+      "Punktową grubą.",
+      "Ciągłą grubą."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 18,
+    "text": "Który rodzaj wirującej maszyny elektrycznej przedstawiono na ilustracji?",
+    "answers": [
+      "Bocznikową prądu stałego.",
+      "Synchroniczną.",
+      "Asynchroniczną pierścieniową.",
+      "Komutatorową prądu przemiennego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_maszyna.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 19,
+    "text": "W celu wymiany uszkodzonej grzałki pieca elektrycznego należy kolejno:",
+    "answers": [
+      "załączyć napięcie, sprawdzić ciągłość połączeń, wymontować uszkodzoną grzałkę.",
+      "odłączyć napięcie, wymontować uszkodzoną grzałkę, sprawdzić ciągłość połączeń.",
+      "odłączyć napięcie, sprawdzić brak napięcia, wymontować uszkodzoną grzałkę.",
+      "wymontować uszkodzoną grzałkę, odłączyć napięcie, sprawdzić ciągłość połączeń."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 20,
+    "text": "Którą z funkcji umożliwia układ zasilania silnika elektrycznego przedstawiony na schemacie?",
+    "answers": [
+      "Przełączanie uzwojeń z gwiazdy na trójkąt.",
+      "Hamowanie dynamiczne.",
+      "Rozruch za pomocą rozrusznika rezystorowego.",
+      "Pracę ze zmiennym kierunkiem obrotów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_uklad27.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 21,
+    "text": "Na której ilustracji przedstawiono symbol graficzny przewodu ochronnego?",
+    "answers": [
+      "Na ilustracji 4.",
+      "Na ilustracji 1.",
+      "Na ilustracji 3.",
+      "Na ilustracji 2."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_symbole11.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 22,
+    "text": "Do której z wymienionych grup urządzeń elektrycznych zalicza się przekładniki pomiarowe?",
+    "answers": [
+      "Do wzmacniaczy maszynowych.",
+      "Do transformatorów.",
+      "Do indukcyjnych sprzęgieł dwukierunkowych.",
+      "Do prądnic tachometrycznych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 23,
+    "text": "Którym symbolem oznacza się przewód jednożyłowy z aluminiową żyłą wielodrutową, w izolacji polwinitowej, o przekroju żyły 2,5 mm2?",
+    "answers": [
+      "YLY 2,5 mm2",
+      "ADY 2,5 mm2",
+      "YDY 2,5 mm2",
+      "ALY 2,5 mm2"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 24,
+    "text": "Który z wymienionych silników elektrycznych charakteryzuje się najbardziej sztywną charakterystyką mechaniczną n = f(M) w zakresie pracy stabilnej?",
+    "answers": [
+      "Obcowzbudny prądu stałego.",
+      "Asynchroniczny klatkowy.",
+      "Synchroniczny.",
+      "Szeregowy prądu stałego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 25,
+    "text": "Którym z wymienionych elementów należy zabezpieczyć nakrętkę przed odkręceniem?",
+    "answers": [
+      "Podkładką dystansową.",
+      "Tuleją redukcyjną.",
+      "Podkładką sprężystą.",
+      "Tuleją kołnierzową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 26,
+    "text": "Do którego rodzaju połączeń mechanicznych zalicza się połączenie zgrzewane?",
+    "answers": [
+      "Do nierozłącznych bezpośrednich.",
+      "Do nierozłącznych pośrednich.",
+      "Do rozłącznych bezpośrednich.",
+      "Do rozłącznych pośrednich."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 27,
+    "text": "Które z wymienionych urządzeń elektrycznych jest pokazane na ilustracji?",
+    "answers": [
+      "Wzbudnik indukcyjny.",
+      "Dławik magnetyczny.",
+      "Elektromagnes.",
+      "Transformator."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_urzadzenie12.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 28,
+    "text": "Którą klasę ochronności posiada urządzenie elektryczne oznaczone przedstawionym symbolem graficznym?",
+    "answers": [
+      "Klasę 0",
+      "Klasę I",
+      "Klasę II",
+      "Klasę III"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_symbol12.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 29,
+    "text": "Który z kluczy nie jest przeznaczony do dokręcania śrub jak przedstawiona na ilustracji?",
+    "answers": [
+      "Oczkowy.",
+      "Nasadowy.",
+      "Imbusowy.",
+      "Płaski."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_sruba.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 30,
+    "text": "Które urządzenie przedstawiono na ilustracji?",
+    "answers": [
+      "Bezpiecznik topikowy.",
+      "Rozłącznik.",
+      "Odłącznik.",
+      "Wyłącznik nadprądowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_urzadzenie13.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 31,
+    "text": "W których z wymienionych rodzajów silników stosuje się wirnik przedstawiony na ilustracji?",
+    "answers": [
+      "Asynchronicznych klatkowych.",
+      "Uniwersalnych.",
+      "Asynchronicznych pierścieniowych.",
+      "Synchronicznych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_wirnik7.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 32,
+    "text": "Na której ilustracji przedstawiono łożysko toczne?",
+    "answers": [
+      "Na ilustracji 1.",
+      "Na ilustracji 3.",
+      "Na ilustracji 4.",
+      "Na ilustracji 2."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_ilustracje.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 33,
+    "text": "Szczotki maszyn elektrycznych wykonuje się z",
+    "answers": [
+      "półprzewodników.",
+      "materiałów izolacyjnych.",
+      "przewodników.",
+      "materiałów magnetycznych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 34,
+    "text": "Rezystancja uzwojenia silnika elektrycznego zmierzona omomierzem wynosi ∞ Ω. Oznacza to, że uzwojenie",
+    "answers": [
+      "jest sprawne.",
+      "ma uszkodzoną izolację.",
+      "jest przerwane.",
+      "posiada zwarcie międzyzwojowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 35,
+    "text": "Którą cyfrą na ilustracji oznaczono tarczę łożyskową silnika?",
+    "answers": [
+      "Cyfrą 2",
+      "Cyfrą 4",
+      "Cyfrą 1",
+      "Cyfrą 3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_silnik10.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 36,
+    "text": "Który z wymienionych materiałów jest smarem?",
+    "answers": [
+      "Bakelit.",
+      "Szamot.",
+      "Tekstolit.",
+      "Towot."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 37,
+    "text": "Która z wymienionych przyczyn odpowiada za zwiększenie się iskrzenia na komutatorze podczas pracy sprawnego silnika bocznikowego prądu stałego po wymianie jego szczotek?",
+    "answers": [
+      "Za małe wzbudzenie silnika.",
+      "Za mała powierzchnia styku szczotek z komutatorem.",
+      "Za duży nacisk szczotek na komutator.",
+      "Za duże wzbudzenie silnika."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 38,
+    "text": "Które narzędzie przedstawiono na ilustracji?",
+    "answers": [
+      "Narzynkę.",
+      "Ściernicę.",
+      "Zdzierak.",
+      "Gwintownik."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_narzedzie12.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 39,
+    "text": "Który element przedstawiono na ilustracji?",
+    "answers": [
+      "Wkładkę topikową bezpiecznika mocy.",
+      "Izolator wsporczy.",
+      "Bezpiecznik aparatowy.",
+      "Izolator przepustowy wysokiego napięcia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_element24.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 40,
+    "text": "Który z elementów przestawiono na ilustracji?",
+    "answers": [
+      "Wałek z wielowypustem.",
+      "Wałek z gwintem.",
+      "Nakrętkę koronową.",
+      "Sprzęgło kłowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_element22.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 41,
+    "text": "Którą rolę pełni w styczniku element wskazany na ilustracji czarną strzałką?",
+    "answers": [
+      "Zmniejsza siłę docisku zwory.",
+      "Zmniejsza napięcie podtrzymania cewki.",
+      "Likwiduje drgania zwory.",
+      "Likwiduje magnetyzm szczątkowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_stycznik4.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 42,
+    "text": "Którym z kluczy nie da się skręcić stojana silnika elektrycznego śrubami jak przedstawiona na ilustracji?",
+    "answers": [
+      "Oczkowym.",
+      "Nasadowym.",
+      "Imbusowym.",
+      "Płaskim."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/ee5_sruba2.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 43,
+    "text": "Określ konstrukcję i materiał żyły kabla przedstawionego na ilustracji?",
+    "answers": [
+      "Wielodrutowa, aluminiowa.",
+      "Jednodrutowa, aluminiowa.",
+      "Wielodrutowa, miedziana.",
+      "Jednodrutowa, miedziana."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_kabel.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 44,
+    "text": "Parametry techniczne którego stycznika z tabeli odpowiadają przedstawionemu na ilustracji?",
+    "answers": [
+      "Stycznika 3.",
+      "Stycznika 2.",
+      "Stycznika 1.",
+      "Stycznika 4."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_tabela14.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 45,
+    "text": "Którą cyfrą oznaczono tarczę łożyskową silnika na ilustracji?",
+    "answers": [
+      "Cyfrą 2",
+      "Cyfrą 1",
+      "Cyfrą 4",
+      "Cyfrą 3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_silnik10.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 46,
+    "text": "Które elementy urządzeń przedstawiono na ilustracji?",
+    "answers": [
+      "Gniazda bezpiecznikowe.",
+      "Złączki skrętne.",
+      "Mufy przelotowe.",
+      "Dławiki izolacyjne."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/ee5_osprzet.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 47,
+    "text": "Na ilustracji przedstawiony jest",
+    "answers": [
+      "kabel telekomunikacyjny.",
+      "przewód spawalniczy.",
+      "przewód sterowniczy.",
+      "kabel elektroenergetyczny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/ee5_ilustracja.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 48,
+    "text": "Którą linią, według zasad rysunku technicznego, rysuje się linie wymiarowe?",
+    "answers": [
+      "Ciągłą grubą.",
+      "Ciągłą cienką.",
+      "Punktową grubą.",
+      "Kreskową cienką."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 49,
+    "text": "Które z przedstawionych narzędzi jest przeznaczone do demontażu przewietrznika z wału silnika elektrycznego?",
+    "answers": [
+      "Narzędzie 1.",
+      "Narzędzie 2.",
+      "Narzędzie 4.",
+      "Narzędzie 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_narzedzia17.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 50,
+    "text": "Które urządzenie należy wykorzystać do wykonania pomiaru napięcia elektrycznego rzędu 1 kV woltomierzem o zakresie pomiarowym 300 V z zapewnieniem separacji galwanicznej woltomierza od obwodu wielkości mierzonej?",
+    "answers": [
+      "Przekładnik napięciowy.",
+      "Transformator separacyjny.",
+      "Autotransformator.",
+      "Dzielnik napięcia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 51,
+    "text": "W celu zapewnienia uszczelnienia miejsca wprowadzenia przewodu typu OWY do skrzynki zaciskowej silnika elektrycznego o stopniu ochrony IP55 należy zastosować",
+    "answers": [
+      "izolator przepustowy.",
+      "podkładkę sprężystą.",
+      "klin uszczelniający.",
+      "dławnicę izolacyjną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 52,
+    "text": "Z dokumentacji naprawczej wynika, że przezwajany trójfazowy silnik asynchroniczny ma mieć 2 pary biegunów magnetycznych. Oznacza to, że przy zasilaniu stojana napięciem o częstotliwości 50 Hz, na biegu jałowym wał silnika będzie rozwijał prędkość obrotową nieznacznie niższą niż",
+    "answers": [
+      "1 000 obr./min",
+      "2 000 obr./min",
+      "1 500 obr./min",
+      "3 000 obr./min"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 53,
+    "text": "Według której zależności wyznacza się maksymalną nastawę zabezpieczenia przeciążeniowego silnika indukcyjnego o wartości prądu znamionowego IN?",
+    "answers": [
+      "0,95 IN",
+      "1,0 IN",
+      "1,05 IN",
+      "1,1 IN"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 54,
+    "text": "Które z wymienionych urządzeń przenoszą energię elektryczną prądu przemiennego z jednego obwodu elektrycznego do drugiego z zachowaniem pierwotnej częstotliwości?",
+    "answers": [
+      "Transformatory.",
+      "Hydrogeneratory.",
+      "Induktory.",
+      "Turbogeneratory."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 55,
+    "text": "Z którym zaciskiem należy połączyć zacisk 42 stycznika K2 według przedstawionego schematu montażowego?",
+    "answers": [
+      "Z zaciskiem 4 listwy zaciskowej X1",
+      "Z zaciskiem 3 listwy zaciskowej X1",
+      "Z zaciskiem 22 stycznika K1",
+      "Z zaciskiem A2 stycznika K1"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_schemat21.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 56,
+    "text": "Na ilustracji przedstawiono schemat do pomiaru rezystancji",
+    "answers": [
+      "uzwojenia fazowego.",
+      "izolacji pomiędzy zaciskami uzwojeń a korpusem silnika.",
+      "pętli zwarciowej.",
+      "izolacji pomiędzy zaciskami uzwojeń silnika."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_schemat33.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 57,
+    "text": "W jaki sposób włącza się do obwodu maszyny bocznikowej prądu stałego uzwojenie komutacyjne?",
+    "answers": [
+      "Równolegle z uzwojeniem twornika.",
+      "Szeregowo z uzwojeniem twornika.",
+      "Szeregowo z uzwojeniem wzbudzenia.",
+      "Równolegle z uzwojeniem wzbudzenia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 58,
+    "text": "Jaka jest rola elementów oznaczonych symbolem X w silniku przedstawionym na ilustracji?",
+    "answers": [
+      "Zmniejszenie drgań.",
+      "Wytworzenie momentu rozruchowego.",
+      "Poprawa współczynnika mocy.",
+      "Zwiększenie sprawności."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_silnik5.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 59,
+    "text": "Którą z wymienionych czynności sprawdzających należy wykonać po montażu trójfazowego silnika elektrycznego?",
+    "answers": [
+      "Pomiar prędkości obrotowej.",
+      "Pomiar temperatury stojana.",
+      "Sprawdzenie kierunku obrotów wału silnika.",
+      "Sprawdzenie symetrii napięcia zasilającego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 60,
+    "text": "Do którego rodzaju pracy przeznaczony jest silnik trójfazowy posiadający na tabliczce znamionowej oznaczenie S1?",
+    "answers": [
+      "Dorywczej.",
+      "Ciągłej.",
+      "Okresowej przerywanej z hamowaniem.",
+      "Okresowej przerywanej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 61,
+    "text": "Jak nazywa się element regulacyjny występujący w układzie zasilania silnika przedstawionym na schemacie?",
+    "answers": [
+      "Rozrusznik.",
+      "Autotransformator.",
+      "Cyklokonwerter.",
+      "Prostownik."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_uklad28.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 62,
+    "text": "Który z wymienionych materiałów najlepiej kumuluje ciepło?",
+    "answers": [
+      "Brąz.",
+      "Bakelit.",
+      "Nichrom.",
+      "Szamot."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 63,
+    "text": "Którym symbolem literowym oznacza się przewód przedstawiony na ilustracji?",
+    "answers": [
+      "YLgYp",
+      "LgY",
+      "OWY",
+      "YDY"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_przewod6.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 64,
+    "text": "Elementy składowe którego silnika przedstawiono na ilustracji?",
+    "answers": [
+      "Asynchronicznego.",
+      "Szeregowego prądu stałego.",
+      "Synchronicznego.",
+      "Bocznikowego prądu stałego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_silnik3.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 65,
+    "text": "W której grupie przewodów elektrycznych stosuje się żyły sektorowe?",
+    "answers": [
+      "Sterowniczych.",
+      "Energetycznych.",
+      "Nawojowych.",
+      "Telekomunikacyjnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 66,
+    "text": "Której z wymienionych czynności nie wykonuje się podczas oględzin urządzenia napędowego z silnikiem elektrycznym w czasie ruchu?",
+    "answers": [
+      "Kontroli stanu osłon części wirujących.",
+      "Oceny stanu przewodów ochronnych i ich podłączenia.",
+      "Sprawdzenia działania układów chłodzenia.",
+      "Sprawdzenia szczotek i szczotkotrzymaczy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 67,
+    "text": "W których jednostkach miary wyraża się moment siły z jaką należy dokręcać nakrętki w połączeniach śrubowych?",
+    "answers": [
+      "kgˑm2",
+      "kg",
+      "Pa",
+      "Nˑm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 68,
+    "text": "W jaki sposób należy zamontować w układzie przekaźnik przedstawiony na ilustracji?",
+    "answers": [
+      "Przykręcić wkrętami do izolacyjnego podłoża.",
+      "Przylutować styki do płytki drukowanej.",
+      "Zamocować na szynie TH35.",
+      "Wcisnąć do gniazda GZ8."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_przekaznik3.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 69,
+    "text": "Którą klasę ochronności posiada urządzenie elektryczne opatrzone przedstawionym symbolem graficznym?",
+    "answers": [
+      "III",
+      "0",
+      "II",
+      "I"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_symbol12.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 70,
+    "text": "Który z wymienionych silników elektrycznych charakteryzuje się najmniej sztywną charakterystyką mechaniczną n = f(M) w zakresie pracy stabilnej?",
+    "answers": [
+      "Obcowzbudny prądu stałego.",
+      "Asynchroniczny klatkowy.",
+      "Synchroniczny.",
+      "Szeregowy prądu stałego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 71,
+    "text": "Symbolem literowym YAKY oznacza się",
+    "answers": [
+      "przewód oponowy warsztatowy o żyłach miedzianych w izolacji polwinitowej.",
+      "kabel o żyłach aluminiowych w izolacji i powłoce polwinitowej.",
+      "kabel o żyłach miedzianych w izolacji polwinitowej.",
+      "przewód telekomunikacyjny o żyłach aluminiowych w izolacji i powłoce polwinitowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 72,
+    "text": "Którego klucza należy użyć do przymocowania urządzenia elektrycznego do podłoża przy użyciu wkrętów, jak przedstawiony na ilustracji?",
+    "answers": [
+      "Nasadowego.",
+      "Oczkowego.",
+      "Ampulowego.",
+      "Płaskiego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_wkret.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 73,
+    "text": "Narzędzie przedstawione na ilustracji przeznaczone jest do",
+    "answers": [
+      "wciskania łożysk.",
+      "zdejmowania pierścieni Segera.",
+      "profilowania końców przewodów.",
+      "montażu złączek Wago."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_narzedzie11.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 74,
+    "text": "Które narzędzie należy zastosować do wykonania połączenia z wykorzystaniem przedstawionego elementu?",
+    "answers": [
+      "Zakuwak.",
+      "Zaciskarkę.",
+      "Nitownicę.",
+      "Młotek."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_element21.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 75,
+    "text": "Jakiego typu przekaźnik przedstawiono na ilustracji?",
+    "answers": [
+      "Zaniku i asymetrii faz.",
+      "Priorytetowy.",
+      "Impulsowy.",
+      "Czasowy zwłoczny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_przekaznik2.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 76,
+    "text": "Kierunek obrotów wirnika silnika elektrycznego określa się patrząc na jego wał od strony",
+    "answers": [
+      "wprowadzenia przewodu zasilającego.",
+      "czopu.",
+      "tabliczki znamionowej.",
+      "przewietrznika."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 77,
+    "text": "Którym symbolem graficznym powinien być oznaczony stycznik z następującą liczbą i rodzajem zestyków: 3NC+1NO?",
+    "answers": [
+      "Symbolem 3.",
+      "Symbolem 2.",
+      "Symbolem 4.",
+      "Symbolem 1."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_symbole10.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 78,
+    "text": "Które z wymienionych urządzeń elektrycznych jest przedstawione na ilustracji?",
+    "answers": [
+      "Wzbudnik indukcyjny.",
+      "Elektromagnes.",
+      "Transformator.",
+      "Dławik magnetyczny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_urzadzenie12.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 79,
+    "text": "Na którą wartość napięcia pomiarowego należy nastawić megaomomierz w celu sprawdzania rezystancji izolacji uzwojeń silników elektrycznych o napięciu znamionowym 230/400 V?",
+    "answers": [
+      "250 V",
+      "1 500 V",
+      "1 000 V",
+      "500 V"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 80,
+    "text": "Która z wymienionych maszyn elektrycznych stosowana jest jako czujnik prędkości obrotowej?",
+    "answers": [
+      "Silnik wykonawczy.",
+      "Amplidyna.",
+      "Prądnica tachometryczna.",
+      "Silnik krokowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 81,
+    "text": "Wał silnika asynchronicznego jednofazowego, którego schemat przedstawiono na ilustracji, nie ruszył po włączeniu napięcia zasilającego i wydaje dźwięk cichego buczenia. Która z wymienionych przyczyn odpowiada za opisane zachowanie tego silnika?",
+    "answers": [
+      "Brak obciążenia wału silnika.",
+      "Uszkodzenie wyłącznika odśrodkowego.",
+      "Zbyt wysokie napięcie zasilania.",
+      "Nadmierny luz w łożyskach."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_schemat100.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 82,
+    "text": "Która z wymienionych przyczyn wywołuje charakterystyczne buczenie trójfazowego silnika indukcyjnego podczas jego pracy?",
+    "answers": [
+      "Zbyt wysokie napięcie zasilania.",
+      "Przeciążenie silnika.",
+      "Znaczna asymetria napięcia zasilania.",
+      "Zerwanie sprzęgła łączącego silnik z maszyną roboczą."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 83,
+    "text": "Do czego służy narzędzie przedstawione na ilustracji?",
+    "answers": [
+      "Do zaciskania końcówek oczkowych.",
+      "Do zaciskania końcówek tulejkowych.",
+      "Do formowania oczek na końcach żył przewodów.",
+      "Do zdejmowania izolacji z końców przewodów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_narzedzie7.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 84,
+    "text": "W których jednostkach miary wyraża się moment siły z jaką należy dokręcać nakrętki zacisków silnika?",
+    "answers": [
+      "kg",
+      "Pa",
+      "Nˑm",
+      "kgˑm2"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 85,
+    "text": "Który z wymienionych materiałów jest głównym składnikiem wycinków komutatorów maszyn elektrycznych?",
+    "answers": [
+      "Miedź.",
+      "Bakelit.",
+      "Aluminium.",
+      "Mikanit."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 86,
+    "text": "W jaki sposób połączono uzwojenia w transformatorze, którego schemat przedstawiono na rysunku?",
+    "answers": [
+      "Pierwotne w gwiazdę, a wtórne w trójkąt.",
+      "Pierwotne w trójkąt, a wtórne w gwiazdę.",
+      "Obydwa w trójkąt.",
+      "Obydwa w gwiazdę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_schemat99.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 87,
+    "text": "Silnik asynchroniczny jednofazowy o przedstawionym schemacie, nie ruszył po włączeniu napięcia zasilającego i wydaje dźwięk cichego buczenia. Która z wymienionych przyczyn odpowiada za opisane zachowanie tego silnika?",
+    "answers": [
+      "Brak obciążenia wału silnika.",
+      "Nadmierny luz w łożyskach.",
+      "Zbyt wysokie napięcie zasilania.",
+      "Uszkodzenie kondensatora."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_schemat100.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 88,
+    "text": "Do pomiaru której z wymienionych wielkości należy użyć cęgów przyrządu przedstawionego na ilustracji?",
+    "answers": [
+      "Rezystancji przejścia zestyku.",
+      "Temperatury toru prądowego.",
+      "Natężenia prądu elektrycznego.",
+      "Przenikalności elektrycznej izolacji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_cegi.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 89,
+    "text": "Który z wymienionych elementów nie występuje w asynchronicznych silnikach jednofazowych?",
+    "answers": [
+      "Uzwojenie wirnika.",
+      "Rdzeń.",
+      "Uzwojenie stojana.",
+      "Szczotkotrzymacz."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 90,
+    "text": "Która z wymienionych czynności należy do oględzin podczas konserwacji wirnika silnika komutatorowego?",
+    "answers": [
+      "Wyważenie.",
+      "Pomiar rezystancji izolacji.",
+      "Sprawdzenie stanu wycinków komutatora.",
+      "Sprawdzenie braku zwarć międzyzwojowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 91,
+    "text": "Która z wymienionych czynności powinna być wykonana w kolejnym etapie demontażu, obejmującego wyjęcie wirnika w silniku przedstawionym na ilustracji, po zdjęciu przewietrznika?",
+    "answers": [
+      "Wykręcenie dławików izolacyjnych.",
+      "Odkręcenie łap.",
+      "Zbicie tarcz łożyskowych.",
+      "Wykręcenie szpilek."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_silnik9.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 92,
+    "text": "Obwód główny układu zasilania silnika elektrycznego przedstawiony na schemacie służy do",
+    "answers": [
+      "zmiany prędkości obrotowej przez zmianę liczby par biegunów.",
+      "przeprowadzenia rozruchu przełącznikiem gwiazda - trójkąt.",
+      "realizacji elektrycznego hamowania dynamicznego.",
+      "przeprowadzenia rozruchu z rozrusznikiem rezystorowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_uklad27.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 93,
+    "text": "Ile wynosi znamionowy współczynnik mocy silnika, którego tabliczkę znamionową przedstawiono na ilustracji?",
+    "answers": [
+      "2 910",
+      "15 000",
+      "0,90",
+      "54"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_tabliczka22.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 94,
+    "text": "Która z wymienionych przyczyn mogła spowodować stan, w którym po załączeniu napięcia o wartości znamionowej do uzwojenia pierwotnego transformatora jednofazowego małej mocy o rozwartym uzwojeniu wtórnym, na jego wyjściu nie pojawiło się napięcie, a transformator pobiera prąd o wartości około 10% wartości prądu znamionowego?",
+    "answers": [
+      "Przerwa w uzwojeniu pierwotnym.",
+      "Zwarcie w uzwojeniu wtórnym.",
+      "Zwarcie w uzwojeniu pierwotnym.",
+      "Przerwa w uzwojeniu wtórnym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 95,
+    "text": "Ile wynosi znamionowy prąd różnicowy wyłącznika przedstawionego na ilustracji?",
+    "answers": [
+      "800 A",
+      "40 A",
+      "300 mA",
+      "3 kA"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_wylacznik5.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 96,
+    "text": "Jaki wpływ na pracę biegu jałowego bocznikowego silnika prądu stałego może mieć przerwa w jego uzwojeniu komutacyjnym?",
+    "answers": [
+      "Silnik nie będzie pracował.",
+      "Silnik nie zmieni swojej pracy.",
+      "Silnik będzie pracował ze zmniejszoną prędkością.",
+      "Silnik będzie pracował ze zwiększoną prędkością."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 97,
+    "text": "Kondensator stosowany w silnikach jednofazowych przeznaczony jest do",
+    "answers": [
+      "zmniejszenia prędkości obrotowej lub zatrzymania silnika.",
+      "zmiany prędkości obrotowej silnika.",
+      "zmiany wartości napięcia w układzie.",
+      "wytworzenia momentu rozruchowego silnika."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 98,
+    "text": "Układ zbudowany z elementów półprzewodnikowych występujący na przedstawionym schemacie jest to",
+    "answers": [
+      "prostownik niesterowany.",
+      "falownik.",
+      "cyklokonwertor.",
+      "prostownik sterowany."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_uklad28.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 99,
+    "text": "Którą funkcję pełni elektrozawór w pralce automatycznej?",
+    "answers": [
+      "Steruje dopływem wody.",
+      "Załącza wirowanie.",
+      "Blokuje klapę lub drzwi.",
+      "Steruje pompką opróżniającą."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 100,
+    "text": "Zmianę kierunku wirowania wału silnika bocznikowego prądu stałego uzyska się po zmianie kierunku prądu płynącego w uzwojeniu",
+    "answers": [
+      "wzbudzenia lub twornika.",
+      "wzbudzenia i równocześnie w uzwojeniu twornika.",
+      "komutacyjnym i równocześnie w uzwojeniu kompensacyjnym.",
+      "komutacyjnym lub kompensacyjnym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 101,
+    "text": "Do którego rodzaju pracy przeznaczony jest silnik o tabliczce znamionowej przedstawionej na ilustracji?",
+    "answers": [
+      "Do pracy okresowej.",
+      "Do pracy dorywczej.",
+      "Do pracy nieokresowej.",
+      "Do pracy ciągłej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_tabliczka21.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 102,
+    "text": "Którym symbolem graficznym powinien być oznaczony stycznik służący do sterowania silnikiem trójfazowym, który ma być trwale załączany przyciskiem monostabilnym z zestykiem NO?",
+    "answers": [
+      "Symbolem 2.",
+      "Symbolem 3.",
+      "Symbolem 1.",
+      "Symbolem 4."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_symbole10.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 103,
+    "text": "Które z przedstawionych narzędzi jest przeznaczone do ściągania łożysk z wału silnika?",
+    "answers": [
+      "Narzędzie 3.",
+      "Narzędzie 1.",
+      "Narzędzie 2.",
+      "Narzędzie 4."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_narzedzia16.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 104,
+    "text": "Z dokumentacji naprawczej wynika, że przezwajany trójfazowy silnik asynchroniczny ma mieć jedną parę biegunów magnetycznych. Oznacza to, że przy zasilaniu stojana napięciem o częstotliwości 50 Hz, na biegu jałowym będzie rozwijał prędkość obrotową nieznacznie niższą niż",
+    "answers": [
+      "1 000 obr./min",
+      "3 000 obr./min",
+      "1 500 obr./min",
+      "2 000 obr./min"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 105,
+    "text": "Do przymocowania urządzenia elektrycznego do blachy o grubości 3 mm przy użyciu takich elementów, jak przedstawiony na ilustracji, oprócz kompletu wierteł do metalu i punktaka niezbędne będą",
+    "answers": [
+      "wiertarka i wkrętak typu torx.",
+      "wiertarko-wkrętarka z kompletem bitów i rozwiertak.",
+      "wiertarka i klucz imbusowy.",
+      "wiertarko-wkrętarka z kompletem bitów i gwintownik."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_element15.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 106,
+    "text": "Układ zasilania silnika trójfazowego przedstawiony na schemacie może realizować",
+    "answers": [
+      "pracę ze zmiennym kierunkiem obrotów.",
+      "hamowanie dynamiczne.",
+      "zmianę liczby par biegunów magnetycznych.",
+      "rozruch gwiazda – trójkąt."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_uklad18.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 107,
+    "text": "Do której grupy materiałów zalicza się karborund?",
+    "answers": [
+      "Przewodowych.",
+      "Magnetycznych.",
+      "Oporowych.",
+      "Izolacyjnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 108,
+    "text": "Do czego są przeznaczone metalowe zwieracze na przedstawionej tabliczce zaciskowej trójfazowego silnika asynchronicznego?",
+    "answers": [
+      "Do zwierania zacisków silnika w czasie remontu.",
+      "Do łączenia uzwojeń stojana w gwiazdę lub w trójkąt.",
+      "Do zmiany wartości prędkości obrotowej wirnika.",
+      "Do zmiany kierunku obrotów wirnika."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_tabliczka12.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 109,
+    "text": "Na podstawie danych zamieszczonych w tabeli określ wartość momentu siły, którą należy ustawić na kluczu dynamometrycznym przy dokręcaniu śruby M12 o klasie wytrzymałości 8.8.",
+    "answers": [
+      "129,5 N m",
+      "66,7 N m",
+      "110,9 N m",
+      "79,0 N m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_tabela13.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 110,
+    "text": "Którą z wymienionych maszyn należy zastosować do wykonania rowka wpustowego w wałku przedstawionym na ilustracji?",
+    "answers": [
+      "Frezarkę.",
+      "Pilarkę.",
+      "Szlifierkę.",
+      "Wykrawarkę."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_walek.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 111,
+    "text": "Którym z przedstawionych na ilustracjach narzędzi dokręca się śruby z określonym momentem siły?",
+    "answers": [
+      "Narzędziem 1.",
+      "Narzędziem 2.",
+      "Narzędziem 4.",
+      "Narzędziem 3."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_narzedzia15.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 112,
+    "text": "Który rodzaj połączenia stosuje się przy montażu izolowanych końcówek tulejkowych na zakończeniach żył przewodów?",
+    "answers": [
+      "Nitowanie.",
+      "Klejenie.",
+      "Lutowanie.",
+      "Zaprasowywanie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 113,
+    "text": "Na ilustracji przedstawiono szczypce",
+    "answers": [
+      "uniwersalne.",
+      "zaciskowe.",
+      "do zdejmowania izolacji.",
+      "do cięcia przewodów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_szczypce.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 114,
+    "text": "Z dokumentacji montażowej transformatora wynika, że ma on pracować w układzie Dyn. W jaki sposób powinny być połączone uzwojenia tego transformatora?",
+    "answers": [
+      "Uzwojenie pierwotne – trójkąt; uzwojenie wtórne – gwiazda.",
+      "Uzwojenie pierwotne – gwiazda; uzwojenie wtórne – trójkąt.",
+      "Uzwojenie pierwotne – gwiazda; uzwojenie wtórne – gwiazda.",
+      "Uzwojenie pierwotne – trójkąt; uzwojenie wtórne – trójkąt."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 115,
+    "text": "Na jaką maksymalną wartość można nastawić wyłącznik silnikowy, zabezpieczający trójfazowy silnik indukcyjny klatkowy o wartości prądu znamionowego równej 11,1 A?",
+    "answers": [
+      "11,1 A",
+      "11,7 A",
+      "10,5 A",
+      "12,2 A"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 116,
+    "text": "Na jakie maksymalne natężenie prądu należy nastawić przekaźnik termobimetalowy, zabezpieczający silnik elektryczny o prądzie znamionowym In = 16 A, aby silnik ten był skutecznie zabezpieczony przed przeciążeniem i możliwe było pełne wykorzystanie jego mocy?",
+    "answers": [
+      "24,0 A",
+      "17,6 A",
+      "16,0 A",
+      "19,2 A"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 117,
+    "text": "Materiały stykowe zalicza się do",
+    "answers": [
+      "dielektryków.",
+      "półprzewodników.",
+      "przewodników pierwszego rodzaju.",
+      "przewodników drugiego rodzaju."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 118,
+    "text": "Który pierwiastek, oprócz żelaza, jest głównym składnikiem stopowym blachy elektrotechnicznej?",
+    "answers": [
+      "Nikiel.",
+      "Miedź.",
+      "Wolfram.",
+      "Krzem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 119,
+    "text": "Zmianę kierunku wirowania wirnika jednofazowego silnika indukcyjnego z kondensatorową fazą rozruchową realizuje się przez",
+    "answers": [
+      "przełączenie kondensatora szeregowo w obwód innego uzwojenia.",
+      "przełączenie wyłącznika odśrodkowego szeregowo w obwód innego uzwojenia.",
+      "zamianę końców uzwojenia głównego lub pomocniczego.",
+      "zamianę końców uzwojenia głównego i pomocniczego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 120,
+    "text": "Które z wymienionych podzespołów maszyn elektrycznych wykonywane są z brązu?",
+    "answers": [
+      "Uzwojenia wirnika silników klatkowych.",
+      "Obsady szczotkowe i pierścienie ślizgowe.",
+      "Wycinki komutatora i uzwojenie wirnika silników klatkowych.",
+      "Śruby, nakrętki i łapy mocujące silniki do podłoża."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 121,
+    "text": "Jaką minimalną liczbę zestyków określonego rodzaju musi posiadać stycznik użyty w układzie przedstawionym na schemacie?",
+    "answers": [
+      "1NC + 1NC",
+      "3NO + 2NO",
+      "1NO + 1NO",
+      "3NC + 2NC"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_uklad24.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 122,
+    "text": "Przedstawiony na rysunku symbol oznacza ochronę przeciwporażeniową polegającą na zastosowaniu",
+    "answers": [
+      "izolacji podwójnej.",
+      "osłony izolacyjnej.",
+      "izolacji roboczej.",
+      "separacji galwanicznej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_symbol6-1.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 123,
+    "text": "Dobierz minimalne zakresy pomiarowe watomierza do pomiaru mocy pieca oporowego w układzie przedstawionym na schemacie, jeżeli wiadomo, że rezystancja jednej grzałki wynosi 95 Ω.",
+    "answers": [
+      "UN = 240 V, IN = 5,0 A",
+      "UN = 480 V, IN = 2,5 A",
+      "UN = 480 V, IN = 5,0 A",
+      "UN = 240 V, IN = 2,5 A"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_uklad26.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 124,
+    "text": "Rozruch silnika pierścieniowego przeprowadza się najpierw",
+    "answers": [
+      "zwierając pierścienie ślizgowe, a następnie zmniejszając rezystancję rozrusznika.",
+      "zmniejszając rezystancję rozrusznika, a następnie zwierając pierścienie ślizgowe.",
+      "zwierając pierścienie ślizgowe, a następnie zwiększając rezystancję rozrusznika.",
+      "zwiększając rezystancję rozrusznika, a następnie zwierając pierścienie ślizgowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 125,
+    "text": "Które z wymienionych rodzajów połączeń zalicza się do rozłącznych?",
+    "answers": [
+      "Nitowe.",
+      "Zgrzewane.",
+      "Kołkowe.",
+      "Lutowane."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 126,
+    "text": "Które z wymienionych urządzeń elektrycznych posiada przebieg napięcia wyjściowego jak przedstawiony na rysunku, jeśli wiadomo, że do wyjścia urządzenia podłączono odbiornik czysto rezystancyjny?",
+    "answers": [
+      "Falownik napięcia.",
+      "Cyklokonwertor.",
+      "Sterownik prądu przemiennego.",
+      "Prostownik sterowany."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_przebieg.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 127,
+    "text": "Który z wymienionych typów silników rozwija najwyższe prędkości obrotowe przy zasilaniu z sieci o częstotliwości 50 Hz przy stałej zadanej wartości napięcia?",
+    "answers": [
+      "Jednofazowy komutatorowy.",
+      "Trójfazowy klatkowy.",
+      "Jednofazowy klatkowy.",
+      "Trójfazowy komutatorowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 128,
+    "text": "Który z wymienionych typów przewodów należy zastosować do zasilania odbiornika przenośnego?",
+    "answers": [
+      "DY",
+      "LY",
+      "OMY",
+      "YDY"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 129,
+    "text": "Na rysunku przedstawiono układ podłączenia silnika",
+    "answers": [
+      "jednofazowego dwubiegowego.",
+      "trójfazowego z kompensacją mocy biernej.",
+      "trójfazowego przygotowanego do pracy jednofazowej.",
+      "jednofazowego z kondensatorową fazą pracy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_uklad17.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 130,
+    "text": "Zestaw których narządzi przedstawiono na ilustracji?",
+    "answers": [
+      "Gwintowników.",
+      "Wierteł.",
+      "Frezów palcowych.",
+      "Narzynek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_zestaw2.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 131,
+    "text": "Który rodzaj przekładni zębatej przedstawiono na ilustracji?",
+    "answers": [
+      "Stożkową.",
+      "Planetarną.",
+      "Walcową.",
+      "Ślimakową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_przekladnia.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 132,
+    "text": "Którą linią, według zasad rysunku technicznego, oznacza się niewidoczne krawędzie narysowanego przedmiotu?",
+    "answers": [
+      "Punktową cienką.",
+      "Ciągłą grubą.",
+      "Kreskową cienką.",
+      "Punktową grubą."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 133,
+    "text": "Którą z wymienionych zasad należy stosować przy rysowaniu schematów stycznikowo-przekaźnikowych układów sterowania?",
+    "answers": [
+      "Układ powinien być przedstawiony w stanie aktywnym.",
+      "Obwód główny i obwód sterowania powinny być narysowane łącznie.",
+      "Poszczególne części tego samego urządzenia, np. cewka i styki stycznika, powinny być narysowane w jednej gałęzi.",
+      "Poszczególne części tego samego urządzenia, np. cewka i styki stycznika, powinny mieć zgodne oznaczenia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 134,
+    "text": "Z instrukcji obsługi przedstawionego na ilustracji miernika wynika, że przed pomiarem rezystancji należy wyzerować omomierz. W tym celu należy ustawić wskazówkę na 0 kΩ przy pomocy specjalnego pokrętła, po uprzednim połączeniu zwartymi przewodami pomiarowymi zacisków wskazanych cyframi",
+    "answers": [
+      "3 i 4",
+      "1 i 3",
+      "1 i 2",
+      "2 i 4"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_miernik4.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 135,
+    "text": "Ile wynosi przybliżona wartość natężenia prądu pobieranego przez silnik trójfazowy skojarzony w trójkąt, wyznaczona na podstawie jego danych znamionowych przedstawionych w tabeli?",
+    "answers": [
+      "5,46 A",
+      "7,39 A",
+      "12,85 A",
+      "6,12 A"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_tabela12.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 136,
+    "text": "Który z parametrów silnika elektrycznego można zmierzyć wykorzystując prądnicę tachometryczną?",
+    "answers": [
+      "Moc czynną.",
+      "Współczynnik mocy.",
+      "Prąd roboczy.",
+      "Prędkość obrotową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 137,
+    "text": "Rezystancja uzwojenia cewki silnika zmierzona omomierzem wynosi ∞ Ω. Uzwojenie to jest",
+    "answers": [
+      "przerwane.",
+      "zwarte.",
+      "zwarte do rdzenia.",
+      "dobre."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 138,
+    "text": "Świecenie poszczególnych lampek kontrolnych w układzie przedstawionym na schemacie służy do sygnalizacji",
+    "answers": [
+      "L1 - załączenia silnika; L2 - wystąpienia przeciążenia w silniku.",
+      "L1 - podania napięcia do cewki stycznika K; L2 - przegrzania silnika.",
+      "L1 - zadziałania przekaźnika rezystancyjnego PTC; L2 - podania napięcia do cewki stycznika K.",
+      "L1 - podania napięcia do przekaźnika rezystancyjnego PTC; L2 - zasilania silnika."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_uklad24.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 139,
+    "text": "Do przymocowania urządzenia elektrycznego do blachy o grubości 3 mm przy użyciu elementów, jak przedstawiony na ilustracji, oprócz kompletu wierteł do metalu, punktaka i młotka niezbędne będą",
+    "answers": [
+      "wiertarka i klucz imbusowy.",
+      "wiertarko-wkrętarka z kompletem bitów i gwintownik.",
+      "wiertarko-wkrętarka z kompletem bitów i rozwiertak.",
+      "wiertarka i wkrętak typu torx."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_element15.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 140,
+    "text": "Do której grupy maszyn elektrycznych zalicza się silnik z wirnikiem posiadającym dwa pierścienie ślizgowe zasilane prądem stałym?",
+    "answers": [
+      "Komutatorowych prądu przemiennego.",
+      "Synchronicznych.",
+      "Indukcyjnych pierścieniowych.",
+      "Prądu stałego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 141,
+    "text": "Zadaniem urządzenia oznaczonego na rysunku jako RCD jest ochrona",
+    "answers": [
+      "przepięciowa.",
+      "przeciwprzeciążeniowa.",
+      "przeciwporażeniowa.",
+      "przeciwzwarciowa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_schemat98.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 142,
+    "text": "Ile wynosi przeciążalność momentem obrotowym silnika trójfazowego klatkowego o przedstawionych w tabeli danych katalogowych?",
+    "answers": [
+      "3,1",
+      "2,7",
+      "3,3",
+      "7,5"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_tabela11.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 143,
+    "text": "Które oznaczenie literowe posiada przewód przedstawiony na ilustracji?",
+    "answers": [
+      "YALY",
+      "YDYpżo",
+      "YADYt",
+      "YLYżo"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_przewod12.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 144,
+    "text": "Do którego rodzaju maszyn elektrycznych zalicza się silnik klatkowy?",
+    "answers": [
+      "Synchronicznych.",
+      "Prądu stałego.",
+      "Komutatorowych prądu przemiennego.",
+      "Asynchronicznych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 145,
+    "text": "Silnik głębokożłobkowy zaliczany jest do maszyn",
+    "answers": [
+      "synchronicznych z biegunami utajonymi.",
+      "indukcyjnych klatkowych.",
+      "indukcyjnych pierścieniowych.",
+      "synchronicznych z biegunami jawnymi."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 146,
+    "text": "Jakie zadanie pełni komutator w prądnicy prądu stałego?",
+    "answers": [
+      "Likwiduje indukcję magnetyczną w osi neutralnej prądnicy.",
+      "Ogranicza iskrzenie na styku ze szczotkami.",
+      "Prostuje napięcie elektryczne wytwarzane w uzwojeniach twornika.",
+      "Wytwarza pole magnetyczne wzbudzenia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 147,
+    "text": "Na którym rysunku przedstawiono nóż tokarski?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_rysunki4.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 148,
+    "text": "Którego narzędzia należy użyć do montażu przewodów na zestawach, takich jak przedstawiony na rysunku?",
+    "answers": [
+      "Młotka.",
+      "Gwoździarki.",
+      "Osadzaka gazowego.",
+      "Szczypiec uniwersalnych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_zestaw.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 149,
+    "text": "Którą funkcję w układzie zasilania silnika indukcyjnego pełni element oznaczony symbolem X na przedstawionym schemacie?",
+    "answers": [
+      "Ogranicza prąd w czasie rozruchu silnika.",
+      "Umożliwia hamowanie przeciwprądem.",
+      "Zabezpiecza silnik przed zwarciem i przeciążeniem.",
+      "Zabezpiecza silnik przed zanikiem i asymetrią faz."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_uklad23.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 150,
+    "text": "Na jaką maksymalną wartość natężenia prądu należy nastawić przekaźnik termobimetalowy, zabezpieczający silnik elektryczny o prądzie znamionowym In = 16 A, aby silnik był skutecznie zabezpieczony przed przeciążeniem i możliwe było pełne wykorzystanie jego mocy?",
+    "answers": [
+      "17,6 A",
+      "24,0 A",
+      "16,0 A",
+      "19,2 A"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 151,
+    "text": "Określ wartość momentu krytycznego silnika trójfazowego klatkowego o przedstawionych danych katalogowych.",
+    "answers": [
+      "3,62 Nm",
+      "11,95 Nm",
+      "11,22 Nm",
+      "9,77 Nm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_tabela11.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 152,
+    "text": "Do której grupy maszyn elektrycznych zalicza się silnik z wirnikiem zasilanym prądem stałym przez pierścienie ślizgowe?",
+    "answers": [
+      "Komutatorowych prądu przemiennego.",
+      "Indukcyjnych pierścieniowych.",
+      "Synchronicznych.",
+      "Prądu stałego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 153,
+    "text": "Podaj moc pieca trójfazowego wykonanego z trzech grzałek o parametrach UN = 230 V i IN = 10 A połączonych w gwiazdę, jeśli podłączony on został do sieci 230/400 V.",
+    "answers": [
+      "6,9 kW",
+      "12,0 kW",
+      "4,0 kW",
+      "2,3 kW"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 154,
+    "text": "Który z wymienionych typów przewodów należy zastosować do zasilania odbiornika, który przestawiany jest w różne miejsca?",
+    "answers": [
+      "OMY",
+      "YDY",
+      "DY",
+      "LY"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 155,
+    "text": "Na którym rysunku przedstawiono nit zrywalny?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_rysunki5.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 156,
+    "text": "Określ przeciążalność momentem obrotowym silnika trójfazowego klatkowego o przedstawionych w tabeli danych katalogowych.",
+    "answers": [
+      "2,7",
+      "3,1",
+      "7,5",
+      "3,3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_tabela11.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 157,
+    "text": "Którą część silnika elektrycznego przedstawiono na rysunku?",
+    "answers": [
+      "Wał wirnika.",
+      "Przewietrznik.",
+      "Komutator.",
+      "Pierścień ślizgowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_czesc.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 158,
+    "text": "Którą z wymienionych maszyn należy zastosować do wykonania rowka wpustowego w wałku przedstawionym na rysunku?",
+    "answers": [
+      "Pilarkę.",
+      "Szlifierkę.",
+      "Frezarkę.",
+      "Wykrawarkę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_walek.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 159,
+    "text": "Które oznaczenie literowe posiada przewód przedstawiony na rysunku?",
+    "answers": [
+      "YDYpżo",
+      "YDYt",
+      "YLYżo",
+      "YLY"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_przewod12.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 160,
+    "text": "Którym z przedstawionych na rysunkach narzędzi dokręca się śruby z określonym momentem siły?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_narzedzia14.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 161,
+    "text": "Jaki rodzaj połączenia stosuje się przy montażu izolowanych końcówek tulejkowych na zakończeniach żył przewodów?",
+    "answers": [
+      "Nitowanie.",
+      "Zaprasowywanie.",
+      "Klejenie.",
+      "Lutowanie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 162,
+    "text": "Silnik klatkowy należy do maszyn",
+    "answers": [
+      "komutatorowych prądu przemiennego.",
+      "prądu stałego.",
+      "synchronicznych.",
+      "asynchronicznych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 163,
+    "text": "Który rodzaj sterowania zapewnia układ silnika przedstawiony na schemacie?",
+    "answers": [
+      "Regulację obrotów przez zmianę napięcia twornika.",
+      "Hamowanie dynamiczne.",
+      "Regulację obrotów przez bocznikowanie uzwojenia wzbudzenia.",
+      "Hamowanie prądnicowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_uklad25.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 164,
+    "text": "Jakie wymiary na przedstawionym rysunku będzie miał przedmiot o wymiarach rzeczywistych L = 40 mm i d = 6 mm, jeśli narysowany zostanie w podziałce 5:1?",
+    "answers": [
+      "L = 8 mm  d = 1,2 mm",
+      "L = 200 mm  d = 30 mm",
+      "L = 40 mm  d = 1,2 mm",
+      "L = 200 mm  d = 6 mm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_przedmiot.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 165,
+    "text": "Z instrukcji obsługi przedstawionego na rysunku miernika wynika, że przed pomiarem rezystancji należy wyzerować omomierz. W tym celu należy ustawić wskazówkę na 0 kΩ przy pomocy specjalnego pokrętła, po uprzednim połączeniu zwartymi przewodami pomiarowymi zacisków wskazanych cyframi",
+    "answers": [
+      "1 i 2",
+      "2 i 4",
+      "1 i 3",
+      "3 i 4"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_miernik4.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 166,
+    "text": "Umowne oznaczenie cech urządzeń elektrycznych z punktu widzenia ochrony przeciwporażeniowej to",
+    "answers": [
+      "klasa ochronności.",
+      "kategoria użytkowania.",
+      "stopień ochrony.",
+      "klasa izolacji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 167,
+    "text": "Określ rodzaj i miejsce uszkodzenia transformatora jednofazowego, jeżeli wiadomo, że po zasileniu uzwojenia pierwotnego napięciem o wartości znamionowej, pobiera on prąd dużo mniejszy od znamionowego, a w uzwojeniu wtórnym wartość napięcia jest równa zeru?",
+    "answers": [
+      "Zwarcie w uzwojeniu wtórnym.",
+      "Przerwa w uzwojeniu pierwotnym.",
+      "Przerwa w uzwojeniu wtórnym.",
+      "Zwarcie w uzwojeniu pierwotnym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 168,
+    "text": "W przedstawionym na rysunku wirniku klatkowego silnika indukcyjnego skośne żłobki wykonuje się między innymi w celu zmniejszenia",
+    "answers": [
+      "zakłóceń radioelektrycznych.",
+      "strat mechanicznych.",
+      "natężenia hałasu.",
+      "rezystancji wirnika."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_wirnik7.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 169,
+    "text": "Stopień ochrony IP 56 silnika elektrycznego odpowiada rodzajowi obudowy * Dwie odpowiedzi są poprawne. Zaznacz obie, aby otrzymać punkt.",
+    "answers": [
+      "wodoszczelnej (W)",
+      "okapturzonej (C)",
+      "zamkniętej (Z)",
+      "strugo-szczelnej (S)"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 170,
+    "text": "Jak zmieni się prędkość synchroniczna silnika prądu przemiennego po zmianie liczby par biegunów z p1 = 1 na p2 = 4? n = 60 f / p gdzie: n – prędkość synchroniczna silnika [obr./min] f – częstotliwość [Hz] p – liczba par biegunów",
+    "answers": [
+      "Zmniejszy się czterokrotnie.",
+      "Zwiększy się dwukrotnie.",
+      "Zmniejszy się dwukrotnie.",
+      "Zwiększy się czterokrotnie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 171,
+    "text": "Zakres zadziałania zabezpieczenia przeciążeniowego wyłącznika silnikowego należy nastawić na poziomie",
+    "answers": [
+      "1,10 IN",
+      "1,15 IN",
+      "1,20 IN",
+      "1,25 IN"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 172,
+    "text": "Przyczyną nadmiernego nagrzewania się łożysk w silniku elektrycznym nie może być",
+    "answers": [
+      "złe smarowanie łożysk.",
+      "nadmierna temperatura otoczenia.",
+      "osiowe osadzenie łożysk.",
+      "uszkodzenie łożysk."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 173,
+    "text": "W układzie zasilania silnika trójfazowego pokazanego na rysunku zastosowano zabezpieczenia",
+    "answers": [
+      "od zwarć, od przeciążeń, od wzrostu napięcia.",
+      "nadprądowe, od przeciążeń.",
+      "zaniku napięcia, nadprądowe.",
+      "od zwarć, od przeciążeń, od zaniku napięcia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_uklad19.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 174,
+    "text": "Narzędzie przestawione na rysunku przeznaczone jest do",
+    "answers": [
+      "zdejmowania izolacji.",
+      "zarabiania przewodów.",
+      "zdejmowania pierścieni.",
+      "profilowania przewodów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_narzedzie8.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 175,
+    "text": "Rysunek przedstawia symbol graficzny przekaźnika",
+    "answers": [
+      "działającego ze zwłoką czasową przy wzbudzeniu.",
+      "działającego ze zwłoką czasową przy odwzbudzeniu.",
+      "ogólnego w stanie wzbudzenia.",
+      "termicznego w stanie czuwania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_symbol10.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 176,
+    "text": "Do zakresu oględzin w czasie ruchu urządzeń napędowych należy sprawdzenie",
+    "answers": [
+      "ustawienia zabezpieczeń.",
+      "szczotek i szczotkotrzymaczy.",
+      "urządzeń zabezpieczających.",
+      "połączeń elementów urządzenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 177,
+    "text": "Podczas pracy silnika elektrycznego trójfazowego występuje charakterystyczne buczenie. Przyczyną tego zjawiska może być",
+    "answers": [
+      "wysokie napięcie zasilania.",
+      "znaczna asymetria napięcia zasilania.",
+      "symetria napięcia zasilania.",
+      "przeciążenie silnika."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 178,
+    "text": "Prąd rozruchowy silnika trójfazowego skojarzonego w trójkąt jest większy od prądu rozruchowego przy skojarzeniu w gwiazdę",
+    "answers": [
+      "√3 – krotnie.",
+      "2–krotnie.",
+      "3–krotnie.",
+      "3√3 – krotnie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 179,
+    "text": "Jakie oznaczenie posiada przewód przedstawiony na rysunku?",
+    "answers": [
+      "YLYżo 3×2,5 mm2",
+      "YDYpżo 3×2,5 mm2",
+      "OWY 3×2,5 mm2",
+      "OW 3×2,5 mm2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_przewod9.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 180,
+    "text": "W przypadku braku zabezpieczenia przeciążeniowego stosowanego w wyłącznikach silnikowych lub przekaźnikach termicznych należy zabezpieczyć uzwojenia silnika trójfazowego przez zastosowanie czujników termistorowych, montując je",
+    "answers": [
+      "na obudowie silnika.",
+      "wewnątrz uzwojenia jednej fazy.",
+      "wewnątrz uzwojenia każdej fazy.",
+      "w puszce przyłączeniowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 181,
+    "text": "Pokazany na rysunku symbol graficzny umieszczony na urządzeniach elektrycznych oznacza klasę ochronności",
+    "answers": [
+      "I",
+      "III",
+      "0",
+      "II"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_symbol6.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 182,
+    "text": "Symbol graficzny odłącznika przedstawia rysunek",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_symbole9.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 183,
+    "text": "Układ zasilania silnika trójfazowego przedstawionego na rysunku umożliwia * Dwie odpowiedzi są poprawne. Zaznacz obie, aby otrzymać punkt.",
+    "answers": [
+      "rozruch gwiazda – trójkąt.",
+      "zmienną prędkość wirowania.",
+      "hamowanie przeciwprądem.",
+      "pracę ze zmiennym kierunkiem obrotów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_uklad18.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 184,
+    "text": "Symbol graficzny pokazany na rysunku przedstawia silnik prądu stałego",
+    "answers": [
+      "bocznikowy.",
+      "obcowzbudny.",
+      "szeregowy.",
+      "szeregowo-bocznikowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_symbol9.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 185,
+    "text": "Rysunek przedstawia szczotkotrzymacz. W miejscu wskazanym strzałką należy zamocować",
+    "answers": [
+      "wyłącznik odśrodkowy.",
+      "przewód ochronny.",
+      "szczotkę węglową.",
+      "przewód zasilający."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_szczotkotrzymacz.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 186,
+    "text": "Dla spełnienia warunku ochrony przeciwpożarowej, należy zamontować w rozdzielnicy wyłącznik różnicowoprądowy. Jaką wartością prądu upływu I∆n oraz funkcjonalnością powinien charakteryzować się ten wyłącznik?",
+    "answers": [
+      "300 mA, działanie zwłoczne np. 100 ms.",
+      "3 A, działanie zwłoczne np. 250 ms.",
+      "30 mA, działanie bezzwłoczne.",
+      "5 A, działanie bezzwłoczne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 187,
+    "text": "Łącznik posiadający zdolność przerywania prądów zwarciowych to",
+    "answers": [
+      "stycznik.",
+      "rozłącznik.",
+      "odłącznik.",
+      "wyłącznik."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 188,
+    "text": "Napięcie robocze jednofazowych spawarek elektrycznych dla spawania łukowego ręcznego zawiera się w przedziale",
+    "answers": [
+      "130 V ÷ 250 V",
+      "20 V ÷ 60 V",
+      "250 V ÷ 500 V",
+      "70 V ÷ 120 V"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 189,
+    "text": "Zgodnie z normą PN-EN 60947 kategoria obciążenia stycznika określona symbolem AC-1 oznacza zastosowanie",
+    "answers": [
+      "do silników bocznikowych: rozruch, hamowanie przeciwprądem.",
+      "przy obciążeniu o małej indukcyjności, w urządzeniach gospodarstwa domowego.",
+      "do silników pierścieniowych: rozruch, wyłączenie.",
+      "przy obciążeniu rezystancyjnym lub o małej indukcyjności."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 190,
+    "text": "Dopuszczalna moc silników trójfazowych z wirnikami klatkowymi, załączanych bezpośrednio do sieci 400 V, wynosi",
+    "answers": [
+      "5,5 kW",
+      "12,0 kW",
+      "6,0 kW",
+      "4,0 kW"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 191,
+    "text": "Liczba par biegunów w silniku indukcyjnym wpływa na",
+    "answers": [
+      "prądy fazowe silnika.",
+      "prędkość wirowania wirnika.",
+      "współczynnik mocy.",
+      "sprawność silnika."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 192,
+    "text": "Sprawdzanie rezystancji izolacji uzwojeń silników elektrycznych zasilanych napięciem 230/400 V należy wykonać megaomomierzem o napięciu probierczym wynoszącym",
+    "answers": [
+      "1 000 V",
+      "1 500 V",
+      "2 500 V",
+      "500 V"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 193,
+    "text": "Urządzenie przestawione na rysunku przeznaczone jest do",
+    "answers": [
+      "montażu łożysk.",
+      "odkręcania zapieczonych śrub.",
+      "demontażu łożysk.",
+      "obróbki skrawaniem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_urzadzenie9.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 194,
+    "text": "Element wskazany strzałką na rysunku silnika elektrycznego służy do",
+    "answers": [
+      "wzbudzania pola magnetycznego.",
+      "chłodzenia silnika.",
+      "rozruchu silnika.",
+      "zmiany obrotów wirnika."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_silnik9.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 195,
+    "text": "Typowym sposobem rozruchu silnika pierścieniowego jest zastosowanie",
+    "answers": [
+      "fazy pomocniczej z kondensatorem.",
+      "rozrusznika oporowego.",
+      "wyłącznika zero-jeden (0 – 1).",
+      "przełącznika gwiazda-trójkąt."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 196,
+    "text": "Połączenie galwaniczne ma w swojej konstrukcji",
+    "answers": [
+      "przetwornica.",
+      "autotransformator.",
+      "spawarka.",
+      "transformator toroidalny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 197,
+    "text": "Podstawowe zabezpieczenie silników elektrycznych nie obejmuje",
+    "answers": [
+      "przeciążeń na wale.",
+      "zwarć międzyzwojowych.",
+      "przepięć.",
+      "spadku napięcia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 198,
+    "text": "Narzędzie przedstawione na rysunku służy do",
+    "answers": [
+      "formowania oczek.",
+      "zdejmowania izolacji.",
+      "obcinania przewodów.",
+      "zaciskania tulejek."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_narzedzie9.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 199,
+    "text": "Do urządzeń przenoszących energię elektryczną prądu przemiennego z jednego obwodu elektrycznego do drugiego z zachowaniem pierwotnej częstotliwości zalicza się",
+    "answers": [
+      "silniki.",
+      "generatory.",
+      "urządzenia grzejne.",
+      "transformatory."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 200,
+    "text": "Rysunek przedstawia przekrój silnika prądu stałego. Cyfrą 2 oznaczono",
+    "answers": [
+      "uzwojenie pomocnicze.",
+      "nabiegunnik.",
+      "uzwojenie główne.",
+      "biegun główny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_przekroj3.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 201,
+    "text": "Na podstawie fragmentu szczegółowych zasad eksploatacji elektrycznych urządzeń napędowych wskaż, do której grupy zaliczane jest urządzenie napędowe z silnikiem elektrycznym o mocy 25 kW i napięciu znamionowym 400 V. Podział urządzeń napędowych na następujące grupy: I grupa – urządzenia o mocy większej niż 250 kW oraz urządzenia o napięciu znamionowym powyżej 1 kV bez względu na wartość mocy II grupa – urządzenia o mocy od 50 kW do 250 kW o napięciu znamionowym 1 kV i niższym III grupa – urządzenia o mocy poniżej 50 kW, ale nie mniejszej niż 5,5 kW IV grupa – urządzenia o mocy poniżej 5,5 kW",
+    "answers": [
+      "Do III grupy.",
+      "Do I grupy.",
+      "Do II grupy.",
+      "Do IV grupy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 202,
+    "text": "Zgodnie z normą PN-EN 60034-1:2011 symbol S3 na tabliczce znamionowej oznacza przystosowanie silnika elektrycznego do pracy",
+    "answers": [
+      "dorywczej.",
+      "okresowej przerywanej z rozruchem.",
+      "ciągłej.",
+      "okresowej przerywanej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 203,
+    "text": "Jaką sprawność znamionową ma silnik szeregowy, którego wybrane parametry z tabliczki znamionowej zamieszczono poniżej? Un = 440 V Pn = 10 kW In = 25 A nn = 800 obr./min S1",
+    "answers": [
+      "≈91%",
+      "50%",
+      "≈71%",
+      "80%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 204,
+    "text": "Szczotki węglowe stosowane w silnikach elektrycznych budowane są z materiałów",
+    "answers": [
+      "przewodzących.",
+      "izolacyjnych.",
+      "półprzewodnikowych.",
+      "magnetycznych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 205,
+    "text": "Wskazany strzałką zbiornik nad transformatorem energetycznym to",
+    "answers": [
+      "izolator przepustowy.",
+      "przekaźnik Bucholtza.",
+      "przełącznik zaczepów.",
+      "konserwator."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_transformator3.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 206,
+    "text": "Na rysunku przedstawiono wirnik silnika elektrycznego. Strzałka wskazuje",
+    "answers": [
+      "komutator.",
+      "koło pasowe.",
+      "uzwojenie wirnika.",
+      "pierścienie ślizgowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_wirnik8.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 207,
+    "text": "Które parametry odbiornika elektrycznego można bezpośrednio zmierzyć za pomocą miernika przedstawionego na rysunku?",
+    "answers": [
+      "Moc czynną, natężenie prądu i napięcie.",
+      "Tylko natężenie prądu i napięcie.",
+      "Tylko moc czynną i napięcie.",
+      "Moc czynną, częstotliwość i napięcie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_miernik3.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 208,
+    "text": "W tabeli zamieszczono wyniki pomiarów kontrolnych rezystancji uzwojeń prądnicy synchronicznej, połączonych według schematu przedstawionego na rysunku. Na podstawie tych wyników można stwierdzić, że w prądnicy występuje",
+    "answers": [
+      "przerwa w uzwojeniu wzbudzenia i zwarcie w jednej fazie uzwojenia twornika.",
+      "przerwa w uzwojeniu wzbudzenia i przerwa w jednej fazie uzwojenia twornika.",
+      "zwarcie w uzwojeniu wzbudzenia i przerwa w jednej fazie uzwojenia twornika.",
+      "zwarcie w uzwojeniu wzbudzenia i zwarcie w jednej fazie uzwojenia twornika."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_pomiar3.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 209,
+    "text": "Jaką sprawność znamionową ma silnik szeregowy, którego wybrane parametry z tabliczki znamionowej zamieszczono w ramce?",
+    "answers": [
+      "≈71%",
+      "50%",
+      "80%",
+      "≈91%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_ramka.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 210,
+    "text": "Którą kategorię użytkowania powinien mieć stycznik przeznaczony do rozruchu i wyłączania silników indukcyjnych pierścieniowych?",
+    "answers": [
+      "DC-3",
+      "AC-1",
+      "AC-2",
+      "DC-1"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 211,
+    "text": "Parametry wymienione w tabeli są charakterystyczne dla",
+    "answers": [
+      "wzmacniacza mocy.",
+      "przekładnika napięciowego.",
+      "zasilacza sieciowego.",
+      "przekładnika prądowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_tabela10.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 212,
+    "text": "Silniki indukcyjne liniowe są stosowane między innymi w urządzeniach do",
+    "answers": [
+      "napędu wysokoobrotowych prądnic synchronicznych.",
+      "wprasowywania łożysk w samochodach.",
+      "podnoszenia i przesuwania bram.",
+      "napędu walcarek w przemyśle hutniczym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 213,
+    "text": "Wskaż prawidłową kolejność czynności, które należy wykonać przy wymianie elementu grzejnego w ogrzewaczu przepływowym po odłączeniu zasilania i rozkręceniu obudowy.",
+    "answers": [
+      "Odłączenie przewodów od elementu grzejnego, wymiana uszkodzonych uszczelek, wymontowanie elementu grzejnego, podłączenie przewodów i sprawdzenie stanu styków, montaż nowego elementu grzejnego, zamontowanie obudowy.",
+      "Wymontowanie elementu grzejnego, odłączenie przewodów od elementu grzejnego, montaż nowego elementu grzejnego, wymiana uszkodzonych uszczelek, podłączenie przewodów i sprawdzenie stanu styków, zamontowanie obudowy.",
+      "Wymiana uszkodzonych uszczelek, wymontowanie elementu grzejnego, odłączenie przewodów od elementu grzejnego, montaż nowego elementu grzejnego, podłączenie przewodów i sprawdzenie stanu styków, zamontowanie obudowy.",
+      "Odłączenie przewodów od elementu grzejnego, wymontowanie elementu grzejnego, wymiana uszkodzonych uszczelek, montaż nowego elementu grzejnego, podłączenie przewodów i sprawdzenie stanu styków, zamontowanie obudowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 214,
+    "text": "Przedstawiona na rysunku wkładka topikowa stacyjna służy do zabezpieczenia",
+    "answers": [
+      "transformatorów.",
+      "silników.",
+      "urządzeń rozdzielczych.",
+      "urządzeń półprzewodnikowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_wkladka.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 215,
+    "text": "Którą grupę połączeń ma transformator trójfazowy, którego schemat połączeń uzwojeń przedstawiono na rysunku?",
+    "answers": [
+      "Dz11",
+      "Ynd11",
+      "Yzn11",
+      "Dy11"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_schemat85.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 216,
+    "text": "Jaka może być przyczyna uruchamiania się silnika indukcyjnego pierścieniowego przy otwartym rozruszniku?",
+    "answers": [
+      "Przerwa w uzwojeniu stojana.",
+      "Zmieniona kolejność połączenia dwóch faz.",
+      "Zwarcie w uzwojeniu wirnika.",
+      "Zakleszczenie się szczotek w obsadach szczotkowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 217,
+    "text": "Jaka jest wartość impedancji cewki stycznika, jeżeli w przedstawionym na rysunku układzie pomiarowym amperomierz wskazuje 500 mA, a woltomierz 200 V?",
+    "answers": [
+      "100 Ω",
+      "150 Ω",
+      "250 Ω",
+      "400 Ω"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_schemat87.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 218,
+    "text": "Przed przekazaniem do bezpiecznego użytkowania zmontowanego układu sterowania i zabezpieczenia silnika, którego schemat przedstawiono na rysunku, konieczne jest przede wszystkim sprawdzenie",
+    "answers": [
+      "ciągłości przewodu ochronnego.",
+      "rezystancji połączeń w obwodzie sterowania.",
+      "izolacji wszystkich przewodów łączących.",
+      "rezystancji połączeń w obwodzie głównym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_uklad21.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 219,
+    "text": "Na rysunkach przedstawiono schematy czterech transformatorów niskiego napięcia. Które z tych transformatorów mogą być stosowane jako źródła bezpiecznego napięcia SELV lub PELV w warunkach normalnych?",
+    "answers": [
+      "II, III i IV",
+      "I, III i IV",
+      "Tylko I i II",
+      "Tylko III i IV"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_schematy8.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 220,
+    "text": "Jaką moc pobiera trójfazowy grzejnik rezystancyjny, którego schemat połączeń przedstawiono na rysunku, jeżeli wartość napięcia fazowego w sieci wynosi 230V?",
+    "answers": [
+      "√3·1150 W",
+      "1150 W",
+      "3450 W",
+      "√3·3450 W"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_schemat83.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 221,
+    "text": "Który z wymienionych materiałów jest stosowany do izolowania blach w rdzeniu przedstawionego na rysunku urządzenia?",
+    "answers": [
+      "Polietylen.",
+      "Polwinit.",
+      "Lakier.",
+      "Mikanit."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_urzadzenie10.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 222,
+    "text": "Który rodzaj łożyska tocznego przedstawiono na rysunku?",
+    "answers": [
+      "Kulkowe.",
+      "Igiełkowe.",
+      "Stożkowe.",
+      "Baryłkowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_lozysko.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 223,
+    "text": "W przedstawionym na rysunku schemacie układu sterowania cewki przekaźników mają być załączane w kolejności: K2, K1, K3. Określ wymaganą kolejność naciskania przycisków sterowniczych.",
+    "answers": [
+      "S3, S2, S1",
+      "S2, S3, S1",
+      "S2, S1, S3",
+      "S1, S2, S3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_schemat86.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 224,
+    "text": "W układzie sterowania oświetleniem, którego fragment przedstawiono na rysunku, rezystancja zmierzona między punktami K2:22 i N wynosi ∞. Świadczy to na pewno o uszkodzeniu",
+    "answers": [
+      "zestyku NO przekaźnika K1",
+      "żarówki H1",
+      "żarówki H2",
+      "cewki przekaźnika K1"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_uklad20.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 225,
+    "text": "Które z narzędzi przedstawionych na rysunkach jest stosowane do zaciskania końcówek tulejkowych na przewodach?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_narzedzia11.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 226,
+    "text": "Na którym rysunku zamieszczono prawidłowy schemat układu do pomiaru parametrów zwarciowych transformatora?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_schematy9.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 227,
+    "text": "Rezystancji uzwojenia wzbudzenia silnika bocznikowego prądu stałego o napięciu znamionowym 220 V nie można zmierzyć",
+    "answers": [
+      "omomierzem analogowym.",
+      "omomierzem cyfrowym.",
+      "mostkiem Thomsona.",
+      "mostkiem Wheatstone’a."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 228,
+    "text": "Które z wymienionych źródeł światła zaliczane są do źródeł wyładowczych wysokoprężnych?",
+    "answers": [
+      "Świetlówki kompaktowe.",
+      "Lampy ksenonowe.",
+      "Lampy indukcyjne.",
+      "Żarówki halogenowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 229,
+    "text": "Który łącznik elektryczny przedstawiono na rysunku?",
+    "answers": [
+      "Stycznik.",
+      "Rozłącznik bezpiecznikowy.",
+      "Odłącznik.",
+      "Wyłącznik krańcowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_lacznik.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 230,
+    "text": "Na rysunku przedstawiono charakterystykę mechaniczną trójfazowego silnika indukcyjnego. W którym z zaznaczonych punktów poślizg wirnika jest największy?",
+    "answers": [
+      "II",
+      "III",
+      "I",
+      "IV"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_charakterystyka7.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 231,
+    "text": "Tyrystor, którego symbol graficzny przedstawiono na rysunku, jest półprzewodnikowym przyrządem mocy",
+    "answers": [
+      "sterowanym prądowo.",
+      "niesterowanym.",
+      "półsterowanym.",
+      "sterowanym napięciowo."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_symbol11.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 232,
+    "text": "Łączniki elektryczne ze względu na sposób załączania i wyłączania prądu dzieli się na",
+    "answers": [
+      "robocze, zwarciowe i izolacyjne.",
+      "mechaniczne, półprzewodnikowe i hybrydowe.",
+      "cieczowe, gazowe i próżniowe.",
+      "instalacyjne, drogowe i krańcowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 233,
+    "text": "Który z przedstawionych mierników pozwala na najdokładniejszy pomiar wartości skutecznej odkształconego napięcia sieciowego?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_mierniki2.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 234,
+    "text": "Który z wymienionych przewodów może być wykorzystany do nawinięcia uzwojenia stojana silnika asynchronicznego?",
+    "answers": [
+      "YDYt",
+      "DN2E",
+      "OMYp",
+      "AsXSn"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 235,
+    "text": "Określ, na podstawie schematu oraz zamieszczonych w tabeli wyników pomiarów rezystancji, który element stycznika należy wymienić.",
+    "answers": [
+      "Styk pomocniczy NO.",
+      "Styk pomocniczy NC.",
+      "Cewkę.",
+      "Styki główne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_pomiar4.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 236,
+    "text": "Prądnica synchroniczna pracująca w sieci sztywnej nazywana jest przewzbudzoną, gdy oddaje do sieci",
+    "answers": [
+      "moc czynną i moc bierną pojemnościową.",
+      "tylko moc czynną.",
+      "tylko moc bierną pojemnościową.",
+      "moc czynną i moc bierną indukcyjną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 237,
+    "text": "Na którym rysunku przedstawiono szybkozłączkę?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_rysunki2.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 238,
+    "text": "Na rysunku przedstawiono przebieg czasowy napięcia na zaciskach silnika",
+    "answers": [
+      "indukcyjnego zasilanego z falownika prądu.",
+      "prądu stałego zasilanego z czopera.",
+      "synchronicznego zasilanego z falownika napięcia.",
+      "prądu stałego zasilanego z prostownika sterowanego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_charakterystyka8.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 239,
+    "text": "Na podstawie przedstawionych na rysunku nastaw pokręteł i diagramu działania przekaźnika czasowego określ jego sposób działania.",
+    "answers": [
+      "Natychmiastowe załączenie styku i wyłączenie po 300 ms od uruchomienia.",
+      "Załączanie i wyłączanie styku w cyklu: załączenie na 300 ms i wyłączenie na 300 ms.",
+      "Wyłączanie i załączanie styku w cyklu: wyłączenie na 30 ms i załączenie na 30 ms.",
+      "Załączenie styku po 30 ms od uruchomienia przekaźnika."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_przekaznik4.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 240,
+    "text": "Wdrażanie silnika po montażu lub konserwacji, w trakcie którego następuje między innymi docieranie łożysk, pierścieni ślizgowych i szczotek, przeprowadza się w stanie",
+    "answers": [
+      "zwarcia pomiarowego.",
+      "niewielkiego przeciążenia.",
+      "obciążenia znamionowego.",
+      "biegu jałowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 241,
+    "text": "Który parametr silnika elektrycznego podawany jest w kg⋅m2?",
+    "answers": [
+      "Moment bezwładności.",
+      "Masa całkowita.",
+      "Masa właściwa.",
+      "Moment obrotowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 242,
+    "text": "Do czego służy urządzenie przedstawione na rysunku?",
+    "answers": [
+      "Montażu biegunów stojanów.",
+      "Wyważania wirników.",
+      "Nawijania uzwojeń wirników.",
+      "Impregnowania uzwojeń."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_urzadzenie11.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 243,
+    "text": "Na którym rysunku przedstawiono odgiętkę do zabezpieczenia przewodu przechodzącego przez otwór w obudowie urządzenia elektrycznego?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_rysunki3.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 244,
+    "text": "Urządzenie elektryczne, którego schemat przedstawiono na rysunku, jest przeznaczone do",
+    "answers": [
+      "płynnej regulacji napięcia stałego.",
+      "skokowej regulacji prądu stałego.",
+      "płynnej regulacji prądu przemiennego.",
+      "skokowej regulacji napięcia przemiennego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_schemat84.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 245,
+    "text": "W silniku szeregowym prądu stałego uruchomionym pierwszy raz po przeprowadzonej konserwacji stwierdzono nieprawidłowy kierunek obrotów. Przyczyną tego jest",
+    "answers": [
+      "błędne połączenie uzwojeń wzbudzenia i twornika.",
+      "odwrotne połączenie rozrusznika.",
+      "złe ustawienie szczotek.",
+      "zmieniona biegunowość napięcia zasilającego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 246,
+    "text": "Do jakiej grupy urządzeń elektrycznych zalicza się przekładnik prądowy pracujący w układzie zasilania hali przemysłowej?",
+    "answers": [
+      "Pomiarowych.",
+      "Sterujących.",
+      "Regulacyjnych.",
+      "Zabezpieczających."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 247,
+    "text": "Na rysunku przedstawiono schemat układu zasilania silnika",
+    "answers": [
+      "synchronicznego jawnobiegunowego z rozrusznikiem gwiazda-trójkąt.",
+      "asynchronicznego pierścieniowego z regulacją prędkości obrotowej.",
+      "szeregowego prądu przemiennego do pracy nawrotnej.",
+      "obcowzbudnego prądu stałego z rozruchem rezystancyjnym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_schemat89.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 248,
+    "text": "Który element zamienny przedstawiono na rysunku?",
+    "answers": [
+      "Przekładnik Ferrantiego wyłącznika różnicowoprądowego.",
+      "Człon nadprądowy wyłącznika silnikowego.",
+      "Moduł warystorowy ochronnika przeciwprzepięciowego.",
+      "Mechanizm zegarowy przekaźnika czasowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_element19.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 249,
+    "text": "Który parametr silnika trójfazowego można zmierzyć przedstawionym na rysunku przyrządem pomiarowym?",
+    "answers": [
+      "Rezystancję izolacji.",
+      "Moment obrotowy.",
+      "Prąd roboczy.",
+      "Prędkość obrotową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_przyrzad2.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 250,
+    "text": "W czasie montażu układu zasilania silnika trójfazowego pracującego w sieci TT korpus silnika należy połączyć z",
+    "answers": [
+      "przewodem neutralnym sieci.",
+      "uziomem ochronnym.",
+      "przewodem ochronno-neutralnym sieci.",
+      "punktem neutralnym transformatora bezpieczeństwa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 251,
+    "text": "Który z przedstawionych przyrządów pomiarowych należy zastosować do pomiaru rezystancji izolacji uzwojeń w silniku trójfazowym?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_przyrzady2.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 252,
+    "text": "Który typ charakterystyki posiada wyłącznik instalacyjny nadprądowy, dla którego wyłączenie prądu zwarciowego następuje przy 5÷10 krotności prądu znamionowego?",
+    "answers": [
+      "Typ C",
+      "Typ S",
+      "Typ B",
+      "Typ D"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 253,
+    "text": "Na podstawie przedstawionej na rysunku tabliczki znamionowej silnika trójfazowego określ wartość jego prądu znamionowego przy połączeniu uzwojeń silnika w trójkąt.",
+    "answers": [
+      "93,5 A",
+      "98,5 A",
+      "55 A",
+      "57 A"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_tabliczka20.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 254,
+    "text": "Na rysunku przedstawiono schemat ideowy połączeń dwóch silników trójfazowych wraz z wykonanymi połączeniami na ich tabliczkach zaciskowych. Oceń poprawność montażu układów zasilania na tabliczkach zaciskowych obu silników wiedząc, że silnik M1 ma być połączony w gwiazdę, a silnik M2 w trójkąt.",
+    "answers": [
+      "W obu silnikach montaż został wykonany poprawnie.",
+      "W obu silnikach montaż został wykonany niepoprawnie.",
+      "W silniku M1 montaż został wykonany niepoprawnie, a w silniku M2 poprawnie.",
+      "W silniku M1 montaż został wykonany poprawnie, a w silniku M2 niepoprawnie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_schemat95.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 255,
+    "text": "Który z wymienionych typów silników elektrycznych jest silnikiem prądu stałego?",
+    "answers": [
+      "Repulsyjny.",
+      "Klatkowy.",
+      "Pierścieniowy.",
+      "Obcowzbudny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 256,
+    "text": "Przed skutkami których zakłóceń zabezpiecza wkładka topikowa typu gL?",
+    "answers": [
+      "Przeciążeń w silnikach.",
+      "Zwarć i przeciążeń w transformatorach.",
+      "Zwarć w przekształtnikach energoelektronicznych.",
+      "Zwarć i przeciążeń w przewodach."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 257,
+    "text": "Którą klasę ochronności od porażeń prądem elektrycznym ma urządzenie posiadające wzmocnioną izolację?",
+    "answers": [
+      "0",
+      "II",
+      "III",
+      "I"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 258,
+    "text": "W układzie zasilania silnika trójfazowego w czasie wykonywania przeglądu należy zmierzyć rezystancję izolacji przewodu zasilającego YDY 4×2,5 mm2. Przed przystąpieniem do pomiaru należy wyłączyć napięcie zasilające oraz",
+    "answers": [
+      "odłączyć przewód ochronny od korpusu silnika.",
+      "włączyć łącznik włączający silnik.",
+      "uziemić korpus silnika.",
+      "odłączyć żyły robocze przewodu od zacisków silnika."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 259,
+    "text": "Którego narzędzia spośród przedstawionych na rysunkach należy użyć do demontażu uszkodzonego łożyska z tarczy łożyskowej silnika elektrycznego?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_narzedzia13.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 260,
+    "text": "Który z wymienionych elementów stosowany w układach zasilania i sterowania silnika trójfazowego przedstawiono na rysunku?",
+    "answers": [
+      "Stycznik elektromagnetyczny.",
+      "Rozłącznik bezpiecznikowy.",
+      "Przekaźnik podnapięciowy.",
+      "Wyłącznik silnikowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_element18.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 261,
+    "text": "Którą z wymienionych funkcji pełni komutator w silniku prądu stałego?",
+    "answers": [
+      "Zmienia kierunek przepływu prądu w uzwojeniu wirnika.",
+      "Reguluje moment obrotowy.",
+      "Stabilizuje prędkość obrotową.",
+      "Ogranicza prąd w uzwojeniu wirnika."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 262,
+    "text": "Przedstawiony na schemacie przekaźnik realizuje przełączenie uzwojeń silnika z połączenia w gwiazdę w połączenie w trójkąt po",
+    "answers": [
+      "zwarciu zestyków 10-12 oraz 7-9",
+      "rozwarciu zestyków 11-12 oraz 8-9",
+      "rozwarciu zestyku 10-12 oraz zwarciu zestyku 7-9",
+      "rozwarciu zestyku 7-9 oraz zwarciu zestyku 10-12"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_schemat91.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 263,
+    "text": "Które narzędzie przedstawiono na rysunku?",
+    "answers": [
+      "Szczypce do zaginania oczek na końcówkach przewodów.",
+      "Szczypce czołowe do obcinania przewodów.",
+      "Przyrząd do ściągania izolacji z końcówek przewodów.",
+      "Kleszcze do zaprasowywania końcówek izolowanych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_narzedzie10.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 264,
+    "text": "Jaki typ przewodu przedstawiono na rysunku?",
+    "answers": [
+      "Uzbrojony.",
+      "Płaszczowy.",
+      "Oponowy.",
+      "Samonośny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_przewod11.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 265,
+    "text": "Przy wykonywaniu oględzin układu pracy silnika trójfazowego pracującego w obrabiarce należy sprawdzić",
+    "answers": [
+      "impedancję pętli zwarcia.",
+      "czas zadziałania zabezpieczenia zwarciowego.",
+      "stan osłon części wirujących.",
+      "rezystancję izolacji uzwojeń silnika."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 266,
+    "text": "Jaką rolę w zasilaczu przemysłowym, którego schemat przedstawiono na rysunku spełnia element oznaczony symbolem PD?",
+    "answers": [
+      "Reguluje wartość prądu.",
+      "Stabilizuje napięcie.",
+      "Zmienia napięcie przemienne na stałe.",
+      "Zmienia napięcie stałe na przemienne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_schemat90.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 267,
+    "text": "Który element obwodu sterowania silnika trójfazowego oznaczony jest na przedstawionym schemacie symbolem K1 21-22?",
+    "answers": [
+      "Zwierny zestyk pomocniczy stycznika.",
+      "Przycisk sterujący rozwierny.",
+      "Rozwierny zestyk pomocniczy stycznika.",
+      "Przycisk sterujący zwierny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_schemat88.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 268,
+    "text": "Jaką funkcję spełnia układ pracy silnika trójfazowego, którego schemat przedstawiono na rysunku?",
+    "answers": [
+      "Zmiany kierunku wirowania wału silnika.",
+      "Sterowania pracą silnika z dwóch miejsc.",
+      "Rozruchu z zastosowaniem przełącznika gwiazda-trójkąt.",
+      "Regulacji prędkości przez zmianę liczby par biegunów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_schemat92.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 269,
+    "text": "W układzie sterowania silnika trójfazowego, którego schemat przedstawiono na rysunku, po wykonanym montażu włączono zabezpieczenie Q i nastąpiło natychmiastowe włączanie i wyłączanie stycznika z dużą częstotliwością. Jaka jest usterka w tym układzie?",
+    "answers": [
+      "Przerwa w przycisku rozwiernym.",
+      "Przerwa w przewodzie neutralnym.",
+      "Zwarcie międzyzwojowe w cewce stycznika.",
+      "Zamiana zestyku pomocniczego zwiernego na rozwierny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_schemat96.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 270,
+    "text": "Który z wymienionych typów czujników przedstawiono na rysunku?",
+    "answers": [
+      "Ruchu.",
+      "Częstotliwości.",
+      "Kąta obrotu.",
+      "Kolejności faz."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_czujnik.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 271,
+    "text": "Jaką wartość ma prąd znamionowy członu nadprądowego w wyłączniku, którego tabliczkę znamionową przedstawiono na rysunku?",
+    "answers": [
+      "25 A",
+      "16 A",
+      "0,03 A",
+      "6000 A"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_tabliczka19.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 272,
+    "text": "Które oznaczenie opisuje przewód przedstawiony na rysunku?",
+    "answers": [
+      "YDYżo 3×2,5 mm2",
+      "SMYp 3×2,5 mm2",
+      "OWY 3×2,5 mm2",
+      "YAKY 3×2,5 mm2"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_przewod10.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 273,
+    "text": "Która z podanych wielkości nie jest parametrem elementu układu zasilania silnika trójfazowego przedstawionego na rysunku?",
+    "answers": [
+      "Kategoria użytkowania.",
+      "Napięcie sterujące.",
+      "Znamionowa częstotliwość łączeń.",
+      "Znamionowy prąd różnicowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_element17.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 274,
+    "text": "Jaką rolę w przekaźniku termobimetalowym przedstawionym na rysunku spełnia element oznaczony strzałką?",
+    "answers": [
+      "Umożliwia regulację prądu zadziałania przekaźnika.",
+      "Zmienia pozycję styków pomocniczych rozwiernych na zwierne.",
+      "Odblokowuje styki przekaźnika z pozycji wymuszonej.",
+      "Umożliwia testowe sprawdzenie działania przekaźnika."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_przekaznik5.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 275,
+    "text": "Które zaciski listwy zaciskowej transformatora trójfazowego obniżającego napięcie należy połączyć, aby uzyskać połączenie uzwojenia górnego napięcia w gwiazdę, a uzwojenia dolnego napięcia w trójkąt?",
+    "answers": [
+      "4-5-6 oraz 7-8-9",
+      "2-4, 3-5, 1-6 oraz 7-8-9",
+      "2-4, 3-5, 1-6 oraz 8-10, 9-11, 7-12",
+      "4-5-6 oraz 8-10, 9-11, 7-12"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_schemat93.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 276,
+    "text": "Symbol S3 40% umieszczony na tabliczce znamionowej silnika o mocy znamionowej 7,5 kW oznacza, że ten silnik przeznaczony jest do pracy przerywanej przy obciążeniu wynoszącym",
+    "answers": [
+      "3 kW w czasie 6 minut, po którym następuje czas postoju wynoszący 4 minuty.",
+      "3 kW w czasie 4 minut, po którym następuje czas postoju wynoszący 6 minut.",
+      "7,5 kW w czasie 4 minut, po którym następuje czas postoju wynoszący 6 minut.",
+      "7,5 kW w czasie 6 minut, po którym następuje czas postoju wynoszący 4 minuty."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 277,
+    "text": "Którą część zamienną układu sterowania przedstawiono na rysunku?",
+    "answers": [
+      "Przycisk bistabilny.",
+      "Wyzwalacz elektromagnetyczny.",
+      "Moduł zestyków pomocniczych.",
+      "Przekaźnik termiczny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_czesc7.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 278,
+    "text": "Wskaż sposób połączenia zasilania i skojarzenia uzwojeń na tabliczce zaciskowej silnika trójfazowego połączonego w trójkąt przy lewym kierunku wirowania wału.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_tabliczki2.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 279,
+    "text": "Który z wymienionych materiałów stosuje się do wykonania uzwojenia wirnika w silniku indukcyjnym klatkowym?",
+    "answers": [
+      "Stal.",
+      "Żeliwo.",
+      "Aluminium.",
+      "Nikiel."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 280,
+    "text": "Przed przystąpieniem do demontażu silnika od maszyny roboczej należy obowiązkowo wyłączyć napięcie zasilające oraz zabezpieczyć obwód przed niepożądanym włączeniem, a następnie",
+    "answers": [
+      "uziemić korpus maszyny przy pomocy przenośnego uziemiacza.",
+      "zmierzyć rezystancję przewodu ochronnego.",
+      "sprawdzić brak napięcia w obwodzie.",
+      "sprawdzić nastawy zabezpieczeń nadprądowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "ELE.01"
+  },
+  {
+    "id": 281,
+    "text": "W układzie sterowania silnika trójfazowego został wymieniony element przedstawiony na rysunku. Które parametry należy wyregulować w tym urządzeniu przed włączeniem napięcia zasilania?",
+    "answers": [
+      "Prąd różnicowy i czas zadziałania.",
+      "Napięcie zasilania i kategorię użytkowania.",
+      "Czas zadziałania i tryb pracy.",
+      "Prąd zadziałania i rodzaj charakterystyki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_element20.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 282,
+    "text": "W celu sprawdzenia parametrów transformatora jednofazowego obniżającego napięcie o przekładni równej 16, zmontowano układ pomiarowy przedstawiony na rysunku i po stronie pierwotnej uzyskano wyniki pomiarów: U1 = 225 V, I = 0,1 A. Jaki zakres pomiarowy miernika analogowego pozwoli na dokonanie pomiaru napięcia po stronie wtórnej transformatora z największą dokładnością?",
+    "answers": [
+      "AC 30 V",
+      "DC 300 V",
+      "DC 30 V",
+      "AC 300 V"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_uklad22.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 283,
+    "text": "W celu sprawdzenia poprawności montażu układu sterowania silnika, którego schemat przedstawiono na rysunku dokonano sprawdzenia napięcia wskaźnikiem neonowym w poszczególnych punktach obwodu przy włączonym wyłączniku Q. Na podstawie wyników pomiarów zamieszczonych w tabeli określ błąd występujący w tym układzie.",
+    "answers": [
+      "Występuje trwałe zwarcie na przycisku Z1",
+      "Występuje przerwa na przycisku W2",
+      "Zastosowano styk rozwierny w miejscu K:13-14",
+      "Przerwany jest przewód na odcinku A2-N"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_schemat97.png"
+    },
+    "category": "ELE.01"
+  },
+  {
+    "id": 284,
+    "text": "W czasie sprawdzania poprawności montażu układu zasilania i sterowania silnika trójfazowego, którego schemat przedstawiono na rysunku, włączono napięcie zasilające i naciśnięto przycisk Z1. Po naciśnięciu przycisku Z2 nastąpi",
+    "answers": [
+      "dwukrotne zmniejszenie ustalonej prędkości obrotowej.",
+      "natychmiastowe zatrzymanie silnika.",
+      "dwukrotne zwiększenie ustalonej prędkości obrotowej.",
+      "bezprzerwowa zmiana kierunku wirowania wału."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "ele01/e7_schemat94.png"
+    },
+    "category": "ELE.01"
+  }
+]
