@@ -1,0 +1,2501 @@
+[
+  {
+    "id": 1,
+    "text": "Wskaż metodę połączenia wkładu z okładką w oprawie prostej zakrywającej.",
+    "answers": [
+      "Szycie nićmi.",
+      "Klejenie.",
+      "Szycie drutem.",
+      "Spiralowanie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 2,
+    "text": "W której przestrzeni barwnej powinny być przygotowane materiały cyfrowe przeznaczone do drukowania cyfrowego?",
+    "answers": [
+      "sRGB",
+      "CMYK",
+      "LAB",
+      "HSB"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 3,
+    "text": "Wykonanie druku strukturalnego, jak na medalu pokazanym na ilustracji, jest możliwe przy zastosowaniu maszyny cyfrowej drukującej w technologii",
+    "answers": [
+      "ink-jet UV.",
+      "ink-jet wodny.",
+      "termotransferowej.",
+      "jonograficznej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_medal.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 4,
+    "text": "Którą zasadę wymiarowania rysunków technicznych przedstawiono na ilustracji?",
+    "answers": [
+      "Porządkowania wymiarów.",
+      "Pozostawiania otwartych łańcuchów wymiarowych.",
+      "Niepowtarzania wymiarów.",
+      "Pomijania wymiarów oczywistych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_rysunek4.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 5,
+    "text": "W celu wymiany purpurowego tonera w maszynie do drukowania cyfrowego należy wybrać zasobnik oznaczony literą",
+    "answers": [
+      "C",
+      "Y",
+      "K",
+      "M"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 6,
+    "text": "Urządzeniem stosowanym do oklejenia tekturowej główki kalendarza zadrukowanym papierem offsetowym jest",
+    "answers": [
+      "laminator.",
+      "kalander.",
+      "kaszerownica.",
+      "powlekarka."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 7,
+    "text": "Na ilustracji przedstawiono ocenę jakości wydruków cyfrowych na podstawie pomiaru",
+    "answers": [
+      "gęstości optycznej.",
+      "gładkości podłoża.",
+      "gramatury papieru.",
+      "tacku farby."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_pomiar.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 8,
+    "text": "Jakość wydruków 3D dokonuje się na podstawie oceny",
+    "answers": [
+      "kolorymetrycznej.",
+      "densytometrycznej.",
+      "wizualnej.",
+      "konduktometrycznej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 9,
+    "text": "Po ukazaniu się na panelu urządzenia drukującego komunikatu przedstawionego na ilustracji należy",
+    "answers": [
+      "wykonać kalibrację kolorów.",
+      "skontaktować się z serwisem.",
+      "przygotować błękitny toner do wymiany.",
+      "przeprowadzić czyszczenie bębna drukującego z purpurowym tonerem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_panel.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 10,
+    "text": "Przedstawiony fragment dokumentu informuje użytkownika maszyny drukującej o sposobie",
+    "answers": [
+      "konserwacji urządzenia.",
+      "regulacji temperatury zgrzewu.",
+      "wyłączenia urządzenia.",
+      "wymiany podłoża drukowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_dokument2.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 11,
+    "text": "Który element podlega kontroli w przypadku oceny jakości dwustronnych wydruków cyfrowych, małoformatowych?",
+    "answers": [
+      "Kierunek włókien w zadrukowanym podłożu.",
+      "Strzałka ugięcia na środku arkusza.",
+      "Pasowanie obrazu na awersie i rewersie wydruku.",
+      "Białość papieru w miejscach niezadrukowanych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 12,
+    "text": "Środkiem chemicznym do obróbki druków 3D polegającej na nadaniu połysku, wygładzaniu powierzchni bez powstawania efektu skurczu materiału oraz nie stwarzającym ryzyka zapłonu jest",
+    "answers": [
+      "aceton.",
+      "żywica epoksydowa.",
+      "alkohol.",
+      "woda utleniona."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 13,
+    "text": "Które urządzenie należy zastosować do uzyskania nieregularnych kształtów wydrukowanych etykiet?",
+    "answers": [
+      "Nóż introligatorski.",
+      "Krajarkę trójnożową.",
+      "Ploter wycinający.",
+      "Krajarkę krążkową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 14,
+    "text": "W jakiej skali wykonuje się szkice rysunków technicznych w programach dedykowanych do projektowania CAD?",
+    "answers": [
+      "1:2",
+      "3:1",
+      "1:1",
+      "2:1"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 15,
+    "text": "Która z operacji obróbki wykończeniowej wydruku cyfrowego pozwoli uzyskać efekt wskazany strzałkami na ilustracji?",
+    "answers": [
+      "Gumowanie.",
+      "Proszkowanie.",
+      "Grawerowanie laserowe.",
+      "Lakierowanie UV wybiórcze."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_efekt2.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 16,
+    "text": "Które urządzenie należy zastosować do połączenia wkładu z okładką w oprawie zeszytowej?",
+    "answers": [
+      "Niciarkę.",
+      "Agregat klejowy.",
+      "Zszywarkę drutem.",
+      "Spiralówkę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 17,
+    "text": "Na etapie przygotowywania pliku PDF do druku cyfrowego akcydensów z tłem na tzw. spad, spad drukarski powinien mieć wartość",
+    "answers": [
+      "3 mm",
+      "1 mm",
+      "3 cm",
+      "2 cm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 18,
+    "text": "Wskaż format pliku, który może zostać wykorzystany bezpośrednio jako baza danych do wykonania druków spersonalizowanych?",
+    "answers": [
+      "HTML",
+      "XLSX",
+      "GIF",
+      "MPEG"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 19,
+    "text": "Podczas oceny jakości wydruku cyfrowego zauważono błąd wskazany strzałką na ilustracji. Którą czynność trzeba wykonać, by usunąć błąd?",
+    "answers": [
+      "Zmniejszyć prędkość drukowania.",
+      "Zmienić maszynę drukującą.",
+      "Poprawić plik graficzny.",
+      "Zwiększyć nasycenie kolorów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_blad.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 20,
+    "text": "Widoczne zarysy obiektów, linie wymiarowe i pomocnicze na rysunku technicznym zaznacza się linią cienką",
+    "answers": [
+      "kreskową.",
+      "falistą.",
+      "punktową.",
+      "ciągłą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 21,
+    "text": "Który program nie umożliwia modelowania obiektów na potrzeby druku 3D?",
+    "answers": [
+      "Blender",
+      "Adobe Dreamweaver",
+      "3dMax",
+      "Autodesk 123D"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 22,
+    "text": "Na której ilustracji przedstawiono nóż krążkowy, którego nie montuje się w perforówce?",
+    "answers": [
+      "Na ilustracji 2.",
+      "Na ilustracji 1.",
+      "Na ilustracji 3.",
+      "Na ilustracji 4."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_noze.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 23,
+    "text": "Którą cyfrową maszynę drukującą można wykorzystać do zadruku przedstawionej na ilustracji koszulki?",
+    "answers": [
+      "DTG",
+      "Magnetograficzną.",
+      "3D",
+      "Igłową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_koszulka.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 24,
+    "text": "Przedstawiony rysunek techniczny nazywany jest",
+    "answers": [
+      "przekrojem śruby.",
+      "szkicem odręcznym.",
+      "kładem walca.",
+      "rzutowaniem prostokątnym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_rysunek5.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 25,
+    "text": "Ile arkuszy podłoża należy dodatkowo przygotować, jeżeli nakład wynosi 200 sztuk, a naddatek na obróbkę wykończeniową wydruków cyfrowych ustalono na 5%?",
+    "answers": [
+      "5 arkuszy.",
+      "10 arkuszy.",
+      "100 arkuszy.",
+      "20 arkuszy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 26,
+    "text": "Okładki broszur o błyszczącej powierzchni i podwyższonej odporności mechanicznej uzyskuje się poprzez",
+    "answers": [
+      "bigowanie.",
+      "foliowanie.",
+      "gumowanie.",
+      "złamywanie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 27,
+    "text": "Podgrzanie fusera, czyli wałka grzewczego, jest elementem charakterystycznym przygotowania do maszyny drukującej w technologii",
+    "answers": [
+      "elektrofotograficznej.",
+      "jonograficznej.",
+      "magnetograficznej.",
+      "natryskowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 28,
+    "text": "Do wykonania próbnych wydruków folderu reklamowego należy użyć maszyny",
+    "answers": [
+      "fleksograficznej.",
+      "elektrofotograficznej.",
+      "offsetowej.",
+      "tampondrukowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 29,
+    "text": "Który obiekt nie jest przykładem personalizacji druku?",
+    "answers": [
+      "IV.",
+      "III.",
+      "I.",
+      "II."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_obiekty.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 30,
+    "text": "Do wykończenia cyfrowego druku jak na przedstawionej ilustracji metodą domingu należy na wydruk nanieść warstwę",
+    "answers": [
+      "folii.",
+      "lakieru.",
+      "farby.",
+      "żywicy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_druk.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 31,
+    "text": "Którą czynność należy wykonać przed pierwszym wydrukiem na drukarce 3D?",
+    "answers": [
+      "Opróżnić dysze drukarki.",
+      "Sprawdzić przezroczystość stołu drukarki.",
+      "Skalibrować ustawienie stołu.",
+      "Ustawić maksymalny czas drukowania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 32,
+    "text": "Do oceny prawidłowości uzyskanego formatu ulotek po operacji krojenia należy zastosować",
+    "answers": [
+      "twardościomierz.",
+      "mikrometr.",
+      "przymiar liniowy.",
+      "lupkę poligraficzną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 33,
+    "text": "Do uzyskania składek formatu A5 należy arkusz papieru SRA3 złamać",
+    "answers": [
+      "2-krotnie, równolegle.",
+      "2-krotnie, prostopadle.",
+      "4-krotnie, równolegle.",
+      "3-krotnie, prostopadle."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 34,
+    "text": "Które oznaczenie informuje o wymiarze średnicy koła w rysunku technicznym?",
+    "answers": [
+      "Ø",
+      "R",
+      "Δ",
+      "Ω"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 35,
+    "text": "W którym dokumencie zawarta jest informacja o sposobie bezpiecznego użytkowania i utylizacji tuszy do maszyn drukujących cyfrowych?",
+    "answers": [
+      "Instrukcji obsługi.",
+      "Karcie produkcji.",
+      "Normie branżowej.",
+      "Karcie charakterystyki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 36,
+    "text": "Które podłoże drukowe można zadrukować na cyfrowej maszynie drukującej elektrofotograficznej SRA3?",
+    "answers": [
+      "Karton o gramaturze 280 g/m2",
+      "Płytę szklaną o grubości 5 mm",
+      "Dibond o wymiarach 60 × 80 cm",
+      "Folię perforowaną one way visions"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 37,
+    "text": "Który parametr należy ustalić do regulacji ustawień laminatora?",
+    "answers": [
+      "Skład stosowanej folii do laminowania.",
+      "Wymiar laminowanego użytku.",
+      "Współczynnik lambda folii.",
+      "Czas pracy walca kalandrującego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 38,
+    "text": "Dokumentacja techniczno-ruchowa (DTR) urządzenia, której fragment przedstawiono na ilustracji jest nazywana",
+    "answers": [
+      "danymi ewidencyjnymi.",
+      "instrukcją użytkowania.",
+      "rysunkiem zewnętrznym.",
+      "schematem funkcjonowania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_dokumentacja2.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 39,
+    "text": "Informacja na zleceniu do druku „kolorystyka 4 + 1” oznacza, że arkusze będą zadrukowywane",
+    "answers": [
+      "jednostronnie czterema kolorami.",
+      "jednostronnie pięcioma kolorami.",
+      "czterema kolorami z jednej strony, jednym kolorem z drugiej strony.",
+      "trzema kolorami z jednej strony, dwoma kolorami z drugiej strony."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 40,
+    "text": "Przygotowanie do drukowania cyfrowych maszyn nakładowych polega na",
+    "answers": [
+      "wykonaniu wydruku próbnego, kontroli jakości, dorobienia farb Pantone.",
+      "uzupełnieniu podłoża, sprawdzeniu stanu zasobników tonerów, kalibracji maszyny.",
+      "włączeniu maszyny, założeniu formy drukowej, uzupełnieniu zasobników.",
+      "wyłączeniu wentylacji, uzupełnieniu podłoża, uruchomieniu maszyny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 41,
+    "text": "Zasadą drukowania technologią termotransferu jest wykonanie",
+    "answers": [
+      "nadruku bezpośrednio na przedmiocie farbami termochromowymi.",
+      "znakowania za pomocą głowicy grawerującej bezpośrednio na przedmiocie.",
+      "nadruku na dedykowanym papierze i wprasowaniu na przedmiot.",
+      "formy tamponowej i przeniesienie obrazu z formy na przedmiot."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 42,
+    "text": "Na której maszynie drukującej należy wykonać zlecenie druku 5 kalendarzy 13 planszowych z okładką o wymiarach 300 x 420 mm do połączenia spiralą z zawieszką?",
+    "answers": [
+      "Maszynie offsetowej DI.",
+      "Karuzeli do sitodruku.",
+      "Elektrofotograficznej SRA3.",
+      "Ploterze solwentowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 43,
+    "text": "Dokumentacja techniczno-ruchowa (DTR) urządzenia, której fragment pokazano na rysunku jest nazywana",
+    "answers": [
+      "rysunkiem zewnętrznym.",
+      "schematem funkcjonowania.",
+      "instrukcją użytkowania.",
+      "danymi ewidencyjnymi."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_dokumentacja2.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 44,
+    "text": "Do wykonania maty z grafiką reklamową umieszczaną na powierzchni samochodu jak na pokazanym zdjęciu wymaga się zastosowania do drukowania cyfrowego",
+    "answers": [
+      "folii magnetycznej, laminatu UV.",
+      "folii magnetycznej, papieru powlekanego, lakieru UV.",
+      "folii polipropylenowej, papieru fotograficznego, laminatu UV.",
+      "folii PCV, lakieru wodnego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_grafika.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 45,
+    "text": "Jaką minimalną ilość kartonu formatu SRA3 należy przygotować do wydrukowania 300 biletów o wymiarach netto 200 x 60 mm drukowanych bez spadów?",
+    "answers": [
+      "120 sztuk.",
+      "30 sztuk.",
+      "60 sztuk.",
+      "90 sztuk."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 46,
+    "text": "Które operacje wykończeniowe tekturowego opakowania trzeba wykonać, by uzyskać efekt jak na rysunku?",
+    "answers": [
+      "Kalandrowanie, zaklejanie.",
+      "Frezowanie, sklejanie.",
+      "Złamywanie, okrawanie.",
+      "Wykrawanie, bigowanie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_opakowanie.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 47,
+    "text": "Elementem przygotowania do pracy termodrukarki (drukarki hot stampingowej) jest",
+    "answers": [
+      "skalibrowanie naświetlania wiązki laserowej.",
+      "założenie polimerowej formy drukowej.",
+      "podgrzanie matrycy do temperatury ok. 100ºC.",
+      "podgrzanie podłoża drukowego do ok. 300ºC."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 48,
+    "text": "Którą zasadę wymiarowania rysunków technicznych ilustruje rysunek?",
+    "answers": [
+      "Porządkowania wymiarów.",
+      "Niepowtarzania wymiarów.",
+      "Pomijania wymiarów oczywistych.",
+      "Pozostawiania otwartych łańcuchów wymiarowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_rysunek4.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 49,
+    "text": "Przygotowanie certyfikowanego proofa jako wzorca do kontroli kolorystycznej druków wymaga",
+    "answers": [
+      "kalibracji kolorystki z monitorem, markowania kolorów.",
+      "przygotowania plików wektorowch, transformacji kolorów.",
+      "skalowania pliku, druku na osobnych urządzeniach tekstu i grafiki.",
+      "wykonania odbitki z pliku przeznaczonego do druku, braku skalowania pliku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 50,
+    "text": "Podłożem bezklejowym do wydrukowania grafiki przeznaczonej do oklejania szyb samochodowych jest",
+    "answers": [
+      "papier syntetyczny.",
+      "folia samoprzylepna.",
+      "papier krepowany.",
+      "folia elektrostatyczna."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 51,
+    "text": "Do drukowania na maszynie natryskowej w technologii utrwalania druku światłem UV, podłoże drukowe umieszczone na stole drukowym utrzymywane jest niezmiennie w określonym położeniu poprzez",
+    "answers": [
+      "ręczne utrzymywanie przez pomocnika drukarza.",
+      "wytworzone podciśnienie i zassanie podłoża od spodu.",
+      "nadmuch ciepłego powietrza od góry podłoża.",
+      "ukośne przewiązanie rogów podłoża do stołu drukowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 52,
+    "text": "Który rodzaj druku nie jest drukiem spersonalizowanym?",
+    "answers": [
+      "Recepta pacjenta.",
+      "Identyfikator pracowniczy.",
+      "Folder reklamowy.",
+      "Bilet lotniczy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 53,
+    "text": "Która z operacji obróbki wykończeniowej wydruku cyfrowego pozwoli uzyskać efekt wskazany strzałkami na zdjęciu?",
+    "answers": [
+      "Lakierowanie UV wybiórcze.",
+      "Gumowanie.",
+      "Proszkowanie.",
+      "Grawerowanie laserowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_efekt2.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 54,
+    "text": "Oznaczenie na stanowisku do drukowania cyfrowego piktogramem przedstawionym na ilustracji informuje, że należy pamiętać o procedurach postępowania z substancjami",
+    "answers": [
+      "toksycznymi.",
+      "łatwopalnymi.",
+      "poważnie długotrwale zagrażającymi zdrowiu.",
+      "niebezpiecznymi dla środowiska."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_piktogram.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 55,
+    "text": "Który z formatów graficznych jest wyjściowym po wykonaniu automatycznej impozycji użytków na arkuszach?",
+    "answers": [
+      "NEF",
+      "PDF",
+      "CDR",
+      "TIFF"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 56,
+    "text": "Identyfikatory pracownicze ze względu na możliwość częstych uszkodzeń mechanicznych powinny zostać zabezpieczone poprzez operację",
+    "answers": [
+      "dwustronnego laminowania.",
+      "lakierowania wybiórczego.",
+      "jednostronnego gumowania.",
+      "zaklejania powierzchniowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 57,
+    "text": "Naddatek technologiczny na druk cyfrowy i obróbkę introligatorską katalogów reklamowych wynosi 5%. Ile arkuszy podłoża należy dodatkowo przygotować, jeżeli nadkład wymaga zastosowania 200 arkuszy?",
+    "answers": [
+      "40 arkuszy.",
+      "20 arkuszy.",
+      "80 arkuszy.",
+      "10 arkuszy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 58,
+    "text": "Do wykonania prawidłowej obróbki introligatorskiej akcydensów, na arkuszu z impozycją do drukowania cyfrowego trzeba uwzględnić",
+    "answers": [
+      "rozmieszczenie znaczników cięcia netto.",
+      "numerację stron arkuszy z impozycją.",
+      "naniesienie skali densytometrycznej.",
+      "ułożenie paserów koloru."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 59,
+    "text": "Plikami stanowiącymi bazę danych do personalizacji zaproszeń w drukarni cyfrowej do bezpośredniego ich wykorzystania są",
+    "answers": [
+      "DWG, SVG",
+      "XLSX, CSV",
+      "JPG, GIF",
+      "MPEG, TIFF"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 60,
+    "text": "Który rodzaj nośnika barwiącego powinien być zastosowany do drukowania cyfrowego elektrofotograficznego?",
+    "answers": [
+      "Tusz UV.",
+      "Farba wodna.",
+      "Suchy toner.",
+      "Taśma barwiąca."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 61,
+    "text": "Do wydrukowania fotoobrazu prezentowanego na blejtramie podłożem drukowym będzie",
+    "answers": [
+      "folia wylewana.",
+      "tektura lita.",
+      "szkło.",
+      "canvas."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 62,
+    "text": "Rozpoczęcie drukowania na cyfrowej maszynie elektrofotograficznej nie jest możliwe jeżeli",
+    "answers": [
+      "fuser ma temperaturę otoczenia.",
+      "podłoże drukowe ma gramaturę poniżej 300 g/m2.",
+      "kontroler RIP jest włączony.",
+      "kolorystyka druku to 4+1."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 63,
+    "text": "Do wykończenia cyfrowego druku jak na przedstawionym zdjęciu metodą domingu należy na wydruk nanieść warstwę",
+    "answers": [
+      "folii.",
+      "lakieru.",
+      "żywicy.",
+      "farby."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_druk.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 64,
+    "text": "Które podłoże jest właściwe do wydrukowania wizytówek?",
+    "answers": [
+      "Karton powlekany 280 g/m2",
+      "Papier offsetowy 100 g/m2",
+      "Bibuła krepowana 45 g/m2",
+      "Papier syntetyczny 80 g/m2"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 65,
+    "text": "W jaki sposób przygotowuje się urządzenie do druku 3D przed naniesieniem pierwszej warstwy wydruku?",
+    "answers": [
+      "Nakłada się klej na stół drukarki.",
+      "Sprawdza się przezroczystość stołu drukarki.",
+      "Ustawia się profil kolorystyczny drukarki.",
+      "Naświetla się promieniami UV stół drukarki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 66,
+    "text": "Dokumentem informującym o składzie substancji chemicznych oraz zasadach bezpiecznego ich użytkowania jest",
+    "answers": [
+      "katalog atramentów.",
+      "instrukcja obsługi urządzenia.",
+      "instrukcja bhp.",
+      "karta charakterystyki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 67,
+    "text": "Jakość wydruku 3D ocenia się",
+    "answers": [
+      "pH-metrycznie.",
+      "wizualnie.",
+      "spektrofotometrycznie.",
+      "kolorymetrycznie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 68,
+    "text": "Ile arkuszy formatu SRA3 należy przygotować do wydrukowania voucherów o wymiarach netto 140 x 100 mm w nakładzie 270 sztuk?",
+    "answers": [
+      "30 arkuszy.",
+      "100 arkuszy.",
+      "10 arkuszy.",
+      "200 arkuszy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 69,
+    "text": "Kontrola obróbki wykończeniowej wizytówki powinna obejmować sprawdzenie",
+    "answers": [
+      "gramatury i pasowania kolorów.",
+      "jakości laminowania i wymiarów.",
+      "wymiarów i prostokątności.",
+      "poprawności składu tekstu i gramatury."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 70,
+    "text": "Materiałem do drukowania obiektów 3D jest",
+    "answers": [
+      "dibond.",
+      "tusz ekosolwenowy.",
+      "ciekły toner.",
+      "filament."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 71,
+    "text": "Na której z przedstawionych ilustracji projektów wydruków prawidłowo umieszczone są znaczniki krojenia?",
+    "answers": [
+      "Na ilustracji 1.",
+      "Na ilustracji 2.",
+      "Na ilustracji 3.",
+      "Na ilustracji 4."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_wydruki3.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 72,
+    "text": "W pierwszej kolejności w przypadku niedocinania ostatnich arkuszy w stosie podczas krojenia na krajarce jednonożowej przy prawidłowej sile krojenia i prawidłowym ustawieniu noża sprawdza się",
+    "answers": [
+      "płaskość leżenia arkuszy.",
+      "gramaturę podłoża.",
+      "zużycie listwy podnożowej.",
+      "format krojonego stosu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 73,
+    "text": "Na której ilustracji umieszczono prawidłowy kształt grotów strzałek stosowanych w rysunku technicznym?",
+    "answers": [
+      "Na ilustracji 1.",
+      "Na ilustracji 2.",
+      "Na ilustracji 4.",
+      "Na ilustracji 3."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_strzalki2.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 74,
+    "text": "Którą czynność trzeba wykonać przed procesem drukowania cyfrowego, aby upewnić się, że nie ma w urządzeniu zużytych tonerów?",
+    "answers": [
+      "Sprawdzić wydajność drukarki.",
+      "Wydrukować stronę testową.",
+      "Wykonać wydruk stu arkuszy i ocenić ich jakość.",
+      "Przeliczyć dotychczasowy czas pracy drukarki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 75,
+    "text": "Fragment dokumentu zamieszczony na ilustracji informuje użytkownika maszyny drukującej o sposobie",
+    "answers": [
+      "wymiany podłoża drukowego.",
+      "czyszczenia profili kolorystycznych.",
+      "konserwacji urządzenia.",
+      "ustawienia parametrów drukowania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_dokument.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 76,
+    "text": "Którą metodę wykończenia druku cyfrowego trzeba zastosować, aby uzyskać kształt widocznej na rysunku teczki reklamowej?",
+    "answers": [
+      "Kalandrowanie.",
+      "Tłoczenie.",
+      "Złamywanie.",
+      "Wykrawanie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_teczka.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 77,
+    "text": "Jednym ze sposobów wykonania personalizacji druków jest",
+    "answers": [
+      "wykonanie na drukach tłoczeń logo.",
+      "lakierowanie jednostronne.",
+      "wydrukowanie na drukach numeru ISBN.",
+      "wydrukowanie na drukach indywidualnych kodów QR."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 78,
+    "text": "Do druku paska na kartach odczytywanych przez czytniki elektroniczne należy użyć farby",
+    "answers": [
+      "sitodrukowej.",
+      "magnetycznej.",
+      "offsetowej.",
+      "wodnej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 79,
+    "text": "W jaki sposób zabezpiecza się wydrukowane cyfrowo kartonowe winiety przed uszkodzeniami mechanicznymi i wilgocią?",
+    "answers": [
+      "Kaszerując jednostronnie.",
+      "Kalandrując szczotkowo.",
+      "Dwustronnie laminując.",
+      "Zaklejając powierzchniowo."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 80,
+    "text": "Oznaczenie na stanowisku do drukowania cyfrowego piktogramem zamieszczonym na ilustracji, jest informacją, że należy pamiętać o procedurach postępowania z substancjami",
+    "answers": [
+      "toksycznymi.",
+      "łatwopalnymi.",
+      "poważnie długotrwale zagrażającymi zdrowiu.",
+      "niebezpiecznymi dla środowiska."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_piktogram.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 81,
+    "text": "Na której ilustracji przedstawiono linię stosowaną w rysunku technicznym do oznaczania osi symetrii przedmiotu?",
+    "answers": [
+      "Na ilustracji 3.",
+      "Na ilustracji 4.",
+      "Na ilustracji 2.",
+      "Na ilustracji 1."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_linie2.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 82,
+    "text": "Które środki ochrony indywidualnej musi stosować operator cyfrowej maszyny drukującej atramentami utrwalanymi światłem UV?",
+    "answers": [
+      "Okulary i rękawice ochronne.",
+      "Maskę przeciwpyłową i kask.",
+      "Obuwie z noskami i ochronniki słuchu.",
+      "Fartuch ochronny i obuwie z antypoślizgiem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 83,
+    "text": "Na ilustracji zaprezentowano matę z grafiką reklamową, umieszczaną na karoserii samochodu, którą drukuje się cyfrowo z użyciem",
+    "answers": [
+      "folii magnetycznej, papieru powlekanego, lakieru UV.",
+      "folii polipropylenowej, papieru fotograficznego, laminatu UV.",
+      "folii magnetycznej, laminatu UV.",
+      "folii PCV, lakieru wodnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_grafika.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 84,
+    "text": "Którego urządzenia należy użyć do wykonania przegnieceń na podłożach kartonowych?",
+    "answers": [
+      "Bindownicy.",
+      "Bigówki.",
+      "Krajarki trójnożowej.",
+      "Złamywarki nożowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 85,
+    "text": "Którą maszynę drukującą należy zastosować do wydrukowania nakładu 150 broszur o wymiarach 210 x 297 mm?",
+    "answers": [
+      "Atramentową A4.",
+      "Offsetową arkuszową.",
+      "Elektrofotograficzną SRA3.",
+      "Ploter solwentowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 86,
+    "text": "Dokumentacja techniczno-ruchowa (DTR) urządzenia, której fragment umieszczono na ilustracji, jest nazywana",
+    "answers": [
+      "danymi ewidencyjnymi.",
+      "instrukcją użytkowania.",
+      "rysunkiem zewnętrznym.",
+      "schematem funkcjonowania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_dokumentacja2.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 87,
+    "text": "Którą zasadę wymiarowania rysunków technicznych przedstawiono na rysunku?",
+    "answers": [
+      "Pozostawiania otwartych łańcuchów wymiarowych.",
+      "Niepowtarzania wymiarów.",
+      "Porządkowania wymiarów.",
+      "Pomijania wymiarów oczywistych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_rysunek4.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 88,
+    "text": "Podstawowym parametrem wymagającym ustawienia podczas obsługi rolowego laminatora jest",
+    "answers": [
+      "czas ogrzewania walca kalandrującego.",
+      "wymiar laminowanego użytku.",
+      "skład stosowanej folii do laminowania.",
+      "przezroczystość folii."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 89,
+    "text": "Kierunek ułożenia włókien we wkładzie książkowym powinien być",
+    "answers": [
+      "prostopadły do dolnej krawędzi.",
+      "równoległy do górnej krawędzi.",
+      "równoległy do grzbietu oprawy.",
+      "prostopadły do grzbietu oprawy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 90,
+    "text": "Podgrzanie fusera, czyli wałka grzewczego, jest elementem charakterystycznym przygotowania do drukowania maszyny drukującej w technologii",
+    "answers": [
+      "elektrofotograficznej.",
+      "natryskowej.",
+      "magnetograficznej.",
+      "jonograficznej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 91,
+    "text": "Stół roboczy drukarki 3D, przed rozpoczęciem wydruku oraz wszelkich prac przygotowawczych, powinien być wyczyszczony",
+    "answers": [
+      "wodą utlenioną.",
+      "bieżącą wodą.",
+      "alkoholem izopropylowym.",
+      "suchą ściereczką."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 92,
+    "text": "Która z operacji obróbki wykończeniowej wydruku cyfrowego pozwoli uzyskać efekt wskazany strzałką na zdjęciu?",
+    "answers": [
+      "Metalizowanie.",
+      "Lakierowanie wybiórcze.",
+      "Tłoczenie folią.",
+      "Grawerowanie laserowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_efekt.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 93,
+    "text": "Ile razy i w jaki sposób należy złamać arkusz papieru formatu A2, aby wykonać składkę formatu A5?",
+    "answers": [
+      "3-krotnie, równolegle.",
+      "2-krotnie, równolegle.",
+      "3-krotnie, prostopadle.",
+      "4-krotnie, prostopadle."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 94,
+    "text": "Pokazane na zdjęciu położenie stołu roboczego świadczy, że zszywarka przygotowana jest do wykonywania oprawy",
+    "answers": [
+      "przylegającej.",
+      "zeszytowej.",
+      "złożonej.",
+      "specjalnej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_stol.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 95,
+    "text": "Jednostką długości stosowaną przy wymiarowaniu rysunków technicznych maszynowych jest",
+    "answers": [
+      "cal.",
+      "centymetr.",
+      "metr.",
+      "milimetr."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 96,
+    "text": "Zamieszczona dokumentacja stanowi fragment",
+    "answers": [
+      "normy branżowej ISO dotyczącej jakości w poligrafii.",
+      "karty charakterystyki tonera.",
+      "katalogu atramentów solwentowych.",
+      "karty technologicznej wykonania wizytówek cyfrowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_dokumentacja.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 97,
+    "text": "Firma przyjęła zamówienie na cyfrowe drukowanie 2 500 000 plakatów A3 miesięcznie. Na podstawie zamieszczonego fragmentu katalogu określ, które urządzenie jest odpowiednie technologicznie do realizacji tego zamówienia?",
+    "answers": [
+      "Wyłącznie nr 1.",
+      "Nr 1 i nr 2.",
+      "Wyłącznie nr 2.",
+      "Wyłącznie nr 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_katalog.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 98,
+    "text": "Którą z zasad wymiarowania w rysunku technicznym zilustrowano na schemacie?",
+    "answers": [
+      "Oznaczania grubości płaskich przedmiotów.",
+      "Niepowtarzania wymiarów.",
+      "Pomijania wymiarów oczywistych.",
+      "Niezamykania łańcuchów wymiarowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_rysunek.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 99,
+    "text": "Do wykonania oprawy zeszytowej niezbędnym urządzeniem do połączenia wkładu i okładki jest",
+    "answers": [
+      "spiralówka.",
+      "laminator.",
+      "agregat klejący.",
+      "zszywarka drutem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 100,
+    "text": "Pliki rysunków technicznych zaprojektowanych w programie wykorzystywanym do wymiarowania 2D, 3D oraz komputerowego wspomagania projektowania (CAD) mają rozszerzenie",
+    "answers": [
+      ".psd",
+      ".cdr",
+      ".dwg",
+      ".png"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 101,
+    "text": "Gwarancję, że model pozyskany za darmo z Internetu może być wykorzystywany bez naruszenia praw autorskich, zapewnia uzyskanie",
+    "answers": [
+      "licencji na użytek komercyjny lub niekomercyjny.",
+      "notatki bezpieczeństwa z właściwościami druku danego modelu.",
+      "faktury zerowej potwierdzającej pobranie pliku.",
+      "pozdrowienia od autora z podziękowaniami za pobranie pliku."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 102,
+    "text": "Z podanych najczęściej użytkowanym system CAD jest oprogramowanie",
+    "answers": [
+      "Tekla",
+      "CATIA",
+      "OpenSCAD",
+      "AutoCAD"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 103,
+    "text": "Filament to",
+    "answers": [
+      "„żyłka” materiału termoplastycznego.",
+      "żywica epoksydowa.",
+      "granulat termoplastu.",
+      "sproszkowany termoplast."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 104,
+    "text": "Marszczenie powierzchni, powstawanie pęcherzyków powietrznych, rozwarstwianie to problemy spotykane podczas kontroli jakości",
+    "answers": [
+      "bigowania.",
+      "lakierowania.",
+      "szycia.",
+      "foliowania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 105,
+    "text": "Dokładność wydruku 3D pod kątem zachowania poprawności wymiarów należy sprawdzić",
+    "answers": [
+      "suwmiarką.",
+      "mikroskopem.",
+      "skanerem 3D.",
+      "lupą."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 106,
+    "text": "Przeniesienie kształtu oraz wymiarów modelu rzeczywistego do postaci cyfrowej odbywa się najczęściej za pomocą",
+    "answers": [
+      "aparatu fotograficznego.",
+      "kamery internetowej.",
+      "skanera 3D.",
+      "kamery cyfrowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 107,
+    "text": "Którymi liniami oznaczane jest miejsce przekroju przedmiotu na rysunku technicznym?",
+    "answers": [
+      "Równoległymi, punktowymi, grubymi rysowanymi pod kątem 45º",
+      "Prostopadłymi, kreskowymi, grubymi przecinającymi się pod kątem 90º",
+      "Równoległymi, ciągłymi, cienkimi rysowanymi pod kątem 45º",
+      "Prostopadłymi, ciągłymi, cienkimi przecinającymi się pod kątem 90º"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 108,
+    "text": "Na ilustracji przedstawiono etap tworzenia obiektu 3D nazywany",
+    "answers": [
+      "drukowaniem.",
+      "fotografowaniem.",
+      "wektoryzacją.",
+      "modelowaniem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_etap.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 109,
+    "text": "Cechą druku cyfrowego nie jest",
+    "answers": [
+      "niski koszt form drukowych.",
+      "cyfrowy zapis pracy.",
+      "krótki czas realizacji.",
+      "personalizacja wydruków."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 110,
+    "text": "Który rodzaj materiału termoplastycznego podczas drukowania 3D uwalnia najmniejszą i najmniej szkodliwą ilość oparów?",
+    "answers": [
+      "ABS",
+      "PLA",
+      "Poliwęglan",
+      "Nylon"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 111,
+    "text": "Który zakres temperatury drukowania jest najczęściej stosowany w technologii druku 3D, polegającej na ekstruzji materiału termoplastycznego?",
+    "answers": [
+      "180°C ÷ 260°C",
+      "260°C ÷ 280°C",
+      "60°C ÷ 160°C",
+      "300°C ÷ 360°C"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 112,
+    "text": "Która metoda wykańczania stosowana jest podczas produkcji znaczków pocztowych?",
+    "answers": [
+      "Nadkrawanie.",
+      "Perforowanie.",
+      "Laminowanie.",
+      "Złamywanie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 113,
+    "text": "Który element ekstrudera wymusza ruch materiału termoplastycznego w technologii druku FDM?",
+    "answers": [
+      "Prowadnica.",
+      "Szyny.",
+      "Cięgno.",
+      "Radełko."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 114,
+    "text": "Do druku etykiet używa się papieru",
+    "answers": [
+      "czerpanego.",
+      "samoprzylepnego.",
+      "pakowego.",
+      "gazetowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 115,
+    "text": "Którym akronimem określa się urządzenie umożliwiające pracę przez określony czas drukarki 3D w czasie awarii prądu?",
+    "answers": [
+      "TSR",
+      "STOP",
+      "UPS",
+      "BCA"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 116,
+    "text": "Wskaż nazwę, którą określa się rodzaj oprogramowania służący do przekonwertowania modelu 3D na plik obsługiwany przez drukarkę 3D, pracującą w technologii FDM.",
+    "answers": [
+      "Mixer.",
+      "Designer.",
+      "Slicer.",
+      "Sumator."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 117,
+    "text": "Ile razy należy złamać arkusz formatu A3, aby uzyskać ośmiostronicowy folder formatu A5?",
+    "answers": [
+      "Dwukrotnie.",
+      "Czterokrotnie.",
+      "Jednokrotnie.",
+      "Trzykrotnie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 118,
+    "text": "Proces wykańczania detali po wydruku 3D, to",
+    "answers": [
+      "scaling.",
+      "slicing.",
+      "cleaning.",
+      "post-processing."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 119,
+    "text": "Na rysunku przedstawiono cyfrową maszynę do drukowania",
+    "answers": [
+      "kubków.",
+      "koszulek.",
+      "długopisów.",
+      "arkuszy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_maszyna.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 120,
+    "text": "Wskaż wytwór papierniczy najczęściej stosowany w charakterze podłoża na karty do gry.",
+    "answers": [
+      "Karton jednostronnie powlekany o gramaturze około 170 g/m2",
+      "Papier dwustronnie powlekany o gramaturze około 110 g/m2",
+      "Karton dwustronnie powlekany o gramaturze około 300 g/m2",
+      "Papier offsetowy o gramaturze około 140 g/m2"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 121,
+    "text": "Którym akronimem określa się technologię druku 3D, bazującą na ekstruzji materiałów termoplastycznych?",
+    "answers": [
+      "FDM",
+      "DLP",
+      "SLA",
+      "SLS"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 122,
+    "text": "Który czynnik ma niekorzystny wpływ na pracę cyfrowej maszyny drukującej?",
+    "answers": [
+      "Fale dźwiękowe.",
+      "Wysoka temperatura otoczenia.",
+      "Ciśnienie atmosferyczne.",
+      "Oświetlenie pomieszczenia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 123,
+    "text": "Wskaż wartość drugiej z kolejności najczęściej używanej średnicy materiału termoplastycznego w technologii druku FDM.",
+    "answers": [
+      "2,40 mm",
+      "2,20 mm",
+      "2,85 mm",
+      "3,50 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 124,
+    "text": "Którą metodę należy zastosować do połączenia wkładu z okładką w oprawie prostej?",
+    "answers": [
+      "Łączenie klejem.",
+      "Szycie drutem.",
+      "Łączenie spiralą.",
+      "Szycie nićmi."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 125,
+    "text": "Średnica dyszy drukującej, która jest używana w drukarce 3D, determinuje przede wszystkim",
+    "answers": [
+      "temperaturę druku.",
+      "szerokość pojedynczej ścieżki.",
+      "wysokość pojedynczej warstwy.",
+      "rodzaj wypełnienia druku."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 126,
+    "text": "Który czynnik należy zmienić, aby uzyskać za pomocą druku 3D prototyp o tych samych kształtach oraz objętości, jednak o dużo niższej masie?",
+    "answers": [
+      "Temperaturę drukowania.",
+      "Wysokość pojedynczej warstwy.",
+      "Gęstość materiału podporowego.",
+      "Gęstość wypełnienia wnętrza modelu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 127,
+    "text": "Czas trwania druku 3D zależy przede wszystkim od",
+    "answers": [
+      "dokładności wydruku.",
+      "prędkości chłodzenia.",
+      "prędkości ekstruzji pierwszej warstwy.",
+      "temperatury drukowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 128,
+    "text": "Ile netto papieru samoprzylepnego formatu SRA3 potrzeba do wydrukowania naklejek formatu A6 w nakładzie 1 000 egzemplarzy?",
+    "answers": [
+      "150 arkuszy.",
+      "125 arkuszy.",
+      "175 arkuszy.",
+      "195 arkuszy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 129,
+    "text": "Struktura podporowa, która może być generowana automatycznie, a po wydruku musi zostać usunięta, to",
+    "answers": [
+      "skirt.",
+      "stump.",
+      "stemp.",
+      "support."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 130,
+    "text": "Do druku cyfrowego nie stosuje się plików",
+    "answers": [
+      "AVI",
+      "PDF",
+      "JPG",
+      "TIFF"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 131,
+    "text": "Dobierz metodę połączenia kartek stosowaną przy produkcji wielostronicowych kalendarzy ściennych.",
+    "answers": [
+      "Zgrzewanie.",
+      "Łączenie spiralą.",
+      "Szycie nićmi.",
+      "Klejenie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 132,
+    "text": "Do połączenia kartek w oprawie bindowanej należy zastosować",
+    "answers": [
+      "termonici.",
+      "spiralę.",
+      "klej.",
+      "zszywki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 133,
+    "text": "Którym akronimem określa się projektowanie techniczne obiektu wspomagane komputerowo?",
+    "answers": [
+      "DWG",
+      "CAD",
+      "3DD",
+      "CAE"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 134,
+    "text": "Ile zszywek należy użyć do zszycia broszury o długości grzbietu 210 mm?",
+    "answers": [
+      "2 sztuki.",
+      "1 sztukę.",
+      "4 sztuki.",
+      "3 sztuki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 135,
+    "text": "Przedstawiony na rysunku sposób złamywania to złamywanie",
+    "answers": [
+      "wstęgi.",
+      "harmonijkowe.",
+      "specjalne.",
+      "obwolutowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_rysunek2.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 136,
+    "text": "Wskaż kolejność faz druku elektrofotograficznego.",
+    "answers": [
+      "Naświetlanie, utrwalanie, nanoszenie tonera, przenoszenie tonera na podłoże.",
+      "Naświetlanie, nanoszenie tonera, przenoszenie tonera na podłoże, utrwalanie.",
+      "Naświetlanie, utrwalanie, nanoszenie tonera, przenoszenie tonera na podłoże, ładowanie.",
+      "Naświetlanie, nanoszenie tonera, ładowanie, przenoszenie tonera na podłoże, utrwalanie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 137,
+    "text": "Ile papieru o gramaturze 300 g/m2 zostanie wykorzystane w procesie wykonania 100 sztuk plansz formatu A3?",
+    "answers": [
+      "2,98 kg",
+      "4,27 kg",
+      "5,39 kg",
+      "3,74 kg"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 138,
+    "text": "Który warunek ma istotne znaczenie podczas skanowania obiektu w technologii skanu 3D?",
+    "answers": [
+      "Obiekt nie może mieć otworów.",
+      "Obiekt musi być równomiernie oświetlony.",
+      "Obiekt musi być jednego koloru.",
+      "Obiekt musi znajdować się w pomieszczeniu z temperaturą pokojową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 139,
+    "text": "Określ średnicę materiału termoplastycznego, która jest najczęściej wykorzystywana w technologii FDM.",
+    "answers": [
+      "1,30 mm",
+      "1,75 mm",
+      "1,00 mm",
+      "1,50 mm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 140,
+    "text": "Do którego z podanych materiałów używa się acetonu w celu wygładzania powierzchni zewnętrznej po wydruku?",
+    "answers": [
+      "ABS",
+      "PETG",
+      "PLA",
+      "Nylon"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 141,
+    "text": "Które czynności przygotowawcze poprzedzają bezpośrednio proces małoformatowego drukowania cyfrowego?",
+    "answers": [
+      "Czyszczenie bębnów drukujących, skanowanie oryginałów, poziomowanie maszyny.",
+      "Instalacja oprogramowania sterującego, uzupełnianie zużytego tonera, klimatyzowanie papieru.",
+      "Integrowanie serwera druku, krojenie papieru do określonego formatu, nakładanie farby na poszczególne bębny.",
+      "Weryfikacja plików graficznych, uruchomienie sterownika druku, kontrola stanu materiałów eksploatacyjnych i podłoża."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 142,
+    "text": "Które urządzenie stosuje się do analizy obiektów przestrzennych w celu ich odwzorowana na potrzeby druku 3D?",
+    "answers": [
+      "II",
+      "I",
+      "IV",
+      "III"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_urzadzenia2.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 143,
+    "text": "Filament ekologiczny i biodegradowalny to",
+    "answers": [
+      "Nylon",
+      "PLA",
+      "ABS",
+      "Z-GLASS"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 144,
+    "text": "Które urządzenie należy zastosować do wykonania przegnieceń na podłożach tekturowych?",
+    "answers": [
+      "Perforówkę.",
+      "Bigówkę.",
+      "Kalander sublimacyjny.",
+      "Złamywarkę kasetową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 145,
+    "text": "Czas wykonania wydruku 3D w technologii FDM zależy głównie od",
+    "answers": [
+      "skuteczności chłodzenia.",
+      "temperatury stołu roboczego.",
+      "współczynnika skurczu materiału.",
+      "wysokości warstwy wydruku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 146,
+    "text": "Dobierz urządzenie do oprawy przedstawionego na zdjęciu kalendarza.",
+    "answers": [
+      "Niciarka.",
+      "Kaszerownica.",
+      "Urządzenie do spiralowania.",
+      "Trójnóż."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_kalendarz.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 147,
+    "text": "Który obiekt jest przykładem personalizacji druku?",
+    "answers": [
+      "II",
+      "III",
+      "IV",
+      "I"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_obiekty.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 148,
+    "text": "Kąpiel wydruku 3D wykonanego z ABS w oparach rozgrzanego acetonu powoduje",
+    "answers": [
+      "wyostrzenie krawędzi pomiędzy warstwami.",
+      "likwidację wsporników i podpór.",
+      "utwardzenie struktury wydruku.",
+      "zanikanie krawędzi pomiędzy warstwami."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 149,
+    "text": "Którego urządzenia cyfrowego przedstawionego na rysunku należy użyć do wydrukowania 30 plakatów owymiarach 320 x 450 mm?",
+    "answers": [
+      "I",
+      "III",
+      "IV",
+      "II"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_urzadzenia.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 150,
+    "text": "Proces ręcznego opisywania kształtu obiektu w postaci powierzchniowej siatki wielokątnej polygonal mesh nazywa się",
+    "answers": [
+      "renderingiem 3D",
+      "wektoryzacją 3D",
+      "skaningiem 3D",
+      "modelowaniem 3D"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 151,
+    "text": "Firma przyjęła zamówienie na cyfrowe drukowanie 2 250 000 plakatów A3 miesięcznie. Na podstawie zamieszczonego fragmentu katalogu określ, które urządzenie jest odpowiednie technologicznie do realizacji tego zamówienia?",
+    "answers": [
+      "Wyłącznie nr 1.",
+      "Wyłącznie nr 3.",
+      "Nr 1 i nr 2.",
+      "Wyłącznie nr 2."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_katalog.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 152,
+    "text": "Którą cyfrową maszynę drukującą można wykorzystać do zadruku przedstawionej na rysunku koszulki?",
+    "answers": [
+      "Igłową",
+      "3D",
+      "Magnetograficzną",
+      "DTG"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_koszulka.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 153,
+    "text": "Każdy rysunek techniczny bez względu na format powinien posiadać obramowanie wykonane linią",
+    "answers": [
+      "ciągłą w odległości 5 mm od krawędzi arkusza.",
+      "kreskową w odległości 10 mm od krawędzi arkusza.",
+      "punktową w odległości 3 mm od krawędzi arkusza.",
+      "dwupunktową w odległości 7 mm od krawędzi arkusza."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 154,
+    "text": "Ile wynosi średnica filamentu najczęściej wykorzystywanego w technologii FDM?",
+    "answers": [
+      "3,50 mm",
+      "4,75 mm",
+      "1,75 mm",
+      "2,25 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 155,
+    "text": "W przypadku pojawienia się niedokrawania dolnych arkuszy w krajarce jednonożowej należy",
+    "answers": [
+      "wyregulować położenie belki wymiarowej.",
+      "zwiększyć podciśnienie na stole roboczym.",
+      "wymienić listwę podnożową.",
+      "zamontować nóż z tworzywa sztucznego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 156,
+    "text": "Który element wydruku 3D należy zastosować, aby uzyskać lepszą przyczepność do stołu oraz zapobiec podwijaniu się krawędzi wydruku?",
+    "answers": [
+      "Infill",
+      "Skirt",
+      "Support",
+      "Raft"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 157,
+    "text": "Przygotowanie powierzchni stołu roboczego drukarki FDM przed rozpoczęciem wydruku 3D polega na",
+    "answers": [
+      "odtłuszczeniu i pokryciu substancją klejącą.",
+      "posmarowaniu woskiem i wypolerowaniu suchą ściereczką.",
+      "przeszlifowaniu papierem ściernym.",
+      "przetarciu wodą utlenioną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 158,
+    "text": "Który druk wymaga zastosowania personalizacji?",
+    "answers": [
+      "Bilet lotniczy.",
+      "Etykieta na dżem.",
+      "Ulotka z pizzerii.",
+      "Papier firmowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 159,
+    "text": "Jak nazywa się rodzaj oprogramowania służącego do konwertowania modelu 3D na język poleceń g-code obsługiwany przez drukarkę 3D?",
+    "answers": [
+      "Slicer",
+      "Renderman",
+      "C-Raster",
+      "Support"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 160,
+    "text": "Po ukazaniu się na panelu urządzenia drukującego komunikatu przedstawionego na rysunku należy",
+    "answers": [
+      "przeprowadzić czyszczenie bębna drukującego z purpurowym tonerem.",
+      "przygotować błękitny toner do wymiany.",
+      "wykonać kalibrację kolorów.",
+      "skontaktować się z serwisem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_panel.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 161,
+    "text": "Które operacje wykończeniowe należy zastosować, aby uzyskać ostateczną postać przedstawionego na zdjęciu zaproszenia?",
+    "answers": [
+      "Złamywanie, zszywanie.",
+      "Wykrawanie, klejenie.",
+      "Bigowanie, okrawanie.",
+      "Kaszerowanie, cięcie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_zaproszenie.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 162,
+    "text": "Ile arkuszy papieru formatu SRA3 należy przygotować do wydrukowania 48-stronicowej broszury formatu A5 w nakładzie 20 egzemplarzy?",
+    "answers": [
+      "100 arkuszy.",
+      "120 arkuszy.",
+      "20 arkuszy.",
+      "60 arkuszy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 163,
+    "text": "Który dodatkowy element na wydruku cyfrowym wykorzystuje się do pomiaru barwy spektrofotometrem?",
+    "answers": [
+      "Informacja o stronie.",
+      "Paser koloru.",
+      "Punktura formatowa.",
+      "Pasek kontrolny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 164,
+    "text": "Stosowanie podczas drukowania 3D podgrzewanych komór roboczych w dużej mierze zapobiega niekorzystnemu zjawisku",
+    "answers": [
+      "blednięcia filamentu.",
+      "łamliwości materiału.",
+      "wilgotnienia filamentu.",
+      "skurczu materiału."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 165,
+    "text": "Ile powinna wynosić rozdzielczość monochromatycznych, nieskalowanych bitmap przeznaczonych do druku cyfrowego?",
+    "answers": [
+      "300 ppi",
+      "350 lpi",
+      "800 spi",
+      "1200 dpi"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 166,
+    "text": "Który format umożliwia zapis modeli przestrzennych wykorzystywanych w druku 3D?",
+    "answers": [
+      "PSD",
+      "FDM",
+      "OBJ",
+      "STL"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 167,
+    "text": "W którym zakresie wartości powinny zawierać się spady w przypadku cyfrowo drukowanego plakatu A3 zawierającego tło?",
+    "answers": [
+      "2÷5 mm",
+      "1÷3 m",
+      "2,5÷5,5 cm",
+      "0,5÷1 mm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 168,
+    "text": "Na rysunku przedstawiono",
+    "answers": [
+      "półwidok-półprzekrój tulei.",
+      "przekrój tulei.",
+      "połączenie gwintowe.",
+      "kład wału."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_rysunek3.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 169,
+    "text": "Którym akronimem określana jest technologia druku 3D, polegająca na nakładaniu kolejnych warstw uplastycznionego tworzywa wytłaczanego z gorącej dyszy o małej średnicy?",
+    "answers": [
+      "DLP",
+      "CJP",
+      "SLS",
+      "FDM"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 170,
+    "text": "Obróbkę wykończeniową wydruków 3D określa się terminem",
+    "answers": [
+      "3D-press",
+      "3D-treatment",
+      "Postprocessing",
+      "Prepress"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 171,
+    "text": "Którego papieru należy użyć do wykonania przedstawionych na zdjęciu wydruków cyfrowych?",
+    "answers": [
+      "Transferowego.",
+      "Offsetowego.",
+      "Samokopiującego.",
+      "Samoprzylepnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_wydruki2.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 172,
+    "text": "Który program i które narzędzie należy zastosować do oceny prawidłowości wykonania pliku PDF o standardzie drukarskim?",
+    "answers": [
+      "Impozycjoner, tasuj strony.",
+      "Corel Draw, widok sortowania stron.",
+      "Adobe Acrobat, podgląd wyjściowy.",
+      "Adobe InDesign, edytor wątków."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 173,
+    "text": "Na rysunku przedstawiono ocenę jakości wydruków cyfrowych na podstawie pomiaru",
+    "answers": [
+      "tacku farby.",
+      "gładkości podłoża.",
+      "gęstości optycznej.",
+      "gramatury papieru."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_pomiar.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 174,
+    "text": "Który rodzaj linii trzeba zastosować na rysunku technicznym do oznaczenia osi symetrii przedmiotu?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_linie.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 175,
+    "text": "Na którym z pokazanych wydruków cyfrowych są prawidłowo umieszczone znaczniki cięcia?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_wydruki.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 176,
+    "text": "Co należy sprawdzić w pierwszej kolejności w przypadku niedocinania ostatnich arkuszy w stosie podczas krojenia na krajarce jednonożowej przy prawidłowej sile krojenia i prawidłowym ustawieniu noża?",
+    "answers": [
+      "Płaskość leżenia arkuszy.",
+      "Format krojonego stosu.",
+      "Gramaturę podłoża.",
+      "Zużycie listwy podnożowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  },
+  {
+    "id": 177,
+    "text": "Prawidłowy kształt grotów strzałek w rysunku technicznym przedstawiono na rysunku",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_strzalki.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 178,
+    "text": "Fragment dokumentu pokazany na rysunku informuje użytkownika maszyny drukującej o sposobie",
+    "answers": [
+      "konserwacji urządzenia.",
+      "czyszczenia profili kolorystycznych.",
+      "wymiany podłoża drukowego.",
+      "ustawienia parametrów drukowania."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_dokument.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 179,
+    "text": "Na rysunku przedstawiono etap tworzenia obiektu 3D nazywany",
+    "answers": [
+      "fotografowaniem.",
+      "drukowaniem.",
+      "wektoryzacją.",
+      "modelowaniem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf05/au55_etap.png"
+    },
+    "category": "PGF.05"
+  },
+  {
+    "id": 180,
+    "text": "Zapis PN-EN w oznaczeniu normy np. PN-EN 12345:2013-03 oznacza, że",
+    "answers": [
+      "Polska Norma jest zgodna z Normą Amerykańską.",
+      "jest to Polska Norma w języku angielskim.",
+      "jest to Polska Norma dotycząca energetyki.",
+      "Polska Norma wprowadza Normę Europejską."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.05"
+  }
+]
