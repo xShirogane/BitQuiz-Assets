@@ -1,0 +1,4162 @@
+[
+  {
+    "id": 1,
+    "text": "W którym paśmie górskim znajduje się Wodospad Kamieńczyka?",
+    "answers": [
+      "W Karkonoszach.",
+      "W Beskidach.",
+      "W Tatrach.",
+      "W Bieszczadach."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 2,
+    "text": "Który skrótowiec identyfikuje system informacji turystycznej Polski?",
+    "answers": [
+      "GDS",
+      "POT",
+      "PSIT",
+      "IHRA"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 3,
+    "text": "Na podstawie zamieszczonego cennika oblicz wartość netto usługi wyżywienia FB dla 2 osób, od obiadu do śniadania w terminie od 4 do 6 grudnia, jeżeli stawka VAT usługi wynosi 8%.",
+    "answers": [
+      "74,80 zł",
+      "370,37 zł",
+      "325,20 zł",
+      "29,63 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_cennik12.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 4,
+    "text": "Turystom planującym pieszą wędrówkę niebieskim szlakiem po Beskidach, należy zaproponować mapę",
+    "answers": [
+      "administracyjną.",
+      "turystyczną.",
+      "rowerową.",
+      "hydrograficzną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 5,
+    "text": "Oblicz minimalny czas przejazdu autokarem trasy 210 km, jeżeli średnia prędkość określona przez przewoźnika to 60 km/godz.",
+    "answers": [
+      "2 godziny 15 minut.",
+      "1 godzinę 30 minut.",
+      "4 godziny 15 minut.",
+      "3 godziny 30 minut."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 6,
+    "text": "Na podstawie przedstawionego cennika oblicz łączną wartość brutto za 8-dniowy pobyt w hotelu (siedem noclegów) dla dwóch osób, które skorzystały w lipcu z pokoju 2-osobowego.",
+    "answers": [
+      "2 100,00 zł",
+      "2 310,00 zł",
+      "1 980,00 zł",
+      "2 520,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_cennik11.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 7,
+    "text": "Cena wczasów dla osoby dorosłej wynosi 4 000,00 zł, a zniżka dla dziecka to 40% tej ceny. Którą kwotę należy potwierdzić jako dopłatę za wczasy małżeństwa z dwojgiem dzieci, jeżeli wcześniej wpłacili zaliczkę w wysokości 30% łącznej ceny?",
+    "answers": [
+      "4 480,00 zł",
+      "7 840,00 zł",
+      "7 280,00 zł",
+      "8 960,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 8,
+    "text": "Pracownik biura podróży przygotowując folder o Kruszwicy, zachęcał do zwiedzania Mysiej Wieży, która przedstawiona została na ilustracji",
+    "answers": [
+      "2.",
+      "1.",
+      "4.",
+      "3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_wieze2.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 9,
+    "text": "Opracowując katalog ofertowy organizatora turystyki, należy uwzględnić przede wszystkim",
+    "answers": [
+      "warunki uczestnictwa w oferowanych imprezach turystycznych.",
+      "aktualną prognozę pogody w różnych regionach świata.",
+      "kwotę VAT od zakładanej marży naliczonej z tytułu oferowanych imprez turystycznych.",
+      "ceny usług, na podstawie których skalkulowano ceny oferowanych imprez turystycznych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 10,
+    "text": "Oblicz wartość podatku VAT 5-godzinnej usługi przewodnickiej, jeżeli ceny brutto tej usługi wynoszą: do 2 godzin 200,00 zł, za każdą następną godzinę wymagana dopłata 80,00 zł.",
+    "answers": [
+      "32,59 zł",
+      "82,28 zł",
+      "407,41 zł",
+      "357,72 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 11,
+    "text": "Informację o nowej ofercie wycieczek rowerowych po wyspie Bornholm należy zamieścić w katalogu turystyki",
+    "answers": [
+      "uzdrowiskowej.",
+      "kwalifikowanej.",
+      "integracyjnej.",
+      "pobytowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 12,
+    "text": "Udział biura podróży w targach turystycznych realizowany jest w ramach strategii",
+    "answers": [
+      "promocji.",
+      "ceny.",
+      "dystrybucji.",
+      "produktu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 13,
+    "text": "Zgodnie z wymaganiami co do wyposażenia oraz zakresu świadczonych usług, informacja turystyczna wymagana jest",
+    "answers": [
+      "w hotelach i motelach.",
+      "na kempingach i polach biwakowych.",
+      "w schroniskach i domach wycieczkowych.",
+      "w pensjonatach i schroniskach młodzieżowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 14,
+    "text": "Na podstawie przedstawionej mapy samochodowej oblicz, ile kilometrów przejedzie turysta drogą nr 575 i 574 ze Słubic przez Dobrzyków do Gąbina.",
+    "answers": [
+      "27 km",
+      "24 km",
+      "32 km",
+      "37 km"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_mapa11.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 15,
+    "text": "Którą ofertę zastosuje biuro podróży, jeżeli sprzeda wycieczki z dużym, często kilkumiesięcznym wyprzedzeniem?",
+    "answers": [
+      "Rack rate.",
+      "First minute.",
+      "First bookers.",
+      "Last minute."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 16,
+    "text": "Na podstawie przedstawionej oferty wycieczki do Grecji określ rodzaj taryfy hotelowej, który należy zagwarantować turyście. Oferta wycieczki do Grecji (fragment) Cena obejmuje przelot samolotem czarterowym do Aten, opłaty lotniskowe, zakwaterowanie (14 rozpoczętych dób hotelowych), wszystkie transfery klimatyzowanym autokarem lub busem, śniadania, obiady, kolacje, opiekę pilota wycieczek, ubezpieczenie TA Europa (NNW, KL, CP, Assistance i bagaż).",
+    "answers": [
+      "HB",
+      "FB",
+      "BB",
+      "OB"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 17,
+    "text": "Oblicz koszt usługi transportowej podczas wycieczki do Francji, jeżeli biuro podróży sprzedało 30 osobom udział w imprezie w cenie 1 600,00 zł/os.",
+    "answers": [
+      "9 000,00 zł",
+      "11 000,00 zł",
+      "3 500,00 zł",
+      "7 500,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_tabela39.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 18,
+    "text": "Przewodnik turystyczny powinien obowiązkowo otrzymać od organizatora wycieczki informację dotyczącą",
+    "answers": [
+      "narzuconych metod pracy z grupą.",
+      "zainteresowań poszczególnych uczestników.",
+      "czasu i miejsca spotkania z grupą.",
+      "służbowych stanowisk i czasu pracy uczestników."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 19,
+    "text": "Błędne Skały, a wśród nich Małpolud i Wielbłąd, to część",
+    "answers": [
+      "Gór Świętokrzyskich.",
+      "Gór Stołowych.",
+      "Gór Bardzkich.",
+      "Gór Opawskich."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 20,
+    "text": "Touroperator opracował i wprowadził do katalogu sześć nowych pakietów turystycznych. Oznacza to stosowanie przez przedsiębiorstwo przede wszystkim strategii",
+    "answers": [
+      "penetracji rynku.",
+      "rozwoju rynku.",
+      "dywersyfikacji pionowej.",
+      "rozwoju produktu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 21,
+    "text": "W której walucie powinna być wyrażona kwota podatku VAT z tytułu organizacji imprezy turystycznej przez polskie biuro podróży, jeżeli cenę wycieczki do krajów nordyckich podano w koronach duńskich?",
+    "answers": [
+      "W koronach duńskich.",
+      "W koronach szwedzkich.",
+      "W złotych.",
+      "W euro."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 22,
+    "text": "Przedstawiony znak to logo Szlaku",
+    "answers": [
+      "Cysterskiego.",
+      "Tatarskiego.",
+      "Piastowskiego.",
+      "Romańskiego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_znak4.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 23,
+    "text": "Którą bezgotówkową formę płatności należy zastosować w procesie sprzedaży usług turystycznych przez internetowy system rezerwacji?",
+    "answers": [
+      "Czek rozrachunkowy.",
+      "Przekaz pocztowy.",
+      "Przelew elektroniczny.",
+      "Weksel trasowany."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 24,
+    "text": "Study tour to działanie w ramach public relations organizowane dla",
+    "answers": [
+      "młodzieży szkolnej.",
+      "wszystkich chętnych klientów biur podróży.",
+      "pątników.",
+      "pracowników branży turystycznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 25,
+    "text": "Oblicz wartość brutto, którą zgodnie z umową powinien hotelowi zapłacić organizator turystyki, jeżeli wartość netto za wynajem pokoi wynosi 3 000,00 zł, stawka podatku VAT to 8%, a hotel dodatkowo udzielił biuru 5-procentowego rabatu.",
+    "answers": [
+      "3 000,00 zł",
+      "3 078,00 zł",
+      "3 240,00 zł",
+      "2 916,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 26,
+    "text": "Organizator turystyki podpisując z firmą reklamową umowę barterową, stosuje sprzedaż",
+    "answers": [
+      "towaru za towar.",
+      "akwizycyjną.",
+      "przez Internet.",
+      "gotówkową."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 27,
+    "text": "Którą stawkę podatku VAT powinien wpisać pracownik przewoźnika na fakturze za usługę transportową dla organizatora turystyki?",
+    "answers": [
+      "5%",
+      "0%",
+      "8%",
+      "23%"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_faktura13.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 28,
+    "text": "Przedstawiony dokument zawiera informacje niezbędne do",
+    "answers": [
+      "zaplanowania wydatków.",
+      "sporządzenia rachunku zysków i strat.",
+      "rozliczenia imprezy turystycznej.",
+      "skalkulowania ceny imprezy turystycznej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_dokument4.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 29,
+    "text": "Oblicz wartość podatku VAT za wynajem sali konferencyjnej na podstawie przedstawionej faktury.",
+    "answers": [
+      "149,59 zł",
+      "37,41 zł",
+      "416,00 zł",
+      "80,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_faktura14.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 30,
+    "text": "Proponując klientowi udział w imprezie raftingowej, pracownik biura podróży opisuje spływ",
+    "answers": [
+      "deltą rzeki.",
+      "po dzikiej górskiej rzece.",
+      "po sztucznej rynnie.",
+      "kanałem łączącym jeziora."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 31,
+    "text": "Sporządzając umowę agencyjną należy",
+    "answers": [
+      "zapisać dane uczestników imprez turystycznych.",
+      "wymienić koszty imprez turystycznych.",
+      "zamieścić podpis kierowcy wycieczek.",
+      "określić strony umowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 32,
+    "text": "W ramach sprzedaży osobistej referent do spraw turystyki",
+    "answers": [
+      "prezentuje klientowi ofertę w biurze podróży.",
+      "zamieszcza informacje o biurze podróży w czasopiśmie branżowym.",
+      "obniża ceny imprez turystycznych.",
+      "bierze udział w szkoleniu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 33,
+    "text": "W dolnej części przedstawionego znaku informacji turystycznej widnieje logo MSIT, czyli",
+    "answers": [
+      "Małopolskiego Systemu Informacji Turystycznej.",
+      "Mazurskiego Systemu Instytucji Turystycznych.",
+      "Mazowieckiego Systemu Informacji Turystycznej.",
+      "Małopolskiego Systemu Instytucji Turystycznych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_znak2.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 34,
+    "text": "Stosując system trivago.pl można zarezerwować",
+    "answers": [
+      "bilety lotnicze.",
+      "zwiedzanie atrakcji turystycznych.",
+      "usługi gastronomiczne.",
+      "miejsca noclegowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 35,
+    "text": "Za pomocą przedstawionego planu miasta, można wskazać turystom wpisany na listę UNESCO Średniowieczny Zespół Miejski",
+    "answers": [
+      "Warszawy.",
+      "Krakowa.",
+      "Torunia.",
+      "Gdańska."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_mapa2-1.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 36,
+    "text": "Przyjęcie większej liczby rezerwacji na dany lot niż jest miejsc w samolocie, to",
+    "answers": [
+      "czarter.",
+      "allotment.",
+      "timesharing.",
+      "overbooking."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 37,
+    "text": "Organizator turystyki wystawił 4 stycznia klientowi fakturę – procedura marży dla biur podróży z dwutygodniowym terminem płatności. Ostatnim dniem uregulowania zobowiązania jest",
+    "answers": [
+      "19 stycznia.",
+      "18 stycznia.",
+      "16 stycznia.",
+      "17 stycznia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 38,
+    "text": "Który dokument nie jest potwierdzeniem zakupu usług turystycznych?",
+    "answers": [
+      "Czek.",
+      "Paragon fiskalny.",
+      "Faktura.",
+      "E-faktura."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 39,
+    "text": "Oblicz marżę bez VAT z tytułu sprzedaży wczasów dla 40 osób, jeżeli cena krajowej imprezy to 1 000,00 zł/os., a koszty usług nabytych dla bezpośredniej korzyści turysty wyniosły 32 000,00 zł.",
+    "answers": [
+      "6 504,07 zł",
+      "8 000,00 zł",
+      "7 407,41 zł",
+      "7 619,05 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 40,
+    "text": "Marżę biura podróży stanowi różnica miedzy kwotą, którą ma zapłacić klient a faktycznymi kosztami poniesionymi na organizację imprezy turystycznej, pomniejszona o przekazywany do urzędu skarbowego podatek VAT",
+    "answers": [
+      "zależny.",
+      "należny.",
+      "doliczony.",
+      "naliczony."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 41,
+    "text": "Wiedzę zdobytą podczas study tour po Małopolsce, pracownicy biura podróży mogą wykorzystać podczas przygotowania wycieczki do",
+    "answers": [
+      "Gniezna, Poznania i Leszna.",
+      "Wieliczki, Nowego Sącza i Zakopanego.",
+      "Ustki, Łeby i Malborka.",
+      "Suwałk, Augustowa i Białegostoku."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 42,
+    "text": "W którym województwie turysta może zobaczyć najwięcej obiektów wpisanych na Listę Światowego Dziedzictwa UNESCO?",
+    "answers": [
+      "Mazowieckim.",
+      "Małopolskim.",
+      "Podlaskim.",
+      "Wielkopolskim."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 43,
+    "text": "Przedstawiony znak drogowy informuje o znajdującym się w pobliżu",
+    "answers": [
+      "schronisku młodzieżowym.",
+      "pensjonacie.",
+      "hotelu.",
+      "domu wycieczkowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_znak12.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 44,
+    "text": "W celu potwierdzenia klientowi gotówkowej wpłaty zaliczki za wycieczkę, pracownik biura podróży wystawi",
+    "answers": [
+      "voucher hotelowy.",
+      "dowód KW.",
+      "dowód KP.",
+      "raport kasowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 45,
+    "text": "Na podstawie którego dokumentu biuro podróży uwzględni koszty usługi ubezpieczenia w rozliczeniu imprezy turystycznej?",
+    "answers": [
+      "Polisy.",
+      "Paragonu.",
+      "Vouchera.",
+      "Rachunku."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 46,
+    "text": "Podczas sprzedaży bezpośredniej pracownik biura podróży wyjaśnił klientowi, że pełne wyżywienie na wczasach, zostało w katalogu oznaczone",
+    "answers": [
+      "OB",
+      "FB",
+      "HB",
+      "BB"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 47,
+    "text": "Korzystając z przedstawionego planu Starego Miasta w Zamościu, wskaż trasę, którą turyści powinni pokonać z kościoła św. Katarzyny do Bramy Szczebrzeskiej, przechodząc obok nowej Bramy Lubelskiej.",
+    "answers": [
+      "Rynek Solny – ul. Pereca – ul. Królowej Jadwigi – ul. Zamkowa – ul. Szczebrzeska.",
+      "Przyrynek – ul. Solna – ul. Zamenhofa – ul. Bazyliańska – ul. Staszica – ul. Szczebrzeska.",
+      "Rynek Solny – ul. Pereca – ul. Akademicka – ul. Szczebrzeska.",
+      "Przyrynek – Plac Stefanidesa – ul. Łukasińskiego – ul. Akademicka – ul. Szczebrzeska."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_mapa10.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 48,
+    "text": "Który rodzaj promocji cenowej zastosowało biuro podróży, wprowadzając do sprzedaży imprezę turystyczną na 6 miesięcy przed terminem jej realizacji?",
+    "answers": [
+      "First minute.",
+      "Last minute.",
+      "Late bookers.",
+      "Outbookers."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 49,
+    "text": "Informację o nowym aquaparku należy umieścić w bazie danych w grupie informacji",
+    "answers": [
+      "o krajowym ruchu turystycznym.",
+      "o zagospodarowaniu turystycznym.",
+      "o kulturowych walorach turystycznych.",
+      "o naturalnych walorach turystycznych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 50,
+    "text": "Którą kwotę powinien wpisać referent na fakturze – procedura marży dla biur podróży, w pozycji Do zapłaty, jeżeli zastosował 15-procentową marżę biura i udzielił klientowi rabatu w wysokości 20% ceny wycieczki krajowej?",
+    "answers": [
+      "1 686,73 zł",
+      "1 637,60 zł",
+      "2 108,41 zł",
+      "2 047,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_tabela38.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 51,
+    "text": "Administrowaniem Internetowym Systemem Informacji Turystycznej zajmuje się",
+    "answers": [
+      "Państwowa Organizacja Turystyczna.",
+      "Polska Organizacja Turystyczna.",
+      "Państwowa Organizacja Turystyki.",
+      "Polska Organizacja Turystyki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 52,
+    "text": "Oferta wycieczki szkolnej powinna cechować się",
+    "answers": [
+      "wykwintnym menu serwowanych posiłków.",
+      "bogatym programem za stosunkowo niską cenę.",
+      "dużą ilością czasu wolnego.",
+      "gwarancją lotu w klasie biznes."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 53,
+    "text": "Oblicz kwotę wartości netto zrealizowanej usługi przewodnickiej.",
+    "answers": [
+      "100,00 zł",
+      "738,00 zł",
+      "138,00 zł",
+      "600,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_faktura12.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 54,
+    "text": "Którą kwotę zapłaci organizator turystyki za transport autokarowy, jeżeli przejechano trasę 945 km, a cena brutto za 1 km wynosi 6,20 zł?",
+    "answers": [
+      "5 425,00 zł",
+      "7 206,57 zł",
+      "5 859,00 zł",
+      "6 327,72 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 55,
+    "text": "Nieodłącznym elementem umowy agencyjnej jest",
+    "answers": [
+      "podpis pilota wycieczek.",
+      "określenie stron umowy.",
+      "zbiór danych o uczestnikach imprezy turystycznej.",
+      "określenie ceny brutto usługi przewodnickiej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 56,
+    "text": "Biuro podróży rozpoczynając współpracę z Unity Line, Stena Line i Polferries, wprowadzi ofertę sprzedaży biletów transportu",
+    "answers": [
+      "lotniczego.",
+      "promowego.",
+      "kolejowego.",
+      "autokarowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 57,
+    "text": "Z przedstawionej umowy wynika, że agentowi przysługuje",
+    "answers": [
+      "zaliczka.",
+      "wypłata.",
+      "prowizja.",
+      "marża."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_umowa8.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 58,
+    "text": "Elementem promocji nie jest",
+    "answers": [
+      "sprzedaż osobista.",
+      "public relations.",
+      "dystrybucja.",
+      "reklama."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 59,
+    "text": "Oblicz kwotę podatku VAT usługi krajowego transportu autokarowego, jeżeli wartość brutto usługi wynosi 800,00 zł.",
+    "answers": [
+      "59,24 zł",
+      "59,25 zł",
+      "59,26 zł",
+      "59,27 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 60,
+    "text": "Która oferta dotyczy sprzedaży wczasów prowadzonej na kilka dni przed terminem ich rozpoczęcia?",
+    "answers": [
+      "First minute.",
+      "First bookers.",
+      "Last minute.",
+      "Rack rate."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 61,
+    "text": "Turysta ma możliwość uregulowania kartą płatniczą należności za obiad w restauracji tylko wówczas, gdy lokal wyposażony jest w",
+    "answers": [
+      "skaner.",
+      "notebook.",
+      "terminal.",
+      "modem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 62,
+    "text": "Korzystając z mobilnej płatności bezgotówkowej za wycieczkę, klient wpisał w telefonie sześciocyfrowy kod, czyli skorzystał z systemu",
+    "answers": [
+      "Blik.",
+      "PayU.",
+      "Kod QR.",
+      "Dotpay."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 63,
+    "text": "Opisany oraz przedstawiony na ilustracji kompleks zamkowo-pałacowy znajduje się",
+    "answers": [
+      "w Książu.",
+      "w Pszczynie.",
+      "w Kwidzynie.",
+      "w Malborku."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_ramka7.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 64,
+    "text": "Turysta, który zakupił bilet z Zurychu do Turynu, planuje podróż",
+    "answers": [
+      "ze Szwajcarii do Francji.",
+      "ze Szwajcarii do Włoch.",
+      "z Austrii do Francji.",
+      "z Austrii do Włoch."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 65,
+    "text": "Na podstawie przedstawionych danych oblicz cenę jednostkową netto noclegu.",
+    "answers": [
+      "140,50 zł",
+      "480,00 zł",
+      "518,40 zł",
+      "160,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_faktura10.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 66,
+    "text": "Podczas sprzedaży osobistej prowadzonej przez agenta turystycznego, należy przede wszystkim",
+    "answers": [
+      "prezentować klientom ofertę imprezy turystycznej.",
+      "proponować stałym klientom imprezy first minute.",
+      "zapewnić pracownikom biura udział w study tour.",
+      "reklamować biuro podróży w prasie lokalnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 67,
+    "text": "Opis w przedstawionym fragmencie przewodnika dotyczy Szlaku Przewodnik turystyczny (fragment) Szlak turystyczny w Polsce przebiega przez województwa małopolskie i śląskie, łącząc Kraków z Częstochową. Na trasie – jurajskie zamki i warownie wybudowane na wysokich skałach. Szlak o długości ok. 164 km oznaczono kolorem czerwonym.",
+    "answers": [
+      "Zamków Piastowskich.",
+      "Warowni Jurajskich.",
+      "Orlich Gniazd.",
+      "Zamków Gotyckich."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 68,
+    "text": "Który kraj odwiedzi turysta, jeżeli poinformowano go, że podczas wycieczki zobaczy Park Narodowy Plitvickie Jeziora oraz Pałac Dioklecjana?",
+    "answers": [
+      "Chorwację.",
+      "Grecję.",
+      "Serbię.",
+      "Słowenię."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 69,
+    "text": "Folder promujący uzdrowiska Kotliny Kłodzkiej powinien zawierać informacje o sanatoriach zlokalizowanych",
+    "answers": [
+      "w Solcu-Zdroju i Busku-Zdroju.",
+      "w Szczawnicy i Sopocie.",
+      "w Lądku-Zdroju i Polanicy-Zdroju.",
+      "w Ciechocinku i Inowrocławiu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 70,
+    "text": "Turyści zainteresowani twórczością Antonio Gaudiego, którzy chcą zwiedzić Casa Mila, Sagrada Familia oraz Park Guëll, powinni skorzystać z proponowanej przez pracownika biura podróży wycieczki do",
+    "answers": [
+      "Paryża.",
+      "Monachium.",
+      "Bratysławy.",
+      "Barcelony."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 71,
+    "text": "Turystom zainteresowanym Szlakiem Tatarskim, pracownik punktu informacji turystycznej powinien zaproponować wycieczkę do miejscowości",
+    "answers": [
+      "Poznań i Gniezno.",
+      "Bytów i Gniew.",
+      "Bohoniki i Kruszyniany.",
+      "Dąbki i Dębki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 72,
+    "text": "Przedstawione na ilustracji znaki turystyczne znajdują się",
+    "answers": [
+      "w Lublinie.",
+      "w Poznaniu.",
+      "w Krakowie.",
+      "w Warszawie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_znaki2.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 73,
+    "text": "Który rodzaj umowy powinno zawrzeć biuro podróży z hotelem, jeżeli wykupiło miejsca noclegowe z możliwością bezkosztowej rezygnacji z części z nich w terminie ustalonym przez obie strony umowy?",
+    "answers": [
+      "Czarteru.",
+      "Najmu.",
+      "Allotmentu.",
+      "Dzierżawy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 74,
+    "text": "Którą kwotę należy wpisać w wierszu Razem w przedstawionym Zestawieniu kosztów organizacji konferencji, przy założeniu, że 3-godzinną konferencję zorganizowano dla 18 osób?",
+    "answers": [
+      "516,00 zł",
+      "611,00 zł",
+      "771,00 zł",
+      "681,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_tabela37.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 75,
+    "text": "Które biuro podróży proponuje najniższą łączną cenę za wycieczkę dla 12 osób dorosłych i 5 dzieci?",
+    "answers": [
+      "Słoneczko.",
+      "Atena.",
+      "Travel.",
+      "Przygoda."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_tabela36.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 76,
+    "text": "Którą stawkę podatku VAT powinien uwzględnić na fakturze za swoje usługi przewodnik turystyczny?",
+    "answers": [
+      "19%",
+      "5%",
+      "8%",
+      "23%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 77,
+    "text": "Podczas ustalania wysokości marży biura podróży wydatki na zakup usług świadczonych dla bezpośredniej korzyści nabywcy, uwzględniane są jako kwoty",
+    "answers": [
+      "brutto.",
+      "bez podatku i z rabatem.",
+      "bez podatku i bez rabatu.",
+      "netto."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 78,
+    "text": "Z przedstawionego dokumentu wynika, że przyczyną wystawienia faktury korygującej był błąd",
+    "answers": [
+      "w zapisie liczby osób uczestniczących w wycieczce.",
+      "w zapisie nazwy towaru lub usługi.",
+      "w obliczeniu ceny jednostkowej za wycieczkę.",
+      "w obliczeniu całkowitej ceny wycieczki szkolnej dla grupy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_faktura11.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 79,
+    "text": "Który instrument marketingu zastosował właściciel biura podróży, umieszczając na billboardzie informację o ofercie wczasów?",
+    "answers": [
+      "Dystrybucję.",
+      "Promocję.",
+      "Personel.",
+      "Produkt."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 80,
+    "text": "Oblicz koszt zakwaterowania w hotelu dla małżeństwa, które wykupiło nocleg w pokoju dwuosobowym w terminie od 10.05 do 14.05.2022 r.",
+    "answers": [
+      "1 050,00 zł",
+      "1 400,00 zł",
+      "1 750,00 zł",
+      "1 120,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_cennik10.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 81,
+    "text": "Widoczny na ilustracji znak umieszczany przy autostradach, oznacza Miejsce",
+    "answers": [
+      "Obsługi Parkingowej.",
+      "Obsługi Podróżnych.",
+      "Odpoczynku Podróżnych.",
+      "Odprawy Parkingowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_znak13.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 82,
+    "text": "Morski klimat z dużą zawartością jodu w powietrzu należy do walorów",
+    "answers": [
+      "hydroleczniczych.",
+      "krioleczniczych.",
+      "balneologicznych.",
+      "aromaterapeutycznych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 83,
+    "text": "W skład turystycznej bazy towarzyszącej wchodzi baza",
+    "answers": [
+      "rekreacyjna.",
+      "hotelowa.",
+      "pensjonatowa.",
+      "gastronomiczna."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 84,
+    "text": "Stawka podatku VAT usługi transportu krajowego wynosi",
+    "answers": [
+      "8%",
+      "22%",
+      "7%",
+      "23%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 85,
+    "text": "Machu Picchu i jezioro Titicaca to atrakcje turystyczne",
+    "answers": [
+      "Meksyku.",
+      "Peru.",
+      "Kolumbii.",
+      "Chile."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 86,
+    "text": "Oblicz kwotę zniżki, jeżeli biuro podróży udzieliło 30% rabatu od całkowitej ceny za udział w wycieczce wynoszącej 1 200,00 zł.",
+    "answers": [
+      "740,00 zł",
+      "360,00 zł",
+      "840,00 zł",
+      "460,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 87,
+    "text": "Głównym szlakiem turystycznym i wodnym Wenecji jest kanał",
+    "answers": [
+      "Grande.",
+      "Erie.",
+      "Aragoński.",
+      "Gotyjski."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 88,
+    "text": "Dla turystów uprawiających kitesurfing należy przygotować katalog ofert obejmujących",
+    "answers": [
+      "zjazdy na desce snowboardowej po stromych zboczach.",
+      "pływanie na desce z unoszącym się nad wodą latawcem.",
+      "pływanie na desce surfingowej za motorówką.",
+      "skoki z samolotu z akrobacjami na desce w powietrzu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 89,
+    "text": "Tworzeniem i gromadzeniem informacji o atrakcjach turystycznych w Polsce, na szczeblu centralnym, zajmuje się głównie",
+    "answers": [
+      "Centrum Informacji Turystycznej.",
+      "Polska Organizacja Turystyczna.",
+      "Agencja Rozwoju Turystyki SA (w likwidacji).",
+      "Polska Agencja Promocji Turystyki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 90,
+    "text": "Korzystając z danych przedstawionych w tabeli, oblicz koszt pełnego wyżywienia dla 5 osób, które przebywały w pensjonacie w terminie od obiadu 12.07 do śniadania 14.07.",
+    "answers": [
+      "275,00 zł",
+      "350,00 zł",
+      "725,00 zł",
+      "550,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_tabela35.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 91,
+    "text": "Udzielając turyście informacji o możliwości dotarcia promem z Calais we Francji do Dover w Anglii, pracownik biura powinien wskazać Cieśninę",
+    "answers": [
+      "Kaletańską.",
+      "Mesyńską.",
+      "Skagerrak.",
+      "Kattegat."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 92,
+    "text": "Które miasto powinno zamieścić zdjęcie Złotej Uliczki w swoich materiałach promocyjnych?",
+    "answers": [
+      "Wilno.",
+      "Praga.",
+      "Wiedeń.",
+      "Brno."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 93,
+    "text": "Na którym zdjęciu przedstawiono obiekt militarny znajdujący się w Polsce, nazwany Wilczym Szańcem?",
+    "answers": [
+      "Na zdjęciu 4.",
+      "Na zdjęciu 2.",
+      "Na zdjęciu 1.",
+      "Na zdjęciu 3."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_obiekty.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 94,
+    "text": "Dokumentem dotyczącym zawieszenia kontroli granicznych i swobody przemieszczania się między większością krajów UE jest",
+    "answers": [
+      "Układ z Schengen.",
+      "Tabela Frankfurcka.",
+      "Konwencja Paryska.",
+      "Konwencja Genewska."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 95,
+    "text": "Turysta ma możliwość uregulowania kartą płatniczą należności za obiad w restauracji tylko, wówczas, gdy lokal wyposażony jest w",
+    "answers": [
+      "toner.",
+      "skaner.",
+      "notebook.",
+      "terminal."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 96,
+    "text": "Międzynarodowy port lotniczy im. Johna F. Kennedy’ego znajduje się w",
+    "answers": [
+      "Chicago.",
+      "Nowym Jorku.",
+      "Los Angeles.",
+      "Atlancie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 97,
+    "text": "Opracowanie nowych ofert imprez turystycznych to działanie w ramach strategii",
+    "answers": [
+      "produktu.",
+      "dystrybucji.",
+      "ceny.",
+      "promocji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 98,
+    "text": "Rezerwacji i sprzedaży usług turystycznych przy użyciu GDS, czyli globalnego systemu dystrybucji, dokonują przede wszystkim",
+    "answers": [
+      "właściciele muzeów.",
+      "klienci biur podróży.",
+      "goście hotelowi.",
+      "biura podróży."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 99,
+    "text": "Faza życia produktu polegająca na trwałym utrzymywaniu się popularności produktu na rynku w macierzy BCG, określa się jako",
+    "answers": [
+      "wschodząca gwiazda.",
+      "kula u nogi.",
+      "dojna krowa.",
+      "znak zapytania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 100,
+    "text": "Który obiekt noclegowy powinien polecić pracownik informacji turystycznej osobie zainteresowanej hippiką?",
+    "answers": [
+      "Ośrodek z parkurem.",
+      "Pensjonat z winnicą.",
+      "Stanicę żeglarską.",
+      "Schronisko górskie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 101,
+    "text": "Które z działań powinny być przede wszystkim realizowane podczas sprzedaży osobistej prowadzonej w agencji turystycznej?",
+    "answers": [
+      "Reklamowanie agencji w prasie lokalnej.",
+      "Udzielanie rabatów stałym klientom.",
+      "Uczestniczenie pracowników agencji w study tour.",
+      "Prezentowanie klientowi oferty danej imprezy turystycznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 102,
+    "text": "Przy projektowaniu plakatu reklamującego wyjazdy na narty, należy zamieścić głównie zdjęcia usług związanych z",
+    "answers": [
+      "sky divingiem.",
+      "skateboardingiem.",
+      "ski surfingiem.",
+      "skysurfingiem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 103,
+    "text": "Lotnicze przejścia graniczne znajdują się",
+    "answers": [
+      "w Krakowie-Łagiewnikach.",
+      "w Warszawie-Śródmieściu.",
+      "w Gdańsku-Rębiechowie.",
+      "w Katowicach-Bogucicach."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 104,
+    "text": "W celu umożliwienia klientowi zapłacenia za fakturę w terminie późniejszym biuro podróży najczęściej stosuje rozliczenie za pomocą",
+    "answers": [
+      "gotówki.",
+      "przelewu.",
+      "czeku.",
+      "barteru."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 105,
+    "text": "Internetowy system umożliwiający płatność za usługi turystyczne to",
+    "answers": [
+      "PayPal.",
+      "PayBack.",
+      "PayPass.",
+      "Pay Per View."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 106,
+    "text": "Klient płacąc za wycieczkę przy użyciu aplikacji mobilnej w telefonie, wpisał sześciocyfrowy kod obowiązkowy dla wybranego sposobu płatności, czyli skorzystał z systemu",
+    "answers": [
+      "Blik.",
+      "Kod QR.",
+      "PayU.",
+      "Dotpay."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 107,
+    "text": "Porozumienie biura podróży zawierane z podróżnym o zorganizowanie wyjazdu wypoczynkowego to umowa",
+    "answers": [
+      "kupna-sprzedaży usługi turystycznej.",
+      "na produkt turystyczny.",
+      "o udział w imprezie turystycznej.",
+      "o świadczenie usługi turystycznej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 108,
+    "text": "Dzięki zbudowanemu na początku XIX wieku kanałowi Elbląskiemu, Ostróda posiada bezpośrednie połączenie wodne z Zalewem",
+    "answers": [
+      "Zegrzyńskim.",
+      "Koronowskim.",
+      "Sulejowskim.",
+      "Wiślanym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 109,
+    "text": "Dokumentem finansowym potwierdzającym wykupienie wycieczki w biurze podróży jest faktura",
+    "answers": [
+      "VAT małego podatnika.",
+      "procedura marży dla biur podróży.",
+      "pro forma.",
+      "VAT RR."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 110,
+    "text": "Podróże studyjne dla pracowników branży turystycznej to działanie promocyjne w ramach",
+    "answers": [
+      "reklamy.",
+      "sprzedaży osobistej.",
+      "promocji sprzedaży.",
+      "public relation."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 111,
+    "text": "Jaką kwotę zapłaci biuro turystyczne za wynajęcie stoiska o powierzchni 10 m2 na lotnisku Okęcie w Warszawie w terminie 28.05 – 01.06?",
+    "answers": [
+      "600,00 zł",
+      "6 000,00 zł",
+      "500,00 zł",
+      "5 000,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_cennik9.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 112,
+    "text": "Który kraj odwiedzi turysta, jeżeli pracownik biura podróży poinformował go, że w czasie wycieczki zobaczy Park Narodowy Plitvickie Jeziora oraz Pałac Dioklecjana?",
+    "answers": [
+      "Słowenię.",
+      "Serbię.",
+      "Grecję.",
+      "Chorwację."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 113,
+    "text": "Oblicz kwotę podatku VAT należnego z tytułu organizacji krajowej wycieczki, jeżeli koszty usług wyniosły 5 900,00 zł, a wpływy 6 300,00 zł.",
+    "answers": [
+      "1 449,00 zł",
+      "29,63 zł",
+      "74,80 zł",
+      "1 357,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 114,
+    "text": "Ofertę sprzedaży imprezy turystycznej po obniżonej cenie na kilka miesięcy przed terminem realizacji, określa się jako",
+    "answers": [
+      "last minute.",
+      "outbookers.",
+      "first minute.",
+      "last bookers."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 115,
+    "text": "Środek przekazu w reklamie sporządzony w formie ulotki określany jest jako",
+    "answers": [
+      "katalog.",
+      "booklet.",
+      "baner.",
+      "leaflet."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 116,
+    "text": "Zgodnie z przepisami, po bankructwie touroperatora, obowiązek zorganizowania powrotu do Polski turystów przebywających za granicą, spoczywa na",
+    "answers": [
+      "ministerstwie właściwym do spraw zagranicznych.",
+      "urzędzie wojewódzkim.",
+      "urzędzie marszałkowskim.",
+      "towarzystwie ubezpieczeniowym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 117,
+    "text": "HRS to internetowy system rezerwacji przede wszystkim",
+    "answers": [
+      "miejsc noclegowych.",
+      "usług konferencyjnych.",
+      "usług gastronomicznych.",
+      "imprez turystycznych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 118,
+    "text": "Oblicz kwotę netto za usługi konferencyjne, wykorzystując zamieszczony fragment faktury wystawionej przez hotel.",
+    "answers": [
+      "404,40 zł",
+      "256,80 zł",
+      "487,80 zł",
+      "712,20 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_faktura9.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 119,
+    "text": "Turyści z Polski mogą wjechać do Chorwacji",
+    "answers": [
+      "na podstawie dowodu osobistego.",
+      "po okazaniu wizy.",
+      "po przedstawieniu voucheru.",
+      "po okazaniu biletu komunikacyjnego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 120,
+    "text": "Korzystając z fragmentu mapy Tatr, oblicz wysokość względną między Suchym Wierchem a Krokwią.",
+    "answers": [
+      "238 m",
+      "161 m",
+      "166 m",
+      "239 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_mapa9.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 121,
+    "text": "Na podstawie zamieszczonej umowy agentowi przysługuje",
+    "answers": [
+      "marża.",
+      "prowizja.",
+      "wypłata.",
+      "zaliczka."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_umowa7.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 122,
+    "text": "Przedstawione na zdjęciu znaki turystyczne znajdują się",
+    "answers": [
+      "w Lublinie.",
+      "w Warszawie.",
+      "w Krakowie.",
+      "w Poznaniu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_znaki2.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 123,
+    "text": "Który podmiot powinien wystawić notę korygującą w sytuacji, gdy na fakturze za usługi noclegowe przesłanej do biura podróży wpisano błędny adres nabywcy?",
+    "answers": [
+      "Agencja transportowa.",
+      "Hotel.",
+      "Restauracja.",
+      "Biuro podróży."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 124,
+    "text": "Oblicz koszt organizacji 3-godzinnej konferencji dla 18 osób uwzględniając świadczenia zamieszczone w tabeli.",
+    "answers": [
+      "566,00 zł",
+      "771,00 zł",
+      "521,00 zł",
+      "147,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_tabela31.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 125,
+    "text": "Którą kwotę powinien wpisać referent na fakturze – procedura marży dla biur podróży wystawionej dla klienta przy założeniu, że marża biura bez podatku VAT wynosi 10%, a klient skorzystał z 20% kuponu rabatowego?",
+    "answers": [
+      "1 997,82 zł",
+      "1 598,26 zł",
+      "1 423,20 zł",
+      "1 779,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_tabela34.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 126,
+    "text": "Turysta regulując należność za wycieczkę w biurze podróży w sposób bezgotówkowy, nie może dokonać płatności",
+    "answers": [
+      "przelewem bankowym.",
+      "gotówką.",
+      "czekiem.",
+      "kartą płatniczą."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 127,
+    "text": "W umowie o świadczenie usług na rzecz organizatora turystyki, zawartej pomiędzy biurem podróży a pilotem, stosuje się odpowiednio przepisy umowy",
+    "answers": [
+      "najmu.",
+      "zlecenia.",
+      "allotmentu.",
+      "agencyjnej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 128,
+    "text": "Która organizacja zajmuje się gromadzeniem oraz aktualizacją informacji o atrakcjach i produktach turystycznych Kociewia na szczeblu lokalnym?",
+    "answers": [
+      "POT Kociewie.",
+      "ROT Kociewie.",
+      "LOT Kociewie.",
+      "TOT Kociewie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 129,
+    "text": "Które dokumenty będą potrzebne referentowi biura podróży w celu rozliczenia kosztów wycieczki w Bieszczady?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_tabela28.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 130,
+    "text": "Które biuro podróży proponuje najniższą cenę za jednodniową wycieczkę dla 10 osób dorosłych i 4 dzieci?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_tabela26.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 131,
+    "text": "Korzystając z danych zamieszczonych w tabeli oblicz łączny koszt zamówionych przez biuro podróży obiadów dla 12 osób po uwzględnieniu podatku VAT.",
+    "answers": [
+      "583,32 zł",
+      "544,59 zł",
+      "557,30 zł",
+      "570,24 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_tabela30.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 132,
+    "text": "Za które świadczenie Agencja Reklamy 4D otrzyma fakturę – procedura marży dla biur podróży?",
+    "answers": [
+      "Udostępnienie powierzchni przylegającej do biura podróży.",
+      "Zorganizowanie podróży incentive dla pracowników agencji.",
+      "Udzielanie porad w zakresie wyjazdów służbowych.",
+      "Przesłanie katalogów z ofertą turystyczną biura podróży."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 133,
+    "text": "Wskaż kwotę 15-procentowej marży oraz wartość podatku VAT, które zostały poprawnie obliczone w przypadku wycieczki krajowej.",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_tabela29.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 134,
+    "text": "Turysta planując wycieczkę oraz rezerwując bilety na koncert skorzystał z Narodowego Portalu Turystycznego POT, który dostępny jest pod adresem",
+    "answers": [
+      "www.etraveler.pl",
+      "www.portalturystyczny.pl",
+      "www.mytravel.pl",
+      "www.polska.travel/pl"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 135,
+    "text": "Oblicz opłatę, którą poniesie biuro podróży za wynajem stoiska o powierzchni 8 m2 podczas targów turystycznych, jeżeli koszt 1 m2 stoiska wynosi 282,50 zł, obowiązkowa opłata rejestracyjna wystawcy to 20,00 zł/m2, a koszty wyposażenia stoiska wynoszą 250,00 zł.",
+    "answers": [
+      "2 570,00 zł",
+      "2 870,00 zł",
+      "2 670,00 zł",
+      "2 770,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 136,
+    "text": "Z przedstawionych danych w tabeli wynika, że koszt wynajmu stoiska targowego o powierzchni 25 m2 przez 5 dni w III kwartale roku wyniesie",
+    "answers": [
+      "11 875,00 zł",
+      "8 125,00 zł",
+      "9 375,00 zł",
+      "10 625,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_tabela33.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 137,
+    "text": "Jak oznaczona powinna zostać w katalogu biura podróży opcja pełnego wyżywienia dla uczestników wczasów?",
+    "answers": [
+      "BB",
+      "OB",
+      "HB",
+      "FB"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 138,
+    "text": "Agent turystyczny, poznając podczas wycieczki finansowanej przez touroperatora jakość, charakter i standard oferowanych usług, uczestniczy w imprezie typu",
+    "answers": [
+      "first minute.",
+      "last minute.",
+      "study tour.",
+      "shop tour."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 139,
+    "text": "Który z zamieszczonych znaków turystycznych kieruje do przystani wodnej?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_znaki3.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 140,
+    "text": "Która informacja nie występuje na fakturze – procedura marży dla biur podróży?",
+    "answers": [
+      "Dane nabywcy.",
+      "Kwota podatku VAT.",
+      "Wartość usługi brutto.",
+      "Forma płatności."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 141,
+    "text": "Turysta wędrujący Śladami Łódzkich Murali ma możliwość podziwiania",
+    "answers": [
+      "dobrze zachowanych murów zabytkowych budynków.",
+      "wielkoformatowej grafiki na ścianach budynków.",
+      "murów obronnych okalających centrum miasta.",
+      "dużych bilboardów reklamowych w centrum miasta."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 142,
+    "text": "Korzystając z zamieszczonego planu Starego Miasta w Zamościu wskaż trasę, którą turyści powinni pokonać z kościoła św. Katarzyny do Bramy Szczebrzeskiej, przechodząc obok nowej Bramy Lubelskiej.",
+    "answers": [
+      "Rynek Solny – ul. Pereca – ul. Królowej Jadwigi – ul. Zamkowa – ul. Szczebrzeska.",
+      "Przyrynek – Plac Stefanidesa - ul. Łukasińskiego – ul. Akademicka - ul. Szczebrzeska.",
+      "Rynek Solny – ul. Pereca - ul. Akademicka - ul. Szczebrzeska.",
+      "Przyrynek – ul. Solna – ul. Zamenhofa – ul. Bazyliańska – ul. Staszica – ul. Szczebrzeska."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_mapa8.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 143,
+    "text": "Który dokument powinien wystawić pracownik biura podróży turyście, jeżeli wpłacił on gotówką zaliczkę za wycieczkę objazdową po Tajlandii?",
+    "answers": [
+      "Voucher hotelowy.",
+      "Raport kasowy.",
+      "Dowód KW.",
+      "Dowód KP."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 144,
+    "text": "Oblicz wartość brutto wynajmu sali konferencyjnej na 6 godzin dla 120 osób w dniu 25 kwietnia.",
+    "answers": [
+      "360,00 zł",
+      "180,00 zł",
+      "720,00 zł",
+      "540,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_tabela32.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 145,
+    "text": "Który górski park narodowy oferuje turystom przedstawioną na zdjęciu atrakcję turystyczną?",
+    "answers": [
+      "Babiogórski.",
+      "Magurski.",
+      "Pieniński.",
+      "Tatrzański."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_zdjecie.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 146,
+    "text": "Korzystając z technologii mobilnej klient może zapłacić za usługę turystyczną przy użyciu",
+    "answers": [
+      "smartfona.",
+      "routera.",
+      "tokena.",
+      "dekodera."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 147,
+    "text": "Który region powinien pracownik biura podróży zaproponować turyście zainteresowanemu speleologią?",
+    "answers": [
+      "Kujawy.",
+      "Pomorze.",
+      "Sudety.",
+      "Mazury."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 148,
+    "text": "Która z podanych ofert imprezy powinna znaleźć się w katalogu biura pielgrzymkowego?",
+    "answers": [
+      "Zamki nad Loarą.",
+      "Błękitne Malediwy.",
+      "Słoneczna Andaluzja.",
+      "Medjugorje z Chorwacją."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 149,
+    "text": "Oblicz koszt transportu jednego uczestnika wycieczki do Wiednia, jeżeli autokarem podróżowała 34-osobowa grupa młodzieży z 2 opiekunami i pilotem, przejechano 945 km, a koszt 1 km wynosi 4,70 zł brutto.",
+    "answers": [
+      "126,95 zł",
+      "120,10 zł",
+      "130,63 zł",
+      "136,37 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 150,
+    "text": "Biuro podróży współpracujące z operatorami Unity Line, Stena Line i Polferries, specjalizuje się w organizacji wycieczek",
+    "answers": [
+      "kolejowych.",
+      "lotniczych.",
+      "promowych.",
+      "autokarowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 151,
+    "text": "Biuro podróży organizując wycieczkę do Krakowa dla 45 uczniów poniosło koszty 8 900,00 zł. Jaka będzie łączna cena imprezy po doliczeniu 15% marży oraz podatku VAT?",
+    "answers": [
+      "11 890,05 zł",
+      "12 276,05 zł",
+      "10 235,05 zł",
+      "10 542,05 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 152,
+    "text": "Biuro podróży specjalizujące się w organizacji zagranicznych podróży biznesowych, w ramach promocji, powinno wziąć udział w Międzynarodowych Targach",
+    "answers": [
+      "Gastronomicznych EuroGastro w Warszawie.",
+      "Wyposażenia Hoteli i Gastronomii HORECA w Krakowie.",
+      "TT WARSAW w Warszawie.",
+      "Turystyki Wiejskiej i Aktywnej AGRO TRAVEL & ACTIVE LIFE w Kielcach."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 153,
+    "text": "Oblicz koszt noclegów brutto dla 20-osobowej grupy turystycznej, jeśli cena pokoju typu twin room wynosi 140,00 zł netto.",
+    "answers": [
+      "3 024,00 zł",
+      "1 540,00 zł",
+      "1 512,00 zł",
+      "2 800,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 154,
+    "text": "Oblicz wartość kosztów stałych poniesionych przez biuro podróży w związku z organizacją wyjazdu na targi turystyczne.",
+    "answers": [
+      "2 592,00 zł",
+      "3 050,00 zł",
+      "2 367,00 zł",
+      "2 017,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_tabela27.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 155,
+    "text": "Turystom zainteresowanym ofertą wyjazdu narciarskiego do Zieleńca, należy udzielić informacji na temat infrastruktury oraz atrakcyjności turystycznej obszaru",
+    "answers": [
+      "Alp.",
+      "Sudetów.",
+      "Pirenejów.",
+      "Karpat."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 156,
+    "text": "Turystom przemieszczającym się z Rodos na Kretę należy zaproponować transport",
+    "answers": [
+      "samochodowy.",
+      "pieszy.",
+      "autokarowy.",
+      "promowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 157,
+    "text": "Który rodzaj promocji cenowej zastosowało biuro podróży wprowadzając do sprzedaży imprezę turystyczną na 6 miesięcy przed terminem jej realizacji?",
+    "answers": [
+      "First minute.",
+      "Late bookers.",
+      "Outbookers.",
+      "Last minute."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 158,
+    "text": "Który dokument powinien wystawić pracownik biura podróży w sytuacji, gdy na fakturze z zakładu gastronomicznego zauważy błędną nazwę usługodawcy?",
+    "answers": [
+      "Fakturę korygującą.",
+      "Fakturę sprzedażową.",
+      "Notę sprzedażową.",
+      "Notę korygującą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 159,
+    "text": "Którą mapę pracownik IT powinien przede wszystkim zaproponować osobom wędrującym pieszo po Bieszczadach?",
+    "answers": [
+      "Administracyjną.",
+      "Demograficzną.",
+      "Turystyczną.",
+      "Samochodową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 160,
+    "text": "Który element zagospodarowania powinien przede wszystkim zostać uwzględniony w katalogu z ofertami turystycznymi skierowanymi do rodzin z małymi dziećmi?",
+    "answers": [
+      "Apartamenty wyposażone w minibar i system nagłaśniający.",
+      "Zespół basenów na terenie hotelu dostosowanych dla najmłodszych.",
+      "Liczne sklepy i dyskoteki w promieniu 500 metrów od hotelu.",
+      "Bardzo dobra komunikacja autobusowa w miejscu zakwaterowania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 161,
+    "text": "Oblicz wartość podatku VAT za usługę transportu autokarowego przy założeniu, że wartość brutto usługi wynosi 800,00 zł, a usługa objęta jest stawką podatku VAT 8%.",
+    "answers": [
+      "59,27 zł",
+      "59,26 zł",
+      "59,24 zł",
+      "59,25 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 162,
+    "text": "Które miejscowości pracownik IT powinien polecić turyście zainteresowanemu wycieczką krajoznawczą Szlakiem Tatarskim?",
+    "answers": [
+      "Dąbki i Dębki.",
+      "Bohoniki i Kruszyniany.",
+      "Poznań i Gniezno.",
+      "Bytów i Gniew."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 163,
+    "text": "Zamieszczony w katalogu biura podróży opis wycieczki fakultatywnej dotyczy obszaru Opis wycieczki w katalogu biura podróży (fragment) Piesza wycieczka w region karpacki. Wejście na Sokolicę. Możliwość podziwiania sosny reliktowej. Dalsza wędrówka na Trzy Korony o wysokości 982 m. n.p.m. Po zejściu spływ tratwą flisacką przełomem Dunajca.",
+    "answers": [
+      "Pienin.",
+      "Beskidu Żywieckiego.",
+      "Gór Sowich.",
+      "Tatr."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 164,
+    "text": "Podstawowa stawka podatku VAT w wysokości 23% zostanie zastosowana przy sprzedaży usługi",
+    "answers": [
+      "żywieniowej w barze w Sopocie.",
+      "transportu autokarowego na trasie Szczecin – Praga – Szczecin.",
+      "pilotażu dwudniowej wycieczki szkolnej do Krakowa.",
+      "noclegowej w hotelu w Warszawie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 165,
+    "text": "W folderze turystycznym promującym województwo kujawsko-pomorskie należy umieścić informacje o atrakcjach turystycznych",
+    "answers": [
+      "Poznania, Gniezna, Pobiedzisk.",
+      "Torunia, Grudziądza, Chełmna.",
+      "Władysławowa, Jastarni, Chałup.",
+      "Kołobrzegu, Dziwnowa, Grzybowa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 166,
+    "text": "Oblicz całkowity koszt 5 noclegów dla 30-osobowej grupy pielgrzymów i 2 księży w pokojach DBL oraz dla pilota wycieczek i kierowcy w pokojach SGL, jeżeli cena jednostkowa za pokój SGL wynosi 200,00 zł, a za pokój DBL 270,00 zł.",
+    "answers": [
+      "20 250,00 zł",
+      "22 250,00 zł",
+      "21 600,00 zł",
+      "23 600,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 167,
+    "text": "Przedstawiony fragment opisu dotyczy wycieczki do Opis wycieczki (fragment) Podróż do tajemniczego miasta nad cieśniną Bosfor, która oddziela Europę od Azji, znanego z meczetu Hagia Sophia, Błękitnego Meczetu, Pałacu Topkapi oraz jednego z największych i najstarszych krytych bazarów na świecie.",
+    "answers": [
+      "Kairu.",
+      "Stambułu.",
+      "Marrakeszu.",
+      "Tunisu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 168,
+    "text": "Na podstawie danych w zamieszczonej tabeli oblicz koszt usług świadczonych przez pilota wycieczek na rzecz 25-osobowej grupy przy założeniu, że kwota marży biura podróży wraz z podatkiem VAT wynosi 1 000,00 zł.",
+    "answers": [
+      "1 600,00 zł",
+      "487,00 zł",
+      "1 000,00 zł",
+      "600,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_tabela25.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 169,
+    "text": "Przedstawiony na rysunku późnobarokowy zespół pałacowo-parkowy Branickich, zwany Wersalem Podlasia, to atrakcja turystyczna, którą można zaproponować turystom podczas wycieczki do",
+    "answers": [
+      "Zamościa.",
+      "Białegostoku.",
+      "Ostródy.",
+      "Olsztyna."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_zespol2.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 170,
+    "text": "Oblicz wysokość 10% rabatu udzielonego klientowi przez biuro podróży przy założeniu, że kupił on imprezę turystyczną w cenach regularnych: dla 2 osób dorosłych po 2 000,00 zł/os. oraz dla 3 dzieci po 1 200,00 zł/os.",
+    "answers": [
+      "360,00 zł",
+      "320,00 zł",
+      "760,00 zł",
+      "400,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 171,
+    "text": "Przedstawione znaki informacyjne, umieszczone odpowiednio przy wejściach podziemnych w wielu miastach, między innymi: w Warszawie, Pradze i Barcelonie, oznaczają",
+    "answers": [
+      "stację metra.",
+      "przejście podziemne.",
+      "zakaz wjazdu.",
+      "przystanek taxi."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_znaki.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 172,
+    "text": "Wprowadzenie na rynek oferty wycieczki edukacyjnej dla młodzieży to działanie w ramach strategii",
+    "answers": [
+      "promocji.",
+      "ceny.",
+      "produktu.",
+      "dystrybucji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 173,
+    "text": "Oblicz całkowity koszt wycieczki objazdowej po Podlasiu, jeżeli suma kosztów bezpośrednich wynosi 11 000,00 zł, a marża netto biura podróży 15%.",
+    "answers": [
+      "12 650,00 zł",
+      "11 000,00 zł",
+      "14 679,50 zł",
+      "13 029,50 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 174,
+    "text": "Turystom planującym zwiedzanie Jaskini Postojnej należy zaproponować wyjazd do",
+    "answers": [
+      "Słowenii.",
+      "Francji.",
+      "Hiszpanii.",
+      "Włoch."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 175,
+    "text": "Rezerwacja miejsc dla większej liczby osób niż może pomieścić hotel lub samolot to",
+    "answers": [
+      "czarter.",
+      "allotment.",
+      "overbooking.",
+      "timesharing."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 176,
+    "text": "Który rodzaj umowy powinno podpisać biuro podróży z hotelem, jeżeli wykupiło większość miejsc noclegowych z możliwością bezkosztowej rezygnacji z części z nich w terminie ustalonym przez obie strony umowy?",
+    "answers": [
+      "Najmu.",
+      "Dzierżawy.",
+      "Czarteru.",
+      "Allotmentu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 177,
+    "text": "Na podstawie zamieszczonego cennika, oblicz koszt zakwaterowania w hotelu małżeństwa, które wykupiło nocleg w pokoju dwuosobowym w terminie od 10.05 do 14.05.2021 r.",
+    "answers": [
+      "1 750,00 zł",
+      "1 400,00 zł",
+      "1 050,00 zł",
+      "1 120,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_cennik8.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 178,
+    "text": "Informację o nowo wybudowanym zespole basenów rekreacyjnych należy dodać w bazie danych IT do grupy informacji",
+    "answers": [
+      "o kulturowych walorach turystycznych.",
+      "o zagospodarowaniu turystycznym.",
+      "o krajowym ruchu turystycznym.",
+      "o naturalnych walorach turystycznych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 179,
+    "text": "Na fakturze wystawionej za świadczenie usług przewodnickich po Poznaniu należy uwzględnić stawkę podatku VAT wynoszącą",
+    "answers": [
+      "8%",
+      "23%",
+      "0%",
+      "22%"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 180,
+    "text": "Którą kwotę zapłaci biuro podróży Włóczykij za wynajęcie stoiska targowego o powierzchni 15 m2 w terminie 07.03 – 09.03, jeżeli cena wynajmu 1 m2 za każdy dzień wynosi 300,00 zł brutto?",
+    "answers": [
+      "13 500, 00 zł",
+      "900,00 zł",
+      "4 500,00 zł",
+      "300,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 181,
+    "text": "Opisany oraz przedstawiony na rysunku zamek znajduje się",
+    "answers": [
+      "w Książu.",
+      "w Malborku.",
+      "w Kwidzynie.",
+      "w Grodnie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_zamek.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 182,
+    "text": "Która kwota powinna być wpisana na zamieszczonej fakturze w kolumnie cena jednostkowa netto?",
+    "answers": [
+      "160,00 zł",
+      "480,00 zł",
+      "148,15 zł",
+      "444,44 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_faktura8.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 183,
+    "text": "Przedstawione drogowskazy informują turystów o szlakach",
+    "answers": [
+      "w Bieszczadach.",
+      "w Tatrach.",
+      "na Podlasiu.",
+      "na Suwalszczyźnie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_drogowskazy2.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 184,
+    "text": "Agent turystyczny sprzedaje imprezy turystyczne na rzecz ich organizatora na podstawie umowy",
+    "answers": [
+      "timesharingu.",
+      "zlecenia.",
+      "allotmentu.",
+      "agencyjnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 185,
+    "text": "Na obszarze Borów Tucholskich, Ujścia Warty i Gór Stołowych, ze względu na atrakcyjność walorów przyrodniczych, utworzono",
+    "answers": [
+      "parki narodowe.",
+      "pomniki natury.",
+      "rezerwaty natury.",
+      "parki tematyczne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 186,
+    "text": "Informacja Turystyczna dostarcza turystom przede wszystkim wiedzy dotyczącej",
+    "answers": [
+      "atrakcji turystycznych i bazy noclegowej wybranego obszaru.",
+      "sposobu zawierania umów z pilotami i przewodnikami turystycznymi.",
+      "rozkładów jazdy pociągów i rejsów promami pasażerskimi.",
+      "zasad rozliczania imprez i usług turystycznych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 187,
+    "text": "W którym serwisie internetowym nie można zamieścić reklamy imprezy turystycznej na Karaiby?",
+    "answers": [
+      "Amazon.",
+      "Instagram.",
+      "Facebook.",
+      "YouTube."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 188,
+    "text": "Które działanie należy zaplanować w ramach strategii ceny?",
+    "answers": [
+      "Nawiązywanie współpracy z lokalnymi mediami.",
+      "Rozdawanie upominków nabywcom z tytułu zakupu produktu.",
+      "Udzielanie rabatów stałym klientom.",
+      "Wprowadzanie do oferty nowego kierunku wyjazdów turystycznych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 189,
+    "text": "Które europejskie miasto może zamieścić zdjęcie Złotej Uliczki w swoich materiałach promocyjnych?",
+    "answers": [
+      "Praga.",
+      "Wilno.",
+      "Brno.",
+      "Wiedeń."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 190,
+    "text": "Korzystając z zamieszczonego fragmentu faktury oblicz wartość brutto kolacji.",
+    "answers": [
+      "162,00 zł",
+      "112,00 zł",
+      "150,00 zł",
+      "138,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_faktura7.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 191,
+    "text": "W materiałach promujących produkt turystyczny można, za zgodą Polskiej Organizacji Turystycznej, zamieścić przedstawione na rysunku",
+    "answers": [
+      "logo Polska.",
+      "logo Polska wita.",
+      "hasło Aktywny wypoczynek.",
+      "hasło Od gór do morza."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/tg15_logo.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 192,
+    "text": "Oblicz udział procentowy kosztów usługi przewodnika górskiego w stosunku do wszystkich kosztów organizacji imprezy turystycznej.",
+    "answers": [
+      "20%",
+      "25%",
+      "15%",
+      "30%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/tg15_tabela5.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 193,
+    "text": "Etykieta bagażowa jest dla pasażera",
+    "answers": [
+      "dokumentem zawierającym warunki przewozu.",
+      "kuponem uprawniającym do przelotu.",
+      "częścią biletu odnoszącą się do bagażu podręcznego.",
+      "dokumentem wystawionym w celu rozpoznania bagażu rejestrowanego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 194,
+    "text": "Którą stawkę podatku VAT, zgodnie z polskim prawem, należy zastosować, obliczając wartość brutto usług noclegowych w hotelu?",
+    "answers": [
+      "5%",
+      "7%",
+      "23%",
+      "8%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 195,
+    "text": "W której europejskiej stolicy turyści mają możliwość obejrzenia przedstawionych na rysunkach walorów turystycznych?",
+    "answers": [
+      "W Rzymie.",
+      "W Atenach.",
+      "W Berlinie.",
+      "W Pradze."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/tg15_rysunki.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 196,
+    "text": "Na rysunku przedstawiono wydruk",
+    "answers": [
+      "raportu kasowego.",
+      "paragonu fiskalnego.",
+      "raportu fiskalnego dobowego.",
+      "faktury korygującej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/tg15_wydruk.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 197,
+    "text": "Zestawienie wpływów i kosztów imprezy turystycznej przygotowuje się w celu",
+    "answers": [
+      "sporządzenia bilansu dnia.",
+      "skalkulowania świadczeń imprezy turystycznej.",
+      "obliczenia sumy kosztów stałych imprezy turystycznej.",
+      "rozliczenia imprezy turystycznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 198,
+    "text": "Agent turystyczny sprzedaje obce imprezy turystyczne na rzecz organizatora na podstawie umowy",
+    "answers": [
+      "zlecenia.",
+      "allotmentu.",
+      "agencyjnej.",
+      "timesharingu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 199,
+    "text": "Przewodnik turystyczny wystawił współpracującemu z nim organizatorowi wycieczki fakturę za świadczone usługi zgodnie z umową",
+    "answers": [
+      "czarteru.",
+      "allotmentu.",
+      "sprzedaży.",
+      "zlecenia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 200,
+    "text": "Biuro podróży może zastosować strategię cenową poprzez",
+    "answers": [
+      "prowadzenie sprzedaży poprzez kilku pośredników.",
+      "stosowanie przez krótki czas zawyżonej ceny nowej oferty.",
+      "rozszerzenie propozycji sprzedawanych ofert imprez turystycznych.",
+      "prowadzenie sprzedaży we wszystkich dostępnych punktach."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 201,
+    "text": "Zgodnie z informacją zamieszczoną w wyszukiwarce biletów prom z Tallina przypłynie do Helsinek",
+    "answers": [
+      "07 lipca o godz. 1030",
+      "03 lipca o godz. 0745",
+      "03 lipca o godz. 1000",
+      "07 lipca o godz. 0800"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/tg15_wyszukiwarka.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 202,
+    "text": "Oblicz kwotę, którą należy wpisać na druku KP, jeżeli klient otrzymał od biura podróży rabat w wysokości 20% ceny katalogowej na wczasy kosztujące 2 600,00 zł od osoby.",
+    "answers": [
+      "2 080,00 zł",
+      "1 040,00 zł",
+      "3 120,00 zł",
+      "1 600,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 203,
+    "text": "W którym kraju Europy Południowej turyści mogą zwiedzić przedstawione na rysunkach atrakcje?",
+    "answers": [
+      "W Chorwacji.",
+      "W Islandii.",
+      "W Serbii.",
+      "W Norwegii."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/tg15_atrakcje.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 204,
+    "text": "Oblicz koszt brutto usługi noclegowej świadczonej na trzy doby w 6 pokojach DBL w cenie 150,00 zł brutto/doba/pokój oraz w 8 pokojach SGL w cenie 110,00 zł brutto/doba/pokój.",
+    "answers": [
+      "5 340,00 zł",
+      "3 560,00 zł",
+      "1 780,00 zł",
+      "7 980,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 205,
+    "text": "Którą kwotę musi zwrócić pilot wycieczek w ramach rozliczenia imprezy turystycznej, jeżeli otrzymał w biurze podróży zaliczkę w wysokości 2 500,00 zł na zakup świadczeń podczas wyjazdu konferencyjnego, a poniesione wydatki wyniosły: wyżywienie 1 280,00 zł, przewodnik 540,00 zł, bilety wstępu 440,00 zł?",
+    "answers": [
+      "110,00 zł",
+      "380,00 zł",
+      "240,00 zł",
+      "420,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 206,
+    "text": "Gate na lotnisku to oznaczone numerem przejście dla pasażerów",
+    "answers": [
+      "danego rejsu do samolotu.",
+      "po odbiór bagażu po wylądowaniu.",
+      "danego rejsu do kontroli paszportów.",
+      "do kontroli szczegółowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 207,
+    "text": "Które z działań powinno być przede wszystkim realizowane podczas sprzedaży osobistej prowadzonej w agencji turystycznej?",
+    "answers": [
+      "Prezentacja oferty danej imprezy turystycznej klientowi.",
+      "Udział pracowników agencji w study tour.",
+      "Reklamowanie agencji w prasie lokalnej.",
+      "Udzielanie rabatów stałym klientom."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 208,
+    "text": "Oblicz rzeczywistą odległość, którą pokona rowerzysta jadąc szlakiem Szable i bagnety z Bełchowa do Janowic, jeżeli na mapie sporządzonej w skali 1:75 000 odległość ta wynosi 27 cm.",
+    "answers": [
+      "20,25 km",
+      "20,52 km",
+      "25,52 km",
+      "25,25 km"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 209,
+    "text": "Które walory turystyczne należy uwzględnić podczas udzielania informacji o Włoszech?",
+    "answers": [
+      "Arktikum w Rovaniemi oraz skocznie narciarskie w Kuusamo.",
+      "Uniwersytet w Padwie oraz Łuk Augusta w Rimini.",
+      "Morawski Kras koło Brna oraz kościoły w Kutnej Horze.",
+      "Muzeum Diamentów w Antwerpii oraz Muzeum Napoleona w Waterloo."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 210,
+    "text": "Aplikacja Bilkom może być zastosowana przez podróżnych w celu zakupu biletów",
+    "answers": [
+      "autobusowych.",
+      "lotniczych.",
+      "kolejowych.",
+      "promowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 211,
+    "text": "Który dokument wystawi pracownik biura podróży w przypadku zauważonej na oryginalnej fakturze błędnej ceny jednostkowej usługi turystycznej?",
+    "answers": [
+      "Fakturę sprzedażową.",
+      "Notę sprzedażową.",
+      "Notę korygującą.",
+      "Fakturę korygującą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 212,
+    "text": "Podczas zakupu biletu lotniczego pasażer został poinformowany o stałych opłatach z tytułu wylotu z określonego portu lotniczego, czyli o opłatach",
+    "answers": [
+      "portowych.",
+      "skarbowych.",
+      "lotniskowych.",
+      "startowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 213,
+    "text": "Turystów, którzy chcą spędzić czas w Parku Rozrywki Energylandia należy poinformować o konieczności dojazdu do miejscowości",
+    "answers": [
+      "Zator.",
+      "Zalas.",
+      "Zabrze.",
+      "Zamość."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 214,
+    "text": "Biuro podróży organizując konferencję prasową podczas targów turystycznych, zastosowało jeden z elementów",
+    "answers": [
+      "public relations.",
+      "sprzedaży osobistej.",
+      "promocji sprzedaży.",
+      "demarketingu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 215,
+    "text": "Voucher na wczasy wystawiony przez biuro podróży musi zawierać informacje",
+    "answers": [
+      "o terminie odprawy pilota wycieczek.",
+      "o rozliczeniu usług gastronomicznych.",
+      "o wartości sprzedaży netto świadczeń w hotelu.",
+      "o pierwszym i ostatnim świadczeniu w hotelu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 216,
+    "text": "Oblicz kwotę podatku VAT, jeżeli wartość netto usługi gastronomicznej wynosi 662,03 zł.",
+    "answers": [
+      "52,96 zł",
+      "49,04 zł",
+      "612,99 zł",
+      "716,99 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 217,
+    "text": "Które europejskie miasto może zamieścić zdjęcie Złotej Uliczki w swoich materiałach informacyjnych przeznaczonych dla turystów?",
+    "answers": [
+      "Wiedeń.",
+      "Brno.",
+      "Praga.",
+      "Wilno."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 218,
+    "text": "Korzystając z zamieszczonego fragmentu rozkładu jazdy PKP określ, których informacji należy udzielić turyście planującemu podróż bezpośrednim pociągiem z Katowic do Malborka.",
+    "answers": [
+      "Wyjazd z Katowic o godz. 14:56 z toru 4 przy peronie III, przyjazd do Malborka o godz. 19:37, podróż pociągiem IC-EIP relacji Katowice – Gdynia Główna.",
+      "Wyjazd z Katowic o godz. 14:56 z toru 4 przy peronie II, przyjazd do Malborka o godz. 19:03, podróż pociągiem IC-EIP relacji Katowice – Tychy Lodowisko.",
+      "Wyjazd z Katowic o godz. 14:48 z toru 1 przy peronie III, przyjazd do Malborka o godz. 19:37, podróż pociągiem KS-Os relacji Katowice – Gdynia Główna.",
+      "Wyjazd z Katowic o godz. 14:53 z toru 3 przy peronie IV, przyjazd do Malborka o godz. 19:50, podróż pociągiem KS-Os relacji Katowice – Lubliniec."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/tg15_rozklad.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 219,
+    "text": "Oblicz wartość śniadań i obiadokolacji dla 2 osób w terminie 13.07-17.07, od obiadokolacji pierwszego dnia do śniadania ostatniego dniu pobytu, przy założeniu, że cena jednostkowa śniadania wynosi 12,00 zł, a obiadokolacji 26,00 zł.",
+    "answers": [
+      "208,00 zł",
+      "104,00 zł",
+      "380,00 zł",
+      "304,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 220,
+    "text": "Oblicz sumę kosztów zmiennych poniesionych przez biuro podróży podczas organizacji wycieczki do Hiszpanii.",
+    "answers": [
+      "13 700,00 zł",
+      "16 800,00 zł",
+      "17 700,00 zł",
+      "18 430,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/tg15_tabela4.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 221,
+    "text": "Stawka podatku VAT, którą objęto usługi przewodnictwa turystycznego w Polsce, wynosi",
+    "answers": [
+      "8%",
+      "0%",
+      "5%",
+      "23%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 222,
+    "text": "Którego regionu Polski dotyczy zamieszczony opis? Jednym z najcenniejszych walorów kulturowych tego regionu jest piastowski zamek w Brzegu, zwany „śląskim Wawelem”. Miejscem aktywnego wypoczynku i rekreacji są jeziora Nyskie i Otmuchowskie.",
+    "answers": [
+      "Małopolskiego.",
+      "Pomorskiego.",
+      "Opolskiego.",
+      "Świętokrzyskiego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 223,
+    "text": "Turyści preferujący podróże drogą morską mogą korzystać z portu promowego",
+    "answers": [
+      "w Kopenhadze.",
+      "w Madrycie.",
+      "w Paryżu.",
+      "w Berlinie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 224,
+    "text": "Przewodnik turystyczny opowiadając o wpisanym na Listę Światowego Dziedzictwa UNESCO Mużakowskim Parku Krajobrazowym, udziela informacji o atrakcji zlokalizowanej w województwie",
+    "answers": [
+      "lubuskim.",
+      "łódzkim.",
+      "pomorskim.",
+      "małopolskim."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 225,
+    "text": "Informacje o sposobie składania reklamacji na usługi turystyczne należy",
+    "answers": [
+      "określić w umowie biura podróży z klientem.",
+      "uwzględnić podczas rozliczenia świadczeń z kontrahentami.",
+      "zapisać w voucherze.",
+      "umieścić w reklamie biura podróży."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 226,
+    "text": "Którą atrakcję turystyczną można zamieścić w przewodniku po Podlasiu?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/tg15_atrakcje2.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 227,
+    "text": "Do formy rozliczeń bezgotówkowych zalicza się",
+    "answers": [
+      "przelewy bankowe.",
+      "przekazy pocztowe.",
+      "czeki gotówkowe.",
+      "środki płatnicze."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 228,
+    "text": "Podczas polubownego rozwiązywania sporów biura podróży z turystami niezadowolonymi z jakości usług w hotelu można skorzystać z",
+    "answers": [
+      "Tabeli Frankfurckiej.",
+      "Tabeli Moskiewskiej.",
+      "Konwencji Montrealskiej",
+      "Konwencji Madryckiej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 229,
+    "text": "Biuro podróży może zastosować strategię dystrybucji poprzez",
+    "answers": [
+      "wprowadzenie programu lojalnościowego.",
+      "rozwijanie sieci agentów turystycznych.",
+      "wprowadzanie ofert produktów spełniających oczekiwania klientów.",
+      "wynegocjowanie atrakcyjnych cen produktów turystycznych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 230,
+    "text": "Którą kwotę należy wpisać na przedstawionym fragmencie faktury w pozycji Wartość usługi brutto w zł?",
+    "answers": [
+      "220,00 zł",
+      "203,00 zł",
+      "205,00 zł",
+      "210,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/tg15_faktura4.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 231,
+    "text": "Bilet promowy z Nicei do Ankony umożliwia podróż",
+    "answers": [
+      "z Francji do Włoch.",
+      "z Grecji do Albanii.",
+      "z Włoch do Chorwacji.",
+      "z Hiszpanii do Portugalii."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 232,
+    "text": "Przejeżdżając przez które województwo podróżny napotka zamieszczony znak drogowy?",
+    "answers": [
+      "Opolskie.",
+      "Śląskie.",
+      "Małopolskie.",
+      "Dolnośląskie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_znak11.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 233,
+    "text": "Podstawą opodatkowania podatkiem VAT w przypadku imprez turystycznych jest",
+    "answers": [
+      "prowizja dla agenta turystycznego określona w umowie agencyjnej.",
+      "kwartalny zysk touroperatora.",
+      "roczny obrót organizatora turystyki.",
+      "kwota marży biura podróży pomniejszona o kwotę należnego podatku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 234,
+    "text": "Referent biura podróży przygotował przedstawiony formularz, który pełni rolę",
+    "answers": [
+      "karty rozliczeniowej.",
+      "tabeli do kalkulacji imprezy.",
+      "zestawienia marży biura podróży.",
+      "zestawienia nakładów i wpływów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_formularz.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 235,
+    "text": "Który instrument promocji stosuje biuro podróży, jeżeli w lipcu oferuje stałym klientom 5% rabatu przy zakupie imprez turystycznych?",
+    "answers": [
+      "Public relations.",
+      "Marketing bezpośredni.",
+      "Sprzedaż osobistą.",
+      "Promocję sprzedaży."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 236,
+    "text": "Pracownik biura podroży może obserwować reakcję klienta oraz dodatkowo analizować jego potrzeby i oczekiwania podczas sprzedaży",
+    "answers": [
+      "osobistej.",
+      "wysyłkowej.",
+      "telefonicznej.",
+      "internetowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 237,
+    "text": "Z którego serwisu internetowego skorzysta turysta szukając opinii o najpopularniejszych atrakcjach turystycznych, hotelach i restauracjach?",
+    "answers": [
+      "Booking.",
+      "Kayak.",
+      "TripAdvisor.",
+      "Travelocity."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 238,
+    "text": "W celu promocji oferty katalogowej oraz nawiązania kontaktów biznesowych, przedsiębiorstwo turystyczne powinno brać udział",
+    "answers": [
+      "w kongresach.",
+      "w szkoleniach.",
+      "w targach.",
+      "w konferencjach."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 239,
+    "text": "Przedstawioną ilustrację należy wykorzystać w materiałach promujących wycieczkę do",
+    "answers": [
+      "Nepalu.",
+      "Chin.",
+      "Indii.",
+      "Turcji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_ilustracja.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 240,
+    "text": "Ile wynosi wykazana na fakturze wartość netto usługi przewodnika turystycznego, jeżeli wartość brutto to 800,00 zł?",
+    "answers": [
+      "650,41 zł",
+      "984,00 zł",
+      "616,00 zł",
+      "757,68 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 241,
+    "text": "Polskie biuro podróży sprzedaje krajowe imprezy turystyczne na terenie Niemiec za pośrednictwem",
+    "answers": [
+      "sieci niemieckich agentów.",
+      "Niemieckiej Organizacji Turystycznej.",
+      "Polskiej Izby Turystyki.",
+      "Polskiej Organizacji Turystycznej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 242,
+    "text": "Które z wymienionych atrakcji turystycznych powinny być zawarte w ofercie wycieczki do stolicy Czech?",
+    "answers": [
+      "Hradczany i Mala Strana.",
+      "Parlament i Most Łańcuchowy.",
+      "Reichstag i Muzeum Pergamońskie.",
+      "Muzeum Prado i Pałac Królewski."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 243,
+    "text": "Materiały reklamowe którego województwa zawierają przedstawione logo?",
+    "answers": [
+      "Świętokrzyskiego.",
+      "Łódzkiego.",
+      "Podlaskiego.",
+      "Mazowieckiego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_logo2.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 244,
+    "text": "W którym kraju odbędzie się impreza turystyczna, jeżeli biuro podróży informuje turystów, że w programie będą zwiedzać Jeziora Plitwickie?",
+    "answers": [
+      "Bułgarii.",
+      "Chorwacji.",
+      "Rumunii.",
+      "Słowenii."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 245,
+    "text": "Którą strategię marketingową wprowadziło biuro rozszerzając swoją ofertę o wyjazdy dla studentów?",
+    "answers": [
+      "Strategię rozwoju rynku.",
+      "Strategię dywersyfikacji.",
+      "Strategię koncentracji.",
+      "Strategię penetracji rynku."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 246,
+    "text": "Klient wykupił w biurze podróży wczasy dla 2 osób do Bułgarii. Biuro udzieliło mu rabatu w wysokości 15% od ceny wycieczki wynoszącej 2 650,00 zł od osoby. Turysta zaoszczędził",
+    "answers": [
+      "353,50 zł",
+      "1 192,50 zł",
+      "397,50 zł",
+      "795,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 247,
+    "text": "W której walucie turysta kupi bilet do muzeum w Pradze?",
+    "answers": [
+      "Euro.",
+      "Forintach.",
+      "Koronach czeskich.",
+      "Hrywnach."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 248,
+    "text": "Przedstawiony fragment druku dokumentu to",
+    "answers": [
+      "paragon korygujący.",
+      "faktura proforma.",
+      "nota korygująca.",
+      "faktura korygująca."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_druk2.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 249,
+    "text": "Biuro podróży zobowiązane jest wystawić fakturę za sprzedaż imprezy turystycznej nie później niż",
+    "answers": [
+      "5. dnia miesiąca następującego po miesiącu, w którym świadczono usługę.",
+      "10. dnia miesiąca następującego po miesiącu, w którym świadczono usługę.",
+      "15. dnia miesiąca następującego po miesiącu, w którym świadczono usługę.",
+      "20. dnia miesiąca następującego po miesiącu, w którym świadczono usługę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 250,
+    "text": "Jeżeli rozliczeniem imprez i usług turystycznych zajmuje się zewnętrzne biuro księgowe, to biuro podróży współpracuje z nim na zasadach",
+    "answers": [
+      "outsourcingu.",
+      "bookingu.",
+      "timesharingu.",
+      "overbookingu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 251,
+    "text": "Za pośrednictwem strony internetowej http://www.polska.travel/pl/ można zarezerwować usługi",
+    "answers": [
+      "ubezpieczeniowe.",
+      "przewodnickie.",
+      "noclegowe.",
+      "transportowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 252,
+    "text": "Korzystając z infolinii Polskiej Organizacji Turystycznej można uzyskać informacje w języku polskim oraz",
+    "answers": [
+      "niemieckim i rosyjskim.",
+      "angielskim i rosyjskim.",
+      "francuskim i hiszpańskim.",
+      "angielskim i niemieckim."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 253,
+    "text": "Oblicz kwotę marży brutto, jeżeli koszty wycieczki krajowej wyniosły 6 538,50 zł, a wpływy 7 000,00 zł.",
+    "answers": [
+      "161,00 zł",
+      "461,50 zł",
+      "492,00 zł",
+      "653,80 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 254,
+    "text": "Wystawienie którego dokumentu nie powoduje skutków podatkowo-księgowych?",
+    "answers": [
+      "Faktury końcowej.",
+      "Faktury zaliczkowej.",
+      "Faktury pro forma.",
+      "Faktury prowizyjnej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 255,
+    "text": "Który dokument wystawi pracownik biura podróży turyście, jeżeli wpłacił zaliczkę gotówką za wycieczkę objazdową po Tajlandii?",
+    "answers": [
+      "Dowód KP.",
+      "Voucher hotelowy.",
+      "Dowód KW.",
+      "Raport kasowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 256,
+    "text": "Terminal POS stosowany jest, gdy za usługi turystyczne klient płaci",
+    "answers": [
+      "czekiem.",
+      "czekiem podróżnym.",
+      "voucherem.",
+      "kartą płatniczą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 257,
+    "text": "Bilet rabatowy standby sprzedawany jest przed startem samolotu i pod warunkiem",
+    "answers": [
+      "posiadania tylko bagażu podręcznego.",
+      "dostępności wolnych miejsc.",
+      "uczestnictwa w programie lojalnościowym.",
+      "wykupienia podróży tam i z powrotem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 258,
+    "text": "System rezerwacyjny AFerry.pl pozwala na zakup biletów",
+    "answers": [
+      "lotniczych.",
+      "autokarowych.",
+      "kolejowych.",
+      "promowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 259,
+    "text": "Biuro podróży w nowym sezonie rozszerzyło swoją ofertę o wczasy na Cyprze, tym samym zastosowało strategię",
+    "answers": [
+      "ceny.",
+      "dystrybucji.",
+      "promocji.",
+      "produktu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 260,
+    "text": "Z umowy zawartej pomiędzy organizatorem a pilotem wynika, że za każdy dzień obsługi imprezy turystycznej w terminie od 10.10 do 17.10.2019 r. otrzyma on wynagrodzenie w kwocie 220,00 zł brutto. Ile wyniesie wynagrodzenie brutto pilota?",
+    "answers": [
+      "1 980,00 zł",
+      "1 320,00 zł",
+      "1 540,00 zł",
+      "1 760,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 261,
+    "text": "Który z elementów należy umieścić w katalogu ofertowym biura podróży?",
+    "answers": [
+      "Warunki uczestnictwa w imprezie turystycznej.",
+      "Ceny usług, na podstawie których skalkulowano imprezę turystyczną.",
+      "Aktualną prognozę pogody w różnych regionach świata.",
+      "Kwotę VAT marży, należnej z konkretnej imprezy turystycznej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 262,
+    "text": "Który fragment umowy przedstawiono w ramce?",
+    "answers": [
+      "O dzieło.",
+      "Agencyjnej.",
+      "Zlecenia.",
+      "Sprzedaży."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_umowa5.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 263,
+    "text": "Usługa transportowa autokarem poza Polską",
+    "answers": [
+      "opodatkowana jest w innych krajach UE stawką 7%.",
+      "zwolniona jest z opodatkowania.",
+      "nie podlega opodatkowaniu w Polsce.",
+      "opodatkowana jest stawką 23%."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 264,
+    "text": "Jednym z dokumentów będących podstawą do rozliczenia finansowego imprezy turystycznej jest",
+    "answers": [
+      "eurolista.",
+      "zlecenie obsługi wycieczki.",
+      "karta embarkacyjna.",
+      "rachunek za usługi pilota wycieczek."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 265,
+    "text": "Klient w dniu 20.05.2019 r. wykupił w biurze podróży wczasy do Hiszpanii w terminie od 1.08 do 15.08.2019 r. i wpłacił zaliczkę. Do kiedy najpóźniej zobowiązany jest dopłacić pozostałą kwotę zgodnie z zapisem w przedstawionym fragmencie umowy?",
+    "answers": [
+      "3.07.2019 r.",
+      "2.07.2019 r.",
+      "1.07.2019 r.",
+      "4.07.2019 r."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/t14_umowa6.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 266,
+    "text": "Jednostkom informacji turystycznej w Polsce, zgodnie z wymogami certyfikacyjnymi, nadaje się kategorie oznaczane",
+    "answers": [
+      "gwiazdkami.",
+      "cyframi arabskimi.",
+      "cyframi rzymskimi.",
+      "słoneczkami."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 267,
+    "text": "Tabelę Frankfurcką podróżny wykorzysta do",
+    "answers": [
+      "rezerwacji usługi w obiekcie noclegowym.",
+      "zakupu usługi międzynarodowego transportu autokarowego.",
+      "zawarcia umowy ubezpieczenia od kosztów rezygnacji z imprezy turystycznej.",
+      "oszacowania wysokości odszkodowania w razie niewłaściwego wykonania usług turystycznych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 268,
+    "text": "Oblicz cenę jednostkową netto prowizji dla agenta turystycznego, który wystawił fakturę dla organizatora na kwotę 240,00 zł brutto za dwa sprzedane miejsca.",
+    "answers": [
+      "97,56 zł",
+      "120,00 zł",
+      "44,88 zł",
+      "195,12 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 269,
+    "text": "Infolinia turystyczna Polskiej Organizacji Turystycznej funkcjonuje pod nazwą",
+    "answers": [
+      "Touristic Center.",
+      "Contact Center.",
+      "Touristic Information.",
+      "Call Information."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 270,
+    "text": "Touroperator poszerzył ofertę wczasów wypoczynkowych o nowe obiekty noclegowe w ramach",
+    "answers": [
+      "rozwoju produktu.",
+      "segmentacji.",
+      "rozwoju rynku.",
+      "dystrybucji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 271,
+    "text": "Wskaż administratora Internetowego Systemu Informacji Turystycznej.",
+    "answers": [
+      "Państwowa Organizacja Turystyki.",
+      "Państwowa Organizacja Turystyczna.",
+      "Polska Organizacja Turystyczna.",
+      "Polska Organizacja Turystyki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 272,
+    "text": "Faktura, która zostanie wystawiona dla touroperatora przez restauratora w dniu 26.05.2020 r. zawiera w swojej treści siedmiodniowy termin płatności, co oznacza obowiązek zapłaty za usługi najpóźniej do dnia",
+    "answers": [
+      "02.06.2020 r.",
+      "01.06.2020 r.",
+      "03.06.2020 r.",
+      "04.06.2020 r."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 273,
+    "text": "Który sposób sprzedaży imprezy turystycznej powinien wybrać organizator turystyki, chcąc najlepiej rozpoznać potrzeby klientów?",
+    "answers": [
+      "Bezpośredni.",
+      "Telefoniczny.",
+      "Pośredni.",
+      "Internetowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 274,
+    "text": "Na podstawie danych przedstawionych w tabeli oblicz wartość brutto zamówionych przez touroperatora materiałów promujących jego działalność, które wzbogacą stanowisko przygotowane przez przedsiębiorcę podczas targów turystycznych.",
+    "answers": [
+      "10 125,00 zł",
+      "2 357,50 zł",
+      "12 607,50 zł",
+      "4 500,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/tg15_tabela3.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 275,
+    "text": "Niezbędnym elementem umowy agencyjnej jest",
+    "answers": [
+      "podpis pilota wycieczek.",
+      "podanie danych uczestników imprezy turystycznej.",
+      "określenie ceny imprezy turystycznej.",
+      "określenie stron umowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 276,
+    "text": "Oblicz kwotę podatku VAT, który zostanie naliczony na fakturze wystawionej przez pilota wycieczek.",
+    "answers": [
+      "81,30 zł",
+      "287,50 zł",
+      "57,50 zł",
+      "233,74 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/tg15_faktura3.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 277,
+    "text": "Przedstawiony na rysunku znak, zamieszczony przy drodze, dotyczy",
+    "answers": [
+      "informacji o obiektach turystycznych.",
+      "kierunku do obiektów turystycznych.",
+      "samochodowego szlaku turystycznego.",
+      "obiektu na samochodowym szlaku turystycznym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/tg15_znak.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 278,
+    "text": "Wynagrodzenie brutto wychowawcy obozu odbywającego się w terminie 01-14.02.2020 r. przy dziennej stawce 135,00 zł brutto za dzień, wyniesie",
+    "answers": [
+      "1 755,00 zł",
+      "1 620,00 zł",
+      "2 025,00 zł",
+      "1 890,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 279,
+    "text": "W którym województwie Polski turysta może zobaczyć najwięcej obiektów wpisanych na Listę Światowego Dziedzictwa UNESCO?",
+    "answers": [
+      "Podlaskim.",
+      "Wielkopolskim.",
+      "Małopolskim.",
+      "Mazowieckim."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 280,
+    "text": "Klient biura podroży, który kupując wycieczkę w cenie 3 680,00 zł skorzystał z 25% rabatu. Udzielony rabat wynosił",
+    "answers": [
+      "2 760,00 zł",
+      "552,00 zł",
+      "276,00 zł",
+      "920,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 281,
+    "text": "Z przedstawionego fragmentu umowy agencyjnej wynika, że należność za sprzedaną przez Agenta imprezę na 5 dni przed terminem jej rozpoczęcia, powinna wpłynąć do Organizatora w ciągu",
+    "answers": [
+      "5 dni roboczych od daty złożenia potwierdzonej rezerwacji.",
+      "3 dni od dokonania rezerwacji.",
+      "10 godzin od dokonania rezerwacji.",
+      "24 godzin od daty złożenia potwierdzonej rezerwacji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/tg15_umowa2.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 282,
+    "text": "Który kraj odwiedził turysta, jeżeli jedną z poznanych przez niego atrakcji był Błękitny Meczet?",
+    "answers": [
+      "Macedonię.",
+      "Turcję.",
+      "Bułgarię.",
+      "Rumunię."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 283,
+    "text": "Współpraca organizatora turystyki i agenta turystycznego wymaga zawarcia umowy",
+    "answers": [
+      "o dzieło.",
+      "agencyjnej.",
+      "zlecenia.",
+      "o pracę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 284,
+    "text": "Oblicz kwotę wartości netto usługi przewodnickiej.",
+    "answers": [
+      "138,00 zł",
+      "100,00 zł",
+      "738,00 zł",
+      "600,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/tg15_faktura2.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 285,
+    "text": "Biuro podróży organizując objazdową wycieczkę do Chorwacji Bałkańskie Skarby, ma obowiązek zapewnić jej uczestnikom ubezpieczenie NNW oraz",
+    "answers": [
+      "SS",
+      "KL",
+      "BP",
+      "OC"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 286,
+    "text": "Która oferta dotyczy sprzedaży wycieczek turystycznych z dużym, często kilkumiesięcznym wyprzedzeniem?",
+    "answers": [
+      "First minute.",
+      "Rack rate.",
+      "All inclusive.",
+      "Last minute."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 287,
+    "text": "Przy ustalaniu wysokości marży biura podróży, wydatki na zakup towarów i usług świadczonych dla bezpośredniej korzyści nabywcy będą uwzględniane wartościowo w ewidencjach jako kwoty",
+    "answers": [
+      "netto.",
+      "brutto.",
+      "bez podatku i z rabatem.",
+      "bez podatku i bez rabatu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 288,
+    "text": "Klient zapłacił za wycieczkę przy użyciu aplikacji mobilnej banku w telefonie i wpisał sześciocyfrowy kod obowiązkowy dla wybranego sposobu płatności, czyli skorzystał z systemu",
+    "answers": [
+      "Blik.",
+      "Dotpay.",
+      "Kod QR.",
+      "PayU."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 289,
+    "text": "Z przedstawionego fragmentu umowy – zgłoszenia wynika, że klient w drugim terminie płatności ma obowiązek uiścić kwotę w wysokości",
+    "answers": [
+      "2 576,00 zł",
+      "2 208,00 zł",
+      "3 312,00 zł",
+      "1 104,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/tg15_umowa.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 290,
+    "text": "Analizując fragment przedstawionej faktury korygującej należy wnioskować, że przyczyną przygotowania przez biuro podróży tego dokumentu był błąd",
+    "answers": [
+      "w całości kwoty należnej za imprezę.",
+      "w liczbie osób uczestniczących w imprezie.",
+      "w cenie należnej od jednego uczestnika.",
+      "w nazwie towaru lub usługi."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/tg15_faktura.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 291,
+    "text": "Korzystając z danych przedstawionych w tabeli oblicz kwotę podatku VAT.",
+    "answers": [
+      "1 626,83 zł",
+      "322,00 zł",
+      "261,79 zł",
+      "1 365,04 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/tg15_tabela.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 292,
+    "text": "Jeżeli w deklaracji podatkowej PIT-36 właściciel biura podróży wykazał przychód w kwocie 160 950,00 zł i koszty uzyskania przychodu w kwocie 85 000,00 zł, to dochód podatnika wyniósł",
+    "answers": [
+      "58 481,50 zł",
+      "93 418,50 zł",
+      "75 950,00 zł",
+      "17 468,50 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 293,
+    "text": "Kupując dla klienta bilet autokarowy, referent biura podróży powinien skorzystać z systemu",
+    "answers": [
+      "EuroElixir.",
+      "EuroTicket.",
+      "EccoTravel.",
+      "EuroPodróże."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 294,
+    "text": "Który instrument marketingu zastosował właściciel biura podróży, umieszczając na billboardzie informację oofercie wczasów?",
+    "answers": [
+      "Promocję.",
+      "Produkt.",
+      "Personel.",
+      "Dystrybucję."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 295,
+    "text": "Faktura procedura marży dla biur podróży jest dokumentem potwierdzającym sprzedaż wystawianym przez",
+    "answers": [
+      "przedsiębiorstwo gastronomiczne.",
+      "firmę świadczącą usługi transportowe.",
+      "organizatora imprezy turystycznej.",
+      "obiekt oferujący usługi noclegowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 296,
+    "text": "Z zamieszczonego paragonu za usługi hotelowe wynika, że wartość netto usługi parkingowej wyniosła",
+    "answers": [
+      "990,00 zł",
+      "36,59 zł",
+      "45,00 zł",
+      "804,88 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/tg15_paragon.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 297,
+    "text": "Wiedzę o walorach turystycznych regionu zdobytą podczas study tour po Małopolsce pracownicy biura turystycznego mogą wykorzystać, przygotowując wycieczki do",
+    "answers": [
+      "Gniezna, Poznania i Leszna.",
+      "Wieliczki, Nowego Sącza i Zakopanego.",
+      "Ustki, Łeby i Malborka.",
+      "Suwałk, Augustowa i Białegostoku."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 298,
+    "text": "Stosowane przez biuro podróży bony turystyczne są przykładem działań w ramach",
+    "answers": [
+      "product placement.",
+      "promocji sprzedaży.",
+      "promocji bezpośredniej.",
+      "public relations."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 299,
+    "text": "Który dokument wystawi pracownik biura podróży pilotowi wycieczek po przekazaniu mu zaliczki na nieprzewidziane wydatki podczas imprezy turystycznej?",
+    "answers": [
+      "Dowód wpłaty KP.",
+      "Raport fiskalny.",
+      "Raport kasowy.",
+      "Dowód wypłaty KW."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 300,
+    "text": "O atrakcyjności oferty wycieczki szkolnej świadczą",
+    "answers": [
+      "komfortowe warunki transportu.",
+      "wykwintne menu świadczonych usług gastronomicznych.",
+      "bogaty program i stosunkowo niska cena.",
+      "atrakcyjne miejsce noclegu i dużo czasu wolnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  },
+  {
+    "id": 301,
+    "text": "Przedstawiony we fragmencie przewodnika turystycznego opis dotyczy Szlaku",
+    "answers": [
+      "Orlich Gniazd.",
+      "Zamków Piastowskich.",
+      "Warowni Jurajskich.",
+      "Zamków Gotyckich."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt08/tg15_opis.png"
+    },
+    "category": "HGT.08"
+  },
+  {
+    "id": 302,
+    "text": "Jeżeli biuro podróży pomniejszy przychód ze sprzedaży imprezy o koszty usług świadczonych dla bezpośredniej korzyści turysty to obliczy",
+    "answers": [
+      "dochód brutto.",
+      "nakład netto.",
+      "marżę i podatek VAT.",
+      "podatek VAT."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.08"
+  }
+]
