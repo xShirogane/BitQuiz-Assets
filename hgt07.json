@@ -1,0 +1,3678 @@
+[
+  {
+    "id": 1,
+    "text": "Bazylika św. Franciszka i Bazylika św. Klary znajdują się",
+    "answers": [
+      "w Turynie.",
+      "w Lourdes.",
+      "w Fatimie.",
+      "w Asyżu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 2,
+    "text": "Kto powinien znajdować się na końcu grupy dzieci ze szkoły podstawowej podczas wędrówki na rajdzie pieszym?",
+    "answers": [
+      "Przewodnik turystyczny.",
+      "Zmęczony uczeń.",
+      "Pielęgniarka szkolna.",
+      "Opiekun grupy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 3,
+    "text": "Turystom poszukującym noclegu z całodziennym wyżywieniem, należy zaproponować pobyt",
+    "answers": [
+      "w pensjonacie.",
+      "w domu wycieczkowym.",
+      "w hostelu.",
+      "w schronisku młodzieżowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 4,
+    "text": "Którą zasadę zastosuje pilot wycieczek podczas obsługi imprezy turystycznej?",
+    "answers": [
+      "Ignorowanie zgłoszeń turystów o nierzetelnym świadczeniu usług.",
+      "Okazywanie zniecierpliwienia wobec uczestników podróży.",
+      "Przekazywanie informacji o innych uczestnikach podróży.",
+      "Świadczenie dyskretnej pomocy turystom z niepełnosprawnością."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 5,
+    "text": "Odległość w linii prostej między Sydney i Melbourne, zmierzona na mapie sporządzonej w skali 1 : 20 000 000, wynosi 3,5 cm. Oznacza to, że odległość między tymi miastami w rzeczywistości wynosi",
+    "answers": [
+      "175 km",
+      "525 km",
+      "700 km",
+      "350 km"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 6,
+    "text": "Pracownik Biura Podróży FUN zarezerwował dla podróżnego kolejowy bilet",
+    "answers": [
+      "ulgowy z miejscami do leżenia.",
+      "ulgowy z miejscami do siedzenia.",
+      "normalny z miejscami do leżenia.",
+      "normalny z miejscami do siedzenia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_bilet3.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 7,
+    "text": "Uczestnikom autokarowej pielgrzymki do Watykanu, należy przede wszystkim zapewnić ubezpieczenie",
+    "answers": [
+      "OC i AC.",
+      "kosztów rezygnacji z podróży.",
+      "NNW i KL.",
+      "kosztów ratownictwa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 8,
+    "text": "Klientowi zainteresowanemu wyjazdem typu city break, pracownik biura podróży powinien zaproponować",
+    "answers": [
+      "weekend w Atenach.",
+      "wczasy w Egipcie.",
+      "zieloną szkołę w Ojcowie.",
+      "wczasy pod gruszą w Beskidach."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 9,
+    "text": "Na Listę Światowego Dziedzictwa UNESCO w 2019 r. wpisano",
+    "answers": [
+      "Krzemionkowski region pradziejowego górnictwa krzemienia pasiastego.",
+      "Halę Stulecia we Wrocławiu.",
+      "Kopalnię rud ołowiu, srebra i cynku w Tarnowskich Górach.",
+      "Podziemia Rynku Głównego w Krakowie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 10,
+    "text": "Na podstawie danych w przedstawionej tabeli oblicz całkowitą cenę wycieczki krajowej, jeżeli marża bez podatku VAT stanowi 10% sumy kosztów.",
+    "answers": [
+      "9 207,00 zł",
+      "11 970,00 zł",
+      "10 107,00 zł",
+      "9 000,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_tabela36.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 11,
+    "text": "Obowiązkiem pilota wycieczek, zgodnie z Ustawą o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych, jest",
+    "answers": [
+      "sprawowanie nad klientami opieki w zakresie wynikającym z umowy.",
+      "udzielanie szczegółowych informacji z zakresu historii architektury.",
+      "prowadzenie turystów w górach z zastosowaniem specjalistycznego sprzętu.",
+      "zwracanie klientowi, w trakcie imprezy turystycznej, wpłat za niewykonane usługi."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 12,
+    "text": "Turysta, który wykupił ofertę typu OB, będzie mógł skorzystać w hotelu",
+    "answers": [
+      "tylko z wyżywienia.",
+      "z noclegu i śniadania.",
+      "tylko z noclegu.",
+      "z noclegu i dwóch posiłków."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 13,
+    "text": "Do kosztów stałych imprezy turystycznej należą koszty",
+    "answers": [
+      "imprez fakultatywnych.",
+      "biletów wstępu.",
+      "pilotażu.",
+      "wyżywienia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 14,
+    "text": "Program konferencji należy rozpocząć od",
+    "answers": [
+      "podsumowania spotkania.",
+      "rejestracji uczestników.",
+      "wykładu inauguracyjnego.",
+      "przerwy kawowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 15,
+    "text": "Organizując przerwę kawową dla uczestników konferencji, należy",
+    "answers": [
+      "umieścić filiżanki z kawą na stołach konferencyjnych.",
+      "podać kawę podczas konferencji.",
+      "przygotować w holu serwis kawowy w formie bufetu.",
+      "umieścić automat do kawy w sali konferencyjnej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 16,
+    "text": "Przedstawione zamówienie pracownik biura podróży musi uzupełnić o informacje dotyczące",
+    "answers": [
+      "struktury grupy.",
+      "daty wystawienia zamówienia.",
+      "rodzaju zamawianego wyżywienia.",
+      "sposobu płatności."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_zamowienie7.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 17,
+    "text": "Oblicz koszt noclegu 6 osób w pokojach dwuosobowych w terminie od 14 do 17 września, jeżeli cena za pokój wynosi 150,00 zł/doba.",
+    "answers": [
+      "900,00 zł",
+      "3 600,00 zł",
+      "1 350,00 zł",
+      "1 800,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 18,
+    "text": "Kampinoski Park Narodowy to atrakcja turystyczna województwa",
+    "answers": [
+      "dolnośląskiego.",
+      "lubuskiego.",
+      "wielkopolskiego.",
+      "mazowieckiego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 19,
+    "text": "Atrakcją turystyczną Stanów Zjednoczonych Ameryki Północnej jest",
+    "answers": [
+      "Park Narodowy Yellowstone.",
+      "Machu Picchu.",
+      "Forum Romanum.",
+      "Wielka Rafa Koralowa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 20,
+    "text": "Których dokumentów nie gromadzi się w teczkach imprez turystycznych?",
+    "answers": [
+      "Polis.",
+      "Paszportów.",
+      "Voucherów.",
+      "Biletów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 21,
+    "text": "Wyjazdy turystyczne do Francji dla miłośników wina i winnic realizowane są w ramach",
+    "answers": [
+      "ekoturystyki.",
+      "biroturystyki.",
+      "fanoturystyki.",
+      "enoturystyki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 22,
+    "text": "Do turystycznych walorów antropogenicznych należą",
+    "answers": [
+      "głazy narzutowe.",
+      "wodospady.",
+      "muzea.",
+      "rezerwaty przyrody."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 23,
+    "text": "Z której mapy powinien skorzystać turysta, chcąc pieszo dokładnie zwiedzić niewielki obszar?",
+    "answers": [
+      "Geologicznej.",
+      "Samochodowej.",
+      "Administracyjnej.",
+      "Topograficznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 24,
+    "text": "Której niezbędnej informacji brakuje w przedstawionym zamówieniu?",
+    "answers": [
+      "Daty wystawienia dokumentu.",
+      "Terminu świadczenia usługi.",
+      "Liczebności grupy turystycznej.",
+      "Podpisu nadawcy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_zamowienie6.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 25,
+    "text": "Organizując objazdową imprezę turystyczną po winnicach Portugalii, należy skorzystać z usług miejscowego",
+    "answers": [
+      "barmana.",
+      "sommeliera.",
+      "baristy.",
+      "stewarda."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 26,
+    "text": "Której grupie turystów podróżujących po Bawarii, należy zaproponować udział w Oktoberfest?",
+    "answers": [
+      "Smakoszom serów.",
+      "Miłośnikom kwiatów.",
+      "Smakoszom piwa.",
+      "Miłośnikom folkloru."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 27,
+    "text": "Korzystając z przedstawionego koszyka świadczeń, oblicz koszt wycieczki na Teneryfę dla czterech przyjaciół, którzy przyjadą na lotnisko jednym samochodem.",
+    "answers": [
+      "9 337,68 zł",
+      "9 555,68 zł",
+      "9 282,68 zł",
+      "9 392,68 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_koszyk.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 28,
+    "text": "Oblicz koszt transportu autokarowego na trasie Kraków − Warszawa, podczas jednodniowej wycieczki szkolnej, jeżeli odległość pomiędzy miastami to 295 km, a stawka wynosi 4,00 zł/km.",
+    "answers": [
+      "2 360,00 zł",
+      "2 320,00 zł",
+      "1 200,00 zł",
+      "1 180,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 29,
+    "text": "Na podstawie przedstawionej kalkulacji ceny imprezy turystycznej, oblicz wysokość marży bez podatku VAT.",
+    "answers": [
+      "1 200,00 zł",
+      "1 476,00 zł",
+      "2 179,48 zł",
+      "1 840,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_tabela37.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 30,
+    "text": "Korzystając z przedstawionego rysunku spływu rzeką Wisłą, oblicz długość szlaku kajakowego od Włocławka do końca trasy.",
+    "answers": [
+      "270 km",
+      "630 km",
+      "710 km",
+      "670 km"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_mapa17.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 31,
+    "text": "Korzystając z tabeli kursów walut, oblicz w polskich złotych wartość kolacji dla 30-osobowej grupy turystów, za którą zapłacono 3 000 $.",
+    "answers": [
+      "13 380,00 zł",
+      "12 210,00 zł",
+      "12 120,00 zł",
+      "13 830,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_tabela34.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 32,
+    "text": "Zainteresowanym speleologią uczestnikom wycieczki w Tatry, należy zaproponować",
+    "answers": [
+      "wspinaczki górskie.",
+      "obserwowanie ptaków.",
+      "penetrowanie jaskiń.",
+      "zwiedzanie kopalni."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 33,
+    "text": "W którym regionie Polski znajduje się przedstawiony na rysunku Park Narodowy Gór Stołowych?",
+    "answers": [
+      "W Beskidzie Śląskim.",
+      "W Bieszczadach.",
+      "W Sudetach Środkowych.",
+      "W Tatrach."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_park.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 34,
+    "text": "Na przejazd autokarem trasy o długości 300 km, uwzględniając czas pracy kierowcy i średnią prędkość 60 km/godz. należy zaplanować",
+    "answers": [
+      "7 godzin.",
+      "5 godzin 45 minut.",
+      "8 godzin 45 minut.",
+      "4 godziny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 35,
+    "text": "Kosztem stałym w kalkulacji imprezy turystycznej w Pieninach jest koszt",
+    "answers": [
+      "biletów wstępu do zamku w Niedzicy.",
+      "obiadokolacji w karczmie w Szczawnicy.",
+      "biletów wstępu na zaporę wodną w Czorsztynie.",
+      "usług przewodnika po Pienińskim Parku Narodowym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 36,
+    "text": "Oblicz kwotę, którą zapłaci za zwiedzanie Błędnych Skał w Górach Stołowych czteroosobowa grupa biologów, podróżujących samochodem osobowym.",
+    "answers": [
+      "35,00 zł",
+      "49,00 zł",
+      "60,00 zł",
+      "73,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_tabela35.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 37,
+    "text": "Oblicz całkowitą cenę trzydniowej wycieczki młodzieży szkolnej do Gdańska, jeżeli suma kosztów bezpośrednich wynosi 15 000,00 zł, a marża bez podatku VAT stanowi 10% sumy kosztów.",
+    "answers": [
+      "16 620,00 zł",
+      "17 500,00 zł",
+      "16 845,00 zł",
+      "17 620,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 38,
+    "text": "Którą kwotę będzie musiał zapłacić pasażer samolotu, jeżeli oprócz 9-kilogramowego bagażu podręcznego przewozi bagaż rejestrowany o wadze 18 kg?",
+    "answers": [
+      "16 €",
+      "25 €",
+      "31 €",
+      "41 €"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_tabela33.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 39,
+    "text": "Planując udział podróżnych w największych na świecie targach turystycznych ITB, należy uwzględnić w programie wycieczki pobyt",
+    "answers": [
+      "w Bolonii.",
+      "w Berlinie.",
+      "w Bangkoku.",
+      "w Brukseli."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 40,
+    "text": "W programie wycieczki po województwie kujawsko-pomorskim można uwzględnić zwiedzanie",
+    "answers": [
+      "Twierdzy Boyen w Giżycku.",
+      "Złotej Bramy w Gdańsku.",
+      "Żywego Muzeum Piernika w Toruniu.",
+      "Zamku Krzyżackiego w Malborku."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 41,
+    "text": "Przygotowując program kolonii letniej nad jeziorem dla małych dzieci można uwzględnić",
+    "answers": [
+      "udział w zawodach wioślarskich.",
+      "przejazdy quadami wzdłuż brzegu.",
+      "naukę raftingu.",
+      "zabawy plenerowe nad wodą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 42,
+    "text": "Klient biura podróży chce zakupić jak najtańszy bilet autokarowy w dwie strony na trasie Bielsko-Biała – Londyn. Który z podanych w tabeli przewoźników, posiada najkorzystniejszą ofertę cenową?",
+    "answers": [
+      "FAST",
+      "EUROPA",
+      "TRAVEL",
+      "TRANSTOUR"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_ramka9.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 43,
+    "text": "Narciarskie szlaki zjazdowe oznakowane na mapie linią niebieską i czerwoną odpowiadają następującym stopniom trudności:",
+    "answers": [
+      "trudne i bardzo trudne.",
+      "łatwe i bardzo łatwe.",
+      "łatwe i bardzo trudne.",
+      "łatwe i trudne."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 44,
+    "text": "Przedstawiona oferta w systemie rezerwacyjnym nie dotyczy rezerwacji podróży",
+    "answers": [
+      "rodzinnej.",
+      "indywidualnej.",
+      "do luksusowych destynacji.",
+      "łączącej tydzień pobytu i tydzień objazdu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_oferta4.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 45,
+    "text": "Turystom zainteresowanym kuchnią hiszpańską pilot wycieczek może zaproponować",
+    "answers": [
+      "gazpacho.",
+      "suwlaki.",
+      "bliny.",
+      "ravioli."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 46,
+    "text": "Oferta hotelu obejmująca nocleg, pełne wyżywienie i korzystanie z dodatkowych usług w cenie pobytu, określana jest jako",
+    "answers": [
+      "all inclusive.",
+      "full board.",
+      "half board.",
+      "bed and breakfast."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 47,
+    "text": "W którym z wymienionych regionów organizator turystyki ma obowiązek zapewnienia opieki przewodnika sudeckiego?",
+    "answers": [
+      "Na Polesiu.",
+      "Na Kujawach.",
+      "W Karkonoszach.",
+      "W Tatrach."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 48,
+    "text": "W którym kraju znajdują się przedstawione na zdjęciu wapienne tarasy wpisane na listę UNESCO?",
+    "answers": [
+      "W Islandii.",
+      "W Finlandii.",
+      "W Grecji.",
+      "W Turcji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_tarasy2.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 49,
+    "text": "Organizując wycieczkę na narty dla rodziny z dziećmi, pracownik biura podróży powinien poinformować o obowiązku jazdy w kasku do",
+    "answers": [
+      "18 roku życia.",
+      "12 roku życia.",
+      "14 roku życia.",
+      "16 roku życia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 50,
+    "text": "Biuro podróży, które chce zapewnić uczestnikom noclegi na pokładzie autokaru podczas wycieczki objazdowej, powinno nawiązać współpracę z przewoźnikiem posiadającym",
+    "answers": [
+      "wotel.",
+      "rotel.",
+      "botel.",
+      "yotel."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 51,
+    "text": "Które działanie musi podjąć pracownik biura podróży organizujący zorbing dla uczestników wycieczki?",
+    "answers": [
+      "Wynająć motorówkę i deskę surfingową.",
+      "Zamówić wózek z kółkami.",
+      "Zorganizować plastikową deskę, piankowy kostium, kask i kamizelkę asekuracyjną.",
+      "Przygotować plastikową pneumatyczną kulę o średnicy ponad 3 m."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 52,
+    "text": "Jaką cenę biletu kolejowego należy podać turyście planującemu podróż pierwszą klasą pociągiem na trasie o długości 328 km?",
+    "answers": [
+      "160,50 zł",
+      "135,00 zł",
+      "173,00 zł",
+      "150,60 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_tabela30.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 53,
+    "text": "Oblicz cenę jednostkową krajowej imprezy turystycznej, zaokrąglając ją do pełnych złotych w górę, przy założeniu, że grupa liczy 40 osób płacących.",
+    "answers": [
+      "1 353,00 zł",
+      "1 664,00 zł",
+      "1 382,00 zł",
+      "1 512,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_tabela29.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 54,
+    "text": "Biuro podróży zakupiło w hotelu 50 miejsc na 60 dni w cenie 40,00 zł za nocleg. Ile wyniesie przyjmowany do kalkulacji łączny koszt noclegu, przy założeniu ryzyka czarteru 20%?",
+    "answers": [
+      "80,00 zł",
+      "32,00 zł",
+      "50,00 zł",
+      "48,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 55,
+    "text": "Które działania w pierwszej kolejności powinien podjąć pilot wycieczek w przypadku utraty przytomności uczestnika wycieczki?",
+    "answers": [
+      "Powiadomić rodzinę.",
+      "Powiadomić organizatora imprezy.",
+      "Wezwać policję.",
+      "Udzielić pierwszej pomocy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 56,
+    "text": "Galileo to turystyczny system rezerwacyjny o zasięgu",
+    "answers": [
+      "europejskim.",
+      "krajowym.",
+      "lokalnym.",
+      "globalnym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 57,
+    "text": "Którą drogę oznacza się przedstawionym znakiem?",
+    "answers": [
+      "Wojewódzką.",
+      "Międzynarodową.",
+      "Powiatową.",
+      "Europejską."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_znak2.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 58,
+    "text": "Szymbark z atrakcją turystyczną przedstawioną na zdjęciu, położony jest na obszarze",
+    "answers": [
+      "Warmii.",
+      "Mazur.",
+      "Kaszub.",
+      "Pomorza."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_atrakcja.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 59,
+    "text": "Który układ rozmieszczenia rozmówców jest najkorzystniejszy podczas rozmowy pracownika biura podróży z klientem, zgodnie z zasadami komunikacji niewerbalnej?",
+    "answers": [
+      "Układ 4.",
+      "Układ 3.",
+      "Układ 1.",
+      "Układ 2."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_uklady2.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 60,
+    "text": "Oblicz całkowity koszt biletów wstępu do zwiedzanych atrakcji turystycznych na podstawie zamieszczonych danych.",
+    "answers": [
+      "130,00 zł",
+      "160,00 zł",
+      "140,00 zł",
+      "120,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_tabela28.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 61,
+    "text": "Trzy rodziny czteroosobowe planują 05 marca 2022 r., w trakcie zorganizowanej przez biuro podroży wycieczki do Krakowa, zwiedzić możliwie najwcześniej Muzeum Podziemia Rynku. Na podstawie zamieszczonego grafiku rezerwacji on-line określ, na którą godzinę należy zarezerwować wejście do muzeum dla tej grupy.",
+    "answers": [
+      "11:15",
+      "10:15",
+      "11:45",
+      "13:45"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_tabela32.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 62,
+    "text": "Który rodzaj dodatkowego ubezpieczenia należy zaproponować klientowi zamierzającemu uczyć się jazdy na nartach i obawiającemu się ryzyka uszkodzenia sprzętu innym użytkownikom stoku?",
+    "answers": [
+      "OC",
+      "AC",
+      "KL",
+      "NNW"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 63,
+    "text": "Organizator turystyki z góry zapłacił za wynajem pokojów w hotelu, bez możliwości bezkosztowej rezygnacji, na podstawie umowy",
+    "answers": [
+      "franchisingu.",
+      "czarteru.",
+      "leasingu.",
+      "allotmentu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 64,
+    "text": "Który dokument sporządza się w celu potwierdzenia dokonanej przez organizatora turystyki rezerwacji miejsc w hotelu?",
+    "answers": [
+      "Voucher.",
+      "Kartę rozliczeniową.",
+      "Rachunek.",
+      "Fakturę – procedura marży dla biur podróży."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 65,
+    "text": "Zamieszczony fragment dokumentu dotyczy umowy",
+    "answers": [
+      "zlecenia pilota wycieczek.",
+      "o świadczenie usługi żywieniowej.",
+      "o udział w imprezie turystycznej.",
+      "ubezpieczenia na czas wycieczki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_umowa.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 66,
+    "text": "Który brakujący element programu konferencji należy wpisać w wierszach Przedziału czasu w godzinach 11.00 – 11.30 oraz 17.30 – 18.00?",
+    "answers": [
+      "Prezentacja rezultatów warsztatów.",
+      "Lunch.",
+      "Przerwa kawowa.",
+      "Czas wolny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_tabela27.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 67,
+    "text": "Który element wyposażenia sali konferencyjnej, przedstawiony na zdjęciu, należy zapewnić klientowi zgłaszającemu w zamówieniu zapotrzebowanie na tablicę sucho ścieralną z powierzchnią magnetyczną?",
+    "answers": [
+      "Tablicę elektromagnetyczną.",
+      "Flipchart.",
+      "Clipchart.",
+      "Ekran magnetyczny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_element.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 68,
+    "text": "Który dokument jest sporządzany podczas przygotowania imprezy turystycznej?",
+    "answers": [
+      "Rozliczenie funduszu awaryjnego.",
+      "Lista uczestników imprezy.",
+      "Sprawozdanie merytoryczne pilota wycieczek.",
+      "Zestawienie wpływów i kosztów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 69,
+    "text": "Którą z podanych potraw można zaproponować turystom na diecie wegetariańskiej?",
+    "answers": [
+      "Kwaśnicę.",
+      "Mousakę.",
+      "Polentę.",
+      "Kaszankę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 70,
+    "text": "Po maksymalnie ilu godzinach jazdy autokarem, ze względu na czas pracy kierowcy należy zaplanować na wycieczce przerwę w podróży?",
+    "answers": [
+      "2,5",
+      "4",
+      "3",
+      "4,5"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 71,
+    "text": "Na podstawie zamieszczonej tabeli, określ rodzaj ubezpieczenia dla klienta, który oprócz obowiązkowego ubezpieczenia turystycznego, zamierza ubezpieczyć deskę do surfingu, nie ponosząc jednocześnie kosztów wyższych niż 120,00 zł.",
+    "answers": [
+      "Xlarge.",
+      "Large.",
+      "Medium.",
+      "Small."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_tabela31.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 72,
+    "text": "Która postawa ciała pracownika biura podróży ułatwia nawiązanie kontaktu z klientem?",
+    "answers": [
+      "Postawa 2.",
+      "Postawa 4.",
+      "Postawa 1.",
+      "Postawa 3."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_postawy2.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 73,
+    "text": "Na podstawie przedstawionych kart menu, na obiad dla grupy ortodoksyjnych Żydów, należy wybrać",
+    "answers": [
+      "Restaurację Creme.",
+      "Restaurację Deborah.",
+      "Restaurację Sława.",
+      "Restaurację Staropolanka."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_karty2.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 74,
+    "text": "W programie wycieczki objazdowej, racjonalnie zaplanowany czas od śniadania do kolacji, powinien wynosić maksymalnie",
+    "answers": [
+      "10 godzin.",
+      "15 godzin.",
+      "13 godzin.",
+      "14 godzin."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 75,
+    "text": "Który z podanych rodzajów turystyki powinno się zaproponować grupie młodzieży planującej, możliwie tanim kosztem, podróżowanie o charakterze poznawczym po Nepalu?",
+    "answers": [
+      "Trekking.",
+      "Survival.",
+      "Karawaning.",
+      "Tramping."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 76,
+    "text": "Który rodzaj biletu na przejazd w dwie strony, uprawnia do wyjazdu powrotnego, w terminie wybranym przez podróżnego w okresie ważności biletu?",
+    "answers": [
+      "Datowany.",
+      "Otwarty.",
+      "Zamknięty.",
+      "Jednostronny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 77,
+    "text": "Dokąd pilot wycieczek może udać się obsługując wycieczkę turystów zainteresowanych enoturystyką?",
+    "answers": [
+      "Na koncert.",
+      "Do winiarni.",
+      "Na wystawę malarstwa.",
+      "Do miejsc tragedii."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 78,
+    "text": "Oblicz kwotę, którą zapłaci biuro podróży za wynajem autokaru przy ustalonej z przewoźnikiem stawce za 1 km równej 4,00 zł i limicie dziennym 360 km, jeżeli w ciągu dwóch dni autokar przejechał 700 km.",
+    "answers": [
+      "1 400,00 zł",
+      "2 800,00 zł",
+      "1 520,00 zł",
+      "2 880,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 79,
+    "text": "Rodzinie, która zamierza spędzić wczasy nocując w namiocie, w ogrodzonym i strzeżonym obiekcie hotelarskim, można zaproponować świadczenia noclegowe",
+    "answers": [
+      "na campingu.",
+      "w marinie.",
+      "na polu namiotowym.",
+      "na polu biwakowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 80,
+    "text": "Co powinien zrobić organizator turystyki, jeżeli podczas wycieczki uczestnik zrezygnował z przejazdu kolejką uwzględnionego w umowie o udział w imprezie turystycznej?",
+    "answers": [
+      "Zagwarantować świadczenie zastępcze.",
+      "Zaproponować inne świadczenie w tej samej cenie.",
+      "Zwrócić klientowi koszt biletu.",
+      "Zachować ustaloną w umowie cenę imprezy turystycznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 81,
+    "text": "Na podstawie zamieszczonej mapy spływu rzeką Wisłą, oblicz długość szlaku kajakowego od Włocławka do Gdańska.",
+    "answers": [
+      "630 km",
+      "270 km",
+      "670 km",
+      "710 km"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_mapa16.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 82,
+    "text": "Oblicz wartość brutto usługi cateringowej dla 120 osób, jeżeli cena brutto posiłku wynosi 30,00 zł/os. i uwzględniono rabat o wartości pięciu bezpłatnych posiłków.",
+    "answers": [
+      "3 540,00 zł",
+      "3 600,00 zł",
+      "3 000,00 zł",
+      "3 450,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 83,
+    "text": "W programie targów ENOEXPO należy uwzględnić przede wszystkim",
+    "answers": [
+      "pokaz strojów ludowych.",
+      "degustację win z różnych zakątków świata.",
+      "ekspozycję dewocjonaliów.",
+      "prelekcję na temat aktywności seniorów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 84,
+    "text": "Muzeum Początków Państwa Polskiego znajduje się",
+    "answers": [
+      "w Warszawie.",
+      "w Krakowie.",
+      "w Gnieźnie.",
+      "w Biskupinie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 85,
+    "text": "Korzystając z zamieszczonej oferty pobranej z portalu turystycznego oblicz koszt wycieczki dla dwóch osób do ojczyzny Hipokratesa i mitycznych Bogów.",
+    "answers": [
+      "1 669,00 zł",
+      "5 096,00 zł",
+      "2 548,00 zł",
+      "3 338,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_oferta3.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 86,
+    "text": "Ubezpieczenie kosztów leczenia należy zaproponować turyście planującemu",
+    "answers": [
+      "wycieczkę objazdową po Grecji.",
+      "pobyt w uzdrowisku w Kołobrzegu.",
+      "spływ kajakowy na Mazurach.",
+      "wspinaczkę górską w Tatrach."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 87,
+    "text": "Które posiłki w hotelu należy zaproponować uczestnikom konferencji zorganizowanej od godz. 1300 w dniu 25.06.2021 r. do godz. 1600 w dniu 26.06.2021 r.?",
+    "answers": [
+      "2 obiady, kolację i śniadanie.",
+      "2 obiady, 2 kolacje i 2 śniadania.",
+      "2 kolacje, śniadanie i obiad.",
+      "2 kolacje, 2 śniadania i obiad."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 88,
+    "text": "Który rodzaj turystyki należy zaproponować turystom wypoczywającym na duńskiej wyspie Bornholm?",
+    "answers": [
+      "Górską.",
+      "Polarną.",
+      "Jaskiniową.",
+      "Rowerową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 89,
+    "text": "Z której strony internetowej można skorzystać, aby zarezerwować bilety lotnicze on-line?",
+    "answers": [
+      "www.skipo.pl",
+      "www.esky.pl",
+      "www.intercity.pl",
+      "www.sindbad.pl"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 90,
+    "text": "Dokąd powinna udać się grupa turystów zainteresowanych enoturystyką?",
+    "answers": [
+      "Na wystawę malarstwa.",
+      "Do winnicy.",
+      "Do muzeum owadów.",
+      "Na koncert."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 91,
+    "text": "Oblicz rzeczywistą odległość między miejscowościami, jeżeli na mapie w skali 1:300 000 wynosi ona 6 cm.",
+    "answers": [
+      "18 km",
+      "180 km",
+      "5 km",
+      "50 km"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 92,
+    "text": "Oblicz, koszt noclegów 6 osób w pokojach dwuosobowych w terminie od 14 do 17 maja, jeżeli cena brutto za pokój wynosi 100,00 zł.",
+    "answers": [
+      "900,00 zł",
+      "600,00 zł",
+      "1 200,00 zł",
+      "2 400,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 93,
+    "text": "Który dokument finansowy jest potwierdzeniem zwiedzania muzeum przez uczestników wycieczki?",
+    "answers": [
+      "Sprawozdanie pilota.",
+      "Faktura proforma.",
+      "Potwierdzenie zamówienia.",
+      "Faktura usługodawcy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 94,
+    "text": "Oblicz cenę jednostkową imprezy integracyjnej dla 32 pracowników firmy konsultingowej, jeżeli jej całkowita cena wynosi 13 000,00 zł.",
+    "answers": [
+      "433,34 zł",
+      "393,94 zł",
+      "382,35 zł",
+      "406,25 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 95,
+    "text": "Na podstawie danych zamieszczonych w tabeli oblicz cenę całkowitą krajowej imprezy turystycznej, jeżeli marża bez podatku VAT wynosi 10% kosztów świadczeń.",
+    "answers": [
+      "10 107,00 zł",
+      "9 000,00 zł",
+      "11 970,00 zł",
+      "9 207,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_tabela25.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 96,
+    "text": "Oblicz przybliżoną liczbę godzin, którą należy uwzględnić w programie wycieczki na przejazd i postoje autokaru, jeżeli pojazd porusza się ze średnią prędkością 60 kilometrów na godzinę, a odległość do miejsca zakwaterowania wynosi 300 kilometrów.",
+    "answers": [
+      "5",
+      "6",
+      "4",
+      "3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 97,
+    "text": "Której grupie turystów można zaproponować udział w opisanej grze zespołowej? Opis gry Rodzaj gry zespołowej polegającej na prowadzeniu pozorowanej walki przy użyciu markerów, urządzeń zbliżonych kształtem i zasadą działania do broni pneumatycznej, które za pomocą sprężonego powietrza lub dwutlenku węgla wyrzucają kolorowe żelowe kulki.",
+    "answers": [
+      "Uczestnikom wycieczki dla przedszkolaków.",
+      "Kuracjuszom uzdrowiska nadmorskiego.",
+      "Pracownikom firmy komputerowej.",
+      "Członkom uniwersytetu trzeciego wieku."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 98,
+    "text": "Których dokumentów nie gromadzi się w teczce imprezy?",
+    "answers": [
+      "Polisy.",
+      "Paszportów.",
+      "Biletów.",
+      "Vouchera."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 99,
+    "text": "Zamieszczony fragment dotyczy umowy",
+    "answers": [
+      "najmu.",
+      "dzierżawy.",
+      "czarteru.",
+      "agencyjnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_ramka8.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 100,
+    "text": "Do wyposażenia sali konferencyjnej należy między innymi przedstawiony na fotografii",
+    "answers": [
+      "flipchart.",
+      "wizualizer.",
+      "projektor.",
+      "baner."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_fotografia.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 101,
+    "text": "Kosztem zmiennym, związanym z organizacją trzydniowej wycieczki z Torunia do Warszawy, jest koszt",
+    "answers": [
+      "przewodnika po mieście.",
+      "opieki pilota wycieczek.",
+      "transportu wynajętym autokarem.",
+      "zakupu biletów do muzeum."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 102,
+    "text": "Wskaż błędną informację zawartą w zamieszczonym zamówieniu usług noclegowych i gastronomicznych.",
+    "answers": [
+      "Liczba zamówionych pokoi.",
+      "Sposób dokonania płatności.",
+      "Data wystawienia zamówienia.",
+      "Rodzaj oferowanego wyżywienia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_ramka7.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 103,
+    "text": "Organizując rejs jachtem należy zapewnić uczestnikom usługi",
+    "answers": [
+      "konsjerża.",
+      "sommeliera.",
+      "skippera.",
+      "rezydenta."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 104,
+    "text": "Uczestnikom wycieczki w Tatry zainteresowanym speleologią należy zaproponować",
+    "answers": [
+      "wspinaczki górskie.",
+      "zwiedzanie kopalni.",
+      "obserwowanie ptaków.",
+      "penetrowanie jaskiń."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 105,
+    "text": "Biuro podróży w stosunku do turysty, który wykupił udział w imprezie turystycznej, ma obowiązek",
+    "answers": [
+      "przekazać informację o zmianie godziny odjazdu autokaru.",
+      "przygotować propozycję tańszej oferty do tej samej destynacji.",
+      "informować na bieżąco o zmianach kursów walut.",
+      "przesłać potwierdzenie rezerwacji usług noclegowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 106,
+    "text": "Organizując przerwę kawową dla uczestników konferencji należy",
+    "answers": [
+      "w holu przygotować serwis kawowy w formie bufetu.",
+      "kawę serwować podczas konferencji.",
+      "filiżanki z kawą umieścić wcześniej na stołach konferencyjnych.",
+      "w sali konferencyjnej umieścić automat do kawy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 107,
+    "text": "Zamawiając usługi przewodnika miejskiego, pracownik biura podróży powinien pamiętać o podaniu informacji dotyczącej",
+    "answers": [
+      "miejsca spotkania z grupą.",
+      "kontaktu do kierowcy.",
+      "wykształcenia uczestników.",
+      "znaków rozpoznawczych autokaru."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 108,
+    "text": "Korzystając z programu Targów Turystycznych we Wrocławiu ustal, o której godzinie zaplanowano prezentację dla zainteresowanych zagranicznymi, niskobudżetowymi wędrówkami z plecakiem.",
+    "answers": [
+      "13.30",
+      "14.10",
+      "12.30",
+      "15.10"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_ramka6.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 109,
+    "text": "Co powinien zrobić przewoźnik w porozumieniu z organizatorem turystyki, jeżeli podczas przejazdu grupy do hotelu nastąpiła awaria autokaru wymagająca kilkugodzinnej naprawy?",
+    "answers": [
+      "Zaproponować uczestnikom dojazd we własnym zakresie na koszt biura podróży.",
+      "Przekazać grupie listę regionalnych przewoźników autokarowych.",
+      "Zapewnić grupie dojazd zastępczym środkiem transportu.",
+      "Przetransportować turystów dopiero po naprawie autokaru."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 110,
+    "text": "Oblicz koszt przejazdu 10 uczniów i nauczyciela pociągiem pośpiesznym ze stacji Warszawa Centralna do stacji Kraków Główny, uwzględniając zniżkę ustawową 37% dla uczniów i darmowy bilet dla opiekuna, jeżeli cena biletu normalnego w klasie 2 wynosi 66,00 zł.",
+    "answers": [
+      "310,20 zł",
+      "415,80 zł",
+      "481,80 zł",
+      "660,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 111,
+    "text": "Co powinien zrobić pilot wycieczek, jeżeli w momencie rozpoczęcia odprawy na lotnisku okazało się, że jeden z dorosłych uczestników wycieczki do Pekinu zapomniał paszportu i posiada tylko dowód osobisty?",
+    "answers": [
+      "Pozostawić uczestnika na lotnisku.",
+      "Poczekać na dostarczenie paszportu.",
+      "Przebukować lot dla całej grupy na następny dzień.",
+      "Przygotować grupę do odprawy bez paszportów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 112,
+    "text": "Wskaż atrakcję turystyczną Poznania.",
+    "answers": [
+      "Krzywy Domek.",
+      "Afrikarium.",
+      "Planetarium.",
+      "Ostrów Tumski."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 113,
+    "text": "Jednym z głównych zadań pilota wycieczek jest",
+    "answers": [
+      "sporządzanie posiłków w trakcie wycieczki.",
+      "przeprowadzenie zajęć animacji z małymi dziećmi.",
+      "dbanie o realizację programu imprezy.",
+      "opieka nad młodzieżą na kąpielisku strzeżonym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 114,
+    "text": "Której grupie turystów podróżujących po Bawarii należy, w czasie wolnym od zwiedzania, zaproponować udział w Oktoberfest?",
+    "answers": [
+      "Smakoszom serów.",
+      "Smakoszom piwa.",
+      "Miłośnikom kwiatów.",
+      "Miłośnikom folkloru."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 115,
+    "text": "Kto jest odpowiedzialny za sprowadzenie turystów do kraju w przypadku niewypłacalności biura podróży?",
+    "answers": [
+      "Marszałek województwa.",
+      "Agent turystyczny.",
+      "Ambasador.",
+      "Konsul."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 116,
+    "text": "W programie wycieczki po Łodzi można uwzględnić zwiedzanie",
+    "answers": [
+      "Centrum Nauki Kopernik.",
+      "Centralnego Muzeum Włókiennictwa.",
+      "Twierdzy Boyen.",
+      "Zamku Królewskiego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 117,
+    "text": "Na podstawie zamieszczonego fragmentu kalkulacji ceny imprezy turystycznej oblicz, jaki procent kosztów świadczeń stanowi marża bez podatku VAT.",
+    "answers": [
+      "12",
+      "23",
+      "15",
+      "18"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_tabela26.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 118,
+    "text": "Oblicz koszt usługi noclegowej, jeżeli dla 26 osób zarezerwowano pokoje 2-osobowe na dwie doby, a cena netto za pokój wynosi 150,00 zł za dobę.",
+    "answers": [
+      "3 900,00 zł",
+      "4 212,00 zł",
+      "4 797,00 zł",
+      "4 600,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 119,
+    "text": "Muzeum Hymnu Narodowego w Będominie oraz Centrum Edukacji i Promocji Regionu w Szymbarku to atrakcje turystyczne, które można uwzględnić w programie wycieczki szkolnej na",
+    "answers": [
+      "Kurpie.",
+      "Mazury.",
+      "Kaszuby.",
+      "Podhale."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 120,
+    "text": "Zylc, dziadówka i frekase to dania charakterystyczne dla kuchni",
+    "answers": [
+      "kociewskiej.",
+      "kurpiowskiej.",
+      "kaszubskiej.",
+      "kujawskiej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 121,
+    "text": "Organizator wypoczynku w tureckim kurorcie Alanya, na biesiadę z lokalnymi przysmakami powinien przygotować",
+    "answers": [
+      "pilaw i ayran.",
+      "gazpacho i paellę.",
+      "mousakę i souvlaki.",
+      "enchiladas i tacos."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 122,
+    "text": "W ustawie o usługach hotelarskich oraz usługach pilotów wycieczek i przewodników turystycznych nie uwzględniono informacji o przewodnikach",
+    "answers": [
+      "górskich.",
+      "miejskich.",
+      "terenowych.",
+      "muzealnych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 123,
+    "text": "Turystom, którzy chcą wziąć udział w corocznej imprezie kulturalnej – Festiwalu Polskich Filmów Fabularnych, referent biura podróży powinien zaproponować wyjazd do",
+    "answers": [
+      "Warszawy.",
+      "Krakowa.",
+      "Gdyni.",
+      "Zakopanego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 124,
+    "text": "Którą kwotę, zgodnie z cennikiem, należy zapłacić za trzygodzinną usługę przewodnicką dla 28-osobowej grupy turystów z Drezna?",
+    "answers": [
+      "492,00 zł",
+      "615,00 zł",
+      "565,80 zł",
+      "552,30 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_cennik.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 125,
+    "text": "Na podstawie fragmentu kalkulacji kosztów dwudniowej pielgrzymki do Lichenia Starego oblicz koszt jednostkowy imprezy w zaokrągleniu do pełnych złotych w górę wiedząc, że w imprezie uczestniczyć będzie 45 pielgrzymów, 1 ksiądz bezpłatnie, 1 pilot wycieczek, 1 kierowca, a wysokość marży organizatora wraz z podatkiem VAT wynosi 940,00 zł.",
+    "answers": [
+      "170,00 zł",
+      "186,00 zł",
+      "190,00 zł",
+      "191,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_tabela3.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 126,
+    "text": "Na podstawie fragmentu mapy oblicz odległość przedstawioną w km, którą musi pokonać turysta, aby dotrzeć niebieskim szlakiem z Rabsztyna do Wiśliczki.",
+    "answers": [
+      "8,9 km",
+      "8,7 km",
+      "9,1 km",
+      "8,5 km"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_mapa.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 127,
+    "text": "Której potrawy nie można zaplanować na śniadanie dla gości przestrzegających diety wegańskiej?",
+    "answers": [
+      "Płatków z owocami.",
+      "Jajek w koszulkach.",
+      "Brokułów na parze.",
+      "Kuskusa z warzywami."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 128,
+    "text": "Fragment którego druku dokumentu, wymaganego podczas wykonywaniu przewozów wahadłowych i okazjonalnych autobusami oraz autokarami w Unii Europejskiej, przedstawiono na rysunku?",
+    "answers": [
+      "Formularza jazdy.",
+      "Tachografu.",
+      "Kilometrażu.",
+      "Książki jazdy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_dokument.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 129,
+    "text": "Które oznaczenie może zostać użyte w zamówieniu zakwaterowania w dwuosobowym pokoju hotelowym z podwójnym łóżkiem?",
+    "answers": [
+      "Double.",
+      "Twin.",
+      "Single.",
+      "Triple."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 130,
+    "text": "Który układ sali należy wybrać na konferencję z udziałem stu uczestników przy maksymalnym wykorzystaniu powierzchni?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_uklady.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 131,
+    "text": "Który dokument należy umieścić w teczce imprezy turystycznej?",
+    "answers": [
+      "Regulamin obiektu noclegowego.",
+      "Polisę ubezpieczeniową grupy.",
+      "Warunki techniczne pojazdów specjalnych.",
+      "Umowę najmu pomieszczeń biurowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 132,
+    "text": "Uprawnienia przewodnika górskiego nadaje właściwy dla miejsca zamieszkania kandydata",
+    "answers": [
+      "prezydent miasta.",
+      "wojewoda.",
+      "marszałek województwa.",
+      "burmistrz miasta."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 133,
+    "text": "Którą kwotę będzie musiał zapłacić pasażer samolotu, jeżeli oprócz dwóch sztuk bagażu podręcznego przewozi również bagaż rejestrowany do 20 kg?",
+    "answers": [
+      "16 €",
+      "25 €",
+      "41 €",
+      "31 €"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_tabela2.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 134,
+    "text": "Program konferencji zorganizowanej dla lekarzy należy rozpocząć od",
+    "answers": [
+      "wykładu inauguracyjnego.",
+      "podsumowania spotkania.",
+      "przerwy kawowej.",
+      "rejestracji uczestników."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 135,
+    "text": "Ile czasu, zgodnie z przepisami AETR, należy zaplanować w programie wycieczki na przejazd autokarem z Wrocławia do Sopotu, tj. 480 km ze średnią prędkością 60 km/godz.?",
+    "answers": [
+      "8 godzin i 45 minut.",
+      "9 godzin i 00 minut.",
+      "8 godzin i 30 minut.",
+      "9 godzin i 15 minut."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 136,
+    "text": "Oblicz całkowity koszt trzydniowej wycieczki młodzieży szkolnej do Gdańska wiedząc, że suma kosztów bezpośrednich wynosi 15 000,00 zł, a marża netto biura stanowi 10% tych kosztów.",
+    "answers": [
+      "16 845,00 zł",
+      "17 500,00 zł",
+      "16 620,00 zł",
+      "17 620,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 137,
+    "text": "Uczniów ze Szczecina, którzy uczestniczą w dwudniowej wycieczce Szlakiem Tatarskim po Podlasiu, należy ubezpieczyć z tytułu",
+    "answers": [
+      "następstw nieszczęśliwych wypadków.",
+      "zniszczenia lub uszkodzenia bagażu.",
+      "kosztów leczenia.",
+      "rezygnacji z udziału w imprezie turystycznej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 138,
+    "text": "Który obiekt hotelarski należy zaproponować turystom poszukującym noclegu z całodziennym wyżywieniem?",
+    "answers": [
+      "Schronisko młodzieżowe.",
+      "Pensjonat.",
+      "Dom wypoczynkowy.",
+      "Hostel."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 139,
+    "text": "Jeżeli odległość w linii prostej między Sydney i Melbourne w Australii zmierzona na mapie, sporządzonej w skali 1:20 000 000, wynosi 3,5 cm, to w rzeczywistości miasta te oddalone są od siebie",
+    "answers": [
+      "o 175 km",
+      "o 525 km",
+      "o 350 km",
+      "o 700 km"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 140,
+    "text": "Przedstawiona na rysunku Rotunda św. Mikołaja w Cieszynie jest zabytkową budowlą reprezentującą styl",
+    "answers": [
+      "renesansowy.",
+      "romański.",
+      "gotycki.",
+      "barokowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_rotunda.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 141,
+    "text": "Aperitif to przyjęcie odbywające się na",
+    "answers": [
+      "siedząco, łączy posiłek ze spotkaniem biznesowym.",
+      "stojąco w celu pobudzenia apetytu.",
+      "siedząco, jest okazją do spotkań i rozmów.",
+      "stojąco, ma charakter wystawnego przyjęcia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 142,
+    "text": "Na podstawie danych przedstawionych w tabeli określ, w których wycieczkach szkolnych w 2018 r. młodzież uczestniczyła najczęściej.",
+    "answers": [
+      "Jeździeckich.",
+      "Kolarskich.",
+      "Pieszych górskich.",
+      "Pieszych nizinnych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_tabela.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 143,
+    "text": "Którą kwotę zapłaci za bilety wstępu do Akwarium Gdyńskiego 5-osobowa rodzina z dziećmi w wieku 10 lat, 7 lat i 4 lata w dniu 21.07 o godzinie 1830?",
+    "answers": [
+      "65,00 zł",
+      "60,00 zł",
+      "70,00 zł",
+      "75,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_cennik2.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 144,
+    "text": "Do którego europejskiego miasta pojadą turyści, jeżeli zaplanowano ich udział w największych targach turystycznych na świecie, określanych skrótem ITB?",
+    "answers": [
+      "Do Brukseli.",
+      "Do Berlina.",
+      "Do Bangkoku.",
+      "Do Bolonii."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 145,
+    "text": "W programie wycieczki do Florencji można uwzględnić zwiedzanie",
+    "answers": [
+      "Forum Romanum.",
+      "Opery La Scala.",
+      "Canal Grande.",
+      "Galerii Uffizi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 146,
+    "text": "Przedstawione na samochodowym znaku turystycznym walory i atrakcje turystyczne są charakterystyczne dla województwa",
+    "answers": [
+      "świętokrzyskiego.",
+      "podkarpackiego.",
+      "śląskiego.",
+      "małopolskiego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_znak.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 147,
+    "text": "Turystom przebywającym na wczasach w Zakopanem można zaproponować spacer po",
+    "answers": [
+      "Wałach Chrobrego.",
+      "Parku Oliwskim.",
+      "Ogrodzie Saskim.",
+      "Krupówkach."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 148,
+    "text": "W którym europejskim mieście turyści mogą podziwiać Centrum Pompidou – awangardowy budynek z największą na świecie kolekcją sztuki współczesnej i nowoczesnej?",
+    "answers": [
+      "W Madrycie.",
+      "W Wiedniu.",
+      "W Paryżu.",
+      "W Rzymie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 149,
+    "text": "Przedstawiona na rysunku rzeźba Przechodzący przez rzekę Brdę to jedna z atrakcji turystycznych",
+    "answers": [
+      "Gdańska.",
+      "Bydgoszczy.",
+      "Torunia.",
+      "Wrocławia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_rzezba.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 150,
+    "text": "Przedstawione na rysunku muzeum znajduje się w",
+    "answers": [
+      "Kielcach.",
+      "Gdańsku.",
+      "Bydgoszczy.",
+      "Nałęczowie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/tg14_muzeum.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 151,
+    "text": "Świadczenie usług gastronomicznych w miejscu wskazanym przez zamawiającego to",
+    "answers": [
+      "cabotage.",
+      "carteling.",
+      "catering.",
+      "cooking."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 152,
+    "text": "Obiekt, którego zwiedzanie należy zaplanować podczas wycieczki do Trójmiasta, to",
+    "answers": [
+      "Biblioteka Raczyńskich.",
+      "Panorama Racławicka.",
+      "Katedra Oliwska.",
+      "Wały Chrobrego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 153,
+    "text": "Organizator wycieczki do Brazylii powinien zapewnić turystom opiekę pilota posługującego się biegle przede wszystkim językiem",
+    "answers": [
+      "niemieckim.",
+      "rosyjskim.",
+      "portugalskim.",
+      "francuskim."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 154,
+    "text": "Organizator turystyki, w razie swojej niewypłacalności, ma obowiązek zapewnić podróżnym pokrycie kosztów",
+    "answers": [
+      "wycieczek fakultatywnych.",
+      "usług rekreacyjnych.",
+      "pilota wycieczek.",
+      "powrotu do kraju."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 155,
+    "text": "Festiwal Słowian i Wikingów, który organizator uwzględnił w programie wycieczki dla miłośników rekonstrukcji historycznych, to cykliczna impreza plenerowa odbywająca się na wyspie",
+    "answers": [
+      "Wolin.",
+      "Karsibór.",
+      "Dębina.",
+      "Uznam."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 156,
+    "text": "Który rodzaj dodatkowego ubezpieczenia dla samochodu kempingowego należy zaproponować małżeństwu udającemu się w podróż po Europie?",
+    "answers": [
+      "NNW",
+      "OC",
+      "AC",
+      "KL"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 157,
+    "text": "Którą czynność w pierwszej kolejności powinien wykonać pilot wycieczek, jeżeli w trakcie wycieczki objazdowej pomylił trasę wydłużając o pół godziny czas przejazdu do kolejnego punktu zwiedzania?",
+    "answers": [
+      "Wytłumaczyć się w muzeum dopiero po dotarciu grupy na miejsce.",
+      "Powiadomić organizatora turystyki o zaistniałej sytuacji.",
+      "Zebrać od klientów reklamacje za nienależyte wykonanie usługi.",
+      "Zadzwonić do kontrahenta w celu powiadomienia go o spóźnieniu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 158,
+    "text": "Który zestaw tradycyjnych potraw rosyjskich do degustacji może zaproponować turystom pilot wycieczek?",
+    "answers": [
+      "Mousaka, nadziewane liście winogron, tiramisu.",
+      "Fasola w sosie pomidorowym, pieczona wołowina, pudding.",
+      "Zupa cebulowa, ślimaki, mule.",
+      "Soljanka, bliny, pielmieni."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 159,
+    "text": "Organizując wycieczkę pieszą po Karkonoskim Parku Narodowym dla 25 osób, należy zapewnić usługę przewodnika",
+    "answers": [
+      "miejskiego.",
+      "górskiego beskidzkiego.",
+      "terenowego.",
+      "górskiego sudeckiego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 160,
+    "text": "Jaskinia Raj stanowi walor przyrodniczy",
+    "answers": [
+      "Karkonoszy.",
+      "Sudetów.",
+      "Gór Świętokrzyskich.",
+      "Tatr."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 161,
+    "text": "Dla miłośników dramatu Romeo i Julia, w programie wycieczki do Włoch, należy uwzględnić zwiedzanie",
+    "answers": [
+      "Florencji.",
+      "Genui.",
+      "Werony.",
+      "Wenecji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 162,
+    "text": "Oblicz łączny koszt krajowej imprezy turystycznej dla grupy turystów przy założeniu, że suma kosztów wszystkich świadczeń wynosi 16 000,00 zł, a marża biura podroży stanowi 15% tej kwoty.",
+    "answers": [
+      "20 000,00 zł",
+      "18 400,00 zł",
+      "17 968,00 zł",
+      "18 952,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 163,
+    "text": "Kluski, modra kapusta, rolady to dania, które turyści znajdą w menu restauracji specjalizującej się w kuchni",
+    "answers": [
+      "mazurskiej.",
+      "podlaskiej.",
+      "góralskiej.",
+      "śląskiej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 164,
+    "text": "Podczas wycieczki do Monachium przeznaczonej dla miłośników fanoturystyki organizator powinien zamówić spotkanie z",
+    "answers": [
+      "lokalnym artystą malarzem.",
+      "miejscową drużyną piłkarską.",
+      "autorką bajek.",
+      "muzykiem jazzowym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 165,
+    "text": "Doświadczonym turystom zainteresowanym wędrowaniem po bezdrożach w wysokich górach, w trudnych warunkach klimatycznych, należy zaoferować imprezę",
+    "answers": [
+      "geoturystyki.",
+      "turystki masowej.",
+      "trekkingu klasycznego.",
+      "kitesurfingu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 166,
+    "text": "Którą odległość pokonają w rzeczywistości członkowie Szkolnego Koła Turystyki Pieszej, jeżeli na mapie sporządzonej w skali 1:25 000 odległość ta wynosi 6 cm?",
+    "answers": [
+      "750 m",
+      "500 m",
+      "1 000 m",
+      "1 500 m"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 167,
+    "text": "Park Mużakowski wpisany na Listę Światowego Dziedzictwa UNESCO, położony jest na pograniczu Polski oraz",
+    "answers": [
+      "Niemiec.",
+      "Ukrainy.",
+      "Czech.",
+      "Słowacji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 168,
+    "text": "Który polski park narodowy nazywany jest Polską Amazonią i obejmuje mozaikowy układ rozlewisk oraz bagien?",
+    "answers": [
+      "Ojcowski Park Narodowy.",
+      "Narwiański Park Narodowy.",
+      "Woliński Park Narodowy.",
+      "Biebrzański Park Narodowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 169,
+    "text": "Oblicz koszt wypożyczenia przez biuro podróży na 3 godziny dwuosobowych kajaków dla grupy 20 osób.",
+    "answers": [
+      "450,00 zł",
+      "500,00 zł",
+      "300,00 zł",
+      "250,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/tg14_tabela6.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 170,
+    "text": "Małżeństwu zamawiającemu w nadmorskiej restauracji pieczonego pstrąga z warzywami kelner powinien zaproponować do picia",
+    "answers": [
+      "gęsty likier.",
+      "ciemne piwo.",
+      "miód pitny.",
+      "białe wino."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 171,
+    "text": "Polskie szczyty górskie Sokolica i Trzy Korony należą do pasma",
+    "answers": [
+      "Pienin.",
+      "Karkonoszy.",
+      "Tatr.",
+      "Łysogór."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 172,
+    "text": "Na podstawie przedstawionych piktogramów określ wyposażenie sal konferencyjnych w hotelu.",
+    "answers": [
+      "Ekran, odtwarzacz DVD, tablica suchościerlana, nagłośnienie, Internet.",
+      "Tablica, sprzęt audiowizualny, nagłośnienie, klimatyzacja, Internet.",
+      "Tablica, fax, rzutnik multimedialny, flipchart, dostęp do komputera.",
+      "Ekran, projektor multimedialny, flipchart, klimatyzacja, Internet."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/tg14_piktogramy.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 173,
+    "text": "Termin first minute w ofercie biura podróży oznacza",
+    "answers": [
+      "ofertę sprzedawaną w cenie z rabatem ilościowym.",
+      "korzystną ofertę cenową dla specjalnych klientów.",
+      "przedsprzedaż katalogowej oferty na kolejny sezon.",
+      "sprzedaż oferty turystycznej w ostatnim momencie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 174,
+    "text": "Pracownik biura podróży dokonując rezerwacji on-line noclegów ze śniadaniami i obiadokolacjami dla turystów, powinien w formularzu rezerwacyjnym postawić znak X w rubryce oznaczonej",
+    "answers": [
+      "HB",
+      "FB",
+      "OB",
+      "BB"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 175,
+    "text": "Które miejscowości związane z życiem Mikołaja Kopernika należy uwzględnić w programie wycieczki dla uczestników konkursu astronomicznego?",
+    "answers": [
+      "Kielce i Mysłowice.",
+      "Frombork i Toruń.",
+      "Gdynię i Sopot.",
+      "Iławę i Lubawę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 176,
+    "text": "Którą usługę powinien przede wszystkim zamówić organizator turystyki grupie dzieci z niepełnosprawnością podczas pobytu terapeutycznego w stadninie koni?",
+    "answers": [
+      "Zabiegi fizykoterapeutyczne.",
+      "Zajęcia hipoterapii.",
+      "Przejażdżki bryczkami.",
+      "Masaże relaksacyjne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 177,
+    "text": "Oblicz cenę jednostkową obozu sportowego przy założeniu, że całkowity koszt imprezy turystycznej dla grupy 40 sportowców i 3 opiekunów, trenera, kierowcy i pilota wycieczek wynosi 65 800,00 zł.",
+    "answers": [
+      "1 645,00 zł",
+      "1 430,00 zł",
+      "1 530,00 zł",
+      "1 495,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 178,
+    "text": "Gabinet Figur Woskowych, Promenada Gwiazd oraz Fort Anioła są atrakcjami turystycznymi znajdującymi się na czerwonym Szlaku",
+    "answers": [
+      "Nadmorskim.",
+      "Beskidzkim.",
+      "Piastowskim.",
+      "Tatarskim."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 179,
+    "text": "Organizując kilkudniowy rajd pieszy w Bieszczadach w okresie lipca dla młodzieży ze Szczecina, należy przede wszystkim zapewnić ubezpieczenie oraz",
+    "answers": [
+      "usługi noclegowe i rekreacyjno-sportowe.",
+      "usługi informacyjne i żywieniowe.",
+      "usługi transportowe, kulturalno-rozrywkowe i usługi przewodnika sudeckiego.",
+      "usługi przewodnika beskidzkiego, usługi noclegowe i transportowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 180,
+    "text": "Rezerwacja biletów lotniczych, zapewnienie miejsca w hotelu, wynajęcie samochodu są możliwe w systemie rezerwacyjnym",
+    "answers": [
+      "Gastro POS",
+      "Reservio",
+      "Travelocity",
+      "Profitroom"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 181,
+    "text": "Oblicz koszt 6 noclegów 28-osobowej grupy turystów w pokojach dwuosobowych, jeżeli cena pokoju wynosi 180,00 zł/doba, a grupie przysługuje rabat w wysokości 10% ceny za każdy pokój.",
+    "answers": [
+      "13 608,00 zł",
+      "15 120,00 zł",
+      "27 216,00 zł",
+      "30 240,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 182,
+    "text": "Na podstawie danych zamieszczonych w tabeli oblicz odległość, którą pokona autokar jadący na trasie Konin – Rychwał – Kalisz.",
+    "answers": [
+      "57,5 km",
+      "23,0 km",
+      "80,5 km",
+      "69,0 km"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/tg14_tabela5.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 183,
+    "text": "Oblicz koszt trzygodzinnego pobytu 18-osobowej grupy w kręgielni, jeżeli cena gry wynosi 49,00 zł/godzina/tor, a na 1 torze grać będzie jednocześnie 6 osób.",
+    "answers": [
+      "441,00 zł",
+      "882,00 zł",
+      "490,00 zł",
+      "539,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 184,
+    "text": "Na rysunku przedstawiono fragment mapy",
+    "answers": [
+      "topograficznej.",
+      "przeglądowej.",
+      "gleboznawczej.",
+      "hydrograficznej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/tg14_mapa2.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 185,
+    "text": "Turyści, którzy z oferty katalogowej wybrali na wakacje przedstawioną na rysunku europejską wyspę, będą wypoczywać na",
+    "answers": [
+      "Korsyce.",
+      "Cyprze.",
+      "Maderze.",
+      "Majorce."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/tg14_wyspa.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 186,
+    "text": "W której z wymienionych miejscowości turyści mogą zwiedzić zamek przedstawiony na rysunku?",
+    "answers": [
+      "Gołuchowie.",
+      "Kórniku.",
+      "Mosznej.",
+      "Malborku."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/tg14_zamek.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 187,
+    "text": "Na podstawie danych zawartych w tabeli oblicz koszt zwiedzania Europejskiego Centrum Solidarności w Gdańsku przez 25 uczniów i 2 opiekunów.",
+    "answers": [
+      "490,00 zł",
+      "474,00 zł",
+      "324,00 zł",
+      "565,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/tg14_tabela7.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 188,
+    "text": "W pierwszym dniu programu imprezy pobytowo-konferencyjnej należy przede wszystkim zapewnić czas na",
+    "answers": [
+      "wspólną zabawę taneczną i ognisko.",
+      "zakwaterowanie w pokojach i sprawy organizacyjne.",
+      "sesję panelową i wykwaterowanie uczestników.",
+      "zwiedzanie miasta i korzystanie z atrakcji hotelu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 189,
+    "text": "Którą kwotę zapłaci klient za wczasy w Grecji, jeżeli otrzymał 5% rabatu, a cena katalogowa imprezy wynosi 2 550,00 zł?",
+    "answers": [
+      "2 167,50 zł",
+      "2 295,00 zł",
+      "2 422,50 zł",
+      "2 350,50 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 190,
+    "text": "Najbardziej odpowiednią formą spędzenia wolnego czasu, zaproponowaną turystom w podeszłym wieku podczas imprezy turystycznej, jest",
+    "answers": [
+      "hydrospeed.",
+      "windsurfing.",
+      "nordic walking.",
+      "zorbing."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 191,
+    "text": "Klientowi zainteresowanemu wyjazdem typu City Break pracownik biura podróży powinien zaproponować",
+    "answers": [
+      "wycieczkę krajoznawczą do Ojcowa.",
+      "weekend w Atenach.",
+      "wyjazd integracyjny do schroniska w Bieszczadach.",
+      "wczasy w Egipcie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 192,
+    "text": "Który czynnik może wpłynąć na spadek rezerwacji on-line usług turystycznych oferowanych w Tunezji?",
+    "answers": [
+      "Zagrożenie atakami terrorystycznymi.",
+      "Poszerzenie oferty lokalnych atrakcji w tunezyjskich hotelach.",
+      "Obniżenie cen lotów do Ankary.",
+      "Niekorzystna prognoza pogody nad polskim morzem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 193,
+    "text": "Jeśli odległość z Warszawy do Rzymu w atlasie wynosi 7 cm, a turysta pokonał w rzeczywistości trasę 1400 km, to mapę wykonano w skali",
+    "answers": [
+      "1 : 200 000",
+      "1 : 200",
+      "1 : 20 000 000",
+      "1 : 20 000"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 194,
+    "text": "Pracownik Biura Podróży FUN zarezerwował on-line dla turysty bilet",
+    "answers": [
+      "ulgowy z miejscami do siedzenia.",
+      "normalny z miejscami do leżenia.",
+      "normalny z miejscami do siedzenia.",
+      "ulgowy z miejscami do leżenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/tg14_bilet.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 195,
+    "text": "Popularne wśród zwolenników turystyki kwalifikowanej Góry Izerskie znajdują się na granicy",
+    "answers": [
+      "Grecji i Bułgarii.",
+      "Austrii i Włoch.",
+      "Austrii i Szwajcarii.",
+      "Czech i Polski."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 196,
+    "text": "Która atrakcja turystyczna w 2017 roku została wpisana na Listę Światowego Dziedzictwa UNESCO?",
+    "answers": [
+      "Podziemia Rynku Głównego w Krakowie.",
+      "Kopalnia rud ołowiu, srebra i cynku w Tarnowskich Górach.",
+      "Kościoły Pokoju w Jaworze i Świdnicy.",
+      "Królewskie Kopalnie Soli w Wieliczce i Bochni."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 197,
+    "text": "Który program komputerowy jest najczęściej stosowany w Polsce podczas obsługi klientów biur podróży?",
+    "answers": [
+      "MerlinX",
+      "Fidelio",
+      "Gastro SZEF",
+      "Izzy Hotel"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 198,
+    "text": "Turystom będącym na diecie bezglutenowej nie należy proponować dań zawierających",
+    "answers": [
+      "mleko świeże.",
+      "mąkę pszenną.",
+      "cukier biały.",
+      "ryż brązowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 199,
+    "text": "Zapoznając turystów z najważniejszymi atrakcjami Wenecji, pilot powinien zaproponować wizytę",
+    "answers": [
+      "w Krzywej Wieży.",
+      "w Pałacu Dożów.",
+      "w Bazylice św. Piotra.",
+      "w Domu Julii."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 200,
+    "text": "Oblicz kwotę, którą zapłaci za zwiedzanie rezerwatu Błędne Skały czteroosobowa grupa dorosłych przyjaciół podróżujących samochodem osobowym.",
+    "answers": [
+      "41,26 zł",
+      "53,30 zł",
+      "60,00 zł",
+      "40,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/tg14_tabela2.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 201,
+    "text": "Turysta, który chce zwiedzić pieszo bardzo dokładnie niewielki obszar, powinien skorzystać z mapy",
+    "answers": [
+      "samochodowej.",
+      "geologicznej.",
+      "topograficznej.",
+      "administracyjnej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 202,
+    "text": "W trakcie rozmowy kwalifikacyjnej kandydat ubiegający się o pracę w dziale obsługi klienta zastosował przedstawiony na rysunku gest, który oznacza",
+    "answers": [
+      "niepewność.",
+      "pewność siebie.",
+      "lekceważenie.",
+      "zdenerwowanie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/tg14_gest.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 203,
+    "text": "Która potrawa może znaleźć się w menu obiadowym przeznaczonym dla grupy wegetarian?",
+    "answers": [
+      "Spaghetti bolognese.",
+      "Gulasz węgierski.",
+      "Boeuf strogonov.",
+      "Sałatka grecka."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 204,
+    "text": "Na podstawie którego dokumentu turysta może reklamować standard zakwaterowania?",
+    "answers": [
+      "Tabeli opłat i prowizji.",
+      "Kodeksu Cywilnego.",
+      "Tabeli Frankfurckiej.",
+      "Kodeksu Wykroczeń."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 205,
+    "text": "Oblicz koszt usługi transportowej jednodniowej wycieczki szkolnej na trasie Kraków – Warszawa – Kraków przyjmując, że odległość pomiędzy tymi miastami wynosi 295 km, a ustalona stawka za kilometr wynosi 3,00 zł.",
+    "answers": [
+      "885,00 zł",
+      "900,00 zł",
+      "1 740,00 zł",
+      "1 770,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 206,
+    "text": "Który dokument sporządza pracownik biura podróży w celu obliczenia ceny jednostkowej organizowanej imprezy turystycznej?",
+    "answers": [
+      "Sprawozdanie finansowe z imprezy turystycznej.",
+      "Kartę rozliczenia imprezy turystycznej.",
+      "Arkusz kalkulacyjny kosztów imprezy turystycznej.",
+      "Zestawienie faktur za świadczenia imprezy turystycznej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 207,
+    "text": "Oblicz koszt ubezpieczenia 35 uczestników (25 osób dorosłych i 10 dzieci) dwudniowej wycieczki do Wrocławia, jeżeli dzienna stawka ubezpieczeniowa osoby dorosłej wynosi 2,00 zł/dzień, a stawka za ubezpieczenie dziecka to 1,00 zł/dzień.",
+    "answers": [
+      "60,00 zł",
+      "90,00 zł",
+      "120,00 zł",
+      "140,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 208,
+    "text": "Organizując objazdową imprezę turystyczną po winnicach Portugalii należy, skorzystać z usług miejscowego",
+    "answers": [
+      "stewarda.",
+      "barmana.",
+      "sommeliera.",
+      "baristy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 209,
+    "text": "Korzystając z przedstawionego fragmentu cennika oblicz koszt wynajmu stoiska o powierzchni 12 m2 poniesiony przez Referat Promocji Miasta Wisły za udział w targach turystycznych w Łodzi w terminie 23-26 czerwca 2019 r.",
+    "answers": [
+      "320,00 zł",
+      "240,00 zł",
+      "480,00 zł",
+      "400,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/tg14_tabela4.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 210,
+    "text": "Jedną z atrakcji Szlaku Orlich Gniazd są ruiny zamku",
+    "answers": [
+      "w Ogrodzieńcu.",
+      "w Kruszwicy.",
+      "w Bolkowie.",
+      "w Piszu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 211,
+    "text": "Oblicz wartość netto usługi żywieniowej, jeżeli wartość brutto wynosi 64,00 zł, a stawka podatku VAT 8%.",
+    "answers": [
+      "56,00 zł",
+      "69,12 zł",
+      "58,90 zł",
+      "59,26 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 212,
+    "text": "Organizując dla turystów z Izraela wycieczkę po Krakowie Trasą Zabytków Żydowskich, w programie należy uwzględnić zwiedzanie",
+    "answers": [
+      "bazylik.",
+      "meczetów.",
+      "cerkwi.",
+      "synagog."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 213,
+    "text": "Który obiekt noclegowy, świadczący minimalny zakres usług, powinien pracownik biura podróży zaproponować uczestnikom obozu wędrownego?",
+    "answers": [
+      "Dom wczasowy.",
+      "Schronisko.",
+      "Hotel.",
+      "Motel."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 214,
+    "text": "Turysta, który zwiedził wyspy Gran Canaria i Lanzarote wypoczywał na archipelagu wysp",
+    "answers": [
+      "Liparyjskich.",
+      "Japońskich.",
+      "Kanaryjskich.",
+      "Karaibskich."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 215,
+    "text": "Który dokument umożliwi realizację usług podczas imprezy turystycznej?",
+    "answers": [
+      "Karta rozliczeniowa.",
+      "Umowa agencyjna.",
+      "Voucher.",
+      "Faktura."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 216,
+    "text": "Zgodnie z polskim prawem stawka opodatkowania usługi przewodnika turystycznego wynosi",
+    "answers": [
+      "8%",
+      "0%",
+      "5%",
+      "23%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 217,
+    "text": "Przedstawiony na rysunku zbiornik wodny znajduje się w najstarszym na świecie Parku Narodowym",
+    "answers": [
+      "Yelowstone.",
+      "Galapagos.",
+      "Krugera.",
+      "Everglades."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/tg14_zbiornik.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 218,
+    "text": "Atrakcją turystyczną stolicy Stanów Zjednoczonych Ameryki Północnej jest",
+    "answers": [
+      "Most Golden Gate.",
+      "Biały Dom.",
+      "Central Park.",
+      "Mount Rushmore."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 219,
+    "text": "Na której z greckich wysp pilot wycieczek może zaprowadzić turystów na ruiny Pałacu Knossos?",
+    "answers": [
+      "Na Rodos.",
+      "Na Zakynthos.",
+      "Na Korfu.",
+      "Na Krecie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 220,
+    "text": "Która z przestawionych atrakcji turystycznych znajduje się w Nowym Jorku?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/tg14_atrakcje.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 221,
+    "text": "Organizując trzydniowy kongres farmaceutyczny dla 500 osób, należy zaplanować w sali konferencyjnej układ",
+    "answers": [
+      "owalny.",
+      "kinowy.",
+      "szkolny.",
+      "bankietowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 222,
+    "text": "Korzystając z fragmentu tabeli kursów walut oblicz koszt kolacji w polskich złotych wiedząc, że 30-osobowa grupa zapłaciła w Bostonie za ten posiłek 3 000 $.",
+    "answers": [
+      "12 600,00 zł",
+      "10 770,00 zł",
+      "10 140,00 zł",
+      "10 200,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/tg14_tabela3.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 223,
+    "text": "Którą formę turystyki ekstremalnej należy zamówić dla turystów zainteresowanych opuszczaniem się na linie z urwistej skały?",
+    "answers": [
+      "Abseiling.",
+      "Trekking.",
+      "Canyoning.",
+      "Tramping."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 224,
+    "text": "Jeziora przedstawione na fragmencie mapy są główną atrakcją Pojezierza",
+    "answers": [
+      "Mazurskiego.",
+      "Drawskiego.",
+      "Pomorskiego.",
+      "Kaszubskiego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/tg14_mapa.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 225,
+    "text": "W programie wycieczki do województwa kujawsko-pomorskiego można uwzględnić zwiedzanie",
+    "answers": [
+      "Zamku Krzyżackiego w Malborku.",
+      "Twierdzy Boyen w Giżycku.",
+      "Złotej Bramy w Gdańsku.",
+      "Żywego Muzeum Piernika w Toruniu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 226,
+    "text": "Organizator krajowego wyjazdu grupowego zobowiązany jest zapewnić uczestnikom imprezy ubezpieczenie",
+    "answers": [
+      "KL",
+      "NNW",
+      "AC",
+      "OC"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 227,
+    "text": "Korzystając z przedstawionego fragmentu cennika oblicz łączną cenę biletów wstępu do Muzeum Powstania Warszawskiego oraz Łazienek Królewskich dla 7 osób w dniu 29 sierpnia.",
+    "answers": [
+      "315,00 zł",
+      "371,00 zł",
+      "126,00 zł",
+      "182,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/tg14_tabela.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 228,
+    "text": "Muzeum Kinematografii znajduje się",
+    "answers": [
+      "w Karpaczu.",
+      "w Łowiczu.",
+      "w Rzeszowie.",
+      "w Łodzi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 229,
+    "text": "Której informacji brakuje w przedstawionym fragmencie zamówienia usługi pilotażu?",
+    "answers": [
+      "Miejsca wykonania usługi.",
+      "Zapewnionych świadczeń.",
+      "Terminu wykonania usługi.",
+      "Sposobu płatności za usługę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_zamowienie5.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 230,
+    "text": "Na podstawie zamieszczonego cennika oblicz koszt biletów wstępu dla rodziny z dwójką dzieci w wieku 10 i 12 lat do kompleksu Aquapark Reda na 3 godziny 13 sierpnia.",
+    "answers": [
+      "160,00 zł",
+      "130,00 zł",
+      "280,00 zł",
+      "220,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_cennik11.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 231,
+    "text": "Podczas wycieczki pątniczej we Francji można turystom zaproponować zwiedzanie miejsca kultu religijnego",
+    "answers": [
+      "w Asyżu.",
+      "w Lourdes.",
+      "w Fatimie.",
+      "w Medjugorie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 232,
+    "text": "Przedstawiony dokument sporządzony przez pilota/rezydenta to",
+    "answers": [
+      "sprawozdanie z wycieczki.",
+      "arkusz kalkulacyjny.",
+      "raport z transferu.",
+      "zestawienie pokoi."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_dokument7.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 233,
+    "text": "Oblicz odległość pomiędzy dwiema miejscowościami, jeżeli na mapie wykonanej w skali 1:500 000 odległość ta wynosi 10 cm.",
+    "answers": [
+      "50 km",
+      "5 000 km",
+      "500 km",
+      "5 km"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 234,
+    "text": "Jak powinien zachować się pilot, jeżeli w pierwszym dniu wycieczki pobytowej na Sycylii turyści złożyli do niego skargę w związku z brudną pościelą w pokojach hotelowych?",
+    "answers": [
+      "Wskazać turystom magazyn czystej pościeli.",
+      "Wymienić pościel.",
+      "Zbagatelizować skargę.",
+      "Zgłosić problem w recepcji hotelowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 235,
+    "text": "Podczas wycieczki grupa zwróciła się do pilota z prośbą o rezerwację stolika w restauracji, w której można zjeść tradycyjną bryndzę i kwaśnicę, czyli specjały kuchni",
+    "answers": [
+      "góralskiej.",
+      "kresowej.",
+      "kaszubskiej.",
+      "wielkopolskiej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 236,
+    "text": "Oblicz koszt ubezpieczenia dwóch turystów z Polski, którzy wyjechali na dwa tygodnie do Finlandii.",
+    "answers": [
+      "82,32 zł",
+      "176,40 zł",
+      "117,60 zł",
+      "58,80 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_tabela24.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 237,
+    "text": "Zgodnie z przedstawionym fragmentem arkusza kalkulacyjnego koszt pełnego wyżywienia dla 4 osób, które przebywały w pensjonacie od obiadu 14 lipca do śniadania 16 lipca, wynosi",
+    "answers": [
+      "480,00 zł",
+      "400,00 zł",
+      "280,00 zł",
+      "320,00 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_tabela23.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 238,
+    "text": "Której informacji nie należy uwzględniać w zamówieniu usługi gastronomicznej?",
+    "answers": [
+      "Godziny przybycia grupy.",
+      "Programu zwiedzania.",
+      "Terminu świadczenia usługi.",
+      "Danych zleceniodawcy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 239,
+    "text": "Który dokument finansowy przechowuje pilot rezydent w trakcie realizacji imprezy turystycznej?",
+    "answers": [
+      "Dowody KP za wpłaty za imprezę turystyczną.",
+      "Fakturę – procedura marży dla biur podróży.",
+      "Zestawienie kosztów i wpływów za imprezę.",
+      "Voucher zbiorczy na imprezę fakultatywną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 240,
+    "text": "Jak nazywa się przedstawiony na rysunku obiekt wpisany na Listę Światowego Dziedzictwa UNESCO?",
+    "answers": [
+      "Zamek Biskupów Warmińskich.",
+      "Zamek Krzyżacki w Malborku.",
+      "Zamek Królewski na Wawelu.",
+      "Zamek Czocha."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_obiekt4.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 241,
+    "text": "Cechami charakteryzującymi budowle romańskie są:",
+    "answers": [
+      "przepych, malarstwo iluzjonistyczne, ekspresja.",
+      "rozety, witraże, wertykalizm.",
+      "kasetony, attyki, prostokątne okna.",
+      "grube mury, małe okna, surowość formy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 242,
+    "text": "Turystyka zagraniczna do państw Unii Europejskiej objęta jest stawką podatku VAT od marży biura podróży w wysokości",
+    "answers": [
+      "23%",
+      "5%",
+      "0%",
+      "8%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 243,
+    "text": "Który obiekt odwiedzany przez turystów przedstawiono na rysunku?",
+    "answers": [
+      "Kryptę w podziemiach Katedry na Wawelu.",
+      "Podziemne cmentarzysko chorych na dżumę w kościele św. Jana w Toruniu.",
+      "Kaplicę Czaszek w Czermnej.",
+      "Wspólną mogiłę Nieznanego Żołnierza na Powązkach."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_obiekt5.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 244,
+    "text": "Korzystając z zamieszczonej mapy oblicz odległość, którą pokonał na rowerze turysta, jadąc czarnym szlakiem z Raciborowic do Witkowic.",
+    "answers": [
+      "12,7 km",
+      "8,8 km",
+      "11,1 km",
+      "9,7 km"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_mapa15.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 245,
+    "text": "Turystom interesującym się historią Piastów należy w programie wycieczki zaproponować zwiedzanie",
+    "answers": [
+      "Pałacu w Leźnie.",
+      "Katedry w Gnieźnie.",
+      "Pałacu w Kamieńcu Ząbkowickim.",
+      "Muzeum w Zamku Kórnickim."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 246,
+    "text": "Turyście, który chce wypocząć w nadmorskim uzdrowisku, należy zaproponować pobyt",
+    "answers": [
+      "w Sopocie, Kołobrzegu lub Dąbkach.",
+      "w Ciechocinku, Supraślu lub Nałęczowie.",
+      "w Augustowie, Polańczyku lub Inowrocławiu.",
+      "w Rabce, Muszynie lub Uniejowie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 247,
+    "text": "Posiłki serwowane na wczasach odchudzających powinny zawierać dużą ilość",
+    "answers": [
+      "warzyw i owoców.",
+      "produktów mącznych i słodzonych napojów.",
+      "białego pieczywa i dań smażonych.",
+      "makaronów i mięsa wieprzowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 248,
+    "text": "Które miejsca należy zaproponować w programie wycieczek miłośnikom imprez sportowych?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_tabela22.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 249,
+    "text": "Turyści preferujący loty tanimi liniami powinni skorzystać z usług przewoźnika lotniczego",
+    "answers": [
+      "British Airways.",
+      "Ryanair.",
+      "Air France.",
+      "Lufthansa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 250,
+    "text": "Turystom preferującym aktywne wędrówki wysokogórskie polegające na pokonywaniu dużych odległości w trudnych warunkach klimatycznych należy zaproponować imprezę turystyczną typu",
+    "answers": [
+      "rafting.",
+      "crusing.",
+      "tramping.",
+      "trekking."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 251,
+    "text": "Korzystając z zamieszczonego cennika oblicz koszt noclegów ze śniadaniami dla 2 osób, które przebywały w pensjonacie w pokoju 2-osobowym od 17.02 do 20.02.2019 r.",
+    "answers": [
+      "840,00 zł",
+      "945,00 zł",
+      "1 200,00 zł",
+      "1 350,00 zł"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_cennik12.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 252,
+    "text": "W kalkulacji kosztów obozu harcerskiego do Gowidlina kosztem zmiennym jest koszt",
+    "answers": [
+      "pełnego wyżywienia uczestników.",
+      "transportu autokarowego harcerzy.",
+      "opieki ratownika nad jeziorem.",
+      "wynagrodzenia pielęgniarki na obozie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 253,
+    "text": "Zielona Karta w kilkunastu państwach poza Unią Europejską jest dokumentem potwierdzającym niezbędne ubezpieczenie",
+    "answers": [
+      "samochodu.",
+      "kosztów leczenia.",
+      "zdrowotnym.",
+      "bagażu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 254,
+    "text": "Pieszy obóz wędrowny, w którego programie uwzględniono wędrówkę po Połoninach Wetlińskiej i Caryńskiej, zorganizowany został na terenie",
+    "answers": [
+      "Beskidu Śląskiego.",
+      "Beskidu Żywieckiego.",
+      "Tatr.",
+      "Bieszczad."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 255,
+    "text": "Turysta schodząc z Trzech Koron w Pieninach na Zamkową Górę pokona różnicę wysokości wynoszącą",
+    "answers": [
+      "180 m",
+      "183 m",
+      "799 m",
+      "193 m"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_mapa14.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 256,
+    "text": "Którą ofertę on-line spośród zamieszczonych należy zaproponować klientom, jeżeli chcą oni wylecieć z Katowic w październiku w godzinach przedpołudniowych na siedmiodniowy wypoczynek?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_oferty3.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 257,
+    "text": "Turystom wypoczywającym w Katalonii można w wolnym czasie zaproponować w regionalnej restauracji degustację",
+    "answers": [
+      "paelli, tapas i sangrii.",
+      "musaki, baklawy i rakiji.",
+      "knedli, smażonego sera i beherovki.",
+      "czebureków, pielmieni i wódki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 258,
+    "text": "W programie kilkugodzinnej konferencji należy uwzględnić czas na przerwy kawowe, z których każda powinna trwać",
+    "answers": [
+      "70-90 minut.",
+      "45-60 minut.",
+      "5-10 minut.",
+      "15-30 minut."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 259,
+    "text": "Turystom przemieszczającym się z Aten na Kretę należy zapewnić przede wszystkim transport",
+    "answers": [
+      "autokarowy.",
+      "samochodowy.",
+      "promowy.",
+      "pieszy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 260,
+    "text": "Który z globalnych systemów dystrybucji (GDS) obsługuje największą część polskiego rynku turystycznego?",
+    "answers": [
+      "Amadeus.",
+      "Sabre.",
+      "By Travelport.",
+      "Worldspan."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 261,
+    "text": "Turystom, którzy zażyczyli sobie noclegów wyłącznie w ruchomej bazie noclegowej, pracownik biura podróży powinien zaproponować skorzystanie z",
+    "answers": [
+      "pensjonatów i kempingów.",
+      "hoteli i hosteli.",
+      "schronisk i moteli.",
+      "roteli i kamperów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 262,
+    "text": "Oblicz cenę imprezy dla pracowników uczelni przy założeniu, że suma kosztów zamówionych świadczeń wynosi 30 000,00 zł, marża biura podróży to 10% tych kosztów, a stawka podatku VAT stanowi 23% marży.",
+    "answers": [
+      "30 000,00 zł",
+      "33 000,00 zł",
+      "33 690,00 zł",
+      "39 900,00 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "HGT.07"
+  },
+  {
+    "id": 263,
+    "text": "Przedstawiony na rysunku gest klienta, zastosowany podczas rozmowy z pracownikiem biura podróży, może oznaczać",
+    "answers": [
+      "obojętność i znudzenie.",
+      "zamknięcie i negowanie rozmówcy.",
+      "zadowolenie z rozmowy i przedstawionej oferty.",
+      "pewność siebie i zadowolenie z rozmowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_gest2.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 264,
+    "text": "Na którym rysunku przedstawiono układ miejsc w sali przeznaczonej na dużą konferencję naukową?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "hgt07/t13_uklady.png"
+    },
+    "category": "HGT.07"
+  },
+  {
+    "id": 265,
+    "text": "Dla małżeństwa emerytów, którzy zażyczyli sobie noclegu w obiekcie gwarantującym pełne wyżywienie, referent biura podróży powinien wybrać",
+    "answers": [
+      "kemping.",
+      "pensjonat.",
+      "hostel.",
+      "motel."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "HGT.07"
+  }
+]
