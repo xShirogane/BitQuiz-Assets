@@ -3900,11 +3900,14 @@
   },
   {
     "id": 283,
-    "text": "Wagi do określenia masy w obrocie handlowym podlegają * zdający otrzymuje jeden punkt niezależnie od udzielonej odpowiedzi.",
+    "text": "Wagi do określenia masy w obrocie handlowym podlegają.",
     "answers": [
-      "odpowietrzeniu.\nB. zerowaniu. \nC. legalizacji.\nD. tarowaniu."
+      "odpowietrzeniu.",
+      "zerowaniu.",
+      "legalizacji.", 
+      "tarowaniu."
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "media": null,
     "category": "HGT.12"
   },
