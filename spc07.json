@@ -1,0 +1,5163 @@
+[
+  {
+    "id": 1,
+    "text": "Do produkcji kwasu cytrynowego na skalę przemysłową wykorzystuje się czyste kultury",
+    "answers": [
+      "drożdży.",
+      "bakterii.",
+      "pleśni.",
+      "glonów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 2,
+    "text": "Które z wymienionych opakowań nie stanowi bariery dla wilgoci?",
+    "answers": [
+      "Torba papierowa.",
+      "Torba polietylenowa.",
+      "Butelka PET.",
+      "Butelka szklana."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 3,
+    "text": "Ile butelek o pojemności 250 ml należy użyć do zapakowania 650 litrów soku pomarańczowego?",
+    "answers": [
+      "163 butelki.",
+      "2600 butelek.",
+      "1625 butelek.",
+      "800 butelek."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 4,
+    "text": "Pasaż przemiałowy w procesie przemiału zbóż stanowią urządzenia:",
+    "answers": [
+      "wialnia, odsiewacz płaski.",
+      "mlewnik walcowy, odsiewacz płaski.",
+      "młynek udarowy, waga automatyczna.",
+      "mlewnik walcowy, sortownik pneumatyczny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 5,
+    "text": "Jogurt, którego skład zamieszczono w tabeli, nie należy do żywności",
+    "answers": [
+      "wygodnej.",
+      "transgenicznej.",
+      "probiotycznej.",
+      "funkcjonalnej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_tabela43.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 6,
+    "text": "Płyn Lugola jest stosowany do wykrywania",
+    "answers": [
+      "skrobi.",
+      "białka.",
+      "tłuszczu.",
+      "sacharozy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 7,
+    "text": "Urządzenie przedstawione na ilustracji jest stosowane do",
+    "answers": [
+      "mieszania suszonych warzyw.",
+      "mycia sałaty.",
+      "przecierania miazgi pomidorowej.",
+      "sortowania ziemniaków."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_urzadzenie6.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 8,
+    "text": "Korzystając z receptury zamieszczonej w tabeli wskaż, w którym zestawie obliczono prawidłową ilość surowców do wyprodukowania 250 kg ciasta drożdżowego wg podanej receptury.",
+    "answers": [
+      "W zestawie IV.",
+      "W zestawie II.",
+      "W zestawie III.",
+      "W zestawie I."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_tabele4.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 9,
+    "text": "W celu utwardzenia olejów roślinnych wykorzystywanych do produkcji margaryny należy przeprowadzić proces",
+    "answers": [
+      "hydrolizy.",
+      "uwodornienia.",
+      "fermentacji.",
+      "uwodnienia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 10,
+    "text": "Oznaczanie zawartości chlorku sodu metodą Mohra polega na miareczkowaniu próbki badanego roztworu",
+    "answers": [
+      "nadmiaru AgNO3 roztworem NH4SCN w obecności żelaza III jako wskaźnika.",
+      "roztworem AgNO3 w obecności roztworu K2CrO4 jako wskaźnika.",
+      "roztworem AgNO3 w obecności skrobi jako wskaźnika.",
+      "roztworem KMnO4 w obecności skrobi jako wskaźnika."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 11,
+    "text": "Który parametr można określić w magazynie za pomocą przyrządu pomiarowego przedstawionego na schemacie?",
+    "answers": [
+      "Czas.",
+      "Wilgotność.",
+      "Temperaturę.",
+      "Ciśnienie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_przyrzad.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 12,
+    "text": "Korzystając z informacji zamieszczonych w tabeli, wskaż który wyrób cukierniczy ma prawidłowo dobraną technologię wytwarzania ciasta?",
+    "answers": [
+      "Zestaw I.",
+      "Zestaw IV.",
+      "Zestaw III.",
+      "Zestaw II."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_tabela44.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 13,
+    "text": "Makuchy to produkt uboczny, który powstaje",
+    "answers": [
+      "podczas ekstrakcji sacharozy z buraka cukrowego.",
+      "podczas zagęszczania cukrzycy.",
+      "w wyniku neutralizacji kwasów tłuszczowych.",
+      "po tłoczeniu rozdrobnionych nasion roślin oleistych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 14,
+    "text": "Konszowanie to jeden z etapów produkcji",
+    "answers": [
+      "masła.",
+      "lodów.",
+      "wina.",
+      "czekolady."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 15,
+    "text": "Podstawowym procesem, zachodzącym podczas produkcji kiszonych ogórków, jest fermentacja",
+    "answers": [
+      "propionowa.",
+      "alkoholowa.",
+      "mlekowa.",
+      "octowa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 16,
+    "text": "Który zestaw urządzeń jest niezbędny do produkcji mączki ziemniaczanej (krochmalu)?",
+    "answers": [
+      "Tarka, wymywacz strumieniowy, odwadniacz próżniowy, sterylizator, suszarka.",
+      "Płuczka bębnowa, tarka, wymywacz strumieniowy, suszarka, agregat wyparny.",
+      "Płuczka bębnowa, tarka, wymywacz strumieniowy, odwadniacz próżniowy, suszarka.",
+      "Płuczka bębnowa, tarka, wymywacz strumieniowy, odwadniacz próżniowy, pasteryzator."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 17,
+    "text": "Mąka żytnia typ 2000 wykorzystywana jest do produkcji",
+    "answers": [
+      "ciasta kruchego.",
+      "keksów.",
+      "blatów tortowych.",
+      "chleba żytniego razowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 18,
+    "text": "W celu określenia typu mąki należy oznaczyć w niej zawartość",
+    "answers": [
+      "wody.",
+      "skrobi.",
+      "glutenu.",
+      "popiołu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 19,
+    "text": "Które ze zmian zachodzą w jaju podczas magazynowania?",
+    "answers": [
+      "Zmniejszenie komory powietrznej, zagęszczenie białka, zmiana odczynu w kierunku alkalicznym.",
+      "Zmniejszenie komory powietrznej, rozrzedzenie białka, zmiana odczynu w kierunku kwaśnym.",
+      "Powiększenie komory powietrznej, rozrzedzenie białka, zmiana odczynu w kierunku alkalicznym.",
+      "Powiększenie komory powietrznej, zagęszczenie białka, zmiana odczynu w kierunku kwaśnym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 20,
+    "text": "System kompleksowego zarządzania jakością w zakładzie spożywczym to",
+    "answers": [
+      "TQM",
+      "HACCP",
+      "ISO",
+      "GHP"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 21,
+    "text": "Kości będące produktem ubocznym w zakładach przetwórstwa mięsnego mogą być wykorzystywane do produkcji",
+    "answers": [
+      "żelatyny.",
+      "kazeiny.",
+      "globuliny.",
+      "prolaminy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 22,
+    "text": "Na zamieszczonym schemacie przedstawiono proces rozdrabniania surowca za pomocą",
+    "answers": [
+      "tarki bębnowej.",
+      "wilka.",
+      "rozdrabniacza młotkowego.",
+      "homogenizatora ultrasonicznego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_schemat19.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 23,
+    "text": "Do peklowania mięsa drobnego, przeznaczonego do produkcji kiełbas, stosowana jest metoda",
+    "answers": [
+      "nastrzykowa.",
+      "sucha.",
+      "mieszana.",
+      "zalewowa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 24,
+    "text": "Którą metodą należy utrwalić przetwory z warzyw w zalewie octowej?",
+    "answers": [
+      "Osmoaktywną.",
+      "Termiczną.",
+      "Biotechnologiczną.",
+      "Membranową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 25,
+    "text": "Roztwór wodorotlenku sodu o stężeniu 0,25 mol/dm3 i fenoloftaleina to odczynniki służące do oznaczania",
+    "answers": [
+      "kwasowości mleka.",
+      "zawartości białka.",
+      "wilgotności mąki.",
+      "zawartości tłuszczu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 26,
+    "text": "Metoda Bertranda służy do oznaczania w żywności zawartości",
+    "answers": [
+      "cukru.",
+      "tłuszczu.",
+      "białka.",
+      "popiołu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 27,
+    "text": "Badania sensoryczne żywności obejmują",
+    "answers": [
+      "oznaczenie suchej masy.",
+      "określenie wartości odżywczej.",
+      "oznaczenie ilości drobnoustrojów.",
+      "określenie cech organoleptycznych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 28,
+    "text": "Określ zgodnie z technologią obowiązującą kolejność wybranych etapów produkcji piwa.",
+    "answers": [
+      "Warzenie brzeczki, przygotowanie słodu, fermentacja piwa, filtracja, rozlew piwa.",
+      "Przygotowanie słodu, fermentacja piwa, filtracja, warzenie brzeczki, rozlew piwa.",
+      "Przygotowanie słodu, fermentacja piwa, warzenie brzeczki, filtracja, rozlew piwa.",
+      "Przygotowanie słodu, warzenie brzeczki, fermentacja piwa, filtracja, rozlew piwa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 29,
+    "text": "Ile 8-godzinnych zmian powinna pracować linia do produkcji makaronu o wydajności 50 kg/h, jeżeli złożono zamówienie na wyprodukowanie 1,6 ton makaronu?",
+    "answers": [
+      "4 zmiany.",
+      "3 zmiany.",
+      "2 zmiany.",
+      "6 zmian."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 30,
+    "text": "W celu oddzielenia powietrza od mąki, podczas transportu pneumatycznego mąki luzem, należy zastosować",
+    "answers": [
+      "wagę.",
+      "przesiewacz.",
+      "cyklon.",
+      "dmuchawę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 31,
+    "text": "Kriokoncentrację należy stosować do",
+    "answers": [
+      "kandyzowania.",
+      "żelowania.",
+      "suszenia.",
+      "żelowania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 32,
+    "text": "Tankosilosy wykorzystuje się do magazynowania",
+    "answers": [
+      "ryb.",
+      "masła.",
+      "mięsa.",
+      "mleka."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 33,
+    "text": "W której metodzie rozdzielania składników żywności wykorzystywana jest siła odśrodkowa?",
+    "answers": [
+      "Destylacja.",
+      "Wirowanie.",
+      "Dyfuzja.",
+      "Sedymentacja."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 34,
+    "text": "Który zestaw gazów wykorzystuje się w procesie utrwalania wyrobów poprzez pakowanie w modyfikowanej atmosferze (MAP)?",
+    "answers": [
+      "Azot, tlen, dwutlenek siarki.",
+      "Dwutlenek siarki, tlen, wodór.",
+      "Siarkowodór, tlen, dwutlenek węgla.",
+      "Azot, tlen, dwutlenek węgla."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 35,
+    "text": "W jednej komorze czterokomorowego pieca cyklotermicznego mieści się 120 szt. bułek, a ich wypiek trwa 20 minut. Ile minut będzie trwał wypiek 1 440 szt. bułek przy równoczesnym wykorzystaniu wszystkich komór pieca?",
+    "answers": [
+      "60 minut.",
+      "120 minut.",
+      "240 minut.",
+      "80 minut."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 36,
+    "text": "Ile gramów substancji znajduje się w 440 g 20-procentowego roztworu?",
+    "answers": [
+      "352 g",
+      "88 g",
+      "420 g",
+      "42 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 37,
+    "text": "Na ilustracji przedstawiono sprzęt, który służy do pomiaru gęstości metodą",
+    "answers": [
+      "ultradźwiękową.",
+      "areometryczną.",
+      "hydrostatyczną.",
+      "piknometryczną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_sprzet2.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 38,
+    "text": "Procesem występującym bezpośrednio po defekacji surowego soku podczas produkcji cukru buraczanego jest",
+    "answers": [
+      "ekstrakcja.",
+      "saturacja.",
+      "krystalizacja.",
+      "segregacja."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 39,
+    "text": "Korzystając z informacji zamieszczonych w tabeli, wskaż w którym zestawie do urządzenia prawidłowo dobrano jego zastosowanie?",
+    "answers": [
+      "W zestawie III.",
+      "W zestawie I.",
+      "W zestawie II.",
+      "W zestawie IV."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_tabela45.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 40,
+    "text": "Z 2 ton surowca mięsnego otrzymano 1,5 tony kiełbasy jałowcowej. Jaka jest wydajność produkcji tego wyrobu?",
+    "answers": [
+      "75%",
+      "60%",
+      "175%",
+      "150%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 41,
+    "text": "Który proces produkcji zupy typu instant umożliwia konsumentowi szybkie jej przygotowanie?",
+    "answers": [
+      "Tyndalizacja.",
+      "Termizacja.",
+      "Aglomeracja.",
+      "Dekantacja."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 42,
+    "text": "Łaźnia butyrometryczna jest stosowana w celu oznaczenia zawartości",
+    "answers": [
+      "tłuszczu w serze.",
+      "sacharozy w cukrze.",
+      "soli w kiełbasie.",
+      "kazeiny w mleku."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 43,
+    "text": "Do pakowania mleka sterylizowanego UHT wykorzystuje się",
+    "answers": [
+      "torebki z celofanu.",
+      "woreczki termokurczliwe.",
+      "butelki polistyrenowe.",
+      "kartony wielowarstwowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 44,
+    "text": "W której partii kiszonej kapusty najintensywniej zachodziła niepożądana fermentacja octowa?",
+    "answers": [
+      "W 4 partii.",
+      "W 1 partii.",
+      "W 2 partii.",
+      "W 3 partii."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_tabela28.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 45,
+    "text": "Jakie stężenie będzie posiadał roztwór, jeżeli do 200 g wody doda się 10 g suchego odczynnika?",
+    "answers": [
+      "9,5%",
+      "4,8%",
+      "20,0%",
+      "10,0%"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 46,
+    "text": "Z analizy karty charakterystyki wynika, że azotan (V) srebra",
+    "answers": [
+      "wolno składować z każdym odczynnikiem chemicznym.",
+      "powinien znajdować się w opakowaniach szklanych.",
+      "można przechowywać w temperaturze pokojowej.",
+      "należy przetrzymywać w butelce w pozycji poziomej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_ramka7.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 47,
+    "text": "Kolba Kjeldahla wykorzystywana do mineralizacji próbki za pomocą stężonego kwasu siarkowego jest niezbędna przy oznaczaniu w żywności zawartości",
+    "answers": [
+      "cukru.",
+      "białka.",
+      "tłuszczu.",
+      "wody."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 48,
+    "text": "Które z wymienionych urządzeń służy do sterylizacji konserw mięsnych?",
+    "answers": [
+      "Autoklaw.",
+      "Warnik.",
+      "Wyparka.",
+      "Parownik."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 49,
+    "text": "Który z wymienionych surowców należy przechowywać w temperaturze 14÷18°C?",
+    "answers": [
+      "Mleko.",
+      "Mąkę.",
+      "Ziemniaki.",
+      "Mięso."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 50,
+    "text": "Nadzór nad procesem przeprowadzania sterylizacji konserw powinien prowadzić",
+    "answers": [
+      "pakowacz.",
+      "laborant.",
+      "magazynier.",
+      "aparatowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 51,
+    "text": "Wskaż grupę wyróżników oceny sensorycznej.",
+    "answers": [
+      "Elastyczność, wilgotność, masa.",
+      "Wilgotność, gęstość, twardość.",
+      "Kwasowość, barwa, objętość.",
+      "Konsystencja, zapach, barwa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 52,
+    "text": "Cyklon jest urządzeniem stanowiącym wyposażenie linii technologicznej do produkcji",
+    "answers": [
+      "przecieru pomidorowego.",
+      "sera topionego.",
+      "szynki wędzonej.",
+      "mleka w proszku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 53,
+    "text": "Proces uwodornienia zwany utwardzaniem wykorzystuje się podczas produkcji",
+    "answers": [
+      "chleba razowego.",
+      "piwa pszennego.",
+      "kefiru naturalnego.",
+      "tłuszczu cukierniczego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 54,
+    "text": "Który z wymienionych produktów spożywczych został utrwalony metodą biologiczną?",
+    "answers": [
+      "Kompot jabłkowy.",
+      "Ogórki marynowane.",
+      "Kapusta kiszona.",
+      "Kiełbasa wędzona."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 55,
+    "text": "Środkiem konserwującym wyroby mięsne, nazywanym potocznie solą peklującą, jest",
+    "answers": [
+      "azotan potasu.",
+      "chlorek wapnia.",
+      "propionian sodu.",
+      "mleczan wapnia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 56,
+    "text": "Do przemysłowej produkcji tradycyjnego makaronu 5-jajecznego nie stosuje się",
+    "answers": [
+      "suszarni.",
+      "blanszownika.",
+      "matrycy do tłoczenia.",
+      "wybijarki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 57,
+    "text": "Który produkt spożywczy należy szczególnie chronić przed dostępem światła?",
+    "answers": [
+      "Kaszę.",
+      "Cukier.",
+      "Masło.",
+      "Chleb."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 58,
+    "text": "Do przeprowadzenia spopielania próbki żywności w piecu muflowym należy wykorzystać",
+    "answers": [
+      "tygiel.",
+      "szkiełko.",
+      "płytkę.",
+      "kolbę."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 59,
+    "text": "Krytyczny Punkt Kontrolny (CCP) wyznaczono na etapie pasteryzacji mleka surowego. Który parametr technologiczny należy szczególnie monitorować?",
+    "answers": [
+      "Lepkość.",
+      "Wilgotność.",
+      "Temperaturę.",
+      "Ciśnienie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 60,
+    "text": "Urządzenie przedstawione na rysunku służy do produkcji",
+    "answers": [
+      "masła.",
+      "twarogu.",
+      "jogurtu.",
+      "śmietany."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_urzadzenie9.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 61,
+    "text": "Okrawki pozostające po konfekcjonowaniu sera podpuszczkowego, są wykorzystywane do produkcji sera",
+    "answers": [
+      "topionego.",
+      "ziarnistego.",
+      "feta.",
+      "twarogowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 62,
+    "text": "Do produkcji spirytusu w Polsce najczęściej wykorzystuje się",
+    "answers": [
+      "kasze i płatki.",
+      "chmiel i jęczmień.",
+      "jabłka i wiśnie.",
+      "ziemniaki i żyto."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 63,
+    "text": "Wydajność linii produkcyjnej dżemu truskawkowego wynosi 120 kg na godzinę. Oblicz, ile ton dżemu truskawkowego wyprodukuje zakład w ciągu 5 dni, pracując po dwie 8-godzinne zmiany produkcyjne na dobę.",
+    "answers": [
+      "4,8 t",
+      "0,4 t",
+      "9,6 t",
+      "0,6 t"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 64,
+    "text": "Wskaż brakujący etap oznaczony znakiem ? we fragmencie schematu technologicznego produkcji kiełbasy białej surowej.",
+    "answers": [
+      "Kutrowanie.",
+      "Suszenie.",
+      "Wędzenie.",
+      "Peklowanie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_schemat12.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 65,
+    "text": "Masło najlepiej przechowywać w temperaturze około",
+    "answers": [
+      "20°C",
+      "15°C",
+      "4°C",
+      "10°C"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 66,
+    "text": "Normy o zasięgu krajowym oznaczone są symbolem",
+    "answers": [
+      "ZN",
+      "PN",
+      "ISO",
+      "CEN"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 67,
+    "text": "Która metoda utrwalania pozwala w największym stopniu zachować wartość odżywczą surowca?",
+    "answers": [
+      "Solenie.",
+      "Sterylizacja.",
+      "Słodzenie.",
+      "Zamrażanie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 68,
+    "text": "Który z wymienionych procesów pozwoli utrwalić mleko tak, aby miało jak najdłuższy termin przydatności do spożycia?",
+    "answers": [
+      "Sterylizacja.",
+      "Filtracja.",
+      "Pasteryzacja.",
+      "Homogenizacja."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 69,
+    "text": "Planując produkcję konfitury, należy uwzględnić zamówienie owoców oraz",
+    "answers": [
+      "glutaminianu sodu.",
+      "karagenu.",
+      "cukru.",
+      "kwasu octowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 70,
+    "text": "Korzystając z informacji zawartych w instrukcji laboratoryjnej, określ minimalną liczbę próbek, którą należy pobrać z partii produkcyjnej, liczącej 100 kg kiełbasy jałowcowej.",
+    "answers": [
+      "5 próbek.",
+      "3 próbki.",
+      "1 próbka.",
+      "10 próbek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_ramka6.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 71,
+    "text": "Korzystanie z dygestorium jest konieczne podczas oznaczania metodą Kjeldahla",
+    "answers": [
+      "zawartości białka.",
+      "gęstości alkoholi.",
+      "kwasowości mleka.",
+      "wilgotności produktu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 72,
+    "text": "Do produkcji budyniu w proszku wykorzystuje się",
+    "answers": [
+      "skrobię.",
+      "żelatynę.",
+      "pektynę.",
+      "kazeinę."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 73,
+    "text": "Do produkcji kefiru należy użyć wyselekcjonowanych szczepów drożdży oraz bakterii fermentacji",
+    "answers": [
+      "masłowej.",
+      "mlekowej.",
+      "propionowej.",
+      "alkoholowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 74,
+    "text": "Kontrola partii wyprodukowanego kompotu wiśniowego wykazała, że w kilku słoikach z kompotem są muchy. W tej sytuacji należy",
+    "answers": [
+      "usunąć owady i poddać kompoty ponownej pasteryzacji w opakowaniu.",
+      "przecedzić kompoty w celu usunięcia owadów i przeznaczyć do sprzedaży.",
+      "wykluczyć całą partię wyrobu z dystrybucji.",
+      "przeznaczyć do sprzedaży część partii produkcyjnej bez owadów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 75,
+    "text": "Oblicz, ile sztuk kartonów należy użyć do zapakowania 8 000 sztuk tabliczek czekolady o gramaturze 200 g, jeżeli jeden karton ma nośność 25 kg.",
+    "answers": [
+      "3 200 sztuk.",
+      "160 sztuk.",
+      "64 sztuki.",
+      "8 sztuk."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 76,
+    "text": "Emulgowanie jest procesem niezbędnym podczas produkcji",
+    "answers": [
+      "majonezu.",
+      "cukru.",
+      "makaronu.",
+      "dżemu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 77,
+    "text": "Proces dodawania dwutlenku siarki przy produkcji wina określa się terminem",
+    "answers": [
+      "estryfikacji.",
+      "kupażowania.",
+      "sulfitacji.",
+      "ekstrakcji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 78,
+    "text": "Oblicz, ile kilogramów soli należy użyć do produkcji 450 kg kiełbasy, jeżeli na 100 kg wyrobu gotowego zużywa się 3 kg soli.",
+    "answers": [
+      "13,5 kg",
+      "15,0 kg",
+      "30,0 kg",
+      "66,6 kg"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 79,
+    "text": "Która z wymienionych operacji technologicznych jest obróbką cieplną prowadzoną w środowisku wrzącej wody?",
+    "answers": [
+      "Suszenie.",
+      "Prażenie.",
+      "Gotowanie.",
+      "Chłodzenie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 80,
+    "text": "Produktem ubocznym powstającym podczas produkcji cukru jest",
+    "answers": [
+      "sopstok.",
+      "melasa.",
+      "makuch.",
+      "wytłok."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 81,
+    "text": "Korzystając z informacji zamieszczonych w tabeli, określ minimalną liczbę próbek, którą należy pobrać z partii produkcyjnej, liczącej 100 kg kiełbasy jałowcowej.",
+    "answers": [
+      "3 próbki.",
+      "10 próbek.",
+      "1 próbka.",
+      "5 próbek."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_instrukcja2.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 82,
+    "text": "Kontrola partii wyprodukowanego kompotu truskawkowego wykazała, że w kilku słoikach z kompotem są muchy. W tej sytuacji należy",
+    "answers": [
+      "przeznaczyć do sprzedaży część partii produkcyjnej bez owadów.",
+      "przecedzić kompoty w celu usunięcia owadów i przeznaczyć do sprzedaży.",
+      "usunąć owady i poddać kompoty ponownej pasteryzacji w opakowaniu.",
+      "wykluczyć całą partię wyrobu z dystrybucji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 83,
+    "text": "Piktogram przedstawiony na ilustracji należy umieścić na opakowaniu zawierającym",
+    "answers": [
+      "chlorek sodu.",
+      "błękit metylenowy.",
+      "kwas solny.",
+      "eter dietylowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_piktogram2.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 84,
+    "text": "Do chemicznego utrwalania marmolady stosuje się",
+    "answers": [
+      "azotan potasu.",
+      "mleczan wapnia.",
+      "kwas propionowy.",
+      "kwas sorbowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 85,
+    "text": "Do pakowania mleka sterylizowanego UHT zwyczajowo wykorzystuje się",
+    "answers": [
+      "torebki z celofanu.",
+      "butelki  polistyrenowe.",
+      "kartony wielowarstwowe.",
+      "woreczki termokurczliwe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 86,
+    "text": "W celu otrzymania roztworu o stężeniu 20% należy użyć",
+    "answers": [
+      "20 g cukru i 80 g wody.",
+      "80 g cukru i 120 g wody.",
+      "80 g cukru i 20 g wody.",
+      "20 g cukru i 100 g wody."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 87,
+    "text": "W dokumentacji systemu HACCP procesu produkcji nektaru jabłkowego w butelkach szklanych, podczas monitorowania CCP technolog ma obowiązek odnotować",
+    "answers": [
+      "datę pobrania próbek nektaru do badań.",
+      "temperaturę nektaru i czas pasteryzacji.",
+      "czas mycia dyszy rozlewającej.",
+      "wydajność linii technologicznej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 88,
+    "text": "Nabiał najlepiej przechowywać w temperaturze około",
+    "answers": [
+      "4°C",
+      "10°C",
+      "20°C",
+      "15°C"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 89,
+    "text": "Wydajność linii produkcyjnej dżemu brzoskwiniowego wynosi 240 kg na godzinę. Oblicz, ile ton dżemu wyprodukuje zakład w ciągu 5 dni, pracując po dwie 8-godzinne zmiany produkcyjne na dobę.",
+    "answers": [
+      "0,8 t",
+      "1,2 t",
+      "19,2 t",
+      "9,6 t"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 90,
+    "text": "W ocenie organoleptycznej wadą serka topionego będzie",
+    "answers": [
+      "jednolita barwa w całej masie.",
+      "łagodny, lekko słony smak.",
+      "smarowna, elastyczna tekstura.",
+      "lekko pleśniowy, stęchły zapach."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 91,
+    "text": "Przedstawiony na ilustracji sprzęt należy zastosować do oznaczenia zawartości",
+    "answers": [
+      "ekstraktu w soku jabłkowym.",
+      "tłuszczu w czipsach ziemniaczanych.",
+      "azotu w przetworach mięsnych.",
+      "kwasowości mleka spożywczego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_sprzet6.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 92,
+    "text": "Oblicz, ile dm3 mleka należy przygotować do produkcji 12 000 kg sera dojrzewającego, jeżeli na 1 kg sera zużywa się 6 dm3 mleka?",
+    "answers": [
+      "500 dm3",
+      "6 000 dm3",
+      "20 000 dm3",
+      "72 000 dm3"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 93,
+    "text": "Lecytyna i śruta poekstrakcyjna są produktami ubocznymi powstającymi w przetwórstwie",
+    "answers": [
+      "surowców olejarskich.",
+      "zbóż.",
+      "ziemniaków.",
+      "owoców i warzyw."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 94,
+    "text": "Do zamrażania mieszanki lodowej należy zastosować",
+    "answers": [
+      "pasteryzator.",
+      "frezer.",
+      "matecznik.",
+      "krioskop."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 95,
+    "text": "Liofilizacja to proces wykorzystywany do produkcji",
+    "answers": [
+      "nektarów i soków owocowych w kartonikach.",
+      "dżemów z owoców świeżych.",
+      "suszy owocowych i warzywnych.",
+      "koktajli mleczno-owocowych w kubeczkach."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 96,
+    "text": "W schemacie technologicznym produkcji pulpy owocowej znakiem ? oznaczono czynności o nazwie",
+    "answers": [
+      "Gotowanie i oziębianie.",
+      "Rozdrabnianie i tłoczenie.",
+      "Czyszczenie i sortowanie.",
+      "Konfekcjonowanie i chłodzenie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_schemat18.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 97,
+    "text": "Którą grupę maszyn i urządzeń należy zastosować w procesie produkcji kiełbasy białej surowej?",
+    "answers": [
+      "Kuter, emulsyfikator, komora parzelnicza, gniotownik.",
+      "Młynek koloidalny, łuskownica, autoklaw, walcowarka.",
+      "Masownica, komora wędzarniczo-parzelnicza, konsza.",
+      "Wilk, kuter, mieszarka, nadziewarka."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 98,
+    "text": "Korzystając z informacji zamieszczonych w tabeli, określ w której partii kiszonej kapusty najintensywniej zachodziła niepożądana fermentacja octowa?",
+    "answers": [
+      "W 4 partii.",
+      "W 3 partii.",
+      "W 1 partii.",
+      "W 2 partii."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_tabela42.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 99,
+    "text": "Urządzenie przedstawione na ilustracji w procesie produkcji polędwicy sopockiej jest stosowane do wykonania operacji",
+    "answers": [
+      "wędzenia mięsa.",
+      "plastyfikacji mięsa.",
+      "rozdrabniania mięsa.",
+      "peklowania mięsa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_urzadzenie11.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 100,
+    "text": "Do produkcji kaszy manny wykorzystuje się ziarna",
+    "answers": [
+      "żyta.",
+      "prosa.",
+      "pszenicy.",
+      "jęczmienia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 101,
+    "text": "Ekstruzja jest procesem niezbędnym podczas produkcji",
+    "answers": [
+      "karmelków owocowych.",
+      "herbatników maślanych.",
+      "chrupek kukurydzianych.",
+      "paluszków solonych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 102,
+    "text": "Substancje, które zapobiegają rozwarstwianiu się majonezu, to",
+    "answers": [
+      "stabilizatory.",
+      "substancje konserwujące.",
+      "przeciwutleniacze.",
+      "regulatory kwasowości."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 103,
+    "text": "Fuzle to frakcja uboczna powstająca w procesie technologicznym przy produkcji",
+    "answers": [
+      "oleju.",
+      "kawy.",
+      "spirytusu.",
+      "drożdży."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 104,
+    "text": "Ile słoików należy przygotować do zapakowania 600 kg ogórków kiszonych, jeżeli masa wsadu do jednego słoika wynosi 500 g?",
+    "answers": [
+      "1 200 sztuk.",
+      "120 sztuk.",
+      "3 000 sztuk.",
+      "300 sztuk."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 105,
+    "text": "Badanie fizyczne mleka polega na oznaczeniu",
+    "answers": [
+      "ilości składników odżywczych.",
+      "jego gęstości i temperatury.",
+      "jego barwy oraz konsystencji.",
+      "występującej w nim mikroflory."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 106,
+    "text": "Schemat przedstawia wyparkę próżniową, w skład której w kolejności wchodzą:",
+    "answers": [
+      "1 - pompa, 2 - komora grzejna, 3 - komora oparów, 4 - skraplacz.",
+      "1 - komora oparów, 2 - komora grzejna, 3 - skraplacz, 4 - pompa.",
+      "1 - pompa, 2 - komora oparów, 3 - skraplacz, 4 - komora grzejna.",
+      "1 - komora grzejna, 2 - komora oparów, 3 - skraplacz, 4 - pompa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_schemat17.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 107,
+    "text": "W której temperaturze należy przechowywać mrożonki w zakładzie cukierniczym?",
+    "answers": [
+      "-22°C",
+      "-10°C",
+      "4°C",
+      "0°C"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 108,
+    "text": "Korzystając z receptury zamieszczonej w tabeli oblicz, ile drożdży należy użyć do produkcji ciasta pszennego ze 120 kg mąki.",
+    "answers": [
+      "1,8 kg",
+      "3,6 kg",
+      "6,6 kg",
+      "1,2 kg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_receptura8.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 109,
+    "text": "Kaszę mannę otrzymuje się z ziarna",
+    "answers": [
+      "prosa.",
+      "gryki.",
+      "jęczmienia.",
+      "pszenicy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 110,
+    "text": "Zjawisko syntezy zachodzi w procesie produkcji * zdający otrzymuje jeden punkt niezależnie od udzielonej odpowiedzi.",
+    "answers": [
+      "mleka zagęszczonego. \nB.  mleka w proszku. \nC.  serów. \nD.  masła."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 111,
+    "text": "Wydajność pieca dla bułek drobnych wynosi 160 kg/godzinę. O której godzinie zakończy się wypiek 400 kg bułek kajzerek, jeżeli proces rozpoczęto o godzinie 5.00 rano?",
+    "answers": [
+      "O godzinie 7.00",
+      "O godzinie 7.30",
+      "O godzinie 6.45",
+      "O godzinie 6.30"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 112,
+    "text": "Jak nazywa się oznaczony znakiem zapytania etap na fragmencie schematu procesu produkcji mleka w proszku?",
+    "answers": [
+      "Normalizacja.",
+      "Homogenizacja.",
+      "Lecytynizacja.",
+      "Chłodzenie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_schemat16.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 113,
+    "text": "Który znak manipulacyjny należy umieścić na opakowaniu żywności szybko psującej się?",
+    "answers": [
+      "Znak II.",
+      "Znak IV.",
+      "Znak I.",
+      "Znak III."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_znaki3.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 114,
+    "text": "Oblicz wydajność godzinową linii rozbioru trzody chlewnej, jeżeli w ciągu 8 godzin poddano rozbiorowi 2 000 sztuk tusz wieprzowych.",
+    "answers": [
+      "360 szt./godz.",
+      "160 szt./godz.",
+      "200 szt./godz.",
+      "250 szt./godz."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 115,
+    "text": "Jak nazywa się proces polegający na krótkotrwałym zanurzeniu owoców w wodzie o temperaturze 80÷100°C lub parze, a następnie ich natychmiastowym ochłodzeniu do temperatury otoczenia?",
+    "answers": [
+      "Rozparzanie.",
+      "Blanszowanie.",
+      "Podgrzewanie.",
+      "Gotowanie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 116,
+    "text": "Konszowanie jest etapem produkcji",
+    "answers": [
+      "galaretek.",
+      "sezamków.",
+      "czekolady.",
+      "karmelków."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 117,
+    "text": "Korzystając z informacji zamieszczonych w tabeli określ, ile próbek pierwotnych towaru sypkiego luzem należy pobrać do badań, jeżeli wielkość partii wynosi 10,5 tony.",
+    "answers": [
+      "10 próbek.",
+      "25 próbek.",
+      "15 próbek.",
+      "20 próbek."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_tabela39.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 118,
+    "text": "Warunkiem dopuszczenia pracownika do obsługi wózka widłowego jezdniowego jest",
+    "answers": [
+      "posiadanie wykształcenia minimum zawodowego.",
+      "zapoznanie z dokumentacją techniczną.",
+      "uzyskanie uprawnienia operatora wózka.",
+      "ukończenie co najmniej 21 lat."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 119,
+    "text": "Cukier kryształ magazynowany w warunkach zgodnych z Polską Normą można przechowywać",
+    "answers": [
+      "10 lat.",
+      "bezterminowo.",
+      "12 miesięcy.",
+      "25 lat."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 120,
+    "text": "Produktem ubocznym powstającym w procesie produkcji oleju jest",
+    "answers": [
+      "lecytyna.",
+      "maślanka.",
+      "serwatka.",
+      "melasa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 121,
+    "text": "Norma BN-87 8020-02 Ryby i przetwory rybne jest normą",
+    "answers": [
+      "europejską.",
+      "branżową.",
+      "międzynarodową.",
+      "amerykańską."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 122,
+    "text": "Przedstawione na schemacie urządzenie stosuje się do",
+    "answers": [
+      "transportu kęsów ciasta na pączki.",
+      "wytłaczania makaronu.",
+      "wydłużania ciasta na chleb.",
+      "wykrawania ciastek."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_urzadzenie13.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 123,
+    "text": "W pomieszczeniu, w którym przeprowadza się chemiczną analizę żywności,",
+    "answers": [
+      "zużytą mieszaninę chromową należy wylać do kanalizacji.",
+      "można oceniać zapach reagentów nachylając się bezpośrednio nad kolbą reakcyjną.",
+      "badania z wydzielaniem oparów należy wykonywać w pobliżu otwartego okna.",
+      "nie wolno spożywać posiłków ani pić napojów."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 124,
+    "text": "Substancja higroskopijna, znajdująca się w szafce wagi analitycznej, umożliwia utrzymanie stałej wartości",
+    "answers": [
+      "ciśnienia.",
+      "przepływu powietrza.",
+      "wilgotności względnej.",
+      "temperatury."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 125,
+    "text": "Instrukcja bezpieczeństwa, dotycząca obsługi maszyny, zawarta jest",
+    "answers": [
+      "w normie technicznej.",
+      "w instrukcji technologicznej.",
+      "w specyfikacji materiałowej.",
+      "w dokumentacji technicznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 126,
+    "text": "Podczas kiszenia kapusty w dominującym udziale zachodzi fermentacja",
+    "answers": [
+      "masłowa.",
+      "propionowa.",
+      "mlekowa.",
+      "alkoholowa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 127,
+    "text": "W przypadku stwierdzenia skażenia chemicznego mleka na etapie dostawy do zakładu przetwórstwa należy",
+    "answers": [
+      "poddać neutralizacji odpowiednim środkiem chemicznym.",
+      "odrzucić daną partię surowca.",
+      "zastosować wstępną pasteryzację.",
+      "przeprowadzić dodatkowe oczyszczanie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 128,
+    "text": "Jaką barwę uzyskuje produkt spożywczy po dodaniu kurkumy?",
+    "answers": [
+      "Czerwoną.",
+      "Fioletowo-niebieską.",
+      "Ciemnoniebieską.",
+      "Żółtą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 129,
+    "text": "Który przenośnik umożliwia transport wafelków zarówno w opakowaniu, jak i luzem?",
+    "answers": [
+      "Szczebelkowy.",
+      "Ślimakowy.",
+      "Czerpakowy.",
+      "Taśmowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 130,
+    "text": "W tabeli przedstawiono wyniki analizy sensorycznej produktu spożywczego w skali pięciopunktowej z uwzględnieniem współczynników ważkości. Ile punktów uzyskał badany produkt?",
+    "answers": [
+      "1,4",
+      "3,7",
+      "5,0",
+      "4,2"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_tabela40.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 131,
+    "text": "W celu obniżenia temperatury kutrowanego farszu należy",
+    "answers": [
+      "dodać przyprawy i dodatki do misy.",
+      "wychłodzić pomieszczenie.",
+      "dodać lód do misy.",
+      "zmniejszyć liczbę obrotów misy kutra."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 132,
+    "text": "Ile wynosi stężenie roztworu otrzymanego po rozpuszczeniu 10 g cukru w 100 g wody?",
+    "answers": [
+      "10,00%",
+      "12,00%",
+      "9,09%",
+      "11,11%"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 133,
+    "text": "Serwatka wykorzystywana jest do produkcji",
+    "answers": [
+      "kawy instant.",
+      "makaronu orkiszowego.",
+      "napojów fermentowanych.",
+      "zagęszczonych soków owocowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 134,
+    "text": "Zgodnie z normą wilgotność mąki pszennej nie może przekraczać 15%, a jej kwasowość nie może być wyższa niż 3 stopnie kwasowości. Która próbka mąki spełnia te wymagania?",
+    "answers": [
+      "Próbka II.",
+      "Próbka I.",
+      "Próbka III.",
+      "Próbka IV."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_tabela41.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 135,
+    "text": "Przenośnik pneumatyczny stosowany jest do transportu",
+    "answers": [
+      "ziemniaków.",
+      "zboża.",
+      "cebuli.",
+      "buraków."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 136,
+    "text": "Parowanie ziarna zbóż jest stosowane w procesie produkcji",
+    "answers": [
+      "płatków owsianych.",
+      "mąki razowej.",
+      "kaszy manny.",
+      "kasz łamanych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 137,
+    "text": "Na trudne warunki pracy w fermentowni wpływa",
+    "answers": [
+      "wysoka zawartość dwutlenku węgla w powietrzu.",
+      "niska temperatura.",
+      "duże natężenie oświetlenia.",
+      "niska wilgotność."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 138,
+    "text": "Przeanalizuj informacje zamieszczone w tabeli i określ, który koncentrat w 100 g zawiera najwięcej wody.",
+    "answers": [
+      "Zagęszczony sok owocowy.",
+      "Syrop skrobiowy.",
+      "Mleko zagęszczone.",
+      "Koncentrat pomidorowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_tabela38.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 139,
+    "text": "Melasa jest produktem ubocznym powstałym w procesie produkcji",
+    "answers": [
+      "karmelu.",
+      "miodu.",
+      "cukru.",
+      "dżemu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 140,
+    "text": "Kruszonkę otrzymuje się z połączenia mąki, masła i cukru pudru w proporcji odpowiednio 2:1:1. Ile gramów masła należy dodać do 400 g mąki i 200 g cukru pudru, aby otrzymać wyrób zgodnie z proporcją?",
+    "answers": [
+      "400 g",
+      "200 g",
+      "100 g",
+      "800 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 141,
+    "text": "Do rozdzielania surowców na frakcje wielkościowe stosuje się",
+    "answers": [
+      "prasy.",
+      "filtry.",
+      "wirówki.",
+      "sortowniki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 142,
+    "text": "Która ilustracja przedstawia sprzęt miarowy wykorzystywany podczas czynności miareczkowania badanej próbki?",
+    "answers": [
+      "Ilustracja II.",
+      "Ilustracja III.",
+      "Ilustracja I.",
+      "Ilustracja IV."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_sprzet5.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 143,
+    "text": "Krytycznym punktem kontroli, wymagającym monitorowania temperatury podczas produkcji kiełbas, jest etap",
+    "answers": [
+      "etykietowania.",
+      "napełniania.",
+      "parzenia.",
+      "rozdrabniania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 144,
+    "text": "Aparat Soxhleta stosuje się do oznaczania zawartości",
+    "answers": [
+      "tłuszczów.",
+      "cukrów.",
+      "soli.",
+      "białek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 145,
+    "text": "Lecytyna, uzyskiwana w procesie odszlamiania (hydratacji) oleju, wykorzystywana jest jako dodatek przy produkcji",
+    "answers": [
+      "wina.",
+      "karmelu.",
+      "czekolady.",
+      "kiszonek."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 146,
+    "text": "Autocysterny o pojemności 14000 litrów stosuje się podczas transportu",
+    "answers": [
+      "zboża.",
+      "mięsa.",
+      "mleka.",
+      "owoców."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 147,
+    "text": "Który opis przedstawia operacje technologiczne w odpowiedniej kolejności dla procesu produkcji mleka w proszku?",
+    "answers": [
+      "Opis IV.",
+      "Opis I.",
+      "Opis II.",
+      "Opis III."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_tabela36.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 148,
+    "text": "Do oznaczania chlorków w próbkach żywności stosuje się metodę",
+    "answers": [
+      "Kjeldahla.",
+      "Gerbera.",
+      "Bertranda.",
+      "Volharda."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 149,
+    "text": "Który zestaw urządzeń wchodzi w skład linii produkcyjnej kaszy perłowej?",
+    "answers": [
+      "Obłuskiwacz tarczowy, sortownik płaski, krajalnica bębnowa, polerówka bębnowa.",
+      "Płuczka wodno-powietrzna, drylownica, rozparzacz, przecieraczka.",
+      "Prasa hydrauliczna, kadź nastawna, zbiornik fermentacyjny, filtry.",
+      "Parownik stożkowy, gniotownik walcowy, suszarka, wialnia kaskadowa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 150,
+    "text": "Ile cukru należy użyć do produkcji 5 000 dm3 napoju owocowego, jeżeli na 100 dm3 wyrobu gotowego zużyto 8 kg tego składnika?",
+    "answers": [
+      "500 kg",
+      "620 kg",
+      "400 kg",
+      "800 kg"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 151,
+    "text": "Dobierz parametry pasteryzacji niskiej mleka.",
+    "answers": [
+      "75 ÷ 80°C, czas 30 sekund.",
+      "90 ÷ 110°C czas 15 sekund.",
+      "55 ÷ 58°C, czas 30 sekund.",
+      "45 ÷ 55°C, czas 50 sekund."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 152,
+    "text": "Surowcem do produkcji kaszy pęczak jest",
+    "answers": [
+      "owies.",
+      "żyto.",
+      "pszenica.",
+      "jęczmień."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 153,
+    "text": "Który wymóg, dotyczący zapewnienia bezpieczeństwa podczas pracy w pracowni analizy żywności, powinien być spełniony?",
+    "answers": [
+      "Temperatura w pracowni analizy powinna być niższa niż 18°C.",
+      "Do każdego stanowiska pracy należy zapewnić bezpieczne dojście.",
+      "Pomieszczenie może być zamykane w sposób uniemożliwiający wyjście z niego.",
+      "Ściany i sufity pracowni powinny być wykonane z materiałów pylących."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 154,
+    "text": "Metodą polarymetryczną oznacza się zawartość",
+    "answers": [
+      "cukru.",
+      "białka.",
+      "popiołu.",
+      "tłuszczu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 155,
+    "text": "Do transportu wewnętrznego materiałów sypkich luzem stosuje się",
+    "answers": [
+      "transport pneumatyczny.",
+      "kanały spławne.",
+      "wózki widłowe.",
+      "przenośniki rolkowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 156,
+    "text": "Przykładem Polskiej Normy wprowadzającej normy europejskie jest norma oznaczona numerem",
+    "answers": [
+      "PN-93/A-86034",
+      "BN-93/A-86034",
+      "PN-ISO-93/A-86034",
+      "PN-EN-93/A-86034"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 157,
+    "text": "W którym magazynie chłodniczym należy przechowywać jabłka?",
+    "answers": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_tabela35.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 158,
+    "text": "Jak nazywa się oznaczony znakiem zapytania etap na schemacie procesu produkcji serów topionych?",
+    "answers": [
+      "Rozdrobnienie serów.",
+      "Rozlew serów.",
+      "Pakowanie serów.",
+      "Warzenie serów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_schemat14.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 159,
+    "text": "Do suszenia słodu browarniczego stosuje się metodę",
+    "answers": [
+      "kondukcyjną.",
+      "dielektryczną.",
+      "radiacyjną.",
+      "konwekcyjną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 160,
+    "text": "Saturacja soku (węglanowanie) jest jednym z etapów produkcji",
+    "answers": [
+      "oleju.",
+      "cukru.",
+      "spirytusu.",
+      "krochmalu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 161,
+    "text": "Ziarno pszenicy przed przechowywaniem w magazynie dosuszane jest do zawartości wody w zakresie",
+    "answers": [
+      "0 ÷ 5%",
+      "15 ÷ 19%",
+      "10 ÷ 14%",
+      "20 ÷ 24%"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 162,
+    "text": "W metodzie oznaczenia zawartości wody metodą suszarkową do schłodzenia wysuszonych próbek analitycznych przed ich ponownym zważeniem stosuje się",
+    "answers": [
+      "eksykator.",
+      "krystalizator.",
+      "refraktometr.",
+      "butyrometr."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 163,
+    "text": "Jaką ilość surowców należy przygotować do wyprodukowania 1,5 kg bułek poznańskich przy wydajności 128%?",
+    "answers": [
+      "2,08 kg",
+      "1,92 kg",
+      "1,17 kg",
+      "1,43 kg"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 164,
+    "text": "Do której z wymienionych operacji technologicznych stosuje się urządzenie przedstawione na schemacie?",
+    "answers": [
+      "Czyszczenie ziarna.",
+      "Śrutowanie słodu.",
+      "Suszenie krochmalu.",
+      "Sortowanie mąki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_urzadzenie12.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 165,
+    "text": "Odczynniki, oznaczone przedstawionym na ilustracji piktogramem, należą do grupy substancji chemicznych",
+    "answers": [
+      "drażniących.",
+      "utleniających.",
+      "wybuchowych.",
+      "łatwopalnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_piktogram2.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 166,
+    "text": "Do przeprowadzenia badań fizykochemicznych owoców jagodowych pobiera się próbki laboratoryjne w postaci",
+    "answers": [
+      "całej partii.",
+      "pojedynczych sztuk.",
+      "jednej skrzynki wybranej losowo.",
+      "części owocu pobranego za pomocą zgłębnika."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 167,
+    "text": "Korzystając z informacji zamieszczonych w tabeli, wskaż próbkę mleka, w której wyniki badań laboratoryjnych potwierdzają spełnienie kryteriów higieny dla mleka surowego.",
+    "answers": [
+      "Ogólna liczba drobnoustrojów 100000 i liczba komórek somatycznych 400000.",
+      "Ogólna liczba drobnoustrojów 110000 i liczba komórek somatycznych 400000.",
+      "Ogólna liczba drobnoustrojów 400000 i liczba komórek somatycznych 100000.",
+      "Ogólna liczba drobnoustrojów 100000 i liczba komórek somatycznych 410000."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_tabela37.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 168,
+    "text": "Dokumentem magazynowym jest",
+    "answers": [
+      "ewidencja pobranych surowców.",
+      "norma terminologiczna.",
+      "raport wykonanej produkcji.",
+      "karta obiegowa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 169,
+    "text": "Ile opakowań jednostkowych użyto do zapakowania 200 l soku jabłkowego, jeżeli 150 l zapakowano w butelki po 500 ml, a 50 l w kartoniki po 250 ml?",
+    "answers": [
+      "300 sztuk butelek i 200 sztuk kartoników.",
+      "150 sztuk butelek i 100 sztuk kartoników.",
+      "30 sztuk butelek i 20 sztuk kartoników.",
+      "200 sztuk butelek i 200 sztuk kartoników."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 170,
+    "text": "Która operacja występuje w procesie produkcji piwa?",
+    "answers": [
+      "Warzenie brzeczki.",
+      "Filtracja soku.",
+      "Sulfitacja.",
+      "Kawitacja."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 171,
+    "text": "Działania zapobiegawcze, w przypadku zagrożenia mikrobiologicznego, podczas magazynowania żywności polegają na",
+    "answers": [
+      "wprowadzeniu zakazu palenia tytoniu na terenie zakładu.",
+      "myciu i dezynfekcji magazynów.",
+      "mechanicznym oczyszczeniu surowców.",
+      "monitorowaniu pomieszczeń socjalnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 172,
+    "text": "Na rysunku przedstawiono fragment biurety obrazujący poziom roztworu titranta po miareczkowaniu. Jaką ilość titranta zużyto w czasie miareczkowania?",
+    "answers": [
+      "14,90 ml",
+      "14,80 ml",
+      "15,00 ml",
+      "16,00 ml"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_biureta.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 173,
+    "text": "Do chłodzenia żywności z wykorzystaniem zjawiska sublimacji czynnika chłodniczego wykorzystuje się",
+    "answers": [
+      "lód wodny.",
+      "suchy lód.",
+      "gazowy tlen.",
+      "ciekły azot."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 174,
+    "text": "Który zestaw środków ochrony indywidualnej należy zastosować, oznaczając tłuszcz metodą Bertranda? * zdający otrzymuje jeden punkt niezależnie od udzielonej odpowiedzi.",
+    "answers": [
+      "Kask ochronny i obuwie antypoślizgowe.  \nB.  Okulary ochronne i rękawice żaroodporne. \nC.  Fartuch, czepek na włosy i rękawiczki lateksowe. \nD.  Fartuch, okulary ochronne i rękawice chemoodporne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 175,
+    "text": "Młóto (wysłodziny) to produkt uboczny powstający przy produkcji",
+    "answers": [
+      "piwa jasnego.",
+      "lodów jadalnych.",
+      "przecierów owocowych.",
+      "marynat warzywnych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 176,
+    "text": "Który z wymienionych warunków nie musi być spełniony podczas oceny sensorycznej żywności?",
+    "answers": [
+      "Analizę sensoryczną należy przeprowadzić na próbkach zakodowanych.",
+      "Osoby dokonujące analizy powinny posiadać odpowiednie kwalifikacje w zakresie minimum sensorycznego.",
+      "Próbki żywności powinny znajdować się w opakowaniach z logiem producenta.",
+      "Pomieszczenia, w których przeprowadzana jest analiza, powinny spełniać określone warunki w zakresie oświetlenia, temperatury i wilgotności powietrza."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 177,
+    "text": "Do oznaczania zawartości alkoholu należy zastosować",
+    "answers": [
+      "butyrometr.",
+      "areometr.",
+      "deflegmator.",
+      "biuretę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 178,
+    "text": "Koszt produkcji puszki groszku konserwowego o masie netto 400 g wynosi 2,30 zł. Ile wyniesie koszt produkcji 700 puszek groszku konserwowego?",
+    "answers": [
+      "1 250 zł",
+      "4 025 zł",
+      "4 370 zł",
+      "1 610 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 179,
+    "text": "Wstępnym etapem procesu słodowania jęczmienia jest",
+    "answers": [
+      "suszenie ziarna.",
+      "prażenie ziarna.",
+      "moczenie w wodzie.",
+      "usuwanie kiełków."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 180,
+    "text": "Na schemacie przedstawiono zasadę działania",
+    "answers": [
+      "zamrażarki wielopłytowej.",
+      "wirówki talerzowej.",
+      "gniotownika obiegowego.",
+      "suszarki rozpyłowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_schemat15.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 181,
+    "text": "Przeprowadzenie analizy zagrożeń w ramach wdrażania systemu HACCP polega na",
+    "answers": [
+      "określeniu parametrów kontrolnych dla CCP.",
+      "identyfikacji potencjalnych zagrożeń biologicznych, chemicznych i fizycznych.",
+      "każdorazowym zapisywaniu wyników kontroli.",
+      "opracowaniu dla CCP właściwych działań korygujących."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 182,
+    "text": "Aparatura Parnasa Wagner’a przedstawiona na rysunku stosowana jest w klasycznej metodzie do oznaczania zawartości",
+    "answers": [
+      "wapnia.",
+      "sodu.",
+      "azotu.",
+      "siarki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_aparat.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 183,
+    "text": "Metoda Wartha-Pfeifera oznaczania twardości wody polega na miareczkowaniu badanej próbki mianowanym roztworem",
+    "answers": [
+      "HCl wobec oranżu metylowego.",
+      "wodorotlenku sodu wobec 3% fenoloftaleiny.",
+      "mydła potasowego w 56% roztworze alkoholu etylowym.",
+      "AgNO3<.sub> wobec 5% roztworu K2<.sub>CrO4<.sub>."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 184,
+    "text": "Które cechy jakościowe powinny posiadać drożdże świeże prasowane stosowane do produkcji wyrobów piekarskich i ciastkarskich?",
+    "answers": [
+      "Brunatną barwę, charakterystyczny smak i zapach, mazistą konsystencję.",
+      "Szarą barwę, lekko kwaśny smak i zapach, ziarnisty przekrój.",
+      "Kremową barwę, swoisty smak i zapach, muszlowy przekrój.",
+      "Jasnobrązową barwę, octowy posmak i zapach, ścisłą konsystencję."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 185,
+    "text": "Określ na podstawie informacji przedstawionych w zamieszczonej tabeli w jakiej temperaturze powinny być przechowywane przez okres zimowy ziemniaki przeznaczone do spożycia.",
+    "answers": [
+      "3°C",
+      "od 10 do 15°C",
+      "8°C",
+      "od 4 do 5°C"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_tabela33.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 186,
+    "text": "Która operacja termiczna ma zastosowanie przy produkcji chrupek kukurydzianych?",
+    "answers": [
+      "Prażenie.",
+      "Tostowanie.",
+      "Pieczenie.",
+      "Ekstruzja."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 187,
+    "text": "Przedstawiony piktogram powinien być zamieszczony na opakowaniach odczynników",
+    "answers": [
+      "drażniących.",
+      "wybuchowych.",
+      "łatwopalnych.",
+      "toksycznych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_piktogram2.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 188,
+    "text": "Eksykatory stosuje się w laboratorium w celu",
+    "answers": [
+      "mineralizacji próbek na mokro.",
+      "przechowywania próbek wrażliwych na wilgoć.",
+      "kolorymetrycznego pomiaru stężeń roztworów.",
+      "oznaczania zawartości cukrów prostych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 189,
+    "text": "Wilgotność względna powietrza powinna wynosić od 55% do 70% podczas magazynowania",
+    "answers": [
+      "jabłek.",
+      "mąki.",
+      "marchwi.",
+      "jaj."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 190,
+    "text": "Który z produktów ubocznych powstaje podczas produkcji cukru?",
+    "answers": [
+      "Sopstok.",
+      "Serwatka.",
+      "Wytłoki.",
+      "Melasa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 191,
+    "text": "Które urządzenie stosuje się do transportu pneumatycznego mąki luzem?",
+    "answers": [
+      "Sprężarkę.",
+      "Podnośnik czerpakowy.",
+      "Przenośnik taśmowy.",
+      "Pompę."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 192,
+    "text": "Ile kg oleju otrzymuje się w procesie ekstrakcji 4 000 kg rozdrobnionych nasion rzepaku, jeżeli wydajność procesu wynosi 63%?",
+    "answers": [
+      "252 kg",
+      "2 520 kg",
+      "148 kg",
+      "1 480 kg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 193,
+    "text": "Proces technologiczny którego wyrobu spożywczego przebiega zgodnie z przedstawionym schematem? rozdrabnianie wstępne → peklowanie → rozdrabnianie zasadnicze → mieszanie surowca z przyprawami → napełnianie osłonek → formowanie w wianki → osadzanie → wędzenie z osuszaniem i podpiekaniem → chłodzenie → wędzenie zimne → podsuszanie",
+    "answers": [
+      "Metki bawarskiej.",
+      "Kiszki wątrobianej.",
+      "Kiełbasy jałowcowej.",
+      "Kiełbasy parówkowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 194,
+    "text": "Do produkcji przetworu słono-korzennego o nazwie Anchois są stosowane",
+    "answers": [
+      "krewetki i kalmary.",
+      "ślimaki i żaby.",
+      "sardele i szproty.",
+      "omułki i kałamarnice."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 195,
+    "text": "Do oddzielenia śmietanki od mleka przeznaczona jest wirówka",
+    "answers": [
+      "separacyjna.",
+      "do klarowania.",
+      "do baktofugacji.",
+      "sedymentacyjna."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 196,
+    "text": "Ile próbek pierwotnych należy pobrać, zgodnie z przedstawionym fragmentem instrukcji laboratoryjnej, z partii produkcyjnej kiełbasy jałowcowej, jeśli wielkość produkcji wyniosła 100 kg? Fragment instrukcji laboratoryjnej Minimalna liczba próbek pierwotnych, którą należy pobrać z partii produkcyjnej Jeżeli masa partii jest mniejsza od 50 kg, to liczba próbek wynosi 3, przy masie od 50 kg do 500 kg – 5 próbek, przy masie powyżej 500 kg – 10 próbek.",
+    "answers": [
+      "3 próbki.",
+      "10 próbek.",
+      "5 próbek.",
+      "1 próbkę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 197,
+    "text": "Który proces utrwalania zastosowany w produkcji przypraw ze świeżych ziół zapewnia zachowanie struktury komórkowej i właściwości surowca oraz umożliwia przechowywanie w temperaturze pokojowej?",
+    "answers": [
+      "Liofilizacja.",
+      "Słodzenie.",
+      "Peklowanie.",
+      "Zamrażanie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 198,
+    "text": "Do chemicznego utrwalania dżemu niskosłodzonego stosuje się",
+    "answers": [
+      "kwas propionowy.",
+      "nizynę.",
+      "azotan (III) sodu.",
+      "kwas sorbowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 199,
+    "text": "Skrobię wykorzystuje się jako wskaźnik do oznaczania",
+    "answers": [
+      "nadtlenków w smalcu.",
+      "zawartości białka w serwatce.",
+      "kwasowości mleka.",
+      "zawartości soli kuchennej w pieczywie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 200,
+    "text": "Ile sztuk butelek o pojemności 0,25 litra należy przygotować do zapakowania 400 litrów soku pomarańczowego?",
+    "answers": [
+      "100 sztuk",
+      "160 sztuk",
+      "1 000 sztuk",
+      "1 600 sztuk"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 201,
+    "text": "Którą skubarkę wyposażoną w palce gumowe, zgodnie z przedstawionym jej schematem, należy zastosować do mechanicznego usuwania upierzenia z drobiu po uprzednim jego oparzeniu?",
+    "answers": [
+      "Walcową.",
+      "Bębnową.",
+      "Tarczową.",
+      "Pierścieniową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_skubarka.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 202,
+    "text": "Proces technologiczny piwa obejmuje następujące etapy w kolejności ich występowania:",
+    "answers": [
+      "otrzymywanie słodu, zacieranie, chmielenie brzeczki, fermentację, leżakowanie, filtrację, rozlew do opakowań.",
+      "otrzymywanie moszczu, przygotowanie moszczu do fermentacji, fermentację, dojrzewanie, rozlew do opakowań.",
+      "przygotowanie słodu, mycie i parowanie ziemniaków, zacieranie, przygotowanie drożdży, fermentację, odpęd.",
+      "przygotowanie nastawu (brzeczki miodowej), fermentację, filtrację, leżakowanie i pielęgnację, rozlew do opakowań."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 203,
+    "text": "Do odczytu wartości ciśnienia pary wodnej w autoklawie stosowany jest",
+    "answers": [
+      "manometr.",
+      "termometr.",
+      "butyrometr.",
+      "psychrometr."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 204,
+    "text": "Do badań sensorycznych żywności zalicza się",
+    "answers": [
+      "oznaczenie ogólnej liczby drobnoustrojów.",
+      "określenie obecności szkodników.",
+      "określenie cech organoleptycznych.",
+      "oznaczenie zawartości wody i suchej masy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 205,
+    "text": "Określ, w którym opisie zamieszczonym w tabeli, czynności i procesy jednostkowe występujące podczas uboju i obróbki poubojowej drobiu są przedstawione w kolejności technologicznej.",
+    "answers": [
+      "W opisie II.",
+      "W opisie IV.",
+      "W opisie I.",
+      "W opisie III."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_tabela34.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 206,
+    "text": "Oblicz, na podstawie zamieszczonego fragmentu instrukcji technologicznej, liczbę opakowań jednostkowych i pojemników poliuretanowych niezbędnych do zapakowania 900 kg wyprodukowanej polędwicy sopockiej. Instrukcja technologiczna produkcji polędwicy sopockiej (fragment) (…) Po chłodzeniu wyrób gotowy dzieli się na porcje o masie 400 g i pakuje próżniowo w folię polietylenową. Następnie polędwica jest pakowana w pojemniki poliuretanowe o pojemności 20 kg. (…)",
+    "answers": [
+      "2 250 szt. opakowań jednostkowych i 45 szt. pojemników poliuretanowych.",
+      "50 szt. opakowań jednostkowych i 45 szt. pojemników poliuretanowych.",
+      "40 szt. opakowań jednostkowych i 50 szt. pojemników poliuretanowych.",
+      "2 250 szt. opakowań jednostkowych i 50 szt. pojemników poliuretanowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 207,
+    "text": "Do przeprowadzenia rektyfikacji spirytusu stosuje się",
+    "answers": [
+      "filtr płytowy z pompą.",
+      "aparaturę do odzyskiwania aromatów.",
+      "aparaturę do destylacji wielokrotnej.",
+      "stację wyparną trójdziałową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 208,
+    "text": "Produkt uważa się za zafałszowany, jeżeli na jego opakowaniu producent nie umieścił",
+    "answers": [
+      "logo zakładu.",
+      "informacji o rzeczywistej zawartości soli.",
+      "znaku graficznego „bez GMO”.",
+      "informacji o obecności błonnika."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 209,
+    "text": "W jednym dniu roboczym piekarnia produkuje 240 kg chleba w postaci bochenków o masie 1 kg każdy oraz 100 kg bułek o masie 50 g każda. Ile pojemników jest niezbędnych do zapakowania dziennej produkcji, jeżeli w jednym pojemniku mieści się 12 sztuk chleba lub 100 sztuk bułek?",
+    "answers": [
+      "10 pojemników na chleb i 20 pojemników na bułki.",
+      "20 pojemników na chleb i 20 pojemników na bułki.",
+      "20 pojemników na chleb i 10 pojemników na bułki.",
+      "10 pojemników na chleb i 10 pojemników na bułki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 210,
+    "text": "Wskaźnikiem do oznaczania twardości wody metodą wersenianową jest",
+    "answers": [
+      "chromian (VI) potasu.",
+      "oranż metylowy.",
+      "papierek lakmusowy.",
+      "czerń eriochromowa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 211,
+    "text": "Które urządzenia powinny być zastosowane do obróbki wstępnej wiśni przeznaczonych do produkcji konfitur?",
+    "answers": [
+      "Odszypułczarka, sortownik kaskadowy, myjka szczotkowa.",
+      "Odszypułczarka, myjka wodno-powietrzna, drylownica.",
+      "Ocieraczka, myjka bębnowa, drylownica.",
+      "Sortownik linkowy, myjka grabkowa, blanszownik."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 212,
+    "text": "Z ilu półtusz wieprzowych uzyska się 42 kg karkówki, jeżeli stanowi ona 5% wagi półtuszy, a jedna półtusza waży średnio 40 kg?",
+    "answers": [
+      "Z 21 półtusz.",
+      "Z 20 półtusz.",
+      "Z 2 półtusz.",
+      "Z 4 półtusz."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 213,
+    "text": "Produkty uboczne przemysłu owocowo-warzywnego są wykorzystywane do produkcji",
+    "answers": [
+      "pasz stosowanych w żywieniu zwierząt gospodarskich.",
+      "smyczków muzycznych.",
+      "przedmiotów galanteryjnych.",
+      "wysokiej jakości produktów spożywczych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 214,
+    "text": "Pasteryzacja, koagulacja, krojenie, osuszanie, formowanie, prasowanie, solenie i dojrzewanie to kolejne etapy procesu technologicznego produkcji",
+    "answers": [
+      "kiszonej kapusty.",
+      "kiełbasy dojrzewającej.",
+      "śledzi marynowanych.",
+      "serów podpuszczkowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 215,
+    "text": "W analizie produktów spożywczych do oznaczania gęstości substancji stosuje się metody pomiaru",
+    "answers": [
+      "areometrycznego i piknometrycznego.",
+      "refraktometrycznego.",
+      "kolorymetrycznego.",
+      "areometrycznego i polarymetrycznego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 216,
+    "text": "Na podstawie informacji zawartych w zamieszczonej recepturze oblicz, ile kg cukru kryształu należy przygotować do wyprodukowania 6 kg syropu.",
+    "answers": [
+      "45 kg",
+      "40 kg",
+      "4,5 kg",
+      "12,5 kg"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_receptura7.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 217,
+    "text": "Zawartość laktozy w mleku oznacza się metodą",
+    "answers": [
+      "Kjeldahla.",
+      "Walkera.",
+      "Gerbera.",
+      "Bertranda."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 218,
+    "text": "Fermentację alkoholową, która umożliwia rozrost ciasta przeznaczonego na bułki pszenne, zapoczątkowują drobnoustroje z gatunku",
+    "answers": [
+      "Acetobacter aceti.",
+      "Saccharomyces cerevisie.",
+      "Aspergillus niger.",
+      "Lactococcus lactis."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 219,
+    "text": "Oblicz w czasie ilu godzin dwie maszyny pracujące jednocześnie zapakują 7200 kg masła w kostki po 200 g, jeżeli w ciągu godziny jedna maszyna pakuje 3200, a druga 4000 kostek.",
+    "answers": [
+      "W czasie 6 godzin.",
+      "W czasie 5 godzin.",
+      "W czasie 3 godzin.",
+      "W czasie 2 godzin."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 220,
+    "text": "Który typ mąki żytniej ma zastosowanie w produkcji chleba żytniego razowego?",
+    "answers": [
+      "Typ 1400",
+      "Typ 2000",
+      "Typ 580",
+      "Typ 720"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 221,
+    "text": "Przedstawiony schemat technologiczny dotyczy produkcji Przygotowanie surowca → rozdrabnianie → rozparzanie → przecieranie → schładzanie → homogenizacja → utrwalenie termiczne → pakowanie → magazynowanie",
+    "answers": [
+      "moszczu.",
+      "przecieru.",
+      "pulpy.",
+      "kremogenu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 222,
+    "text": "Mrożone tuszki drobiowe przechowuje się w temperaturze",
+    "answers": [
+      "–22°C ÷ –18°C",
+      "20°C ÷ 25°C",
+      "–2°C ÷ 0°C",
+      "0°C ÷ 4°C"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 223,
+    "text": "Na podstawie informacji zawartych w tabeli, wskaż temperaturę i wilgotność powietrza w magazynie, w którym powinno być przechowywane wino.",
+    "answers": [
+      "18°C i 84%",
+      "15°C i 79%",
+      "10°C i 56%",
+      "8°C i 68%"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_tabela29.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 224,
+    "text": "Wyróżnikiem jakości oceny organoleptycznej chleba nie jest",
+    "answers": [
+      "kształt bochenka.",
+      "kwasowość chleba.",
+      "barwa skórki.",
+      "porowatość miękiszu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 225,
+    "text": "Sulfitacja stosowana w przemyśle owocowo-warzywnym do konserwowania pulp polega na dodaniu",
+    "answers": [
+      "kwasu ortofosforowego.",
+      "dwutlenku węgla.",
+      "dwutlenku siarki.",
+      "kwasku cytrynowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 226,
+    "text": "W celu oddzielenia powietrza od mąki, podczas transportu pneumatycznego mąki luzem należy zastosować",
+    "answers": [
+      "cyklon.",
+      "przesiewacz.",
+      "wagę.",
+      "dmuchawę."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 227,
+    "text": "Operacja technologiczna polegająca na wycięciu wzdłuż połowy ciała ryby płata mięśnia grzbietowego i brzusznego nazywa się",
+    "answers": [
+      "odgardlaniem.",
+      "odgławianiem.",
+      "filetowaniem.",
+      "patroszeniem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 228,
+    "text": "Sprzęt laboratoryjny: kolba Kjeldahla, kolba miarowa, pipety, łaźnia wodna, aparat Parnasa-Wagnera, kolba stożkowa, zestaw do miareczkowania jest stosowany podczas oznaczania w mięsie zawartości",
+    "answers": [
+      "białka.",
+      "tłuszczu.",
+      "popiołu.",
+      "wody."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 229,
+    "text": "Konserwantem stosowanym w produkcji wędzonek jest",
+    "answers": [
+      "glutaminian sodu.",
+      "formaldehyd.",
+      "azotyn sodu.",
+      "kwas mlekowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 230,
+    "text": "Na ilustracji przedstawiono urządzenie, w którym mięso przeznaczone na wędzonki po peklowaniu metodą nastrzykową poddawane jest procesowi",
+    "answers": [
+      "rozdrabniania.",
+      "chłodzenia.",
+      "masowania.",
+      "wędzenia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_urzadzenie11.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 231,
+    "text": "Ile kg mięsa wieprzowego klasy I zgodnie z zamieszczoną recepturą, należy dodać do 400 kg mięsa wieprzowego klasy II?",
+    "answers": [
+      "500 kg",
+      "600 kg",
+      "350 kg",
+      "250 kg"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_receptura6.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 232,
+    "text": "Mineralizacja „na sucho” próbki badanego produktu wykorzystywana jest przy oznaczaniu zawartości",
+    "answers": [
+      "popiołu.",
+      "wody.",
+      "tłuszczu.",
+      "białek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 233,
+    "text": "Analiza organoleptyczna, polegająca na ocenie poszczególnych wyróżników jakościowych przy zastosowaniu wartości liczbowych wg skali, to metoda",
+    "answers": [
+      "porównawcza.",
+      "polarymetryczna.",
+      "punktowa.",
+      "kolejności."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 234,
+    "text": "W zamieszczonym schemacie technologicznym produkcji czekolady czynnością oznaczoną literą X jest",
+    "answers": [
+      "chłodzenie.",
+      "tablerowanie.",
+      "gotowanie.",
+      "konszowanie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_schemat13.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 235,
+    "text": "Które odczynniki chemiczne stosuje się podczas oznaczania zawartości cukru metodą Lane-Eynona?",
+    "answers": [
+      "Płyn Luffa, tiosiarczan sodu.",
+      "I, II, III płyn Bertranda, błękit metylenowy.",
+      "Płyn Carreza, wodorotlenek sodu.",
+      "I, II płyn Fehlinga, błękit metylenowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 236,
+    "text": "Urządzeniem, zbudowanym z zestawu płyt, ogrzewającym mleko do temperatury nieprzekraczającej 100°C jest",
+    "answers": [
+      "wyparka.",
+      "suszarka.",
+      "pasteryzator.",
+      "sterylizator."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 237,
+    "text": "Dobra Praktyka Higieniczna, w dokumentacji procedur zapewnienia jakości, jest określana skrótem",
+    "answers": [
+      "GHP",
+      "TQM",
+      "GMP",
+      "HACCP"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 238,
+    "text": "Warunki konserwacji wilka wykorzystywanego w produkcji kiełbasy, są zawarte",
+    "answers": [
+      "w instrukcji obsługi maszyn i urządzeń.",
+      "w blokowym schemacie technologicznym.",
+      "w księdze skarg i wniosków.",
+      "w instrukcji technologicznej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 239,
+    "text": "Na podstawie informacji zawartych w tabeli, wskaż barwę lakmusu w środowisku zasadowym.",
+    "answers": [
+      "Niebieska.",
+      "Czerwona.",
+      "Bezbarwna.",
+      "Żółta."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_tabela30.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 240,
+    "text": "Lecytyna, produkt uboczny otrzymywany podczas rafinacji oleju, wykorzystywana jest do produkcji",
+    "answers": [
+      "czekolady.",
+      "soku.",
+      "szynki.",
+      "marmolady."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 241,
+    "text": "Urządzenie przedstawione na rysunku, stosowane w przemyśle cukrowniczym do wydobywania soku z krajanki buraczanej, to",
+    "answers": [
+      "dyfuzor.",
+      "prasa.",
+      "wyparka.",
+      "autoklaw."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_urzadzenie10.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 242,
+    "text": "Ile sztuk puszek potrzeba przygotować do zapakowania 2,16 t groszku zielonego, jeżeli w jednej puszce mieści się 540 g surowca?",
+    "answers": [
+      "250 sztuk.",
+      "1 167 sztuk.",
+      "400 sztuk.",
+      "4 000 sztuk."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 243,
+    "text": "Oblicz ilość buraków cukrowych potrzebną do wyprodukowania 390 kg cukru przy wydajności 13%.",
+    "answers": [
+      "300,00 kg",
+      "50,70 kg",
+      "440,70 kg",
+      "3 000,00 kg"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 244,
+    "text": "Próbkę mleka do oznaczania gęstości metodą areometryczną należy umieścić",
+    "answers": [
+      "w kolbie miarowej.",
+      "w kolbie okrągłodennej.",
+      "w cylindrze miarowym.",
+      "w pipecie wielomiarowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 245,
+    "text": "Która partia kiełbasy białej surowej spełnia wymagania jakościowe zgodnie z informacjami zawartymi w przedstawionej tabeli?",
+    "answers": [
+      "I",
+      "III",
+      "IV",
+      "II"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_tabela32.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 246,
+    "text": "Do dodatków żywnościowych, pełniących funkcję słodzącą, zalicza się",
+    "answers": [
+      "aspartam i koszenilę.",
+      "żelatynę i ksylitol.",
+      "tokoferol i sorbitol.",
+      "aspartam i ksylitol."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 247,
+    "text": "Trwałość i bezpieczeństwo zdrowotne groszku konserwowego w puszkach zapewnia się przez utrwalanie metodą",
+    "answers": [
+      "termizacji.",
+      "sterylizacji w opakowaniach hermetycznych.",
+      "pasteryzacji.",
+      "sterylizacji w masie przed pakowaniem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 248,
+    "text": "Do zagrożeń chemicznych występujących w przetworach spożywczych zalicza się",
+    "answers": [
+      "antybiotyki i pestycydy.",
+      "barwniki i kurz.",
+      "piasek i owady.",
+      "owady i pasożyty."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 249,
+    "text": "W produkcji sera typu holenderskiego, np. sera Gouda, nie występuje proces",
+    "answers": [
+      "normalizacji.",
+      "homogenizacji.",
+      "dojrzewania.",
+      "pasteryzacji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 250,
+    "text": "Przedstawiony piktogram umieszczony na opakowaniu odczynnika chemicznego ostrzega, że jest to środek",
+    "answers": [
+      "żrący.",
+      "utleniający.",
+      "rakotwórczy.",
+      "toksyczny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_piktogram2.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 251,
+    "text": "Do opakowań jednostkowych przeznaczonych do bezpośredniego kontaktu z żywnością zalicza się",
+    "answers": [
+      "palety i butelki.",
+      "kontenery i pudełka.",
+      "torebki i puszki.",
+      "słoiki i tankosilosy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 252,
+    "text": "Laborant do 20 g NaOH dodał 180 g wody. Otrzymany roztwór ma stężenie",
+    "answers": [
+      "10%",
+      "25%",
+      "5%",
+      "20%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 253,
+    "text": "Mąka graham typ 1850 nie będzie spełniała wymagań jakościowych zawartych w zamieszczonej tabeli, jeżeli wartość jej kwasowości potencjalnej będzie wynosić",
+    "answers": [
+      "9,0°",
+      "5,0°",
+      "3,0°",
+      "8,0°"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_tabela31.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 254,
+    "text": "Do metod fizycznych utrwalania żywności zalicza się",
+    "answers": [
+      "suszenie i kiszenie.",
+      "paskalizację i marynowanie.",
+      "mrożenie i sterylizację.",
+      "peklowanie i blanszowanie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 255,
+    "text": "Wskaż, które z przedstawionych urządzeń, jest stosowane do oznaczania kwasowości aktywnej roztworu.",
+    "answers": [
+      "I",
+      "II",
+      "IV",
+      "III"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_urzadzenia4.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 256,
+    "text": "Cena detaliczna 1 kostki masła o masie netto 250 g z uwzględnieniem 20% marży wynosi 6 zł. Oblicz cenę produkcji 1 kg masła.",
+    "answers": [
+      "28,80 zł",
+      "7,20 zł",
+      "24,00 zł",
+      "20,00 zł"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 257,
+    "text": "Za pomocą wózka przedstawionego na rysunku można transportować",
+    "answers": [
+      "mąkę luzem.",
+      "moszcz w tanku.",
+      "zboże w silosach.",
+      "jabłka w skrzynkach."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_wozek.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 258,
+    "text": "Odpady z przerobu groszku zielonego wykorzystywane są do otrzymywania",
+    "answers": [
+      "koszenili.",
+      "chlorofilu.",
+      "szafranu.",
+      "betaniny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 259,
+    "text": "Podczas wykonywania oznaczania zawartości tłuszczu w mleku metodą Gerbera bezwzględnie należy używać",
+    "answers": [
+      "obuwia gumowego.",
+      "okularów ochronnych.",
+      "czepków jednorazowych.",
+      "nauszników przeciwhałasowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 260,
+    "text": "Która z wymienionych cech ziarna pszenicy jest oceniana na podstawie widoku przekroju poprzecznego ziarna i wskazuje na dużą zawartość skrobi?",
+    "answers": [
+      "Kwasowość.",
+      "Wilgotność.",
+      "Celność.",
+      "Mączystość."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 261,
+    "text": "Określ właściwą kolejność etapów produkcji oleju rzepakowego.",
+    "answers": [
+      "Kondycjonowanie, rozdrabnianie, tłoczenie, odbenzynowanie, ekstrakcja.",
+      "Rozdrabnianie, ekstrakcja, tłoczenie, kondycjonowanie, odbenzynowanie.",
+      "Rozdrabnianie, kondycjonowanie, tłoczenie, ekstrakcja, odbenzynowanie.",
+      "Ekstrakcja, kondycjonowanie, tłoczenie, rozdrabnianie, odbenzynowanie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 262,
+    "text": "Które z enzymów stosowane są w celu zwiększenia wydajności procesu tłoczenia miazgi owocowej?",
+    "answers": [
+      "Pektynazy.",
+      "Proteazy.",
+      "Lipazy.",
+      "Amylazy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 263,
+    "text": "Dobierz odpowiednią ilość składników do wyprodukowania 240 kg sera topionego zgodnie z zamieszczoną w tabeli recepturą. * zdający otrzymuje jeden punkt niezależnie od udzielonej odpowiedzi.",
+    "answers": [
+      "B.\nC.\nD."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_tabele3.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 264,
+    "text": "Ile kilogramów jabłek należy zużyć do wyprodukowania 2,5 tony soku jabłkowego, jeżeli do produkcji 1 tony soku zużywa się 1 450 kg jabłek?",
+    "answers": [
+      "1 050 kg jabłek.",
+      "3 625 kg jabłek.",
+      "580 kg jabłek.",
+      "1 700 kg jabłek."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 265,
+    "text": "Za goryczkę i pienistość piwa produkowanego w Polsce odpowiada",
+    "answers": [
+      "chmiel.",
+      "laktoza.",
+      "karmel.",
+      "etanol."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 266,
+    "text": "W magazynie przedstawionym na rysunku przechowuje się",
+    "answers": [
+      "masło.",
+      "zboże.",
+      "makaron.",
+      "owoce."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_magazyn.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 267,
+    "text": "Oznaczając laboratoryjnie typ mąki, odważoną próbkę mąki poddaje się procesowi",
+    "answers": [
+      "suszenia.",
+      "granulowania.",
+      "spopielenia.",
+      "nawilżenia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 268,
+    "text": "Maszyna pakująca zamyka w ciągu 1 godziny 1 500 sztuk paczek makaronu o masie 500 g każda. Ile czasu potrzeba na zapakowanie 6 000 kg makaronu przez dwie maszyny pracujące jednocześnie?",
+    "answers": [
+      "4 godziny.",
+      "8 godzin.",
+      "2 godziny.",
+      "6 godzin."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 269,
+    "text": "Przedstawiony na rysunku zestaw sprzętu laboratoryjnego służy do",
+    "answers": [
+      "destylacji.",
+      "miareczkowania.",
+      "elektroforezy.",
+      "frakcjonowania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_zestaw2.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 270,
+    "text": "Do produkcji skrobi przeznacza się ziemniaki o minimalnej skrobiowości wynoszącej",
+    "answers": [
+      "40%",
+      "10%",
+      "15%",
+      "30%"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 271,
+    "text": "Na skali polarymetru odczytuje się",
+    "answers": [
+      "kąt załamania światła.",
+      "absorbancję badanego roztworu.",
+      "kąt skręcenia płaszczyzny światła spolaryzowanego.",
+      "procentową zawartość ekstraktu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 272,
+    "text": "Oznaczanie zawartości tłuszczu w produktach spożywczych metodą Soxhleta oparte jest na procesie",
+    "answers": [
+      "rektyfikacji.",
+      "liofilizacji.",
+      "klatracji.",
+      "ekstrakcji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 273,
+    "text": "Dodatkiem do żywności o właściwościach zagęszczających pozyskiwanym z owoców jest",
+    "answers": [
+      "pektyna.",
+      "żelatyna.",
+      "ksantan.",
+      "karagen."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 274,
+    "text": "Które urządzenie służy do oceny świeżości jaj?",
+    "answers": [
+      "Farinotom.",
+      "Owoskop.",
+      "Amylograf.",
+      "Farinograf."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 275,
+    "text": "Korzystając z informacji zamieszczonych w tabeli oblicz, ile wynosi wartość kaloryczna 100 g szynki wiejskiej zawierającej 17 g białka, 20 g tłuszczu i 1 g węglowodanów.",
+    "answers": [
+      "646 kcal",
+      "225 kcal",
+      "252 kcal",
+      "157 kcal"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_tabela24.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 276,
+    "text": "Za powstawanie oczek w serach podpuszczkowych odpowiedzialna jest fermentacja",
+    "answers": [
+      "octowa.",
+      "propionowa.",
+      "masłowa.",
+      "alkoholowa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 277,
+    "text": "Ekstraktem w procesie przedstawionym na rysunku jest",
+    "answers": [
+      "melasa.",
+      "wytłok.",
+      "miscela.",
+      "makuch."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_proces.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 278,
+    "text": "Ile gramów soli kuchennej potrzeba do sporządzenia 250 g 10% roztworu soli?",
+    "answers": [
+      "25,0 g",
+      "240,0 g",
+      "2,5 g",
+      "40,0 g"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 279,
+    "text": "Które urządzenie laboratoryjne wykorzystuje się przy oznaczaniu suchej masy produktu?",
+    "answers": [
+      "Piec muflowy.",
+      "Łaźnię wodną.",
+      "Wagosuszarkę.",
+      "Wytrząsarkę."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 280,
+    "text": "Do metod mechanicznych rozdrabniania żywności płynnej nie należy",
+    "answers": [
+      "emulgowanie.",
+      "filtrowanie.",
+      "homogenizacja.",
+      "rozpylanie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 281,
+    "text": "Gotowanie cukrzycy następuje bezpośrednio przed procesem",
+    "answers": [
+      "ekstrakcji krajanki buraczanej.",
+      "defekacji soku surowego.",
+      "oczyszczania soku surowego.",
+      "krystalizacji sacharozy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 282,
+    "text": "Zdolność pochłaniania pary wodnej przez ziarno określa się terminem",
+    "answers": [
+      "mączystość.",
+      "szklistość.",
+      "higroskopijność.",
+      "sypkość."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 283,
+    "text": "Liczba kwasowa tłuszczu informuje",
+    "answers": [
+      "o wartości masy cząsteczkowej kwasów tłuszczowych.",
+      "o obecności nienasyconych kwasów tłuszczowych.",
+      "o zawartości wolnych kwasów tłuszczowych.",
+      "o zawartości nasyconych kwasów tłuszczowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 284,
+    "text": "Ile wynosi ubytek wypiekowy chleba, jeżeli naważka ciasta wynosiła 1 140 g, a gorący chleb waży 1 000 g?",
+    "answers": [
+      "12,28%",
+      "1,05%",
+      "1,23%",
+      "10,53%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 285,
+    "text": "Ile sztuk opakowań bezpośrednich (słoików) oraz pośrednich (kartonów) potrzeba do zapakowania 2 ton dżemu truskawkowego, jeżeli w 1 opakowaniu bezpośrednim znajduje się 25 gramów dżemu, a opakowanie pośrednie zawiera 8 sztuk słoików?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_tabela25.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 286,
+    "text": "Proces peklowania stosuje się do utrwalania",
+    "answers": [
+      "mięsa.",
+      "mleka.",
+      "mąki.",
+      "oleju."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 287,
+    "text": "Skrobia ulega pęcznieniu podczas",
+    "answers": [
+      "studzenia pieczywa.",
+      "sporządzania ciasta.",
+      "przesiewania mąki.",
+      "czerstwienia pieczywa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 288,
+    "text": "Do zamrażania lekkich i drobnych produktów unoszonych przez zimne powietrze stosuje się zamrażarki",
+    "answers": [
+      "fluidyzacyjne.",
+      "immersyjne.",
+      "kriogeniczne.",
+      "kontaktowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 289,
+    "text": "Do oznaczenia gęstości produktów spożywczych służy",
+    "answers": [
+      "manometr.",
+      "pehametr.",
+      "higrometr.",
+      "densymetr."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 290,
+    "text": "Za pomocą zamrażarki przedstawionej na rysunku można zamrażać",
+    "answers": [
+      "mięso drobiowe.",
+      "przecier owocowy.",
+      "filety rybne.",
+      "krajankę warzywną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_zamrazarka.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 291,
+    "text": "Ile kilogramów oleju można uzyskać w drodze ekstrakcji 2 ton rozdrobnionych nasion rzepaku, jeżeli wydajność procesu wynosi 85%?",
+    "answers": [
+      "185 kg",
+      "1 700 kg",
+      "170 kg",
+      "1 850 kg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 292,
+    "text": "Sopstok jest wykorzystywany do produkcji",
+    "answers": [
+      "środków dezynfekcyjnych.",
+      "mydła.",
+      "masła.",
+      "koncentratów spożywczych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 293,
+    "text": "Które z urządzeń jest wykorzystywane w przetwórstwie mięsa?",
+    "answers": [
+      "Walcówka.",
+      "Konsza.",
+      "Kuter.",
+      "Temperówka."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 294,
+    "text": "Do czego służy urządzenie przedstawione na rysunku?",
+    "answers": [
+      "Do rozdrabniania warzyw.",
+      "Do wymywania skrobi.",
+      "Do odśluzowania oleju.",
+      "Do ekstrakcji oleju."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_urzadzenie8.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 295,
+    "text": "Jakie nazwy noszą elementy półtuszy wieprzowej oznaczone na rysunku cyframi?",
+    "answers": [
+      "1 - szynka, 2 - łopatka, 3 - golonka, 4 - żeberka.",
+      "1 - karkówka, 2 - schab, 3 - golonka, 4 - żeberka.",
+      "1 - schab, 2 - karkówka, 3 - szynka, 4 - łopatka.",
+      "1 - schab, 2 - karkówka, 3 - szynka, 4 - żeberka."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_poltusza.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 296,
+    "text": "Który proces należy przeprowadzić podczas rafinowania olejów w celu wytrącenia wolnych kwasów tłuszczowych?",
+    "answers": [
+      "Estryfikacji.",
+      "Uwodornienia.",
+      "Uwodnienia.",
+      "Neutralizacji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 297,
+    "text": "Smażenia nie stosuje się w produkcji",
+    "answers": [
+      "faworków.",
+      "wafli.",
+      "pączków.",
+      "gniazdek."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 298,
+    "text": "Którą metodą przeprowadza się oznaczanie chlorków w środowisku obojętnym?",
+    "answers": [
+      "Metodą Fehlinga.",
+      "Metodą Mohra.",
+      "Metodą Gerbera.",
+      "Metodą Bertranda."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 299,
+    "text": "Tryjer to urządzenie wykorzystywane w przemyśle",
+    "answers": [
+      "młynarskim.",
+      "mięsnym.",
+      "mleczarskim.",
+      "cukrowniczym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 300,
+    "text": "Surowcem do produkcji pieczywa bezglutenowego jest mąka",
+    "answers": [
+      "jęczmienna.",
+      "ryżowa.",
+      "żytnia.",
+      "pszenna."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 301,
+    "text": "Do odmierzenia 2 cm3 odczynnika chemicznego najlepiej użyć",
+    "answers": [
+      "erlenmajerki.",
+      "pipety.",
+      "zlewki.",
+      "probówki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 302,
+    "text": "Wskaż przy której zawartości patuliny przyjęty surowiec nie może zostać przeznaczony do dalszego przerobu.",
+    "answers": [
+      "20 µg/kg",
+      "30 µg/kg",
+      "15 µg/kg",
+      "25 µg/kg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_tabela26.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 303,
+    "text": "Do podgrzewania próbek żywności przygotowanych do badań wykorzystuje się",
+    "answers": [
+      "piec muflowy.",
+      "wagosuszarkę.",
+      "łaźnię wodną.",
+      "autoklaw."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 304,
+    "text": "Tradycyjna zalewa stosowana do marynowania grzybów w produkcji przemysłowej zawiera w swoim składzie:",
+    "answers": [
+      "wodę, kwas octowy, przyprawy.",
+      "cukier, kwas glutaminowy, goździki.",
+      "sól, kwas benzoesowy, czosnek.",
+      "saletrę, kwas mlekowy, pieprz."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 305,
+    "text": "Który z podanych odczynników chemicznych jest wskaźnikiem wykorzystywanym przy oznaczaniu kwasowości miareczkowej mleka?",
+    "answers": [
+      "Fenoloftaleina.",
+      "Lakmus.",
+      "Oranż metylowy.",
+      "Błękit metylenowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 306,
+    "text": "Saletra potasowa jest dodatkiem konserwującym stosowanym w produkcji",
+    "answers": [
+      "kiełbasy.",
+      "wina.",
+      "jogurtu.",
+      "dżemu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 307,
+    "text": "Korzystając z zamieszczonej receptury na 1 kg ciasta z owocami oblicz, ile jaj należy użyć do produkcji 100 kg wyrobu gotowego, jeżeli jedno jajo waży 50 g.",
+    "answers": [
+      "600 sztuk.",
+      "200 sztuk.",
+      "300 sztuk.",
+      "400 sztuk."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_receptura5.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 308,
+    "text": "Jaka jest procentowa zawartość wody w mące pszennej, jeżeli próbka mąki o masie 3,000 g po wysuszeniu ważyła 2,580 g?",
+    "answers": [
+      "84%",
+      "14%",
+      "12%",
+      "88%"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 309,
+    "text": "Ile wyniesie wyciąg mąki zwany wydajnością, jeżeli z 200 kg ziarna pozyskano 130 kg mąki?",
+    "answers": [
+      "153%",
+      "130%",
+      "70%",
+      "65%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 310,
+    "text": "Zużyty tłuszcz smażalniczy jest produktem ubocznym powstającym podczas produkcji",
+    "answers": [
+      "margaryny.",
+      "pączków.",
+      "pieczywa.",
+      "majonezu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 311,
+    "text": "Procedury i instrukcje Dobrej Praktyki Produkcyjnej oznaczone są skrótem",
+    "answers": [
+      "GMP",
+      "DTR",
+      "GLP",
+      "DPR"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 312,
+    "text": "Korzystając z wyników badań ujętych w tabeli, określ która partia piwa spełnia wymagania jakości.",
+    "answers": [
+      "Partia I.",
+      "Partia II.",
+      "Partia III.",
+      "Partia IV."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_tabela27.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 313,
+    "text": "Obecność bakterii Salmonella należy szczególnie monitorować w",
+    "answers": [
+      "mące i kaszy.",
+      "jajach i majonezie.",
+      "chmielu i piwie.",
+      "pomidorach i keczupie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 314,
+    "text": "Który produkt uboczny może być wykorzystany do produkcji żelatyny?",
+    "answers": [
+      "Makuchy.",
+      "Wytłoki.",
+      "Kości.",
+      "Obierki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 315,
+    "text": "Zgodnie z zamieszczonym fragmentem instrukcji laboratoryjnej, aby oznaczyć zawartość witaminy C w soku cytrynowym, należy badaną próbkę soku miareczkować",
+    "answers": [
+      "kwasem szczawiowym.",
+      "kwasem jabłkowym.",
+      "dehydroaskorbinianem.",
+      "dichlorofenoloindofenolem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_ramka5.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 316,
+    "text": "W przypadku zbyt wolnego rozrostu kęsów ciasta drożdżowego w komorze rozrostowej należy",
+    "answers": [
+      "podwyższyć temperaturę.",
+      "obniżyć ciśnienie.",
+      "obniżyć temperaturę.",
+      "podwyższyć ciśnienie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 317,
+    "text": "Który z wymienionych środków spożywczych może być przechowywany w temperaturze około 20°C i wilgotności 60% bez pogorszenia jakości?",
+    "answers": [
+      "Sałata lodowa.",
+      "Masło śmietankowe.",
+      "Szynka gotowana.",
+      "Cukier kryształ."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 318,
+    "text": "Urządzeniem niezbędnym do produkcji koncentratu pomidorowego jest",
+    "answers": [
+      "warnik.",
+      "wyparka.",
+      "cyklon.",
+      "suszarka."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 319,
+    "text": "Do zestalenia sernika na zimno należy użyć",
+    "answers": [
+      "beta-karotenu.",
+      "agaru.",
+      "syropu skrobiowego.",
+      "glutenu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 320,
+    "text": "Operacje mycia, obierania, blanszowania i smażenia występują w produkcji",
+    "answers": [
+      "suszu buraczanego.",
+      "pączków nadziewanych.",
+      "sera topionego.",
+      "frytek ziemniaczanych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 321,
+    "text": "Operacja wydobywania oleju z wytłoków rzepaku za pomocą rozpuszczalnika organicznego, to",
+    "answers": [
+      "emulgowanie.",
+      "destylacja.",
+      "ekstrakcja.",
+      "rafinacja."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 322,
+    "text": "W technologii produkcji szynki wędzonej peklowanej metodą nastrzykową stosuje się operację",
+    "answers": [
+      "rektyfikacji.",
+      "masowania.",
+      "konszowania.",
+      "tranżerowania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 323,
+    "text": "Jednym z zagrożeń fizycznych monitorowanych podczas produkcji dżemu wiśniowego jest",
+    "answers": [
+      "zawartość pestycydów w surowcu.",
+      "obecność pestek w wyrobie gotowym.",
+      "obecność pleśni w wyrobie gotowym.",
+      "obecność owadów w wyrobie gotowym."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 324,
+    "text": "Przyprawa korzenna jest niezbędnym składnikiem przy produkcji",
+    "answers": [
+      "biszkoptów.",
+      "keksów.",
+      "chałwy.",
+      "pierników."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 325,
+    "text": "Uszkodzoną szklaną zlewkę, wykorzystywaną wcześniej do badania żywności, należy",
+    "answers": [
+      "zutylizować w kotłowni.",
+      "zmieszać ze zużytymi odczynnikami.",
+      "umieścić w kontenerze na opakowania szklane.",
+      "przekazać do specjalnego zakładu utylizacji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 326,
+    "text": "Na rysunku przedstawiono schemat budowy",
+    "answers": [
+      "filtra.",
+      "cyklonu.",
+      "tryjera.",
+      "wentylatora."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_schemat11.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 327,
+    "text": "Przedstawiony na rysunku sprzęt laboratoryjny przeznaczony do oznaczania zawartości alkoholu to",
+    "answers": [
+      "densymetr.",
+      "refraktometr.",
+      "higrometr.",
+      "butyrometr."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_sprzet4.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 328,
+    "text": "Do oddzielenia zanieczyszczeń chemicznych (fuzli) występujących w spirytusie należy zastosować",
+    "answers": [
+      "wyparkę próżniową.",
+      "wirówkę sedymentacyjną.",
+      "ekstraktor ślimakowy.",
+      "kolumnę rektyfikacyjną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 329,
+    "text": "Laborant wykonał oznaczenia dotyczące wodochłonności, wydajności, elastyczności i rozpływalności pewnego składnika produktu spożywczego. Oznaczenia te dotyczą",
+    "answers": [
+      "skrobi w ziarnach jęczmienia.",
+      "tłuszczu w mięsie mielonym.",
+      "kazeiny w mleku spożywczym.",
+      "glutenu w mące pszennej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 330,
+    "text": "Z jaką ilością wody należy zmieszać 2 g odczynnika chemicznego, aby uzyskać roztwór o stężeniu 2% wagowych?",
+    "answers": [
+      "102 g",
+      "98 g",
+      "100 g",
+      "80 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 331,
+    "text": "W technologii produkcji napojów mlecznych fermentowanych stosuje się operacje i procesy",
+    "answers": [
+      "przecierania, zagęszczania oraz filtrowania.",
+      "peklowania, rozdrabniania oraz wędzenia.",
+      "pasteryzacji, wirowania oraz fermentacji.",
+      "ubijania, pieczenia oraz glazurowania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 332,
+    "text": "Na rysunku przedstawiono sprzęt stosowany do oznaczania",
+    "answers": [
+      "gęstości syropu.",
+      "tłuszczu w śmietance.",
+      "temperatury solanki.",
+      "ekstraktu soku."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_sprzet3.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 333,
+    "text": "W spopielonej próbce żywności można oznaczyć zawartość",
+    "answers": [
+      "białka.",
+      "tłuszczu.",
+      "składników mineralnych.",
+      "węglowodanów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 334,
+    "text": "Ile etykiet należy przygotować do oklejenia 20 000 sztuk butelek szklanych, jeżeli straty etykiet podczas naklejania wynoszą 0,5%?",
+    "answers": [
+      "21 000 szt.",
+      "20 100 szt.",
+      "19 000 szt.",
+      "19 900 szt."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 335,
+    "text": "Ile kg cukru należy użyć do produkcji 5 000 dm3 napoju owocowego, jeżeli na 100 dm3 wyrobu gotowego potrzeba 8 kg tego składnika?",
+    "answers": [
+      "620 kg",
+      "400 kg",
+      "500 kg",
+      "800 kg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 336,
+    "text": "Przedstawiony na rysunku aparat Parnas-Wagnera przeznaczony do mineralizacji i wydzielenia amoniaku z próbki żywności metodą Kjeldahla stosowany jest do oznaczania zawartości",
+    "answers": [
+      "cukrów.",
+      "witamin.",
+      "białka.",
+      "tłuszczu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_aparat.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 337,
+    "text": "Fermentacja mlekowa jest niezbędnym procesem w produkcji",
+    "answers": [
+      "bułki drożdżowej.",
+      "octu winnego.",
+      "piwa pszenicznego.",
+      "jogurtu naturalnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 338,
+    "text": "Który wynik badania kwasowości kiszonej kapusty jest nieprawidłowy, jeżeli wartość pH gotowego wyrobu powinna wynosić 3,5÷4,5?",
+    "answers": [
+      "3,0",
+      "3,5",
+      "4,0",
+      "4,5"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 339,
+    "text": "Trwałość gotowej surówki warzywnej przedłuży proces",
+    "answers": [
+      "liofilizacji.",
+      "chłodzenia.",
+      "mrożenia.",
+      "pasteryzacji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 340,
+    "text": "Korzystając z informacji zawartych w ramce ustal, kto w zakładzie przetwórstwa spożywczego powinien posiadać udokumentowane kwalifikacje w zakresie podstawowych zagadnień higieny.",
+    "answers": [
+      "Tylko właściciel zakładu.",
+      "Tylko technolog żywności.",
+      "Każdy zatrudniony przy produkcji pracownik.",
+      "Jeden z operatorów maszyn i urządzeń."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_ramka4.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 341,
+    "text": "W którym zakresie temperatur należy przechowywać schłodzone tuszki drobiowe?",
+    "answers": [
+      "0°C ÷ 4°C",
+      "10°C ÷ 15°C",
+      "-20°C ÷ -18°C",
+      "-5°C ÷ -1°C"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 342,
+    "text": "Mąka poznańska typ 500 nie będzie spełniała norm, jeśli zawartość popiołu wyniesie",
+    "answers": [
+      "0,48%",
+      "0,55%",
+      "0,45%",
+      "0,50%"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_tabela22.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 343,
+    "text": "Piknometr jest naczyniem laboratoryjnym wykorzystywanym do oznaczania",
+    "answers": [
+      "cukrów redukujących.",
+      "pH",
+      "gęstości.",
+      "suchej masy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 344,
+    "text": "Do wymycia sacharozy z krajanki buraczanej podczas produkcji cukru należy zastosować",
+    "answers": [
+      "defekator.",
+      "krystalizator.",
+      "warnik.",
+      "dyfuzor."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 345,
+    "text": "Korzystając z informacji zawartych w tabeli, wskaż właściwą temperaturę i wilgotność powietrza w magazynie przechowywania mąki.",
+    "answers": [
+      "Temperatura 10°C, wilgotność powietrza 56%",
+      "Temperatura 16°C, wilgotność powietrza 58%",
+      "Temperatura 18°C, wilgotność powietrza 70%",
+      "Temperatura 15°C, wilgotność powietrza 80%"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/b36_tabela9.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 346,
+    "text": "Która partia ogórków kwaszonych spełnia wymagania zamieszczonej normy?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_tabele2.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 347,
+    "text": "Podczas fermentacji leżakowej piwa w dużych, zamkniętych zbiornikach z syfonem następuje proces karbonizacji, polegający na",
+    "answers": [
+      "oddzieleniu nierozpuszczalnych składników chmielu.",
+      "nasyceniu piwa SO2",
+      "nasyceniu piwa CO2",
+      "oddzieleniu wytrąconego osadu białkowo-garbnikowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 348,
+    "text": "Ocena olejów na zawartość nienasyconych kwasów tłuszczowych odbywa się za pośrednictwem oznaczenia liczby",
+    "answers": [
+      "kwasowej.",
+      "estrowej.",
+      "zmydlania.",
+      "jodowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 349,
+    "text": "Oblicz masę surowców niezbędną do wyprodukowania 660 kg kaszanki wyborowej jęczmiennej przy wydajności 132%.",
+    "answers": [
+      "500,00 kg",
+      "50,00 kg",
+      "871,20 kg",
+      "87,12 kg"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 350,
+    "text": "Który wskaźnik chemiczny jest stosowany przy oznaczaniu zawartości soli metodą Mohra w produktach żywnościowych?",
+    "answers": [
+      "Skrobia.",
+      "Fenoloftaleina.",
+      "Oranż metylowy.",
+      "Chromian (VI) potasu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 351,
+    "text": "We fragmencie schematu technologicznego produkcji ciasta pszennego metodą jednofazową znakiem zapytania oznaczono etap o nazwie",
+    "answers": [
+      "Dozowanie mąki.",
+      "Rozkruszanie drożdży.",
+      "Dozowanie tłuszczu.",
+      "Wytwarzanie rozczynu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_schemat10.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 352,
+    "text": "Woda stosowana do mycia w przemyśle spożywczym jest",
+    "answers": [
+      "surowcem.",
+      "dodatkiem do żywności.",
+      "produktem ubocznym.",
+      "materiałem pomocniczym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 353,
+    "text": "Do zagrożeń biologicznych występujących w przetworach spożywczych zalicza się",
+    "answers": [
+      "antybiotyki i pestycydy.",
+      "owady i pestycydy.",
+      "barwniki i pasożyty.",
+      "drobnoustroje i owady."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 354,
+    "text": "Urządzenie zbudowane z komory grzejnej, komory oparów i skraplacza, przedstawione na rysunku to",
+    "answers": [
+      "dyfuzor.",
+      "wyparka.",
+      "autoklaw.",
+      "mieszalnik."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_urzadzenie7.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 355,
+    "text": "Pozyskanie surowca → patroszenie ryb → odkrwawianie ryb → dojrzewanie w basenach → wyjmowanie z kąpieli → usuwanie części przebarwień → porcjowanie → pakowanie do pojemników → dawkowanie zalewy → zamykanie opakowań → etykietowanie → magazynowanie. Zamieszczony schemat technologiczny przedstawia proces produkcji",
+    "answers": [
+      "marynat zimnych.",
+      "konserw rybnych.",
+      "ryb wędzonych.",
+      "marynat smażonych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 356,
+    "text": "Sopstok – produkt uboczny otrzymywany podczas rafinacji oleju wykorzystywany jest do produkcji",
+    "answers": [
+      "benzyny.",
+      "czekolady.",
+      "mydeł.",
+      "margaryny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 357,
+    "text": "Transport pneumatyczny wykorzystywany jest w przemyśle",
+    "answers": [
+      "jajczarskim.",
+      "owocowo-warzywnym.",
+      "mięsnym.",
+      "zbożowo-młynarskim."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 358,
+    "text": "Wyróżnikiem jakości oceny organoleptycznej produktów mleczarskich nie jest",
+    "answers": [
+      "konsystencja.",
+      "struktura.",
+      "barwa.",
+      "kwasowość."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 359,
+    "text": "W produkcji mleka zagęszczonego słodzonego nie występuje proces",
+    "answers": [
+      "zagęszczania.",
+      "sterylizacji.",
+      "krystalizacji.",
+      "normalizacji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 360,
+    "text": "Dodatkami żywnościowymi o właściwościach żelujących są",
+    "answers": [
+      "aspartam i agar.",
+      "karagen i ksylitol.",
+      "agar i karagen.",
+      "tokoferol i aspartam."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 361,
+    "text": "Który z wymienionych składników nie jest dodawany w procesie produkcji jogurtów owocowych",
+    "answers": [
+      "cukier.",
+      "stabilizator.",
+      "proszek mleczny.",
+      "olej palmowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 362,
+    "text": "Celem procesu homogenizacji nektaru owocowego jest",
+    "answers": [
+      "zagęszczenie składników nektaru.",
+      "zmniejszenie tendencji nektaru do rozwarstwiania się.",
+      "odpowietrzenie nektaru.",
+      "zwiększenie tendencji nektaru do rozwarstwiania się."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 363,
+    "text": "Wskaż prawidłową kolejność czynności wykonywanych przy oznaczaniu zawartości białka w mięsie metodą Kjeldahla.",
+    "answers": [
+      "Mineralizacja ,,na mokro”, miareczkowanie, destylacja.",
+      "Mineralizacja „na sucho”, miareczkowanie, destylacja.",
+      "Mineralizacja ,,na mokro”, destylacja, miareczkowanie.",
+      "Mineralizacja „na sucho”, destylacja, miareczkowanie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 364,
+    "text": "Patroszenie ryb ma na celu",
+    "answers": [
+      "zapobieganie skażeniu mięsa treścią pokarmową.",
+      "przecięcie gardła i wyciągnięcie skrzeli.",
+      "usunięcie zabrudzeń powierzchniowych.",
+      "zabicie bakterii przetrwalnikujących."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 365,
+    "text": "W wyniku oceny organoleptycznej mąki stwierdzono, że przed wykorzystaniem do produkcji pieczywa należy pozostawić ją na kilka godzin w hali produkcyjnej. Która z cech mąki była niewłaściwa?",
+    "answers": [
+      "Wyciąg.",
+      "Granulacja.",
+      "Temperatura.",
+      "Kwasowość."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 366,
+    "text": "Ile opakowań należy przygotować do zapakowania 800 kg kiełbasy żywieckiej, jeżeli 300 kg kiełbasy zapakowanych zostanie w opakowania po 250 g, a pozostała ilość w opakowania po 500 g?",
+    "answers": [
+      "3 200 szt. opakowań po 250 g i 1 600 szt. opakowań po 500 g",
+      "1 200 szt. opakowań po 250 g i 1 000 szt. opakowań po 500 g",
+      "120 szt. opakowań po 250 g i 100 szt. opakowań po 500 g",
+      "32 szt. opakowań po 250 g i 16 szt. opakowań po 500 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 367,
+    "text": "Mleko surowe, w którym stwierdzono obecność antybiotyków, należy przeznaczyć do",
+    "answers": [
+      "produkcji mleka w proszku.",
+      "produkcji mleka spożywczego.",
+      "utylizacji.",
+      "skarmienia przez cielęta."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 368,
+    "text": "Które urządzenie należy wykorzystać do oznaczania współczynnika załamania światła?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_urzadzenia3.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 369,
+    "text": "Na rysunku przedstawiono naczynko wagowe wykorzystywane podczas oznaczania",
+    "answers": [
+      "białka w mleku.",
+      "wilgotności mąki.",
+      "popiołu w mięsie.",
+      "cukru w dżemach."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_naczynko.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 370,
+    "text": "Do metod chemicznych utrwalania żywności zalicza się",
+    "answers": [
+      "paskalizację i kiszenie.",
+      "pasteryzację i sterylizację.",
+      "peklowanie i marynowanie.",
+      "mrożenie i chłodzenie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 371,
+    "text": "Sterylny pobór próbki żywności jest wymagany przy oznaczaniu",
+    "answers": [
+      "zawartości białka.",
+      "czystości chemicznej.",
+      "czystości mikrobiologicznej.",
+      "składu tłuszczu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 372,
+    "text": "Analiza sensoryczna, polegająca na porównaniu badanych próbek z wymaganiami norm jakości, to metoda",
+    "answers": [
+      "punktowa.",
+      "kolejności.",
+      "porównawcza.",
+      "mikrobiologiczna."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 373,
+    "text": "Dobra Praktyka Laboratoryjna w dokumentacji procedur zapewnienia jakości jest określana skrótem",
+    "answers": [
+      "GLP",
+      "TQM",
+      "GMP",
+      "QACP"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 374,
+    "text": "Odpady z przerobu buraków ćwikłowych wykorzystywane są do otrzymywania",
+    "answers": [
+      "annato.",
+      "betaniny.",
+      "chlorofilu.",
+      "karotenu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 375,
+    "text": "Ile % wyniesie ubytek wypiekowy, jeżeli masa kęsa ciasta wynosi 1,16 kg, a masa gorącego chleba 1,03 kg?",
+    "answers": [
+      "16,0%",
+      "11,2%",
+      "9,0%",
+      "14,0%"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 376,
+    "text": "Zgodnie z zamieszczoną recepturą sporządzania ciasta na bułki do 240 kg mąki pszennej luksusowej typ 550 należy dodać",
+    "answers": [
+      "20 kg mąki żytniej typ 720",
+      "220 kg mąki żytniej typ 720",
+      "60 kg mąki żytniej typ 720",
+      "200 kg mąki żytniej typ 720"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_receptura4.png"
+    },
+    "category": "SPC.07"
+  },
+  {
+    "id": 377,
+    "text": "Do peklowania mięsa drobnego przeznaczonego do produkcji kiełbasy stosowana jest metoda",
+    "answers": [
+      "sucha.",
+      "mieszana.",
+      "nastrzykowa.",
+      "zalewowa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 378,
+    "text": "Laborant ma do dyspozycji 100 g roztworu NaOH o stężeniu 30%. Jaką ilość wody musi dodać, aby otrzymać 300 g 10% roztworu NaOH?",
+    "answers": [
+      "300 g",
+      "100 g",
+      "80 g",
+      "200 g"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.07"
+  },
+  {
+    "id": 379,
+    "text": "Korzystając z informacji zawartych w tabeli, wskaż kolor pojemnika, w którym składować należy zużyte opakowania wielowarstwowe po mleku UHT.",
+    "answers": [
+      "Pojemnik biały.",
+      "Pojemnik niebieski.",
+      "Pojemnik żółty.",
+      "Pojemnik zielony."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc07/t16_tabela23.png"
+    },
+    "category": "SPC.07"
+  }
+]
