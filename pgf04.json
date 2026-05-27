@@ -1,0 +1,3216 @@
+[
+  {
+    "id": 1,
+    "text": "Które elementy są niezbędne w pliku PDF przygotowywanym do druku cyfrowego?",
+    "answers": [
+      "Rodzaj oprawy.",
+      "Pasery.",
+      "Znaczniki cięcia.",
+      "Informacje o pliku."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 2,
+    "text": "Cyfrowy system przepływu prac w przygotowalni poligraficznej to",
+    "answers": [
+      "Desktop",
+      "CMS",
+      "Workflow",
+      "PDF"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 3,
+    "text": "Przygotowany projekt akcydensu przeznaczonego do drukowania powinien zostać przekonwertowany do pliku kompozytowego",
+    "answers": [
+      "EPS",
+      "PDF",
+      "INDD",
+      "TIFF"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 4,
+    "text": "Którego obiektywu należy użyć do wykonania zdjęcia małego owada w zbliżeniu?",
+    "answers": [
+      "Teleobiektywu.",
+      "Długoogniskowego.",
+      "Szerokokątnego.",
+      "Makroobiektywu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 5,
+    "text": "W programie Adobe Illustrator do ustawienia światła pomiędzy dwoma sąsiadującymi znakami w tekście należy użyć funkcji znajdującej się w panelu",
+    "answers": [
+      "symbole.",
+      "akapit.",
+      "tabulatory.",
+      "typografia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 6,
+    "text": "Przy składaniu tekstu w formie dialogu na początku wiersza należy wstawić",
+    "answers": [
+      "pauzę.",
+      "wykrzyknik.",
+      "dywiz.",
+      "wielokropek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 7,
+    "text": "Do wykonania automatycznej impozycji użytków na arkuszu plikiem wyjściowym jest plik w formacie",
+    "answers": [
+      "TIFF",
+      "PDF",
+      "PNG",
+      "FLA"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 8,
+    "text": "Ile separacji barwnych należy przygotować do wykonania offsetowych form drukowych dla druku o kolorystyce 4+1?",
+    "answers": [
+      "1 separację.",
+      "8 separacji.",
+      "4 separacje.",
+      "5 separacji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 9,
+    "text": "Bitmapa w grafice komputerowej to określenie",
+    "answers": [
+      "obiektów powstałych przez połączenie punktów, których umiejscowienie opisują współrzędne matematyczne.",
+      "zbioru obiektów osadzonych w klatkach kluczowych.",
+      "obrazu składającego się z pikseli.",
+      "obiektów w postaci wielokątów umieszczonych w przestrzeni trójwymiarowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 10,
+    "text": "Obrysowanie kształtów z bitmapy w celu utworzenia obiektu wektorowego w programach Adobe wykonuje się za pomocą",
+    "answers": [
+      "ołówka.",
+      "pędzla.",
+      "pióra.",
+      "stempla."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 11,
+    "text": "Który materiał graficzny nie podlega digitalizacji?",
+    "answers": [
+      "Fotografia cyfrowa.",
+      "Obraz negatywowy.",
+      "Obwoluta książki.",
+      "Odbitka fotograficzna."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 12,
+    "text": "W projekcie graficznym opakowania siatka wykrojnika, grafika i znaczniki drukarskie powinny być",
+    "answers": [
+      "scalone do jednej warstwy.",
+      "umieszczone na osobnych warstwach.",
+      "zapisane w pliku wyłącznie zamkniętym.",
+      "pogrupowane kolejno od elementów najbardziej widocznych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 13,
+    "text": "Który element kompozycji tekstowej jest pokazany na rysunku w czerwonej ramce?",
+    "answers": [
+      "Kolumna.",
+      "Łam.",
+      "Pagina.",
+      "Stronica."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_element.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 14,
+    "text": "Które z narzędzi Adobe Photoshop pozwoli wyselekcjonować statek widoczny na zdjęciu?",
+    "answers": [
+      "Farba.",
+      "Gumka.",
+      "Kroplomierz.",
+      "Lasso."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_zdjecie6.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 15,
+    "text": "Który z formatów plików graficznych nie obsługuje przezroczystości tła?",
+    "answers": [
+      "GIF",
+      "PNG",
+      "JPEG",
+      "TIFF"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 16,
+    "text": "Przedstawiona na rysunku pierwsza strona wzorca impozycji dla publikacji to impozycja składki",
+    "answers": [
+      "16-stronicowej.",
+      "8-stronicowej.",
+      "32-stronicowej.",
+      "4-stronicowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_wzorzec.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 17,
+    "text": "Które programy służą do wykonania wektorowego logo do systemu identyfikacji wizualnej firmy?",
+    "answers": [
+      "Inkscape, CorelDraw.",
+      "Inkscape, Lightroom.",
+      "Illustrator, AfterEffects.",
+      "CorelDraw, Premiere."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 18,
+    "text": "Którą konwersję przestrzeni barw należy wykonać, aby przygotować zdjęcie do wydruku w technice offsetowej?",
+    "answers": [
+      "CMYK na RGB",
+      "RGB na HSB",
+      "RGB na LAB",
+      "RGB na CMYK"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 19,
+    "text": "Montaż elektroniczny z odpowiednim ułożeniem użytków na arkuszu drukarskim, z oznaczeniami potrzebnymi do druku i procesów wykończeniowych, to",
+    "answers": [
+      "łamanie.",
+      "obłamywanie.",
+      "impozycja.",
+      "pierwodruk."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 20,
+    "text": "Zmniejszenie światła pomiędzy parą liter w składzie tekstu publikacji nazywane jest",
+    "answers": [
+      "akcentowaniem.",
+      "interlinią.",
+      "kerningiem.",
+      "justowaniem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 21,
+    "text": "W którym programie można wykonać gazetkę reklamową przeznaczoną do interaktywnego wyświetlania?",
+    "answers": [
+      "IrfanView",
+      "Puzzle Flow",
+      "Corel Painter",
+      "Adobe InDesign"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 22,
+    "text": "Urządzeniem wykorzystywanym do sporządzania profili barwnych ICC jest",
+    "answers": [
+      "densytometr.",
+      "spektrofotometr.",
+      "spektrograf.",
+      "mikrometr."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 23,
+    "text": "Interaktywne czasopismo przeznaczone do publikacji w Internecie należy zapisać w formacie",
+    "answers": [
+      "EPUB",
+      "JPEG",
+      "PNG",
+      "EPS"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 24,
+    "text": "Wykonanie odbitki proof ma na celu jej weryfikację pod kątem",
+    "answers": [
+      "liniatury rastra.",
+      "kolorystyki druku.",
+      "wymiarów podłoża.",
+      "pasowania kolorów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 25,
+    "text": "Które oznaczenie odpowiada formatowi czasopisma o wymiarach 250 x 350 mm?",
+    "answers": [
+      "A3",
+      "A4",
+      "B3",
+      "B4"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 26,
+    "text": "Błąd typograficzny, polegający na pozostawieniu bardzo krótkiego wiersza najczęściej jednowyrazowego na końcu akapitu to",
+    "answers": [
+      "bękart.",
+      "sierota.",
+      "szewc.",
+      "wdowa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 27,
+    "text": "Którą operację cyfrowej obróbki bitmapy przedstawia ilustracja?",
+    "answers": [
+      "Przycinanie obrazu.",
+      "Nakładanie gradientu.",
+      "Wypaczanie kształtów.",
+      "Korektę kolorystyczną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_ilustracja2.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 28,
+    "text": "Wskaż charakterystyczne parametry układu typograficznego strony przedstawionej na ilustracji.",
+    "answers": [
+      "Jedna kolumna, dwa łamy.",
+      "Jedna kolumna, cztery łamy.",
+      "Cztery kolumny, jeden łam.",
+      "Jeden łam, dwie kolumny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_strona.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 29,
+    "text": "Na pokazanym projekcie wykrojnika opakowania zielona linia wyznacza",
+    "answers": [
+      "wymiar netto.",
+      "linie cięcia.",
+      "spady drukarskie.",
+      "linie bigowania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_projekt.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 30,
+    "text": "W publikacji zwartej na drugiej stronie dwójki tytułowej znajduje się",
+    "answers": [
+      "karta przytytułowa.",
+      "spis treści.",
+      "strona redakcyjna.",
+      "karta tytułowa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 31,
+    "text": "Przygotowanie w programie Adobe Photoshop panoramy fotograficznej z kilku cyfrowych zdjęć umożliwia polecenie",
+    "answers": [
+      "Scal do HDR Pro.",
+      "Stykówka.",
+      "Photomerge.",
+      "Korekcja obiektywu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 32,
+    "text": "Którym akronimem oznacza się oprogramowanie do rozpoznawania tekstów w plikach graficznych zeskanowanych oryginałów?",
+    "answers": [
+      "RAR",
+      "RIP",
+      "OCR",
+      "ZIP"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 33,
+    "text": "Który format umożliwia zapisanie przeznaczonego do publikacji w Internecie animowanego pliku z zachowaniem przezroczystości?",
+    "answers": [
+      "JPG",
+      "GIF",
+      "EPS",
+      "PSD"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 34,
+    "text": "Album składający się z fotografii, który ma być publikowany wyłącznie w Internecie, należy zapisać z parametrami:",
+    "answers": [
+      "72 ppi, RGB",
+      "250 dpi, RGB",
+      "300 ppi, CMYK",
+      "72 dpi, CMYK"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 35,
+    "text": "Na zdjęciu pokazano zastosowanie zasady kompozycji w fotografii określanej jako",
+    "answers": [
+      "złota spirala.",
+      "trójpodział.",
+      "piramida.",
+      "złota proporcja."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_zdjecie2.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 36,
+    "text": "Który program pozwala wykonać skład publikacji graficzno-tekstowych?",
+    "answers": [
+      "Blender",
+      "Adobe InDesign",
+      "ArtiosCad",
+      "Corel Photo Paint"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 37,
+    "text": "Który program umożliwia automatyczną impozycję?",
+    "answers": [
+      "Adobe Illustrator",
+      "Impozycjoner",
+      "Blender",
+      "IrfanView"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 38,
+    "text": "Na ilustracji przedstawiono",
+    "answers": [
+      "liniaturę.",
+      "ligaturę.",
+      "majuskułę.",
+      "minuskułę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_ilustracja5.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 39,
+    "text": "Które tło w czerwonym logo firmy będzie najbardziej czytelne?",
+    "answers": [
+      "Fioletowe.",
+      "Żółte.",
+      "Zielone.",
+      "Różowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 40,
+    "text": "Do przekształcenia oryginału analogowego na obraz cyfrowy należy użyć",
+    "answers": [
+      "skanera płaskiego.",
+      "drukarki sublimacyjnej.",
+      "plotera tnącego.",
+      "laminatora rolowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 41,
+    "text": "Który format graficzny jest zamkniętym i pozwoli zapisać pracę graficzną w obowiązującym standardzie drukarskim?",
+    "answers": [
+      "PSD",
+      "PDF",
+      "RAW",
+      "TIFF"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 42,
+    "text": "Zmniejszenie świateł pomiędzy parą liter w składzie tekstu publikacji nazywane jest",
+    "answers": [
+      "kerningiem.",
+      "akcentowaniem.",
+      "justowaniem.",
+      "interlinią."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 43,
+    "text": "W którym miejscu publikacji zamieszczona jest informacja o materiałach ikonograficznych?",
+    "answers": [
+      "Na stronie redakcyjnej.",
+      "W przypisach bibliograficznych.",
+      "Na stronie wakatowej.",
+      "W bibliografii załącznikowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 44,
+    "text": "Jakie wymiary obwoluty na książkę należy założyć, jeżeli sama książka ma format A5, grzbiet 30 mm a skrzydełka 35 mm? Obwoluta nie posiada spadów drukarskich.",
+    "answers": [
+      "396 x 210 mm",
+      "148 x 210 mm",
+      "402 x 216 mm",
+      "248 x 297 mm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 45,
+    "text": "Który format grafiki bitmapowej nie zachowuje przezroczystości tła?",
+    "answers": [
+      "PSD",
+      "TIFF",
+      "PNG",
+      "JPG"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 46,
+    "text": "Co oznacza zapis kodu cyfrowego pokazanego na rysunku?",
+    "answers": [
+      "Międzynarodowy Znormalizowany Numer Książki.",
+      "Rodzaj zastrzeżenia praw autorskich publikacji.",
+      "Międzynarodowy Znormalizowany Numer Wydawnictwa Ciągłego.",
+      "Numer zatwierdzenia podręcznika do użytku szkolnego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_kod.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 47,
+    "text": "Którą operację obróbki bitmapy przedstawia ilustracja?",
+    "answers": [
+      "Korektę kolorystyczną.",
+      "Nakładanie gradientu.",
+      "Przycinanie obrazu.",
+      "Wypaczanie kształtów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_ilustracja2.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 48,
+    "text": "Który program należy wybrać, aby stworzyć publikację elektroniczną w standardzie ePUB?",
+    "answers": [
+      "GIMP",
+      "Sigil",
+      "Birdfont",
+      "Inkscape"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 49,
+    "text": "Czerwone przecinające się linie na zdjęciu pokazują sposób kadrowania obrazu przez zastosowanie reguły * zdający otrzymuje jeden punkt niezależnie od udzielonej odpowiedzi.",
+    "answers": [
+      "trójkąta. \nB.  przekątnej. \nC.  złotej spirali. \nD.  złotego podziału."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_zdjecie4.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 50,
+    "text": "Sposobem na uniknięcie problemów związanych z brakiem fontów zastosowanych w projekcie graficznym przeznaczonym do naświetlania form drukowych jest zapis tekstów jako",
+    "answers": [
+      "bitmapy.",
+      "glify.",
+      "krzywe.",
+      "gify."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 51,
+    "text": "Tracking to",
+    "answers": [
+      "globalna regulacja odległości pomiędzy znakami w całym tekście.",
+      "ustalanie odległości pomiędzy sąsiednimi wierszami tekstu.",
+      "regulowanie odległości pomiędzy parami znaków w danym kroju pisma.",
+      "wyróżnienie tekstu poprzez wstawienie pomiędzy litery dodatkowych odstępów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 52,
+    "text": "Proces wektoryzacji w grafice komputerowej polega na",
+    "answers": [
+      "zmianie rozmiarów i kształtów obiektu wektorowego.",
+      "przekształceniu obiektów wektorowych dwuwymiarowych w trójwymiarowe.",
+      "konwersji obiektu wektorowego w bitmapę o określonej rozdzielczości.",
+      "wykrywaniu krawędzi w bitmapie i konwersji w obrysy wektorowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 53,
+    "text": "Który rodzaj przekształcenia należy zastosować, aby uzyskać efekt przestawiony na ilustracji?",
+    "answers": [
+      "Marionetkowe.",
+      "Skalę.",
+      "Perspektywę.",
+      "Swobodne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_efekt2.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 54,
+    "text": "Elementami umożliwiającymi bezpośrednio zmianę kształtu obiektów wektorowych są",
+    "answers": [
+      "warstwy, grupy ścieżek.",
+      "punkty kontrolne, ścieżki.",
+      "wypełnienia, grupy ścieżek.",
+      "obrys, ścieżki przycinania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 55,
+    "text": "Który program z pakietu Adobe umożliwia automatycznie katalogować zdjęcia oraz nimi zarządzać?",
+    "answers": [
+      "Dreamweaver",
+      "Media Encoder",
+      "Bridge",
+      "Flash"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 56,
+    "text": "Który format pliku pozwala zachować możliwość skalowania obiektów w wektorowym logo bez utraty jakości szczegółów i pojawiania się pikseli?",
+    "answers": [
+      "BMP",
+      "PSD",
+      "JPG",
+      "AI"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 57,
+    "text": "Podstawą prawidłowego odtwarzania barw w produkcji poligraficznej jest stosowanie systemu zarządzania kolorami a w szczególności określenie",
+    "answers": [
+      "profilu ICC, skali szarości.",
+      "przestrzeni barwnej, profilu ICC.",
+      "składu kolorów RGB, nasycenia kolorów.",
+      "modułu dopasowania kolorów, jasności kolorów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 58,
+    "text": "W której przestrzeni barwnej należy przygotować materiały graficzne przeznaczone do naświetlania form drukowych i procesu drukowania offsetowego?",
+    "answers": [
+      "L*a*b",
+      "RGB",
+      "HSB",
+      "CMYK"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 59,
+    "text": "Jaka jest kolejność ułożenia kart tytułowych w publikacji zawierającej czwórkę tytułową?",
+    "answers": [
+      "Tytułowa, redakcyjna, przedtytułowa, przytytułowa.",
+      "Redakcyjna, przedtytułowa, tytułowa, przytytułowa.",
+      "Przedtytułowa, przytytułowa, tytułowa, redakcyjna.",
+      "Przytytułowa, przedtytułowa, redakcyjna, tytułowa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 60,
+    "text": "Na ilustracji przedstawiono operację",
+    "answers": [
+      "kadrowania bitmapy.",
+      "selekcji obszaru.",
+      "tworzenia maski przycinającej.",
+      "korekty obiektywu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_operacja.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 61,
+    "text": "Który z zapisanych tekstów jest złożony zgodnie z zasadami składu?",
+    "answers": [
+      "Czarno - biały.",
+      "Czarno – biały.",
+      "Czarno-biały.",
+      "Czarno—biały."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 62,
+    "text": "Do katalogowania i archiwizacji plików graficznych o dużej wielkości należy zastosować program",
+    "answers": [
+      "ArtiosCad",
+      "WinRar",
+      "Eset Nod32",
+      "Audacity"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 63,
+    "text": "Programem do rozpoznawania tekstów w zeskanowanych bitmapach lub plikach PDF jest",
+    "answers": [
+      "RAR",
+      "OCR",
+      "ZIP",
+      "RIP"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 64,
+    "text": "Odrysowanie kształtów z bitmapy w celu utworzenia obiektu wektorowego wykonuje się pomocą narzędzia nazywanego w programach Adobe",
+    "answers": [
+      "ołówkiem.",
+      "pędzlem.",
+      "stemplem.",
+      "piórem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 65,
+    "text": "Formatami do zapisu książki w postaci publikacji elektronicznej przeznaczonej do wyświetlania w Internecie są",
+    "answers": [
+      "CSV, PSD, EPUB",
+      "AI, EPUB, FLA",
+      "PDF, EPUB, HTML",
+      "CDR, EPUB, HTML"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 66,
+    "text": "Naświetlanie formy drukowej bezpośrednio z pliku graficznego na formę drukową, w poligrafii oznaczane jest skrótem?",
+    "answers": [
+      "CtP",
+      "CMS",
+      "CtF",
+      "CIP"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 67,
+    "text": "Przygotowanie fotografii panoramicznej z kilku cyfrowych zdjęć wymaga zastosowania polecenia Adobe Photoshop nazywanego",
+    "answers": [
+      "stykówką.",
+      "photomerge.",
+      "korekcją obiektywu.",
+      "scalaniem do HDR Pro."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 68,
+    "text": "Błędem podczas składania tekstów publikacji, zaznaczonym czerwoną linią na ilustracji jest",
+    "answers": [
+      "szewc.",
+      "bękart.",
+      "sierota.",
+      "wdowa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_blad.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 69,
+    "text": "Który parametr skanerów decyduje o jakości i dokładności odwzorowywanych szczegółów skanowanych obrazów?",
+    "answers": [
+      "Rodzaj wyświetlacza.",
+      "Prędkość skanowania.",
+      "Format.",
+      "Rozdzielczość."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 70,
+    "text": "W projekcie graficznym opakowania, siatka wykrojnika, grafika i znaczniki drukarskie powinny być umieszczone",
+    "answers": [
+      "zapisane w pliku wyłącznie zamkniętym.",
+      "scalone do jednej warstwy.",
+      "na osobnych warstwach.",
+      "pogrupowane kolejno od elementów najbardziej widocznych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 71,
+    "text": "Zwiększenie rozmiarów bitmapy przy zachowaniu tej samej rozdzielczości powoduje",
+    "answers": [
+      "poprawę jakości obrazu poprzez pojawienie się pikseli na bitmapie.",
+      "wzrost ostrości obrazu na skutek mniejszej liczby pikseli w stosunku do rozmiaru bitmapy.",
+      "rozjaśnienie obrazu szczególnie w półtonach.",
+      "pogorszenie jakości obrazu poprzez pojawienie się pikseli na bitmapie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 72,
+    "text": "Przygotowując projekt graficzny stanowiący plik do naświetlania form drukowych offsetowych, nadrukiem wykonuje się elementy",
+    "answers": [
+      "koloru czarnego.",
+      "przeznaczone do lakierowania wybiórczego.",
+      "wszystkich barw o nasyceniu koloru powyżej 50%.",
+      "o co najmniej dwóch składowych kolorystycznych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 73,
+    "text": "Który z wymienionych programów jest dedykowany do łamania wielostronicowych publikacji graficzno-tekstowych?",
+    "answers": [
+      "Adobe InDesign",
+      "Painter",
+      "Puzzle Flow",
+      "Audacity"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 74,
+    "text": "Który rodzaj pliku jest wyjściowym do wykonania automatycznej impozycji użytków na arkuszu?",
+    "answers": [
+      "PDF",
+      "TIFF",
+      "PNG",
+      "FLA"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 75,
+    "text": "Programem do przygotowania wielostronicowego katalogu ofertowego z grafiką i tekstem oraz do wygenerowania pliku PDF o standardzie drukarskim jest",
+    "answers": [
+      "IrfanView",
+      "Gimp",
+      "Adobe Bridge",
+      "Adobe InDesign"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 76,
+    "text": "Ile separacji barwnych należy przygotować do druku offsetowego w kolorystyce 2+4?",
+    "answers": [
+      "8",
+      "6",
+      "3",
+      "2"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 77,
+    "text": "Którą operację technologiczną przedstawiono na rysunku?",
+    "answers": [
+      "Kadrowania obrazów.",
+      "Projektowania layout’u.",
+      "Łamania publikacji.",
+      "Impozycji użytków."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_operacja2.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 78,
+    "text": "Który format graficzny jest formatem zamkniętym, umożliwiającym zapis pracy graficznej w obowiązującym standardzie drukarskim?",
+    "answers": [
+      "RAW",
+      "PSD",
+      "PDF",
+      "TIFF"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 79,
+    "text": "Elementami umożliwiającymi bezpośrednią edycję kształtu obiektów wektorowych są",
+    "answers": [
+      "wypełnienia i grupy ścieżek.",
+      "punkty kontrolne i ścieżki.",
+      "warstwy i grupy ścieżek.",
+      "obrys i ścieżki przycinania."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 80,
+    "text": "Za pomocą którego programu z pakietu Adobe można automatycznie katalogować zdjęcia oraz nimi zarządzać?",
+    "answers": [
+      "Flash",
+      "Bridge",
+      "Media Encoder",
+      "Dreamweaver"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 81,
+    "text": "Interlinia to odległość pomiędzy sąsiednimi",
+    "answers": [
+      "wyrazami.",
+      "wierszami.",
+      "łamami.",
+      "kolumnami."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 82,
+    "text": "Który rodzaj filtra należy zastosować do uzyskania zmiany fragmentu obrazu cyfrowego widocznej na zdjęciach?",
+    "answers": [
+      "Skraplanie obrazu.",
+      "Rozmycie gaussowskie.",
+      "Stylizacja dyfuzja.",
+      "Wyostrzanie obrazu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_zdjecia2.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 83,
+    "text": "Oprogramowanie służące do rozpoznawania tekstu w zeskanowanym dokumencie określa się akronimem",
+    "answers": [
+      "ACR",
+      "STL",
+      "CMS",
+      "OCR"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 84,
+    "text": "W którym miejscu publikacji jest zamieszczona informacja o materiałach ikonograficznych?",
+    "answers": [
+      "W bibliografii załącznikowej.",
+      "Na stronie wakatowej.",
+      "W przypisach bibliograficznych.",
+      "Na stronie redakcyjnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 85,
+    "text": "Do digitalizacji materiałów analogowych należy użyć",
+    "answers": [
+      "naświetlarki.",
+      "drukarki elektrofotograficznej.",
+      "skanera.",
+      "analogowego aparatu fotograficznego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 86,
+    "text": "Model przestrzeni barw polegający na addytywnym mieszaniu trzech barw pierwszorzędowych określa się akronimem",
+    "answers": [
+      "RGB",
+      "CIE",
+      "HSL",
+      "HSB"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 87,
+    "text": "Przygotowanie rozmieszczenia kompozycji graficzno-tekstowej pokazanej na rysunku w procesach przygotowawczych (prepress) jest określane jako",
+    "answers": [
+      "frontyspis.",
+      "layout.",
+      "złam.",
+      "kolofon."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_kompozycja3.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 88,
+    "text": "Określ na podstawie ilustracji parametry akapitu przygotowywanej publikacji.",
+    "answers": [
+      "Wcięcie z prawej każdego wiersza 3 mm, dwa znaki inicjału wpuszczonego, z wyrównaniem do siatki bazowej.",
+      "Wcięcie akapitowe wiersza 3 mm, dwa znaki inicjału wpuszczonego, bez wyrównania do siatki bazowej.",
+      "Wcięcie akapitowe wiersza 3 mm, inicjał wpuszczony na dwa wiersze, bez wyrównania do siatki bazowej.",
+      "Wcięcie z prawej pierwszego wiersza 3 mm, dwa wiersze jednego inicjału wpuszczonego, z wyrównaniem do siatki bazowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_okno.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 89,
+    "text": "Który program jest przeznaczony do łamania wielostronicowych publikacji graficzno-tekstowych?",
+    "answers": [
+      "Audacity",
+      "Adobe InDesign",
+      "Painter",
+      "Puzzle Flow"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 90,
+    "text": "Sposobem na uniknięcie problemów związanych z brakiem fontów zastosowanych w projekcie graficznym przeznaczonym do naświetlania form drukowych jest zamiana tekstu na",
+    "answers": [
+      "gify.",
+      "glify.",
+      "krzywe.",
+      "bitmapy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 91,
+    "text": "W której przestrzeni barwnej należy przygotować projekt graficzny przeznaczony do drukowania na kartonowym pudełku?",
+    "answers": [
+      "LAB",
+      "CMYK",
+      "HSL",
+      "RGB"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 92,
+    "text": "Czerwone przecinające się linie na zdjęciu pokazują sposób kadrowania obrazu cyfrowego z zastosowaniem reguły",
+    "answers": [
+      "trójpodziału.",
+      "trójkąta.",
+      "złotej spirali.",
+      "przekątnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_zdjecie4.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 93,
+    "text": "Który parametr pracy skanera decyduje o jakości i dokładności odwzorowania szczegółów skanowanych obrazów?",
+    "answers": [
+      "Prędkość skanowania.",
+      "Obszar skanowania.",
+      "Rozdzielczość optyczna.",
+      "Rozdzielczość interpolowana."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 94,
+    "text": "Która technika druku jest optymalna do drukowania etykiet termokurczliwych?",
+    "answers": [
+      "Ink-jet.",
+      "Fleksograficzna.",
+      "Tampondrukowa.",
+      "Offsetowa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 95,
+    "text": "Przygotowując materiał dla potrzeb druku offsetowego nadrukiem, wykonać należy elementy",
+    "answers": [
+      "wypełnione gradientem.",
+      "drukowane farbami Pantone.",
+      "koloru żółtego.",
+      "koloru czarnego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 96,
+    "text": "Naświetlanie formy drukowej bezpośrednio z pliku graficznego na formę drukową oznaczane jest w poligrafii skrótem",
+    "answers": [
+      "CIP",
+      "CtF",
+      "CMS",
+      "CtP"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 97,
+    "text": "Zwiększenie rozmiarów bitmapy przy zachowaniu tej samej rozdzielczości obrazu spowoduje",
+    "answers": [
+      "poprawę jakości obrazu poprzez pojawienie się dodatkowych pikseli na bitmapie.",
+      "wzrost ostrości obrazu na skutek mniejszej liczby pikseli w stosunku do rozmiaru bitmapy.",
+      "rozjaśnienie obrazu szczególnie w półtonach.",
+      "pogorszenie jakości obrazu poprzez pojawienie się dodatkowych pikseli na bitmapie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 98,
+    "text": "Ile wynoszą wymiary obwoluty na książkę o formacie A5 i szerokości grzbietu 30 mm, jeżeli obwoluta ma skrzydełka o szerokości 35 mm i nie posiada spadów drukarskich?",
+    "answers": [
+      "396 x 210 mm",
+      "248 x 297 mm",
+      "402 x 216 mm",
+      "148 x 210 mm"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 99,
+    "text": "Podstawą prawidłowego odtwarzania barw w produkcji poligraficznej jest stosowanie systemu zarządzania kolorami obejmującego w szczególności określenie",
+    "answers": [
+      "składu kolorów RGB oraz nasycenia kolorów.",
+      "przestrzeni barwnej oraz profilu ICC.",
+      "profilu ICC oraz skali szarości.",
+      "modułu dopasowania kolorów oraz jasności kolorów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 100,
+    "text": "Kod cyfrowy pokazany na rysunku to",
+    "answers": [
+      "numer zatwierdzenia podręcznika do użytku szkolnego.",
+      "rodzaj zastrzeżenia praw autorskich publikacji.",
+      "międzynarodowy znormalizowany numer książki.",
+      "międzynarodowy znormalizowany numer wydawnictwa ciągłego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_kod.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 101,
+    "text": "Błąd popełniony podczas składania tekstów publikacji, zaznaczony czerwoną linią na ilustracji, to",
+    "answers": [
+      "bękart.",
+      "wdowa.",
+      "szewc.",
+      "sierota."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_blad.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 102,
+    "text": "Który format zapisu pliku graficznego pozwala zachować możliwość skalowania obiektów z wektorowym logo bez utraty jakości?",
+    "answers": [
+      "BMP",
+      "JPEG",
+      "AI",
+      "PSD"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 103,
+    "text": "Który efekt trzeba zastosować do utworzenia widocznej na ilustracji misy z jabłkiem po narysowaniu połowy konturów obiektów piórem w programie wektorowym?",
+    "answers": [
+      "Smużenie.",
+      "Szkic.",
+      "3D.",
+      "Tekstury."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_misa.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 104,
+    "text": "Którym rodzajem filtra w Adobe Photoshop można uzyskać zmianę obrazu przedstawioną na zdjęciach?",
+    "answers": [
+      "Stylizacja płaskorzeźba.",
+      "Rozmycie gaussowskie.",
+      "Szkic ołówek/kredka Conté.",
+      "Wyostrzanie krawędzi."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_zdjecia3.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 105,
+    "text": "Do archiwizacji dużych plików graficznych stosuje się program",
+    "answers": [
+      "WinRar",
+      "Eset Nod32",
+      "ArtiosCad",
+      "Audacity"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 106,
+    "text": "Proces, którego celem jest sporządzenie odbitki próbnej o określonej jakości, to",
+    "answers": [
+      "montaż.",
+      "impozycja.",
+      "proofing.",
+      "naświetlanie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 107,
+    "text": "Rodzaj grafiki komputerowej, w której linie proste, krzywe i złożone figury geometryczne są opisywane funkcjami matematycznymi, to grafika",
+    "answers": [
+      "ruchoma i bitmapowa.",
+      "rastrowa i wektorowa.",
+      "interakcyjna i rastrowa.",
+      "wektorowa i obiektowa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 108,
+    "text": "Oprogramowanie do zarządzania zasobami cyfrowymi, dzięki któremu można organizować pliki wykorzystywane do tworzenia zawartości dla druku, Internetu i wideo to program Adobe",
+    "answers": [
+      "Illustrator.",
+      "Bridge.",
+      "Animate.",
+      "Photoshop."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 109,
+    "text": "Na zamieszczonym projekcie siatki opakowania linią przerywaną przedstawiono",
+    "answers": [
+      "linie bigowania.",
+      "miejsce perforowania.",
+      "kształt wykrojnika.",
+      "kształt przekroju."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_projekt2.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 110,
+    "text": "W których formatach należy zapisać nieregularny obiekt wektorowy, aby zachował swoją przezroczystość po umieszczeniu go na stronie internetowej?",
+    "answers": [
+      "PNG, BMP",
+      "PNG, GIF",
+      "GIF, BMP",
+      "PNG, JPEG"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 111,
+    "text": "W których formatach należy przygotować bitmapę do książki?",
+    "answers": [
+      "AI, CDR",
+      "INDD, BMP",
+      "CDR, GIF",
+      "PSD, TIFF"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 112,
+    "text": "Ile ekonomicznie rozmieszczonych użytków wizytówki o rozmiarze 90 x 50 mm ze spadami 2 mm, przygotowanej do druku cyfrowego zmieści się na arkuszu A3?",
+    "answers": [
+      "10 użytków.",
+      "20 użytków.",
+      "30 użytków.",
+      "40 użytków."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 113,
+    "text": "Którego symbolu używa się do oznaczenia ilustracji lub rysunków na szkicu wydawniczym?",
+    "answers": [
+      "II",
+      "I",
+      "IV",
+      "III"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_symbole.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 114,
+    "text": "Do retuszu zniszczonego zdjęcia po jego digitalizacji należy użyć programu Adobe",
+    "answers": [
+      "Photoshop",
+      "Animate",
+      "InDesign",
+      "Illustrator"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 115,
+    "text": "Rozdzielczość zamieszczonej bitmapy o wymiarach 6 x 6 cm, przeznaczonej do druku offsetowego powinna wynosić",
+    "answers": [
+      "300 ppi",
+      "72 ppi",
+      "120 dpi",
+      "720 dpi"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_bitmapa.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 116,
+    "text": "W celu zaprojektowania ulotki zgodnie ze szkicem wydawniczym, sformatowania tekstu publikacji oraz rozmieszczenia w niej elementów ilustracyjnych należy wykonać",
+    "answers": [
+      "łamanie.",
+      "rastrowanie.",
+      "złamywanie.",
+      "kaszerowanie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 117,
+    "text": "Które narzędzie programu Adobe Photoshop umożliwia zaznaczanie wybranego obiektu?",
+    "answers": [
+      "Gumka.",
+      "Lasso.",
+      "Kadrowanie.",
+      "Pędzel."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 118,
+    "text": "Urządzeniem służącym do skanowania materiałów transparentnych jest skaner",
+    "answers": [
+      "lustrzany.",
+      "ręczny.",
+      "bębnowy.",
+      "przestrzenny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 119,
+    "text": "Na rysunku przedstawiono kompozycję obiektów leżących obok siebie, nazywaną kontrastem",
+    "answers": [
+      "rozmiarowym.",
+      "kształtu.",
+      "ciężkości.",
+      "położenia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_kompozycja2.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 120,
+    "text": "Który program Adobe przeznaczony jest do składu publikacji wielostronicowych?",
+    "answers": [
+      "InDesign.",
+      "Premiere.",
+      "Animate.",
+      "Photoshop."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 121,
+    "text": "Który sposób umieszczenia tekstu przedstawiono na rysunku?",
+    "answers": [
+      "W ramce.",
+      "W obiekcie.",
+      "Na ścieżce.",
+      "Pionowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_rysunek3.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 122,
+    "text": "Ile separacji barwnych należy przygotować do wykonania offsetowych form drukowych dla druku o kolorystyce 4+2?",
+    "answers": [
+      "4 separacje.",
+      "8 separacji.",
+      "2 separacje.",
+      "6 separacji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 123,
+    "text": "Wskazany strzałką na zdjęciu czerwony krzyżyk informuje o",
+    "answers": [
+      "zakotwiczonym obiekcie.",
+      "tekście nie mieszczącym się w ramce tekstowej.",
+      "ukrytej ilustracji.",
+      "zakończonym wątku w ramce tekstowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_zdjecie5.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 124,
+    "text": "Na podstawie zamieszczonej ilustracji wskaż narzędzie, którego użyto do zmiany rozdzielczości obrazu.",
+    "answers": [
+      "Kadrowanie.",
+      "Przesuwanie z uwzględnieniem zawartości.",
+      "Przesunięcie.",
+      "Zaznaczanie prostokątne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_ilustracja3.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 125,
+    "text": "Kolor o składowych C100 M0 Y100 K0 symbolizuje w grafice",
+    "answers": [
+      "czystość i niewinność.",
+      "luksus i elegancję.",
+      "wodę i powietrze.",
+      "naturę i świeżość."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 126,
+    "text": "Który sposób łączenia tekstu z grafiką przedstawiono na ilustracji?",
+    "answers": [
+      "Włamany.",
+      "Na spad.",
+      "Całokolumnowy.",
+      "Obłamany."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_ilustracja4.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 127,
+    "text": "Do utworzenia automatycznej numeracji 16 stronicowego katalogu w programie Adobe InDesign należy użyć strony",
+    "answers": [
+      "tytułowej.",
+      "parzystej.",
+      "nieparzystej.",
+      "wzorcowej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 128,
+    "text": "W której przestrzeni barw należy przygotować grafikę przeznaczoną do publikacji w Internecie?",
+    "answers": [
+      "HSB",
+      "HSL",
+      "RGB",
+      "LAB"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 129,
+    "text": "Który wzór stosuje się do przybliżonego przeliczania miar typograficznych na metryczne?",
+    "answers": [
+      "3/8 x ilość punktów.",
+      "3/5 x ilość punktów.",
+      "9/3 x ilość milimetrów.",
+      "8/11 x ilość milimetrów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 130,
+    "text": "Z jaką przybliżoną rozdzielczością należy zeskanować wielobarwny oryginał o wysokości 10 cm, w celu wykorzystania jako tło pionowego plakatu o formacie B3?",
+    "answers": [
+      "500 lpi",
+      "2 100 ppi",
+      "300 dpi",
+      "1 500 spi"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 131,
+    "text": "Jak jest nazywany element graficzny logo oznaczony na rysunku symbolem „X”?",
+    "answers": [
+      "Sygnet.",
+      "Slogan.",
+      "Tagline.",
+      "Logotyp."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_rysunek.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 132,
+    "text": "Która technika tworzenia obiektów graficznych pozwala uzyskiwać efekty przedstawione na ilustracji?",
+    "answers": [
+      "Cięcie na plasterki.",
+      "Tworzenie przejść.",
+      "Generator kształtów.",
+      "Rozpylanie symboli."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_efekty.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 133,
+    "text": "Plik tekstowy, który zawiera 120 000 znaków typograficznych i 6 000 cm2 powierzchni ilustracji odpowiada",
+    "answers": [
+      "5 arkuszom wydawniczym.",
+      "3 arkuszom wydawniczym.",
+      "4 arkuszom wydawniczym.",
+      "6 arkuszom wydawniczym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 134,
+    "text": "Konwertowanie danych z matrycy światłoczułej aparatu zapisanych w formacie RAW do formatu JPG umożliwia program",
+    "answers": [
+      "Ableton Live",
+      "Corel Duplexing Wizard",
+      "Adobe Dreamweaver",
+      "Adobe Camera Raw"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 135,
+    "text": "Który format pliku graficznego nie obsługuje kanału alfa?",
+    "answers": [
+      "JPEG",
+      "PSD",
+      "PNG",
+      "TIFF"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 136,
+    "text": "Cyfrowy system produkcyjny web-to-print pozwala na",
+    "answers": [
+      "tworzenie grup dyskusyjnych dotyczących drukowania cyfrowego.",
+      "automatyczne tworzenie zalewek i spadów w projektach graficznych.",
+      "wykonywanie automatycznych impozycji publikacji książkowych.",
+      "realizację zamówień i sprzedaż produktów drukarni przez Internet."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 137,
+    "text": "Który format należy zastosować, aby przenieść plik graficzny CDR do programów pakietu Adobe?",
+    "answers": [
+      "WAV",
+      "DOC",
+      "DAT",
+      "EPS"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 138,
+    "text": "Które narzędzie graficzne służy do statycznej prezentacji projektu opakowania w rzeczywistym otoczeniu?",
+    "answers": [
+      "Tutorial",
+      "Mock-up",
+      "PostScript",
+      "Usebar"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 139,
+    "text": "Który program należy zastosować, aby wykonać impozycję 48-stronicowej broszury formatu A5?",
+    "answers": [
+      "PuzzleFlow Organizer",
+      "IrfanView",
+      "ACDSee Photo Manager",
+      "FastStone Image Viewer"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 140,
+    "text": "Który rodzaj spacji umieszcza się przed znakami interpunkcyjnymi takimi jak: kropka, przecinek, średnik, dwukropek?",
+    "answers": [
+      "Justującą.",
+      "Firetową.",
+      "Półfiretową.",
+      "Żaden."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 141,
+    "text": "Akapit jest to",
+    "answers": [
+      "odsunięcie pierwszego wiersza tekstu od marginesu.",
+      "fragment tekstu pomiędzy wierszem akapitowym, a końcowym.",
+      "część strony ograniczona marginesami wynikającymi z layoutu.",
+      "wiersz zawieszony."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 142,
+    "text": "Popularną formą pozyskiwania zdjęć cyfrowych są",
+    "answers": [
+      "sklepy digitalne.",
+      "banki poligraficzne.",
+      "magazyny diapozytywowe.",
+      "serwisy stokowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 143,
+    "text": "Który rodzaj przekształcenia należy zastosować, aby uzyskać efekt przestawiony na rysunku?",
+    "answers": [
+      "Wypaczenie.",
+      "Perspektywę.",
+      "Marionetkowe.",
+      "Swobodne."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_efekt2.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 144,
+    "text": "Która liniatura rastra jest prawidłowa do druku wielobarwnych czasopism o najwyższych wymaganiach jakościowych?",
+    "answers": [
+      "200 lpi",
+      "1200 lpi",
+      "500 lpi",
+      "60 lpi"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 145,
+    "text": "Którym skrótem oznaczana jest technologia pozyskiwania tekstu edytowalnego w oparciu o zeskanowany dokument lub bitmapę?",
+    "answers": [
+      "OCR",
+      "CTA",
+      "ICC",
+      "CMS"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 146,
+    "text": "Który element wizytówki należy wykonać nadrukiem?",
+    "answers": [
+      "Napis OŚRODEK INTERWENCJI KRYZYSOWEJ.",
+      "Numer telefonu.",
+      "Adres.",
+      "Napis BEZPŁATNIE/CAŁODOBOWO."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_ulotka.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 147,
+    "text": "Które narzędzie selekcji stosowane w programie Adobe Photoshop jest odpowiednie do zaznaczenia kształtu białego niedźwiedzia spacerującego po śniegu?",
+    "answers": [
+      "Zaznaczanie eliptyczne.",
+      "Szybkie zaznaczanie.",
+      "Różdżka.",
+      "Lasso."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 148,
+    "text": "Z której strony należy przewidzieć spady w trakcie przygotowania do druku wizytówki przedstawionej na rysunku?",
+    "answers": [
+      "Wyłącznie z lewej i prawej strony.",
+      "Ze wszystkich stron.",
+      "Wyłącznie z dołu i z góry.",
+      "Spady są zbędne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_wizytowka.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 149,
+    "text": "Wyróżnione na rysunku symbole umieszczone na szkicu wydawniczym oznaczają",
+    "answers": [
+      "numer ramki tekstowej.",
+      "szerokość marginesów wewnętrznych.",
+      "wielkość wysunięcia spadu.",
+      "ilość łamów na kolumnie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_szkic.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 150,
+    "text": "Boczek, główka, okienko, drabinka to elementy charakterystyczne dla składu",
+    "answers": [
+      "tekstów gładkich.",
+      "wzorów chemicznych.",
+      "tabel dziełowych.",
+      "tekstów obcojęzycznych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 151,
+    "text": "Przedstawiony na rysunku layout dotyczy",
+    "answers": [
+      "broszury.",
+      "plakatu.",
+      "ulotki.",
+      "książki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_layout.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 152,
+    "text": "Które zdanie złożone jest zgodnie z zasadami składu tekstów?",
+    "answers": [
+      "Tak, zwiedzałem to miasto już 3–4 razy.",
+      "Tak , zwiedzałem to miasto już 3– 4 razy .",
+      "Tak ,zwiedzałem to miasto już 3 - 4 razy.",
+      "Tak , zwiedzałem to miasto już 3 – 4 razy ."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 153,
+    "text": "Wydruki pozwalające ocenić rozmieszczenie stron lub użytków na arkuszu drukarskim to próbne odbitki",
+    "answers": [
+      "fotograficzne.",
+      "stykowe.",
+      "koncepcyjne.",
+      "impozycyjne."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 154,
+    "text": "Które urządzenie należy zastosować, aby wykonać próbne odbitki kontraktowe?",
+    "answers": [
+      "Proofer.",
+      "Powielacz risograficzny.",
+      "Naświetlarkę CtP.",
+      "Skaner."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 155,
+    "text": "Wskaż rodzaj oryginału, którego reprodukcję przedstawiono na rysunku.",
+    "answers": [
+      "Negatyw, transparentny, wielotonalny.",
+      "Diapozytyw, transparentny, jednotonalny.",
+      "Negatyw, refleksyjny, jednotonalny.",
+      "Diapozytyw, refleksyjny, wielotonalny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_rysunek2.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 156,
+    "text": "Która barwa przedstawiona na ilustracji odpowiada składowi kolorystycznemu: C0 M30 Y100 K0?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_barwy.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 157,
+    "text": "Na projekcie opakowania, oznaczone na szkicu symbolem X, niezadrukowane fragmenty podłoża pozostawia się w celu",
+    "answers": [
+      "wskazania miejsca lakierowania wybiórczego.",
+      "umożliwienia prawidłowego wnikania kleju w podłoże.",
+      "umieszczenia w tym miejscu znaków akcyzy.",
+      "zaznaczenia, od której strony następuje bigowanie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_opakowanie2.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 158,
+    "text": "Które formaty są najczęściej używanymi formatami e-book’ów?",
+    "answers": [
+      "JPG, MPEG",
+      "EPUB, MOBI",
+      "RTF, BAT",
+      "HTML, XLS"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 159,
+    "text": "Który skrót odnosi się do jednostki rozdzielczości próbkowania urządzenia skanującego?",
+    "answers": [
+      "ppi",
+      "dpi",
+      "lpi",
+      "spi"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 160,
+    "text": "Ile ulotek o wymiarach 200 x 300 mm zawiera ekonomiczna impozycja wykonana na arkuszu drukowym B1?",
+    "answers": [
+      "9 ulotek.",
+      "12 ulotek.",
+      "16 ulotek.",
+      "6 ulotek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 161,
+    "text": "Który rodzaj pudła z katalogu standardów FEFCO przestawiono na rysunku?",
+    "answers": [
+      "Klapowe.",
+      "Jednoczęściowe.",
+      "Teleskopowe.",
+      "Wsuwane."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_pudlo.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 162,
+    "text": "Które proporcje zastosowane w projektowaniu kolumny książkowej odpowiadają zasadzie złotego podziału?",
+    "answers": [
+      "1 : 0,667",
+      "1 : 1,353",
+      "1 : 0,376",
+      "1 : 1,618"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 163,
+    "text": "Przekształcenie fontów w obiekty graficzne o charakterze wektorowym wymaga",
+    "answers": [
+      "zastosowania tekstu zastępczego.",
+      "wstawienia kodu formatowania.",
+      "dopasowania tekstu do ścieżki.",
+      "zamiany na krzywe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 164,
+    "text": "Broszura to druk",
+    "answers": [
+      "periodyczny do 32 stronic.",
+      "nieperiodyczny do 48 stronic.",
+      "nieperiodyczny do 160 stronic.",
+      "periodyczny powyżej 64 stronic."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 165,
+    "text": "Który kolor w projektowaniu graficznym jest najbardziej dynamiczny i najbardziej przyciąga uwagę obserwatora?",
+    "answers": [
+      "Pomarańczowy.",
+      "Żółty.",
+      "Zielony.",
+      "Brązowy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 166,
+    "text": "W programie Corel Draw, aby utworzyć efekt widoczny na rysunku należy użyć wypełnienie",
+    "answers": [
+      "Jednolite",
+      "Siatkowe",
+      "Teksturą",
+      "Tonalne"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_efekt.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 167,
+    "text": "Cycero to jednostka długości odpowiadająca",
+    "answers": [
+      "12 punktom typograficznym.",
+      "14 punktom typograficznym.",
+      "16 punktom typograficznym.",
+      "18 punktom typograficznym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 168,
+    "text": "Technika druku bezpośredniego stosowana do zadrukowania opakowań foliowych to",
+    "answers": [
+      "offset.",
+      "typooffset.",
+      "tampondruk.",
+      "fleksografia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 169,
+    "text": "Druk składający się z kilku arkuszy złożonych i włożonych jeden w drugi, bez połączeń między nimi, to",
+    "answers": [
+      "druk luźny.",
+      "oprawa złożona.",
+      "druk łączony.",
+      "oprawa prosta."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 170,
+    "text": "Którym akronimem określa się system bezpośredniego naświetlania form drukowych?",
+    "answers": [
+      "CTP",
+      "CFT",
+      "CTF",
+      "CFP"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 171,
+    "text": "Którym akronimem określa się oprogramowanie służące do rozpoznawania tekstu w zeskanowanym dokumencie?",
+    "answers": [
+      "OCR",
+      "AVR",
+      "ACR",
+      "CMS"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 172,
+    "text": "Wykonanie logo firmy, które będzie można skalować na dowolną wielkość bez utraty jakości, wymaga użycia programu Adobe",
+    "answers": [
+      "Bridge",
+      "Photoshop",
+      "Illustrator",
+      "Dreamweaver"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 173,
+    "text": "Który zbiór zawiera wyłącznie barwy ciepłe?",
+    "answers": [
+      "Niebieski, zielony, fioletowy.",
+      "Niebieski, żółty, zielony.",
+      "Pomarańczowy, czarny, zielony.",
+      "Pomarańczowy, żółty, czerwony."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 174,
+    "text": "Do zarchiwizowania plików poprzez zapisywanie ich w mniejszym rozmiarze służy program",
+    "answers": [
+      "Audacity",
+      "Eset Nod32",
+      "CDBurner",
+      "WinRar"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 175,
+    "text": "Ile należy naświetlić form drukowych do wykonania w technice offsetowej 6 000 sztuk dwustronnych, wielobarwnych (CMYK) zaproszeń zawierających elementy naniesione bezpośrednio na maszynie drukującej lakierem wybiórczym po jednej stronie?",
+    "answers": [
+      "4 formy.",
+      "8 form.",
+      "9 form.",
+      "6 form."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 176,
+    "text": "Pusta strona w publikacji książkowej to",
+    "answers": [
+      "fontyspis.",
+      "przypis.",
+      "wakat.",
+      "kolofon."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 177,
+    "text": "Z obrazu można odczytać, że impozycji poddana została",
+    "answers": [
+      "8-stronicowa broszura w formacie 210 x 148, oprawa klejona.",
+      "4-stronicowa broszura w formacie 210 x 148, oprawa klejona.",
+      "4-stronicowa broszura w formacie 210 x 148, oprawa zeszytowa.",
+      "8-stronicowa broszura w formacie 210 x 148, oprawa zeszytowa."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_obraz.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 178,
+    "text": "Do wykonania makiety ulotki w formie cyfrowej należy użyć programu",
+    "answers": [
+      "Movie Maker",
+      "Adobe Flash",
+      "Blender",
+      "Corel Draw"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 179,
+    "text": "Które programy służą do cyfrowego składu publikacji książkowych?",
+    "answers": [
+      "InDesign, Inscape.",
+      "InDesign, Impozycjoner.",
+      "PDFOrganizer, QuarkXPress.",
+      "InDesign, QuarkXPress."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 180,
+    "text": "Broszura to druk dziełowy, który ma od",
+    "answers": [
+      "48 do 98 stronic.",
+      "4 do 48 stronic.",
+      "1 do 98 stronic.",
+      "1 do 48 stronic."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 181,
+    "text": "Zapisany w postaci cyfrowej obraz kroju pisma to",
+    "answers": [
+      "czcionka.",
+      "znak.",
+      "font.",
+      "matryca."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 182,
+    "text": "W której przestrzeni barw należało przygotować projekt wielobarwnego zaproszenia przekazanego drukarni do drukowania offsetowego?",
+    "answers": [
+      "sRGB",
+      "LAB",
+      "CMYK",
+      "HSB"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 183,
+    "text": "Ile maksymalnie użytków formatu 90 × 50 mm ze spadami 3 mm zmieści się na arkuszu A3?",
+    "answers": [
+      "21 szt.",
+      "18 szt.",
+      "25 szt.",
+      "15 szt."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 184,
+    "text": "Który skaner używany do reprodukcji materiałów transparentnych zapewnia uzyskanie obrazów w bardzo wysokiej jakości?",
+    "answers": [
+      "Płaski.",
+      "Hybrydowy.",
+      "Ręczny.",
+      "Bębnowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 185,
+    "text": "Którą funkcję oblewania tekstem zastosowano na rysunku?",
+    "answers": [
+      "Oblewanie dookoła obwiedni",
+      "Bez oblewania tekstem",
+      "Omiń obiekt",
+      "Oblewanie dookoła kształtu obiektu"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_tekst2.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 186,
+    "text": "Które urządzenie pozwala na bezpośrednie rejestrowanie oryginałów w postaci cyfrowej?",
+    "answers": [
+      "Drukarka cyfrowa.",
+      "Ploter wielkoformatowy.",
+      "Aparat fotograficzny.",
+      "Spektrofotometr."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 187,
+    "text": "Który zbiór zawiera wyłącznie formaty grafiki wektorowej?",
+    "answers": [
+      "CDR, PSD",
+      "AI, JPEG",
+      "AI, TIFF",
+      "CDR, AI"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 188,
+    "text": "Połączenie liter widoczne na rysunku to",
+    "answers": [
+      "kapitaliki.",
+      "ligatura.",
+      "abrewiura.",
+      "wersaliki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_napis.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 189,
+    "text": "Określ rozdzielczość i tryb koloru, w których należy zapisać mapę bitową utworzoną na potrzeby stron internetowych.",
+    "answers": [
+      "300 dpi i CMYK",
+      "72 ppi i RGB",
+      "72 ppi i CMYK",
+      "300 dpi i RGB"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 190,
+    "text": "Światło międzywierszowe to",
+    "answers": [
+      "interlinia.",
+      "akapit.",
+      "kerning.",
+      "sztywna spacja."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 191,
+    "text": "Na potrzeby Internetu gotową wersję publikacji elektronicznej należy zapisać w formatach",
+    "answers": [
+      "PDF, EPUB, HTML",
+      "CDR, EPUB, HTML",
+      "AI, EPUB, HTML",
+      "PDF, PSD, EPUB"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 192,
+    "text": "Interaktywny katalog dla firmy można utworzyć w programie Adobe",
+    "answers": [
+      "Distiller",
+      "Reader",
+      "Audition",
+      "InDesign"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 193,
+    "text": "Na rysunku przedstawiono plik w jakości drukarskiej, w którym uwzględniono",
+    "answers": [
+      "punktury, znaczniki spadów, znaki cięcia.",
+      "znaki złamywania, znaki cięcia, pasek kontrolny.",
+      "punktury, informacje o pracy, znaki cięcia.",
+      "znaki złamywania, punktury, pasek kontrolny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_plik.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 194,
+    "text": "Który format zapisu jest formatem rodzimym programu CorelDraw?",
+    "answers": [
+      "CDR",
+      "CSV",
+      "DOCX",
+      "INDD"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 195,
+    "text": "W przedstawionym fragmencie tekstu widoczne są",
+    "answers": [
+      "wcięcia akapitowe.",
+      "odstępy akapitowe.",
+      "podziały wyrazów.",
+      "pionowe korytarze w tekście."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_tekst.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 196,
+    "text": "Którym rodzajem filtru w Adobe Photoshop można uzyskać zmianę obrazu zaprezentowaną na zdjęciach?",
+    "answers": [
+      "Skraplanie obrazu",
+      "Rozmycie gaussowskie",
+      "Stylizacja płaskorzeźba",
+      "Wyostrzanie krawędzi"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_zdjecia.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 197,
+    "text": "W procesie przygotowywania do druku dwustronnej ulotki w kolorystyce CMYK, w nakładzie 10 000 egzemplarzy należy utworzyć plik",
+    "answers": [
+      "PDF i naświetlić 5 płyt.",
+      "PDF i naświetlić 8 płyt.",
+      "PSD i naświetlić 2 płyty.",
+      "PSD i naświetlić 8 płyt."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 198,
+    "text": "Animację grafiki stworzoną w programie Adobe Photoshop z przeznaczeniem do umieszczenia w Internecie należy zapisać w formacie",
+    "answers": [
+      "GIF",
+      "PDF",
+      "JPG",
+      "PSD"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 199,
+    "text": "Wskaż styl warstwy w Adobe Photoshop, którym można uzyskać efekt wypukłej ramki widoczny na zdjęciu.",
+    "answers": [
+      "Obrys",
+      "Satyna",
+      "Nałożenie wzorku",
+      "Faza i płaskorzeźba"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_zdjecie3.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 200,
+    "text": "Wierne odtworzenie oryginału jedną z technik druku w celu powielenia na papierze lub innym materiale to",
+    "answers": [
+      "reprodukcja.",
+      "iluminacja.",
+      "retusz.",
+      "fotomontaż."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 201,
+    "text": "Która nazwa określa operację rozmieszczania wszystkich stronic na arkuszu drukarskim przy pomocy odpowiedniego programu?",
+    "answers": [
+      "Dygitalizacja.",
+      "Skład.",
+      "Retusz.",
+      "Impozycja."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 202,
+    "text": "Odbitki próbne pozwalające ocenić rozmieszczenie stron/użytków na arkuszu drukarskim to proof",
+    "answers": [
+      "kontaktowy.",
+      "kontraktowy.",
+      "designerski.",
+      "impozycyjny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 203,
+    "text": "Przygotowanie książki do drukowania wymaga wprowadzenia paginacji, czyli",
+    "answers": [
+      "niezadrukowanej stronicy.",
+      "numeracji stron.",
+      "numeru identyfikacyjnego książki.",
+      "określenia praw autorskich."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 204,
+    "text": "W której przestrzeni barwnej należy przygotować grafikę przeznaczoną do publikacji w Internecie?",
+    "answers": [
+      "RGB",
+      "HSB",
+      "HSL",
+      "LAB"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 205,
+    "text": "Przygotowanie rozmieszczenia kompozycji graficzno-tekstowej pokazanej na ilustracji jest określane w procesach przygotowawczych (prepress) jako",
+    "answers": [
+      "frontyspis.",
+      "łam.",
+      "layout.",
+      "stronica."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_kompozycja.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 206,
+    "text": "Wielobarwny wydruk jest analogowym źródłem do prac graficznych, który powinno się zdigitalizować poprzez zastosowanie operacji",
+    "answers": [
+      "skanowania refleksyjnego.",
+      "naświetlania CtP.",
+      "rastrowania stochastycznego.",
+      "skanowania transmisyjnego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 207,
+    "text": "Do obróbki zdjęć i tworzenia kompozycji graficzno-tekstowych należy zastosować program",
+    "answers": [
+      "Adobe AfterEffects",
+      "Puzzle Flow",
+      "Audacity",
+      "Adobe Photoshop"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 208,
+    "text": "Celem wykonania impozycji jest",
+    "answers": [
+      "ekonomiczne rozmieszczenie użytków na arkuszu.",
+      "ocena spektrofotometryczna wydruków.",
+      "wizualizacja opakowania w 3D.",
+      "naniesienie znaków korektorskich w tekście."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 209,
+    "text": "Który format zapisu fotografii z lustrzanki cyfrowej pozwala na zachowanie najwyższej jakości obrazu?",
+    "answers": [
+      "BMP",
+      "SCT",
+      "JPG",
+      "RAW"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 210,
+    "text": "Błąd w składzie tekstu zaznaczony czerwonymi liniami na rysunku nazywany jest",
+    "answers": [
+      "dywizem.",
+      "bękartem.",
+      "zawieszką.",
+      "korytarzem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_sklad.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 211,
+    "text": "Jakie są wymiary netto broszury, jeżeli założono 3 mm spady z każdej strony, a wymiar brutto wynosi 154 x 216 mm?",
+    "answers": [
+      "154 x 210 mm",
+      "151 x 213 mm",
+      "148 x 210 mm",
+      "148 x 220 mm"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 212,
+    "text": "Do narysowania nieregularnych kształtów logo pomocnym narzędziem wykorzystującym przeliczenie matematyczne zwane krzywą Béziera w Adobe Ilustrator jest",
+    "answers": [
+      "pióro.",
+      "nóż.",
+      "siatka perspektywy.",
+      "cięcie na plasterki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 213,
+    "text": "Projektowanie 192-stronicowej publikacji do drukowania w ilości 100 000 egzemplarzy wymaga przestrzegania zasad przygotowania plików do druku w technologii",
+    "answers": [
+      "sitowej.",
+      "offsetowej.",
+      "fleksograficznej.",
+      "tamponowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 214,
+    "text": "Które parametry bitmapy należy uwzględnić w programie graficznym, przygotowując materiał cyfrowy do zastosowania w projekcie ulotki?",
+    "answers": [
+      "Wymiary bitmapy, rozdzielczość, tryb kolorów.",
+      "Tryb kolorów, zastosowane filtry, autodopasowanie.",
+      "Sposób kadrowania, ekspozycję, kontrast barw.",
+      "Kontrast barw, tonowanie HDR, rozdzielczość."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 215,
+    "text": "Który program oraz narzędzie pozwolają wstępnie ocenić prawidłowość wykonania pliku PDF do drukowania?",
+    "answers": [
+      "Corel Draw, menadżer obiektów.",
+      "Adobe Acrobat, podgląd wyjściowy.",
+      "Impozycjoner, papiery i płyty.",
+      "Adobe InDesign, style obiektu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 216,
+    "text": "Który program pozwala na automatyczną impozycję?",
+    "answers": [
+      "NotePad++",
+      "Audacity",
+      "Impozycjoner",
+      "Adobe Ilustrator"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 217,
+    "text": "Fragment tekstu pomiędzy wierszem akapitowym a końcowym w publikacji nazywany jest",
+    "answers": [
+      "interlinią.",
+      "kolofonem.",
+      "akapitem.",
+      "rozdziałem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 218,
+    "text": "Które oprogramowanie jest stosowane do rozpoznawania pisma w graficznym pliku bitmapowym podczas skanowania oraz przekształcania go w edytowalny tekst?",
+    "answers": [
+      "ZIP",
+      "OCR",
+      "CAD",
+      "RIP"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 219,
+    "text": "Liczba pikseli przypadająca na jednostkę długości w grafice bitmapowej to",
+    "answers": [
+      "głębia kolorów.",
+      "liniatura rastra.",
+      "rozdzielczość obrazu.",
+      "wcięcie akapitowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 220,
+    "text": "Bezpośrednie naświetlanie formy drukowej w maszynie drukującej offsetowej oznaczane jest w poligrafii akronimem",
+    "answers": [
+      "CIP",
+      "CtPress",
+      "RIP",
+      "CtFilm"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 221,
+    "text": "Do prawidłowego odtwarzania barw w produkcji poligraficznej jest stosowany CMS – system zarządzania kolorami, a podstawą jego działania jest określenie",
+    "answers": [
+      "modułu dopasowania kolorów, jasności kolorów.",
+      "profilu ICC, skali szarości.",
+      "składu kolorów RGB, nasycenia kolorów.",
+      "przestrzeni barwnej, profilu ICC."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 222,
+    "text": "Który z materiałów jest materiałem wyjściowym do przygotowania certyfikowanej odbitki próbnej?",
+    "answers": [
+      "Forma kopiowa.",
+      "Forma drukowa.",
+      "Plik PNG.",
+      "Plik PDF."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 223,
+    "text": "Który format zapisu grafiki bitmapowej należy zastosować, aby nie utracić żadnych informacji, w tym warstw obrazów?",
+    "answers": [
+      "JPEG",
+      "PNG",
+      "PSD",
+      "GIF"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 224,
+    "text": "Logo firmy, która chce podkreślić swoją siłę, elegancję i prestiż, powinno być zaprojektowane w kolorze",
+    "answers": [
+      "zielonym.",
+      "błękitnym.",
+      "czarnym.",
+      "żółtym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 225,
+    "text": "Na przedstawionej ilustracji projektu opakowania zielona linia wskazuje",
+    "answers": [
+      "wymiar formy drukowej.",
+      "kształt wykrojnika.",
+      "zarys etykiety.",
+      "linię perforacji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_ilustracja.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 226,
+    "text": "W którym miejscu publikacji jest zamieszczony rodzaj praw autorskich?",
+    "answers": [
+      "Na stronie wakatowej.",
+      "W spisie ilustracji.",
+      "W przypisach bibliograficznych.",
+      "Na stronie redakcyjnej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 227,
+    "text": "Rozdzielczość bitmapy 8 x 5 cm przeznaczonej do druku offsetowego powinna wynosić",
+    "answers": [
+      "72÷96 ppi",
+      "600÷720 dpi",
+      "120÷150 dpi",
+      "240÷300 ppi"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 228,
+    "text": "Grafika wektorowa to tworzenie obrazu, w którym każdy element graficzny rysunku jest",
+    "answers": [
+      "zbiorem pikseli o określonej wielkości, oddalonych od siebie w ściśle określony sposób.",
+      "obiektem budowanym z płaskich wielokątów  (najczęściej  trójkątów  lub czworokątów), które mają wspólne wierzchołki i krawędzie.",
+      "opisany przez równanie matematyczne, składający się z punktów o określonych współrzędnych połączonych liniami.",
+      "sekwencją następujących po sobie obrazów tworzących iluzję ruchu pod warunkiem, że kolejne obrazy są wyświetlane odpowiednio szybko."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 229,
+    "text": "Przygotowany projekt opakowania pokazanego na ilustracji zalicza się do opakowań",
+    "answers": [
+      "sleeve.",
+      "display.",
+      "klapowych.",
+      "fasonowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "pgf04/au54_opakowanie.png"
+    },
+    "category": "PGF.04"
+  },
+  {
+    "id": 230,
+    "text": "Który program z pakietu Adobe umożliwia tworzenie obiektów wektorowych?",
+    "answers": [
+      "Photoshop",
+      "Ilustrator",
+      "Fireworks",
+      "Dreamweaver"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 231,
+    "text": "Który format graficzny jest formatem zamkniętym, który pozwala zapisać pracę graficzną w obowiązującym standardzie drukarskim?",
+    "answers": [
+      "RAW",
+      "TIFF",
+      "PSD",
+      "PDF"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 232,
+    "text": "Który program jest dedykowany do łamania wielostronicowych publikacji graficzno-tekstowych?",
+    "answers": [
+      "Adobe InDesign",
+      "Painter",
+      "Audacity",
+      "Puzzle Flow"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 233,
+    "text": "Ile wynoszą wymiary obwoluty na książkę o formacie A5 i o szerokości grzbietu 30 mm, jeżeli obwoluta ma skrzydełka o szerokości 35 mm i nie posiada spadów drukarskich?",
+    "answers": [
+      "148 x 210 mm",
+      "402 x 216 mm",
+      "248 x 297 mm",
+      "396 x 210 mm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 234,
+    "text": "Przygotowując projekt graficzny, stanowiący plik do naświetlania form drukowych offsetowych, nadrukiem wykonuje się elementy",
+    "answers": [
+      "koloru czarnego.",
+      "przeznaczone do lakierowania wybiórczego.",
+      "wszystkich barw o nasyceniu koloru powyżej 50%.",
+      "o co najmniej dwóch składowych kolorystycznych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "PGF.04"
+  },
+  {
+    "id": 235,
+    "text": "Do katalogowania i archiwizacji dużych plików graficznych stosuje się program",
+    "answers": [
+      "Audacity",
+      "WinRar",
+      "ArtiosCad",
+      "Eset Nod32"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "PGF.04"
+  }
+]
