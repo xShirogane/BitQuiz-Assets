@@ -1,0 +1,4218 @@
+[
+  {
+    "id": 1,
+    "text": "Które wyroby otrzymuje się z ciasta bezowego połączonego ze zmielonymi migdałami lub orzechami?",
+    "answers": [
+      "Makaroniki.",
+      "Beziki.",
+      "Słomki.",
+      "Kokosanki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 2,
+    "text": "Który rodzaj orzechów przedstawiono na ilustracji?",
+    "answers": [
+      "Nerkowce.",
+      "Włoskie.",
+      "Pistacjowe.",
+      "Laskowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_orzechy2.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 3,
+    "text": "Do przygotowania dekoracji na folii karotenowej przedstawionej na ilustracji należy użyć",
+    "answers": [
+      "marcepanu.",
+      "karmelu.",
+      "gumpaste.",
+      "czekolady."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_dekoracja4.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 4,
+    "text": "Świeże drożdże piekarskie dobrej jakości charakteryzują się muszlowym przełomem, przyjemnym zapachem oraz",
+    "answers": [
+      "kremową barwą.",
+      "kwaśnym smakiem.",
+      "mazistą konsystencją.",
+      "grudkowatą strukturą."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 5,
+    "text": "Sernik wiedeński należy wypiekać około 1 godziny w zakresie temperatur",
+    "answers": [
+      "240÷260°C",
+      "140÷160°C",
+      "80÷100°C",
+      "200÷220°C"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 6,
+    "text": "Przy produkcji keksów, owoce z syropu przed dodaniem do ciasta należy dokładnie odsączyć i osuszyć, pokroić w kostkę, a następnie",
+    "answers": [
+      "pokryć pianą z białek.",
+      "skropić spirytusem.",
+      "oprószyć cukrem.",
+      "wymieszać z mąką."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 7,
+    "text": "Które surowce powinny być przechowywane w szafach chłodniczych?",
+    "answers": [
+      "Drożdże i margaryna.",
+      "Kawa i kakao.",
+      "Miód naturalny i sztuczny.",
+      "Rum i wanilia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 8,
+    "text": "Schemat technologiczny przedstawia proces produkcji kremu",
+    "answers": [
+      "szwedzkiego.",
+      "russel.",
+      "półtłustego.",
+      "śmietankowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spc01/tg4_schemat.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 9,
+    "text": "Do usunięcia pestek z wiśni w zakładzie cukierniczym należy zastosować",
+    "answers": [
+      "wialnie.",
+      "drylownice.",
+      "nakłuwaczki.",
+      "obieraczki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 10,
+    "text": "Do wykonania dekoracji tortu przedstawionego na ilustracji należy użyć",
+    "answers": [
+      "papieru waflowego.",
+      "czekolady plastycznej.",
+      "masy cukrowej.",
+      "masy grylażowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_dekoracja5.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 11,
+    "text": "Ocena organoleptyczna twarogu polega na ocenie jego smaku, zapachu oraz",
+    "answers": [
+      "barwy i konsystencji.",
+      "kwasowości i masy.",
+      "wyglądu i zawartości wody.",
+      "struktury i zawartości tłuszczu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 12,
+    "text": "Drobny sprzęt cukierniczy taki jak tylki i szpatułki po użyciu powinien być umyty i obowiązkowo",
+    "answers": [
+      "dezynfekowany wodą utlenioną.",
+      "wyparzany gorącą wodą.",
+      "osuszony ręcznikiem papierowym.",
+      "czyszczony na sucho."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 13,
+    "text": "Korzystając z receptury zamieszczonej w tabeli oblicz, ile kilogramów cukru potrzeba do wyprodukowania 20 sztuk babek biszkoptowo-tłuszczowych, jeżeli jedna babka waży 0,5 kg.",
+    "answers": [
+      "2,20 kg",
+      "4,40 kg",
+      "1,10 kg",
+      "5,50 kg"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spc01/tg4_tabela2.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 14,
+    "text": "Ile ozdobnych kartoników należy przygotować do zapakowania 9 kg pierniczków lukrowanych, pakowanych po 300 g w kartonik?",
+    "answers": [
+      "27 sztuk.",
+      "270 sztuk.",
+      "300 sztuk.",
+      "30 sztuk."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 15,
+    "text": "Potwierdzeniem wydania towaru z magazynu surowców do działu produkcji jest dokument",
+    "answers": [
+      "RZ – Rozchód zewnętrzny.",
+      "PZ – Przyjęcie zewnętrzne.",
+      "PW – Przyjęcie wewnętrzne.",
+      "RW – Rozchód wewnętrzny."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 16,
+    "text": "Zabieg nakłuwania blatów z ciasta kruchego przed wypiekiem",
+    "answers": [
+      "umożliwia wypływanie tłuszczu w wysokiej temperaturze.",
+      "zapobiega powstaniu wybrzuszeń i pęcherzy.",
+      "zmniejsza nadmierną kruchość wyrobu.",
+      "nadaje ciastu większą sprężystość i elastyczność."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 17,
+    "text": "W celu sporządzenia ciasta drożdżowego metodą jednofazową na ciepło, należy świeże drożdże",
+    "answers": [
+      "rozprowadzić w ciepłej wodzie z solą.",
+      "rozetrzeć z cukrem i podgrzać.",
+      "rozprowadzić w podgrzanym do 40°C mleku.",
+      "pokruszyć i dodać do ciasta pod koniec mieszania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 18,
+    "text": "W której dekoracji tortu poszczególne elementy powtarzają się rytmicznie, tworząc określony motyw zdobniczy?",
+    "answers": [
+      "Scalonej.",
+      "Ornamentalnej.",
+      "Rozdrobnionej.",
+      "Statycznej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 19,
+    "text": "Podczas kontroli jakości surowców w magazynie stwierdzono obecność pleśni na powierzchni marmolady. Marmolada z tego pojemnika",
+    "answers": [
+      "musi być poddana obróbce cieplnej.",
+      "może być wykorzystana po usunięciu pleśni.",
+      "nie nadaje się do produkcji.",
+      "powinna być natychmiast wydana do produkcji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 20,
+    "text": "Który wyrób należy przechowywać w najniższej temperaturze?",
+    "answers": [
+      "Sorbet malinowy.",
+      "Mus czekoladowy.",
+      "Rurki z bitą śmietaną.",
+      "Babeczki z budyniem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 21,
+    "text": "Do przechowywania nietrwałych wyrobów cukierniczych w magazynie wyrobów gotowych należy wykorzystać",
+    "answers": [
+      "stół chłodniczy.",
+      "tunel chłodzący.",
+      "komorę mroźniczą.",
+      "szafę chłodniczą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 22,
+    "text": "W schemacie technologicznym produkcji wyrobów z ciasta półfrancuskiego znakiem zapytania oznaczono etap",
+    "answers": [
+      "napowietrzania.",
+      "zbijania.",
+      "zagniatania.",
+      "wałkowania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spc01/tg4_schemat2.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 23,
+    "text": "Przedstawione na ilustracji urządzenie wykorzystuje się do wypieku",
+    "answers": [
+      "sezamków.",
+      "wafli.",
+      "blatów bezowych.",
+      "blatów kruchych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_urzadzenie9.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 24,
+    "text": "W którym zakresie temperatur należy podgrzewać masę jajowo-cukrową podczas produkcji ciasta biszkoptowo-tłuszczowego metodą na ciepło?",
+    "answers": [
+      "30÷35°C",
+      "37÷42°C",
+      "50÷55°C",
+      "44÷49°C"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 25,
+    "text": "Do produkcji masy grylażowej należy użyć",
+    "answers": [
+      "białego maku.",
+      "orzechów arachidowych.",
+      "słodkich migdałów.",
+      "sezamu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 26,
+    "text": "Przyrząd kontrolno-pomiarowy przedstawiony na ilustracji służy w magazynach surowców cukierniczych do pomiaru",
+    "answers": [
+      "wilgotności.",
+      "ciśnienia.",
+      "stężenia CO2.",
+      "temperatury."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_przyrzad3.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 27,
+    "text": "W celu zniszczenia drobnoustrojów w pomieszczeniach magazynowych należy przeprowadzić zabieg",
+    "answers": [
+      "deratyzacji.",
+      "denaturacji.",
+      "dezynsekcji.",
+      "dezynfekcji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 28,
+    "text": "Z surowców wymienionych w recepturze zamieszczonej w tabeli wyprodukuje się 1 000 g ciasta",
+    "answers": [
+      "kruchego.",
+      "biszkoptowego.",
+      "parzonego.",
+      "francuskiego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc01/tg4_tabela.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 29,
+    "text": "Którą masę wykorzystywaną do ozdabiania tortów i ciastek bankietowych sporządza się z białek, cukru pudru, masła i mąki w proporcji 1:1:1:1?",
+    "answers": [
+      "Dragantową.",
+      "Marcepanową.",
+      "Cygaretkową.",
+      "Cukrową."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 30,
+    "text": "Prawidłowo ubita piana ze świeżych białek",
+    "answers": [
+      "charakteryzuje się dużymi, nieregularnymi pęcherzami.",
+      "staje się zwarta i rozciągliwa.",
+      "charakteryzuje się galaretowatą konsystencją.",
+      "jest lśniąca, nie odrywa się od ścianek misy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 31,
+    "text": "Nośność wózka dwukołowego pionowego używanego do transportu surowców cukierniczych wynosi 70 kg. Używając tego wózka, można jednorazowo przewieźć",
+    "answers": [
+      "2 worki mąki po 50 kg.",
+      "2 worki soli po 30 kg.",
+      "3 worki cukru po 25 kg.",
+      "4 worki cukru pudru po 20 kg."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 32,
+    "text": "Do malowania metodą rozpylania płynnymi barwnikami figurek wykonanych z masy cukrowej wykorzystuje się",
+    "answers": [
+      "pędzel.",
+      "aerograf.",
+      "dozownik.",
+      "szpatułkę."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 33,
+    "text": "Eklery z kremem czekoladowym przeznaczone do sprzedaży samoobsługowej należy zapakować w",
+    "answers": [
+      "torebki foliowe termozgrzewalne.",
+      "cienką folię aluminiową.",
+      "torby papierowe parafinowane.",
+      "przezroczyste pudełka polistyrenowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 34,
+    "text": "Blaty do produkcji karpatki wykonane są z ciasta",
+    "answers": [
+      "parzonego.",
+      "drożdżowego.",
+      "zbijanego.",
+      "biszkoptowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 35,
+    "text": "Wskaż przyczynę występowania pęcherzy na powierzchni pierników drobnych.",
+    "answers": [
+      "Nadmierna ilość syropu skrobiowego.",
+      "Zbyt wysoka temperatura wypieku.",
+      "Zaciągnięcie ciasta.",
+      "Zbyt mała ilość środków słodzących."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 36,
+    "text": "Jakość surowców używanych do produkcji cukierniczej należy oceniać",
+    "answers": [
+      "za każdym razem przed ich użyciem.",
+      "gdy minie ich termin przydatności do spożycia.",
+      "tylko podczas zamawiania towaru.",
+      "tylko podczas przyjęcia do magazynu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 37,
+    "text": "Babki piaskowe marmurkowe produkuje się z ciasta biszkoptowo-tłuszczowego z dodatkiem",
+    "answers": [
+      "kakao.",
+      "maku.",
+      "twarogu.",
+      "marmolady."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 38,
+    "text": "Stopień rozdrobnienia twarogu przy użyciu wilka zależy od",
+    "answers": [
+      "szerokości tacy podawczej.",
+      "wielkości otworów w tarczach przeciskowych.",
+      "wielkości koła zębatego.",
+      "długości korpusu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 39,
+    "text": "Którą przyprawę stosowaną w cukiernictwie przedstawiono na ilustracji?",
+    "answers": [
+      "Anyż.",
+      "Szafran.",
+      "Wanilię.",
+      "Cynamon."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_przyprawa3.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 40,
+    "text": "Jak powinien postąpić pracownik podczas przyjmowania do magazynu zakładu cukierniczego śmietany 18%, jeżeli stwierdził, że upłynął jej termin przydatności do spożycia?",
+    "answers": [
+      "Przeznaczyć śmietanę do produkcji ciasta półfrancuskiego.",
+      "Wydać śmietanę do produkcji w następnym dniu.",
+      "Umieścić śmietanę w chłodziarce.",
+      "Odmówić przyjęcia śmietany."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 41,
+    "text": "Ocena organoleptyczna śmietanki 30% polega na ocenie jej smaku, zapachu oraz",
+    "answers": [
+      "granulacji i zawartości tłuszczu.",
+      "kwasowości i masy.",
+      "barwy i konsystencji.",
+      "wyglądu i zawartości wody."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 42,
+    "text": "Mąkę pszenną o dużej zawartości mocnego glutenu należy zastosować do produkcji ciasta",
+    "answers": [
+      "drożdżowego.",
+      "waflowego.",
+      "kruchego.",
+      "biszkoptowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 43,
+    "text": "Do produkcji marcepanu należy użyć",
+    "answers": [
+      "słodkich migdałów.",
+      "orzechów arachidowych.",
+      "białego maku.",
+      "sezamu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 44,
+    "text": "Pączki należy smażyć w tłuszczu o zakresie temperatur",
+    "answers": [
+      "160÷170°C",
+      "110÷120°C",
+      "200÷210°C",
+      "70÷80°C"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 45,
+    "text": "Przestrzenne formy z czekolady i świeżych owoców stosuje się do dekoracji",
+    "answers": [
+      "bankietówek i tortów.",
+      "serników i sękaczy.",
+      "babek i keksów.",
+      "pierniczków i kokosanek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 46,
+    "text": "W zakładzie cukierniczym jaja zgodnie z zasadami higieny należy przechowywać w",
+    "answers": [
+      "wydzielonej chłodni magazynowej.",
+      "magazynie artykułów sypkich.",
+      "magazynie mąki.",
+      "części szafy mroźnej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 47,
+    "text": "Wypiek wyrobów z ciasta francuskiego prowadzony jest w temperaturze 220÷240°C, dzięki czemu",
+    "answers": [
+      "z ciasta wytapia się tłuszcz, a wyroby uzyskują kruchą konsystencję.",
+      "z ciasta nie wycieka tłuszcz, a warstwy ciasta tworzą charakterystyczne listki.",
+      "wytwarza się dwutlenek węgla, powodujący powstanie pustych przestrzeni.",
+      "wyrób nieznacznie wyrasta, a powierzchnia górna jest mocno popękana."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 48,
+    "text": "Przyczyną występowania wyczuwalnych grudek tłuszczu w kremach grzanych jest",
+    "answers": [
+      "zbyt długi czas napowietrzania tłuszczu.",
+      "połączenie zbyt ciepłej masy jajowo-cukrowej z tłuszczem.",
+      "użycie zbyt małej ilości masy jajowo-cukrowej.",
+      "niedogrzanie masy jajowo-cukrowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 49,
+    "text": "Żelatyna to substancja żelująca pozyskiwana z",
+    "answers": [
+      "drzew akacji senegalskiej.",
+      "wysuszonych jabłek.",
+      "wodorostów morskich.",
+      "surowców zwierzęcych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 50,
+    "text": "Która próbka mąki pszennej spełnia warunki przyjęcia do magazynu, jeżeli jej wilgotność nie może przekraczać 15%, a kwasowość nie może być wyższa niż 3 stopnie kwasowości?",
+    "answers": [
+      "Próbka II.",
+      "Próbka I.",
+      "Próbka IV.",
+      "Próbka III."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_tabela20.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 51,
+    "text": "Jabłka przeznaczone do produkcji szarlotki należy poddać procesowi",
+    "answers": [
+      "prażenia.",
+      "zaparzania.",
+      "blanszowania.",
+      "duszenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 52,
+    "text": "W schemacie technologicznym produkcji faworków znakiem zapytania oznaczono etap",
+    "answers": [
+      "składania.",
+      "zwijania.",
+      "wałkowania.",
+      "krajania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_schemat17.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 53,
+    "text": "Korzystając z receptury zamieszczonej w tabeli oblicz, ile kg cukru kryształu potrzeba do wyprodukowania 50 sztuk babek piaskowych o masie 0,5 kg każda.",
+    "answers": [
+      "12,50 kg",
+      "5,00 kg",
+      "15,00 kg",
+      "10,00 kg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_receptura27.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 54,
+    "text": "Powierzchnie ciastek stefanek pokrywa się cienką warstwą kremu russel oraz",
+    "answers": [
+      "smaruje marmoladą.",
+      "oblewa polewą kakaową.",
+      "posypuje cukrem pudrem.",
+      "smaruje masą orzechową."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 55,
+    "text": "Zakład cukierniczy produkuje ciastka kokosanki, gotowe wyroby pakuje w torebki po 100 g. Ile sztuk torebek należy przygotować, aby zapakować kokosanki wyprodukowane w ilości zgodnej z recepturą zamieszczoną w tabeli?",
+    "answers": [
+      "15 sztuk.",
+      "11 sztuk.",
+      "5 sztuk.",
+      "10 sztuk."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_receptura26.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 56,
+    "text": "Na ilustracji przedstawiono orzechy",
+    "answers": [
+      "pistacjowe.",
+      "laskowe.",
+      "arachidowe.",
+      "włoskie."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_orzechy.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 57,
+    "text": "Do wyprodukowania 1 kg strucli serowej zużyto 0,4 kg twarogu. Ile twarogu potrzeba do wyprodukowania 100 kg tego ciasta?",
+    "answers": [
+      "35 kg",
+      "20 kg",
+      "40 kg",
+      "10 kg"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 58,
+    "text": "Konfekcjonowanie placka drożdżowego wypieczonego na blachach cukierniczych o wymiarach 40 cm x 60 cm, przeznaczonego do sprzedaży samoobsługowej, polega na",
+    "answers": [
+      "dekorowaniu go posypką i przechowywaniu w ladzie chłodniczej.",
+      "krojeniu na porcje i pakowaniu ich w jednostkowe opakowania cukiernicze.",
+      "zdobieniu go cukrem i cukrem wanilinowym.",
+      "ułożeniu porcji na podkładzie cukierniczym i wyeksponowaniu ich na wystawie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 59,
+    "text": "Aspartam jest stosowany w cukiernictwie jako",
+    "answers": [
+      "środek zagęszczający.",
+      "środek słodzący.",
+      "barwnik spożywczy.",
+      "środek spulchniający."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 60,
+    "text": "Worki cukiernicze i zdobniki należy zastosować do dekoracji wyrobów cukierniczych wykończonych",
+    "answers": [
+      "czekoladą plastyczną.",
+      "masą cygaretkową.",
+      "dragantem.",
+      "kremem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 61,
+    "text": "Sękacze to wyroby otrzymywane z ciasta",
+    "answers": [
+      "biszkoptowego.",
+      "drożdżowego.",
+      "półfrancuskiego śmietanowego.",
+      "biszkoptowo-tłuszczowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 62,
+    "text": "Masa cukiernicza wytwarzana ze zmiażdżonych migdałów i cukru pudru, stosowana do pokrywania powierzchni tortów i formowania figurek to",
+    "answers": [
+      "nugat.",
+      "marcepan.",
+      "grylaż.",
+      "fondant."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 63,
+    "text": "Zagrożeniem chemicznym mającym wpływ na jakość zdrowotną wyrobów cukierniczych jest",
+    "answers": [
+      "stosowanie w produkcji dużej ilości konserwantów.",
+      "stosowanie spirytusu zgodnie z recepturą.",
+      "wypiekanie ciast w formach aluminiowych.",
+      "używanie przesiewaczy do mąki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 64,
+    "text": "Gniazda poznańskie to wyroby otrzymywane z ciasta",
+    "answers": [
+      "parzonego.",
+      "francuskiego.",
+      "zbijanego.",
+      "obgotowywanego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 65,
+    "text": "Do miażdżenia i rozcierania orzechów w zakładach cukierniczych stosuje się",
+    "answers": [
+      "ubijarki planetarne.",
+      "wyparki próżniowe.",
+      "walcarki trójwalcowe.",
+      "młynki udarowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 66,
+    "text": "Urządzeniem do rozdrabniania surowców, w którym elementem roboczym są noże krzyżowe, znajdujące się tuż przy powierzchni nieruchomej siatki z otworami, przez które przeciska się surowiec, jest",
+    "answers": [
+      "wilk.",
+      "młynek.",
+      "przecieraczka.",
+      "gniotownik."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 67,
+    "text": "Aerograf należy zastosować do",
+    "answers": [
+      "wykonywania żelowych napisów.",
+      "napowietrzania czekolady.",
+      "barwienia powierzchni figurek z masy cukrowej.",
+      "tworzenia elementów dekoracyjnych z karmelu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 68,
+    "text": "Wypieczone babki z ciasta drożdżowego powinny charakteryzować się",
+    "answers": [
+      "brązową, grubą skórką i wyczuwalnymi kryształami cukru.",
+      "lekko popękaną powierzchnią i delikatnie zbitym miękiszem.",
+      "bardzo kruchym miękiszem o wyczuwalnym kwaskowym posmaku.",
+      "złotą skórką i pulchnym miękiszem o wyraźnej porowatości."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 69,
+    "text": "Ciastka żurawinowe pakowane są w torebki foliowe po 200 g, a następnie układane w kartony po 2 kg. Ile sztuk opakowań tego typu należy przygotować do wysyłki 10 kg ciastek żurawinowych?",
+    "answers": [
+      "50 torebek i 10 pudełek kartonowych.",
+      "25 torebek i 5 pudełek kartonowych.",
+      "50 torebek i 5 pudełek kartonowych.",
+      "40 torebek i 10 pudełek kartonowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 70,
+    "text": "Jak powinien postąpić pracownik podczas przyjmowania do magazynu zakładu cukierniczego świeżych owoców, jeżeli stwierdził, że niektóre z nich są niedojrzałe i nadgniłe?",
+    "answers": [
+      "Przeznaczyć owoce do produkcji dżemu wieloowocowego.",
+      "Odmówić przyjęcia owoców.",
+      "Umieścić owoce w chłodziarce.",
+      "Wydać owoce do produkcji w następnym dniu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 71,
+    "text": "Krem russel waniliowy należy do kremów",
+    "answers": [
+      "gotowanych.",
+      "grzanych.",
+      "sporządzanych na zimno.",
+      "zaparzanych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 72,
+    "text": "W części handlowej cukierni do przechowywania i ekspozycji deserów lodowych i sorbetów wykorzystuje się",
+    "answers": [
+      "lady mroźnicze.",
+      "regały chłodnicze.",
+      "tunele chłodzące.",
+      "zamrażarki kontaktowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 73,
+    "text": "Przyrząd kontrolno-pomiarowy przedstawiony na ilustracji służy do pomiaru",
+    "answers": [
+      "temperatury.",
+      "ciśnienia.",
+      "wilgotności.",
+      "objętości."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_przyrzad2.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 74,
+    "text": "Zgodnie z zasadami HACCP podczas produkcji kremu russel należy szczególnie kontrolować etap",
+    "answers": [
+      "napowietrzania masła.",
+      "dezynfekcji jaj.",
+      "odważania składników.",
+      "dozowania spirytusu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 75,
+    "text": "Surowce cukiernicze znajdujące się w magazynie, które są przeterminowane, w uszkodzonych opakowaniach, należy",
+    "answers": [
+      "sprzedać po niższej cenie.",
+      "usunąć z magazynu.",
+      "użyć do produkcji.",
+      "oczyścić i przepakować."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 76,
+    "text": "Który wyrób powstaje z ciasta biszkoptowo-tłuszczowego?",
+    "answers": [
+      "Róże karnawałowe.",
+      "Tartaletki.",
+      "Eklerki.",
+      "Kocie języczki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 77,
+    "text": "Podgrzanie mleka do temperatury 35÷40°C przy produkcji ciasta drożdżowego",
+    "answers": [
+      "wydłuża czas fermentacji ciasta.",
+      "zapobiega powstawaniu zakalca.",
+      "stwarza optymalne warunki do rozmnażania drożdży.",
+      "ułatwia proces powstawania kolorowej skórki w czasie wypieku."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 78,
+    "text": "Który typ mąki pszennej należy zastosować do sporządzenia ciasta biszkoptowego?",
+    "answers": [
+      "Typ 750",
+      "Typ 550",
+      "Typ 1400",
+      "Typ 2000"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 79,
+    "text": "Pracownik cukierni stwierdził, że wyraźnie pogorszył się smak i zapach tłuszczu stosowanego do smażenia. W takiej sytuacji należy tłuszcz",
+    "answers": [
+      "zamrozić.",
+      "odstawić do lodówki.",
+      "przeznaczyć do spożycia.",
+      "wymienić."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 80,
+    "text": "W którym zakresie temperatur należy przechowywać roladę biszkoptową z kremem russel?",
+    "answers": [
+      "22÷24°C",
+      "10÷12°C",
+      "4÷6°C",
+      "18÷20°C"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 81,
+    "text": "Na ilustracji przedstawiono formę do wypieku",
+    "answers": [
+      "rolad.",
+      "tart.",
+      "keksów.",
+      "babek."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_forma3.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 82,
+    "text": "Barwnikiem naturalnym, mającym zdolność barwienia produktów spożywczych na kolor czerwony, jest",
+    "answers": [
+      "koszenila.",
+      "ryboflawina.",
+      "chlorofil.",
+      "kurkumina."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 83,
+    "text": "Który półprodukt cukierniczy nadaje się do wałkowania, pokrywania powierzchni i formowania przestrzennych elementów dekoracyjnych?",
+    "answers": [
+      "Glazura.",
+      "Ganasz.",
+      "Pomada.",
+      "Marcepan."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 84,
+    "text": "Kremy bezowe to półprodukty sporządzane na bazie",
+    "answers": [
+      "masła i całych jaj.",
+      "białek jaj i cukru.",
+      "śmietany kremówki i cukru pudru.",
+      "mąki ziemniaczanej i mleka."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 85,
+    "text": "Które urządzenie przedstawiono na ilustracji?",
+    "answers": [
+      "Oblewarkę.",
+      "Zamrażarkę.",
+      "Piec cukierniczy.",
+      "Witrynę chłodniczą."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_urzadzenie7.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 86,
+    "text": "Lody mleczne, które uległy rozmrożeniu w cukierni, należy",
+    "answers": [
+      "przekazać do sprzedaży.",
+      "ponownie zamrozić.",
+      "przeznaczyć do utylizacji.",
+      "wykorzystać do kremu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 87,
+    "text": "Który środek spulchniający stosowany jest przy produkcji ciasta biszkoptowo-tłuszczowego?",
+    "answers": [
+      "Soda oczyszczona.",
+      "Drożdże suszone.",
+      "Drożdże prasowane.",
+      "Proszek do pieczenia."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 88,
+    "text": "Wyroby wypiekane w podłużnych formach, produkowane z ciasta biszkoptowo-tłuszczowego z dodatkiem bakalii i owoców kandyzowanych nazywa się",
+    "answers": [
+      "keksami.",
+      "sękaczami.",
+      "miodownikami.",
+      "stefankami."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 89,
+    "text": "Mleko stosowane do przygotowania rozczynu należy podgrzać w zakresie temperatur",
+    "answers": [
+      "55÷60°C",
+      "44÷50°C",
+      "63÷70°C",
+      "35÷40°C"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 90,
+    "text": "Korzystając z receptury zamieszczonej w tabeli oblicz, ile gramów jaj należy użyć do produkcji 60 sztuk muffinek.",
+    "answers": [
+      "230 g",
+      "200 g",
+      "300 g",
+      "150 g"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_receptura25.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 91,
+    "text": "Sporządzając ciasto biszkoptowo-tłuszczowe metodą na ciepło, podgrzewa się",
+    "answers": [
+      "masę jajową.",
+      "masę jajowo-cukrową.",
+      "tłuszcz z mąką.",
+      "mleko z cukrem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 92,
+    "text": "Do dekorowania ciastek drożdżowych cukrem pudrem należy zastosować",
+    "answers": [
+      "sitko.",
+      "aerograf.",
+      "spryskiwacz.",
+      "żelownicę."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 93,
+    "text": "Z okruchów i okrawków ciast powstających podczas produkcji ciastkarskiej sporządza się",
+    "answers": [
+      "keksiki.",
+      "orzeszki.",
+      "bajaderki.",
+      "szampanki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 94,
+    "text": "Przyczyną rozlewania się korpusów eklerków wykonanych z ciasta parzonego jest",
+    "answers": [
+      "za mały dodatek środka spulchniającego.",
+      "zbyt długie mieszanie masy jajowo-cukrowej z mąką.",
+      "użycie mąki o zbyt słabym glutenie.",
+      "za duży dodatek środków słodzących."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 95,
+    "text": "Świeże jajo po wybiciu na talerz charakteryzuje się",
+    "answers": [
+      "zielonkawym odcieniem.",
+      "wypukłym i błyszczącym żółtkiem.",
+      "nieprzyjemnym zapachem.",
+      "rozlanym i mętnym białkiem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 96,
+    "text": "Do pomiaru wilgotności powietrza w magazynie surowców suchych służy",
+    "answers": [
+      "pehametr.",
+      "pirometr.",
+      "termometr.",
+      "higrometr."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 97,
+    "text": "Kompleksowe zarządzanie przez jakość określa się skrótem",
+    "answers": [
+      "HACCP",
+      "TQM",
+      "GMP",
+      "GHP"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 98,
+    "text": "Ile miodu potrzeba do wyprodukowania 120 sztuk pierników, jeżeli receptura przewiduje 50 g miodu na 80 sztuk wyrobu?",
+    "answers": [
+      "75 g",
+      "90 g",
+      "80 g",
+      "85 g"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 99,
+    "text": "Na ilustracji przedstawiono urządzenie do wypieku korpusów przeznaczonych do produkcji",
+    "answers": [
+      "rurek nadziewanych.",
+      "eklerów z bitą śmietaną.",
+      "wafli przekładanych.",
+      "orzeszków z kremem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_urzadzenie6.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 100,
+    "text": "Za właściwe spulchnienie ciasta w procesie produkcji strucli makowej odpowiada dodatek",
+    "answers": [
+      "drożdży.",
+      "kwaśnego węglanu amonu.",
+      "jaj.",
+      "proszku do pieczenia."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 101,
+    "text": "Tłuszczem specjalnym stosowanym do produkcji ciasta francuskiego i półfrancuskiego jest",
+    "answers": [
+      "masło śmietankowe.",
+      "masło kakaowe.",
+      "margaryna puff pastry.",
+      "smalec popularny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 102,
+    "text": "W której ocenie jakości wyrobu cukierniczego wyróżnia się cechy związane ze smakiem, zapachem i wyglądem?",
+    "answers": [
+      "Organoleptycznej.",
+      "Laboratoryjnej.",
+      "Mikrobiologicznej.",
+      "Fizycznej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 103,
+    "text": "Chałwę należy przechowywać w temperaturze 6÷8°C i wilgotności względnej powietrza",
+    "answers": [
+      "88%",
+      "97%",
+      "75%",
+      "95%"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 104,
+    "text": "Którego surowca oznaczonego znakiem zapytania brakuje w recepturze na ciasto zbijane zamieszczone w tabeli?",
+    "answers": [
+      "Miodu.",
+      "Spirytusu.",
+      "Dżemu.",
+      "Mleka."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_receptura24.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 105,
+    "text": "Która z wymienionych cech jakościowych charakteryzuje świeże drożdże prasowane?",
+    "answers": [
+      "Luźna konsystencja.",
+      "Zapach octowy.",
+      "Ścisła konsystencja.",
+      "Smak kwaśny."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 106,
+    "text": "Który zestaw surowców należy wykorzystać do produkcji masy orzechowej?",
+    "answers": [
+      "Orzechy, białka jaj, cukier.",
+      "Orzechy, syrop, aromat.",
+      "Orzechy, syrop, mleko.",
+      "Orzechy, cukier, mąka."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 107,
+    "text": "Do wykrawania ozdób z lukru plastycznego należy wykorzystać sprzęt przedstawiony na",
+    "answers": [
+      "ilustracji I.",
+      "ilustracji III.",
+      "ilustracji II.",
+      "ilustracji IV."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_sprzety2.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 108,
+    "text": "Na której ilustracji przedstawiono cukierek zawinięty w folię systemem dwuskrętu?",
+    "answers": [
+      "Na ilustracji IV.",
+      "Na ilustracji III.",
+      "Na ilustracji I.",
+      "Na ilustracji II."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_cukierki.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 109,
+    "text": "Który składnik wykorzystywany do sporządzenia kremu może być przyczyną skażenia gotowego wyrobu bakteriami Salmonelli?",
+    "answers": [
+      "Mąka.",
+      "Jaja.",
+      "Aromat.",
+      "Masło."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 110,
+    "text": "W magazynie surowców suchych przechowuje się",
+    "answers": [
+      "suszone owoce i opakowania papierowe.",
+      "chemiczne środki spulchniające i używki.",
+      "sztuczne środki słodzące i tłuszcze zwierzęce.",
+      "środki dezynfekujące i półprodukty z czekolady."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 111,
+    "text": "Na zamieszczonym schemacie technologicznym przedstawiono proces produkcji",
+    "answers": [
+      "kruszonki.",
+      "pierników.",
+      "ciasta waflowego.",
+      "ciasta bezowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_schemat15.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 112,
+    "text": "Który wyrób cukierniczy produkowany jest zgodnie z recepturą zamieszczoną w tabeli?",
+    "answers": [
+      "Sernik wiedeński.",
+      "Herbatniki kruche.",
+      "Sernik kajmakowy.",
+      "Babka piaskowa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_receptura23.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 113,
+    "text": "Materiałem pomocniczym stosowanym w procesie produkcji pierników drobnych jest",
+    "answers": [
+      "szpatułka kątowa.",
+      "mąka żytnia.",
+      "przyprawa korzenna.",
+      "wykrawaczka cukiernicza."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 114,
+    "text": "W części handlowej cukierni do przechowywania i ekspozycji lodów i sorbetów wykorzystuje się",
+    "answers": [
+      "tunele chłodzące.",
+      "lady mroźnicze.",
+      "zamrażarki kontaktowe.",
+      "regały chłodnicze."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 115,
+    "text": "Dekorując ciastka stefanki należy, zastosować",
+    "answers": [
+      "wiórki kokosowe i kakao.",
+      "dżem i cukier puder.",
+      "pomadę i rodzynki drobne.",
+      "polewę czekoladową i krem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 116,
+    "text": "Wyprodukowane wuzetki z bitą śmietaną wysyłane do sprzedaży w sklepach samoobsługowych należy zapakować w",
+    "answers": [
+      "worki foliowe.",
+      "foremki aluminiowe.",
+      "pudełka z tworzyw sztucznych.",
+      "torby papierowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 117,
+    "text": "Maksymalny czas przechowywania kremu bita śmietana w warunkach chłodniczych wynosi",
+    "answers": [
+      "18 godzin.",
+      "6 godzin.",
+      "14 godzin.",
+      "10 godzin."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 118,
+    "text": "Pierniczki w czekoladzie pakowane są w torebki foliowe po 200 g, a następnie układane w kartony po 2 kg. Ile sztuk opakowań tego typu należy przygotować do wysyłki 10 kg pierniczków?",
+    "answers": [
+      "40 torebek i 10 pudełek kartonowych.",
+      "50 torebek i 5 pudełek kartonowych.",
+      "50 torebek i 10 pudełek kartonowych.",
+      "25 torebek i 5 pudełek kartonowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 119,
+    "text": "Które surowce, oprócz mąki pszennej, należy zastosować do produkcji biszkoptów?",
+    "answers": [
+      "Cukier, tłuszcz.",
+      "Cukier, białka.",
+      "Jaja, tłuszcz.",
+      "Cukier, jaja."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 120,
+    "text": "Dokonując oceny organoleptycznej rozczynu, należy sprawdzić jego",
+    "answers": [
+      "dojrzałość.",
+      "temperaturę.",
+      "ciężar.",
+      "kwasowość."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 121,
+    "text": "Na której ilustracji przedstawiono tort z dekoracją symetryczną?",
+    "answers": [
+      "1",
+      "4",
+      "2",
+      "3"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_torty.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 122,
+    "text": "Przygotowanie posypki z czekolady do dekorowania wyrobów cukierniczych polega na",
+    "answers": [
+      "przecieraniu jej przez tarkę o grubych oczkach.",
+      "upłynnieniu jej i wyciskaniu za pomocą woreczka.",
+      "wylewaniu jej do metalowych form.",
+      "upłynnieniu jej i ręcznym formowaniu granulek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 123,
+    "text": "Kolejną czynnością w procesie produkcji pomady, która następuje po ochłodzeniu ugotowanego syropu cukrowego, jest",
+    "answers": [
+      "dojrzewanie.",
+      "rozcieńczanie.",
+      "szumowanie.",
+      "ubijanie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 124,
+    "text": "W metodzie „na ciepło” sporządzania ciasta biszkoptowego, po odważeniu i zmieszaniu jaj z cukrem, należy uzyskaną mieszaninę podgrzać w zakresie temperatur",
+    "answers": [
+      "75÷80°C",
+      "37÷42°C",
+      "20÷24°C",
+      "97÷100°C"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 125,
+    "text": "Przygotowanie mleczka drożdżowego do sporządzenia ciast drożdżowych polega na",
+    "answers": [
+      "rozczynieniu drożdży w mleku lub w wodzie o temperaturze 28÷32°C.",
+      "zmieszaniu drożdży z margaryną pogrzaną do temperatury 36÷40°C.",
+      "rozpuszczeniu drożdży w mleku lub w wodzie o temperaturze 6÷10°C.",
+      "zmieszaniu rozkruszonych drożdży z cukrem i wodą o temperaturze 14÷18°C."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 126,
+    "text": "Do dekoracji tortów w stylu angielskim stosuje się",
+    "answers": [
+      "glazury i pomady.",
+      "krem i świeże owoce.",
+      "czekoladę i masy czekoladopodobne.",
+      "marcepan i masy cukrowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 127,
+    "text": "Sprzęt przedstawiony na ilustracji wykorzystywany jest do obróbki cieplnej podczas produkcji",
+    "answers": [
+      "babeczek i tart z owocami.",
+      "drożdżówek i rogali nadziewanych.",
+      "mini-ptysi i bezików.",
+      "faworków i róż karnawałowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_sprzet6.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 128,
+    "text": "Na ilustracji przedstawiono odczyt parametru z przyrządu pomiarowego w magazynie. Które surowce mogą być przechowywane we wskazanych warunkach?",
+    "answers": [
+      "Surowce tłuszczowe.",
+      "Produkty mączne.",
+      "Owoce jagodowe.",
+      "Drożdże prasowane."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_odczyt2.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 129,
+    "text": "Ile sztuk jaj potrzeba do sporządzenia 12,5 kg ciasta biszkoptowego na baletki zgodnie z recepturą zamieszczoną w tabeli, przyjmując wagę jaja 60 g?",
+    "answers": [
+      "50 sztuk.",
+      "38 sztuk.",
+      "80 sztuk.",
+      "64 sztuk."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_receptura22.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 130,
+    "text": "Sękacz przedstawiony na ilustracji wyprodukowany jest z ciasta",
+    "answers": [
+      "półfrancuskiego.",
+      "drożdżowego.",
+      "krucho-drożdżowego.",
+      "biszkoptowo-tłuszczowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_sekacz.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 131,
+    "text": "Który surowiec przygotowuje się do produkcji poprzez zalanie wodą i ogrzewanie do zmiękczenia, odsączenie, a następnie trzykrotne zmielenie w trójwalcówce?",
+    "answers": [
+      "Migdały.",
+      "Ser.",
+      "Mak.",
+      "Orzechy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 132,
+    "text": "Na ilustracji przedstawiono dekorację typową dla",
+    "answers": [
+      "mazurka wielkanocnego.",
+      "ciasteczka bankietowego.",
+      "tortu bożonarodzeniowego.",
+      "tortu weselnego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_dekoracja3.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 133,
+    "text": "Który cukier należy dobrać do posypywania przed wypiekiem wyrobów cukierniczych, aby po wypieku zachowała się struktura kryształów?",
+    "answers": [
+      "Cukier surowy.",
+      "Cukier rafinada.",
+      "Cukier brązowy.",
+      "Cukier puder."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 134,
+    "text": "W którym zakresie temperatur należy wypiekać ciastka z ciasta francuskiego?",
+    "answers": [
+      "260÷280°C",
+      "140÷160°C",
+      "170÷190°C",
+      "220÷240°C"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 135,
+    "text": "Margarynę i masło należy przechowywać w warunkach",
+    "answers": [
+      "ciepłych i dobrze nasłonecznionych.",
+      "ciepłych i wilgotnych.",
+      "mroźniczych o dużej wilgotności.",
+      "chłodniczych bez dostępu światła."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 136,
+    "text": "Który wskaźnik oceny mąki możliwy jest do oznaczenia za pomocą oceny organoleptycznej?",
+    "answers": [
+      "Kwasowość mąki.",
+      "Typ mąki.",
+      "Barwa mąki.",
+      "Ilość glutenu w mące."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 137,
+    "text": "Mąkę w workach należy przechowywać w magazynach, układając ją",
+    "answers": [
+      "na półkach magazynowych, nie wyższych niż 1,5 m.",
+      "na podłodze, opierając o ścianę.",
+      "w skrzyniach drucianych, przysuniętych do ściany.",
+      "na paletach drewnianych, odsuniętych od ściany."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 138,
+    "text": "Pudełka kartonowe stosowane do pakowania drobnych ciastek w cukiernictwie zaliczane są do",
+    "answers": [
+      "materiałów pomocniczych.",
+      "materiałów dodatkowych.",
+      "surowców pomocniczych.",
+      "surowców podstawowych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 139,
+    "text": "Określ przyczynę występowania grudek w kremie gotowanym.",
+    "answers": [
+      "Dodanie mąki niedojrzałej.",
+      "Gotowanie kremu bez mieszania.",
+      "Za duży dodatek cukru.",
+      "Zbyt długie gotowanie kremu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 140,
+    "text": "Wyrobem cukierniczym składającym się z dwóch podłużnych korpusów z ciasta parzonego o długości około 10 cm, przełożonych kremem gotowanym jest",
+    "answers": [
+      "napoleonka.",
+      "ptyś.",
+      "ekler.",
+      "wuzetka."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 141,
+    "text": "Frytura stosowana w zakładach cukierniczych jest tłuszczem",
+    "answers": [
+      "w kształcie płyty, używanym do ciast listkujących.",
+      "o wysokim punkcie dymienia, stosowanym do smażenia.",
+      "z dodatkiem emulgatora, stosowanym do produkcji ciast drożdżowych.",
+      "cukierniczym stosowanym do produkcji polew, dającym wyroby o gładkiej konsystencji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 142,
+    "text": "W temperaturze 25°C należy przechowywać",
+    "answers": [
+      "keksy w czekoladzie.",
+      "listki waflowe.",
+      "ciastka kremowe.",
+      "pączki nadziewane."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 143,
+    "text": "Kwaśny węglan sodu jest stosowany w cukiernictwie jako",
+    "answers": [
+      "barwnik spożywczy.",
+      "środek słodzący.",
+      "środek zagęszczający.",
+      "środek spulchniający."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 144,
+    "text": "Drożdże prasowane nie nadają się do produkcji ciast drożdżowych jeżeli, posiadają",
+    "answers": [
+      "kremową barwę.",
+      "zapach drożdżowy.",
+      "ścisłą konsystencję.",
+      "mazistą konsystencję."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 145,
+    "text": "Płaskie, okrągłe, metalowe pudełka stosowane są do pakowania",
+    "answers": [
+      "keksów.",
+      "herbatników.",
+      "strucli drożdżowych.",
+      "babek piaskowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 146,
+    "text": "Blachy wypiekowe stosowane w produkcji wyrobów cukierniczych powinny być myte",
+    "answers": [
+      "raz na tydzień.",
+      "co kilka dni.",
+      "po każdym użyciu.",
+      "na koniec zmiany."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 147,
+    "text": "Który opis charakteryzuje świeże jajo bezpośrednio po wybiciu?",
+    "answers": [
+      "Żółtko wypukłe i błyszczące, a białko gęste i przezroczyste.",
+      "Żółtko spłaszczone i ciemne, a białko rzadkie i zielonkawe.",
+      "Żółtko wypukłe i matowe, a białko rzadkie i rozlane.",
+      "Żółtko spłaszczone i matowe, a białko rzadkie i rozlane."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 148,
+    "text": "Sporządzając krem półtłusty, masło należy dodać do",
+    "answers": [
+      "żółtek utartych z cukrem i zmieszanych z mąką.",
+      "mleka, przed jego zagotowaniem i zagęszczeniem.",
+      "masy budyniowej, której temperatura osiągnęła 100°C.",
+      "masy budyniowej po chłodzeniu jej do temperatury 20°C."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 149,
+    "text": "Do szafy chłodniczej należy wkładać serniki",
+    "answers": [
+      "schłodzone do temperatury około 20°C.",
+      "gorące, zaraz po wyjęciu z pieca.",
+      "tylko zamrożone do temperatury -20°C.",
+      "ciepłe, o temperaturze około 70°C."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 150,
+    "text": "Sól, cukier puder i nasiona maku należy przechowywać w magazynie",
+    "answers": [
+      "mroźniczym.",
+      "wyrobów gotowych.",
+      "chłodniczym.",
+      "surowców sypkich."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 151,
+    "text": "Korzystając z informacji zamieszczonych w tabeli, oblicz ile miodu pszczelego pobrano z magazynu do zrealizowania produkcji w dniu 17 stycznia.",
+    "answers": [
+      "900 g",
+      "675 g",
+      "100 g",
+      "565 g"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_tabela19.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 152,
+    "text": "W którym etapie produkcji ciasteczek bankietowych występuje największe zagrożenie bezpieczeństwa zdrowotnego gotowego wyrobu?",
+    "answers": [
+      "Nasączania syropem.",
+      "Wypieku biszkoptów.",
+      "Dekorowania czekoladą.",
+      "Sporządzania kremu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 153,
+    "text": "Korzystając z receptury zamieszczonej w tabeli oblicz, ile uzyska się pierniczków, jeżeli do ich produkcji zużyje się 6 kg miodu.",
+    "answers": [
+      "300 kg",
+      "200 kg",
+      "25 kg",
+      "30 kg"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_receptura21.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 154,
+    "text": "Proszek do pieczenia należy zastosować do produkcji",
+    "answers": [
+      "groszku ptysiowego.",
+      "pączków wiedeńskich.",
+      "babki piaskowej.",
+      "krawatów francuskich."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 155,
+    "text": "Do wprowadzania sera twarogowego do komory mielenia w wilku należy zastosować",
+    "answers": [
+      "popychacz.",
+      "pałkę.",
+      "widelec.",
+      "nóż."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 156,
+    "text": "Na której ilustracji przedstawiono końcówkę do wykonania rozetek na wyrobach gotowych?",
+    "answers": [
+      "4",
+      "2",
+      "1",
+      "3"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_koncowki.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 157,
+    "text": "Maliny, porzeczki i agrest zaliczane są do owoców",
+    "answers": [
+      "ziarnkowych.",
+      "pestkowych.",
+      "południowych.",
+      "jagodowych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 158,
+    "text": "Na ilustracji przedstawiono",
+    "answers": [
+      "ziarno sezamowe.",
+      "kasztany jadalne.",
+      "migdały słodkie.",
+      "orzechy laskowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_ilustracja2.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 159,
+    "text": "Żelazko jest urządzeniem stosowanym w cukiernictwie do",
+    "answers": [
+      "wypieku wafli.",
+      "zgniatania maku.",
+      "smażenia faworków.",
+      "formowania sękaczy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 160,
+    "text": "Masło świeże powinno zawierać nie mniej niż 82% tłuszczu oraz nie więcej niż 16% wody. Wymagania te spełnia masło o zawartości",
+    "answers": [
+      "83% tłuszczu i 15,6% wody.",
+      "82,5% tłuszczu 16,5% wody.",
+      "81,5% tłuszczu i 15% wody.",
+      "82% tłuszczu i 16,2% wody."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 161,
+    "text": "Maksymalna temperatura przechowywania serników i ciast przekładanych kremem russel wynosi",
+    "answers": [
+      "24°C",
+      "6°C",
+      "18°C",
+      "12°C"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 162,
+    "text": "Zgodnie z danymi zawartymi w zamieszczonej recepturze, największą porcję mąki pszennej zużywa się do produkcji 1 kilograma",
+    "answers": [
+      "herbatników.",
+      "blatów camargo.",
+      "korpusów.",
+      "blatów stefanka."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_receptura20.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 163,
+    "text": "Do formowania figurek i przestrzennych elementów dekoracyjnych wyrobów cukierniczych należy zastosować",
+    "answers": [
+      "frużelinę.",
+      "masę cygaretkową.",
+      "ganasz.",
+      "masę cukrową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 164,
+    "text": "Do formowania herbatników z ciasta kruchego należy zastosować",
+    "answers": [
+      "dzielarko-zaokrąglarki.",
+      "rogalikarki.",
+      "wydłużarki.",
+      "formierki wykrawające."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 165,
+    "text": "Owoce mrożone dostarczone do magazynu zakładu cukierniczego należy umieścić",
+    "answers": [
+      "w zamrażarce.",
+      "w chłodziarce.",
+      "na drewnianych podestach.",
+      "na metalowych regałach."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 166,
+    "text": "Które z wymienionych surowców należy zastosować do produkcji kremu szwedzkiego?",
+    "answers": [
+      "Cukier kryształ, śmietankę, spirytus.",
+      "Cukier puder, masło, jaja.",
+      "Cukier puder, margarynę, wanilię.",
+      "Cukier kryształ, mąkę ziemniaczaną, mleko."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 167,
+    "text": "Który z wymienionych przyrządów należy zastosować do pomiaru wilgotności podczas magazynowania mąki?",
+    "answers": [
+      "Wagę.",
+      "Higrometr.",
+      "Manometr.",
+      "Barometr."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 168,
+    "text": "Produkcję ciasta drożdżowego metodą dwufazową należy rozpocząć od",
+    "answers": [
+      "roztarcia drożdży z mąką.",
+      "przygotowania rozczynu.",
+      "sporządzenia solanki.",
+      "wymieszania wszystkich surowców."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 169,
+    "text": "Magazynier zakładu cukierniczego, który przyjmuje do magazynu partię twarogu, powinien",
+    "answers": [
+      "umieścić opakowania w dobrze oświetlonym miejscu.",
+      "sprawdzić termin jego przydatności do spożycia.",
+      "poinformować natychmiast kierownika produkcji o przyjęciu dostawy.",
+      "otworzyć każde opakowanie jednostkowe i ocenić smak."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 170,
+    "text": "Uformowane ciastka języki z ciasta francuskiego przed wypiekiem należy",
+    "answers": [
+      "zwilżyć wodą.",
+      "posmarować masą jajową i posypać cukrem kryształem.",
+      "posypać ziarnem kminku.",
+      "skropić wodą i obtoczyć w maku lub sezamie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 171,
+    "text": "Nadmierne kruszenie się gotowych wyrobów z ciasta kruchego jest spowodowane użyciem do jego produkcji",
+    "answers": [
+      "samych żółtek zamiast całych jaj.",
+      "zbyt małej ilości tłuszczu.",
+      "za dużej ilości całych jaj.",
+      "cukru kryształu zamiast cukru pudru."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 172,
+    "text": "Pieprz jest dodatkiem smakowym stosowanym w produkcji ciasta na",
+    "answers": [
+      "pierniki.",
+      "keksy.",
+      "sękacze.",
+      "makaroniki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 173,
+    "text": "Do produkcji serników na zimno jako substancje żelujące są stosowane",
+    "answers": [
+      "żelatyna i lecytyna.",
+      "agar i żelatyna.",
+      "agar i kurkuma.",
+      "pektyna i karoten."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 174,
+    "text": "Która z czynności jest oznaczona znakiem zapytania w przedstawionym schemacie produkcji precli?",
+    "answers": [
+      "Obgotowywanie.",
+      "Nakłuwanie.",
+      "Spłaszczanie.",
+      "Smarowanie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_schemat14.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 175,
+    "text": "Wyroby wyprodukowane z ciasta biszkoptowo-tłuszczowego, składające się z dwóch okrągłych korpusów o średnicy około trzech centymetrów, przełożonych marmoladą nazywane są",
+    "answers": [
+      "sokołami.",
+      "baletkami.",
+      "tartaletkami.",
+      "bajaderkami."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 176,
+    "text": "Bezy, aby nie zmieniły swojego białego koloru, należy wypiekać w temperaturze w zakresie",
+    "answers": [
+      "110÷130°C",
+      "210÷230°C",
+      "150÷170°C",
+      "180÷200°C"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 177,
+    "text": "Przed przystąpieniem do sporządzania ciasta w miesiarce należy",
+    "answers": [
+      "przygotować łyżkę do usuwania nadmiaru ciasta z miesidła podczas pracy miesiarki.",
+      "zdjąć siatkę ochronną i uruchomić urządzenie.",
+      "sprawdzić stan i zamocowanie elementu roboczego przed włączeniem do sieci.",
+      "włączyć urządzenie i dokładnie je umyć, używając czystej ściereczki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 178,
+    "text": "Orzechy arachidowe, które będą stosowane do produkcji masy grylażowej, należy uprzednio",
+    "answers": [
+      "wypłukać.",
+      "zrumienić.",
+      "zaparzyć.",
+      "namoczyć."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 179,
+    "text": "Ile kilogramów blatów biszkoptowych wyprodukowano zgodnie z przedstawioną recepturą, jeżeli zużyto 9 kilogramów mąki pszennej typ 650?",
+    "answers": [
+      "15 kg",
+      "20 kg",
+      "10 kg",
+      "25 kg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_receptura19.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 180,
+    "text": "Półproduktem cukierniczym otrzymywanym z połączenia czekolady i śmietanki o wysokiej zawartości tłuszczu jest",
+    "answers": [
+      "gianduja.",
+      "ganasz.",
+      "kuwertura.",
+      "pralina."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 181,
+    "text": "Ze względu na zagrożenie zakażeniem mikrobiologicznym, nie wolno przechowywać razem",
+    "answers": [
+      "truskawek i porzeczek.",
+      "śmietany i sera.",
+      "migdałów i maku.",
+      "jaj i masła."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 182,
+    "text": "W magazynie zakładu cukierniczego znajduje się 5 opakowań zawierających po 20 kg marmolady. Ile kilogramów marmolady zostanie w magazynie, jeżeli do produkcji należy wydać 40 kg marmolady?",
+    "answers": [
+      "40 kg",
+      "20 kg",
+      "60 kg",
+      "80 kg"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 183,
+    "text": "Drożdże świeże piekarskie prasowane należy przechowywać w temperaturze w zakresie",
+    "answers": [
+      "14÷18°C",
+      "-4÷0°C",
+      "0÷4°C",
+      "8÷12°C"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 184,
+    "text": "Które wyroby cukiernicze są produkowane zgodnie z przedstawionym schematem?",
+    "answers": [
+      "Keksiki.",
+      "Anyżki.",
+      "Ptysie.",
+      "Wafle."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_schemat13.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 185,
+    "text": "Z ciasta biszkoptowo-tłuszczowego produkuje się",
+    "answers": [
+      "eklery i karpatki.",
+      "makaroniki i sokoły.",
+      "strucle i sucharki.",
+      "sękacze i keksy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 186,
+    "text": "Podczas oceny organoleptycznej masła, należy sprawdzić jego smak oraz",
+    "answers": [
+      "barwę i zawartość wody.",
+      "zapach i konsystencję.",
+      "wygląd i zawartość tłuszczu.",
+      "smarowność i kwasowość."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 187,
+    "text": "Zbijanie i wałkowanie jest stosowane podczas produkcji",
+    "answers": [
+      "ciastek stefanek.",
+      "gniazdek poznańskich.",
+      "róż karnawałowych.",
+      "herbatników baletek."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 188,
+    "text": "Oblicz na podstawie danych zamieszczonych w przedstawionej recepturze, ile kilogramów orzechów arachidowych należy zamówić, jeżeli zaplanowano produkcję 20 kilogramów masy grylażowej.",
+    "answers": [
+      "6,5 kg",
+      "4,5 kg",
+      "9,0 kg",
+      "8,0 kg"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_receptura18.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 189,
+    "text": "Folia karotenowa stosowana w produkcji ciastek bankietowych zaliczana jest do",
+    "answers": [
+      "substancji dodatkowych.",
+      "materiałów pomocniczych.",
+      "produktów ubocznych.",
+      "surowców podstawowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 190,
+    "text": "Pojawienie się na powierzchni pomady białych plam w czasie jej przechowywania świadczy o",
+    "answers": [
+      "świeżości i bardzo dobrej jakości pomady.",
+      "wzmożonym pochłanianiu wody z otoczenia.",
+      "zbyt dużej ilości wody użytej w procesie produkcji.",
+      "rozpoczęciu procesu wysychania."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 191,
+    "text": "Wyprodukowane bezy bardzo dobrej jakości powinny być",
+    "answers": [
+      "łamliwe, matowe i lekko ciągliwe.",
+      "bardzo kruche, błyszczące i bardzo dobrze wysuszone.",
+      "dość twarde, bez połysku i wilgotne na przełomie.",
+      "bardzo miękkie, matowe i lepkie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 192,
+    "text": "Monitorowanie krytycznych punktów kontroli w procesie produkcji wyrobów spożywczych jest jedną z zasad systemu opisanego skrótem",
+    "answers": [
+      "GMP",
+      "HACCP",
+      "GHP",
+      "ISO 9000"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 193,
+    "text": "Drożdży świeżych piekarskich prasowanych nie należy stosować do produkcji cukierniczej, jeżeli posiadają",
+    "answers": [
+      "mazistą konsystencję.",
+      "kremowo-szarą barwę.",
+      "muszlowy przełom.",
+      "swoisty zapach."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 194,
+    "text": "Temperatura wewnątrz szafy chłodniczej powinna wynosić 5°C. Na skutek awarii urządzenia wzrosła do 17°C. Torty, które były przechowywane w tej szafie, należy przeznaczyć do",
+    "answers": [
+      "spożycia przez pracowników cukierni.",
+      "utylizacji.",
+      "sprzedaży detalicznej.",
+      "produkcji ciastek okruchowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 195,
+    "text": "Chemicznym zagrożeniem jakości zdrowotnej wyrobów cukierniczych są",
+    "answers": [
+      "jaja używane do produkcji.",
+      "dzikie drożdże występujące na jabłkach w magazynie.",
+      "detergenty stosowane do mycia stołów.",
+      "papierowe opakowania surowców cukierniczych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 196,
+    "text": "Do wykonywania dekoracyjnych napisów z czekolady na wyrobach cukierniczych należy zastosować",
+    "answers": [
+      "szablon i radełko.",
+      "wałek i foremkę.",
+      "worek cukierniczy i tylkę.",
+      "wykrojnik i wycinak."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 197,
+    "text": "Typową dekoracją tortu Marcello jest pokrycie jego powierzchni",
+    "answers": [
+      "czerwonym karmelem.",
+      "niezabarwioną glazurą.",
+      "zieloną galaretką.",
+      "ciemną czekoladą."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 198,
+    "text": "Który z wyrobów cukierniczych, na podstawie danych zamieszczonych w przedstawionej tabeli, może być przechowywany na półkach sklepowych dłużej niż 4 dni od czasu dostarczenia z cukierni rzemieślniczej?",
+    "answers": [
+      "Rolada makowa.",
+      "Kremówka francuska.",
+      "Pierniki w czekoladzie.",
+      "Sernik wiedeński."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_tabela18.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 199,
+    "text": "Który surowiec stosowany w cukiernictwie charakteryzuje się właściwościami przedstawionymi w zamieszczonym opisie? Stosowana jest np. podczas produkcji ciast oraz kremów. Produkowana jest z ziemniaków. Ma wygląd białego drobnego proszku, wydającego przy zgniataniu charakterystyczny chrzęst.",
+    "answers": [
+      "Mączka ryżowa.",
+      "Mączka kukurydziana.",
+      "Mąka pszenna.",
+      "Mąka ziemniaczana."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 200,
+    "text": "Który rodzaj ciasta produkuje się na podstawie przedstawionej instrukcji technologicznej? Instrukcja technologiczna Przesiej mąkę na stół roboczy. Dodaj tłuszcz i posiekaj z mąką, aż do uzyskania drobnych cząsteczek. Dodaj cukier puder i żółtka. Zagnieć ciasto.",
+    "answers": [
+      "Waflowe.",
+      "Kruche.",
+      "Półfrancuskie.",
+      "Drożdżowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 201,
+    "text": "Oblicz, ile kilogramów jaj będzie potrzebnych do sporządzenia 20 kg kremu bezowego zgodnie z przedstawioną recepturą, jeżeli białko stanowi 60% jaja.",
+    "answers": [
+      "4,80 kg",
+      "8,20 kg",
+      "5,00 kg",
+      "8,00 kg"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_receptura16.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 202,
+    "text": "Syrop skrobiowy jest zaliczany do substancji",
+    "answers": [
+      "słodzących.",
+      "smakowo-zapachowych.",
+      "mącznych.",
+      "spulchniających."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 203,
+    "text": "Świeże owoce, które bez dodatkowych zabiegów technologicznych można zastosować do udekorowania tortu, to:",
+    "answers": [
+      "jabłka, pomarańcze, truskawki.",
+      "banany, mandarynki, wiśnie.",
+      "jagody, jeżyny, maliny.",
+      "banany, jabłka, kiwi."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 204,
+    "text": "Keksy to wyroby z ciast",
+    "answers": [
+      "drożdżowych z dodatkiem marmolady.",
+      "biszkoptowo-tłuszczowych z dodatkiem owoców kandyzowanych.",
+      "kruchych z dodatkiem owoców świeżych.",
+      "biszkoptowo-tłuszczowych z dodatkiem przypraw korzennych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 205,
+    "text": "Do dekoracji przedstawionego tortu zastosowano",
+    "answers": [
+      "masę cukrową i barwniki.",
+      "krem szwedzki i barwniki.",
+      "krem i żel na zimno.",
+      "białą czekoladę i karmel."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_tort.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 206,
+    "text": "Które z wymienionych urządzeń można zastosować do przygotowania i schłodzenia tortu?",
+    "answers": [
+      "Stół chłodniczy.",
+      "Ladę chłodniczą.",
+      "Szafę mroźniczą.",
+      "Komorę mroźniczą."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 207,
+    "text": "Przed smażeniem pączków w smażalniku przygotowane wyroby należy",
+    "answers": [
+      "umieścić w metalowym koszyku, a następnie zanurzyć w zbiorniku z tłuszczem.",
+      "wrzucać bezpośrednio ręką do zbiornika z tłuszczem.",
+      "umieścić na łyżce stołowej a następnie zanurzyć w zbiorniku z tłuszczem.",
+      "zsunąć z blach do metalowego koszyka, znajdującego się w zbiorniku z tłuszczem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 208,
+    "text": "Za pomocą sprzętu przedstawionego na rysunku można wykonać dekoracje z",
+    "answers": [
+      "karmelu.",
+      "masy cukrowej.",
+      "płynnej galaretki.",
+      "masy orzechowej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_sprzet5.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 209,
+    "text": "Gęstą, białą cieczą o kwaśnym smaku i zapachu jest",
+    "answers": [
+      "śmietanka.",
+      "serwatka.",
+      "mleko spożywcze.",
+      "śmietana."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 210,
+    "text": "Dodatek miodu do masy makowej powoduje wzrost jej wartości odżywczej oraz",
+    "answers": [
+      "uzyskanie sztywnej konsystencji makowca.",
+      "nadanie kruchości makowca.",
+      "poprawę barwy makowca.",
+      "przedłużenie trwałości makowca."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 211,
+    "text": "Elektronicznym przyrządem do bezdotykowego pomiaru temperatury na powierzchni magazynowanych surowców jest",
+    "answers": [
+      "higrometr.",
+      "refraktometr.",
+      "pirometr.",
+      "psychrometr."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 212,
+    "text": "Do magazynu cukierni przywieziono sery twarogowe, które mają krótki okres przydatności do spożycia. Maksymalnie w którym zakresie temperatur należy je przechowywać, aby przetrwały 5 dni?",
+    "answers": [
+      "-8÷0°C",
+      "1÷2°C",
+      "12÷14°C",
+      "8÷10°C"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 213,
+    "text": "Przy produkcji masy serowej, twaróg należy rozdrobnić za pomocą",
+    "answers": [
+      "blendera.",
+      "wilka.",
+      "gniotownika.",
+      "młynka udarowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 214,
+    "text": "Wyrób przedstawiony na rysunku produkowany jest z ciasta",
+    "answers": [
+      "zbijanego.",
+      "kruchego.",
+      "francuskiego.",
+      "parzonego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_wyrob3.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 215,
+    "text": "Do produkcji masy makowej, ze względu na zagrożenie dla zdrowia, jest niedopuszczalne zastosowanie maku, który ma",
+    "answers": [
+      "stęchły zapach.",
+      "niebieską barwę.",
+      "drobnoziarnistą konsystencję.",
+      "lekko orzechowy smak."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 216,
+    "text": "Do ubicia piany z białek należy wybrać mieszadło",
+    "answers": [
+      "I.",
+      "III.",
+      "IV.",
+      "II."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_mieszadla.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 217,
+    "text": "Którą metodą oznacza się konsystencję miodu?",
+    "answers": [
+      "Organoleptyczną.",
+      "Mikrobiologiczną.",
+      "Chemiczną.",
+      "Fizykochemiczną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 218,
+    "text": "Po zaparzeniu mąki w czasie produkcji ciasta parzonego, przed dodaniem jaj, masę należy",
+    "answers": [
+      "zagnieść z margaryną.",
+      "szybko schłodzić.",
+      "wymieszać z cukrem.",
+      "długo zagęszczać."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 219,
+    "text": "Przygotowanie migdałów do produkcji masy migdałowej polega na",
+    "answers": [
+      "zalaniu ich wodą o temperaturze 70°C i usunięciu błony po jej zmiękczeniu.",
+      "suszeniu ich w piecu w temperaturze 120°C, a po ostudzeniu obraniu z błony.",
+      "gotowaniu ich w wodzie o temperaturze 120°C i usunięciu błony po jej zmiękczeniu.",
+      "dokładnym obraniu z błony, a następnie suszeniu w piecu w temperaturze 70°C."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 220,
+    "text": "Które półprodukty, oprócz masy serowej, są stosowane do produkcji sernika krakowskiego?",
+    "answers": [
+      "Ciasto kruche i masa makowa.",
+      "Ciasto biszkoptowe i cukier puder.",
+      "Ciasto biszkoptowe i galaretka.",
+      "Ciasto kruche i glazura."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 221,
+    "text": "W celu uniknięcia zagrożenia zdrowotnego wuzetki należy przechowywać w magazynie wyrobów gotowych i systematycznie",
+    "answers": [
+      "zmieniać etykiety na pudełkach.",
+      "przepakowywać wyroby w czyste pudełka.",
+      "sprawdzać wagę wyrobów.",
+      "kontrolować temperaturę w chłodni."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 222,
+    "text": "Na czym polega przygotowanie margaryny przy sporządzaniu ciasta drożdżowego?",
+    "answers": [
+      "Ochłodzeniu jej do temperatury 4°C.",
+      "Ogrzaniu jej do temperatury 38°C.",
+      "Ogrzaniu jej do temperatury 58°C.",
+      "Ochłodzeniu jej do temperatury -4°C."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 223,
+    "text": "Przyczyną uzyskania biszkoptu zakalcowatego, niskiego i niewyrośniętego jest",
+    "answers": [
+      "zbyt długi wypiek gotowych wyrobów.",
+      "nieporuszenie form z ciastem podczas wypieku.",
+      "zbyt długie mieszanie masy jajowo-cukrowej z mąką.",
+      "wypiek ciasta bezpośrednio po jego sporządzeniu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 224,
+    "text": "Który tłuszcz należy wykorzystać do smażenia faworków?",
+    "answers": [
+      "Margarynę puff pastry.",
+      "Margarynę cukierniczą.",
+      "Masło roślinne.",
+      "Fryturę płynną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 225,
+    "text": "Określ maksymalną temperaturę suszenia bezików, odpowiednią do zachowania ich koloru.",
+    "answers": [
+      "130°C",
+      "70°C",
+      "180°C",
+      "200°C"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 226,
+    "text": "Aby zachować cechy świeżości jaj przez 3 tygodnie, temperatura ich przechowywania powinna wynosić",
+    "answers": [
+      "4°C",
+      "15°C",
+      "-1°C",
+      "-15°C"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 227,
+    "text": "Na której ilustracji przestawiono sprzęt niezbędny do magazynowania mąki w workach po 50 kg w magazynie surowców suchych?",
+    "answers": [
+      "I.",
+      "II.",
+      "III.",
+      "IV."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_ilustracje.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 228,
+    "text": "Charakterystycznymi elementami dekoracyjnymi, sporządzonymi z masy cukrowej do dekoracji tortu na Boże Narodzenie są:",
+    "answers": [
+      "jajka, baranki, choinki.",
+      "gwiazdki, choinki, poinsecja.",
+      "hostia, kielich, gwiazdki.",
+      "serduszka, misiaczki, różyczki."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 229,
+    "text": "Na podstawie przedstawionej receptury oblicz, ile potrzeba cukru do zrealizowania zamówienia na 100 sztuk babek o masie 0,5 kg.",
+    "answers": [
+      "2 kg",
+      "4 kg",
+      "28 kg",
+      "14 kg"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_receptura17.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 230,
+    "text": "Które warunki przechowywania należy wybrać dla napoleonek z ciasta francuskiego?",
+    "answers": [
+      "Temperatura 10°C, czas nie dłuższy niż 3 dni.",
+      "Temperatura 4°C, czas nie dłuższy niż 7 dni.",
+      "Temperatura -1°C, czas nie dłuższy niż 10 dni.",
+      "Temperatura 4°C, czas nie dłuższy niż 3 dni."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 231,
+    "text": "Wyprodukowane bezy, które na podstawie oceny organoleptycznej spełniają wymagania jakościowe, powinny być",
+    "answers": [
+      "suche, kruche w środku, błyszczące na powierzchni.",
+      "suche, ciągliwe w środku, błyszczące na powierzchni.",
+      "lepkie, ciągliwe w środku, matowe na powierzchni.",
+      "wilgotne, ciągliwe w środku, matowe na powierzchni."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 232,
+    "text": "Na podstawie danych zawartych w zamieszczonej kartotece magazynowej oblicz ilość cukru w magazynie, według stanu na dzień 3 stycznia.",
+    "answers": [
+      "118,5 kg",
+      "125,0 kg",
+      "116,2 kg",
+      "122,7 kg"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_tabela17.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 233,
+    "text": "Opakowaniem jednostkowym dla tortu o średnicy 28 cm jest",
+    "answers": [
+      "pudełko kartonowe.",
+      "tortownica metalowa okrągła.",
+      "forma metalowa prostokątna.",
+      "podkładka kartonowa kwadratowa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 234,
+    "text": "Zagrożenie mikrobiologiczne powstałe podczas produkcji kremów może być wynikiem użycia",
+    "answers": [
+      "nieprzesianej mąki.",
+      "niezdezynfekowanych jaj.",
+      "nieodmierzonego mleka.",
+      "nieschłodzonego tłuszczu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 235,
+    "text": "Który rodzaj dekoracji wyrobów cukierniczych przedstawiono w zamieszczonym opisie? Jest to dekoracja, w której elementy dekoracyjne znacznie wystają ponad powierzchnię wyrobu.",
+    "answers": [
+      "Asymetryczną.",
+      "Symetryczną.",
+      "Trójwymiarową.",
+      "Kolorystyczną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 236,
+    "text": "W jednym magazynie można razem przechowywać następujące surowce cukiernicze:",
+    "answers": [
+      "mąkę pszenną, sól kuchenną i masło.",
+      "jaja, jabłka, śmietanę kremówkę.",
+      "mleko w proszku, mleko spożywcze i masło.",
+      "drożdże prasowane, margarynę i mleko spożywcze."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 237,
+    "text": "Którą przyprawę stosowaną w cukiernictwie przedstawiono na rysunku?",
+    "answers": [
+      "Anyż.",
+      "Wanilię.",
+      "Cynamon.",
+      "Szafran."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc01/tg4_przyprawa.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 238,
+    "text": "Do malowania metodą rozpylania płynnymi barwnikami figurki wykonane z masy cukrowej wykorzystuje się",
+    "answers": [
+      "sitko.",
+      "szpatułkę.",
+      "aerograf.",
+      "dozownik."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 239,
+    "text": "Do oblewania babek piaskowych należy zastosować",
+    "answers": [
+      "frużelinę.",
+      "nugatynkę.",
+      "glukozę.",
+      "glazurę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 240,
+    "text": "Przy produkcji keksów owoce z syropu przed dodaniem do ciasta należy dokładnie odsączyć i osuszyć, pokroić w kostkę, a następnie",
+    "answers": [
+      "skropić spirytusem.",
+      "pokryć pianą z białek.",
+      "wymieszać z mąką.",
+      "oprószyć cukrem."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 241,
+    "text": "Korzystając z receptury zamieszczonej w tabeli oblicz, ile kilogramów cukru potrzeba do wyprodukowania 20 sztuk babek biszkoptowych, jeżeli jedna babka waży 0,5 kg.",
+    "answers": [
+      "1,10 kg",
+      "2,20 kg",
+      "4,40 kg",
+      "5,50 kg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc01/tg4_tabela2.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 242,
+    "text": "Przyrząd przedstawiony na rysunku służy w magazynach surowców cukierniczych do pomiaru",
+    "answers": [
+      "temperatury.",
+      "wilgotności.",
+      "ciśnienia.",
+      "stężenia CO2."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc01/tg4_przyrzad.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 243,
+    "text": "Podstawową czynnością wykonywaną podczas dekorowania tortów w stylu angielskim jest",
+    "answers": [
+      "cienkie rozwałkowanie masy cukrowej.",
+      "równomierne obsypanie tortu cukrem pudrem.",
+      "pokrojenie masy marcepanowej na równe paski.",
+      "tworzenie powtarzalnych elementów dekoracyjnych z kremu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 244,
+    "text": "Jak powinien postąpić pracownik podczas przyjmowania do magazynu zakładu cukierniczego masła, jeżeli stwierdził, że upłynął jego termin przydatności do spożycia?",
+    "answers": [
+      "Odmówić przyjęcia masła.",
+      "Przeznaczyć masło do produkcji ciasta kruchego.",
+      "Umieścić masło w zamrażarce.",
+      "Wydać masło do produkcji w następnym dniu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 245,
+    "text": "W metodach organoleptycznych badanie twardości, kruchości i miękkości wyrobów cukierniczych przeprowadza się na podstawie wrażeń odbieranych za pomocą zmysłu",
+    "answers": [
+      "smaku.",
+      "węchu.",
+      "słuchu.",
+      "dotyku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 246,
+    "text": "Aby kompozycja barwna dekoracji wyrobu cukierniczego była utrzymana w tonacji ciepłej, należy zastosować przewagę barwy",
+    "answers": [
+      "fioletowej.",
+      "żółtej.",
+      "niebieskiej.",
+      "zielonej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 247,
+    "text": "Trójwalcówka w zakładach cukierniczych służy do",
+    "answers": [
+      "miażdżenia i rozcierania maku, orzechów.",
+      "wałkowania ciasta zbijanego.",
+      "formowania wyrobów o podłużnych kształtach.",
+      "rozdrabniania miękkich owoców."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 248,
+    "text": "tworzenie powtarzalnych elementów dekoracyjnych z kremu.",
+    "answers": [
+      "cienką folię aluminiową.",
+      "przezroczyste pudełka polistyrenowe.",
+      "torebki foliowe termozgrzewalne.",
+      "torby papierowe parafinowane."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 249,
+    "text": "Materiałem pomocniczym stosowanym w procesie produkcji ciastek bankietowych jest",
+    "answers": [
+      "śmietanka kremowa.",
+      "cukier waniliowy.",
+      "foremka aluminiowa.",
+      "blat biszkoptowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 250,
+    "text": "Którą masę wykorzystywaną do ozdabiania tortów i ciastek bankietowych sporządza się z białek, cukru pudru, masła i mąki w proporcji 1:1:1:1 ?",
+    "answers": [
+      "Marcepanową.",
+      "Cukrową.",
+      "Dragantową.",
+      "Cygaretkową."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 251,
+    "text": "Maksymalna temperatura przechowywania przez 10 dni ciastek przekładanych kremem szwedzkim wynosi",
+    "answers": [
+      "6°C",
+      "2°C",
+      "18°C",
+      "24°C"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 252,
+    "text": "Wyroby ciastkarskie niezawierające kremów należy przechowywać w pomieszczeniach o wilgotności nie wyższej niż 75% i temperaturze nieprzekraczającej",
+    "answers": [
+      "6°C",
+      "24°C",
+      "2°C",
+      "18°C"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 253,
+    "text": "Używkami stosowanymi w cukiernictwie są:",
+    "answers": [
+      "przyprawy korzenne, orzechy, rodzynki.",
+      "kawa, kakao, spirytus.",
+      "żelatyna, miód sztuczny, kawa zbożowa.",
+      "rum, wanilia, cynamon."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 254,
+    "text": "Agar to substancja żelująca pozyskiwana z",
+    "answers": [
+      "surowców zwierzęcych.",
+      "drzew akacji senegalskiej.",
+      "wysuszonych jabłek.",
+      "wodorostów morskich."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 255,
+    "text": "Która próbka mąki pszennej spełnia warunki przyjęcia do magazynu, jeżeli wilgotność nie może przekraczać 15%, a kwasowość nie może być wyższa niż 3 stopnie kwasowości?",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_tabela16.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 256,
+    "text": "Do oceny organoleptycznej granulacji mąki wykorzystuje się zmysł",
+    "answers": [
+      "słuchu.",
+      "węchu.",
+      "smaku.",
+      "dotyku."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 257,
+    "text": "Drożdże są przydatne do produkcji, jeśli na podstawie oceny organoleptycznej stwierdzono, że posiadają",
+    "answers": [
+      "mazistą konsystencję.",
+      "muszlowy przełom.",
+      "biały nalot na powierzchni.",
+      "zapach rozkładającego się białka."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 258,
+    "text": "Wskaż optymalny zakres temperatur smażenia pączków.",
+    "answers": [
+      "130÷140°C",
+      "100÷110°C",
+      "200÷210°C",
+      "160÷170°C"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 259,
+    "text": "Ptysie i eklery to wyroby otrzymywane z ciasta",
+    "answers": [
+      "francuskiego.",
+      "obgotowywanego.",
+      "zbijanego.",
+      "parzonego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 260,
+    "text": "Który wyrób powstaje z ciasta zbijanego?",
+    "answers": [
+      "Baletki.",
+      "Tartaletki.",
+      "Kocie języczki.",
+      "Róże karnawałowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 261,
+    "text": "Do konfekcjonowania wafli przekładanych należy zastosować",
+    "answers": [
+      "gofrownice.",
+      "nalewarki.",
+      "krajalnice.",
+      "żelazka."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 262,
+    "text": "Do wyprodukowania 1 kg strucli makowej zużyto 0,2 kg maku. Ile maku potrzeba do wyprodukowania 100 kg tego ciasta?",
+    "answers": [
+      "15 kg",
+      "10 kg",
+      "20 kg",
+      "5 kg"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 263,
+    "text": "Na rysunku przedstawiono schemat budowy",
+    "answers": [
+      "wilka.",
+      "gniotownika.",
+      "młynka.",
+      "walcarki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_schemat12.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 264,
+    "text": "Do produkcji pomady wodnej, oprócz cukru i wody, należy użyć",
+    "answers": [
+      "syropu ziemniaczanego.",
+      "białek jaj.",
+      "agaru.",
+      "mąki ziemniaczanej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 265,
+    "text": "Witryny i lady chłodnicze stosowane są do",
+    "answers": [
+      "przechowywania, ekspozycji i sprzedaży wyrobów cukierniczych.",
+      "przechowywania surowców i półproduktów cukierniczych.",
+      "momentalnego schłodzenia i zamrożenia wyrobów cukierniczych.",
+      "krótkotrwałego schładzania surowców cukierniczych podczas produkcji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 266,
+    "text": "W magazynie surowców cukierniczych higrometr stosowany jest do pomiaru",
+    "answers": [
+      "kwasowości.",
+      "lepkości.",
+      "wilgotności.",
+      "ciśnienia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 267,
+    "text": "Do dekorowania tortów w stylu angielskim stosuje się",
+    "answers": [
+      "masy cukrowe.",
+      "ganasze maślane.",
+      "kuwertury czekoladowe.",
+      "glazury pomadowe."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 268,
+    "text": "Schemat technologiczny przedstawia proces produkcji ciasta",
+    "answers": [
+      "biszkoptowo-tłuszczowego.",
+      "bezowego zaparzanego.",
+      "biszkoptowego metodą „na ciepło”.",
+      "biszkoptowego metodą „na zimno”."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_schemat10.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 269,
+    "text": "Na rysunku przedstawiono roboczy element ubijarki, wykorzystywany do sporządzania ciasta",
+    "answers": [
+      "francuskiego serowego.",
+      "drożdżowego.",
+      "biszkoptowo-tłuszczowego.",
+      "bezowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc01/t4_element.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 270,
+    "text": "W cukiernictwie trójwalcówka wykorzystywana jest do",
+    "answers": [
+      "rozdrabniania surowców.",
+      "dzielenia ciasta.",
+      "wałkowania ciasta.",
+      "formowania wyrobów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 271,
+    "text": "Mak przeznaczony do produkcji masy makowej należy poddać procesowi",
+    "answers": [
+      "smażenia.",
+      "prażenia.",
+      "zaparzania.",
+      "blanszowania."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 272,
+    "text": "Orzechy o nasionach barwy zielonej, słodkawym, przyjemnym smaku i intensywnym aromacie, okryte twardą skorupą o szarej barwie to orzechy",
+    "answers": [
+      "włoskie.",
+      "arachidowe.",
+      "laskowe.",
+      "pistacjowe."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 273,
+    "text": "Schemat technologiczny przedstawia proces produkcji",
+    "answers": [
+      "kremu szwedzkiego.",
+      "pomady wodnej.",
+      "glazury białkowej.",
+      "ciasta waflowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "spc01/tg4_schemat3.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 274,
+    "text": "Które z wymienionych wyrobów cukierniczych nadają się do przechowywania w temperaturze 18°C?",
+    "answers": [
+      "Babki drożdżowe.",
+      "Ptysie z bitą śmietaną.",
+      "Torty z kremem russel bezowym.",
+      "Eklery z kremem śmietankowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 275,
+    "text": "Która próbka mleka spożywczego spełnia wymagania określone w zamieszczonej tabeli?",
+    "answers": [
+      "Próbka II: gęstość: 1,030 g/cm3, kwasowość: 6°SH, zawartość tłuszczu: 3,1%",
+      "Próbka III: gęstość: 1,029 g/cm3, kwasowość: 5°SH, zawartość tłuszczu: 3,3%",
+      "Próbka I: gęstość: 1,031 g/cm3, kwasowość: 6°SH, zawartość tłuszczu: 3,3%",
+      "Próbka IV: gęstość: 1,028 g/cm3, kwasowość: 7°SH, zawartość tłuszczu: 3,2%"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc01/tg4_tabela3.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 276,
+    "text": "W jaki sposób powinien postąpić magazynier, który przyjmując dostawę mąki do magazynu, stwierdził obecność w niej szkodników zbożowo-mącznych?",
+    "answers": [
+      "Umieścić ją w magazynie i zażądać od dostawcy wyjaśnień.",
+      "Przekazać ją natychmiast do produkcji.",
+      "Odmówić jej przyjęcia.",
+      "Przyjąć ją do magazynu i poinformować stację sanitarno-epidemiologiczną."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 277,
+    "text": "Przygotowanie drożdży świeżych prasowanych do produkcji ciasta na babki drożdżowe polega na ich",
+    "answers": [
+      "roztarciu z niewielką ilością masła.",
+      "rozprowadzeniu w ogrzanym mleku.",
+      "wymieszaniu z wodą, jajami i płynnym tłuszczem.",
+      "pokruszeniu i dokładnym wymieszaniu z solą."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 278,
+    "text": "Celem przebijania ciasta drożdżowego w czasie fermentacji jest",
+    "answers": [
+      "dokładne wymieszanie wszystkich składników sypkich.",
+      "zapobieganie tworzeniu się skorupy na powierzchni ciasta.",
+      "usunięcie nadmiernej ilości dwutlenku węgla.",
+      "spowolnienie procesu rozmnażania drożdży."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 279,
+    "text": "Polewę kakaową w dekorowaniu wyrobów cukierniczych stosuje się do",
+    "answers": [
+      "oblewania wyrobów.",
+      "wydmuchiwania i rozciągania.",
+      "wałkowania i wycinania.",
+      "wykonywania figurek."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 280,
+    "text": "Masą sporządzaną z czekolady i śmietanki o wysokiej zawartości tłuszczu, którą stosuje się do powlekania powierzchni wyrobów cukierniczych, jest",
+    "answers": [
+      "dragant.",
+      "ganasz.",
+      "gianduja.",
+      "fondant."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 281,
+    "text": "Jaja świeże mogą stanowić zagrożenie dla bezpieczeństwa zdrowotnego wyrobów cukierniczych ze względu na możliwą obecność",
+    "answers": [
+      "dzikich drożdży.",
+      "bakterii Salmonella.",
+      "pestycydów.",
+      "detergentów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 282,
+    "text": "Systemem zapewnienia bezpieczeństwa zdrowotnego wyrobów spożywczych, który zakłada kontrolę krytycznych punktów procesu produkcji, jest",
+    "answers": [
+      "GHP",
+      "GMP",
+      "HACCP",
+      "ISO 9000"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 283,
+    "text": "W magazynie surowców suchych należy przechowywać",
+    "answers": [
+      "ser twarogowy.",
+      "jaja świeże.",
+      "proszek do pieczenia.",
+      "olej rzepakowy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 284,
+    "text": "Ocena organoleptyczna masła polega na określeniu między innymi",
+    "answers": [
+      "zawartości wody.",
+      "zapachu.",
+      "zawartości tłuszczu.",
+      "masy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 285,
+    "text": "Oceny organoleptycznej drożdży świeżych prasowanych dokonuje się poprzez określenie ich zapachu, smaku, konsystencji i przełomu oraz",
+    "answers": [
+      "wilgotności.",
+      "barwy.",
+      "trwałości.",
+      "siły pędnej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 286,
+    "text": "Na rysunku przedstawiono wyroby z ciasta",
+    "answers": [
+      "drożdżowego.",
+      "parzonego.",
+      "zbijanego.",
+      "listkowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "spc01/tg4_wyroby.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 287,
+    "text": "W celu zapobiegania sklejaniu się poszczególnych warstw ciasta francuskiego podczas wałkowania tłuszcz używany do produkcji ciasta należy",
+    "answers": [
+      "połączyć z ogrzaną masą jajową.",
+      "zamrozić do temperatury poniżej -10°C.",
+      "wymieszać z niewielką ilością mąki.",
+      "lekko ogrzać w celu odparowania wody."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 288,
+    "text": "W schemacie technologicznym produkcji pączków metodą przemysłową znakiem zapytania oznaczono etap o nazwie",
+    "answers": [
+      "Nacinanie.",
+      "Nadziewanie.",
+      "Wykańczanie.",
+      "Spłaszczanie."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc01/tg4_schemat4.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 289,
+    "text": "Wyroby z ciasta parzonego po wypieczeniu charakteryzują się",
+    "answers": [
+      "elastycznym, lekko zbitym miękiszem.",
+      "drobnoporowatym miękiszem.",
+      "równomiernym uwarstwieniem.",
+      "dużymi komorami powietrznymi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 290,
+    "text": "Przyczyną występowania drobnych, ciemnych plamek na skórce wyrobów z ciasta biszkoptowego jest",
+    "answers": [
+      "wstrząsanie ciastem podczas wypieku.",
+      "za niska temperatura wypieku.",
+      "obecność w cieście całych kryształków cukru.",
+      "zbyt długie mieszanie masy jajowo-cukrowej z mąką."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 291,
+    "text": "Do grupy wyrobów z ciasta obgotowywanego należą",
+    "answers": [
+      "eklery i sokoły.",
+      "makaroniki i kokosanki.",
+      "faworytki i bajaderki.",
+      "precle i obwarzanki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 292,
+    "text": "Ze zmiażdżonych migdałów i cukru pudru w proporcji 1 : 1 otrzymuje się",
+    "answers": [
+      "grylaż.",
+      "kajmak.",
+      "marcepan.",
+      "gianduję."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 293,
+    "text": "Wyposażeniem pomiarowym stosowanym w magazynach surowców cukierniczych powinny być",
+    "answers": [
+      "barometry i termometry.",
+      "termometry i higrometry.",
+      "manometry i wagi.",
+      "zegary i psychrometry."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 294,
+    "text": "Wskaż warunki magazynowania masła i margaryny.",
+    "answers": [
+      "Zaciemnione pomieszczenia o temperaturze 4 ÷ 8°C",
+      "Wilgotne pomieszczenia o temperaturze 10 ÷ 14°C",
+      "Suche pomieszczenia o temperaturze 15 ÷ 20°C",
+      "Jasne pomieszczenia o temperaturze 0 ÷ 3°C"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 295,
+    "text": "Do ważenia worków z cukrem w magazynie surowców cukierniczych stosuje się wagi",
+    "answers": [
+      "uchylne.",
+      "dziesiętne.",
+      "pomostowe.",
+      "szalkowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 296,
+    "text": "Ile kilogramów kokosanek wyprodukował zakład cukierniczy zgodnie z recepturą zamieszczoną w tabeli, jeżeli do ich produkcji zużył 10 kg wiórków kokosowych?",
+    "answers": [
+      "15 kg",
+      "5 kg",
+      "10 kg",
+      "20 kg"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "spc01/tg4_tabela5.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 297,
+    "text": "Wyroby z ciasta piernikowego dłużej zachowają wilgotność, jeżeli do sporządzenia ciasta zastosuje się dodatek",
+    "answers": [
+      "aromatów.",
+      "barwników.",
+      "mąki żytniej.",
+      "mąki krupczatki."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 298,
+    "text": "Kokosanki produkowane w zakładzie cukierniczym pakowane są po 200 g do ozdobnych torebek. Ile torebek potrzeba do zapakowania 20 kilogramów kokosanek?",
+    "answers": [
+      "80 sztuk.",
+      "60 sztuk.",
+      "100 sztuk.",
+      "120 sztuk."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 299,
+    "text": "Ile kilogramów mąki ziemniaczanej należy pobrać z magazynu, aby zrealizować zamówienie na 25 kg korpusów biszkoptowych zgodnie z recepturą zamieszczoną w tabeli?",
+    "answers": [
+      "2,2 kg",
+      "2,5 kg",
+      "4,3 kg",
+      "3,3 kg"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "spc01/tg4_tabela4.png"
+    },
+    "category": "SPC.01"
+  },
+  {
+    "id": 300,
+    "text": "Które wyroby otrzymuje się z ciasta biszkoptowego lub biszkoptowo-tłuszczowego z dodatkiem dużej ilości bakalii i kandyzowanych owoców?",
+    "answers": [
+      "Keksy.",
+      "Tarty.",
+      "Muffiny.",
+      "Bajaderki."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 301,
+    "text": "Metodą organoleptyczną pracownik magazynowy może określić",
+    "answers": [
+      "świeżość jaj.",
+      "ilość tłuszczu w mleku.",
+      "wilgotność ziarna kakaowego.",
+      "punkt dymienia tłuszczu do smażenia pączków."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 302,
+    "text": "Sporządzając ciasta biszkoptowo-tłuszczowe metodą „na ciepło”, masę jajowo-cukrową ogrzewa się w zakresie temperatur",
+    "answers": [
+      "37 ÷ 42°C",
+      "20 ÷ 25°C",
+      "28 ÷ 33°C",
+      "48 ÷ 53°C"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 303,
+    "text": "Koryntki są odmianą",
+    "answers": [
+      "migdałów.",
+      "daktyli.",
+      "rodzynków.",
+      "pistacji."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 304,
+    "text": "Worki z cukrem kryształem w magazynie surowców suchych należy układać",
+    "answers": [
+      "przez oparcie o ściany.",
+      "bezpośrednio na posadzce.",
+      "w stosy o wysokości do 10 m.",
+      "na drewnianych podestach."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 305,
+    "text": "Syntetycznym środkiem słodzącym dopuszczonym do słodzenia w produkcji cukierniczej jest",
+    "answers": [
+      "skrobia.",
+      "percepan.",
+      "aspartam.",
+      "melasa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 306,
+    "text": "Składnikiem stanowiącym około 70% składu chemicznego mąki pszennej jest",
+    "answers": [
+      "gluten.",
+      "skrobia.",
+      "maltoza.",
+      "popiół."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 307,
+    "text": "Które cechy opisują dojrzały rozczyn?",
+    "answers": [
+      "Płaska lub lekko zapadnięta powierzchnia.",
+      "Bardzo mdły zapach i mazista konsystencja.",
+      "Silnie wzniesiona, sztywna powierzchnia.",
+      "Ostry octowy zapach i zbita konsystencja."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 308,
+    "text": "Do wykonania na cieście napisów i falbanek z kremu wykorzystuje się",
+    "answers": [
+      "foremki.",
+      "szablony.",
+      "wykrojniki.",
+      "zdobniki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 309,
+    "text": "Jako substancję żelującą do produkcji galaretek należy zastosować",
+    "answers": [
+      "kazeinę.",
+      "kurkumę.",
+      "lecytynę.",
+      "żelatynę."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "SPC.01"
+  },
+  {
+    "id": 310,
+    "text": "W produkcji cukierniczej rożna wykorzystuje się do wypieku",
+    "answers": [
+      "rurek.",
+      "keksików.",
+      "sękaczy.",
+      "klawiszy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "SPC.01"
+  }
+]
