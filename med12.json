@@ -1,0 +1,2702 @@
+[
+  {
+    "id": 1,
+    "text": "Na ilustracji przedstawiono zapis kontroli parametrycznej procesu sterylizacji",
+    "answers": [
+      "parowej z frakcjonowaną próżnią wstępną.",
+      "tlenkiem etylenu przebiegającego w nadciśnieniu.",
+      "parowej z głęboką próżnią wstępną.",
+      "tlenkiem etylenu przebiegającego w podciśnieniu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_zapis.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 2,
+    "text": "Ile wynosi stężenie procentowe roztworu roboczego, jeśli sporządzono go z 40 ml środka dezynfekcyjnego i 1960 ml wody?",
+    "answers": [
+      "2%",
+      "0,4%",
+      "4%",
+      "0,2%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 3,
+    "text": "Do lubrykacji narzędzi chirurgicznych należy stosować środki na bazie",
+    "answers": [
+      "gliceryny.",
+      "beztłuszczowych żeli.",
+      "parafiny.",
+      "oleju silikonowego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 4,
+    "text": "Które narzędzia posiadają zakończone tępo części robocze?",
+    "answers": [
+      "Łopatki do jelit oraz pilniki.",
+      "Osteotomy oraz pęsety atraumatyczne.",
+      "Łyżeczki kostne oraz kleszczyki okienkowe.",
+      "Rozszerzadła maciczne Hegar oraz sondy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 5,
+    "text": "Które produkty zapewniają barierę dla drobnoustrojów podczas wyjmowania kontenera ze sterylizatora, transportu i przechowywania?",
+    "answers": [
+      "Kosze perforowane wewnątrz kontenera.",
+      "Wskaźniki biologiczne umieszczone wewnątrz kontenera.",
+      "Filtry umieszczone w pokrywie kontenera.",
+      "Wskaźniki chemiczne umieszczane na zewnętrznej powierzchni kontenera."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 6,
+    "text": "Sterylizacja tlenkiem etylenu oraz formaldehydem powoduje zniszczenie drobnoustrojów przez",
+    "answers": [
+      "alkilację.",
+      "koagulację.",
+      "autoimmunizację.",
+      "oksydację."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 7,
+    "text": "Całkowite usunięcie substancji wskaźnikowej naśladującej pozostałości zaschniętej krwi z testu przedstawionego na ilustracji potwierdza skuteczność",
+    "answers": [
+      "sterylizacji wysokotemperaturowej.",
+      "mycia maszynowego.",
+      "mycia manualnego.",
+      "dezynfekcji termicznej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_test6.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 8,
+    "text": "Na których ilustracjach przedstawiono instrumenty, które można poddawać kolejno: myciu ultradźwiękowemu, dezynfekcji termicznej oraz sterylizacji parowej?",
+    "answers": [
+      "Na ilustracjach: 1, 2, 3, 4",
+      "Na ilustracjach: 2, 4",
+      "Na ilustracjach: 2, 3",
+      "Na ilustracjach: 1, 3, 4"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_ilustracje7.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 9,
+    "text": "Do dezynfekcji powierzchni zanieczyszczonych substancjami organicznymi należy stosować preparaty o działaniu sporobójczym, zawierające",
+    "answers": [
+      "czwartorzędowe sole amoniowe.",
+      "alkohole.",
+      "związki chloru.",
+      "fenole."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 10,
+    "text": "Zgodnie z klasyfikacją Spauldinga minimalny zakres działania biobójczego preparatu stosowanego do dezynfekcji sprzętu z grupy ryzyka, do której należy wyrób przedstawiony na ilustracji, obejmuje",
+    "answers": [
+      "B, V, F, Tbc, S",
+      "B, F, V – bezosłonkowe.",
+      "B, F, V – osłonkowe.",
+      "B, V, F, Tbc"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_wyrob4.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 11,
+    "text": "Wskaż rodzaj wózka wsadowego oraz parametry procesu dezynfekcji maszynowej silikonowego worka Ambu.",
+    "answers": [
+      "Wózek narzędziowy, 90°C/5minut.",
+      "Wózek endoskopowy, 55°C/5minut.",
+      "Wózek do instrumentów małoinwazyjnych, 93°C/10minut.",
+      "Wózek anestezjologiczny, 90°C/5minut."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 12,
+    "text": "Zwolnienie wsadu po procesie dezynfekcji termicznej odbywa się na podstawie kontroli",
+    "answers": [
+      "wzrokowej wnętrza myjni-dezynfektora oraz poziomu środków chemicznych.",
+      "wzrokowej na obecność pozostałości zabrudzeń oraz kontroli wartości A0.",
+      "wartości pH wody demineralizowanej oraz kontroli wartości A0.",
+      "prędkości obrotowej ramion natryskowych oraz sprawdzeniu filtra sitowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 13,
+    "text": "Podczas dezynfekcji chemiczno-termicznej w myjni-dezynfektorze zużywa się 20 ml środka dezynfekcyjnego na 1 litr wody. Podczas fazy dezynfekcji zużywane jest 6 litrów wody. Ile środka dezynfekcyjnego zużywa się podczas 50 cykli?",
+    "answers": [
+      "6 litrów.",
+      "1litr.",
+      "600 litrów.",
+      "10 litrów."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 14,
+    "text": "Jeden z symboli przedstawionych na ilustracji informuje, że wyrób można przechowywać w pomieszczeniu",
+    "answers": [
+      "w temperaturze 20°C.",
+      "z wilgotnością powietrza powyżej 50%.",
+      "w temperaturze poniżej 15°C.",
+      "z wilgotnością powietrza 25%."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_ilustracja4.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 15,
+    "text": "Ciepły, sterylny materiał po zakończeniu procesu sterylizacji należy",
+    "answers": [
+      "położyć na metalowym blacie, zapewniając szybkie schładzanie.",
+      "pozostawić pod nawiewem świeżego powietrza z urządzenia klimatyzacyjnego.",
+      "pozostawić do schłodzenia w komorze sterylizatora.",
+      "położyć w miejscu umożliwiającym stopniowe schładzanie."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 16,
+    "text": "Na których instrumentach przedstawionych na ilustracjach po procesach dezynfekcji i sterylizacji mogą pojawić się mieniące naloty krzemowe?",
+    "answers": [
+      "Na instrumentach: 1, 3, 4",
+      "Na instrumentach: 1, 2, 3, 4",
+      "Na instrumentach: 2, 3",
+      "Na instrumentach: 2, 4"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_instrumenty2.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 17,
+    "text": "Sterylizacja parą wodną jest odpowiednia dla",
+    "answers": [
+      "materiałów wrażliwych na wilgoć.",
+      "materiałów termowrażliwych.",
+      "roztworów wodnych.",
+      "bezwodnych olejów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 18,
+    "text": "Zależność pomiędzy temperaturą i czasem jej utrzymania w procesie dezynfekcji termicznej opisuje",
+    "answers": [
+      "klasyfikacja Spauldinga.",
+      "norma dla małych sterylizatorów parowych.",
+      "teoria wartości A0.",
+      "norma dla dużych sterylizatorów parowych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 19,
+    "text": "Które urządzenie wyposażone jest w wózki wsadowe do narzędzi chirurgicznych, sprzętu anestezjologicznego oraz sprzętu mikrochirurgicznego?",
+    "answers": [
+      "Sterylizator parowy.",
+      "Myjnia-dezynfektor.",
+      "Myjka ultradźwiękowa.",
+      "Sterylizator plazmowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 20,
+    "text": "Zmiany korozyjne powstające na narzędziu chirurgicznym w początkowej fazie korozji wżerowej mają wygląd",
+    "answers": [
+      "rdzawych przebarwień w szczelinach, spoinach, miejscach łączeń różnych elementów.",
+      "ukłuć igłą otoczonych rdzawo-brązowymi osadami.",
+      "rys, pęknięć lub złamań.",
+      "brązowych przebarwień wokół wytartego do metalu miejsca."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 21,
+    "text": "Do czyszczenia w myjni ultradźwiękowej nie należy kwalifikować:",
+    "answers": [
+      "narzędzi mikrochirurgicznych i okulistycznych.",
+      "optyk i światłowodów endoskopowych.",
+      "kleszczyków i trokarów endoskopowych.",
+      "narzędzi chirurgicznych i stomatologicznych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 22,
+    "text": "Podczas dezynfekcji termicznej narzędzi krytycznych minimalna wartość A0 powinna wynosić",
+    "answers": [
+      "60",
+      "600",
+      "3000",
+      "6000"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 23,
+    "text": "Narzędzie przedstawione na ilustracji należy do grupy narzędzi",
+    "answers": [
+      "ortopedycznych.",
+      "naczyniowych.",
+      "ginekologicznych.",
+      "mikrochirurgicznych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_narzedzie11.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 24,
+    "text": "Które wyroby medyczne należy zdemontować przed myciem i dezynfekcją?",
+    "answers": [
+      "Kleszczyki laparoskopowe okienkowe.",
+      "Kleszczyki okienkowe gładkie.",
+      "Kleszcze jelitowe Allis.",
+      "Kleszcze Listonʹa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 25,
+    "text": "Wskaźniki chemiczne do określonych procedur badawczych należą do typu",
+    "answers": [
+      "5",
+      "4",
+      "6",
+      "2"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 26,
+    "text": "Po rozerwaniu zewnętrznej warstwy papieru sterylizacyjnego na strefie sterylnej pakiet należy",
+    "answers": [
+      "przepakować i poddać ponownej sterylizacji.",
+      "odłożyć na półkę w magazynie sterylnym.",
+      "przekazać jak najszybciej na oddział.",
+      "bezwzględnie poddać ponownej dekontaminacji, w tym sterylizacji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 27,
+    "text": "Który opis użycia opakowań sterylizacyjnych dotyczy zgrzewalnej torebki papierowej?",
+    "answers": [
+      "Może służyć jako wielorazowe zabezpieczenie materiału skażonego.",
+      "Należy bezpyłowo oddzielić folię od papieru.",
+      "Nie nadaje się do sterylizacji parowej.",
+      "Należy ją zamknąć za pomocą zgrzewarki."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 28,
+    "text": "Na wózku wsadowym do mycia i dezynfekcji narzędzi do chirurgii małoinwazyjnej należy umieścić",
+    "answers": [
+      "instrumentarium laparoskopowe.",
+      "rury anestezjologiczne.",
+      "baseny szpitalne.",
+      "endoskopy elastyczne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 29,
+    "text": "W momencie gwałtownego wzrostu ciśnienia w komorze sterylizatora zawór bezpieczeństwa natychmiast otwiera się, wypuszczając do atmosfery nadmiar",
+    "answers": [
+      "pary wodnej.",
+      "sterylnego powietrza.",
+      "wody demineralizowanej.",
+      "minerałów rozpuszczonych w wodzie."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 30,
+    "text": "Środek do płukania narzędzi przyspieszający suszenie, w procesie maszynowego mycia z dezynfekcją termiczną stosowany jest w etapie",
+    "answers": [
+      "mycia.",
+      "neutralizacji.",
+      "dezynfekcji.",
+      "suszenia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 31,
+    "text": "Test z naniesioną substancją wskaźnikową symulującą zanieczyszczenia organiczne stosowany jest do kontroli",
+    "answers": [
+      "suszenia.",
+      "mycia.",
+      "dezynfekcji.",
+      "sterylizacji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 32,
+    "text": "Pęseta atraumatyczna służy do",
+    "answers": [
+      "rozszerzania tkanek.",
+      "przytrzymywania kości.",
+      "cięcia skóry.",
+      "chwytania naczyń."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 33,
+    "text": "Ile osłonek na narzędzia ostre będzie potrzebnych do pojedynczego zapakowania 5 wzierników ginekologicznych, 5 wierteł ortopedycznych, 5 mikronożyczek, 5 klemów okienkowych?",
+    "answers": [
+      "15",
+      "10",
+      "5",
+      "20"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 34,
+    "text": "Ile wody należy użyć do sporządzenia 10 litrów 1,5% roztworu roboczego środka dezynfekcyjnego?",
+    "answers": [
+      "9 950 ml",
+      "9 850 ml",
+      "10 015 ml",
+      "10 150 ml"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 35,
+    "text": "Wskaźnikiem umieszczanym na opakowaniach sterylizacyjnych, informującym wyłącznie o fakcie kontaktu opakowania z czynnikiem sterylizującym, jest wskaźnik",
+    "answers": [
+      "procesu.",
+      "emulacyjny.",
+      "wieloparametrowy.",
+      "zintegrowany."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 36,
+    "text": "Której zasady należy przestrzegać, przygotowując roztwór do mycia w myjni ultradźwiękowej?",
+    "answers": [
+      "Do wody należy dodawać wyłącznie środki dezynfekujące.",
+      "Roztwór należy odgazowywać przed każdym jego użyciem.",
+      "Do wody należy dodawać wyłącznie środki myjąco-dezynfekujące.",
+      "Roztwór należy odgazowywać przed pierwszym jego użyciem."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 37,
+    "text": "W celu kontroli poprawności działania zgrzewarek do opakowań papierowo-foliowych zaleca się wykonanie testu szczelności zgrzewu",
+    "answers": [
+      "co tydzień.",
+      "codziennie.",
+      "raz w miesiącu.",
+      "raz na pół roku."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 38,
+    "text": "W pakietach z zestawami narzędzi ze stali nierdzewnej umieszcza się wskaźniki chemiczne typu",
+    "answers": [
+      "4, 5, 6",
+      "2, 3, 4",
+      "2, 4, 5",
+      "1, 2, 3"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 39,
+    "text": "W którym procesie sterylizacji faza sterylizacji poprzedzona jest wielokrotnymi pulsami pary wodnej mającymi na celu nawilżenie sterylizowanego wsadu?",
+    "answers": [
+      "W sterylizacji nadtlenkiem wodoru.",
+      "W sterylizacji suchym gorącym powietrzem.",
+      "W sterylizacji radiacyjnej.",
+      "W sterylizacji tlenkiem etylenu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 40,
+    "text": "Cechą papieru sterylizacyjnego jest",
+    "answers": [
+      "duża wytrzymałość na wilgoć i naprężenia podczas procesu sterylizacji.",
+      "wielkość porów umożliwiająca przenikanie kurzu i cieczy.",
+      "brak odporności na wilgoć i naprężenia podczas procesu sterylizacji.",
+      "wielkość porów stanowiąca barierę dla czynnika sterylizacyjnego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 41,
+    "text": "Podstawowy zestaw narzędzi do szycia chirurgicznego tworzą",
+    "answers": [
+      "imadło, kocher i pęseta.",
+      "pęseta, kocher i nożyczki.",
+      "nożyczki, imadło i pęseta.",
+      "pean, kocher i imadło."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 42,
+    "text": "Cena 100 metrów rękawa papierowo-foliowego wynosi 100,00 zł. Jaki będzie koszt rękawa potrzebnego do wykonania 100 pakietów o długości 25 cm?",
+    "answers": [
+      "2,50 zł",
+      "250,00 zł",
+      "25,00 zł",
+      "25,50 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 43,
+    "text": "Które z przedstawionych na ilustracjach instrumentów można poddawać kolejno: myciu ultradźwiękowemu, dezynfekcji termicznej oraz sterylizacji parowej?",
+    "answers": [
+      "1, 3, 4",
+      "2, 3",
+      "1, 2, 3, 4",
+      "2, 4"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med12/ms18_instrumenty.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 44,
+    "text": "Powłokę antykorozyjną na narzędziach chirurgicznych tworzy tlenek",
+    "answers": [
+      "chromu.",
+      "krzemu.",
+      "żelaza.",
+      "glinu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 45,
+    "text": "Test przedstawiony na ilustracji przebarwia się na kolor czarny w procesie dezynfekcji termicznej, gdy wartość A0 wynosi",
+    "answers": [
+      "≤3000",
+      "≥60",
+      "≤600",
+      "≥6000"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med12/ms18_test2.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 46,
+    "text": "Ile wskaźników do kontroli mycia oraz wskaźników do kontroli parametrów dezynfekcji termicznej należy zakupić na okres jednego tygodnia, jeżeli dziennie kontroli podlega 10 procesów dezynfekcji termicznej oraz 2 procesy dezynfekcji termiczno-chemicznej?",
+    "answers": [
+      "84 do kontroli mycia oraz 84 do kontroli parametrów dezynfekcji termicznej.",
+      "84 do kontroli mycia oraz 70 do kontroli parametrów dezynfekcji termicznej.",
+      "70 do kontroli mycia oraz 84 do kontroli parametrów dezynfekcji termicznej.",
+      "70 do kontroli mycia oraz 70 do kontroli parametrów dezynfekcji termicznej."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 47,
+    "text": "Którą czynność należy wykonać przed umieszczeniem niekaniulowanych wierteł ortopedycznych w torebce papierowo-foliowej?",
+    "answers": [
+      "Konserwować.",
+      "Zdemontować.",
+      "Zabezpieczyć ostre końcówki.",
+      "Sprawdzić drożność."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 48,
+    "text": "Które substancje aktywne stosowane są do dezynfekcji wysokiego stopnia?",
+    "answers": [
+      "Aldehydy i alkohole.",
+      "Aldehydy i związki nadtlenowe.",
+      "Alkohole i związki fenolowe.",
+      "Związki nadtlenowe i fenolowe."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 49,
+    "text": "Alkohol nadaje się do usuwania z narzędzi, sprzętu i powierzchni pozostałości",
+    "answers": [
+      "białka i krwi.",
+      "kości.",
+      "cementu kostnego.",
+      "tłuszczu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 50,
+    "text": "Jeżeli wskaźniki fizyczne wskazują prawidłowe parametry, oznacza to, że",
+    "answers": [
+      "wskaźniki chemiczne i biologiczne osiągną prawidłowy wynik.",
+      "w komorze sterylizatora osiągnięto warunki do skutecznej sterylizacji.",
+      "po zakończeniu procesu sterylizacji produkty będą sterylne.",
+      "załadunek komory sterylizatora jest prawidłowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 51,
+    "text": "Które z przedstawionych na ilustracjach wyrobów medycznych można poddawać myciu i dezynfekcji w myjni-dezynfektorze dla narzędzi chirurgicznych?",
+    "answers": [
+      "2, 3",
+      "3, 4",
+      "2, 4",
+      "1, 2"
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med12/ms18_wyroby.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 52,
+    "text": "Po zmieszaniu 25 ml koncentratu środka dezynfekcyjnego z wodą uzyskano 1 litr roztworu użytkowego o stężeniu",
+    "answers": [
+      "0,25%",
+      "0,5%",
+      "2,5%",
+      "1,5%"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 53,
+    "text": "W procesie sterylizacji tlenkiem etylenu dochodzi do zniszczenia drobnoustrojów w wyniku",
+    "answers": [
+      "adhezji.",
+      "alkilacji.",
+      "oksydacji.",
+      "koagulacji."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 54,
+    "text": "Temperatura 130°C jest parametrem zgrzewania rękawa",
+    "answers": [
+      "Tyvek-folia.",
+      "włókninowo-foliowego.",
+      "poliamidowego.",
+      "papierowo-foliowego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 55,
+    "text": "W której fazie przedstawionego na rysunku przebiegu maszynowego procesu dezynfekcji stosowany jest środek do płukania narzędzi przyspieszający suszenie?",
+    "answers": [
+      "Neutralizacji.",
+      "Mycia.",
+      "Dezynfekcji.",
+      "Suszenia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med12/ms18_diagram.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 56,
+    "text": "Metodą nieodpowiednią do sterylizacji materiałów opatrunkowych jest sterylizacja",
+    "answers": [
+      "nadtlenkiem wodoru oraz kwasem nadoctowym.",
+      "tlenkiem etylenu oraz parą wodną.",
+      "nadtlenkiem wodoru oraz parą wodną.",
+      "kwasem nadoctowym oraz tlenkiem etylenu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 57,
+    "text": "Postępowanie mające na celu ochronę przed skażeniem naturalnie jałowych tkanek, polegające między innymi na kompletowaniu zestawu narzędzi do jednego zabiegu w jednym pakiecie, to",
+    "answers": [
+      "aseptyka.",
+      "antyseptyka.",
+      "sterylizacja.",
+      "dezynfekcja."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 58,
+    "text": "Prawidłowo przebarwiony chemiczny wskaźnik umieszczony na produkcie przedstawionym na ilustracji dostarcza informacji o tym, że",
+    "answers": [
+      "wyrób był umieszczony w pojemniku sterylizacyjnym.",
+      "proces sterylizacji był skuteczny.",
+      "wyrób był poddany sterylizacji.",
+      "proces przebiegł prawidłowo."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med12/ms18_wskaznik.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 59,
+    "text": "Podczas rutynowej kontroli jakości mediów zasilających myjnię-dezynfektor do narzędzi chirurgicznych wskazane jest wykonanie badania",
+    "answers": [
+      "pozostałości środków chemicznych na narzędziach po procesie.",
+      "mikrobiologicznego wody demineralizowanej.",
+      "fizyko-chemicznego wody wodociągowej.",
+      "przewodności i wartości pH wody."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 60,
+    "text": "Nadzór zewnętrzny nad procedurami dekontaminacji narzędzi sprawuje",
+    "answers": [
+      "Państwowa Inspekcja Pracy.",
+      "Państwowa Inspekcja Sanitarna.",
+      "Urząd Dozoru Technicznego.",
+      "Zespół Kontroli Zakażeń Szpitalnych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 61,
+    "text": "Których narzędzi brakuje w zestawie na przedstawionej ilustracji, porównując z zamieszczonym w tabeli spisem zestawu narzędzi ginekologicznych?",
+    "answers": [
+      "Dwóch wzierników Cusco i jednego kulociągu.",
+      "Dwóch klemów okienkowych i jednej łyżki skrobaczki.",
+      "Dwóch łyżek skrobaczek i jednego wziernika Cusco.",
+      "Dwóch kulociągów i jednego klemu okienkowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med12/ms18_tabela.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 62,
+    "text": "Jednym z często spotykanych w praktyce szpitalnej patogenów wywołujących zakażenia bakteryjne jest",
+    "answers": [
+      "Bacillus pumilus.",
+      "Geobacillus stearothermophilus.",
+      "Staphylococcus aureus.",
+      "Bacillus atrophaeus."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 63,
+    "text": "Kleszcze typu pean, skierowane do mycia i dezynfekcji, powinny być",
+    "answers": [
+      "zapięte na pierwszy ząbek.",
+      "zamknięte.",
+      "otwarte.",
+      "zapięte na ostatni ząbek."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 64,
+    "text": "Które wyroby medyczne można poddać myciu przy użyciu ultradźwięków?",
+    "answers": [
+      "Światłowody.",
+      "Wiertarki ortopedyczne.",
+      "Narzędzia mikrochirurgiczne.",
+      "Optyki endoskopowe."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 65,
+    "text": "Preferowaną metodą wyjaławiania narzędzi chirurgicznych jest sterylizacja",
+    "answers": [
+      "tlenkiem etylenu.",
+      "parą wodną.",
+      "nadtlenkiem wodoru.",
+      "formaldehydem."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 66,
+    "text": "Wskaźniki służące do wykazania, że sprzęt był poddany działaniu temperatury 90°C przez 5 min., stosowane są w procesie",
+    "answers": [
+      "sterylizacji.",
+      "dezynfekcji chemiczno-termicznej.",
+      "mycia.",
+      "dezynfekcji termicznej."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 67,
+    "text": "Przed wejściem do magazynu materiałów sterylnych wykonuje się dezynfekcję rąk środkiem na bazie",
+    "answers": [
+      "detergentów.",
+      "alkoholu.",
+      "chloru.",
+      "aldehydu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 68,
+    "text": "Kto w sterylizatorni ustala datę ważności dla sprzętu jałowego?",
+    "answers": [
+      "Kierownik sterylizatorni.",
+      "Audytor Jednostki Certyfikującej.",
+      "Dyrektor szpitala.",
+      "Pracownik stacji sanitarno-epidemiologicznej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 69,
+    "text": "Chemiczne wskaźniki emulacyjne, stosowane do kontroli procesów sterylizacji, należą do typu",
+    "answers": [
+      "2",
+      "4",
+      "6",
+      "5"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 70,
+    "text": "Co oznacza symbol umieszczony na narzędziu?",
+    "answers": [
+      "Czterokrotne użycie.",
+      "Czterokrotną sterylizację.",
+      "Co najmniej czterokrotne użycie.",
+      "Czwarta sterylizacja jest zabroniona."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_symbol3.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 71,
+    "text": "Do sterylizacji plazmowej materiał należy zapakować w rękaw",
+    "answers": [
+      "Tyvek-folia.",
+      "włókninowo-foliowy.",
+      "papierowo-foliowy.",
+      "z folii poliamidowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 72,
+    "text": "Chirurgiczne systemy napędowe poddawane są myciu i dezynfekcji",
+    "answers": [
+      "w myjni ultradźwiękowej.",
+      "przez zanurzenie w roztworze środka dezynfekcyjnego.",
+      "w myjni dezynfektorze do narzędzi chirurgicznych.",
+      "w myjni dezynfektorze do endoskopów termolabilnych."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 73,
+    "text": "Test Bowie-Dick’a wykonuje się",
+    "answers": [
+      "przed każdym wsadem.",
+      "dwa razy dziennie w przypadku sprawnie działającego sterylizatora.",
+      "jeden raz w tygodniu, jeżeli centralna sterylizatornia działa przez 7 dni w tygodniu.",
+      "przed rozpoczęciem pierwszego w danym dniu roboczym cyklu sterylizacji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 74,
+    "text": "Opakowaniem wielorazowego użycia przeznaczonym do sterylizacji parowej jest",
+    "answers": [
+      "papier krepowany.",
+      "rękaw Tyvek.",
+      "rękaw włókninowo-foliowy.",
+      "kontener metalowy."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 75,
+    "text": "Do mycia i dezynfekcji wstępnej sprzętu anestezjologicznego zastosowanie mają preparaty",
+    "answers": [
+      "alkoholowe oraz zawierające formaldehyd.",
+      "bezaldehydowe oraz bezalkoholowe.",
+      "alkoholowe oraz zawierające aldehyd glutarowy.",
+      "zawierające aldehyd glutarowy oraz formaldehyd."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 76,
+    "text": "Zgodnie z klasyfikacją Spauldinga narzędzia kontaktujące się z nieuszkodzonymi błonami śluzowymi należą do kategorii wyrobów ryzyka",
+    "answers": [
+      "minimalnego.",
+      "wysokiego.",
+      "średniego.",
+      "niskiego."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 77,
+    "text": "Przyczyną powstawania mlecznobiałych nalotów na powierzchni narzędzi jest zbyt duża zawartość w wodzie",
+    "answers": [
+      "chlorków.",
+      "wapnia.",
+      "krzemianów.",
+      "metali ciężkich."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 78,
+    "text": "Do mycia kontenerów z aluminium stosowany jest środek",
+    "answers": [
+      "niepieniący się, neutralny.",
+      "niskopieniący się, aldehydowy.",
+      "pieniący się, alkoholowy.",
+      "pieniący się, silnie alkaliczny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 79,
+    "text": "Parametry dezynfekcji termicznej w myjniach-dezynfektorach dla narzędzi chirurgicznych wynoszą",
+    "answers": [
+      "93ºC; 10 minut.",
+      "90ºC; 1 minuta.",
+      "70ºC; 7 minut.",
+      "80ºC; 5 minut."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 80,
+    "text": "Piętka, sprężyna, lusterko, uchwyt, szyjka i pyszczki występują w budowie",
+    "answers": [
+      "pęsety.",
+      "kochera.",
+      "peana.",
+      "imadła."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 81,
+    "text": "Narzędzia z zamkiem przed procesem sterylizacji należy zapiąć na zapadkę",
+    "answers": [
+      "trzecią.",
+      "pierwszą.",
+      "ostatnią.",
+      "drugą."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 82,
+    "text": "Temperatura oraz minimalny czas sterylizacji termostabilnego sprzętu medycznego wynoszą odpowiednio",
+    "answers": [
+      "134°C, 20 minut.",
+      "121°C, 10 minut.",
+      "121°C, 7 minut.",
+      "134°C, 3 minut."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 83,
+    "text": "Po zmieszaniu 10 ml środka dezynfekcyjnego i 990 ml wody otrzyma się roztwór o stężeniu",
+    "answers": [
+      "0,01%",
+      "1%",
+      "10%",
+      "0,1%"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 84,
+    "text": "Do przygotowania 1 litra roztworu użytkowego o stężeniu 3% należy odmierzyć",
+    "answers": [
+      "970 ml wody i 30 ml koncentratu.",
+      "1000 ml wody i 30 ml koncentratu.",
+      "1000 ml wody i 300 ml koncentratu.",
+      "997 ml wody i 3 ml koncentratu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 85,
+    "text": "Prawidłowe parametry temperatury i czasu dla procesu dezynfekcji chemiczno-termicznej to:",
+    "answers": [
+      "90ºC; 5 minut.",
+      "55ºC; 10 minut.",
+      "80ºC; 20 minut.",
+      "93ºC; 10 minut."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 86,
+    "text": "Ile pojedynczych testów kontroli dezynfekcji termicznej należy przygotować dla dwóch myjni-dezynfektorów, jeżeli każda z nich wykona 10 cykli dziennie przez okres 30 dni?",
+    "answers": [
+      "200 testów.",
+      "600 testów.",
+      "300 testów.",
+      "100 testów."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 87,
+    "text": "Ostrza do skalpela chirurgicznego, oznakowanego przekreśloną dwójką w kółku, można użyć",
+    "answers": [
+      "pięć razy.",
+      "dwa razy.",
+      "jeden raz.",
+      "trzy razy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 88,
+    "text": "Fabrycznie nowe elastyczne wyroby medyczne należy przechowywać w oryginalnym opakowaniu, w miejscu",
+    "answers": [
+      "wilgotnym i jasnym.",
+      "dobrze nasłonecznionym i suchym.",
+      "zaciemnionym, wilgotnym i ciepłym.",
+      "chłodnym, ciemnym i suchym."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 89,
+    "text": "Ile razy można użyć włókniny sterylizacyjnej jako materiału opakowaniowego?",
+    "answers": [
+      "Cztery.",
+      "Jeden.",
+      "Dwa.",
+      "Trzy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 90,
+    "text": "Do kontroli pakietu sterylizowanego parą wodną przeznaczone są wskaźniki chemiczne typu",
+    "answers": [
+      "4 i 5",
+      "2 i 5",
+      "1 i 2",
+      "1 i 4"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 91,
+    "text": "Ciężkie zestawy narzędziowe w sterylizatorze parowym należy umieszczać",
+    "answers": [
+      "na dole komory.",
+      "na górze komory.",
+      "zawsze przy drzwiach załadowczych.",
+      "zawsze przy drzwiach rozładowczych."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 92,
+    "text": "Do ostatniego płukania w procesie dezynfekcji termicznej należy stosować wodę",
+    "answers": [
+      "wodociągową.",
+      "demineralizowaną.",
+      "mineralną.",
+      "zmiękczoną."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 93,
+    "text": "Ile kontenerów o pojemności 1 jednostki wsadu zostanie wysterylizowanych w sterylizatorze o pojemności 54 litrów podczas 2 cykli?",
+    "answers": [
+      "16 kontenerów.",
+      "4 kontenery.",
+      "2 kontenery.",
+      "8 kontenerów."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 94,
+    "text": "Do właściwości aldehydów należy",
+    "answers": [
+      "koagulacja białka.",
+      "osłabianie dezynfekcji.",
+      "wzmaganie pienienia.",
+      "powodowanie korozji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 95,
+    "text": "Zwalnianie wyrobu po sterylizacji tlenkiem etylenu może odbywać się na podstawie oceny zapisów parametrów krytycznych procesu oraz odczycie umieszczonych w pakietach reprezentatywnych wskaźników chemicznych typu",
+    "answers": [
+      "5",
+      "3",
+      "4",
+      "2"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 96,
+    "text": "Sprzęt medyczny kwalifikowany jest do procesów dekontaminacji, w tym sterylizacji, na podstawie",
+    "answers": [
+      "instrukcji producenta sprzętu.",
+      "wskazania użytkownika sprzętu.",
+      "polecenia pielęgniarki epidemiologicznej.",
+      "zaleceń sanepidu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 97,
+    "text": "Do konserwacji narzędzi chirurgicznych z zamkiem należy zastosować olej",
+    "answers": [
+      "kokosowy.",
+      "silikonowy.",
+      "parafinowy.",
+      "lniany."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 98,
+    "text": "Podstawową metodą wyjaławiania bielizny operacyjnej i narzędzi chirurgicznych jest sterylizacja",
+    "answers": [
+      "plazmowa.",
+      "parą wodną.",
+      "tlenkiem etylenu.",
+      "formalinowa."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 99,
+    "text": "Ilu arkuszy papieru krepowanego potrzeba do zapakowania 100 zestawów narzędziowych?",
+    "answers": [
+      "200 arkuszy.",
+      "220 arkuszy.",
+      "100 arkuszy.",
+      "120 arkuszy."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 100,
+    "text": "Na ilustracji przedstawiono wskaźnik biologiczny do kontroli procesu sterylizacji",
+    "answers": [
+      "parą wodną.",
+      "parowo-formaldehydowej.",
+      "tlenkiem etylenu.",
+      "nadtlenkiem wodoru."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_wskaznik7.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 101,
+    "text": "Technika przez spryskiwanie preparatami alkoholowymi stosowana jest do dezynfekcji powierzchni",
+    "answers": [
+      "dużych i łatwodostępnych.",
+      "dużych skażonych krwią/materiałem biologicznym.",
+      "małych skażonych przetrwalnikami bakterii.",
+      "małych i trudnodostępnych."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 102,
+    "text": "Czynnikiem sterylizującym, charakteryzującym się wysoką zdolnością penetracji wyrobów z tworzyw sztucznych, gumy, metalu i szkła, bez względu na ich wielkość oraz kształt, jest",
+    "answers": [
+      "para wodna.",
+      "kwas nadoctowy.",
+      "nadtlenek wodoru.",
+      "tlenek etylenu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 103,
+    "text": "Ile wody należy przygotować do sporządzenia 50 litrów 2,5% roztworu roboczego środka dezynfekcyjnego?",
+    "answers": [
+      "50 000 ml",
+      "48 750 ml",
+      "49 750 ml",
+      "47 250 ml"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 104,
+    "text": "Testy paskowe do kontroli aktywności biobójczej roztworu dezynfekcyjnego stosowane są w procesach",
+    "answers": [
+      "dezynfekcji termicznej.",
+      "dezynfekcji manualnej.",
+      "mycia manualnego.",
+      "mycia maszynowego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 105,
+    "text": "Do narzędzi tnących jednoostrzowych należą",
+    "answers": [
+      "odgryzacz kostny i skrobaczka.",
+      "dłuto i skrobaczka.",
+      "nożyczki chirurgiczne i odgryzacz kostny.",
+      "dłuto i nożyczki chirurgiczne."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 106,
+    "text": "Które z wymienionych drobnoustrojów posiadają największą oporność na chemiczne środki dezynfekcyjne?",
+    "answers": [
+      "Wirusy osłonkowe.",
+      "Wirusy bezosłonkowe.",
+      "Spory bakterii.",
+      "Prątki gruźlicy."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 107,
+    "text": "Minimalna odległość pomiędzy materiałami sterylnymi przechowywanymi bezpośrednio na regałach i półkach a podłogą powinna wynosić nie mniej niż",
+    "answers": [
+      "5 cm",
+      "3 cm",
+      "15 cm",
+      "30 cm"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 108,
+    "text": "Na przedstawionym na ilustracji haku chirurgicznym może wystąpić korozja",
+    "answers": [
+      "powierzchniowa i wżerowa.",
+      "naprężeniowa i cierna.",
+      "cierna i powierzchniowa.",
+      "szczelinowa i wżerowa."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_hak2.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 109,
+    "text": "Z których wyrobów medycznych do usunięcia skoagulowanych tkanek stosowany jest 3% roztwór nadtlenku wodoru?",
+    "answers": [
+      "Z wyrobów 1 i 4.",
+      "Z wyrobów 2 i 3.",
+      "Z wyrobów 1 i 2.",
+      "Z wyrobów 3 i 4."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_wyroby8.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 110,
+    "text": "Które zabezpieczenia chronią personel przed ekspozycją inhalacyjną na tlenek etylenu?",
+    "answers": [
+      "Krótka faza ekspozycji tlenku etylenu.",
+      "Maska chirurgiczna.",
+      "Półmaska oddechowa.",
+      "Proces sterylizacji przeprowadzany w nadciśnieniu."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 111,
+    "text": "Preparat stosowany do dezynfekcji powierzchni skażonych grzybami musi wykazywać działanie biobójcze w odniesieniu do mikroorganizmu",
+    "answers": [
+      "Bacillus atrophaeus.",
+      "Geobacillus stearothermophilus.",
+      "Candida albicans.",
+      "Poliovirus."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 112,
+    "text": "Kraniki przy instrumentach laparoskopowych należy do mycia i dezynfekcji",
+    "answers": [
+      "zamykać, a do sterylizacji otwierać.",
+      "zamykać i do sterylizacji zamykać.",
+      "otwierać i do sterylizacji otwierać.",
+      "otwierać, a do sterylizacji zamykać."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 113,
+    "text": "Sprzęt medyczny zakwalifikowany do procesu sterylizacji nadtlenkiem wodoru należy zapakować",
+    "answers": [
+      "w torebkę papierowo-foliową.",
+      "w rękaw Tyvek-folia.",
+      "w papier krepowany.",
+      "w rękaw poliamidowy."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 114,
+    "text": "Na konieczność sprawdzenia sprawności systemu dozowania środków chemicznych w myjni-dezynfektorze, wskazuje",
+    "answers": [
+      "obecność organicznych pozostałości operacyjnych na powierzchni narzędzi.",
+      "obecność cząstek rdzy z systemu wodociągowego na filtrze w komorze myjni.",
+      "przekroczenie zaprogramowanej wartości A0.",
+      "brak przebarwienia testu kontroli parametrów dezynfekcji termicznej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 115,
+    "text": "Na narzędziu przestawionym na ilustracji nie wystąpi korozja",
+    "answers": [
+      "powierzchniowa.",
+      "naprężeniowa.",
+      "cierna.",
+      "szczelinowa."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_narzedzie9.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 116,
+    "text": "Po zmieszaniu 75 ml koncentratu środka dezynfekcyjnego z 4 925 ml wody uzyska się roztwór użytkowy o stężeniu",
+    "answers": [
+      "2,5%",
+      "0,25%",
+      "0,5%",
+      "1,5%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 117,
+    "text": "Proces sterylizacji tlenkiem etylenu rozpoczyna się fazą",
+    "answers": [
+      "próżni.",
+      "sterylizacji.",
+      "nawilżania.",
+      "aeracji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 118,
+    "text": "Alkohol znajduje zastosowanie do usuwania z narzędzi, sprzętu i powierzchni pozostałości",
+    "answers": [
+      "cementu kostnego.",
+      "kości.",
+      "białka i krwi.",
+      "tłuszczu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 119,
+    "text": "Zaleca się stosowanie wskaźników biologicznych do kontroli każdego wsadu w każdym cyklu w przypadku sterylizacji",
+    "answers": [
+      "narzędzi chirurgicznych.",
+      "implantów medycznych.",
+      "bielizny operacyjnej.",
+      "materiałów opatrunkowych."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 120,
+    "text": "Do dezynfekcji sprzętu z tworzyw sztucznych, mających bezpośredni kontakt z tkankami lub z układem oddechowym nie akceptuje się preparatów zawierających",
+    "answers": [
+      "formaldehyd.",
+      "kwas nadoctowy.",
+      "aktywny tlen.",
+      "glukoprotaminę."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 121,
+    "text": "Stan filtra na dnie komory myjni-dezynfektora należy kontrolować co najmniej raz",
+    "answers": [
+      "w miesiącu.",
+      "w tygodniu.",
+      "dziennie.",
+      "na kwartał."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 122,
+    "text": "Utworzenie szczelnego systemu bariery sterylnej z opakowania Tyvek-folia wymaga",
+    "answers": [
+      "zaklejenia opakowania taśmą ze wskaźnikiem sterylizacji.",
+      "wykonania zgrzewu w temperaturze 120-140°C.",
+      "zamknięcia opakowania plastikową plombą.",
+      "wykonania zgrzewu w temperaturze 180-190°C."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 123,
+    "text": "W której z metod sterylizacji faza sterylizacji przebiega w podciśnieniu w stosunku do ciśnienia atmosferycznego?",
+    "answers": [
+      "Tlenkiem etylenu.",
+      "Formaldehydowej.",
+      "Parowej.",
+      "Suchym gorącym powietrzem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 124,
+    "text": "Wewnątrz pakietu poddawanego sterylizacji parą wodną umieszcza się chemiczne wskaźniki typu",
+    "answers": [
+      "2 i 3",
+      "1 i 2",
+      "3 i 4",
+      "4 i 5"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 125,
+    "text": "Minimalna wartość A0 w procesie dezynfekcji narzędzi mających kontakt z ranami powinna wynosić",
+    "answers": [
+      "60",
+      "600",
+      "6000",
+      "3000"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 126,
+    "text": "Przedstawiony na ilustracji wskaźnik chemiczny umieszczany jest w pakietach",
+    "answers": [
+      "z bielizną operacyjną i proszkami.",
+      "z proszkami i wazeliną.",
+      "z wazeliną.",
+      "z bielizną operacyjną."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_wskaznik6.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 127,
+    "text": "Prawidłowo przebarwiony chemiczny wskaźnik procesu typu 1 dostarcza informacji, że",
+    "answers": [
+      "proces sterylizacji był skuteczny.",
+      "wyrób jest sterylny.",
+      "proces przebiegł prawidłowo.",
+      "wyrób był sterylizowany."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 128,
+    "text": "Test sprawności narzędzi chirurgicznych wykonuje się przed",
+    "answers": [
+      "kompletowaniem zestawu.",
+      "kontrolą czystości.",
+      "dezynfekcją.",
+      "myciem."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 129,
+    "text": "Dopuszczalny Poziom zapewnienia sterylności (SAL) wynosi",
+    "answers": [
+      "10⁻9",
+      "10⁻3",
+      "10⁻6",
+      "10⁻12"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 130,
+    "text": "Prawidłowo przebarwione chemiczne wskaźniki umieszczone na produktach przedstawionych na ilustracji dostarczają informacji o tym, że",
+    "answers": [
+      "proces przebiegł prawidłowo.",
+      "proces sterylizacji był skuteczny.",
+      "wyrób jest sterylny.",
+      "wyrób był poddany sterylizacji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_produkty2.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 131,
+    "text": "Do instrumentarium tnącego należą:",
+    "answers": [
+      "odgryzacze kostne, raspatory, nożyczki i skalpele.",
+      "skrobaczki kostne, dłuta, żłobaki i kleszczyki.",
+      "haki chirurgiczne, hegary, dłuta i żłobaki.",
+      "wiertła, żłobaki, sondy i skrobaczki kostne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 132,
+    "text": "Nadzór wewnętrzny nad procedurami dekontaminacji narzędzi sprawuje",
+    "answers": [
+      "Państwowa Inspekcja Pracy.",
+      "Zespół Kontroli Zakażeń Szpitalnych.",
+      "Państwowa Inspekcja Sanitarna.",
+      "Urząd Dozoru Technicznego."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 133,
+    "text": "Który czynnik może hamować penetrację pary do pakietu testowego Bowie&Dick’a?",
+    "answers": [
+      "Gazy nie ulegające skraplaniu.",
+      "Zbyt duży załadunek komory.",
+      "Zbyt mały załadunek komory.",
+      "Gazy ulegające skraplaniu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 134,
+    "text": "W momencie gwałtownego wzrostu ciśnienia w komorze sterylizatora zawór bezpieczeństwa natychmiast otwiera się upuszczając do atmosfery nadmiar",
+    "answers": [
+      "pary wodnej.",
+      "wody demineralizowanej.",
+      "minerałów rozpuszczonych w wodzie.",
+      "sterylnego powietrza."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 135,
+    "text": "Które z przedstawionych na ilustracjach wyrobów można poddawać kolejno: myciu ultradźwiękowemu, dezynfekcji termicznej oraz sterylizacji parowej?",
+    "answers": [
+      "Wyroby: 1, 2, 3, 4.",
+      "Wyroby: 1, 3, 4.",
+      "Wyroby: 1, 2.",
+      "Wyroby: 3, 4."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_wyroby6.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 136,
+    "text": "Całkowite usunięcie substancji wskaźnikowej naśladującej pozostałości zaschniętej krwi z testu przedstawionego na ilustracji, potwierdza skuteczność",
+    "answers": [
+      "mycia manualnego.",
+      "dezynfekcji termicznej.",
+      "sterylizacji wysokotemperaturowej.",
+      "mycia maszynowego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_test6.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 137,
+    "text": "W przedstawionym na ilustracji przebiegu procesu dezynfekcji maszynowej, środek do płukania narzędzi przyspieszający suszenie, stosowany jest w etapie",
+    "answers": [
+      "suszenia.",
+      "dezynfekcji.",
+      "neutralizacji.",
+      "mycia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_wykres3.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 138,
+    "text": "Na wózku wsadowym do mycia i dezynfekcji sprzętu anestezjologicznego należy umieścić",
+    "answers": [
+      "endoskopy elastyczne.",
+      "baseny szpitalne.",
+      "instrumentarium laparoskopowe.",
+      "resuscytator Ambu."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 139,
+    "text": "Które czynności należy wykonać przed umieszczeniem kaniulowanych wierteł ortopedycznych w torebce papierowo-foliowej?",
+    "answers": [
+      "Zdemontować oraz konserwować.",
+      "Sprawdzić drożność oraz zabezpieczyć ostre końcówki.",
+      "Konserwować oraz zabezpieczyć ostre końcówki.",
+      "Sprawdzić drożność oraz zdemontować."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 140,
+    "text": "Które działania zwiększają ryzyko powstawania biofilmu na narzędziach?",
+    "answers": [
+      "Stosowanie dezynfektantów, które posiadają zdolności rozkładania zanieczyszczeń organicznych.",
+      "Dekontaminacja narzędzi po użyciu po upływie 3 godzin.",
+      "Czyszczenie narzędzi bezpośrednio po użyciu.",
+      "Dekontaminacja narzędzi po użyciu przed upływem 3 godzin."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 141,
+    "text": "Po zmieszaniu 50 ml koncentratu środka dezynfekcyjnego z wodą, uzyskano 1 litr roztworu użytkowego o stężeniu",
+    "answers": [
+      "1,5%",
+      "2,5%",
+      "0,5%",
+      "5%"
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 142,
+    "text": "Jeżeli wskaźniki fizyczne wskazują prawidłowe parametry oznacza to, że",
+    "answers": [
+      "po zakończeniu procesu sterylizacji produkty będą sterylne.",
+      "wskaźniki chemiczne i biologiczne osiągną prawidłowy wynik.",
+      "załadunek komory sterylizatora jest prawidłowy.",
+      "w komorze sterylizatora osiągnięto warunki do skutecznej sterylizacji."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 143,
+    "text": "Porównaj spis zestawu narzędzi ginekologicznych, w którego skład wchodzą po dwie sztuki: kulociągów, klemów okienkowych, łyżeczek skrobaczek, wzierników Cusco z zamieszczoną ilustracją zestawu. W zestawie na ilustracji brakuje",
+    "answers": [
+      "dwóch kulociągów i jednego klemu okienkowego.",
+      "dwóch łyżek skrobaczek i jednego wziernika Cusco.",
+      "dwóch klemów okienkowych i jednej łyżki skrobaczki.",
+      "dwóch wzierników Cusco i jednego kulociągu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_zestaw2.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 144,
+    "text": "Test przedstawiony na ilustracji, przebarwia się na kolor czarny w procesie dezynfekcji termicznej, gdy wartość A0 wynosi",
+    "answers": [
+      "≤3000",
+      "≥60",
+      "≤600",
+      "≥6000"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_test8.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 145,
+    "text": "Metodą odpowiednią do sterylizacji materiałów opatrunkowych jest sterylizacja",
+    "answers": [
+      "tlenkiem etylenu oraz parą wodną.",
+      "kwasem nadoctowym oraz tlenkiem etylenu.",
+      "nadtlenkiem wodoru oraz parą wodną.",
+      "nadtlenkiem wodoru oraz kwasem nadoctowym."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 146,
+    "text": "Zmiany korozyjne na narzędziu chirurgicznym w początkowej fazie korozji wżerowej mają wygląd",
+    "answers": [
+      "rdzawych przebarwień w szczelinach, spoinach, miejscach łączeń różnych elementów.",
+      "brązowych przebarwień wokół wytartego do metalu miejsca.",
+      "rys, pęknięć i złamań.",
+      "ukłuć igłą otoczonych rdzawo-brązowymi osadami."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 147,
+    "text": "Nieprawidłowy wynik testu szczelności może wskazywać na",
+    "answers": [
+      "użycie niewłaściwych wskaźników chemicznych.",
+      "złą jakość wody.",
+      "nieprawidłowy załadunek komory.",
+      "zużycie uszczelek drzwi."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 148,
+    "text": "Podczas rutynowej kontroli jakości mediów zasilających myjnię-dezynfektor do narzędzi chirurgicznych, wskazane jest wykonanie badania",
+    "answers": [
+      "pozostałości środków chemicznych na narzędziach po procesie.",
+      "mikrobiologicznego wody demineralizowanej.",
+      "przewodności i wartości pH wody.",
+      "fizyko-chemiczne wody wodociągowej."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 149,
+    "text": "Ilustracja przedstawia zapis kontroli parametrycznej procesu sterylizacji",
+    "answers": [
+      "tlenkiem etylenu przebiegającego w podciśnieniu.",
+      "tlenkiem etylenu przebiegającego w nadciśnieniu.",
+      "parowej z głęboką próżnią wstępną.",
+      "parowej z frakcjonowaną próżnią wstępną."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_zapis2.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 150,
+    "text": "Których z przedstawionych na ilustracjach wyrobów nie można poddawać myciu i dezynfekcji w myjni-dezynfektorze dla narzędzi chirurgicznych?",
+    "answers": [
+      "Wyrobów: 1, 2.",
+      "Wyrobów: 1, 4.",
+      "Wyrobów: 2, 3.",
+      "Wyrobów: 3, 4."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_wyroby7.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 151,
+    "text": "Przedstawiony na ilustracji wskaźnik chemiczny reaguje",
+    "answers": [
+      "na wszystkie parametry krytyczne procesu.",
+      "po osiągnięciu wszystkich parametrów krytycznych określonych dla danych cykli sterylizacji.",
+      "na dwa lub więcej parametrów krytycznych procesu.",
+      "po osiągnięciu jednego z parametrów krytycznych procesu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_wskaznik9.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 152,
+    "text": "Zgodnie z klasyfikacją Spauldinga minimalny zakres działania biobójczego preparatu stosowanego do dezynfekcji sprzętu z grupy ryzyka, do której należą stetoskopy, obejmuje",
+    "answers": [
+      "B, F, V – bezosłonkowe.",
+      "B, F, V – osłonkowe.",
+      "B, V, F, Tbc, S.",
+      "B, V, F, Tbc."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 153,
+    "text": "Określ prawidłowy sposób postępowania z kontenerami poddawanymi procesowi mycia i dezynfekcji maszynowej.",
+    "answers": [
+      "Papierowe filtry należy usunąć po procesie mycia i dezynfekcji.",
+      "Pokrywę kontenera należy myć wewnętrzną stroną do dołu.",
+      "Wanna kontenera musi być ustawiona w myjni otworem do góry.",
+      "Kontenery mogą być myte i dezynfekowane, gdy są zamknięte pokrywą."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 154,
+    "text": "Konserwacji olejem na bazie parafiny wymagają",
+    "answers": [
+      "retraktory brzuszne.",
+      "wzierniki uszne.",
+      "dłuta kostne.",
+      "łyżeczki kostne."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 155,
+    "text": "Która metoda sterylizacji negatywnie wpływa na jakość wyrobów medycznych z bawełny?",
+    "answers": [
+      "Parą wodną pod ciśnieniem.",
+      "Suchym gorącym powietrzem.",
+      "Radiacyjna.",
+      "Tlenkiem etylenu."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 156,
+    "text": "W pakietach z zestawami narzędzi ze stali nierdzewnej umieszczane są wskaźniki chemiczne typu",
+    "answers": [
+      "2, 3, 4",
+      "1, 2, 3",
+      "4, 5, 6",
+      "2, 4, 5"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 157,
+    "text": "Na przedstawionym na ilustracji haku chirurgicznym może wystąpić korozjaNa przedstawionym na ilustracji haku chirurgicznym może wystąpić korozja",
+    "answers": [
+      "szczelinowa i wżerowa.",
+      "cierna i powierzchniowa.",
+      "powierzchniowa i wżerowa.",
+      "naprężeniowa i cierna."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_hak2.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 158,
+    "text": "W spisie zestawu haków chirurgicznych znajdują się po 2 sztuki haków chirurgicznych: Langenbeck, rozwieraczy, Farabeuf i dwuzębnych. W przedstawionym na ilustracji zestawie brakuje po 1 sztuce haka:",
+    "answers": [
+      "rozwieracza i Farabeuf.",
+      "rozwieracza i dwuzębnego.",
+      "Langenbeck i dwuzębnego.",
+      "Langenbeck i Farabeuf."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_zestaw.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 159,
+    "text": "Do powstania korozji naprężeniowej doprowadza sterylizowanie narzędzi przegubowych",
+    "answers": [
+      "otwartych.",
+      "bez opakowania.",
+      "zamkniętych na ostatni ząbek.",
+      "zamkniętych na pierwszy ząbek."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 160,
+    "text": "W które opakowanie sterylizacyjne należy zapakować wyroby medyczne zakwalifikowane do sterylizacji nadtlenkiem wodoru?",
+    "answers": [
+      "Rękaw Tyvec-folia.",
+      "Dwie warstwy rękawa poliamidowego.",
+      "Pojemnik sterylizacyjny z filtrem papierowym.",
+      "Dwie warstwy papieru krepowanego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 161,
+    "text": "W przedstawionym na ilustracji przebiegu procesu dezynfekcji maszynowej, do mycia stosowany jest środek",
+    "answers": [
+      "enzymatyczny.",
+      "alkaliczny.",
+      "neutralny.",
+      "kwaśny."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_wykres2.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 162,
+    "text": "Narzędzie chirurgiczne wielorazowego użycia z korozją naprężeniową należy",
+    "answers": [
+      "wycofać z użycia.",
+      "poddać utylizacji.",
+      "skontrolować po kolejnym użyciu.",
+      "poddać procesowi sterylizacji."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 163,
+    "text": "Substancjami rozpuszczonymi w wodzie powodującymi korozję wżerową narzędzi chirurgicznych ze stali nierdzewnej są",
+    "answers": [
+      "chlorki.",
+      "krzemiany.",
+      "żelaziany.",
+      "fosforany."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 164,
+    "text": "W procesie sterylizacji parowej minimalny czas ekspozycji w temperaturze 121°C wynosi",
+    "answers": [
+      "3,5 minuty.",
+      "20 minut.",
+      "5,3 minuty.",
+      "15 minut."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 165,
+    "text": "Zgodnie z klasyfikacją Spauldinga wyroby wysokiego ryzyka należy poddać",
+    "answers": [
+      "sterylizacji lub dezynfekcji wysokiego stopnia.",
+      "dezynfekcji wysokiego stopnia.",
+      "sterylizacji.",
+      "dezynfekcji średniego lub niskiego stopnia."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 166,
+    "text": "Której zasady należy przestrzegać wykonując dezynfekcję manualną narzędzi?",
+    "answers": [
+      "Zawsze należy przedłużać czas kontaktu narzędzi ze środkiem dezynfekcyjnym.",
+      "Po wymaganym czasie ekspozycji odsączyć narzędzia przy użyciu sita.",
+      "Nie otwierać narzędzi przegubowych, jeżeli wizualnie są czyste.",
+      "Nie używać ponownie roztworu nawet, jeśli producent dopuszcza taką możliwość."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 167,
+    "text": "Roztwory wodne poddawane są sterylizacji",
+    "answers": [
+      "parą wodną.",
+      "nadtlenkiem wodoru oraz parowo-formaldehydowej.",
+      "parą wodną oraz tlenkiem etylenu.",
+      "tlenkiem etylenu."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 168,
+    "text": "Do higienicznej dezynfekcji rąk stosowany jest preparat",
+    "answers": [
+      "o działaniu sporobójczym.",
+      "na bazie aldehydu.",
+      "na bazie alkoholu.",
+      "o działaniu bakteriostatycznym."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 169,
+    "text": "Kontrola dezynfekcji termicznej odbywa się poprzez monitorowanie temperatury oraz",
+    "answers": [
+      "czasu dezynfekcji i wartości A0.",
+      "czasu mycia i ciśnienia wody.",
+      "czasu dezynfekcji i stężenia środka dezynfekcyjnego.",
+      "wartości A0 i stężenia środka dezynfekcyjnego."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 170,
+    "text": "Fartuchy operacyjne pakowane są po 6 sztuk do kontenerów o pojemności 1STE, a następnie poddawane sterylizacji w sterylizatorze o pojemności 4STE, zawsze przy pełnym załadunku. W ilu cyklach odbędzie się sterylizacja 480 fartuchów?",
+    "answers": [
+      "W 20 cyklach.",
+      "W 10 cyklach.",
+      "W 40 cyklach.",
+      "W 80 cyklach."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 171,
+    "text": "Cena 100 arkuszy papieru krepowanego wynosi 40 zł. Cena 1 metra taśmy wskaźnikowej wynosi 0,10 zł. Do zaklejenia pakietu zużywa się 50 cm taśmy. Ile wyniesie koszt przygotowania jednego pakietu zapakowanego w dwa arkusze papieru krepowanego zaklejonego 50 cm taśmy?",
+    "answers": [
+      "0,45 zł",
+      "0,85 zł",
+      "0,50 zł",
+      "5,05 zł"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 172,
+    "text": "Do dezynfekcji termicznej basenów szpitalnych i kaczek minimalna wartość A0 powinna wynosić",
+    "answers": [
+      "6 000",
+      "60",
+      "600",
+      "3 000"
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 173,
+    "text": "Wskaż ilustrację, na której przedstawiony jest prawidłowy załadunek instrumentarium do myjni dezynfektora.",
+    "answers": [
+      "Ilustracja 2.",
+      "Ilustracja 1.",
+      "Ilustracja 3.",
+      "Ilustracja 4."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_ilustracje6.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 174,
+    "text": "Zgodnie z normą PN EN ISO 15883 dotyczącą myjni dezynfektorów, do dezynfekcji termostabilnych wyrobów medycznych zalecana jest metoda",
+    "answers": [
+      "chemiczna przez spryskiwanie.",
+      "termiczna.",
+      "chemiczna przez zanurzanie.",
+      "chemiczno-termiczna."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 175,
+    "text": "Jeden z symboli przedstawionych na ilustracji informuje, że wyrób",
+    "answers": [
+      "należy zapakować.",
+      "jest sterylny.",
+      "nie zawiera lateksu.",
+      "jest dwukrotnego użycia."
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_ilustracja3.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 176,
+    "text": "Które wymagania nie dotyczą pojemników sterylizacyjnych przeznaczonych do sterylizacji parą wodną?",
+    "answers": [
+      "Powinny mieścić się w jednostce wsadu (300 mm x 300 mm x 600 mm).",
+      "Powinny być przeznaczone do sterylizacji następnie transportu oraz przechowywania sterylizowanych wyrobów.",
+      "Powinny zapewniać odpowiednie suszenie.",
+      "Powinny być napełniane do 1/2 objętości."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 177,
+    "text": "Zgodnie z przedstawionymi na ilustracji zaleceniami producenta, wyrób można przechowywać w temperaturze oraz wilgotności powietrza, odpowiednio",
+    "answers": [
+      "20°C oraz 30%",
+      "20°C oraz 60%",
+      "20°C oraz 40%",
+      "30°C oraz 40%"
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_ilustracja4.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 178,
+    "text": "Na podstawie oceny zapisu kontroli parametrycznej, prawidłowego wyniku wskaźnika biologicznego oraz wskaźnika chemicznego, powinno odbywać się zwalnianie każdego wsadu zawierającego",
+    "answers": [
+      "miarki.",
+      "wiertła kostne.",
+      "przymiary.",
+      "wkręty kostne."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 179,
+    "text": "Wskaźnik przedstawiony na ilustracji powinien",
+    "answers": [
+      "być rozpuszczalny w roztworze detergentu.",
+      "być rozpuszczalny w roztworze preparatu dezynfekcyjnego.",
+      "zmienić barwę po osiągnięciu w fazie dezynfekcji wartości A0 ≥ 6000.",
+      "zmienić barwę po osiągnięciu w fazie dezynfekcji wartości A0 = 3000."
+    ],
+    "correctAnswerIndex": 2,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_wskaznik3.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 180,
+    "text": "Do kontroli procesu sterylizacji parą wodną w przyrządzie testowym procesu umieszcza się wskaźnik chemiczny typu",
+    "answers": [
+      "5",
+      "1",
+      "3",
+      "4"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 181,
+    "text": "Na ilustracji przedstawiono fragment",
+    "answers": [
+      "etykiety pakietu.",
+      "protokołu zdawczego.",
+      "karty dekontaminacji narzędzi.",
+      "protokołu niezgodności."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_ilustracja2.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 182,
+    "text": "Zgodnie z aktualnymi ogólnymi wytycznymi sterylizacji, ustanowionymi w 2017 roku, między użyciem narzędzi a ich dekontaminacją nie powinno upłynąć więcej niż",
+    "answers": [
+      "3 godziny.",
+      "6 godzin.",
+      "5 godzin.",
+      "4 godziny."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 183,
+    "text": "Nitrylowe jednorazowe rękawiczki z wydłużonym mankietem należy zakładać podczas",
+    "answers": [
+      "mycia narzędzi.",
+      "wyładunku narzędzi ze sterylizatora.",
+      "pakowania narzędzi.",
+      "załadunku narzędzi do sterylizatora."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 184,
+    "text": "Po zmieszaniu 10 ml koncentratu środka dezynfekcyjnego i 990 ml wody otrzymany roztwór będzie miał stężenie",
+    "answers": [
+      "1%",
+      "10%",
+      "0,1%",
+      "0,01%"
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 185,
+    "text": "Kontrola ramion spryskujących oraz stanu filtra na dnie komory dotyczy",
+    "answers": [
+      "myjni-dezynfektora.",
+      "sterylizatora plazmowego.",
+      "sterylizatora parowego.",
+      "myjni ultradźwiękowej."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 186,
+    "text": "Na ilustracji przedstawiono endoskop giętki podczas wykonywania",
+    "answers": [
+      "testu szczelności.",
+      "wstępnego mycia.",
+      "dezynfekcji manualnej.",
+      "załadunku do myjni."
+    ],
+    "correctAnswerIndex": 0,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_endoskop2.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 187,
+    "text": "Zestawy ginekologiczne zapakowano w 1 jedną warstwę papieru sterylizacyjnego i w 1 warstwę włókniny. Cena 100 szt. papieru wynosi 150 zł, a włókniny 160 zł. Jaki będzie koszt zapakowania 50 zestawów ginekologicznych?",
+    "answers": [
+      "70 zł",
+      "85 zł",
+      "155 zł",
+      "310 zł"
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 188,
+    "text": "Do sporządzenia 8 litrów 2,5% roztworu roboczego należy użyć",
+    "answers": [
+      "20 ml środka dezynfekcyjnego i 8 000 ml wody.",
+      "200 ml środka dezynfekcyjnego i 8 000 ml wody.",
+      "20 ml środka dezynfekcyjnego i 7 980 ml wody.",
+      "200 ml środka dezynfekcyjnego i 7 800 ml wody."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 189,
+    "text": "Wskaż prawidłowe postępowanie z kontenerami poddawanymi procesowi mycia i dezynfekcji maszynowej.",
+    "answers": [
+      "Pokrywa kontenera musi być ustawiona w myjni wewnętrzną stroną do dołu.",
+      "Wanna kontenera musi być ustawiona w myjni otworem do góry.",
+      "Papierowe filtry należy usunąć po procesie mycia i dezynfekcji.",
+      "Kontenery mogą być myte i dezynfekowane, gdy są zamknięte pokrywą."
+    ],
+    "correctAnswerIndex": 0,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 190,
+    "text": "Zgodnie z klasyfikacją Spauldinga minimalny zakres działania biobójczego środka dezynfekcyjnego do dezynfekcji narzędzia przedstawionego na ilustracji powinien obejmować",
+    "answers": [
+      "B, F, V-osłonkowe",
+      "B, Tbc, V-bezosłonkowe",
+      "B, V, Tbc",
+      "B, V, F, Tbc"
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_narzedzie10.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 191,
+    "text": "Nieprawidłowy wynik automatycznego testu szczelności sterylizatora parowego może wskazywać na",
+    "answers": [
+      "nieodpowiednią jakość wody.",
+      "użycie niewłaściwych wskaźników chemicznych.",
+      "zużycie uszczelek drzwi sterylizatora.",
+      "nieprawidłowy załadunek komory sterylizatora."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 192,
+    "text": "Zgodnie z przedstawionym Holenderskim systemem oceny punktowej pakietów, pakiet zapakowany w rękaw papierowo-foliowy przechowywany w zamkniętej szafie w pokoju zabiegowym będzie miał dopuszczalny czas przechowywania",
+    "answers": [
+      "12 miesięcy.",
+      "6 miesięcy.",
+      "1 miesiąc.",
+      "3 miesiące."
+    ],
+    "correctAnswerIndex": 3,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_tabele2.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 193,
+    "text": "Zgodnie z klasyfikacją Spauldinga, maski twarzowe do aparatów Ambu zaliczane są do wyrobów",
+    "answers": [
+      "niskiego ryzyka.",
+      "średniego ryzyka.",
+      "minimalnego ryzyka.",
+      "wysokiego ryzyka."
+    ],
+    "correctAnswerIndex": 1,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 194,
+    "text": "Które z narzędzi przedstawionych na ilustracjach należy poddać sterylizacji parą wodną?",
+    "answers": [
+      "2,3,4",
+      "1,3,4",
+      "1,2,3",
+      "1,2,4"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_narzedzia3.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 195,
+    "text": "Wskaźnik chemiczny do kontroli parametrów dezynfekcji termicznej w myjni-dezynfektorze przedstawiony jest na ilustracji",
+    "answers": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_ilustracje5.png"
+    },
+    "category": "MED.12"
+  },
+  {
+    "id": 196,
+    "text": "Zmiennymi krytycznymi wymagającymi monitorowania dla sterylizacji nadtlenkiem wodoru są: czas, temperatura oraz",
+    "answers": [
+      "stężenie formaldehydu, wilgotność.",
+      "ciśnienie, obecność pary.",
+      "stężenie.",
+      "wilgotność względna."
+    ],
+    "correctAnswerIndex": 2,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 197,
+    "text": "Wskaż opakowanie sterylizacyjne, w które należy zapakować zestaw narzędzi chirurgicznych sterylizowanych w temperaturze 134°C.",
+    "answers": [
+      "Rękaw poliamidowy.",
+      "Rękaw Tyvec-folia.",
+      "Dwie warstwy włókniny z polipropylenu (bezcelulozowej).",
+      "Dwie warstwy papieru krepowanego."
+    ],
+    "correctAnswerIndex": 3,
+    "media": null,
+    "category": "MED.12"
+  },
+  {
+    "id": 198,
+    "text": "Które wyroby medyczne przedstawione na ilustracjach wymagają konserwacji olejem na bazie parafiny?",
+    "answers": [
+      "1, 3",
+      "2, 4",
+      "2, 3, 4",
+      "1, 3, 4"
+    ],
+    "correctAnswerIndex": 1,
+    "media": {
+      "type": "image",
+      "uri": "med12/z20_wyroby4.png"
+    },
+    "category": "MED.12"
+  }
+]
