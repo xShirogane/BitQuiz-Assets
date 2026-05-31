@@ -2709,7 +2709,7 @@
   },
   {
     "id": 194,
-    "text": "Poniżej przedstawiono tabelę z różnymi typami przekazów. Wskaż, który typ przekazu jest najbardziej odpowiedni do promowania nowego produktu na rynku. Typ przekazu Cel Reklama Przekonanie odbiorców do określonego produktu lub usługi Informacja Dostarczenie rzetelnych i obiektywnych danych na określony temat Propaganda Wpływanie na opinie lub zachowania odbiorcy w kontekście politycznym lub społecznym Dzieło sztuki Wyrażanie emocji, idei lub wizji artysty",
+    "text": "Poniżej przedstawiono tabelę z różnymi typami przekazów. Wskaż, który typ przekazu jest najbardziej odpowiedni do promowania nowego produktu na rynku.",
     "answers": [
       "Reklama",
       "Propaganda",
@@ -2717,7 +2717,10 @@
       "Informacja"
     ],
     "correctAnswerIndex": 0,
-    "media": null,
+    "media": {
+      "type": "image",
+      "uri": "pgf07/V5U0SP0A/tabela.png"
+    },
     "category": "PGF.7",
     "source": "V5U0SP0A"
   },
