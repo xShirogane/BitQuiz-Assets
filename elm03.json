@@ -284,7 +284,7 @@
       "napięcie zasilania 20 V AC i prąd pracy 0,02 A",
       "napięcie zasilania 15 V DC i prąd pracy 0,02 A"
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 0,
     "media": {
       "type": "image",
       "uri": "elm03/ee2_tabela27.png"
