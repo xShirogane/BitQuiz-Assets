@@ -2527,12 +2527,12 @@
     "id": 182,
     "text": "Na której ilustracji przedstawiono bazylię?",
     "answers": [
-      "",
-      "",
-      "",
-      ""
+      "A",
+      "B",
+      "C",
+      "D"
     ],
-    "correctAnswerIndex": 3,
+    "correctAnswerIndex": 0,
     "media": {
       "type": "image",
       "uri": "hgt02/tg7_ilustracje.png"
