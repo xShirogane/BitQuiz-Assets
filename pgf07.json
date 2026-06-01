@@ -5830,7 +5830,7 @@
   },
   {
     "id": 415,
-    "text": "Dział Zadania",
+    "text": "Wskaż, który dział jest odpowiedzialny za realizację materiałów reklamowych",
     "answers": [
       "Dział D",
       "Dział C",
@@ -5838,7 +5838,10 @@
       "Dział A"
     ],
     "correctAnswerIndex": 1,
-    "media": null,
+     "media": {
+      "type": "image",
+      "uri": "pgf07/PJM65WHH/15.png"
+    },
     "category": "PGF.7",
     "source": "PJM65WHH"
   },
