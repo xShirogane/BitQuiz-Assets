@@ -4547,7 +4547,7 @@
   },
   {
     "id": 324,
-    "text": "Technika Zastosowanie",
+    "text": "Dopasuj techniki grafiki komputerowej do ich odpowiednich zastosowań.",
     "answers": [
       "A-2, B-1, C-4, D-3",
       "A-4, B-1, C-3, D-2",
@@ -4555,7 +4555,10 @@
       "A-2, B-1, C-3, D-4"
     ],
     "correctAnswerIndex": 3,
-    "media": null,
+     "media": {
+      "type": "image",
+      "uri": "pgf07/USNWBXPR/4.png"
+    },
     "category": "PGF.7",
     "source": "USNWBXPR"
   },
