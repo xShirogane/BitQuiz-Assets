@@ -1373,7 +1373,7 @@
   },
   {
     "id": 99,
-    "text": "Zidentyfikuj, które z poniższych narzędzi promocji są narzędziami bezpośrednimi, w oparciu o tabelę poniżej: Narzędzie promocji Email marketing Billboardy Telemarketing Reklama telewizyjna",
+    "text": "Zidentyfikuj, które z poniższych narzędzi promocji są narzędziami bezpośrednimi, w oparciu o tabelę poniżej:",
     "answers": [
       "Billboardy i reklama telewizyjna",
       "Telemarketing i reklama telewizyjna",
@@ -1381,7 +1381,10 @@
       "Email marketing i billboardy"
     ],
     "correctAnswerIndex": 2,
-    "media": null,
+     "media": {
+      "type": "image",
+      "uri": "pgf07/PLMDU2DS/19.png"
+    },
     "category": "PGF.7",
     "source": "PLMDU2DS"
   },
@@ -1684,15 +1687,18 @@
   },
   {
     "id": 121,
-    "text": "Które z poniższych stwierdzeń najlepiej opisuje zalety reklamy cyfrowej? # A B C D 1 Reklama cyfrowa Reklama cyfrowa Reklama cyfrowa Wszystkie jest tańsza niż pozwala na łatwe pozwala na powyższe tradycyjna. śledzenie skierowanie wyników. przekazu do konkretnych grup docelowych.",
+    "text": "Które z poniższych stwierdzeń najlepiej opisuje zalety reklamy cyfrowej?",
     "answers": [
-      "Odpowiedź 1",
-      "Odpowiedź 4",
-      "Odpowiedź 2",
-      "Odpowiedź 3"
+      "Odpowiedź A",
+      "Odpowiedź D",
+      "Odpowiedź B",
+      "Odpowiedź C"
     ],
     "correctAnswerIndex": 1,
-    "media": null,
+     "media": {
+      "type": "image",
+      "uri": "pgf07/U2052B01/1.png"
+    },
     "category": "PGF.7",
     "source": "U2052B01"
   },
@@ -5917,7 +5923,7 @@
   },
   {
     "id": 421,
-    "text": "Zobacz poniższą tabelę, która przedstawia różne typy mediów i ich skuteczność w dotarciu do różnych grup wiekowych. Wybierz najbardziej efektywny typ medium do dotarcia do grupy wiekowej 18-24 lata. Typ medium 18-24 lata 25-34 lata 35-44 lata 45-54 lata 55+ lata Reklama 50% 60% 70% 80% 90% telewizyjna Reklama 40% 50% 60% 70% 80% radiowa Reklama w 30% 40% 50% 60% 70% prasie Reklama 80% 70% 60% 50% 40% online",
+    "text": "Zobacz poniższą tabelę, która przedstawia różne typy mediów i ich skuteczność w dotarciu do różnych grup wiekowych. Wybierz najbardziej efektywny typ medium do dotarcia do grupy wiekowej 18-24 lata.",
     "answers": [
       "Reklama telewizyjna",
       "Reklama online",
@@ -5925,7 +5931,10 @@
       "Reklama radiowa"
     ],
     "correctAnswerIndex": 1,
-    "media": null,
+     "media": {
+      "type": "image",
+      "uri": "pgf07/PJM65WHH/21.png"
+    },
     "category": "PGF.7",
     "source": "PJM65WHH"
   },
