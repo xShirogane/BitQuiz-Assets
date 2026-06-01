@@ -3446,7 +3446,7 @@
   },
   {
     "id": 246,
-    "text": "Forma reklamy Opis",
+    "text": "Na podstawie powyższej tabeli, która forma reklamy audio jest najbardziej odpowiednia do docierania do młodych ludzi, którzy spędzają dużo czasu online?",
     "answers": [
       "Wszystkie są równie odpowiednie",
       "Digital audio",
@@ -3454,7 +3454,10 @@
       "Podcast"
     ],
     "correctAnswerIndex": 1,
-    "media": null,
+    "media": {
+      "type": "image",
+      "uri": "pgf07/D8F1XZDL/tabelka2.png"
+    },
     "category": "PGF.7",
     "source": "D8F1XZDL"
   },
