@@ -623,15 +623,15 @@
     "id": 42,
     "text": "Na schemacie blokowym przekształtnika energoelektronicznego zastosowanego w napędzie mechatronicznym cyframi oznaczono podzespoły",
     "answers": [
-      "",
-      "",
-      "",
-      ""
+      "1 – prostownik niesterowany, 2 – filtr, 3 – falownik.",
+      "1 – prostownik niesterowany, 2 – falownik, 3 – filtr.",
+      "1 – falownik, 2 – prostownik niesterowany, 3 – filtr.",
+      "1 – falownik, 2 – filtr, 3 – prostownik niesterowany."
     ],
-    "correctAnswerIndex": 3,
+    "correctAnswerIndex": 0,
     "media": {
       "type": "image",
-      "uri": "elm03/ee2_schemat7.png"
+      "uri": "elm03/blok.png"
     },
     "category": "ELM.03"
   },
