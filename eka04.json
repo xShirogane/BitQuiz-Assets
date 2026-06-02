@@ -945,12 +945,12 @@
     "id": 67,
     "text": "Na podstawie danych zamieszczonych w tabeli ustal, w którym magazynie zapas towarów był odnawiany najczęściej.",
     "answers": [
-      "",
-      "",
-      "",
-      ""
+      "A",
+      "B",
+      "C",
+      "D"
     ],
-    "correctAnswerIndex": 3,
+    "correctAnswerIndex": 1,
     "media": {
       "type": "image",
       "uri": "eka04/au35_tabela4.png"
