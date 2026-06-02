@@ -279,12 +279,12 @@
     "id": 19,
     "text": "Czujnik indukcyjny, którego dane techniczne przedstawiono w tabeli, może pracować w układzie elektrycznym o następujących parametrach:",
     "answers": [
-      "napięcie zasilania 24 V AC i prąd pracy 0,02 A",
+      "napięcie zasilania 15 V AC i prąd pracy 0,02 A",
       "napięcie zasilania 24 V DC i prąd pracy 30 mA",
       "napięcie zasilania 20 V AC i prąd pracy 0,02 A",
-      "napięcie zasilania 15 V DC i prąd pracy 0,02 A"
+      "napięcie zasilania 24 V DC i prąd pracy 0,02 A"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "media": {
       "type": "image",
       "uri": "elm03/ee2_tabela27.png"
