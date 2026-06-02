@@ -3514,19 +3514,6 @@
     "category": "INF.02"
   },
   {
-    "id": 254,
-    "text": "Które zmiany w funkcjonowaniu organizmu w płaszczyźnie fizjologicznej może powodować stres?",
-    "answers": [
-      "Rozdrażnienie.",
-      "Odczuwanie lęku.",
-      "Przyśpieszony puls.",
-      "Poczucie osamotnienia."
-    ],
-    "correctAnswerIndex": 2,
-    "media": null,
-    "category": "INF.02"
-  },
-  {
     "id": 255,
     "text": "Ile par przewodów skrętki miedzianej kategorii 5e wykorzystuje się do transmisji danych w standardzie sieci Ethernet 100Base-TX?",
     "answers": [
