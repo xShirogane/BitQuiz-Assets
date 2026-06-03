@@ -2645,12 +2645,12 @@
     "id": 195,
     "text": "Wskaźnik chemiczny do kontroli parametrów dezynfekcji termicznej w myjni-dezynfektorze przedstawiony jest na ilustracji",
     "answers": [
-      "",
-      "",
-      "",
-      ""
+      "A",
+      "B",
+      "C",
+      "D"
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 0,
     "media": {
       "type": "image",
       "uri": "med12/z20_ilustracje5.png"
