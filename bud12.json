@@ -3147,12 +3147,12 @@
     "id": 214,
     "text": "Wskaż oznaczenie graficzne zaprawy stosowane na rysunkach budowlanych.",
     "answers": [
-      "",
-      "",
-      "",
-      ""
+      "A",
+      "B",
+      "C",
+      "D"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 1,
     "media": {
       "type": "image",
       "uri": "bud12/bd14_oznaczenia.png"
