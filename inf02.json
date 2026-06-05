@@ -5883,19 +5883,6 @@
     "category": "INF.02"
   },
   {
-    "id": 425,
-    "text": "Pracownik rozlał w pracy substancję żrącą, wskutek czego uszkodził stojący na stole mikroskop i swoją odzież. Zdarzenie to jest:",
-    "answers": [
-      "Zdarzeniem traktowanym na równi z wypadkiem przy pracy",
-      "Wypadkiem przy pracy",
-      "Wypadkiem zbiorowym",
-      "Zdarzeniem potencjalnie wypadkowym"
-    ],
-    "correctAnswerIndex": 1,
-    "media": null,
-    "category": "INF.02"
-  },
-  {
     "id": 426,
     "text": "Wypadek śmiertelny przy pracy to wypadek, w którego wyniku nastąpiła śmierć poszkodowanego pracownika",
     "answers": [
@@ -5905,19 +5892,6 @@
       "Na miejscu zdarzenia lub w trakcie leczenia w szpitalu, do którego został przewieziony bezpośrednio po wypadku"
     ],
     "correctAnswerIndex": 3,
-    "media": null,
-    "category": "INF.02"
-  },
-  {
-    "id": 427,
-    "text": "Chorobą zawodową najczęściej występującą wśród pracowników kuźni jest/są",
-    "answers": [
-      "Przewlekła choroba narządu głosu",
-      "Uszkodzenia słuchu",
-      "Pylica płuc",
-      "Choroby zakaźne"
-    ],
-    "correctAnswerIndex": 1,
     "media": null,
     "category": "INF.02"
   },
