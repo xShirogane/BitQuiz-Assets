@@ -655,11 +655,14 @@
   },
   {
     "id": 49,
-    "text": "Czerwone przecinające się linie na zdjęciu pokazują sposób kadrowania obrazu przez zastosowanie reguły * zdający otrzymuje jeden punkt niezależnie od udzielonej odpowiedzi.",
+    "text": "Czerwone przecinające się linie na zdjęciu pokazują sposób kadrowania obrazu przez zastosowanie reguły.",
     "answers": [
-      "trójkąta. \nB.  przekątnej. \nC.  złotej spirali. \nD.  złotego podziału."
+      "trójkąta",
+      "przekątnej",
+      "złotej spirali",
+      "trójpodziału"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "media": {
       "type": "image",
       "uri": "pgf04/au54_zdjecie4.png"
