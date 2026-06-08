@@ -1948,12 +1948,12 @@
     "id": 143,
     "text": "Który rower sprzedawca powinien polecić klientce szukającej sprzętu dla 10-letniego dziecka o wzroście 140 cm i wysokości kroku 58 cm?",
     "answers": [
-      "",
-      "",
-      "",
-      ""
+      "A",
+      "B",
+      "C",
+      "D"
     ],
-    "correctAnswerIndex": 1,
+    "correctAnswerIndex": 2,
     "media": {
       "type": "image",
       "uri": "han01/au20_tabela7.png"
@@ -1993,12 +1993,12 @@
     "id": 146,
     "text": "Który schemat przedstawia rozmieszczenie towarów na regale sprzedażowym według grup asortymentowych oraz masy?",
     "answers": [
-      "",
-      "",
-      "",
-      ""
+      "A",
+      "B",
+      "C",
+      "D"
     ],
-    "correctAnswerIndex": 0,
+    "correctAnswerIndex": 3,
     "media": {
       "type": "image",
       "uri": "han01/au20_tabela6.png"
@@ -2022,12 +2022,12 @@
     "id": 148,
     "text": "Która z przedstawionych etykiet umieszczonych przy towarze oferowanym w sklepie spożywczym została sporządzona właściwie?",
     "answers": [
-      "",
-      "",
-      "",
-      ""
+      "A",
+      "B",
+      "C",
+      "D"
     ],
-    "correctAnswerIndex": 2,
+    "correctAnswerIndex": 3,
     "media": {
       "type": "image",
       "uri": "han01/au20_tabela4.png"
